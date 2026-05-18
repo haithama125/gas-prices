@@ -8,7 +8,18 @@ A US gas prices dashboard the user is building as their second coding project. T
 - `news/index.html` — recent gas/oil news via NewsAPI (v2)
 - `dashboard/index.html` — national average, top/bottom states, charts via Chart.js (v2)
 
-The eventual "click anywhere in the world" vision is gated on finding free international price data, which doesn't really exist. **Start US-only**, structure code so other countries can plug in later.
+The eventual "click anywhere in the world" vision needs a small backend service — the user rents Hetzner servers and is willing to host one. The plan is to ship US-only first as a pure static page (browser → EIA directly), then layer in a backend for international coverage and finer-grain US data. See **Roadmap** below.
+
+## Roadmap (build in slices)
+
+Ship one working slice at a time — don't try to build the whole vision before anything works in the browser.
+
+1. **US states + metros (EIA)** — Click a state shape → state-level or PADD regional retail gasoline price. Click one of ~10 metro pins (Boston, Chicago, Cleveland, Denver, Houston, LA, Miami, NYC, SF, Seattle) → city retail price. *No backend — direct browser fetch from EIA v2 API.*
+2. **EU countries (Oil Bulletin)** — Click an EU country → weekly retail price. *Small Hetzner service downloads the EU's free Weekly Oil Bulletin XLS each week, serves cached JSON to the frontend.*
+3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
+4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
+
+Currently in: **Slice 1**.
 
 ## Stack
 - Plain HTML, CSS, vanilla JavaScript — no frameworks, no build tools, no `package.json`

@@ -14,6 +14,7 @@
     body {
       margin: 0;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #1a1a1a;  /* matches header — any briefly-blank edges look intentional */
     }
 
     header {
@@ -38,6 +39,51 @@
       height: calc(100vh - 78px);
       width: 100%;
     }
+
+    /* Dark popup styling. Leaflet renders the popup as a white "wrapper"
+       with a little triangle "tip" — both need the same dark background. */
+    .leaflet-popup-content-wrapper,
+    .leaflet-popup-tip {
+      background: #1f2937;     /* dark slate */
+      color: #e5e7eb;          /* light gray text */
+    }
+    .leaflet-popup-content {
+      font-size: 0.9rem;
+      line-height: 1.4;
+    }
+    .leaflet-popup-content small {
+      color: #9ca3af;          /* muted gray for the source/date line */
+    }
+    .leaflet-popup-close-button {
+      color: #9ca3af !important;
+    }
+    /* Attribution links at the bottom of the map */
+    .leaflet-container a {
+      color: #93c5fd;
+    }
+    /* Attribution background, normally white */
+    .leaflet-control-attribution {
+      background: rgba(31, 41, 55, 0.85) !important;
+      color: #d1d5db;
+    }
+
+    /* State-name labels drawn at the center of each state polygon.
+       We strip Leaflet's default tooltip chrome (white bg, border, arrow)
+       so it looks like plain text on the map. */
+    .state-label {
+      background: transparent;
+      border: none;
+      box-shadow: none;
+      color: #60a5fa;              /* same blue as the state borders */
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-shadow: 0 0 3px #000, 0 0 3px #000;  /* dark halo for readability */
+      pointer-events: none;        /* don't intercept clicks meant for the state */
+      white-space: nowrap;
+    }
+    .state-label::before {
+      display: none;                /* hide the default tooltip pointer arrow */
+    }
   </style>
 </head>
 <body>
@@ -49,27 +95,255 @@
   <div id="map"></div>
 
   <script>
-    // Create a Leaflet map inside the <div id="map"> element.
-    // setView takes [latitude, longitude] and a zoom level.
-    // These coordinates roughly center the view on the United States.
+    // ----- CONFIG -------------------------------------------------------------
+
+    // EIA API key — register for free at https://www.eia.gov/opendata/register.php
+    // (Takes ~30 seconds. They email you the key.) Paste it in the quotes below.
+    const EIA_API_KEY = "xcUs1Wmv2tgVjJBIRvMJYd6NCYvo5JTdVkJPHSjE";
+
+    // ----- DATA LOOKUPS -------------------------------------------------------
+
+    // The state-shapes GeoJSON we load below labels states by full name
+    // (e.g. "California"). EIA uses 2-letter codes, so we need this bridge.
+    const STATE_NAME_TO_CODE = {
+      "Alabama": "AL", "Alaska": "AK", "Arizona": "AZ", "Arkansas": "AR",
+      "California": "CA", "Colorado": "CO", "Connecticut": "CT", "Delaware": "DE",
+      "District of Columbia": "DC", "Florida": "FL", "Georgia": "GA", "Hawaii": "HI",
+      "Idaho": "ID", "Illinois": "IL", "Indiana": "IN", "Iowa": "IA",
+      "Kansas": "KS", "Kentucky": "KY", "Louisiana": "LA", "Maine": "ME",
+      "Maryland": "MD", "Massachusetts": "MA", "Michigan": "MI", "Minnesota": "MN",
+      "Mississippi": "MS", "Missouri": "MO", "Montana": "MT", "Nebraska": "NE",
+      "Nevada": "NV", "New Hampshire": "NH", "New Jersey": "NJ", "New Mexico": "NM",
+      "New York": "NY", "North Carolina": "NC", "North Dakota": "ND", "Ohio": "OH",
+      "Oklahoma": "OK", "Oregon": "OR", "Pennsylvania": "PA", "Rhode Island": "RI",
+      "South Carolina": "SC", "South Dakota": "SD", "Tennessee": "TN", "Texas": "TX",
+      "Utah": "UT", "Vermont": "VT", "Virginia": "VA", "Washington": "WA",
+      "West Virginia": "WV", "Wisconsin": "WI", "Wyoming": "WY",
+    };
+
+    // EIA only publishes individual state-level weekly retail prices for these
+    // ~9 states. The codes (e.g. "SCA") are EIA's "duoarea" identifiers.
+    const STATE_EIA_CODES = {
+      CA: "SCA", CO: "SCO", FL: "SFL", MA: "SMA", MN: "SMN",
+      NY: "SNY", OH: "SOH", TX: "STX", WA: "SWA",
+    };
+
+    // PADDs = "Petroleum Administration for Defense Districts" — EIA's 5
+    // regional groupings of the US. Every state belongs to exactly one.
+    // For states without their own EIA series, we fall back to the PADD avg.
+    const STATE_TO_PADD = {
+      // PADD 1 — East Coast
+      CT: "R10", DE: "R10", DC: "R10", FL: "R10", GA: "R10", ME: "R10",
+      MD: "R10", MA: "R10", NH: "R10", NJ: "R10", NY: "R10", NC: "R10",
+      PA: "R10", RI: "R10", SC: "R10", VT: "R10", VA: "R10", WV: "R10",
+      // PADD 2 — Midwest
+      IL: "R20", IN: "R20", IA: "R20", KS: "R20", KY: "R20", MI: "R20",
+      MN: "R20", MO: "R20", NE: "R20", ND: "R20", OH: "R20", OK: "R20",
+      SD: "R20", TN: "R20", WI: "R20",
+      // PADD 3 — Gulf Coast
+      AL: "R30", AR: "R30", LA: "R30", MS: "R30", NM: "R30", TX: "R30",
+      // PADD 4 — Rocky Mountain
+      CO: "R40", ID: "R40", MT: "R40", UT: "R40", WY: "R40",
+      // PADD 5 — West Coast
+      AK: "R50", AZ: "R50", CA: "R50", HI: "R50", NV: "R50", OR: "R50", WA: "R50",
+    };
+
+    const PADD_NAMES = {
+      R10: "East Coast (PADD 1)",
+      R20: "Midwest (PADD 2)",
+      R30: "Gulf Coast (PADD 3)",
+      R40: "Rocky Mountain (PADD 4)",
+      R50: "West Coast (PADD 5)",
+    };
+
+    // For states made of disconnected pieces (Virginia's Eastern Shore,
+    // Michigan's Upper Peninsula, etc.), Leaflet's auto-center for the label
+    // gets pulled toward the separated chunk. Hardcode a [lat, lng] where the
+    // label should actually sit. Add more entries here if other states look off.
+    const LABEL_OVERRIDES = {
+      "Virginia": [37.7, -78.5],   // central VA, away from the Eastern Shore
+      "Michigan": [44.3, -85.0],   // Lower Peninsula
+    };
+
+    // Major metros EIA publishes separate weekly retail prices for.
+    // The lat/lng is where the pin sits on the map.
+    const CITY_PINS = [
+      { name: "Boston",        code: "Y05BO", lat: 42.3601, lng:  -71.0589 },
+      { name: "Chicago",       code: "Y35CH", lat: 41.8781, lng:  -87.6298 },
+      { name: "Cleveland",     code: "Y05CL", lat: 41.4993, lng:  -81.6944 },
+      { name: "Denver",        code: "Y45DV", lat: 39.7392, lng: -104.9903 },
+      { name: "Houston",       code: "Y44HO", lat: 29.7604, lng:  -95.3698 },
+      { name: "Los Angeles",   code: "Y05LA", lat: 34.0522, lng: -118.2437 },
+      { name: "Miami",         code: "Y05MI", lat: 25.7617, lng:  -80.1918 },
+      { name: "New York City", code: "Y35NY", lat: 40.7128, lng:  -74.0060 },
+      { name: "San Francisco", code: "Y05SF", lat: 37.7749, lng: -122.4194 },
+      { name: "Seattle",       code: "Y48SE", lat: 47.6062, lng: -122.3321 },
+    ];
+
+    // ----- MAP SETUP ----------------------------------------------------------
+
+    // Create a Leaflet map inside the <div id="map">.
+    // setView takes [latitude, longitude] and a zoom level (4 ≈ whole US).
     const map = L.map("map").setView([39.8283, -98.5795], 4);
 
-    // Add the actual map imagery (tiles) from OpenStreetMap — free for low-traffic use.
-    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-      attribution: "&copy; OpenStreetMap contributors",
+    // Map imagery (tiles) — CARTO's "Dark Matter" theme. Free, no API key,
+    // attribution required. {s} = subdomain (load balancing), {z}/{x}/{y} =
+    // zoom + tile coordinates that Leaflet fills in automatically.
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      subdomains: "abcd",
+      maxZoom: 19,
     }).addTo(map);
 
-    // Listen for clicks on the map. When the user clicks, show a popup
-    // with the latitude/longitude of where they clicked.
-    // (Next step: replace this with a real gas price lookup.)
-    map.on("click", (e) => {
-      const { lat, lng } = e.latlng;
-      L.popup()
-        .setLatLng(e.latlng)
-        .setContent(
-          `<strong>You clicked here</strong><br>Lat: ${lat.toFixed(2)}<br>Lng: ${lng.toFixed(2)}`
-        )
-        .openOn(map);
+    // ----- EIA FETCH ----------------------------------------------------------
+
+    // Ask EIA for the most recent weekly retail price (regular gasoline = "EPMR")
+    // for the given duoarea (region) code. Returns { value, period } or null.
+    //
+    // async/await note: fetch() returns a Promise (a future value). `await` pauses
+    // this function until the Promise resolves, so we can write network code that
+    // *reads* top-to-bottom instead of nesting callbacks.
+    async function fetchPrice(duoareaCode) {
+      const url = "https://api.eia.gov/v2/petroleum/pri/gnd/data/"
+        + "?frequency=weekly"
+        + "&data[0]=value"
+        + `&facets[duoarea][]=${duoareaCode}`
+        + "&facets[product][]=EPMR"
+        + "&sort[0][column]=period"
+        + "&sort[0][direction]=desc"
+        + "&offset=0&length=1"
+        + `&api_key=${EIA_API_KEY}`;
+      try {
+        const res = await fetch(url);
+        if (!res.ok) return null;
+        const json = await res.json();
+        const row = json?.response?.data?.[0];
+        if (!row) return null;
+        return { value: parseFloat(row.value), period: row.period };
+      } catch (err) {
+        console.error("EIA fetch failed for", duoareaCode, err);
+        return null;
+      }
+    }
+
+    // Shared "key not set yet" message so the page still feels alive before
+    // the user pastes their EIA key in.
+    const KEY_MISSING_MSG = "Add your EIA API key at the top of index.html to load prices.";
+    const keyIsSet = () => EIA_API_KEY && EIA_API_KEY !== "PASTE_YOUR_KEY_HERE";
+
+    // ----- STATE SHAPES -------------------------------------------------------
+
+    // GeoJSON = states as polygons. We load a public file via the jsDelivr CDN
+    // (mirrors GitHub with proper CORS headers, unlike raw.githubusercontent.com).
+    fetch("https://cdn.jsdelivr.net/gh/PublicaMundi/MappingAPI@master/data/geojson/us-states.json")
+      .then((r) => r.json())
+      .then((data) => {
+        L.geoJSON(data, {
+          style: {
+            color: "#60a5fa",     // lighter blue outline so it shows on dark tiles
+            weight: 1,
+            fillColor: "#3b82f6",
+            fillOpacity: 0.2,
+          },
+          onEachFeature: (feature, layer) => {
+            const stateName = feature.properties.name;
+            const override = LABEL_OVERRIDES[stateName];
+            if (override) {
+              // Hand-picked position for split states (VA, MI). Standalone
+              // tooltip with explicit latlng — not bound to the polygon.
+              L.tooltip({
+                permanent: true,
+                direction: "center",
+                className: "state-label",
+              })
+                .setLatLng(override)
+                .setContent(stateName)
+                .addTo(map);
+            } else {
+              // Normal case: let Leaflet auto-center the label on the polygon.
+              // bindTooltip defers the centering math until after the layer is
+              // on the map, so it works here even though the layer isn't on the
+              // map yet at this moment in the iteration.
+              layer.bindTooltip(stateName, {
+                permanent: true,
+                direction: "center",
+                className: "state-label",
+              });
+            }
+
+            // Subtle hover: brighten the blue fill while the cursor's over the state.
+            layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
+            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
+
+            layer.on("click", async () => {
+              const stateName = feature.properties.name;
+              const stateCode = STATE_NAME_TO_CODE[stateName];
+
+              // If EIA publishes the state directly, use that. Otherwise fall
+              // back to the state's PADD regional average.
+              const stateSeries = STATE_EIA_CODES[stateCode];
+              const eiaCode = stateSeries || STATE_TO_PADD[stateCode];
+              const isFallback = !stateSeries;
+
+              const popup = L.popup()
+                .setLatLng(layer.getBounds().getCenter())
+                .setContent(`<strong>${stateName}</strong><br>Loading…`)
+                .openOn(map);
+
+              if (!keyIsSet()) {
+                popup.setContent(`<strong>${stateName}</strong><br>${KEY_MISSING_MSG}`);
+                return;
+              }
+              if (!eiaCode) {
+                popup.setContent(`<strong>${stateName}</strong><br>No EIA region mapped.`);
+                return;
+              }
+
+              const price = await fetchPrice(eiaCode);
+              if (!price) {
+                popup.setContent(`<strong>${stateName}</strong><br>No data available.`);
+                return;
+              }
+
+              const sourceLabel = isFallback
+                ? `${PADD_NAMES[eiaCode]} regional average`
+                : "State average";
+              popup.setContent(
+                `<strong>${stateName}</strong><br>` +
+                `$${price.value.toFixed(2)}/gallon<br>` +
+                `<small>${sourceLabel} · Week of ${price.period}</small>`
+              );
+            });
+          },
+        }).addTo(map);
+      })
+      .catch((err) => console.error("Failed to load state shapes", err));
+
+    // ----- CITY PINS ----------------------------------------------------------
+
+    CITY_PINS.forEach((city) => {
+      const marker = L.marker([city.lat, city.lng]).addTo(map);
+      // Initial popup text — Leaflet shows this immediately on click, then our
+      // handler swaps in the real price once the fetch resolves.
+      marker.bindPopup(`<strong>${city.name}</strong><br>Loading…`);
+
+      marker.on("click", async () => {
+        if (!keyIsSet()) {
+          marker.setPopupContent(`<strong>${city.name}</strong><br>${KEY_MISSING_MSG}`);
+          return;
+        }
+        marker.setPopupContent(`<strong>${city.name}</strong><br>Loading…`);
+        const price = await fetchPrice(city.code);
+        if (!price) {
+          marker.setPopupContent(`<strong>${city.name}</strong><br>No data available.`);
+          return;
+        }
+        marker.setPopupContent(
+          `<strong>${city.name}</strong><br>` +
+          `$${price.value.toFixed(2)}/gallon<br>` +
+          `<small>City average · Week of ${price.period}</small>`
+        );
+      });
     });
   </script>
 </body>
