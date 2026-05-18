@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gas Prices</title>
+
+  <!-- Leaflet: a free map library. Loaded from a CDN so we don't need to install anything. -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <style>
+    /* Reset default body margin so the map can fill the screen */
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+
+    header {
+      padding: 1rem 1.5rem;
+      background: #1a1a1a;
+      color: white;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 1.25rem;
+    }
+
+    header p {
+      margin: 0.25rem 0 0;
+      font-size: 0.85rem;
+      opacity: 0.7;
+    }
+
+    /* Map fills the rest of the screen below the header */
+    #map {
+      height: calc(100vh - 78px);
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Gas Prices</h1>
+    <p>Click anywhere on the map</p>
+  </header>
+
+  <div id="map"></div>
+
+  <script>
+    // Create a Leaflet map inside the <div id="map"> element.
+    // setView takes [latitude, longitude] and a zoom level.
+    // These coordinates roughly center the view on the United States.
+    const map = L.map("map").setView([39.8283, -98.5795], 4);
+
+    // Add the actual map imagery (tiles) from OpenStreetMap — free for low-traffic use.
+    L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+      attribution: "&copy; OpenStreetMap contributors",
+    }).addTo(map);
+
+    // Listen for clicks on the map. When the user clicks, show a popup
+    // with the latitude/longitude of where they clicked.
+    // (Next step: replace this with a real gas price lookup.)
+    map.on("click", (e) => {
+      const { lat, lng } = e.latlng;
+      L.popup()
+        .setLatLng(e.latlng)
+        .setContent(
+          `<strong>You clicked here</strong><br>Lat: ${lat.toFixed(2)}<br>Lng: ${lng.toFixed(2)}`
+        )
+        .openOn(map);
+    });
+  </script>
+</body>
+</html>

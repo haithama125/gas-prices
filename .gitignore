@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Secrets (we'll use this when we add an API key)
+.env
