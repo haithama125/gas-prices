@@ -15,11 +15,11 @@ The eventual "click anywhere in the world" vision needs a small backend service 
 Ship one working slice at a time — don't try to build the whole vision before anything works in the browser.
 
 1. **US states + metros (EIA)** — Click a state shape → state-level or PADD regional retail gasoline price. Click one of ~10 metro pins (Boston, Chicago, Cleveland, Denver, Houston, LA, Miami, NYC, SF, Seattle) → city retail price. *No backend — direct browser fetch from EIA v2 API.*
-2. **EU countries (Oil Bulletin)** — Click an EU country → weekly retail price. *Small Hetzner service downloads the EU's free Weekly Oil Bulletin XLS each week, serves cached JSON to the frontend.*
+2. **EU countries (Oil Bulletin)** — Click an EU country → weekly retail price. *Currently a pre-baked static JSON in `data/eu-prices.json`, refreshed by running `python3 scripts/fetch_eu_prices.py` (needs `pip install openpyxl`). The eventual Hetzner version would just be that same script behind a weekly cron.*
 3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
 4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
 
-Currently in: **Slice 1**.
+Currently in: **Slice 2 done, planning Slice 3**.
 
 ## Stack
 - Plain HTML, CSS, vanilla JavaScript — no frameworks, no build tools, no `package.json`
@@ -33,7 +33,9 @@ Currently in: **Slice 1**.
 API keys live in browser code for now (personal project, free APIs with low-stakes keys). If the project ever moves beyond personal use, proxy calls through a tiny backend rather than committing keys.
 
 ## Running, building, testing
-No build, no tests, no lint, no install. Preview by opening `index.html` with the VS Code "Live Server" extension (right-click → Open with Live Server).
+No build, no tests, no lint, no install. Preview by opening `index.html` with the VS Code "Live Server" extension (right-click → Open with Live Server). Note: the frontend fetches `data/*.json`, so you do need a server (Live Server, `python3 -m http.server`, etc.) — opening the file with `file://` will fail those fetches due to browser CORS rules.
+
+To refresh EU prices: `pip install openpyxl` once, then `python3 scripts/fetch_eu_prices.py`. The script downloads the latest EU Weekly Oil Bulletin XLSX, parses it, and overwrites `data/eu-prices.json`. The bulletin updates Thursdays.
 
 ## About the user
 - Beginner — this is their second project (first was a personal site)

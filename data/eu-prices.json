@@ -1,0 +1,145 @@
+{
+  "updated_at": "2026-05-18T18:27:14+00:00",
+  "week_of": "2026-05-11",
+  "source": "EU Weekly Oil Bulletin (prices with taxes)",
+  "source_url": "https://energy.ec.europa.eu/data-and-analysis/weekly-oil-bulletin_en",
+  "currency": "EUR",
+  "unit": "per_litre",
+  "countries": {
+    "AT": {
+      "name": "Austria",
+      "gasoline_eur_per_l": 1.796,
+      "diesel_eur_per_l": 1.913
+    },
+    "BE": {
+      "name": "Belgium",
+      "gasoline_eur_per_l": 1.941,
+      "diesel_eur_per_l": 2.17
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "gasoline_eur_per_l": 1.493,
+      "diesel_eur_per_l": 1.751
+    },
+    "HR": {
+      "name": "Croatia",
+      "gasoline_eur_per_l": 1.7,
+      "diesel_eur_per_l": 1.848
+    },
+    "CY": {
+      "name": "Cyprus",
+      "gasoline_eur_per_l": 1.563,
+      "diesel_eur_per_l": 1.868
+    },
+    "CZ": {
+      "name": "Czechia",
+      "gasoline_eur_per_l": 1.751,
+      "diesel_eur_per_l": 1.75
+    },
+    "DK": {
+      "name": "Denmark",
+      "gasoline_eur_per_l": 2.299,
+      "diesel_eur_per_l": 2.195
+    },
+    "EE": {
+      "name": "Estonia",
+      "gasoline_eur_per_l": 1.754,
+      "diesel_eur_per_l": 1.847
+    },
+    "FI": {
+      "name": "Finland",
+      "gasoline_eur_per_l": 2.14,
+      "diesel_eur_per_l": 2.368
+    },
+    "FR": {
+      "name": "France",
+      "gasoline_eur_per_l": 2.083,
+      "diesel_eur_per_l": 2.157
+    },
+    "DE": {
+      "name": "Germany",
+      "gasoline_eur_per_l": 2.016,
+      "diesel_eur_per_l": 1.97
+    },
+    "GR": {
+      "name": "Greece",
+      "gasoline_eur_per_l": 2.091,
+      "diesel_eur_per_l": 1.846
+    },
+    "HU": {
+      "name": "Hungary",
+      "gasoline_eur_per_l": 1.682,
+      "diesel_eur_per_l": 1.753
+    },
+    "IE": {
+      "name": "Ireland",
+      "gasoline_eur_per_l": 1.817,
+      "diesel_eur_per_l": 1.956
+    },
+    "IT": {
+      "name": "Italy",
+      "gasoline_eur_per_l": 1.933,
+      "diesel_eur_per_l": 2.02
+    },
+    "LV": {
+      "name": "Latvia",
+      "gasoline_eur_per_l": 1.846,
+      "diesel_eur_per_l": 1.96
+    },
+    "LT": {
+      "name": "Lithuania",
+      "gasoline_eur_per_l": 1.8,
+      "diesel_eur_per_l": 1.962
+    },
+    "LU": {
+      "name": "Luxembourg",
+      "gasoline_eur_per_l": 1.789,
+      "diesel_eur_per_l": 1.837
+    },
+    "MT": {
+      "name": "Malta",
+      "gasoline_eur_per_l": 1.34,
+      "diesel_eur_per_l": 1.21
+    },
+    "NL": {
+      "name": "Netherlands",
+      "gasoline_eur_per_l": 2.341,
+      "diesel_eur_per_l": 2.309
+    },
+    "PL": {
+      "name": "Poland",
+      "gasoline_eur_per_l": 1.487,
+      "diesel_eur_per_l": 1.623
+    },
+    "PT": {
+      "name": "Portugal",
+      "gasoline_eur_per_l": 1.979,
+      "diesel_eur_per_l": 1.968
+    },
+    "RO": {
+      "name": "Romania",
+      "gasoline_eur_per_l": 1.76,
+      "diesel_eur_per_l": 1.844
+    },
+    "SK": {
+      "name": "Slovakia",
+      "gasoline_eur_per_l": 1.768,
+      "diesel_eur_per_l": 1.77
+    },
+    "SI": {
+      "name": "Slovenia",
+      "gasoline_eur_per_l": 1.662,
+      "diesel_eur_per_l": 1.733
+    },
+    "ES": {
+      "name": "Spain",
+      "gasoline_eur_per_l": 1.541,
+      "diesel_eur_per_l": 1.718
+    },
+    "SE": {
+      "name": "Sweden",
+      "gasoline_eur_per_l": 1.678,
+      "diesel_eur_per_l": 1.886
+    }
+  }
+}

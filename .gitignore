@@ -10,3 +10,6 @@
 
 # Secrets (we'll use this when we add an API key)
 .env
+
+# Temp XLSX written by scripts/fetch_eu_prices.py while running
+data/_*.xlsx
