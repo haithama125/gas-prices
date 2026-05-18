@@ -10,17 +10,62 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
   <style>
+    /* CSS custom properties (a.k.a. variables) — declared once on :root, then
+       referenced below as var(--name). Swapping the [data-theme="light"] block
+       changes every value at once, which is how the light/dark toggle works. */
+    :root {
+      --page-bg:         #1a1a1a;
+      --header-bg:       #1a1a1a;
+      --header-text:     #ffffff;
+      --header-subtle:   rgba(255, 255, 255, 0.7);
+      --header-border:   transparent;
+      --toggle-bg:       rgba(255, 255, 255, 0.1);
+      --toggle-border:   rgba(255, 255, 255, 0.25);
+      --toggle-text:     #ffffff;
+      --popup-bg:        #1f2937;
+      --popup-text:      #e5e7eb;
+      --popup-muted:     #9ca3af;
+      --attribution-bg:  rgba(31, 41, 55, 0.85);
+      --attribution-text:#d1d5db;
+      --link:            #93c5fd;
+      --label-color:     #60a5fa;
+      --label-halo:      #000;
+    }
+
+    [data-theme="light"] {
+      --page-bg:         #ffffff;
+      --header-bg:       #ffffff;
+      --header-text:     #1e3a8a;   /* deep blue */
+      --header-subtle:   #3b82f6;
+      --header-border:   #dbeafe;   /* faint blue line under the header */
+      --toggle-bg:       #eff6ff;
+      --toggle-border:   #bfdbfe;
+      --toggle-text:     #1e3a8a;
+      --popup-bg:        #ffffff;
+      --popup-text:      #1f2937;
+      --popup-muted:     #6b7280;
+      --attribution-bg:  rgba(255, 255, 255, 0.85);
+      --attribution-text:#374151;
+      --link:            #2563eb;
+      --label-color:     #1e40af;   /* darker blue so it shows on light tiles */
+      --label-halo:      #ffffff;
+    }
+
     /* Reset default body margin so the map can fill the screen */
     body {
       margin: 0;
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      background: #1a1a1a;  /* matches header — any briefly-blank edges look intentional */
+      background: var(--page-bg);  /* matches header — any briefly-blank edges look intentional */
     }
 
     header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
       padding: 1rem 1.5rem;
-      background: #1a1a1a;
-      color: white;
+      background: var(--header-bg);
+      color: var(--header-text);
+      border-bottom: 1px solid var(--header-border);
     }
 
     header h1 {
@@ -31,8 +76,20 @@
     header p {
       margin: 0.25rem 0 0;
       font-size: 0.85rem;
-      opacity: 0.7;
+      color: var(--header-subtle);
     }
+
+    #theme-toggle {
+      background: var(--toggle-bg);
+      color: var(--toggle-text);
+      border: 1px solid var(--toggle-border);
+      border-radius: 6px;
+      padding: 0.4rem 0.75rem;
+      font: inherit;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    #theme-toggle:hover { opacity: 0.85; }
 
     /* Map fills the rest of the screen below the header */
     #map {
@@ -40,31 +97,31 @@
       width: 100%;
     }
 
-    /* Dark popup styling. Leaflet renders the popup as a white "wrapper"
-       with a little triangle "tip" — both need the same dark background. */
+    /* Popup styling. Leaflet renders the popup as a "wrapper" with a little
+       triangle "tip" — both need the same background so they look like one piece. */
     .leaflet-popup-content-wrapper,
     .leaflet-popup-tip {
-      background: #1f2937;     /* dark slate */
-      color: #e5e7eb;          /* light gray text */
+      background: var(--popup-bg);
+      color: var(--popup-text);
     }
     .leaflet-popup-content {
       font-size: 0.9rem;
       line-height: 1.4;
     }
     .leaflet-popup-content small {
-      color: #9ca3af;          /* muted gray for the source/date line */
+      color: var(--popup-muted);   /* muted for the source/date line */
     }
     .leaflet-popup-close-button {
-      color: #9ca3af !important;
+      color: var(--popup-muted) !important;
     }
     /* Attribution links at the bottom of the map */
     .leaflet-container a {
-      color: #93c5fd;
+      color: var(--link);
     }
     /* Attribution background, normally white */
     .leaflet-control-attribution {
-      background: rgba(31, 41, 55, 0.85) !important;
-      color: #d1d5db;
+      background: var(--attribution-bg) !important;
+      color: var(--attribution-text);
     }
 
     /* State-name labels drawn at the center of each state polygon.
@@ -74,10 +131,10 @@
       background: transparent;
       border: none;
       box-shadow: none;
-      color: #60a5fa;              /* same blue as the state borders */
+      color: var(--label-color);
       font-size: 0.7rem;
       font-weight: 600;
-      text-shadow: 0 0 3px #000, 0 0 3px #000;  /* dark halo for readability */
+      text-shadow: 0 0 3px var(--label-halo), 0 0 3px var(--label-halo);
       pointer-events: none;        /* don't intercept clicks meant for the state */
       white-space: nowrap;
     }
@@ -88,8 +145,11 @@
 </head>
 <body>
   <header>
-    <h1>Gas Prices</h1>
-    <p>Click anywhere on the map</p>
+    <div>
+      <h1>Gas Prices</h1>
+      <p>Click anywhere on the map</p>
+    </div>
+    <button id="theme-toggle" type="button" aria-label="Toggle light/dark mode">Light mode</button>
   </header>
 
   <div id="map"></div>
@@ -186,14 +246,64 @@
     // setView takes [latitude, longitude] and a zoom level (4 ≈ whole US).
     const map = L.map("map").setView([39.8283, -98.5795], 4);
 
-    // Map imagery (tiles) — CARTO's "Dark Matter" theme. Free, no API key,
-    // attribution required. {s} = subdomain (load balancing), {z}/{x}/{y} =
-    // zoom + tile coordinates that Leaflet fills in automatically.
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
+    // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
+    // placeholders Leaflet fills in (subdomain + zoom + tile coordinates).
+    const TILE_URLS = {
+      dark:  "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
+      light: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+    };
+    const TILE_OPTS = {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: "abcd",
       maxZoom: 19,
-    }).addTo(map);
+    };
+
+    // We hold onto the active tile layer and the state-polygon layer so the
+    // theme toggle below can swap/restyle them without re-creating the map.
+    let tileLayer = null;
+    let statesLayer = null;
+
+    // State polygon colors. Borders darken in light mode so they remain
+    // visible on Positron's pale background.
+    function stateStyleFor(theme) {
+      return {
+        color: theme === "light" ? "#2563eb" : "#60a5fa",
+        weight: 1,
+        fillColor: "#3b82f6",
+        fillOpacity: 0.2,
+      };
+    }
+
+    // Read the current theme from the <body data-theme="..."> attribute.
+    // Defaults to "dark" before applyTheme has run.
+    function currentTheme() {
+      return document.body.dataset.theme || "dark";
+    }
+
+    // Apply a theme: update the body attribute (so CSS variables flip),
+    // swap the map tile layer, restyle the state polygons, update the toggle
+    // button label, and remember the choice for next visit.
+    function applyTheme(theme) {
+      document.body.dataset.theme = theme;
+      localStorage.setItem("gp-theme", theme);
+
+      const btn = document.getElementById("theme-toggle");
+      // Button text describes the *action*, not the current state.
+      btn.textContent = theme === "light" ? "Dark mode" : "Light mode";
+
+      if (tileLayer) map.removeLayer(tileLayer);
+      tileLayer = L.tileLayer(TILE_URLS[theme], TILE_OPTS).addTo(map);
+
+      if (statesLayer) statesLayer.setStyle(stateStyleFor(theme));
+    }
+
+    // Initial theme — saved preference if any, otherwise dark.
+    applyTheme(localStorage.getItem("gp-theme") || "dark");
+
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      applyTheme(currentTheme() === "light" ? "dark" : "light");
+    });
 
     // ----- EIA FETCH ----------------------------------------------------------
 
@@ -238,13 +348,8 @@
     fetch("https://cdn.jsdelivr.net/gh/PublicaMundi/MappingAPI@master/data/geojson/us-states.json")
       .then((r) => r.json())
       .then((data) => {
-        L.geoJSON(data, {
-          style: {
-            color: "#60a5fa",     // lighter blue outline so it shows on dark tiles
-            weight: 1,
-            fillColor: "#3b82f6",
-            fillOpacity: 0.2,
-          },
+        statesLayer = L.geoJSON(data, {
+          style: stateStyleFor(currentTheme()),
           onEachFeature: (feature, layer) => {
             const stateName = feature.properties.name;
             const override = LABEL_OVERRIDES[stateName];
