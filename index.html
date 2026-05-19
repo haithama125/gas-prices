@@ -383,11 +383,24 @@
     // maxBounds + maxBoundsViscosity pen the user to a single copy of the
     // world so they can't scroll horizontally into the void. Viscosity 1.0
     // makes the edge feel like a hard wall instead of a rubber band.
+    const WORLD_BOUNDS = [[-85, -180], [85, 180]];
     const map = L.map("map", {
-      maxBounds: [[-85, -180], [85, 180]],
+      maxBounds: WORLD_BOUNDS,
       maxBoundsViscosity: 1.0,
       worldCopyJump: false,
     }).setView([39.8283, -98.5795], 4);
+
+    // Don't let the user zoom out past the point where the world stops
+    // filling the viewport — otherwise blank bars appear on the sides of a
+    // wide screen. `getBoundsZoom(..., true)` returns the smallest zoom at
+    // which the viewport fits *inside* the world bounds, i.e. the zoom where
+    // the map exactly covers the visible area. Recompute on resize so a
+    // wider window correctly bumps the floor higher.
+    function updateMinZoom() {
+      map.setMinZoom(map.getBoundsZoom(WORLD_BOUNDS, true));
+    }
+    updateMinZoom();
+    window.addEventListener("resize", updateMinZoom);
 
     // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
     // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
