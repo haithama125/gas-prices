@@ -35,6 +35,11 @@
       --eu-stroke:       #fbbf24;
       --eu-fill:         #f59e0b;
       --eu-label-color:  #fbbf24;
+      /* World countries (slice 3) — third palette, an emerald green, so
+         the three clickable groups (US blue / EU amber / world green) are
+         visually distinct once you zoom out to see the whole world. */
+      --world-stroke:    #34d399;
+      --world-fill:      #10b981;
     }
 
     [data-theme="light"] {
@@ -57,6 +62,8 @@
       --eu-stroke:       #b45309;   /* darker amber, readable on Positron */
       --eu-fill:         #f59e0b;
       --eu-label-color:  #92400e;
+      --world-stroke:    #047857;   /* darker emerald, readable on Positron */
+      --world-fill:      #10b981;
     }
 
     /* Reset default body margin so the map can fill the screen */
@@ -393,6 +400,7 @@
     let tileLayer = null;
     let statesLayer = null;
     let euCountriesLayer = null;
+    let worldCountriesLayer = null;
 
     // State polygon colors. Borders darken in light mode so they remain
     // visible on Positron's pale background.
@@ -438,8 +446,10 @@
       tileLayer = L.tileLayer(TILE_URLS[theme], TILE_OPTS).addTo(map);
 
       if (statesLayer) statesLayer.setStyle(stateStyleFor(theme));
-      // EU style is read from CSS vars, which have already updated above.
+      // EU + world styles are read from CSS vars, which have already
+      // updated above, so we just re-apply them.
       if (euCountriesLayer) euCountriesLayer.setStyle(euStyleFor());
+      if (worldCountriesLayer) worldCountriesLayer.setStyle(worldStyleFor());
     }
 
     // Initial theme — saved preference if any, otherwise dark.
@@ -694,6 +704,84 @@
         }).addTo(map);
       })
       .catch((err) => console.error("Failed to load EU country shapes", err));
+
+    // ----- WORLD COUNTRIES (Slice 3) --------------------------------------
+    //
+    // Rest of the world, sourced from globalpetrolprices.com via the python
+    // script in scripts/fetch_world_prices.py. Same pattern as the EU layer:
+    // two files shipped with the repo, no API key, no server.
+    //
+    //   data/world-countries.geojson — polygons for ~150 countries (US and
+    //                                   EU members are filtered out so the
+    //                                   world layer doesn't overlap the
+    //                                   state / EU layers)
+    //   data/world-prices.json       — { iso2: { name, gasoline_usd_per_l } }
+    //                                   for ~170 countries
+    //
+    // Country labels are deliberately omitted here — at world-view zoom
+    // there are too many polygons for permanent labels to be legible; the
+    // green fill is signal enough that the shape is clickable, and hover
+    // brightens the country under the cursor.
+
+    const worldPricesPromise = fetch("data/world-prices.json")
+      .then((r) => r.json())
+      .catch((err) => {
+        console.error("world prices load failed", err);
+        return null;
+      });
+
+    function worldStyleFor() {
+      const css = getComputedStyle(document.body);
+      return {
+        color: css.getPropertyValue("--world-stroke").trim(),
+        weight: 1,
+        fillColor: css.getPropertyValue("--world-fill").trim(),
+        fillOpacity: 0.2,
+      };
+    }
+
+    fetch("data/world-countries.geojson")
+      .then((r) => r.json())
+      .then((data) => {
+        worldCountriesLayer = L.geoJSON(data, {
+          style: worldStyleFor(),
+          onEachFeature: (feature, layer) => {
+            const { name, iso2 } = feature.properties;
+
+            layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
+            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
+
+            layer.on("click", async () => {
+              const popup = L.popup()
+                .setLatLng(layer.getBounds().getCenter())
+                .setContent(`<strong>${name}</strong><br>Loading…`)
+                .openOn(map);
+
+              const prices = await worldPricesPromise;
+              if (!prices) {
+                popup.setContent(`<strong>${name}</strong><br>Price data failed to load.`);
+                return;
+              }
+              const entry = prices.countries[iso2];
+              if (!entry || entry.gasoline_usd_per_l == null) {
+                popup.setContent(`<strong>${name}</strong><br>No data available.`);
+                return;
+              }
+              // GPP refreshes weekly but doesn't expose the exact "week of"
+              // — show the date we last ran the fetch script instead.
+              const updated = prices.updated_at.slice(0, 10);
+              registerPriceRender(popup, () => {
+                popup.setContent(
+                  `<strong>${name}</strong><br>` +
+                  `${formatPrice(entry.gasoline_usd_per_l, "USD", "litre")}<br>` +
+                  `<small>GlobalPetrolPrices.com · Updated ${updated}</small>`
+                );
+              });
+            });
+          },
+        }).addTo(map);
+      })
+      .catch((err) => console.error("Failed to load world country shapes", err));
   </script>
 </body>
 </html>

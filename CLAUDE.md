@@ -16,10 +16,10 @@ Ship one working slice at a time — don't try to build the whole vision before 
 
 1. **US states + metros (EIA)** — Click a state shape → state-level or PADD regional retail gasoline price. Click one of ~10 metro pins (Boston, Chicago, Cleveland, Denver, Houston, LA, Miami, NYC, SF, Seattle) → city retail price. *No backend — direct browser fetch from EIA v2 API.*
 2. **EU countries (Oil Bulletin)** — Click an EU country → weekly retail price. *Currently a pre-baked static JSON in `data/eu-prices.json`, refreshed by running `python3 scripts/fetch_eu_prices.py` (needs `pip install openpyxl`). The eventual Hetzner version would just be that same script behind a weekly cron.*
-3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
+3. **Other countries (GlobalPetrolPrices)** — Click any country → latest price. *Pre-baked static JSON in `data/world-prices.json`, refreshed by running `python3 scripts/fetch_world_prices.py`. Turned out GPP serves the chart as plain HTML, so a single `urllib` GET + regex parse is enough — no headless browser, no Hetzner needed. ToS-grey but not actively blocked. Country polygons in `data/world-countries.geojson` (Natural Earth 110m, filtered to exclude US + EU members + Antarctica so layers don't overlap).*
 4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
 
-Currently in: **Slice 2 done, planning Slice 3**.
+Currently in: **Slice 3 done, planning Slice 4**.
 
 ## Stack
 - Plain HTML, CSS, vanilla JavaScript — no frameworks, no build tools, no `package.json`
@@ -36,6 +36,8 @@ API keys live in browser code for now (personal project, free APIs with low-stak
 No build, no tests, no lint, no install. Preview by opening `index.html` with the VS Code "Live Server" extension (right-click → Open with Live Server). Note: the frontend fetches `data/*.json`, so you do need a server (Live Server, `python3 -m http.server`, etc.) — opening the file with `file://` will fail those fetches due to browser CORS rules.
 
 To refresh EU prices: `pip install openpyxl` once, then `python3 scripts/fetch_eu_prices.py`. The script downloads the latest EU Weekly Oil Bulletin XLSX, parses it, and overwrites `data/eu-prices.json`. The bulletin updates Thursdays.
+
+To refresh world prices: `python3 scripts/fetch_world_prices.py` (no extra deps — stdlib only). The script fetches globalpetrolprices.com + the Natural Earth country polygons and overwrites `data/world-prices.json` and `data/world-countries.geojson`. GPP updates weekly on Mondays.
 
 ## About the user
 - Beginner — this is their second project (first was a personal site)
