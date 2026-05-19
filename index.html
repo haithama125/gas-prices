@@ -380,7 +380,14 @@
 
     // Create a Leaflet map inside the <div id="map">.
     // setView takes [latitude, longitude] and a zoom level (4 ≈ whole US).
-    const map = L.map("map").setView([39.8283, -98.5795], 4);
+    // maxBounds + maxBoundsViscosity pen the user to a single copy of the
+    // world so they can't scroll horizontally into the void. Viscosity 1.0
+    // makes the edge feel like a hard wall instead of a rubber band.
+    const map = L.map("map", {
+      maxBounds: [[-85, -180], [85, 180]],
+      maxBoundsViscosity: 1.0,
+      worldCopyJump: false,
+    }).setView([39.8283, -98.5795], 4);
 
     // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
     // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
@@ -393,6 +400,9 @@
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: "abcd",
       maxZoom: 19,
+      // Stop tiles from repeating east/west — pairs with the map's
+      // maxBounds so you only ever see one copy of the world.
+      noWrap: true,
     };
 
     // We hold onto the active tile layer and the state-polygon layer so the
