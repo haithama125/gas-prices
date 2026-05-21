@@ -13,3 +13,6 @@
 
 # Temp XLSX written by scripts/fetch_eu_prices.py while running
 data/_*.xlsx
+
+# Debug HTML dump from scripts/scrape_gasbuddy.py (slice 4)
+scrape_debug.html
