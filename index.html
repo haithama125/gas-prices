@@ -77,6 +77,7 @@
       display: flex;
       justify-content: space-between;
       align-items: center;
+      gap: 1rem;
       padding: 1rem 1.5rem;
       background: var(--header-bg);
       color: var(--header-text);
@@ -115,6 +116,73 @@
     }
     #theme-toggle:hover,
     #currency-select:hover { opacity: 0.85; }
+
+    /* Search bar. The wrapper is position:relative so the absolutely-
+       positioned results dropdown hangs off the input. flex:1 with a cap
+       lets the bar take the available middle space without stretching
+       across an ultrawide monitor. */
+    .search {
+      position: relative;
+      flex: 1;
+      max-width: 320px;
+    }
+    #search-input {
+      width: 100%;
+      box-sizing: border-box;
+      background: var(--toggle-bg);
+      color: var(--toggle-text);
+      border: 1px solid var(--toggle-border);
+      border-radius: 6px;
+      padding: 0.4rem 0.75rem;
+      font: inherit;
+      font-size: 0.85rem;
+    }
+    #search-input::placeholder { color: var(--popup-muted); opacity: 0.9; }
+
+    /* Results dropdown. z-index has to beat Leaflet — its controls/panes
+       sit around 400-700, so anything in the 1000s wins. */
+    #search-results {
+      position: absolute;
+      top: calc(100% + 4px);
+      left: 0;
+      right: 0;
+      margin: 0;
+      padding: 4px 0;
+      list-style: none;
+      background: var(--popup-bg);
+      color: var(--popup-text);
+      border: 1px solid var(--toggle-border);
+      border-radius: 6px;
+      max-height: 280px;
+      overflow-y: auto;
+      z-index: 1000;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+    }
+    #search-results[hidden] { display: none; }
+    #search-results li {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0.4rem 0.75rem;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    /* `.active` is for keyboard nav (arrow keys); :hover is for mouse.
+       Both paint the same so the highlight feels consistent across inputs. */
+    #search-results li.active,
+    #search-results li:hover { background: var(--toggle-bg); }
+    .search-result-tag {
+      font-size: 0.7rem;
+      color: var(--popup-muted);
+      margin-left: 0.75rem;
+      white-space: nowrap;
+    }
+    .search-empty {
+      padding: 0.4rem 0.75rem;
+      color: var(--popup-muted);
+      font-size: 0.85rem;
+      font-style: italic;
+    }
 
     /* Map fills the rest of the screen below the header */
     #map {
@@ -189,6 +257,18 @@
     <div>
       <h1>Gas Prices</h1>
       <p>Click anywhere on the map</p>
+    </div>
+    <div class="search">
+      <input
+        id="search-input"
+        type="search"
+        placeholder="Search states or countries…"
+        autocomplete="off"
+        aria-label="Search states or countries"
+        aria-autocomplete="list"
+        aria-controls="search-results"
+      />
+      <ul id="search-results" role="listbox" hidden></ul>
     </div>
     <div class="header-controls">
       <!-- Currency dropdown. The selected currency dictates BOTH the symbol
@@ -506,6 +586,130 @@
     const KEY_MISSING_MSG = "Add your EIA API key at the top of index.html to load prices.";
     const keyIsSet = () => EIA_API_KEY && EIA_API_KEY !== "PASTE_YOUR_KEY_HERE";
 
+    // ----- SEARCH (states + countries) ---------------------------------------
+    //
+    // As each GeoJSON layer loads, its onEachFeature callback pushes an entry
+    // here. Each entry holds a direct reference to the polygon's Leaflet
+    // layer, so selecting a result can:
+    //   1. flyToBounds() on the polygon to bring it into view, and
+    //   2. fire('click') on the same layer to reuse the existing price-
+    //      fetch + popup code paths — no duplicate fetch logic here.
+    //
+    // The index is appended to from three async callbacks (US states, EU
+    // countries, world countries). JS is single-threaded so the pushes are
+    // safe; new entries just become searchable as soon as their layer loads.
+    //
+    // The `source` field powers the small "US state / EU / World" chip in
+    // each result. It matters because some names collide — "Georgia" is
+    // both a US state and a country, and the chip is how the user picks.
+
+    const searchIndex = []; // { name, source: 'US' | 'EU' | 'World', layer }
+
+    const SOURCE_LABEL = { US: "US state", EU: "EU", World: "World" };
+
+    const searchInput   = document.getElementById("search-input");
+    const searchResults = document.getElementById("search-results");
+    let currentResults = []; // entries currently shown in the dropdown
+    let activeIndex = -1;    // for arrow-key navigation
+
+    function renderResults(results) {
+      currentResults = results;
+      activeIndex = results.length ? 0 : -1;
+      if (!results.length) {
+        searchResults.innerHTML = '<li class="search-empty">No matches</li>';
+        searchResults.hidden = false;
+        return;
+      }
+      // Build the dropdown items. The data-index attribute is what the
+      // click handler reads to know which result was clicked.
+      searchResults.innerHTML = results.map((r, i) => `
+        <li role="option" data-index="${i}"${i === activeIndex ? ' class="active"' : ''}>
+          <span>${r.name}</span>
+          <span class="search-result-tag">${SOURCE_LABEL[r.source]}</span>
+        </li>
+      `).join("");
+      searchResults.hidden = false;
+    }
+
+    function hideResults() {
+      searchResults.hidden = true;
+      activeIndex = -1;
+    }
+
+    // Two-tier ranking: prefix matches first, then substring matches.
+    // Within each tier we keep insertion order (US first, then EU, then
+    // world) which feels reasonable as a tiebreaker. Cap at 8 visible.
+    function runSearch(query) {
+      const q = query.trim().toLowerCase();
+      if (!q) { hideResults(); return; }
+      const prefix = [], contains = [];
+      for (const entry of searchIndex) {
+        const name = entry.name.toLowerCase();
+        if (name.startsWith(q))      prefix.push(entry);
+        else if (name.includes(q))   contains.push(entry);
+      }
+      renderResults([...prefix, ...contains].slice(0, 8));
+    }
+
+    function selectResult(entry) {
+      hideResults();
+      searchInput.value = entry.name;
+      // maxZoom caps how far we zoom in for tiny countries (Luxembourg
+      // shouldn't blow up to street level). padding leaves room for the
+      // popup that opens next.
+      map.flyToBounds(entry.layer.getBounds(), { padding: [40, 40], maxZoom: 6 });
+      // Fire the existing click handler — that's what opens the popup and
+      // runs the right fetch (EIA / EU / world). No duplication.
+      entry.layer.fire("click");
+    }
+
+    function updateActive() {
+      searchResults.querySelectorAll("li").forEach((li, i) => {
+        li.classList.toggle("active", i === activeIndex);
+        if (i === activeIndex) li.scrollIntoView({ block: "nearest" });
+      });
+    }
+
+    searchInput.addEventListener("input", (e) => runSearch(e.target.value));
+    // Re-show prior results when the user clicks back into the field.
+    searchInput.addEventListener("focus", (e) => {
+      if (e.target.value.trim()) runSearch(e.target.value);
+    });
+
+    searchInput.addEventListener("keydown", (e) => {
+      if (e.key === "ArrowDown") {
+        e.preventDefault();
+        if (!currentResults.length) return;
+        activeIndex = (activeIndex + 1) % currentResults.length;
+        updateActive();
+      } else if (e.key === "ArrowUp") {
+        e.preventDefault();
+        if (!currentResults.length) return;
+        activeIndex = (activeIndex - 1 + currentResults.length) % currentResults.length;
+        updateActive();
+      } else if (e.key === "Enter") {
+        e.preventDefault();
+        if (activeIndex >= 0 && currentResults[activeIndex]) {
+          selectResult(currentResults[activeIndex]);
+        }
+      } else if (e.key === "Escape") {
+        hideResults();
+        searchInput.blur();
+      }
+    });
+
+    searchResults.addEventListener("click", (e) => {
+      const li = e.target.closest("li[data-index]");
+      if (!li) return;
+      const idx = parseInt(li.dataset.index, 10);
+      if (!isNaN(idx) && currentResults[idx]) selectResult(currentResults[idx]);
+    });
+
+    // Click anywhere outside the search closes the dropdown.
+    document.addEventListener("click", (e) => {
+      if (!e.target.closest(".search")) hideResults();
+    });
+
     // ----- STATE SHAPES -------------------------------------------------------
 
     // GeoJSON = states as polygons. We load a public file via the jsDelivr CDN
@@ -517,6 +721,7 @@
           style: stateStyleFor(currentTheme()),
           onEachFeature: (feature, layer) => {
             const stateName = feature.properties.name;
+            searchIndex.push({ name: stateName, source: "US", layer });
             const override = LABEL_OVERRIDES[stateName];
             if (override) {
               // Hand-picked position for split states (VA, MI). Standalone
@@ -645,6 +850,7 @@
           style: euStyleFor(),
           onEachFeature: (feature, layer) => {
             const { name } = feature.properties;
+            searchIndex.push({ name, source: "EU", layer });
 
             // Country name as a permanent label, like US states. Tiny
             // countries (Malta, Luxembourg) will get crowded labels at low
@@ -747,6 +953,7 @@
           style: worldStyleFor(),
           onEachFeature: (feature, layer) => {
             const { name, iso2 } = feature.properties;
+            searchIndex.push({ name, source: "World", layer });
 
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
             layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
