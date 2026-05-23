@@ -32,7 +32,8 @@ TARGET = "https://www.gasbuddy.com/gasprices/new-york/new-york"
 with sync_playwright() as p:
     # headless=False = a visible browser window. Two reasons:
     #   1. Easier to see what's going on while we're debugging.
-    #   2. Cloudflare is more suspicious of headless browsers than visible
+    #   2. Cloudflare is more suspicious of hea
+    # dless browsers than visible
     #      ones, so a visible window has a better chance of passing.
     browser = p.chromium.launch(headless=False)
     page = browser.new_page()

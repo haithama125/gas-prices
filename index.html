@@ -69,7 +69,7 @@
     /* Reset default body margin so the map can fill the screen */
     body {
       margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", scans-serif;
       background: var(--page-bg);  /* matches header — any briefly-blank edges look intentional */
     }
 
@@ -380,27 +380,7 @@
 
     // Create a Leaflet map inside the <div id="map">.
     // setView takes [latitude, longitude] and a zoom level (4 ≈ whole US).
-    // maxBounds + maxBoundsViscosity pen the user to a single copy of the
-    // world so they can't scroll horizontally into the void. Viscosity 1.0
-    // makes the edge feel like a hard wall instead of a rubber band.
-    const WORLD_BOUNDS = [[-85, -180], [85, 180]];
-    const map = L.map("map", {
-      maxBounds: WORLD_BOUNDS,
-      maxBoundsViscosity: 1.0,
-      worldCopyJump: false,
-    }).setView([39.8283, -98.5795], 4);
-
-    // Don't let the user zoom out past the point where the world stops
-    // filling the viewport — otherwise blank bars appear on the sides of a
-    // wide screen. `getBoundsZoom(..., true)` returns the smallest zoom at
-    // which the viewport fits *inside* the world bounds, i.e. the zoom where
-    // the map exactly covers the visible area. Recompute on resize so a
-    // wider window correctly bumps the floor higher.
-    function updateMinZoom() {
-      map.setMinZoom(map.getBoundsZoom(WORLD_BOUNDS, true));
-    }
-    updateMinZoom();
-    window.addEventListener("resize", updateMinZoom);
+    const map = L.map("map").setView([39.8283, -98.5795], 4);
 
     // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
     // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
@@ -413,9 +393,6 @@
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: "abcd",
       maxZoom: 19,
-      // Stop tiles from repeating east/west — pairs with the map's
-      // maxBounds so you only ever see one copy of the world.
-      noWrap: true,
     };
 
     // We hold onto the active tile layer and the state-polygon layer so the
@@ -805,6 +782,85 @@
         }).addTo(map);
       })
       .catch((err) => console.error("Failed to load world country shapes", err));
+
+    // ----- US GAS STATIONS (Slice 4) --------------------------------------
+    //
+    // Individual stations scraped from GasBuddy (see
+    // scripts/scrape_gasbuddy_cities.py). The output JSON is ~570 stations
+    // across ~57 metros, with per-station lat/lng + USD/gallon price.
+    //
+    // Two things to know about the display:
+    //   1. Zoom gating. 570 dots on top of the state polygons at low zoom
+    //      is visual mush. We add the layer to the map only once the user
+    //      has zoomed in past STATIONS_MIN_ZOOM (≈ metro level).
+    //   2. Color encodes price. A linear green→red gradient over the
+    //      observed range ($3.40 cheap → $5.40 expensive) so a glance at
+    //      a cluster of dots shows the spread, not just the locations.
+    //
+    // ~44% of stations have no recent price report (price_usd_per_gallon
+    // is null). We skip those — a marker we can't price is more confusing
+    // than helpful.
+
+    const STATIONS_MIN_ZOOM = 7;
+
+    // Green (low) → yellow → red (high). The HSL hue trick: hue 120 is
+    // green, hue 0 is red, the values in between sweep through yellow.
+    function stationColor(usdPerGallon) {
+      const t = Math.max(0, Math.min(1, (usdPerGallon - 3.40) / 2.00));
+      const hue = 120 - 120 * t;
+      return `hsl(${hue}, 70%, 45%)`;
+    }
+
+    // We hold onto the layer so a `zoomend` listener can add/remove it
+    // without re-creating 300+ markers each time.
+    let stationsLayer = null;
+
+    function updateStationsVisibility() {
+      if (!stationsLayer) return;
+      const shouldShow = map.getZoom() >= STATIONS_MIN_ZOOM;
+      if (shouldShow && !map.hasLayer(stationsLayer)) {
+        stationsLayer.addTo(map);
+      } else if (!shouldShow && map.hasLayer(stationsLayer)) {
+        map.removeLayer(stationsLayer);
+      }
+    }
+
+    fetch("data/us-city-prices.json")
+      .then((r) => r.json())
+      .then((data) => {
+        // `updated` is a unix timestamp (seconds) of when the scraper ran.
+        const updatedDate = new Date(data.updated * 1000)
+          .toISOString().slice(0, 10);
+
+        stationsLayer = L.layerGroup();
+        Object.values(data.cities).flat().forEach((s) => {
+          if (s.price_usd_per_gallon == null) return;  // skip "—" stations
+
+          const marker = L.circleMarker([s.lat, s.lng], {
+            radius: 5,
+            color: "rgba(0,0,0,0.5)",   // thin dark outline for legibility
+            weight: 1,
+            fillColor: stationColor(s.price_usd_per_gallon),
+            fillOpacity: 0.9,
+          });
+          marker.bindPopup(`<strong>${s.brand || s.name}</strong><br>Loading…`);
+          marker.on("click", () => {
+            registerPriceRender(marker.getPopup(), () => {
+              marker.setPopupContent(
+                `<strong>${s.brand || s.name}</strong><br>` +
+                `${formatPrice(s.price_usd_per_gallon, "USD", "gallon")}<br>` +
+                `<small>${s.address}, ${s.city}, ${s.state} · ` +
+                `GasBuddy · Updated ${updatedDate}</small>`
+              );
+            });
+          });
+          stationsLayer.addLayer(marker);
+        });
+
+        updateStationsVisibility();
+        map.on("zoomend", updateStationsVisibility);
+      })
+      .catch((err) => console.error("Failed to load GasBuddy station data", err));
   </script>
 </body>
 </html>
