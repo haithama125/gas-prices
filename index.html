@@ -28,13 +28,10 @@
       --attribution-bg:  rgba(31, 41, 55, 0.85);
       --attribution-text:#d1d5db;
       --link:            #93c5fd;
-      --label-color:     #60a5fa;
-      --label-halo:      #000;
       /* EU countries get a different palette so they don't visually blur
          into the US states once you pan across the Atlantic. */
       --eu-stroke:       #fbbf24;
       --eu-fill:         #f59e0b;
-      --eu-label-color:  #fbbf24;
       /* World countries (slice 3) — third palette, an emerald green, so
          the three clickable groups (US blue / EU amber / world green) are
          visually distinct once you zoom out to see the whole world. */
@@ -57,11 +54,8 @@
       --attribution-bg:  rgba(255, 255, 255, 0.85);
       --attribution-text:#374151;
       --link:            #2563eb;
-      --label-color:     #1e40af;   /* darker blue so it shows on light tiles */
-      --label-halo:      #ffffff;
       --eu-stroke:       #b45309;   /* darker amber, readable on Positron */
       --eu-fill:         #f59e0b;
-      --eu-label-color:  #92400e;
       --world-stroke:    #047857;   /* darker emerald, readable on Positron */
       --world-fill:      #10b981;
     }
@@ -207,49 +201,26 @@
     .leaflet-popup-close-button {
       color: var(--popup-muted) !important;
     }
-    /* Attribution links at the bottom of the map */
-    .leaflet-container a {
-      color: var(--link);
-    }
-    /* Attribution background, normally white */
+    /* Attribution — required by OSM + CARTO licenses, but visually toned
+       down: no background panel, very small text, low opacity at rest,
+       returning to full opacity on hover so it's readable when you
+       actually look at it. CARTO's terms just require the credit to be
+       "visible" — they don't dictate how prominent. */
     .leaflet-control-attribution {
-      background: var(--attribution-bg) !important;
-      color: var(--attribution-text);
+      background: transparent !important;
+      color: var(--popup-muted);
+      font-size: 9px;
+      padding: 0 4px;
+      opacity: 0.35;
+      transition: opacity 0.2s ease;
     }
+    .leaflet-control-attribution:hover { opacity: 1; }
+    .leaflet-control-attribution a {
+      color: inherit;
+      text-decoration: none;
+    }
+    .leaflet-control-attribution a:hover { text-decoration: underline; }
 
-    /* State-name labels drawn at the center of each state polygon.
-       We strip Leaflet's default tooltip chrome (white bg, border, arrow)
-       so it looks like plain text on the map. */
-    .state-label {
-      background: transparent;
-      border: none;
-      box-shadow: none;
-      color: var(--label-color);
-      font-size: 0.7rem;
-      font-weight: 600;
-      text-shadow: 0 0 3px var(--label-halo), 0 0 3px var(--label-halo);
-      pointer-events: none;        /* don't intercept clicks meant for the state */
-      white-space: nowrap;
-    }
-    .state-label::before {
-      display: none;                /* hide the default tooltip pointer arrow */
-    }
-
-    /* EU country labels — same idea as .state-label but in the EU palette so
-       you can tell at a glance whether a clickable shape is a US state
-       (blue) or an EU country (amber). */
-    .country-label {
-      background: transparent;
-      border: none;
-      box-shadow: none;
-      color: var(--eu-label-color);
-      font-size: 0.7rem;
-      font-weight: 600;
-      text-shadow: 0 0 3px var(--label-halo), 0 0 3px var(--label-halo);
-      pointer-events: none;
-      white-space: nowrap;
-    }
-    .country-label::before { display: none; }
   </style>
 </head>
 <body>
@@ -419,28 +390,6 @@
       R50: "West Coast (PADD 5)",
     };
 
-    // For states made of disconnected pieces (Virginia's Eastern Shore,
-    // Michigan's Upper Peninsula, etc.), Leaflet's auto-center for the label
-    // gets pulled toward the separated chunk. Hardcode a [lat, lng] where the
-    // label should actually sit. Add more entries here if other states look off.
-    const LABEL_OVERRIDES = {
-      "Virginia": [37.7, -78.5],   // central VA, away from the Eastern Shore
-      "Michigan": [44.3, -85.0],   // Lower Peninsula
-    };
-
-    // Same idea for EU countries. Leaflet's polygon `getCenter()` is a
-    // vertex-position average, so countries with a dense (jagged) southern
-    // coast and a sparse (smoother) northern border end up with their label
-    // dragged south. Hand-picked centers for the ones that look obviously off.
-    const EU_LABEL_OVERRIDES = {
-      "Spain":   [40.4, -3.7],   // Madrid — bbox center; default sits near Gibraltar
-      "France":  [46.6,  2.2],   // central mainland
-      "Sweden":  [62.5, 16.0],   // central Sweden, not the southern Baltic coast
-      "Finland": [64.0, 26.0],   // central Finland
-      "Italy":   [42.5, 12.5],   // central, away from Sicily/Sardinia pull
-      "Norway":  [62.0,  9.5],   // not in EU but harmless if ever added
-    };
-
     // Major metros EIA publishes separate weekly retail prices for.
     // The lat/lng is where the pin sits on the map.
     const CITY_PINS = [
@@ -460,7 +409,35 @@
 
     // Create a Leaflet map inside the <div id="map">.
     // setView takes [latitude, longitude] and a zoom level (4 ≈ whole US).
-    const map = L.map("map").setView([39.8283, -98.5795], 4);
+    //
+    // maxBounds + maxBoundsViscosity:1.0 pen the user to a single copy of
+    // the world so dragging east or west hits a hard wall instead of
+    // sliding off into empty space. worldCopyJump:false stops Leaflet from
+    // wrapping marker positions across the antimeridian. The ±85° latitude
+    // clamp is because Web Mercator can't render closer to the poles.
+    const WORLD_BOUNDS = [[-85, -180], [85, 180]];
+    const map = L.map("map", {
+      maxBounds: WORLD_BOUNDS,
+      maxBoundsViscosity: 1.0,
+      worldCopyJump: false,
+    }).setView([39.8283, -98.5795], 4);
+
+    // Floor on zoom-out: pick the smallest zoom at which the world bounds
+    // still fully cover the viewport. Below that, you'd see blank gray
+    // strips above/below (or beside) the map. `getBoundsZoom(bounds, true)`
+    // returns the zoom where the viewport fits *inside* the bounds — which
+    // is exactly what we want. Recompute on resize so widening the window
+    // bumps the floor up if needed.
+    function updateMinZoom() {
+      map.setMinZoom(map.getBoundsZoom(WORLD_BOUNDS, true));
+    }
+    updateMinZoom();
+    window.addEventListener("resize", updateMinZoom);
+
+    // Drop the "Leaflet" prefix from the attribution control. OSM + CARTO
+    // credits stay (they're license-required); only the library's self-
+    // credit is optional, and Leaflet's docs explicitly allow removing it.
+    map.attributionControl.setPrefix(false);
 
     // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
     // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
@@ -473,6 +450,10 @@
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
       subdomains: "abcd",
       maxZoom: 19,
+      // noWrap stops the tile layer from painting extra world copies past
+      // ±180° longitude. maxBounds alone doesn't fix this — Leaflet still
+      // renders adjacent tiles at low zooms unless we explicitly opt out.
+      noWrap: true,
     };
 
     // We hold onto the active tile layer and the state-polygon layer so the
@@ -722,29 +703,6 @@
           onEachFeature: (feature, layer) => {
             const stateName = feature.properties.name;
             searchIndex.push({ name: stateName, source: "US", layer });
-            const override = LABEL_OVERRIDES[stateName];
-            if (override) {
-              // Hand-picked position for split states (VA, MI). Standalone
-              // tooltip with explicit latlng — not bound to the polygon.
-              L.tooltip({
-                permanent: true,
-                direction: "center",
-                className: "state-label",
-              })
-                .setLatLng(override)
-                .setContent(stateName)
-                .addTo(map);
-            } else {
-              // Normal case: let Leaflet auto-center the label on the polygon.
-              // bindTooltip defers the centering math until after the layer is
-              // on the map, so it works here even though the layer isn't on the
-              // map yet at this moment in the iteration.
-              layer.bindTooltip(stateName, {
-                permanent: true,
-                direction: "center",
-                className: "state-label",
-              });
-            }
 
             // Subtle hover: brighten the blue fill while the cursor's over the state.
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
@@ -851,30 +809,6 @@
           onEachFeature: (feature, layer) => {
             const { name } = feature.properties;
             searchIndex.push({ name, source: "EU", layer });
-
-            // Country name as a permanent label, like US states. Tiny
-            // countries (Malta, Luxembourg) will get crowded labels at low
-            // zoom — that's fine, they expand as you zoom in.
-            const override = EU_LABEL_OVERRIDES[name];
-            if (override) {
-              // Same pattern as the US split-state overrides: a standalone
-              // tooltip at an explicit latlng instead of one bound to the
-              // polygon (binding would re-trigger Leaflet's off-center math).
-              L.tooltip({
-                permanent: true,
-                direction: "center",
-                className: "country-label",
-              })
-                .setLatLng(override)
-                .setContent(name)
-                .addTo(map);
-            } else {
-              layer.bindTooltip(name, {
-                permanent: true,
-                direction: "center",
-                className: "country-label",
-              });
-            }
 
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
             layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
