@@ -20,7 +20,15 @@ Ship one working slice at a time — don't try to build the whole vision before 
 3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
 4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
 
-Currently in: **Slice 3 done, planning Slice 4**.
+Currently in: **Slice 4 in progress** — GasBuddy scraper + ~570 station dots are shipping; scheduled refreshes for all three pre-baked sources are wired via GitHub Actions (see `.github/workflows/`). After slice 4: **Planned features** below.
+
+## Planned features (after slice 4)
+
+Cross-cutting UI work, not new data sources. Build after the four data slices feel stable.
+
+1. **Country/state search bar** in the header — single autocomplete across every clickable shape (US states + EU countries + world countries). On select: pan/zoom to the polygon's bounds and fire its existing click handler so the price popup opens. Reuses every existing fetch path, no new data wiring. Once the news page ships, a search result should also surface recent gas/oil articles mentioning the selected place.
+
+2. **Heatmap toggle** — opt-in header button that recolors every clickable polygon by current price on a single global USD/litre scale: green = cheap, yellow ≈ global average, red = expensive (same convention as the existing GasBuddy station dots). Each US state colored individually, not as one country blob — the EIA per-state series make this possible, but they're currently lazy-fetched per click, so heatmap mode needs all 50 fetched in parallel on page load or pre-baked into a nightly JSON. Also needs a small legend somewhere on the map — without it, "Belgium is orange" is meaningless. Toggle defaults OFF so the existing click-to-learn UX stays the entry point.
 
 ## Stack
 - Plain HTML, CSS, vanilla JavaScript — no frameworks, no build tools, no `package.json`
