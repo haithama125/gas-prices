@@ -1,0 +1,39 @@
+name: Refresh EU prices
+
+# The EU Weekly Oil Bulletin drops every Thursday. We run Friday morning
+# UTC so the data is at most a day stale. `workflow_dispatch` adds a
+# "Run workflow" button in the Actions tab for manual triggers.
+on:
+  schedule:
+    - cron: "0 10 * * 5"
+  workflow_dispatch:
+
+# Needed so the job can push the refreshed JSON back to main.
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install openpyxl
+
+      - run: python3 scripts/fetch_eu_prices.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet data/eu-prices.json; then
+            echo "No changes."
+          else
+            git add data/eu-prices.json
+            git commit -m "chore: refresh EU prices"
+            git push
+          fi

@@ -1,0 +1,54 @@
+name: Refresh GasBuddy stations
+
+# Every 3 days at 10:00 UTC. `*/3` runs on day-of-month 1, 4, 7, ... 28, 31,
+# so the spacing isn't perfectly even at month boundaries — close enough.
+#
+# Caveat: GasBuddy is behind Cloudflare and GitHub Actions runs on Azure
+# IP ranges that Cloudflare's bot detection knows well. This may work for
+# a while and then start failing silently. If/when that happens, move
+# this one workflow to a cron on the Hetzner box (the other two can stay
+# here).
+on:
+  schedule:
+    - cron: "0 10 */3 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    # The scraper paces itself to avoid Cloudflare; 57 cities can take
+    # ~45 minutes. Give it room without sitting at the default 6h limit.
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Playwright + stealth
+        run: |
+          pip install playwright playwright-stealth
+          playwright install --with-deps chromium
+
+      # The scraper's resume logic *skips* cities that already have data,
+      # so for a scheduled refresh we have to start from a blank file.
+      - name: Clear stale data
+        run: rm -f data/us-city-prices.json
+
+      - run: python3 scripts/scrape_gasbuddy_cities.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet data/us-city-prices.json; then
+            echo "No changes."
+          else
+            git add data/us-city-prices.json
+            git commit -m "chore: refresh GasBuddy station prices"
+            git push
+          fi
