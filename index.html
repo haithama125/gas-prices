@@ -221,6 +221,41 @@
     }
     .leaflet-control-attribution a:hover { text-decoration: underline; }
 
+    /* Heatmap legend — a small Leaflet control pinned to the bottom-left.
+       The gradient bar uses the same HSL stops (green → yellow → red) as
+       the priceColor() JS function below, so what users see in the legend
+       matches what they see on the polygons. */
+    .legend {
+      background: var(--popup-bg);
+      color: var(--popup-text);
+      padding: 8px 10px;
+      border-radius: 6px;
+      font-size: 0.8rem;
+      line-height: 1.3;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+      min-width: 200px;
+    }
+    .legend-title {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .legend-bar {
+      height: 10px;
+      border-radius: 3px;
+      background: linear-gradient(
+        to right,
+        hsl(120, 70%, 45%),
+        hsl(60, 70%, 45%),
+        hsl(0, 70%, 45%)
+      );
+      margin: 4px 0;
+    }
+    .legend-labels {
+      display: flex;
+      justify-content: space-between;
+      color: var(--popup-muted);
+      font-size: 0.7rem;
+    }
   </style>
 </head>
 <body>
@@ -463,26 +498,30 @@
     let euCountriesLayer = null;
     let worldCountriesLayer = null;
 
-    // State polygon colors. Borders darken in light mode so they remain
-    // visible on Positron's pale background.
-    function stateStyleFor(theme) {
+    // All clickable polygons share white borders so the heatmap fills (the
+    // real signal) read uncontested. The per-layer fill colors below only
+    // show as a fallback for polygons with no price data — once
+    // paintHeatmap() runs, priced polygons take their heat color instead.
+    const POLYGON_BORDER = "#ffffff";
+    const POLYGON_REST_OPACITY = 0.65;
+    const POLYGON_HOVER_OPACITY = 0.85;
+
+    function stateStyleFor() {
       return {
-        color: theme === "light" ? "#2563eb" : "#60a5fa",
+        color: POLYGON_BORDER,
         weight: 1,
         fillColor: "#3b82f6",
-        fillOpacity: 0.2,
+        fillOpacity: POLYGON_REST_OPACITY,
       };
     }
 
-    // EU country polygon style — pulled from the CSS variables so light/dark
-    // toggling just works. We read them off <body> after applyTheme has run.
     function euStyleFor() {
       const css = getComputedStyle(document.body);
       return {
-        color: css.getPropertyValue("--eu-stroke").trim(),
+        color: POLYGON_BORDER,
         weight: 1,
         fillColor: css.getPropertyValue("--eu-fill").trim(),
-        fillOpacity: 0.2,
+        fillOpacity: POLYGON_REST_OPACITY,
       };
     }
 
@@ -506,11 +545,15 @@
       if (tileLayer) map.removeLayer(tileLayer);
       tileLayer = L.tileLayer(TILE_URLS[theme], TILE_OPTS).addTo(map);
 
-      if (statesLayer) statesLayer.setStyle(stateStyleFor(theme));
+      if (statesLayer) statesLayer.setStyle(stateStyleFor());
       // EU + world styles are read from CSS vars, which have already
       // updated above, so we just re-apply them.
       if (euCountriesLayer) euCountriesLayer.setStyle(euStyleFor());
       if (worldCountriesLayer) worldCountriesLayer.setStyle(worldStyleFor());
+
+      // The setStyle calls above wipe heatmap fillColors. Repaint so the
+      // heatmap survives a theme flip.
+      paintHeatmap();
     }
 
     // Initial theme — saved preference if any, otherwise dark.
@@ -529,6 +572,7 @@
     currencySelect.addEventListener("change", (e) => {
       localStorage.setItem("gp-currency", e.target.value);
       rerenderAllPricePopups();
+      refreshLegend();
     });
 
     // ----- EIA FETCH ----------------------------------------------------------
@@ -691,6 +735,22 @@
       if (!e.target.closest(".search")) hideResults();
     });
 
+    // ----- US STATE PRICES (pre-baked) ----------------------------------------
+    //
+    // data/us-prices.json is refreshed weekly by scripts/fetch_us_prices.py
+    // (run from the GitHub Action). One entry per state with USD/gallon +
+    // its source (state-level series vs PADD fallback). The heatmap needs
+    // all 51 prices on screen at once — too many to hit EIA live from the
+    // browser, hence the pre-bake. Per-state click popups still call EIA
+    // directly because we already had that working.
+
+    const usPricesPromise = fetch("data/us-prices.json")
+      .then((r) => r.json())
+      .catch((err) => {
+        console.error("US prices load failed", err);
+        return null;
+      });
+
     // ----- STATE SHAPES -------------------------------------------------------
 
     // GeoJSON = states as polygons. We load a public file via the jsDelivr CDN
@@ -699,14 +759,14 @@
       .then((r) => r.json())
       .then((data) => {
         statesLayer = L.geoJSON(data, {
-          style: stateStyleFor(currentTheme()),
+          style: stateStyleFor(),
           onEachFeature: (feature, layer) => {
             const stateName = feature.properties.name;
             searchIndex.push({ name: stateName, source: "US", layer });
 
             // Subtle hover: brighten the blue fill while the cursor's over the state.
-            layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
-            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
+            layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
+            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: POLYGON_REST_OPACITY }));
 
             layer.on("click", async () => {
               const stateName = feature.properties.name;
@@ -751,6 +811,8 @@
             });
           },
         }).addTo(map);
+        // Paint this layer with heatmap colors as soon as its polygons exist.
+        paintHeatmap();
       })
       .catch((err) => console.error("Failed to load state shapes", err));
 
@@ -810,8 +872,8 @@
             const { name } = feature.properties;
             searchIndex.push({ name, source: "EU", layer });
 
-            layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
-            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
+            layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
+            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: POLYGON_REST_OPACITY }));
 
             layer.on("click", async () => {
               const { iso2 } = feature.properties;
@@ -842,6 +904,7 @@
             });
           },
         }).addTo(map);
+        paintHeatmap();
       })
       .catch((err) => console.error("Failed to load EU country shapes", err));
 
@@ -873,10 +936,10 @@
     function worldStyleFor() {
       const css = getComputedStyle(document.body);
       return {
-        color: css.getPropertyValue("--world-stroke").trim(),
+        color: POLYGON_BORDER,
         weight: 1,
         fillColor: css.getPropertyValue("--world-fill").trim(),
-        fillOpacity: 0.2,
+        fillOpacity: POLYGON_REST_OPACITY,
       };
     }
 
@@ -889,8 +952,8 @@
             const { name, iso2 } = feature.properties;
             searchIndex.push({ name, source: "World", layer });
 
-            layer.on("mouseover", () => layer.setStyle({ fillOpacity: 0.5 }));
-            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: 0.2 }));
+            layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
+            layer.on("mouseout",  () => layer.setStyle({ fillOpacity: POLYGON_REST_OPACITY }));
 
             layer.on("click", async () => {
               const popup = L.popup()
@@ -921,6 +984,7 @@
             });
           },
         }).addTo(map);
+        paintHeatmap();
       })
       .catch((err) => console.error("Failed to load world country shapes", err));
 
@@ -1002,6 +1066,114 @@
         map.on("zoomend", updateStationsVisibility);
       })
       .catch((err) => console.error("Failed to load GasBuddy station data", err));
+
+    // ----- HEATMAP -----------------------------------------------------------
+    //
+    // Every clickable polygon (US state, EU country, world country) is
+    // recolored by its current gasoline price on a shared USD-per-litre
+    // scale: green = cheap, yellow ≈ global avg, red = expensive. Same
+    // convention as the GasBuddy station dots above.
+    //
+    // Scale rationale: world gasoline ranges roughly $0.02/L (Libya) to
+    // $2.30/L (Hong Kong/Denmark). Clamping to [$0.20, $2.20] with a
+    // midpoint near the global average ($1.20/L) keeps almost all real
+    // countries inside the band so subtle differences are still visible.
+
+    const HEATMAP_MIN_USD_PER_L = 0.20;
+    const HEATMAP_MAX_USD_PER_L = 2.20;
+
+    // Map a USD/L value to a HSL hue in [0, 120]. Below MIN clamps to deep
+    // green, above MAX clamps to deep red.
+    function priceColor(usdPerLitre) {
+      const span = HEATMAP_MAX_USD_PER_L - HEATMAP_MIN_USD_PER_L;
+      const t = Math.max(0, Math.min(1, (usdPerLitre - HEATMAP_MIN_USD_PER_L) / span));
+      const hue = 120 - 120 * t;
+      return `hsl(${hue}, 70%, 45%)`;
+    }
+
+    // Convert a price in (currency, unit) into USD per litre, the single
+    // axis the heatmap is built on. Mirrors the FX/unit logic in
+    // formatPrice() but always outputs USD/L regardless of user currency.
+    function toUsdPerLitre(value, nativeCurrency, nativeUnit) {
+      const usdPerNative = value * FX_TO_USD[nativeCurrency];
+      return nativeUnit === "gallon" ? usdPerNative / LITRES_PER_GALLON : usdPerNative;
+    }
+
+    // Re-style every feature in `geoJsonLayer` whose feature key (under
+    // `keyProp`) has a price in `priceMap`. `priceMap` is { key -> USD/L }.
+    // Untouched features keep their fallback fill from {state,eu,world}StyleFor.
+    function paintLayer(geoJsonLayer, keyProp, priceMap) {
+      if (!geoJsonLayer) return;
+      geoJsonLayer.eachLayer((featureLayer) => {
+        const key = featureLayer.feature?.properties?.[keyProp];
+        const usdPerL = priceMap[key];
+        if (usdPerL == null) return;
+        featureLayer.setStyle({ fillColor: priceColor(usdPerL) });
+      });
+    }
+
+    async function paintHeatmap() {
+      const [us, eu, world] = await Promise.all([usPricesPromise, euPricesPromise, worldPricesPromise]);
+
+      // US states are keyed by full name in the GeoJSON ("California"),
+      // so build a name -> USD/L map by translating us-prices.json (keyed
+      // by 2-letter code, valued in USD/gal).
+      if (us?.states) {
+        const usByName = {};
+        for (const [code, entry] of Object.entries(us.states)) {
+          if (entry.gasoline_usd_per_gallon == null) continue;
+          usByName[entry.name] = toUsdPerLitre(entry.gasoline_usd_per_gallon, "USD", "gallon");
+        }
+        paintLayer(statesLayer, "name", usByName);
+      }
+
+      if (eu?.countries) {
+        const euByIso = {};
+        for (const [iso2, entry] of Object.entries(eu.countries)) {
+          if (entry.gasoline_eur_per_l == null) continue;
+          euByIso[iso2] = toUsdPerLitre(entry.gasoline_eur_per_l, "EUR", "litre");
+        }
+        paintLayer(euCountriesLayer, "iso2", euByIso);
+      }
+
+      if (world?.countries) {
+        const worldByIso = {};
+        for (const [iso2, entry] of Object.entries(world.countries)) {
+          if (entry.gasoline_usd_per_l == null) continue;
+          worldByIso[iso2] = entry.gasoline_usd_per_l;
+        }
+        paintLayer(worldCountriesLayer, "iso2", worldByIso);
+      }
+    }
+
+    // Legend: a Leaflet control pinned bottom-left, mounted once at startup.
+    // Labels render the min/mid/max in the user's selected currency, refreshed
+    // by refreshLegend() when the currency dropdown changes.
+    function renderLegendHTML() {
+      const min = formatPrice(HEATMAP_MIN_USD_PER_L, "USD", "litre");
+      const mid = formatPrice((HEATMAP_MIN_USD_PER_L + HEATMAP_MAX_USD_PER_L) / 2, "USD", "litre");
+      const max = formatPrice(HEATMAP_MAX_USD_PER_L, "USD", "litre");
+      return `
+        <div class="legend-title">Gasoline price</div>
+        <div class="legend-bar"></div>
+        <div class="legend-labels">
+          <span>${min}</span><span>${mid}</span><span>${max}</span>
+        </div>
+      `;
+    }
+
+    const legendControl = L.control({ position: "bottomleft" });
+    legendControl.onAdd = () => {
+      const div = L.DomUtil.create("div", "legend");
+      div.innerHTML = renderLegendHTML();
+      return div;
+    };
+    legendControl.addTo(map);
+
+    function refreshLegend() {
+      const container = legendControl.getContainer();
+      if (container) container.innerHTML = renderLegendHTML();
+    }
   </script>
 </body>
 </html>

@@ -20,7 +20,7 @@ Ship one working slice at a time — don't try to build the whole vision before 
 3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
 4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
 
-Currently in: **Slice 4 in progress** — GasBuddy scraper + ~570 station dots are shipping; scheduled refreshes for all three pre-baked sources are wired via GitHub Actions (see `.github/workflows/`). After slice 4: **Planned features** below.
+Currently in: **Slice 4 in progress** — GasBuddy scraper + ~570 station dots are shipping; scheduled refreshes for all four pre-baked sources are wired via GitHub Actions (see `.github/workflows/`). After slice 4: **Planned features** below. **Planned feature 2 (price heatmap) is implemented as the default map style** — see note under it.
 
 ## Planned features (after slice 4)
 
@@ -28,7 +28,13 @@ Cross-cutting UI work, not new data sources. Build after the four data slices fe
 
 1. **Country/state search bar** in the header — single autocomplete across every clickable shape (US states + EU countries + world countries). On select: pan/zoom to the polygon's bounds and fire its existing click handler so the price popup opens. Reuses every existing fetch path, no new data wiring. Once the news page ships, a search result should also surface recent gas/oil articles mentioning the selected place.
 
-2. **Heatmap toggle** — opt-in header button that recolors every clickable polygon by current price on a single global USD/litre scale: green = cheap, yellow ≈ global average, red = expensive (same convention as the existing GasBuddy station dots). Each US state colored individually, not as one country blob — the EIA per-state series make this possible, but they're currently lazy-fetched per click, so heatmap mode needs all 50 fetched in parallel on page load or pre-baked into a nightly JSON. Also needs a small legend somewhere on the map — without it, "Belgium is orange" is meaningless. Toggle defaults OFF so the existing click-to-learn UX stays the entry point.
+2. **Price heatmap (default)** — Every clickable polygon (US state, EU country, world country) is colored by its current gasoline price on a single global USD/litre scale: green = cheap, yellow ≈ global avg, red = expensive (same convention as the GasBuddy station dots). All borders are white so the heat colors carry the signal uncontested. A legend sits in the bottom-left of the map with min/mid/max labels in the user's selected currency, so "Belgium is orange" actually means something. No opt-in toggle — this is the default appearance.
+
+   **Implementation notes (pending in-browser smoke test):**
+   - `scripts/fetch_us_prices.py` resolves all 50 states + DC to a per-state USD/gallon via 14 EIA series (9 state + 5 PADD fallback), writes `data/us-prices.json`. `.github/workflows/refresh-us-prices.yml` runs it Tuesday mornings UTC.
+   - `index.html` exposes `priceColor(usdPerLitre)` (HSL green→yellow→red, clamped to [$0.20, $2.20] USD/L) and `paintHeatmap()` which keys US states by name and EU/world by iso2. `paintHeatmap()` is called after each polygon layer's GeoJSON finishes loading, and again from `applyTheme()` so a light/dark flip doesn't wipe colors.
+   - Fallback polygons (no matching price entry) keep their per-layer theme fill from `stateStyleFor` / `euStyleFor` / `worldStyleFor`, which now also use the shared `POLYGON_BORDER` (white) and `POLYGON_REST_OPACITY` (0.65) so the look is consistent with priced polygons. Hover bumps opacity to `POLYGON_HOVER_OPACITY` (0.85).
+   - Smoke test before declaring done: `python3 -m http.server 8000`, open `http://localhost:8000`, eyeball that (a) US/EU/world all recolor on first paint, (b) borders are white, (c) the bottom-left legend reads sensibly and re-labels when the currency dropdown changes, (d) a light/dark toggle doesn't wipe the colors, (e) GasBuddy station dots still appear past zoom 7. If everything looks blandly yellow, tighten the [MIN,MAX] range; if too much red, widen it.
 
 ## Stack
 - Plain HTML, CSS, vanilla JavaScript — no frameworks, no build tools, no `package.json`
