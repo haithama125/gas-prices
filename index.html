@@ -98,7 +98,8 @@
     }
 
     #theme-toggle,
-    #currency-select {
+    #currency-select,
+    .header-link {
       background: var(--toggle-bg);
       color: var(--toggle-text);
       border: 1px solid var(--toggle-border);
@@ -106,10 +107,21 @@
       padding: 0.4rem 0.75rem;
       font: inherit;
       font-size: 0.85rem;
+      text-decoration: none;
       cursor: pointer;
     }
     #theme-toggle:hover,
-    #currency-select:hover { opacity: 0.85; }
+    #currency-select:hover,
+    .header-link:hover { opacity: 0.85; }
+
+    /* Tiny "News →" link inside each price popup. We want it to read as a
+       link, not as a button, so just use the popup text accent color. */
+    .popup-news-link {
+      color: var(--link);
+      text-decoration: none;
+      font-size: 0.8rem;
+    }
+    .popup-news-link:hover { text-decoration: underline; }
 
     /* Search bar. The wrapper is position:relative so the absolutely-
        positioned results dropdown hangs off the input. flex:1 with a cap
@@ -286,6 +298,7 @@
         <option value="GBP">GBP (£/litre)</option>
         <option value="CAD">CAD (C$/litre)</option>
       </select>
+      <a class="header-link" href="news/">News →</a>
       <button id="theme-toggle" type="button" aria-label="Toggle light/dark mode">Light mode</button>
     </div>
   </header>
@@ -805,7 +818,8 @@
                 popup.setContent(
                   `<strong>${stateName}</strong><br>` +
                   `${formatPrice(price.value, "USD", "gallon")}<br>` +
-                  `<small>${sourceLabel} · Week of ${price.period}</small>`
+                  `<small>${sourceLabel} · Week of ${price.period}</small><br>` +
+                  `<a class="popup-news-link" href="news/?country=${encodeURIComponent(stateName)}">News →</a>`
                 );
               });
             });
@@ -898,7 +912,8 @@
                 popup.setContent(
                   `<strong>${name}</strong><br>` +
                   `${formatPrice(entry.gasoline_eur_per_l, "EUR", "litre")} (Euro-super 95)<br>` +
-                  `<small>EU Weekly Oil Bulletin · Week of ${prices.week_of}</small>`
+                  `<small>EU Weekly Oil Bulletin · Week of ${prices.week_of}</small><br>` +
+                  `<a class="popup-news-link" href="news/?country=${encodeURIComponent(name)}">News →</a>`
                 );
               });
             });
@@ -978,7 +993,8 @@
                 popup.setContent(
                   `<strong>${name}</strong><br>` +
                   `${formatPrice(entry.gasoline_usd_per_l, "USD", "litre")}<br>` +
-                  `<small>GlobalPetrolPrices.com · Updated ${updated}</small>`
+                  `<small>GlobalPetrolPrices.com · Updated ${updated}</small><br>` +
+                  `<a class="popup-news-link" href="news/?country=${encodeURIComponent(name)}">News →</a>`
                 );
               });
             });

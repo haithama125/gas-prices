@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Gas & Oil News</title>
+
+  <style>
+    /* Same CSS-variable system as index.html so theme + colors stay in
+       sync across pages. The light/dark choice itself is stored in
+       localStorage under 'gp-theme', also shared with the map page. */
+    :root {
+      --page-bg:         #1a1a1a;
+      --header-bg:       #1a1a1a;
+      --header-text:     #ffffff;
+      --header-subtle:   rgba(255, 255, 255, 0.7);
+      --header-border:   transparent;
+      --toggle-bg:       rgba(255, 255, 255, 0.1);
+      --toggle-border:   rgba(255, 255, 255, 0.25);
+      --toggle-text:     #ffffff;
+      --card-bg:         #1f2937;
+      --card-border:     rgba(255, 255, 255, 0.08);
+      --card-text:       #e5e7eb;
+      --card-muted:      #9ca3af;
+      --link:            #93c5fd;
+      --highlight:       #34d399;     /* same emerald the world layer uses on the map */
+      --highlight-soft:  rgba(52, 211, 153, 0.12);
+    }
+    [data-theme="light"] {
+      --page-bg:         #f8fafc;
+      --header-bg:       #ffffff;
+      --header-text:     #1e3a8a;
+      --header-subtle:   #3b82f6;
+      --header-border:   #dbeafe;
+      --toggle-bg:       #eff6ff;
+      --toggle-border:   #bfdbfe;
+      --toggle-text:     #1e3a8a;
+      --card-bg:         #ffffff;
+      --card-border:     #e5e7eb;
+      --card-text:       #1f2937;
+      --card-muted:      #6b7280;
+      --link:            #2563eb;
+      --highlight:       #047857;
+      --highlight-soft:  rgba(4, 120, 87, 0.08);
+    }
+
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: var(--page-bg);
+      color: var(--card-text);
+      min-height: 100vh;
+    }
+
+    header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 1rem;
+      padding: 1rem 1.5rem;
+      background: var(--header-bg);
+      color: var(--header-text);
+      border-bottom: 1px solid var(--header-border);
+      flex-wrap: wrap;
+    }
+    header h1 { margin: 0; font-size: 1.25rem; }
+    header p  { margin: 0.25rem 0 0; font-size: 0.85rem; color: var(--header-subtle); }
+    .header-controls {
+      display: flex;
+      gap: 0.5rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+    #theme-toggle,
+    #country-select,
+    .header-link {
+      background: var(--toggle-bg);
+      color: var(--toggle-text);
+      border: 1px solid var(--toggle-border);
+      border-radius: 6px;
+      padding: 0.4rem 0.75rem;
+      font: inherit;
+      font-size: 0.85rem;
+      text-decoration: none;
+      cursor: pointer;
+    }
+    #theme-toggle:hover,
+    #country-select:hover,
+    .header-link:hover { opacity: 0.85; }
+
+    main {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    .status {
+      color: var(--card-muted);
+      padding: 2rem 0;
+      text-align: center;
+      font-size: 0.95rem;
+    }
+    .status.error { color: #f87171; }
+
+    /* When a country is selected we surface its matching articles in a
+       separate strip above the rest, so the user doesn't have to scan a
+       long list looking for green-bordered cards. */
+    .news-section-title {
+      font-size: 0.85rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--card-muted);
+      margin: 1.5rem 0 0.75rem;
+    }
+    .news-section-title:first-of-type { margin-top: 0; }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1rem;
+    }
+
+    .news-card {
+      display: flex;
+      flex-direction: column;
+      background: var(--card-bg);
+      color: var(--card-text);
+      border: 1px solid var(--card-border);
+      border-radius: 8px;
+      overflow: hidden;
+      text-decoration: none;
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+    .news-card:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.25);
+    }
+    .news-card img {
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      object-fit: cover;
+      background: var(--card-border);
+    }
+    .news-card .body {
+      padding: 0.75rem 0.9rem 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      flex: 1;
+    }
+    .news-card h3 {
+      margin: 0;
+      font-size: 1rem;
+      line-height: 1.3;
+    }
+    .news-card p {
+      margin: 0;
+      font-size: 0.85rem;
+      color: var(--card-muted);
+      line-height: 1.4;
+      /* Cap the description so cards stay similar heights. -webkit-line-clamp
+         works in every modern browser despite the vendor prefix. */
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    .news-card small {
+      color: var(--card-muted);
+      font-size: 0.75rem;
+      margin-top: auto;
+    }
+
+    /* Highlighted cards (matching the selected country) get an emerald
+       border + a soft tint so they read as a distinct group. */
+    .news-card.highlighted {
+      border-color: var(--highlight);
+      background: linear-gradient(var(--highlight-soft), var(--highlight-soft)), var(--card-bg);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Gas &amp; Oil News</h1>
+      <p>Recent headlines on global fuel prices</p>
+    </div>
+    <div class="header-controls">
+      <select id="country-select" aria-label="Highlight news about a country">
+        <option value="">Highlight country…</option>
+      </select>
+      <a class="header-link" href="../index.html">← Map</a>
+      <button id="theme-toggle" type="button" aria-label="Toggle light/dark mode">Light mode</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="status" class="status">Loading news…</div>
+    <div id="highlighted-section" hidden>
+      <div class="news-section-title" id="highlighted-title">Mentions selected country</div>
+      <div id="highlighted-grid" class="news-grid"></div>
+    </div>
+    <div id="other-section" hidden>
+      <div class="news-section-title">Other headlines</div>
+      <div id="other-grid" class="news-grid"></div>
+    </div>
+  </main>
+
+  <script>
+    // ----- CONFIG -------------------------------------------------------------
+
+    // GNews free tier: 100 requests/day, 10 articles/request, no Origin
+    // restrictions (works from any browser, including GitHub Pages).
+    // Register for a free key at https://gnews.io/ and paste it below.
+    const NEWS_API_KEY = "ed524fdc4a4a4c6deaf6e3733a8ad284";
+
+    // The query the page loads with. We OR a few gas/oil-adjacent terms so
+    // results aren't dominated by a single phrase. GNews's "q" supports
+    // basic boolean operators in quotes.
+    const NEWS_QUERY = '"gas prices" OR "gasoline prices" OR "oil prices" OR petrol';
+
+    // Hardcoded country list for the highlight dropdown. Substring-matched
+    // against article title + description, case-insensitive. The list is
+    // deliberately a single primary name per country — adding aliases
+    // ("U.S.", "America", "UAE") is a future polish but creates word-boundary
+    // headaches ("US" matching "USA" or "RUSsia") that aren't worth solving
+    // until the basic flow proves itself.
+    const COUNTRIES = [
+      "Argentina", "Australia", "Austria", "Belgium", "Brazil", "Canada",
+      "Chile", "China", "Colombia", "Croatia", "Czechia", "Denmark", "Egypt",
+      "Finland", "France", "Germany", "Greece", "Hungary", "India", "Indonesia",
+      "Iran", "Iraq", "Ireland", "Israel", "Italy", "Japan", "Kuwait", "Mexico",
+      "Netherlands", "New Zealand", "Nigeria", "Norway", "Pakistan",
+      "Philippines", "Poland", "Portugal", "Qatar", "Romania", "Russia",
+      "Saudi Arabia", "Singapore", "South Africa", "South Korea", "Spain",
+      "Sweden", "Switzerland", "Thailand", "Turkey",
+      "United Arab Emirates", "United Kingdom", "United States", "Venezuela",
+      "Vietnam",
+    ];
+
+    // ----- THEME (shared with index.html via localStorage 'gp-theme') --------
+
+    function applyTheme(theme) {
+      document.body.dataset.theme = theme;
+      localStorage.setItem("gp-theme", theme);
+      document.getElementById("theme-toggle").textContent =
+        theme === "light" ? "Dark mode" : "Light mode";
+    }
+    applyTheme(localStorage.getItem("gp-theme") || "dark");
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+      applyTheme(document.body.dataset.theme === "light" ? "dark" : "light");
+    });
+
+    // ----- COUNTRY DROPDOWN --------------------------------------------------
+
+    const countrySelect = document.getElementById("country-select");
+    for (const c of COUNTRIES) {
+      const opt = document.createElement("option");
+      opt.value = c;
+      opt.textContent = c;
+      countrySelect.appendChild(opt);
+    }
+
+    // The map page deep-links here via news/?country=NAME. If that param
+    // is present and matches an option, pre-select it. If it's present but
+    // not in the dropdown (e.g. a US state name like "Texas"), add it as a
+    // one-off option so the highlight still works.
+    const params = new URLSearchParams(location.search);
+    const initialCountry = params.get("country");
+    if (initialCountry) {
+      if (!COUNTRIES.includes(initialCountry)) {
+        const opt = document.createElement("option");
+        opt.value = initialCountry;
+        opt.textContent = initialCountry;
+        countrySelect.insertBefore(opt, countrySelect.options[1]);
+      }
+      countrySelect.value = initialCountry;
+    }
+
+    countrySelect.addEventListener("change", () => {
+      // Update the URL so the highlight is shareable/bookmarkable, but
+      // don't push history entries — back-button shouldn't cycle through
+      // every dropdown change.
+      const url = new URL(location.href);
+      if (countrySelect.value) url.searchParams.set("country", countrySelect.value);
+      else url.searchParams.delete("country");
+      history.replaceState(null, "", url);
+      render();
+    });
+
+    // ----- FETCH NEWS --------------------------------------------------------
+
+    const status = document.getElementById("status");
+    const highlightedSection = document.getElementById("highlighted-section");
+    const highlightedGrid = document.getElementById("highlighted-grid");
+    const highlightedTitle = document.getElementById("highlighted-title");
+    const otherSection = document.getElementById("other-section");
+    const otherGrid = document.getElementById("other-grid");
+
+    let articles = [];
+
+    async function loadNews() {
+      if (NEWS_API_KEY === "PASTE_YOUR_GNEWS_KEY_HERE") {
+        status.textContent = "Add your GNews API key at the top of news/index.html to load articles.";
+        status.classList.add("error");
+        return;
+      }
+      const url = "https://gnews.io/api/v4/search"
+        + "?q=" + encodeURIComponent(NEWS_QUERY)
+        + "&lang=en"
+        + "&max=10"
+        + "&apikey=" + NEWS_API_KEY;
+      try {
+        const res = await fetch(url);
+        if (!res.ok) {
+          const body = await res.text();
+          throw new Error(`GNews ${res.status}: ${body.slice(0, 200)}`);
+        }
+        const json = await res.json();
+        articles = json.articles || [];
+        if (!articles.length) {
+          status.textContent = "No articles found.";
+          return;
+        }
+        status.hidden = true;
+        render();
+      } catch (err) {
+        console.error(err);
+        status.textContent = "Failed to load news: " + err.message;
+        status.classList.add("error");
+      }
+    }
+
+    // ----- RENDER ------------------------------------------------------------
+
+    // Minimal HTML escape so external titles/descriptions can't inject markup.
+    function esc(s) {
+      return String(s ?? "")
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;");
+    }
+
+    function articleMatchesCountry(article, country) {
+      if (!country) return false;
+      const haystack = ((article.title || "") + " " + (article.description || "")).toLowerCase();
+      return haystack.includes(country.toLowerCase());
+    }
+
+    function cardHTML(article, highlighted) {
+      const date = new Date(article.publishedAt).toLocaleDateString(undefined, {
+        year: "numeric", month: "short", day: "numeric",
+      });
+      const source = article.source?.name || "Unknown source";
+      const img = article.image
+        ? `<img src="${esc(article.image)}" loading="lazy" alt="">`
+        : "";
+      return `
+        <a class="news-card${highlighted ? ' highlighted' : ''}"
+           href="${esc(article.url)}" target="_blank" rel="noopener">
+          ${img}
+          <div class="body">
+            <h3>${esc(article.title)}</h3>
+            <p>${esc(article.description || "")}</p>
+            <small>${esc(source)} · ${esc(date)}</small>
+          </div>
+        </a>
+      `;
+    }
+
+    function render() {
+      const country = countrySelect.value;
+      if (!country) {
+        highlightedSection.hidden = true;
+        otherSection.hidden = false;
+        otherGrid.innerHTML = articles.map((a) => cardHTML(a, false)).join("");
+        return;
+      }
+      const matches = [];
+      const rest = [];
+      for (const a of articles) {
+        (articleMatchesCountry(a, country) ? matches : rest).push(a);
+      }
+      if (matches.length) {
+        highlightedTitle.textContent = `Mentions ${country}`;
+        highlightedGrid.innerHTML = matches.map((a) => cardHTML(a, true)).join("");
+        highlightedSection.hidden = false;
+      } else {
+        highlightedTitle.textContent = `No recent articles mention ${country}`;
+        highlightedGrid.innerHTML = "";
+        highlightedSection.hidden = false;
+      }
+      otherSection.hidden = !rest.length;
+      otherGrid.innerHTML = rest.map((a) => cardHTML(a, false)).join("");
+    }
+
+    loadNews();
+  </script>
+</body>
+</html>

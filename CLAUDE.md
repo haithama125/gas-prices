@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 A US gas prices dashboard the user is building as their second coding project. Three pages planned:
 - `index.html` (home) — Leaflet map; click a state → current price + 12-month trend
-- `news/index.html` — recent gas/oil news via NewsAPI (v2)
+- `news/index.html` — recent gas/oil news via GNews (works from any browser, including GitHub Pages — NewsAPI's free tier is localhost-only so we don't use it). Country dropdown highlights articles mentioning the selected place; URL accepts `?country=NAME` for deep links from map popups.
 - `dashboard/index.html` — national average, top/bottom states, charts via Chart.js (v2)
 
 The eventual "click anywhere in the world" vision needs a small backend service — the user rents Hetzner servers and is willing to host one. The plan is to ship US-only first as a pure static page (browser → EIA directly), then layer in a backend for international coverage and finer-grain US data. See **Roadmap** below.
@@ -43,7 +43,7 @@ Cross-cutting UI work, not new data sources. Build after the four data slices fe
 
 ## Data sources
 - US prices: [EIA Open Data API](https://www.eia.gov/opendata/) — free, requires per-user API key
-- News: [NewsAPI.org](https://newsapi.org) free tier (100 req/day)
+- News: [GNews](https://gnews.io/) free tier (100 req/day, 10 articles/request). Picked over NewsAPI because NewsAPI's free tier only serves requests from localhost, which breaks the moment you push to GitHub Pages.
 
 API keys live in browser code for now (personal project, free APIs with low-stakes keys). If the project ever moves beyond personal use, proxy calls through a tiny backend rather than committing keys.
 
