@@ -404,6 +404,44 @@
       color: var(--text-muted);
       font-size: 0.72rem;
     }
+
+    /* ---------- MOBILE LAYOUT (≤ 720px) --------------------------------
+       At narrow widths the side-by-side map+sidebar grid squeezes both.
+       We stack them vertically and wrap the header so the search bar gets
+       its own row. The map keeps a fixed viewport-height share so it never
+       collapses to a strip. */
+    @media (max-width: 720px) {
+      header {
+        flex-wrap: wrap;
+        height: auto;
+        padding: 0.55rem 0.75rem;
+        gap: 0.45rem;
+      }
+      .brand-logo { width: 40px; height: 40px; }
+      .brand { font-size: 1.05rem; gap: 0.5rem; padding: 0; }
+      .tab { padding: 0.4rem 0.55rem; font-size: 0.82rem; }
+      .tab svg { width: 13px; height: 13px; }
+      /* order:10 pushes the search to the end of the flex row, where it
+         wraps to a second line with flex-basis:100% taking the full width. */
+      .search { order: 10; flex: 1 1 100%; }
+      #search-input { padding: 0.5rem 0.85rem 0.5rem 2rem; }
+      #currency-select { padding: 0.45rem 0.5rem; font-size: 0.8rem; }
+      #theme-toggle { width: 38px; height: 38px; }
+
+      /* Stack map over sidebar. display:block lets the page scroll
+         naturally on mobile instead of pinning everything to viewport. */
+      .layout {
+        display: block;
+        height: auto;
+      }
+      #map { height: 55vh; }
+      .snapshot {
+        border-left: none;
+        border-top: 1px solid var(--border);
+        overflow: visible;
+      }
+      .snap-price { font-size: 1.55rem; }
+    }
   </style>
 </head>
 <body>
@@ -464,6 +502,11 @@
         <div class="snap-label">World most expensive</div>
         <div class="snap-price danger" id="snap-expensive-price">—</div>
         <div class="snap-source" id="snap-expensive-place">Loading…</div>
+      </div>
+      <div class="snap-card">
+        <div class="snap-label">Global avg</div>
+        <div class="snap-price" id="snap-global-price">—</div>
+        <div class="snap-source" id="snap-global-source"><span class="meta">Loading…</span></div>
       </div>
       <div class="snap-card">
         <div class="snap-label">US national avg</div>
@@ -666,7 +709,13 @@
       map.setMinZoom(map.getBoundsZoom(WORLD_BOUNDS, true));
     }
     updateMinZoom();
-    window.addEventListener("resize", updateMinZoom);
+    window.addEventListener("resize", () => {
+      updateMinZoom();
+      // Leaflet caches the container size; invalidateSize() makes it
+      // re-measure so the map redraws correctly when the layout shifts
+      // (window resize, mobile orientation flip, etc.).
+      map.invalidateSize();
+    });
 
     // Drop the "Leaflet" prefix from the attribution control. OSM + CARTO
     // credits stay (they're license-required); only the library's self-
@@ -754,11 +803,15 @@
       paintHeatmap();
     }
 
-    // Initial theme — saved preference if any, otherwise dark.
-    applyTheme(localStorage.getItem("gp-theme") || "dark");
+    // Initial theme — a `theme` in the URL hash (deep link) wins, then
+    // saved preference, then dark as a final default. applyTheme persists
+    // to localStorage either way, so a shared link's theme also sticks.
+    applyTheme(parseHash().theme || localStorage.getItem("gp-theme") || "dark");
 
     document.getElementById("theme-toggle").addEventListener("click", () => {
-      applyTheme(currentTheme() === "light" ? "dark" : "light");
+      const next = currentTheme() === "light" ? "dark" : "light";
+      applyTheme(next);
+      updateHash({ theme: next });
     });
 
     // Currency dropdown: restore the saved choice on load, then save changes.
@@ -766,13 +819,76 @@
     // render in the new currency, which is good enough and avoids tracking
     // every popup's original native price.
     const currencySelect = document.getElementById("currency-select");
+    // A `cur` in the URL hash (deep link) wins over localStorage on load —
+    // and we persist it so the link's currency sticks for the next visit.
+    const hashCur = parseHash().cur;
+    if (hashCur && FX_TO_USD[hashCur]) {
+      localStorage.setItem("gp-currency", hashCur);
+    }
     currencySelect.value = getCurrency();
     currencySelect.addEventListener("change", (e) => {
       localStorage.setItem("gp-currency", e.target.value);
+      updateHash({ cur: e.target.value });
       rerenderAllPricePopups();
       refreshLegend();
       renderSnapshot();
     });
+
+    // ----- DEEP LINKING (URL hash) -------------------------------------------
+    //
+    // The map URL can carry the user's view: #region=US-CA&cur=EUR&theme=light
+    // opens directly to that region in that currency. Share-friendly links
+    // for "Belgium right now" without any backend.
+    //
+    // - region keys: "US-XX" for states, ISO2 for EU + world countries.
+    //   Polygon click handlers register themselves in regionByKey as their
+    //   layer loads, and a pending deep-link is applied as soon as its key
+    //   shows up there.
+    // - currency / theme: applied at load time (above for currency, below
+    //   for theme), and re-written on every user change so the URL always
+    //   reflects the current view. history.replaceState keeps the back
+    //   button clean — every interaction would otherwise add a history
+    //   entry the user has to click back through.
+
+    const regionByKey = new Map(); // 'US-CA' | 'BE' -> Leaflet layer
+
+    // function declaration (not arrow) so it hoists — the currency setup
+    // block above calls parseHash() before reaching this section.
+    function parseHash() {
+      const h = location.hash.startsWith("#") ? location.hash.slice(1) : location.hash;
+      const p = new URLSearchParams(h);
+      return {
+        region: p.get("region") || null,
+        cur:    p.get("cur")    || null,
+        theme:  p.get("theme")  || null,
+      };
+    }
+
+    function updateHash(partial) {
+      const next = { ...parseHash(), ...partial };
+      const p = new URLSearchParams();
+      for (const [k, v] of Object.entries(next)) {
+        if (v) p.set(k, v); // null/empty removes the key entirely
+      }
+      const str = p.toString();
+      const url = str ? "#" + str : location.pathname + location.search;
+      history.replaceState(null, "", url);
+    }
+
+    // Pending until the matching layer loads. Set once at startup from the
+    // URL; cleared by tryApplyDeepLink() after the click is fired.
+    let pendingDeepLinkRegion = parseHash().region;
+
+    function tryApplyDeepLink() {
+      if (!pendingDeepLinkRegion) return;
+      const layer = regionByKey.get(pendingDeepLinkRegion);
+      if (!layer) return; // its layer hasn't loaded yet — try again later
+      // Reuse the existing flyTo + click path so we get the same popup +
+      // sidebar selection behavior as a manual click.
+      map.flyToBounds(layer.getBounds(), { padding: [40, 40], maxZoom: 6 });
+      layer.fire("click");
+      pendingDeepLinkRegion = null;
+    }
 
     // ----- EIA FETCH ----------------------------------------------------------
 
@@ -961,7 +1077,10 @@
           style: stateStyleFor(),
           onEachFeature: (feature, layer) => {
             const stateName = feature.properties.name;
+            const stateCode = STATE_NAME_TO_CODE[stateName];
             searchIndex.push({ name: stateName, source: "US", layer });
+            // Register so a #region=US-CA deep link can find this layer.
+            if (stateCode) regionByKey.set("US-" + stateCode, layer);
 
             // Subtle hover: brighten the blue fill while the cursor's over the state.
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
@@ -970,6 +1089,7 @@
             layer.on("click", async () => {
               const stateName = feature.properties.name;
               const stateCode = STATE_NAME_TO_CODE[stateName];
+              if (stateCode) updateHash({ region: "US-" + stateCode });
 
               // If EIA publishes the state directly, use that. Otherwise fall
               // back to the state's PADD regional average.
@@ -1014,6 +1134,7 @@
         }).addTo(map);
         // Paint this layer with heatmap colors as soon as its polygons exist.
         paintHeatmap();
+        tryApplyDeepLink();
       })
       .catch((err) => console.error("Failed to load state shapes", err));
 
@@ -1041,6 +1162,10 @@
       marker.bindPopup(`<strong>${city.name}</strong><br>Loading…`);
 
       marker.on("click", async () => {
+        // City pins aren't deep-linkable on their own, so drop any prior
+        // region from the URL — otherwise a #region=BE would linger after
+        // the user moves on to clicking pins.
+        updateHash({ region: null });
         if (!keyIsSet()) {
           marker.setPopupContent(`<strong>${city.name}</strong><br>${KEY_MISSING_MSG}`);
           return;
@@ -1086,14 +1211,16 @@
         euCountriesLayer = L.geoJSON(data, {
           style: euStyleFor(),
           onEachFeature: (feature, layer) => {
-            const { name } = feature.properties;
+            const { name, iso2 } = feature.properties;
             searchIndex.push({ name, source: "EU", layer });
+            if (iso2) regionByKey.set(iso2, layer);
 
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
             layer.on("mouseout",  () => layer.setStyle({ fillOpacity: POLYGON_REST_OPACITY }));
 
             layer.on("click", async () => {
               const { iso2 } = feature.properties;
+              if (iso2) updateHash({ region: iso2 });
               const popup = L.popup()
                 .setLatLng(layer.getBounds().getCenter())
                 .setContent(`<strong>${name}</strong><br>Loading…`)
@@ -1124,6 +1251,7 @@
           },
         }).addTo(map);
         paintHeatmap();
+        tryApplyDeepLink();
       })
       .catch((err) => console.error("Failed to load EU country shapes", err));
 
@@ -1162,11 +1290,13 @@
           onEachFeature: (feature, layer) => {
             const { name, iso2 } = feature.properties;
             searchIndex.push({ name, source: "World", layer });
+            if (iso2) regionByKey.set(iso2, layer);
 
             layer.on("mouseover", () => layer.setStyle({ fillOpacity: POLYGON_HOVER_OPACITY }));
             layer.on("mouseout",  () => layer.setStyle({ fillOpacity: POLYGON_REST_OPACITY }));
 
             layer.on("click", async () => {
+              if (iso2) updateHash({ region: iso2 });
               const popup = L.popup()
                 .setLatLng(layer.getBounds().getCenter())
                 .setContent(`<strong>${name}</strong><br>Loading…`)
@@ -1198,6 +1328,7 @@
           },
         }).addTo(map);
         paintHeatmap();
+        tryApplyDeepLink();
       })
       .catch((err) => console.error("Failed to load world country shapes", err));
 
@@ -1263,6 +1394,7 @@
           });
           marker.bindPopup(`<strong>${s.brand || s.name}</strong><br>Loading…`);
           marker.on("click", () => {
+            updateHash({ region: null }); // station selections aren't deep-linkable
             setSelected(
               `${s.brand || s.name} (${s.city})`,
               s.price_usd_per_gallon, "USD", "gallon",
@@ -1443,6 +1575,7 @@
     const snapshotData = {
       cheapest: null,    // { name, usdPerL }
       expensive: null,   // { name, usdPerL }
+      globalAverage: null, // { usdPerL, countryCount } — US counted once
       usAverage: null,   // { usdPerGallon, weekOf }
       euAverage: null,   // { eurPerL, weekOf }
       // selected.eiaSeries (optional) is the EIA duoarea code we use to
@@ -1663,6 +1796,38 @@
         }
       }
 
+      // Global avg: the US contributes one entry (its national average),
+      // each EU country one, each remaining world country one. Without
+      // collapsing the US, 50 states would drown out everywhere else and
+      // drag the global mean toward US prices. All values normalized to
+      // USD/L before averaging so units don't mix.
+      const allCountryPrices = [];
+      if (snapshotData.usAverage) {
+        allCountryPrices.push(
+          toUsdPerLitre(snapshotData.usAverage.usdPerGallon, "USD", "gallon")
+        );
+      }
+      if (eu?.countries) {
+        for (const e of Object.values(eu.countries)) {
+          if (e.gasoline_eur_per_l != null) {
+            allCountryPrices.push(toUsdPerLitre(e.gasoline_eur_per_l, "EUR", "litre"));
+          }
+        }
+      }
+      if (world?.countries) {
+        for (const e of Object.values(world.countries)) {
+          if (e.gasoline_usd_per_l != null) {
+            allCountryPrices.push(e.gasoline_usd_per_l);
+          }
+        }
+      }
+      if (allCountryPrices.length) {
+        snapshotData.globalAverage = {
+          usdPerL: allCountryPrices.reduce((a, b) => a + b, 0) / allCountryPrices.length,
+          countryCount: allCountryPrices.length,
+        };
+      }
+
       renderSnapshot();
     }
 
@@ -1678,6 +1843,12 @@
           snapshotData.expensive.usdPerL, "USD", "litre");
         document.getElementById("snap-expensive-place").textContent =
           snapshotData.expensive.name;
+      }
+      if (snapshotData.globalAverage) {
+        setSnapPrice("snap-global-price",
+          snapshotData.globalAverage.usdPerL, "USD", "litre");
+        document.getElementById("snap-global-source").innerHTML =
+          `<span class="meta">${snapshotData.globalAverage.countryCount} countries · US counted as one</span>`;
       }
       if (snapshotData.usAverage) {
         setSnapPrice("snap-us-price",
