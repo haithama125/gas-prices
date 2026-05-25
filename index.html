@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Gas Prices</title>
+  <link rel="icon" type="image/png" href="favicon.png" />
+  <link rel="apple-touch-icon" href="favicon.png" />
 
   <!-- Leaflet: a free map library. Loaded from a CDN so we don't need to install anything. -->
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -75,21 +77,27 @@
       padding: 0.75rem 1rem;
       background: var(--bg-base);
       border-bottom: 1px solid var(--border);
-      height: 64px;
+      height: 84px;
     }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 0.5rem;
+      gap: 0.65rem;
       padding: 0 0.25rem 0 0.25rem;
-      font-size: 1.05rem;
+      font-size: 1.25rem;
       font-weight: 600;
       color: var(--text-strong);
       white-space: nowrap;
     }
-    .brand-icon { font-size: 1.35rem; line-height: 1; }
     .brand .accent { color: var(--accent); }
+    .brand-logo {
+      width: 64px;
+      height: 64px;
+      display: block;
+      flex-shrink: 0;
+      object-fit: contain;
+    }
 
     .tabs { display: flex; gap: 0.4rem; align-items: center; }
     .tab {
@@ -222,7 +230,7 @@
     .layout {
       display: grid;
       grid-template-columns: 1fr 360px;
-      height: calc(100vh - 64px);
+      height: calc(100vh - 84px);
     }
     #map {
       height: 100%;
@@ -354,6 +362,14 @@
     .leaflet-control-attribution a { color: inherit; text-decoration: none; }
     .leaflet-control-attribution a:hover { text-decoration: underline; }
 
+    .city-pin {
+      /* Indigo — distinct from the green/yellow/red heatmap signal so the
+         pins read as UI markers, not price data. Pops on both themes. */
+      color: #818cf8;
+      filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.55));
+    }
+    .city-pin svg { display: block; }
+
     /* Heatmap legend — a small Leaflet control pinned to bottom-left. */
     .legend {
       background: var(--bg-panel);
@@ -393,7 +409,7 @@
 <body>
   <header>
     <div class="brand">
-      <span class="brand-icon">⛽</span>
+      <img class="brand-logo" src="logo.png" alt="" />
       <span>Gas <span class="accent">Prices</span></span>
     </div>
     <nav class="tabs">
@@ -1003,8 +1019,23 @@
 
     // ----- CITY PINS ----------------------------------------------------------
 
+    // Teal SVG pin so city markers match the site's accent color
+    // instead of Leaflet's default blue PNG.
+    const cityPinIcon = L.divIcon({
+      className: "city-pin",
+      html:
+        '<svg xmlns="http://www.w3.org/2000/svg" width="26" height="38" viewBox="0 0 26 38">' +
+          '<path fill="currentColor" stroke="rgba(0,0,0,0.35)" stroke-width="1" ' +
+            'd="M13 1C6.4 1 1 6.3 1 12.8c0 9.1 12 24.2 12 24.2s12-15.1 12-24.2C25 6.3 19.6 1 13 1z"/>' +
+          '<circle cx="13" cy="13" r="4.5" fill="rgba(255,255,255,0.95)"/>' +
+        '</svg>',
+      iconSize: [26, 38],
+      iconAnchor: [13, 37],
+      popupAnchor: [0, -32],
+    });
+
     CITY_PINS.forEach((city) => {
-      const marker = L.marker([city.lat, city.lng]).addTo(map);
+      const marker = L.marker([city.lat, city.lng], { icon: cityPinIcon }).addTo(map);
       // Initial popup text — Leaflet shows this immediately on click, then our
       // handler swaps in the real price once the fetch resolves.
       marker.bindPopup(`<strong>${city.name}</strong><br>Loading…`);
