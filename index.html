@@ -9,250 +9,370 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
+  <!-- Chart.js (v4) for the sparkline charts in the Global Snapshot sidebar.
+       The "umd" build is the standalone version we can use from a CDN. -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.6/dist/chart.umd.min.js"></script>
+
   <style>
     /* CSS custom properties (a.k.a. variables) — declared once on :root, then
        referenced below as var(--name). Swapping the [data-theme="light"] block
        changes every value at once, which is how the light/dark toggle works. */
     :root {
-      --page-bg:         #1a1a1a;
-      --header-bg:       #1a1a1a;
-      --header-text:     #ffffff;
-      --header-subtle:   rgba(255, 255, 255, 0.7);
-      --header-border:   transparent;
-      --toggle-bg:       rgba(255, 255, 255, 0.1);
-      --toggle-border:   rgba(255, 255, 255, 0.25);
-      --toggle-text:     #ffffff;
-      --popup-bg:        #1f2937;
-      --popup-text:      #e5e7eb;
-      --popup-muted:     #9ca3af;
-      --attribution-bg:  rgba(31, 41, 55, 0.85);
-      --attribution-text:#d1d5db;
-      --link:            #93c5fd;
-      /* EU countries get a different palette so they don't visually blur
-         into the US states once you pan across the Atlantic. */
-      --eu-stroke:       #fbbf24;
-      --eu-fill:         #f59e0b;
-      /* World countries (slice 3) — third palette, an emerald green, so
-         the three clickable groups (US blue / EU amber / world green) are
-         visually distinct once you zoom out to see the whole world. */
-      --world-stroke:    #34d399;
-      --world-fill:      #10b981;
+      --bg-base:        #0a0e1a;   /* deepest navy — the page + map underlay */
+      --bg-panel:       #121826;   /* cards, dropdowns, popups */
+      --bg-panel-soft:  #1a2030;   /* hover state for buttons/menu items */
+      --border:         #1f2738;
+      --border-strong:  #2a3349;
+      --text-strong:    #e8ecf4;   /* big numbers, primary text */
+      --text:           #b8bfd0;
+      --text-muted:     #6b7488;
+      --accent:         #5eead4;   /* teal — used for active tab + cheap price */
+      --accent-soft:    rgba(94, 234, 212, 0.10);
+      --accent-border:  rgba(94, 234, 212, 0.55);
+      --danger:         #fb7185;   /* coral — used for expensive price */
+      /* Per-layer fallback fills for polygons with no price data. Heatmap
+         colours override these once paintHeatmap() runs. */
+      --eu-stroke:      #fbbf24;
+      --eu-fill:        #f59e0b;
+      --world-stroke:   #34d399;
+      --world-fill:     #10b981;
     }
 
     [data-theme="light"] {
-      --page-bg:         #ffffff;
-      --header-bg:       #ffffff;
-      --header-text:     #1e3a8a;   /* deep blue */
-      --header-subtle:   #3b82f6;
-      --header-border:   #dbeafe;   /* faint blue line under the header */
-      --toggle-bg:       #eff6ff;
-      --toggle-border:   #bfdbfe;
-      --toggle-text:     #1e3a8a;
-      --popup-bg:        #ffffff;
-      --popup-text:      #1f2937;
-      --popup-muted:     #6b7280;
-      --attribution-bg:  rgba(255, 255, 255, 0.85);
-      --attribution-text:#374151;
-      --link:            #2563eb;
-      --eu-stroke:       #b45309;   /* darker amber, readable on Positron */
-      --eu-fill:         #f59e0b;
-      --world-stroke:    #047857;   /* darker emerald, readable on Positron */
-      --world-fill:      #10b981;
+      --bg-base:        #f4f6fb;
+      --bg-panel:       #ffffff;
+      --bg-panel-soft:  #eef2f8;
+      --border:         #e3e8f1;
+      --border-strong:  #c9d2e0;
+      --text-strong:    #111827;
+      --text:           #3f4858;
+      --text-muted:     #6b7488;
+      --accent:         #0d9488;
+      --accent-soft:    rgba(13, 148, 136, 0.08);
+      --accent-border:  rgba(13, 148, 136, 0.45);
+      --danger:         #e11d48;
+      --eu-stroke:      #b45309;
+      --eu-fill:        #f59e0b;
+      --world-stroke:   #047857;
+      --world-fill:     #10b981;
     }
 
-    /* Reset default body margin so the map can fill the screen */
+    * { box-sizing: border-box; }
+
     body {
       margin: 0;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", scans-serif;
-      background: var(--page-bg);  /* matches header — any briefly-blank edges look intentional */
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", sans-serif;
+      background: var(--bg-base);
+      color: var(--text);
     }
+
+    /* ---------- HEADER --------------------------------------------------- */
 
     header {
       display: flex;
-      justify-content: space-between;
       align-items: center;
-      gap: 1rem;
-      padding: 1rem 1.5rem;
-      background: var(--header-bg);
-      color: var(--header-text);
-      border-bottom: 1px solid var(--header-border);
+      gap: 0.75rem;
+      padding: 0.75rem 1rem;
+      background: var(--bg-base);
+      border-bottom: 1px solid var(--border);
+      height: 64px;
     }
 
-    header h1 {
-      margin: 0;
-      font-size: 1.25rem;
-    }
-
-    header p {
-      margin: 0.25rem 0 0;
-      font-size: 0.85rem;
-      color: var(--header-subtle);
-    }
-
-    /* Group the header controls (currency + theme) so they sit together
-       on the right. */
-    .header-controls {
+    .brand {
       display: flex;
-      gap: 0.5rem;
       align-items: center;
+      gap: 0.5rem;
+      padding: 0 0.25rem 0 0.25rem;
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text-strong);
+      white-space: nowrap;
     }
+    .brand-icon { font-size: 1.35rem; line-height: 1; }
+    .brand .accent { color: var(--accent); }
 
-    #theme-toggle,
-    #currency-select,
-    .header-link {
-      background: var(--toggle-bg);
-      color: var(--toggle-text);
-      border: 1px solid var(--toggle-border);
-      border-radius: 6px;
-      padding: 0.4rem 0.75rem;
+    .tabs { display: flex; gap: 0.4rem; align-items: center; }
+    .tab {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.45rem;
+      padding: 0.5rem 0.9rem;
+      border-radius: 8px;
+      border: 1px solid transparent;
+      background: transparent;
+      color: var(--text);
       font: inherit;
-      font-size: 0.85rem;
+      font-size: 0.9rem;
       text-decoration: none;
       cursor: pointer;
+      white-space: nowrap;
     }
-    #theme-toggle:hover,
-    #currency-select:hover,
-    .header-link:hover { opacity: 0.85; }
-
-    /* Tiny "News →" link inside each price popup. We want it to read as a
-       link, not as a button, so just use the popup text accent color. */
-    .popup-news-link {
-      color: var(--link);
-      text-decoration: none;
-      font-size: 0.8rem;
+    .tab:hover { background: var(--bg-panel-soft); color: var(--text-strong); }
+    .tab.active {
+      color: var(--accent);
+      border-color: var(--accent-border);
+      background: var(--accent-soft);
     }
-    .popup-news-link:hover { text-decoration: underline; }
+    .tab svg { width: 14px; height: 14px; }
 
-    /* Search bar. The wrapper is position:relative so the absolutely-
-       positioned results dropdown hangs off the input. flex:1 with a cap
-       lets the bar take the available middle space without stretching
-       across an ultrawide monitor. */
+    /* Search bar takes the available middle space. position:relative is so
+       the absolutely-positioned results dropdown hangs off the input. */
     .search {
       position: relative;
       flex: 1;
-      max-width: 320px;
+      min-width: 0;
+      display: flex;
+      align-items: center;
     }
     #search-input {
       width: 100%;
-      box-sizing: border-box;
-      background: var(--toggle-bg);
-      color: var(--toggle-text);
-      border: 1px solid var(--toggle-border);
-      border-radius: 6px;
-      padding: 0.4rem 0.75rem;
+      background: var(--bg-panel);
+      color: var(--text-strong);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.6rem 0.9rem 0.6rem 2.3rem;
       font: inherit;
-      font-size: 0.85rem;
+      font-size: 0.9rem;
     }
-    #search-input::placeholder { color: var(--popup-muted); opacity: 0.9; }
+    #search-input:focus {
+      outline: none;
+      border-color: var(--accent-border);
+    }
+    #search-input::placeholder { color: var(--text-muted); }
+    .search-icon {
+      position: absolute;
+      left: 0.8rem;
+      width: 14px;
+      height: 14px;
+      color: var(--text-muted);
+      pointer-events: none;
+    }
 
     /* Results dropdown. z-index has to beat Leaflet — its controls/panes
        sit around 400-700, so anything in the 1000s wins. */
     #search-results {
       position: absolute;
-      top: calc(100% + 4px);
+      top: calc(100% + 6px);
       left: 0;
       right: 0;
       margin: 0;
       padding: 4px 0;
       list-style: none;
-      background: var(--popup-bg);
-      color: var(--popup-text);
-      border: 1px solid var(--toggle-border);
-      border-radius: 6px;
+      background: var(--bg-panel);
+      color: var(--text-strong);
+      border: 1px solid var(--border);
+      border-radius: 8px;
       max-height: 280px;
       overflow-y: auto;
       z-index: 1000;
-      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+      box-shadow: 0 12px 32px rgba(0, 0, 0, 0.45);
     }
     #search-results[hidden] { display: none; }
     #search-results li {
       display: flex;
       justify-content: space-between;
       align-items: center;
-      padding: 0.4rem 0.75rem;
+      padding: 0.45rem 0.85rem;
       cursor: pointer;
       font-size: 0.85rem;
     }
     /* `.active` is for keyboard nav (arrow keys); :hover is for mouse.
        Both paint the same so the highlight feels consistent across inputs. */
     #search-results li.active,
-    #search-results li:hover { background: var(--toggle-bg); }
+    #search-results li:hover { background: var(--bg-panel-soft); }
     .search-result-tag {
       font-size: 0.7rem;
-      color: var(--popup-muted);
+      color: var(--text-muted);
       margin-left: 0.75rem;
       white-space: nowrap;
     }
     .search-empty {
-      padding: 0.4rem 0.75rem;
-      color: var(--popup-muted);
+      padding: 0.45rem 0.85rem;
+      color: var(--text-muted);
       font-size: 0.85rem;
       font-style: italic;
     }
 
-    /* Map fills the rest of the screen below the header */
+    .header-controls { display: flex; align-items: center; gap: 0.4rem; }
+    #currency-select,
+    #theme-toggle {
+      background: var(--bg-panel);
+      color: var(--text-strong);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.55rem 0.8rem;
+      font: inherit;
+      font-size: 0.85rem;
+      cursor: pointer;
+    }
+    #currency-select:hover,
+    #theme-toggle:hover { background: var(--bg-panel-soft); }
+    #theme-toggle {
+      width: 42px;
+      height: 42px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 0;
+    }
+    #theme-toggle svg { width: 16px; height: 16px; }
+
+    /* ---------- LAYOUT (map + sidebar) ---------------------------------- */
+
+    .layout {
+      display: grid;
+      grid-template-columns: 1fr 360px;
+      height: calc(100vh - 64px);
+    }
     #map {
-      height: calc(100vh - 78px);
+      height: 100%;
       width: 100%;
+      background: var(--bg-base);  /* covers any briefly-blank canvas */
     }
 
-    /* Popup styling. Leaflet renders the popup as a "wrapper" with a little
-       triangle "tip" — both need the same background so they look like one piece. */
+    /* ---------- GLOBAL SNAPSHOT SIDEBAR --------------------------------- */
+
+    .snapshot {
+      background: var(--bg-panel);
+      border-left: 1px solid var(--border);
+      overflow-y: auto;
+    }
+    .snapshot h2 {
+      margin: 0;
+      padding: 1.25rem 1.25rem 0.85rem;
+      font-size: 0.7rem;
+      font-weight: 600;
+      letter-spacing: 0.14em;
+      color: var(--text-muted);
+    }
+    .snap-card {
+      padding: 1rem 1.25rem;
+      border-top: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 0.25rem;
+    }
+    .snap-label {
+      font-size: 0.82rem;
+      color: var(--text-muted);
+    }
+    .snap-price {
+      font-size: 2rem;
+      font-weight: 600;
+      color: var(--text-strong);
+      line-height: 1.1;
+      letter-spacing: -0.01em;
+    }
+    .snap-price .unit {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+      font-weight: 400;
+      margin-left: 0.1rem;
+    }
+    .snap-price.accent { color: var(--accent); }
+    .snap-price.danger { color: var(--danger); }
+    .snap-source {
+      font-size: 0.85rem;
+      color: var(--text);
+    }
+    .snap-source .meta { color: var(--text-muted); }
+    .snap-selected {
+      background: var(--accent-soft);
+      border-top: 1px solid var(--accent-border);
+      box-shadow: inset 3px 0 0 var(--accent);
+      padding-left: calc(1.25rem - 3px);
+    }
+
+    /* Sparkline container. Chart.js needs a wrapper with a fixed height so
+       it knows what size to render the <canvas> at. We reserve the top
+       28px with padding so a tooltip can float in that dead space without
+       covering the chart line below. */
+    .snap-chart {
+      position: relative;
+      height: 92px;
+      margin-top: 0.5rem;
+      padding-top: 30px;
+    }
+    .snap-chart canvas { display: block; }
+    .snap-chart[hidden] { display: none; }
+
+    /* External Chart.js tooltip — an HTML node we move in JS so the popup
+       lives in the reserved space ABOVE the chart, never over the line. */
+    .snap-chart-tooltip {
+      position: absolute;
+      top: 0;
+      left: 0;
+      pointer-events: none;
+      background: rgba(10, 14, 26, 0.95);
+      border: 1px solid var(--accent-border);
+      border-radius: 6px;
+      padding: 3px 8px;
+      font-size: 0.72rem;
+      white-space: nowrap;
+      color: var(--text-strong);
+      opacity: 0;
+      transition: opacity 0.12s ease;
+      transform: translateX(-50%);
+      z-index: 5;
+    }
+    .snap-chart-tooltip .ct-date  { color: var(--text-muted); margin-right: 6px; }
+    .snap-chart-tooltip .ct-price { color: var(--accent); font-weight: 600; }
+
+    /* ---------- LEAFLET POPUP / LEGEND / ATTRIBUTION ------------------- */
+
     .leaflet-popup-content-wrapper,
     .leaflet-popup-tip {
-      background: var(--popup-bg);
-      color: var(--popup-text);
+      background: var(--bg-panel);
+      color: var(--text-strong);
     }
-    .leaflet-popup-content {
-      font-size: 0.9rem;
-      line-height: 1.4;
+    .leaflet-popup-content-wrapper {
+      border: 1px solid var(--border);
+      border-radius: 8px;
     }
-    .leaflet-popup-content small {
-      color: var(--popup-muted);   /* muted for the source/date line */
+    .leaflet-popup-content { font-size: 0.9rem; line-height: 1.4; }
+    .leaflet-popup-content small { color: var(--text-muted); }
+    .leaflet-popup-close-button { color: var(--text-muted) !important; }
+
+    .popup-news-link {
+      color: var(--accent);
+      text-decoration: none;
+      font-size: 0.8rem;
     }
-    .leaflet-popup-close-button {
-      color: var(--popup-muted) !important;
-    }
+    .popup-news-link:hover { text-decoration: underline; }
+
     /* Attribution — required by OSM + CARTO licenses, but visually toned
-       down: no background panel, very small text, low opacity at rest,
-       returning to full opacity on hover so it's readable when you
-       actually look at it. CARTO's terms just require the credit to be
-       "visible" — they don't dictate how prominent. */
+       down. Hover bumps opacity so it's readable when you actually look. */
     .leaflet-control-attribution {
       background: transparent !important;
-      color: var(--popup-muted);
+      color: var(--text-muted);
       font-size: 9px;
       padding: 0 4px;
       opacity: 0.35;
       transition: opacity 0.2s ease;
     }
     .leaflet-control-attribution:hover { opacity: 1; }
-    .leaflet-control-attribution a {
-      color: inherit;
-      text-decoration: none;
-    }
+    .leaflet-control-attribution a { color: inherit; text-decoration: none; }
     .leaflet-control-attribution a:hover { text-decoration: underline; }
 
-    /* Heatmap legend — a small Leaflet control pinned to the bottom-left.
-       The gradient bar uses the same HSL stops (green → yellow → red) as
-       the priceColor() JS function below, so what users see in the legend
-       matches what they see on the polygons. */
+    /* Heatmap legend — a small Leaflet control pinned to bottom-left. */
     .legend {
-      background: var(--popup-bg);
-      color: var(--popup-text);
-      padding: 8px 10px;
-      border-radius: 6px;
+      background: var(--bg-panel);
+      color: var(--text-strong);
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border);
       font-size: 0.8rem;
       line-height: 1.3;
-      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
-      min-width: 200px;
+      box-shadow: 0 8px 24px rgba(0, 0, 0, 0.45);
+      min-width: 220px;
     }
     .legend-title {
-      font-weight: 600;
-      margin-bottom: 4px;
+      font-size: 0.78rem;
+      color: var(--text);
+      margin-bottom: 6px;
     }
     .legend-bar {
-      height: 10px;
+      height: 6px;
       border-radius: 3px;
       background: linear-gradient(
         to right,
@@ -260,27 +380,38 @@
         hsl(60, 70%, 45%),
         hsl(0, 70%, 45%)
       );
-      margin: 4px 0;
+      margin: 6px 0;
     }
     .legend-labels {
       display: flex;
       justify-content: space-between;
-      color: var(--popup-muted);
-      font-size: 0.7rem;
+      color: var(--text-muted);
+      font-size: 0.72rem;
     }
   </style>
 </head>
 <body>
   <header>
-    <div>
-      <h1>Gas Prices</h1>
-      <p>Click anywhere on the map</p>
+    <div class="brand">
+      <span class="brand-icon">⛽</span>
+      <span>Gas <span class="accent">Prices</span></span>
     </div>
+    <nav class="tabs">
+      <a class="tab active" href="./" aria-current="page">
+        <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M5.5 1 1 2.5v12.5L5.5 13l5 1.5L15 13V.5L10.5 2 5.5.5zm0 1.6 4.5 1.35V13.4L5.5 12.05V2.6zM4 2.6v9.45L2.4 12.6V3.1L4 2.6zm8.4 0L14 2.1v9.5l-1.6.5V2.6z"/></svg>
+        Map
+      </a>
+      <a class="tab" href="news/">
+        <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="3" width="12" height="10" rx="1"/><path d="M4.5 6h7M4.5 8.5h7M4.5 11h4"/></svg>
+        News
+      </a>
+    </nav>
     <div class="search">
+      <svg class="search-icon" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true"><circle cx="7" cy="7" r="5"/><path d="M14 14 11 11"/></svg>
       <input
         id="search-input"
         type="search"
-        placeholder="Search states or countries…"
+        placeholder="Search country or state…"
         autocomplete="off"
         aria-label="Search states or countries"
         aria-autocomplete="list"
@@ -293,17 +424,56 @@
            AND the unit shown in popups (USD → /gallon, others → /litre),
            because that's how people in each market read pump prices. -->
       <select id="currency-select" aria-label="Display currency">
-        <option value="USD">USD ($/gallon)</option>
-        <option value="EUR">EUR (€/litre)</option>
-        <option value="GBP">GBP (£/litre)</option>
-        <option value="CAD">CAD (C$/litre)</option>
+        <option value="USD">USD / gallon</option>
+        <option value="EUR">EUR / litre</option>
+        <option value="GBP">GBP / litre</option>
+        <option value="CAD">CAD / litre</option>
       </select>
-      <a class="header-link" href="news/">News →</a>
-      <button id="theme-toggle" type="button" aria-label="Toggle light/dark mode">Light mode</button>
+      <button id="theme-toggle" type="button" aria-label="Toggle light/dark mode">
+        <svg viewBox="0 0 16 16" fill="currentColor" aria-hidden="true"><path d="M8 0a8 8 0 1 0 0 16A6 6 0 0 1 8 0z"/></svg>
+      </button>
     </div>
   </header>
 
-  <div id="map"></div>
+  <main class="layout">
+    <div id="map"></div>
+    <aside class="snapshot">
+      <h2>GLOBAL SNAPSHOT</h2>
+      <div class="snap-card">
+        <div class="snap-label">World cheapest</div>
+        <div class="snap-price accent" id="snap-cheapest-price">—</div>
+        <div class="snap-source" id="snap-cheapest-place">Loading…</div>
+      </div>
+      <div class="snap-card">
+        <div class="snap-label">World most expensive</div>
+        <div class="snap-price danger" id="snap-expensive-price">—</div>
+        <div class="snap-source" id="snap-expensive-place">Loading…</div>
+      </div>
+      <div class="snap-card">
+        <div class="snap-label">US national avg</div>
+        <div class="snap-price" id="snap-us-price">—</div>
+        <div class="snap-source" id="snap-us-source"><span class="meta">EIA · this week</span></div>
+        <div class="snap-chart" id="snap-us-chart-wrap" hidden>
+          <div class="snap-chart-tooltip"></div>
+          <canvas id="snap-us-chart"></canvas>
+        </div>
+      </div>
+      <div class="snap-card">
+        <div class="snap-label">EU avg</div>
+        <div class="snap-price" id="snap-eu-price">—</div>
+        <div class="snap-source" id="snap-eu-source"><span class="meta">Oil Bulletin</span></div>
+      </div>
+      <div class="snap-card snap-selected">
+        <div class="snap-label">Selected region</div>
+        <div class="snap-price accent" id="snap-selected-price">—</div>
+        <div class="snap-source" id="snap-selected-source">Click a region on the map</div>
+        <div class="snap-chart" id="snap-selected-chart-wrap" hidden>
+          <div class="snap-chart-tooltip"></div>
+          <canvas id="snap-selected-chart"></canvas>
+        </div>
+      </div>
+    </aside>
+  </main>
 
   <script>
     // ----- CONFIG -------------------------------------------------------------
@@ -487,12 +657,13 @@
     // credit is optional, and Leaflet's docs explicitly allow removing it.
     map.attributionControl.setPrefix(false);
 
-    // Two CARTO tile themes — "dark_all" (Dark Matter) and "light_all" (Positron).
-    // Both are free, no API key, attribution required. {s}/{z}/{x}/{y} are
-    // placeholders Leaflet fills in (subdomain + zoom + tile coordinates).
+    // Two CARTO tile themes — "_nolabels" variants because the mockup is a
+    // dark canvas with no city/country labels competing with the colored
+    // polygons. Free, no API key, attribution required. {s}/{z}/{x}/{y}
+    // are placeholders Leaflet fills in.
     const TILE_URLS = {
-      dark:  "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
-      light: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+      dark:  "https://{s}.basemaps.cartocdn.com/dark_nolabels/{z}/{x}/{y}{r}.png",
+      light: "https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png",
     };
     const TILE_OPTS = {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
@@ -511,32 +682,31 @@
     let euCountriesLayer = null;
     let worldCountriesLayer = null;
 
-    // All clickable polygons share white borders so the heatmap fills (the
-    // real signal) read uncontested. The per-layer fill colors below only
-    // show as a fallback for polygons with no price data — once
-    // paintHeatmap() runs, priced polygons take their heat color instead.
-    const POLYGON_BORDER = "#ffffff";
-    const POLYGON_REST_OPACITY = 0.65;
-    const POLYGON_HOVER_OPACITY = 0.85;
+    // Polygon styling. Priced polygons get the heat color for BOTH stroke
+    // and fill (the stroke runs at full opacity so the borders pop while
+    // the fill stays at REST_OPACITY) — see paintLayer() below. Unpriced
+    // polygons get a unified muted blue-gray so they read as "clickable
+    // but no data" without competing with the heat colors next to them.
+    const POLYGON_FALLBACK_FILL   = "#2d3447";
+    const POLYGON_FALLBACK_STROKE = "#3d4660";
+    const POLYGON_REST_OPACITY    = 0.7;
+    const POLYGON_HOVER_OPACITY   = 0.9;
+    const POLYGON_STROKE_WEIGHT   = 1.2;
 
-    function stateStyleFor() {
+    function polygonFallbackStyle() {
       return {
-        color: POLYGON_BORDER,
+        color: POLYGON_FALLBACK_STROKE,
         weight: 1,
-        fillColor: "#3b82f6",
-        fillOpacity: POLYGON_REST_OPACITY,
+        opacity: 0.7,
+        fillColor: POLYGON_FALLBACK_FILL,
+        fillOpacity: 0.4,
       };
     }
 
-    function euStyleFor() {
-      const css = getComputedStyle(document.body);
-      return {
-        color: POLYGON_BORDER,
-        weight: 1,
-        fillColor: css.getPropertyValue("--eu-fill").trim(),
-        fillOpacity: POLYGON_REST_OPACITY,
-      };
-    }
+    // Kept as thin wrappers for clarity at the call sites — every layer
+    // shares the same fallback now (we removed the per-continent palette).
+    function stateStyleFor() { return polygonFallbackStyle(); }
+    function euStyleFor()    { return polygonFallbackStyle(); }
 
     // Read the current theme from the <body data-theme="..."> attribute.
     // Defaults to "dark" before applyTheme has run.
@@ -551,9 +721,8 @@
       document.body.dataset.theme = theme;
       localStorage.setItem("gp-theme", theme);
 
-      const btn = document.getElementById("theme-toggle");
-      // Button text describes the *action*, not the current state.
-      btn.textContent = theme === "light" ? "Dark mode" : "Light mode";
+      // The toggle is icon-only — no label to update. The icon itself stays
+      // constant (a half-filled circle) since the cue is "press to flip".
 
       if (tileLayer) map.removeLayer(tileLayer);
       tileLayer = L.tileLayer(TILE_URLS[theme], TILE_OPTS).addTo(map);
@@ -586,6 +755,7 @@
       localStorage.setItem("gp-currency", e.target.value);
       rerenderAllPricePopups();
       refreshLegend();
+      renderSnapshot();
     });
 
     // ----- EIA FETCH ----------------------------------------------------------
@@ -814,6 +984,7 @@
               const sourceLabel = isFallback
                 ? `${PADD_NAMES[eiaCode]} regional average`
                 : "State average";
+              setSelected(stateName, price.value, "USD", "gallon", sourceLabel, eiaCode);
               registerPriceRender(popup, () => {
                 popup.setContent(
                   `<strong>${stateName}</strong><br>` +
@@ -849,6 +1020,7 @@
           marker.setPopupContent(`<strong>${city.name}</strong><br>No data available.`);
           return;
         }
+        setSelected(city.name, price.value, "USD", "gallon", "City average", city.code);
         registerPriceRender(marker.getPopup(), () => {
           marker.setPopupContent(
             `<strong>${city.name}</strong><br>` +
@@ -908,6 +1080,7 @@
               }
               // 3 decimals because European pump signs typically show
               // €/L to the tenth-of-a-cent (e.g. 1.829 €/L).
+              setSelected(name, entry.gasoline_eur_per_l, "EUR", "litre", "EU Weekly Oil Bulletin", null);
               registerPriceRender(popup, () => {
                 popup.setContent(
                   `<strong>${name}</strong><br>` +
@@ -948,15 +1121,7 @@
         return null;
       });
 
-    function worldStyleFor() {
-      const css = getComputedStyle(document.body);
-      return {
-        color: POLYGON_BORDER,
-        weight: 1,
-        fillColor: css.getPropertyValue("--world-fill").trim(),
-        fillOpacity: POLYGON_REST_OPACITY,
-      };
-    }
+    function worldStyleFor() { return polygonFallbackStyle(); }
 
     fetch("data/world-countries.geojson")
       .then((r) => r.json())
@@ -989,6 +1154,7 @@
               // GPP refreshes weekly but doesn't expose the exact "week of"
               // — show the date we last ran the fetch script instead.
               const updated = prices.updated_at.slice(0, 10);
+              setSelected(name, entry.gasoline_usd_per_l, "USD", "litre", "GlobalPetrolPrices.com", null);
               registerPriceRender(popup, () => {
                 popup.setContent(
                   `<strong>${name}</strong><br>` +
@@ -1066,6 +1232,12 @@
           });
           marker.bindPopup(`<strong>${s.brand || s.name}</strong><br>Loading…`);
           marker.on("click", () => {
+            setSelected(
+              `${s.brand || s.name} (${s.city})`,
+              s.price_usd_per_gallon, "USD", "gallon",
+              "GasBuddy station",
+              null
+            );
             registerPriceRender(marker.getPopup(), () => {
               marker.setPopupContent(
                 `<strong>${s.brand || s.name}</strong><br>` +
@@ -1117,14 +1289,23 @@
 
     // Re-style every feature in `geoJsonLayer` whose feature key (under
     // `keyProp`) has a price in `priceMap`. `priceMap` is { key -> USD/L }.
-    // Untouched features keep their fallback fill from {state,eu,world}StyleFor.
+    // Both the stroke and fill take the heat color — stroke at full opacity,
+    // fill at REST_OPACITY — so the borders pop while the fill stays soft.
+    // Untouched features keep the fallback style from polygonFallbackStyle().
     function paintLayer(geoJsonLayer, keyProp, priceMap) {
       if (!geoJsonLayer) return;
       geoJsonLayer.eachLayer((featureLayer) => {
         const key = featureLayer.feature?.properties?.[keyProp];
         const usdPerL = priceMap[key];
         if (usdPerL == null) return;
-        featureLayer.setStyle({ fillColor: priceColor(usdPerL) });
+        const c = priceColor(usdPerL);
+        featureLayer.setStyle({
+          color: c,
+          weight: POLYGON_STROKE_WEIGHT,
+          opacity: 1,
+          fillColor: c,
+          fillOpacity: POLYGON_REST_OPACITY,
+        });
       });
     }
 
@@ -1190,6 +1371,339 @@
       const container = legendControl.getContainer();
       if (container) container.innerHTML = renderLegendHTML();
     }
+
+    // ----- GLOBAL SNAPSHOT SIDEBAR -------------------------------------
+    //
+    // The right-hand panel shows five "at-a-glance" prices that don't
+    // require any clicking: world min/max, US national avg, EU avg, and
+    // whichever region the user last clicked. Re-rendered whenever the
+    // currency dropdown changes so the big numbers always read in the
+    // user's chosen units.
+
+    // Split a formatted price into the big number + small unit suffix so
+    // the snapshot card can render them with different styles
+    // (e.g. "$3.24" big white, "/gal" small muted).
+    function formatPriceParts(value, nativeCurrency, nativeUnit) {
+      const target = getCurrency();
+      const usdPerNativeUnit = value * FX_TO_USD[nativeCurrency];
+      let out = usdPerNativeUnit / FX_TO_USD[target];
+      const targetUnit = UNIT_FOR_CURRENCY[target];
+      if (nativeUnit !== targetUnit) {
+        out = nativeUnit === "gallon"
+          ? out / LITRES_PER_GALLON
+          : out * LITRES_PER_GALLON;
+      }
+      const dp = targetUnit === "gallon" ? 2 : 3;
+      return {
+        big: `${CURRENCY_SYMBOL[target]}${out.toFixed(dp)}`,
+        unit: targetUnit === "gallon" ? "/gal" : "/L",
+      };
+    }
+
+    function setSnapPrice(elId, value, nativeCurrency, nativeUnit) {
+      const { big, unit } = formatPriceParts(value, nativeCurrency, nativeUnit);
+      document.getElementById(elId).innerHTML =
+        `${big}<span class="unit">${unit}</span>`;
+    }
+
+    // snapshotData holds the *raw* values (in their native currency/unit) so
+    // we can re-render them in whichever currency the user picks. Without
+    // this we'd lose precision on every currency switch.
+    const snapshotData = {
+      cheapest: null,    // { name, usdPerL }
+      expensive: null,   // { name, usdPerL }
+      usAverage: null,   // { usdPerGallon, weekOf }
+      euAverage: null,   // { eurPerL, weekOf }
+      // selected.eiaSeries (optional) is the EIA duoarea code we use to
+      // pull a historical chart for the selected region. EU/world clicks
+      // don't have one — we don't have historical data for those layers.
+      selected: null,    // { name, value, currency, unit, source, eiaSeries }
+      usHistory: null,   // [{ period, value }] in USD/gal
+    };
+
+    function setSelected(name, value, currency, unit, source, eiaSeries) {
+      snapshotData.selected = { name, value, currency, unit, source, eiaSeries };
+      renderSnapshot();
+    }
+
+    // ---------- HISTORICAL CHARTS (Chart.js) -------------------------------
+    //
+    // EIA's same /petroleum/pri/gnd/data/ endpoint we use for the current
+    // price also serves historical weekly points — we just ask for many
+    // rows instead of one. We cache results per (series, weeks) so flipping
+    // currency doesn't re-hit the network.
+
+    const historyCache = new Map(); // key: `${series}|${weeks}` -> [{period,value}]
+
+    async function fetchHistory(duoareaCode, weeks = 52) {
+      const cacheKey = `${duoareaCode}|${weeks}`;
+      if (historyCache.has(cacheKey)) return historyCache.get(cacheKey);
+      if (!keyIsSet()) return null;
+      const url = "https://api.eia.gov/v2/petroleum/pri/gnd/data/"
+        + "?frequency=weekly"
+        + "&data[0]=value"
+        + `&facets[duoarea][]=${duoareaCode}`
+        + "&facets[product][]=EPMR"
+        + "&sort[0][column]=period"
+        + "&sort[0][direction]=desc"
+        + `&offset=0&length=${weeks}`
+        + `&api_key=${EIA_API_KEY}`;
+      try {
+        const res = await fetch(url);
+        if (!res.ok) return null;
+        const json = await res.json();
+        const rows = json?.response?.data || [];
+        // EIA returns newest first; reverse so the chart reads left=old, right=new.
+        const points = rows.reverse().map((r) => ({
+          period: r.period,
+          value: parseFloat(r.value),
+        }));
+        historyCache.set(cacheKey, points);
+        return points;
+      } catch (err) {
+        console.error("EIA history fetch failed for", duoareaCode, err);
+        return null;
+      }
+    }
+
+    // Holds the Chart.js instance per canvas id so we can destroy it before
+    // re-rendering (Chart.js will leak if you stack chart instances on a
+    // single canvas).
+    const chartInstances = {};
+
+    function getAccentColors() {
+      const css = getComputedStyle(document.body);
+      return {
+        accent:     css.getPropertyValue("--accent").trim()      || "#5eead4",
+        accentSoft: css.getPropertyValue("--accent-soft").trim() || "rgba(94,234,212,0.10)",
+      };
+    }
+
+    // External-HTML tooltip handler. Renders the tooltip into a sibling
+    // <div class="snap-chart-tooltip"> so the popup lives in the reserved
+    // padding-top area of .snap-chart — never on top of the chart line.
+    function externalSparklineTooltip(context) {
+      const { chart, tooltip } = context;
+      const wrap = chart.canvas.parentNode;
+      const el = wrap.querySelector(".snap-chart-tooltip");
+      if (!el) return;
+
+      // Chart.js sets opacity=0 when the user moves the cursor off the chart.
+      if (tooltip.opacity === 0) { el.style.opacity = 0; return; }
+
+      const title = (tooltip.title && tooltip.title[0]) || "";
+      const body  = (tooltip.body[0] && tooltip.body[0].lines[0]) || "";
+      el.innerHTML =
+        `<span class="ct-date">${title}</span>` +
+        `<span class="ct-price">${body}</span>`;
+
+      // Position: caretX is in canvas pixels; canvas sits below the 30px
+      // padding-top, so caretX maps directly to .snap-chart's X axis. We
+      // clamp so the tooltip never gets cut off at the container edges.
+      el.style.opacity = 1;
+      const wrapW = wrap.clientWidth;
+      const halfW = el.offsetWidth / 2;
+      const x = Math.max(halfW + 2, Math.min(wrapW - halfW - 2, tooltip.caretX));
+      el.style.left = `${x}px`;
+    }
+
+    // Draws (or redraws) a sparkline into the given canvas. `history` is the
+    // array from fetchHistory(); nativeCurrency/Unit are how those values
+    // are denominated — the tooltip uses formatPrice() to convert into the
+    // user's selected currency on the fly.
+    function renderSparkline(canvasId, history, nativeCurrency, nativeUnit) {
+      const canvas = document.getElementById(canvasId);
+      if (!canvas || !history || !history.length) return;
+      if (chartInstances[canvasId]) chartInstances[canvasId].destroy();
+
+      const { accent, accentSoft } = getAccentColors();
+
+      chartInstances[canvasId] = new Chart(canvas.getContext("2d"), {
+        type: "line",
+        data: {
+          labels: history.map((h) => h.period),
+          datasets: [{
+            data: history.map((h) => h.value),
+            borderColor: accent,
+            backgroundColor: accentSoft,
+            borderWidth: 1.5,
+            fill: true,
+            pointRadius: 0,
+            pointHoverRadius: 3,
+            pointHoverBackgroundColor: accent,
+            tension: 0.3,
+          }],
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          animation: { duration: 250 },
+          interaction: { mode: "index", intersect: false },
+          scales: {
+            x: { display: false },
+            y: { display: false, grace: "10%" },
+          },
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              enabled: false,            // hide the built-in canvas tooltip
+              external: externalSparklineTooltip,
+              callbacks: {
+                title: (items) => items[0].label,
+                label: (item) => formatPrice(item.parsed.y, nativeCurrency, nativeUnit),
+              },
+            },
+          },
+        },
+      });
+    }
+
+    function clearSparkline(canvasId) {
+      if (chartInstances[canvasId]) {
+        chartInstances[canvasId].destroy();
+        delete chartInstances[canvasId];
+      }
+    }
+
+    async function buildSnapshot() {
+      const [us, eu, world] = await Promise.all([
+        usPricesPromise, euPricesPromise, worldPricesPromise,
+      ]);
+
+      // Kick off the US national historical fetch in parallel with the rest
+      // of the snapshot. "NUS" = EIA's duoarea code for the national average.
+      fetchHistory("NUS", 52).then((history) => {
+        if (history) {
+          snapshotData.usHistory = history;
+          renderSnapshot();
+        }
+      });
+
+      // World min/max: scan every country across BOTH the world feed and the
+      // EU feed (the EU layer carves its members out of the world layer, so
+      // we'd otherwise miss EU countries when looking for extremes).
+      const allCountries = [];
+      if (world?.countries) {
+        for (const e of Object.values(world.countries)) {
+          if (e.gasoline_usd_per_l != null) {
+            allCountries.push({ name: e.name, usdPerL: e.gasoline_usd_per_l });
+          }
+        }
+      }
+      if (eu?.countries) {
+        for (const e of Object.values(eu.countries)) {
+          if (e.gasoline_eur_per_l != null) {
+            allCountries.push({
+              name: e.name,
+              usdPerL: toUsdPerLitre(e.gasoline_eur_per_l, "EUR", "litre"),
+            });
+          }
+        }
+      }
+      if (allCountries.length) {
+        allCountries.sort((a, b) => a.usdPerL - b.usdPerL);
+        snapshotData.cheapest  = allCountries[0];
+        snapshotData.expensive = allCountries[allCountries.length - 1];
+      }
+
+      // US national avg: arithmetic mean of state-level USD/gallon. Not a
+      // population-weighted average — close enough for an at-a-glance figure.
+      if (us?.states) {
+        const vals = Object.values(us.states)
+          .map((e) => e.gasoline_usd_per_gallon)
+          .filter((v) => v != null);
+        if (vals.length) {
+          snapshotData.usAverage = {
+            usdPerGallon: vals.reduce((a, b) => a + b, 0) / vals.length,
+            weekOf: us.week_of || "this week",
+          };
+        }
+      }
+
+      if (eu?.countries) {
+        const vals = Object.values(eu.countries)
+          .map((e) => e.gasoline_eur_per_l)
+          .filter((v) => v != null);
+        if (vals.length) {
+          snapshotData.euAverage = {
+            eurPerL: vals.reduce((a, b) => a + b, 0) / vals.length,
+            weekOf: eu.week_of,
+          };
+        }
+      }
+
+      renderSnapshot();
+    }
+
+    function renderSnapshot() {
+      if (snapshotData.cheapest) {
+        setSnapPrice("snap-cheapest-price",
+          snapshotData.cheapest.usdPerL, "USD", "litre");
+        document.getElementById("snap-cheapest-place").textContent =
+          snapshotData.cheapest.name;
+      }
+      if (snapshotData.expensive) {
+        setSnapPrice("snap-expensive-price",
+          snapshotData.expensive.usdPerL, "USD", "litre");
+        document.getElementById("snap-expensive-place").textContent =
+          snapshotData.expensive.name;
+      }
+      if (snapshotData.usAverage) {
+        setSnapPrice("snap-us-price",
+          snapshotData.usAverage.usdPerGallon, "USD", "gallon");
+        document.getElementById("snap-us-source").innerHTML =
+          `<span class="meta">EIA · Week of ${snapshotData.usAverage.weekOf}</span>`;
+      }
+      // US national sparkline. Shown only once the history fetch completes.
+      const usChartWrap = document.getElementById("snap-us-chart-wrap");
+      if (snapshotData.usHistory) {
+        usChartWrap.hidden = false;
+        renderSparkline("snap-us-chart",
+          snapshotData.usHistory, "USD", "gallon");
+      } else {
+        usChartWrap.hidden = true;
+      }
+
+      if (snapshotData.euAverage) {
+        setSnapPrice("snap-eu-price",
+          snapshotData.euAverage.eurPerL, "EUR", "litre");
+        document.getElementById("snap-eu-source").innerHTML =
+          `<span class="meta">Oil Bulletin · Week of ${snapshotData.euAverage.weekOf}</span>`;
+      }
+
+      const selChartWrap = document.getElementById("snap-selected-chart-wrap");
+      if (snapshotData.selected) {
+        const s = snapshotData.selected;
+        setSnapPrice("snap-selected-price", s.value, s.currency, s.unit);
+        document.getElementById("snap-selected-source").innerHTML =
+          `${s.name}<br><span class="meta">${s.source}</span>`;
+
+        // Sparkline if we have a US-side EIA series for this selection.
+        // We re-fetch each click but fetchHistory caches per series, so a
+        // currency switch never re-hits the network.
+        if (s.eiaSeries) {
+          fetchHistory(s.eiaSeries, 52).then((history) => {
+            // Bail if the selection has changed while the fetch was in flight.
+            if (snapshotData.selected !== s) return;
+            if (history && history.length) {
+              selChartWrap.hidden = false;
+              renderSparkline("snap-selected-chart",
+                history, s.currency, s.unit);
+            } else {
+              selChartWrap.hidden = true;
+              clearSparkline("snap-selected-chart");
+            }
+          });
+        } else {
+          selChartWrap.hidden = true;
+          clearSparkline("snap-selected-chart");
+        }
+      } else {
+        selChartWrap.hidden = true;
+      }
+    }
+
+    buildSnapshot();
   </script>
 </body>
 </html>
