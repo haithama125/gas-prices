@@ -20,7 +20,7 @@ Ship one working slice at a time — don't try to build the whole vision before 
 3. **Other countries (GlobalPetrolPrices)** — Click any country → weekly price. *Hetzner scraper runs weekly, caches to JSON. ToS-grey, somewhat fragile.*
 4. **US county/city (GasBuddy)** — Click anywhere in the US → nearest station price. *Hetzner headless-browser scraper (Playwright/Puppeteer), behind Cloudflare, ongoing maintenance. The most ambitious slice — defer until earlier ones are solid.*
 
-Currently in: **Slice 4 in progress** — GasBuddy scraper + ~570 station dots are shipping; scheduled refreshes for all four pre-baked sources are wired via GitHub Actions (see `.github/workflows/`). After slice 4: **Planned features** below. **Planned feature 2 (price heatmap) is implemented as the default map style** — see note under it.
+Currently in: **advertisement automation pipeline + platform**
 
 ## Planned features (after slice 4)
 
