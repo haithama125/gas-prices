@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-05-25T21:08:29+00:00",
+  "updated_at": "2026-05-25T21:17:02+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "UPDATE 4-Oil slips to two-week low as US and Iran seen moving closer to deal",
+      "description": "Oil prices fell more than 4% to two-week lows on Monday as optimism grew that the United States and Iran were moving closer to \u200ca peace deal, even though they remain at odds over key issues such as blockades on the Strait of Hormuz.",
+      "url": "https://www.devdiscourse.com/article/headlines/3920908-update-4-oil-slips-to-two-week-low-as-us-andiran-seen-moving-closer-to-deal",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-05-25T09:12:37Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
     {
       "title": "Petrol Crosses Rs 100 in Most Cities, Diesel Nears Rs 100 Mark After Fourth Price Hike in Two Weeks",
       "description": "Petrol prices have crossed \u20b9100 in most Indian cities and diesel is nearing the \u20b9100 mark after the fourth fuel price hike in two weeks. Learn how rising global crude oil prices, a weak rupee and delayed pass-through by state-run oil companies are driving record-high fuel costs, inflation and political backlash across India.",
@@ -92,16 +102,6 @@
       "publishedAt": "2026-05-25T08:51:08Z",
       "source": {
         "name": "Manchester Evening News"
-      }
-    },
-    {
-      "title": "Global Markets Gain and Oil Prices Retreat as U.S-Iran Peace Talks Continue",
-      "description": "By Dow Jones Newswires Staff\nGlobal stocks gained and oil prices retreated as investors eyed a potential deal between the U.S. and Iran that could open the Strait of Hormuz.\nTalks between the...",
-      "url": "https://www.marketscreener.com/news/global-markets-gain-and-oil-prices-retreat-as-u-s-iran-peace-talks-continue-ce7f5adcd081f62d",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-05-25T08:50:22Z",
-      "source": {
-        "name": "MarketScreener"
       }
     }
   ]
