@@ -298,15 +298,13 @@
   <script>
     // ----- CONFIG -------------------------------------------------------------
 
-    // GNews free tier: 100 requests/day, 10 articles/request, no Origin
-    // restrictions (works from any browser, including GitHub Pages).
-    // Register for a free key at https://gnews.io/ and paste it below.
-    const NEWS_API_KEY = "ed524fdc4a4a4c6deaf6e3733a8ad284";
-
-    // The query the page loads with. We OR a few gas/oil-adjacent terms so
-    // results aren't dominated by a single phrase. GNews's "q" supports
-    // basic boolean operators in quotes.
-    const NEWS_QUERY = '"gas prices" OR "gasoline prices" OR "oil prices" OR petrol';
+    // News is pre-baked into data/news.json by scripts/fetch_news.py, which
+    // a GitHub Action runs every 6 hours. We used to call GNews directly
+    // from the browser, but the free tier's 100-requests/day limit is
+    // shared across all visitors and runs out fast — pre-baking makes the
+    // browser hit a static file instead, the same way data/eu-prices.json
+    // works for the map.
+    const NEWS_URL = "../data/news.json";
 
     // Hardcoded country list for the highlight dropdown. Substring-matched
     // against article title + description, case-insensitive. The list is
@@ -388,22 +386,9 @@
     let articles = [];
 
     async function loadNews() {
-      if (NEWS_API_KEY === "PASTE_YOUR_GNEWS_KEY_HERE") {
-        status.textContent = "Add your GNews API key at the top of news/index.html to load articles.";
-        status.classList.add("error");
-        return;
-      }
-      const url = "https://gnews.io/api/v4/search"
-        + "?q=" + encodeURIComponent(NEWS_QUERY)
-        + "&lang=en"
-        + "&max=10"
-        + "&apikey=" + NEWS_API_KEY;
       try {
-        const res = await fetch(url);
-        if (!res.ok) {
-          const body = await res.text();
-          throw new Error(`GNews ${res.status}: ${body.slice(0, 200)}`);
-        }
+        const res = await fetch(NEWS_URL, { cache: "no-cache" });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const json = await res.json();
         articles = json.articles || [];
         if (!articles.length) {
