@@ -709,12 +709,16 @@
       map.setMinZoom(map.getBoundsZoom(WORLD_BOUNDS, true));
     }
     updateMinZoom();
+    // Debounce: a drag-resize fires `resize` dozens of times per second, and
+    // invalidateSize() forces Leaflet to remeasure + redraw on each one. We
+    // only need to react after the user stops resizing.
+    let resizeTimer = null;
     window.addEventListener("resize", () => {
-      updateMinZoom();
-      // Leaflet caches the container size; invalidateSize() makes it
-      // re-measure so the map redraws correctly when the layout shifts
-      // (window resize, mobile orientation flip, etc.).
-      map.invalidateSize();
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(() => {
+        updateMinZoom();
+        map.invalidateSize();
+      }, 150);
     });
 
     // Drop the "Leaflet" prefix from the attribution control. OSM + CARTO
@@ -1472,38 +1476,47 @@
       });
     }
 
-    async function paintHeatmap() {
-      const [us, eu, world] = await Promise.all([usPricesPromise, euPricesPromise, worldPricesPromise]);
+    // Cached lookup tables. Each is built once — as soon as its prices file
+    // resolves — then reused on every paintHeatmap() call (per-layer paints
+    // during startup, plus full repaints from applyTheme()).
+    let usByName = null;     // "California" -> USD/L
+    let euByIso = null;      // "BE"         -> USD/L
+    let worldByIso = null;   // "JP"         -> USD/L
 
-      // US states are keyed by full name in the GeoJSON ("California"),
-      // so build a name -> USD/L map by translating us-prices.json (keyed
-      // by 2-letter code, valued in USD/gal).
-      if (us?.states) {
-        const usByName = {};
-        for (const [code, entry] of Object.entries(us.states)) {
-          if (entry.gasoline_usd_per_gallon == null) continue;
-          usByName[entry.name] = toUsdPerLitre(entry.gasoline_usd_per_gallon, "USD", "gallon");
-        }
-        paintLayer(statesLayer, "name", usByName);
+    usPricesPromise.then((us) => {
+      if (!us?.states) return;
+      usByName = {};
+      for (const entry of Object.values(us.states)) {
+        if (entry.gasoline_usd_per_gallon == null) continue;
+        usByName[entry.name] = toUsdPerLitre(entry.gasoline_usd_per_gallon, "USD", "gallon");
       }
+      paintHeatmap();
+    });
+    euPricesPromise.then((eu) => {
+      if (!eu?.countries) return;
+      euByIso = {};
+      for (const [iso2, entry] of Object.entries(eu.countries)) {
+        if (entry.gasoline_eur_per_l == null) continue;
+        euByIso[iso2] = toUsdPerLitre(entry.gasoline_eur_per_l, "EUR", "litre");
+      }
+      paintHeatmap();
+    });
+    worldPricesPromise.then((world) => {
+      if (!world?.countries) return;
+      worldByIso = {};
+      for (const [iso2, entry] of Object.entries(world.countries)) {
+        if (entry.gasoline_usd_per_l == null) continue;
+        worldByIso[iso2] = entry.gasoline_usd_per_l;
+      }
+      paintHeatmap();
+    });
 
-      if (eu?.countries) {
-        const euByIso = {};
-        for (const [iso2, entry] of Object.entries(eu.countries)) {
-          if (entry.gasoline_eur_per_l == null) continue;
-          euByIso[iso2] = toUsdPerLitre(entry.gasoline_eur_per_l, "EUR", "litre");
-        }
-        paintLayer(euCountriesLayer, "iso2", euByIso);
-      }
-
-      if (world?.countries) {
-        const worldByIso = {};
-        for (const [iso2, entry] of Object.entries(world.countries)) {
-          if (entry.gasoline_usd_per_l == null) continue;
-          worldByIso[iso2] = entry.gasoline_usd_per_l;
-        }
-        paintLayer(worldCountriesLayer, "iso2", worldByIso);
-      }
+    // Cheap to call repeatedly: it only paints a layer if BOTH that layer's
+    // polygons and its price lookup are ready.
+    function paintHeatmap() {
+      if (statesLayer && usByName)              paintLayer(statesLayer,         "name", usByName);
+      if (euCountriesLayer && euByIso)          paintLayer(euCountriesLayer,    "iso2", euByIso);
+      if (worldCountriesLayer && worldByIso)    paintLayer(worldCountriesLayer, "iso2", worldByIso);
     }
 
     // Legend: a Leaflet control pinned bottom-left, mounted once at startup.
@@ -1634,6 +1647,13 @@
     // re-rendering (Chart.js will leak if you stack chart instances on a
     // single canvas).
     const chartInstances = {};
+    // Remembers which history array each canvas is currently displaying.
+    // If renderSparkline is called again with the same array reference (e.g.
+    // the user just switched currency — the data didn't change, only the
+    // tooltip's formatting will), we skip the expensive destroy + rebuild.
+    // The tooltip callback uses formatPrice() which reads the live currency,
+    // so a stale chart still shows correct tooltips after a currency flip.
+    const sparklineSource = new Map(); // canvasId -> history array reference
 
     function getAccentColors() {
       const css = getComputedStyle(document.body);
@@ -1678,7 +1698,11 @@
     function renderSparkline(canvasId, history, nativeCurrency, nativeUnit) {
       const canvas = document.getElementById(canvasId);
       if (!canvas || !history || !history.length) return;
+      // Same data as last time? Don't rebuild — the existing chart is fine
+      // and its tooltip will pick up the current currency on next hover.
+      if (sparklineSource.get(canvasId) === history) return;
       if (chartInstances[canvasId]) chartInstances[canvasId].destroy();
+      sparklineSource.set(canvasId, history);
 
       const { accent, accentSoft } = getAccentColors();
 
@@ -1727,6 +1751,7 @@
         chartInstances[canvasId].destroy();
         delete chartInstances[canvasId];
       }
+      sparklineSource.delete(canvasId);
     }
 
     async function buildSnapshot() {
