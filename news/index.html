@@ -60,20 +60,26 @@
       padding: 0.75rem 1rem;
       background: var(--bg-base);
       border-bottom: 1px solid var(--border);
-      height: 64px;
+      height: 84px;
     }
 
     .brand {
       display: flex;
       align-items: center;
-      gap: 0.5rem;
+      gap: 0.65rem;
       padding: 0 0.25rem;
-      font-size: 1.05rem;
+      font-size: 1.25rem;
       font-weight: 600;
       color: var(--text-strong);
       white-space: nowrap;
     }
-    .brand-icon { font-size: 1.35rem; line-height: 1; }
+    .brand-logo {
+      width: 64px;
+      height: 64px;
+      display: block;
+      flex-shrink: 0;
+      object-fit: contain;
+    }
     .brand .accent { color: var(--accent); }
 
     .tabs { display: flex; gap: 0.4rem; align-items: center; }
@@ -256,7 +262,7 @@
 <body>
   <header>
     <div class="brand">
-      <span class="brand-icon">⛽</span>
+      <img class="brand-logo" src="../logo.png" alt="" />
       <span>Gas <span class="accent">Prices</span></span>
     </div>
     <nav class="tabs">
