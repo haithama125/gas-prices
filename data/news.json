@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-27T02:31:43+00:00",
+  "updated_at": "2026-05-27T09:29:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Baltimore gas prices fall 9.5 cents to $4.36 a gallon, GasBuddy says",
-      "description": "Drivers in Baltimore saw some relief at the pump this week as average gas prices fell nearly 10 cents, according to new data from GasBuddy.Average gas prices in",
-      "url": "https://foxbaltimore.com/news/local/baltimore-gas-prices-fall-95-cents-to-436-a-gallon-gasbuddy-says",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/1920/1320/center/90/95e055f5-78ab-439a-814b-d7ccd17e1b53-1_545PGASTAXLKLVPKG051226.png",
-      "publishedAt": "2026-05-26T14:28:11Z",
+      "title": "When Will Brent Oil Prices Return To Pre-West Asia War Levels? This Analyst Says It Could Take 6 Years",
+      "description": "As per analysts, even if Washington and Tehran reach an agreement and maritime traffic resumes normally, the structural damage caused by the conflict could take years to reverse.",
+      "url": "https://www.news18.com/world/when-will-brent-oil-prices-return-to-pre-west-asia-war-levels-this-analyst-says-it-could-take-6-years-ws-el-10114324.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/image-2026-05-783af1cd729e90f1c4d99bf354bb5eda-1200x675.jpg",
+      "publishedAt": "2026-05-26T20:39:43Z",
       "source": {
-        "name": "Baltimore News"
+        "name": "News18"
       }
     },
     {
-      "title": "Even as stock market hits highs, most Americans are cutting back on spending, survey shows",
-      "description": "U.S. consumer confidence declined slightly this month as gas prices stayed high and inflation remained elevated, a sharp contrast to soaring stock prices that have neared record levels.",
-      "url": "https://www.pbs.org/newshour/economy/even-as-stock-market-hits-highs-most-americans-are-cutting-back-on-spending-survey-shows",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/05/2026-05-26T170649Z_837586101_RC2DZHAN5PYB_RTRMADP_3_USA-ECONOMY-1024x683.jpg",
-      "publishedAt": "2026-05-26T14:18:50Z",
+      "title": "Twin Cities gas prices drop 14 cents in a week, but still $1.24 higher than last year",
+      "description": "Drivers in the Twin Cities are seeing some relief at the pump as average gasoline prices have dropped nearly 14 cents per gallon in the past week, but prices are still much higher than last year.",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-drop-14-cents-week-still-1-24-higher-than-last-year",
+      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/04/1200/630/4_29_26-leon-tz-sots-gas-prices-and-vo-rb_kmspad87_00.02.05.38-1.jpg?ve=1&tl=1",
+      "publishedAt": "2026-05-26T20:39:20Z",
       "source": {
-        "name": "PBS News"
+        "name": "FOX 9"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.baltimoresun.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Gas prices are heading down - how long will it last?",
+      "description": "The national average price of gas on Tuesday was $4.49 according to AAA",
+      "url": "https://www.independent.co.uk/news/world/americas/gas-prices-lowering-us-war-iran-b2983906.html",
+      "image": "https://static.independent.co.uk/2026/05/26/18/download.-1.?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-05-26T20:32:30Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "The Independent"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.bostonherald.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "As fuel prices cross Rs 100, focus shifts to states for VAT reduction",
+      "description": "Petrol is selling above Rs 110 in five states; diesel has breached Rs 100 a litre in six.",
+      "url": "https://www.tribuneindia.com/news/india/as-fuel-prices-cross-100-focus-shifts-to-states-for-vat-reduction/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWM4N2JmODMwLTU5NDEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-05-26T20:30:28Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.sandiegouniontribune.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Oppn Spews Fire On Govt Over Fuel Price Rise",
+      "description": "Nagpur: Opposition parties intensified protests across Vidarbha on Tuesday over rising petrol and diesel prices, accusing the BJP-led Centre and the M.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/oppn-spews-fire-on-govt-over-fuel-price-rise/articleshow/131337031.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131337010,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-05-26T19:52:00Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.ocregister.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Piper Sandler says Strait of Hormuz to remain closed for months and oil to hit new highs",
+      "description": "Prolonged closure of Strait of Hormuz could send crude oil prices to new highs this summer.",
+      "url": "https://www.cnbc.com/2026/05/26/piper-sandler-says-strait-of-hormuz-to-remain-closed-for-months-and-oil-to-hit-new-highs.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108277418-17733388832025-06-23t164248z_302028084_rc2w7fa3r9fz_rtrmadp_0_iran-nuclear-hormuz.jpeg?v=1773338907&w=1920&h=1080",
+      "publishedAt": "2026-05-26T19:43:54Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.dailycamera.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "U.S. Natural Gas Prices Surge On Lower Output, Higher LNG Flows",
+      "description": "U.S. natural gas prices surged on Tuesday, with a combination of declining domestic output and an improving demand outlook helping the gas market break past prior downward pressure from seasonal maintenance.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Natural-Gas-Prices-Surge-On-Lower-Output-Higher-LNG-Flows.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-05-26_tiebk4ai05.jpg",
+      "publishedAt": "2026-05-26T19:30:00Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.denverpost.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.denverpost.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Maharashtra govt suspects petrol and diesel hoarding, plans action",
+      "description": "Maharashtra authorities suspect fuel is being hoarded and diverted for commercial use. This is creating artificial shortages at petrol pumps across several districts. Chief Minister Devendra Fadnavis noted a significant surge in demand for petrol and diesel. The government is investigating if increased retail consumption is being rerouted for commercial purposes.",
+      "url": "https://economictimes.indiatimes.com/news/india/maharashtra-govt-suspects-petrol-and-diesel-hoarding-plans-action/articleshow/131336893.cms",
+      "image": "https://img.etimg.com/thumb/msid-131336917,width-1200,height-630,imgsize-213630,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-26T19:27:00Z",
       "source": {
-        "name": "The Denver Post"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.pressdemocrat.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Crude Oil Prices Decline as US-Iran Peace Plans Progress",
+      "description": "July WTI crude oil (CLN26 ) on Tuesday closed down -2.71 (-2.81%), and July RBOB gasoline (RBN26 ) closed down -0.2046 (-6.10%). Crude oil and gasoline prices settled sharply lower on Tuesday, with crude falling to a 2.5-week low and gasoline droppi...",
+      "url": "https://www.barchart.com/story/news/2136529/crude-oil-prices-decline-as-us-iran-peace-plans-progress",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Offshore%20drilling%20rig%20by%20nielubieklonu%20via%20iStock.jpg",
+      "publishedAt": "2026-05-26T19:20:58Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Consumer confidence dented with gas prices around $4.50",
-      "description": "US consumer confidence declined slightly in May as gas prices stayed high & inflation remained elevated, a contrast to soaring stock prices.",
-      "url": "https://www.nydailynews.com/2026/05/26/consumer-confidence-gas-prices-inflation/",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2026/05/Consumer_Prices_64652_3c9728.jpg?w=1024&h=793",
-      "publishedAt": "2026-05-26T14:15:06Z",
+      "title": "Forecasts for Below-Normal US Temps Weigh on Nat-Gas Prices",
+      "description": "June Nymex natural gas (NGM26 ) on Tuesday closed down -0.013 (-0.45%). Nat-gas prices on Tuesday fell to a 1-week low and settled lower amid forecasts of below-normal US weather, which will curb nat-gas demand from electricity providers to power air...",
+      "url": "https://www.barchart.com/story/news/2136506/forecasts-for-below-normal-us-temps-weigh-on-nat-gas-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20night%20flare%20at%20plant%20by%20Kanenori%20via%20Pixabay.jpg",
+      "publishedAt": "2026-05-26T19:19:04Z",
       "source": {
-        "name": "New York Daily News"
+        "name": "Barchart"
       }
     }
   ]
