@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-28T09:45:23+00:00",
+  "updated_at": "2026-05-28T15:28:32+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Texas gas prices hover near $4 following Memorial Day weekend",
-      "description": "The average price for a gallon of regular gasoline in Texas is hovering around $4 after Memorial Day weekend.",
-      "url": "https://www.fox4news.com/news/texas-gas-prices-hover-near-4-following-memorial-day-weekend",
-      "image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/08/1200/630/gas_pump_generic.jpg?ve=1&tl=1",
-      "publishedAt": "2026-05-27T21:41:55Z",
+      "title": "Asian shares decline and oil prices up more than $1 after US strikes on Iran",
+      "description": "Shares are mostly lower in Asia after the U.S. conducted what the military said were defensive strikes against Iran",
+      "url": "https://www.barchart.com/story/news/2165662/asian-shares-decline-and-oil-prices-up-more-than-1-after-us-strikes-on-iran",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/063001df9d2e4ab48a3cc50d1aa36f97/063001df9d2e4ab48a3cc50d1aa36f97_main_japan_financial_markets_3_237.jpg",
+      "publishedAt": "2026-05-28T03:23:36Z",
       "source": {
-        "name": "FOX 4 News"
+        "name": "Barchart"
       }
     },
     {
-      "title": "High gas prices, macro uncertainty put the brakes on RV recovery-Citi Research",
-      "description": "Citi flags RV affordability headwinds from high gas and macro uncertainty; Winnebago downgraded, Thor target cut, CWH favored.",
-      "url": "https://seekingalpha.com/news/4597665-high-gas-prices-macro-uncertainty-puts-the-brakes-on-rv-recovery---citi-research",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435933536/image_1435933536.jpg?io=getty-c-w630",
-      "publishedAt": "2026-05-27T21:22:43Z",
+      "title": "Asian shares decline and oil prices up more than $1 after US strikes on Iran",
+      "description": "Shares are mostly lower in Asia after the U.S. conducted what the military said were defensive strikes against Iran.",
+      "url": "https://www.clickondetroit.com/business/2026/05/28/asian-shares-decline-and-oil-prices-up-more-than-1-after-us-strikes-on-iran/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KLK6GT5A2ZE6FMUZARE5KH2PVQ.jpg?_a=DATAg1fkZAA0",
+      "publishedAt": "2026-05-28T03:23:35Z",
       "source": {
-        "name": "Seeking Alpha"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Materials Up as Inflation Fears Subside - Materials Roundup",
-      "description": "Producers of metals, grains and other raw materials rose as a retreat in oil prices diminished inflation concerns.\nThe U.S. dollar has strengthened against rivals during the Iran war, weighing on...",
-      "url": "https://www.marketscreener.com/news/materials-up-as-inflation-fears-subside-materials-roundup-ce7f5ad3df89f126",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-03-24T202309Z_1_LYNXNPEC2N1BE_RTROPTP_2_USA.JPG",
-      "publishedAt": "2026-05-27T21:18:37Z",
+      "title": "Asian Shares Decline and Oil Prices up More Than $1 After US Strikes on Iran",
+      "description": "Asian shares mostly declined Thursday following what the U.S. military said were defensive strikes against Iran.",
+      "url": "https://www.usnews.com/news/business/articles/2026-05-27/asian-shares-decline-and-oil-prices-up-more-than-1-after-us-strikes-on-iran",
+      "image": "https://www.usnews.com/dims4/USNEWS/6c6bfc7/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F97%2Fa96c8cf436557772e5ef7fa9df9dc2%2F1e3f41397ddf4fb4813fd0b676975a45South_Korea_Financial_Markets_82619.jpg",
+      "publishedAt": "2026-05-28T03:23:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "U.S. News & World Report"
       }
     },
     {
-      "title": "Oil prices fall as markets monitor state of play on US-Iran situation",
-      "description": "NEW YORK: Oil prices fell Wednesday (May 27) while global stocks mostly rose as markets parsed the latest posturing between Washington and Tehran over a peace accord.Hopes of an imminent deal to avoid further hostilities in the Mideast war and reopen the Strait of Hormuz pressured oil pric",
-      "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-wall-street-us-iran-deal-6145721",
-      "image": "https://dam.mediacorp.sg/image/upload/s--zdF5j7Gw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Financial_Markets_Wall_Street_15248.jpg?itok=SNXcrOV8",
-      "publishedAt": "2026-05-27T21:17:00Z",
+      "title": "Asia shares take a breather as Gulf hostilities drag on",
+      "description": "Oil prices bounced 2%, and Treasury yields edged higher as the strike added to the conflicting signals over the talks after President Donald Trump dismissed an Iranian report of a deal to restore traffic through the Strait of Hormuz.",
+      "url": "https://www.cnbctv18.com/market/asia-shares-take-a-breather-as-gulf-hostilities-drag-on-ws-l-19914859.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/03/2011-08-08t000000z-153010410-gm1e78815m801-rtrmadp-3-market-taiwan-stocks-2026-03-0ec98b1b6168392dea096d58bd00e0e5.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-05-28T03:21:31Z",
       "source": {
-        "name": "CNA"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Costco Q3 Preview: Stock Could Hit $1,200 Or Fall To $960, Market Expert Says 'Prudent To Wait This One O",
-      "description": "Higher gas prices may have helped Costco get more visitors to stores and land new members. Will this be reflected in Q3 results?",
-      "url": "https://www.benzinga.com/trading-ideas/previews/26/05/52826977/costco-q3-preview-stock-could-hit-1200-or-fall-to-960-market-expert-says-prudent-to-wait-this-one-out",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/27/Costco-Gives-New-Twist-To-Iconic-1-50-Ho.jpeg",
-      "publishedAt": "2026-05-27T21:06:49Z",
+      "title": "Turbulent Markets: U.S. Military Strikes Shake Investor Optimism",
+      "description": "Asian share markets stumbled amid news of a U.S. military strike in Iran and missile attacks in Kuwait, casting doubts on a peace deal. Oil prices rose while treasury yields increased. The U.S. Federal Reserve faces a challenging decision on interest rates as inflation expectations soar.",
+      "url": "https://www.devdiscourse.com/article/business/3924218-turbulent-markets-us-military-strikes-shake-investor-optimism",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_06_2024_00_44_53_9192249.png&width=920&format=jpeg",
+      "publishedAt": "2026-05-28T03:15:24Z",
       "source": {
-        "name": "Benzinga"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Stocks inch to more records after oil prices drop",
-      "description": "U.S. stocks inched to more records after oil prices fell back to where they were in mid-April",
-      "url": "https://www.latimes.com/business/story/2026-05-27/stocks-inch-to-more-records-after-oil-prices-drop",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/653932f/2147483647/strip/true/crop/5422x2847+0+384/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F27%2F705e010c413e91d77dc0fbc39cf8%2F6beeb940eb714cf0947d8af01135953c.jpg",
-      "publishedAt": "2026-05-27T21:02:04Z",
+      "title": "Petrol, diesel prices today, May 28: Check latest prices in Delhi, Mumbai, Hyderabad, Kolkata",
+      "description": "Petrol prices in New Delhi have now crossed the Rs 100 mark. It now costs Rs 102.12 per litre and diesel Rs 95.20 per litre following the latest increase",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-may-28-check-latest-prices-in-delhi-mumbai-hyderabad-kolkata-533703-2026-05-28",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202605/6a17b26e576db-petrol-and-diesel-prices-281136553-16x9.jpg",
+      "publishedAt": "2026-05-28T03:14:36Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Business Today"
       }
     },
     {
-      "title": "US stocks inch to more records after oil prices drop",
-      "description": "NEW YORK (AP) \u2014 U.S. stocks inched to more records Wednesday after oil prices fell and eased the pressure on households and businesses worldwide. The S&",
-      "url": "https://wtop.com/national/2026/05/asian-shares-are-mostly-higher-tracking-wall-streets-fresh-records-and-oil-prices-fall/",
-      "image": "https://wtop.com/wp-content/uploads/2026/05/South_Korea_Financial_Markets_36_86-scaled.jpg",
-      "publishedAt": "2026-05-27T20:54:30Z",
+      "title": "Gold, Silver prices tumble amid fresh US strikes on Iran, strong US dollar; should investors worry now?",
+      "description": "Gold is trading near $4,450, and silver around $72 to $78.50, as rising oil prices and geopolitical tensions impact inflation outlook and investor sentiment.",
+      "url": "https://www.livemint.com/market/commodities/gold-price-today-silver-rate-today-tumbles-amid-fresh-us-strikes-on-iran-strong-us-dollar-should-investors-worry-now-11779936784114.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/28/1600x900/logo/gold_silver_rate_today_1779936842082_1779936842208_a00eb79e-91be-427a-be4d-5ea9e7d0e6f3.jpg",
+      "publishedAt": "2026-05-28T03:06:16Z",
       "source": {
-        "name": "WTOP"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Oil Prices Drop After Rubio's Remarks on Iran",
-      "description": "Oil prices fell more than 5% on Wednesday after comments by Secretary of State Marco Rubio touting progression in talks with Iran.",
-      "url": "https://www.newsmax.com/politics/oil-prices-marco-rubio-iran/2026/05/27/id/1257721/",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=511a688e-efda-4bf5-8ce4-62d1a0a50173&SiteName=Newsmax",
-      "publishedAt": "2026-05-27T20:46:46Z",
+      "title": "Global Stock Markets React as India Marks Bakri Id Holiday",
+      "description": "Indian stock markets paused for the Bakri Id holiday, but global markets saw varied movements. Most Asian markets faced selling pressures, while the US markets closed with modest gains. Meanwhile, rising crude oil prices and geopolitical uncertainties continue to influence investor sentiment worldwide.",
+      "url": "https://www.devdiscourse.com/article/business/3924201-global-stock-markets-react-as-india-marks-bakri-id-holiday",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_05_2026_08_34_09_7485709.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-05-28T03:04:18Z",
       "source": {
-        "name": "Newsmax"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "High gas prices force Southern California law enforcement agencies to use bike patrols, drones to cut spending",
-      "description": "Since the start of the war with Iran in late February, through April, Pasadena's fire department has seen a 39% increase in fuel spending. During the same period, the police department also saw a 38% spike in fuel spending.",
-      "url": "https://www.cbsnews.com/losangeles/news/gas-prices-southern-california-law-enforcement-agencies-alternative-patrols/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/25/0536962f-f81e-4868-a71e-268e73229cb6/thumbnail/1200x630/54a555f494dbdebd59e96d7479eed905/gettyimages-2276955575.jpg",
-      "publishedAt": "2026-05-27T20:40:14Z",
+      "title": "Lauren Huxley\u2019s attacker denied parole in major decision",
+      "description": "The man who attacked an 18-year-old TAFE student, bound her, doused her in petrol and set her home on fire in one of the state\u2019s most notorious crimes has been denied parole.",
+      "url": "https://www.perthnow.com.au/news/crime/lauren-huxleys-attacker-denied-parole-in-major-decision-c-22349580",
+      "image": "https://images.perthnow.com.au/publication/C-22349580/f7a49ae577a1ca770820d4a64a3a35812ed14942-16x9-x226y0w1447h814.jpg?imwidth=1200",
+      "publishedAt": "2026-05-28T03:02:56Z",
       "source": {
-        "name": "CBS News"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Stocks are booming despite the Iran war, inflation and the country's dour mood. Here's why.",
-      "description": "The S&P 500 hit a new record on Wednesday, even as soaring gas prices fuel inflation and consumer confidence sinks.",
-      "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/13/c811b4b3-db5b-4688-97e0-4a3ffe66249e/thumbnail/1200x630/100ff0254c611f9c5bfe37f43b73b0ab/download.jpg",
-      "publishedAt": "2026-05-27T20:37:20Z",
+      "title": "LPG, PNG prices today: Check domestic, commercial cylinder rates in Delhi, Mumbai, Kolkata, Bengaluru, Chennai, other cities",
+      "description": "LPG, PNG Prices City Wise: The CNG prices were increased on Tuesday a day after the price hike of petrol and diesel. CNG witnessed a price hike for the fourth time in recent 10 days. The OMCs increased the price of 19 kg cylinders by Rs 993 on May 1. The price of 14.2 kg cooking gas cylinders remained unchanged. Check the prices of domestic LPG cylinders.",
+      "url": "https://www.india.com/news/india/lpg-png-prices-today-check-domestic-commercial-cylinder-rates-in-delhi-mumbai-kolkata-bengaluru-chennai-indian-oil-bharat-petroleum-hindustan-petrol-crude-oil-strait-of-hormuz-8428585/",
+      "image": "https://static.india.com/wp-content/uploads/2026/05/lpg-gas-price-5.png",
+      "publishedAt": "2026-05-28T02:48:42Z",
       "source": {
-        "name": "CBS News"
+        "name": "India.com"
       }
     }
   ]
