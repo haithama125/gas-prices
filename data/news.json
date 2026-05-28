@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-27T19:59:57+00:00",
+  "updated_at": "2026-05-28T02:07:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "European Stocks Near Record as Tech Rallies, Oil Prices Ease",
-      "description": "European stocks gained, edging closer to their pre-war record high, as technology shares climbed and easing geopolitical tensions sent oil prices lower.",
-      "url": "https://www.livemint.com/market/european-stocks-near-record-as-tech-rallies-oil-prices-ease-11779868794797.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "publishedAt": "2026-05-27T07:59:54Z",
+      "title": "UK Petrol Prices Hit Highest Level Since 2022",
+      "description": "UK petrol prices have reached their highest level since December 2022 as renewed US-Iran tensions pushed oil back toward $100 per barrel.",
+      "url": "https://oilprice.com/Energy/Energy-General/UK-Petrol-Prices-Hit-Highest-Level-Since-2022.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-27_bifahumyoo.jpg",
+      "publishedAt": "2026-05-27T14:00:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Woman killed, five injured in Kuala Krai crash",
-      "description": "KUALA KRAI: A woman was killed while five others, including two boys, were injured in an accident involving a multi-purpose vehicle (MPV) and a car near a Caltex petrol station in Laloh here on Wednesday (May 27) morning.",
-      "url": "https://www.thestar.com.my/news/nation/2026/05/27/woman-killed-five-injured-in-kuala-krai-crash",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/27/3929601.jpg",
-      "publishedAt": "2026-05-27T07:28:00Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall",
+      "url": "https://www.barchart.com/story/news/2141954/wall-street-hangs-near-its-records-as-oil-prices-ease",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b3b1a9ba49a74a5b89d0e4c7f786eead/b3b1a9ba49a74a5b89d0e4c7f786eead_main_financial_markets_wall_street_76795.jpg",
+      "publishedAt": "2026-05-27T13:54:32Z",
       "source": {
-        "name": "The Star"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Trump 'Doesn't Care' About Rising Gas Prices, Gavin Newsom Says As California Drivers Pay More Than $6 A",
-      "description": "Gavin Newsom slams Trump for not caring about gas prices amid Iran war, warns of cascading effects on economy and criticizes trade policies.",
-      "url": "https://www.benzinga.com/news/politics/26/05/52799470/trump-doesnt-care-about-rising-gas-prices-gavin-newsom-says-as-california-drivers-pay-more-than-6-a-gallon-amid-iran-war",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/27/Washington--January-30-2025-President-Do.jpeg",
-      "publishedAt": "2026-05-27T07:17:04Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.baltimoresun.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "Benzinga"
+        "name": "Baltimore Sun"
       }
     },
     {
-      "title": "LPG To PNG Rule Change: New 30-Day Deadline, Fuel Price Hike - All You Need To Know",
-      "description": "The government has introduced new LPG-PNG rules including a 30-day LPG surrender deadline after PNG installation, while petrol and diesel prices remained elevated across major Indian cities on May 27, 2026.",
-      "url": "https://www.outlookbusiness.com/ampstories/economy-and-policy/lpg-to-png-rule-change-new-30-day-deadline-fuel-price-hike-all-you-need-to-know",
-      "image": "https://media.assettype.com/outlookbusiness/2026-05-27/ht4vh9u7/fdr.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-05-27T07:09:23Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.bostonherald.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "Asian shares are mostly higher, tracking Wall Street's fresh records, and oil prices fall",
-      "description": "Asian shares are mostly higher and oil prices have fallen after the U.S. stock market rose to records. South Korea's Kospi jumped more than 2% and Taiwan's benchmark also surged as the boom in artificial intelligence drove heavy buying of computer chipmakers and other technology companies. On Tuesday, the S&P 500 climbed 0.6% after trading resumed following Monday\u2019s holiday, setting another all-time high. The Nasdaq composite rallied 1.2% to its own record, while the Dow Jones Industrial Average dipped 0.2% from its all-time high. Micron Technology led the way, and its stock has more than tripled so far this year. Treasury yields eased.",
-      "url": "https://www.ajc.com/news/2026/05/asian-shares-are-mostly-higher-tracking-wall-streets-fresh-records-and-oil-prices-fall/",
-      "image": "https://images.ajc.com/resizer/v2/ND5RVEAILVFWJLRPPSTUX763RY.jpg?auth=36d4bbf7fc7dc174484e91c67e14cf0f8a0e0f613e62730cb94d6ff459a8dd73&width=1200&height=630&smart=true",
-      "publishedAt": "2026-05-27T07:01:48Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.readingeagle.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Reading Eagle"
       }
     },
     {
-      "title": "CMAT only pitched Jamie Oliver being in her music video to avoid making one: 'I was being lazy'",
-      "description": "Irish singer-songwriter CMAT only pitched filming a music video with celebrity chef Jamie Oliver, for her tune The Jamie Oliver Petrol Station, because she was \"being lazy\" and didn't want to make one at all.",
-      "url": "https://www.perthnow.com.au/entertainment/music/cmat-only-pitched-jamie-oliver-being-in-her-music-video-to-avoid-making-one-i-was-being-lazy-c-22345285",
-      "image": "https://images.perthnow.com.au/publication/C-22345285/f707c64c45b6cda645fd0d00faf21d713611abf9-16x9-x0y192w2048h1152.jpg?imwidth=1200",
-      "publishedAt": "2026-05-27T07:00:12Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.sandiegouniontribune.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "PerthNow"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Energy bills to rise steeply from July 2026 after Ofgem confirms new price cap",
-      "description": "Ofgem says higher wholesale gas prices, driven by ongoing conflict in the Middle East, is having an impact on energy prices",
-      "url": "https://www.chroniclelive.co.uk/news/cost-of-living/energy-bills-rise-steeply-july-34016043",
-      "image": "https://i2-prod.chroniclelive.co.uk/article33073206.ece/ALTERNATES/s1200d/0_Serious-confused-couple-checking-domestic-bills-with-papers-and-laptop.jpg",
-      "publishedAt": "2026-05-27T06:42:14Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.pilotonline.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "Evening Chronicle"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "BofA says India could emerge among market winners if oil prices cool",
-      "description": "Business News: Get the latest Business News, Live Share & Stock Market Updates, Top News from India and across world. Read Top Business News and updates on financial, economic and banking news on CNBCTV18.",
-      "url": "https://www.cnbctv18.com/market/india-oil-prices-ai-boom-fii-flows-hormuz-bofa-19914173.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/oil-india-market-artificial-intelligence-ai-chatgpt-1600x900-27may-2026-05-c65c87ef04adca27808f4e480b2d64d2.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-05-27T06:32:02Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.twincities.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.twincities.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "St. Paul Pioneer Press"
       }
     },
     {
-      "title": "Asian shares mostly higher, tracking Wall Street's fresh records, oil prices fall",
-      "description": "BANGKOK, May 27: \u00a0Asian shares were mostly higher on Wednesday and oil prices fell after the US stock market rose to more records. South Korea\u2019s Kospi jumped nearly 5 per cent and Taiwan\u2019s benchmark also surged as the boom in artificial intelligence drove heavy buying of computer chipmakers and other technology companies. In Tokyo, the Nikkei 225 also was lifted by gains for tech-related shares, climbing 1.3 per cent to 65,816.62. It topped 66,000 for the first time in intraday [\u2026]",
-      "url": "https://www.dailyexcelsior.com/asian-shares-mostly-higher-tracking-wall-streets-fresh-records-oil-prices-fall/",
-      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/Asia-1.jpg",
-      "publishedAt": "2026-05-27T06:24:30Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.ocregister.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "UK Ofgem Announces 13% Energy Price Cap Hike Amid Middle East Conflict",
-      "description": "UK's Ofgem has announced a 13% increase in the energy price cap from July to September 2026, mainly due to higher wholesale gas prices triggered by the ongoing Middle East conflict. Despite reduced average household energy consumption, bills are expected to rise significantly.",
-      "url": "https://www.devdiscourse.com/article/business/3923114-uk-ofgem-announces-13-energy-price-cap-hike-amid-middle-east-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_08_36_24_2595611.png&width=920&format=jpeg",
-      "publishedAt": "2026-05-27T06:09:59Z",
+      "title": "Wall Street hangs near its records as oil prices ease",
+      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
+      "url": "https://www.pressdemocrat.com/2026/05/27/stock-market-near-records/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-27T13:44:59Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Santa Rosa Press Democrat"
       }
     }
   ]
