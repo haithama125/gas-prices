@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-28T02:07:19+00:00",
+  "updated_at": "2026-05-28T09:45:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "UK Petrol Prices Hit Highest Level Since 2022",
-      "description": "UK petrol prices have reached their highest level since December 2022 as renewed US-Iran tensions pushed oil back toward $100 per barrel.",
-      "url": "https://oilprice.com/Energy/Energy-General/UK-Petrol-Prices-Hit-Highest-Level-Since-2022.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-27_bifahumyoo.jpg",
-      "publishedAt": "2026-05-27T14:00:00Z",
+      "title": "Texas gas prices hover near $4 following Memorial Day weekend",
+      "description": "The average price for a gallon of regular gasoline in Texas is hovering around $4 after Memorial Day weekend.",
+      "url": "https://www.fox4news.com/news/texas-gas-prices-hover-near-4-following-memorial-day-weekend",
+      "image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2022/08/1200/630/gas_pump_generic.jpg?ve=1&tl=1",
+      "publishedAt": "2026-05-27T21:41:55Z",
       "source": {
-        "name": "OilPrice"
+        "name": "FOX 4 News"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall",
-      "url": "https://www.barchart.com/story/news/2141954/wall-street-hangs-near-its-records-as-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b3b1a9ba49a74a5b89d0e4c7f786eead/b3b1a9ba49a74a5b89d0e4c7f786eead_main_financial_markets_wall_street_76795.jpg",
-      "publishedAt": "2026-05-27T13:54:32Z",
+      "title": "High gas prices, macro uncertainty put the brakes on RV recovery-Citi Research",
+      "description": "Citi flags RV affordability headwinds from high gas and macro uncertainty; Winnebago downgraded, Thor target cut, CWH favored.",
+      "url": "https://seekingalpha.com/news/4597665-high-gas-prices-macro-uncertainty-puts-the-brakes-on-rv-recovery---citi-research",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1435933536/image_1435933536.jpg?io=getty-c-w630",
+      "publishedAt": "2026-05-27T21:22:43Z",
       "source": {
-        "name": "Barchart"
+        "name": "Seeking Alpha"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.baltimoresun.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Materials Up as Inflation Fears Subside - Materials Roundup",
+      "description": "Producers of metals, grains and other raw materials rose as a retreat in oil prices diminished inflation concerns.\nThe U.S. dollar has strengthened against rivals during the Iran war, weighing on...",
+      "url": "https://www.marketscreener.com/news/materials-up-as-inflation-fears-subside-materials-roundup-ce7f5ad3df89f126",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-03-24T202309Z_1_LYNXNPEC2N1BE_RTROPTP_2_USA.JPG",
+      "publishedAt": "2026-05-27T21:18:37Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.bostonherald.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Oil prices fall as markets monitor state of play on US-Iran situation",
+      "description": "NEW YORK: Oil prices fell Wednesday (May 27) while global stocks mostly rose as markets parsed the latest posturing between Washington and Tehran over a peace accord.Hopes of an imminent deal to avoid further hostilities in the Mideast war and reopen the Strait of Hormuz pressured oil pric",
+      "url": "https://www.channelnewsasia.com/world/oil-prices-stocks-wall-street-us-iran-deal-6145721",
+      "image": "https://dam.mediacorp.sg/image/upload/s--zdF5j7Gw--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Financial_Markets_Wall_Street_15248.jpg?itok=SNXcrOV8",
+      "publishedAt": "2026-05-27T21:17:00Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "CNA"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.readingeagle.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Costco Q3 Preview: Stock Could Hit $1,200 Or Fall To $960, Market Expert Says 'Prudent To Wait This One O",
+      "description": "Higher gas prices may have helped Costco get more visitors to stores and land new members. Will this be reflected in Q3 results?",
+      "url": "https://www.benzinga.com/trading-ideas/previews/26/05/52826977/costco-q3-preview-stock-could-hit-1200-or-fall-to-960-market-expert-says-prudent-to-wait-this-one-out",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/05/27/Costco-Gives-New-Twist-To-Iconic-1-50-Ho.jpeg",
+      "publishedAt": "2026-05-27T21:06:49Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.sandiegouniontribune.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Stocks inch to more records after oil prices drop",
+      "description": "U.S. stocks inched to more records after oil prices fell back to where they were in mid-April",
+      "url": "https://www.latimes.com/business/story/2026-05-27/stocks-inch-to-more-records-after-oil-prices-drop",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/653932f/2147483647/strip/true/crop/5422x2847+0+384/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2F27%2F705e010c413e91d77dc0fbc39cf8%2F6beeb940eb714cf0947d8af01135953c.jpg",
+      "publishedAt": "2026-05-27T21:02:04Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.pilotonline.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "US stocks inch to more records after oil prices drop",
+      "description": "NEW YORK (AP) \u2014 U.S. stocks inched to more records Wednesday after oil prices fell and eased the pressure on households and businesses worldwide. The S&",
+      "url": "https://wtop.com/national/2026/05/asian-shares-are-mostly-higher-tracking-wall-streets-fresh-records-and-oil-prices-fall/",
+      "image": "https://wtop.com/wp-content/uploads/2026/05/South_Korea_Financial_Markets_36_86-scaled.jpg",
+      "publishedAt": "2026-05-27T20:54:30Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.twincities.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Oil Prices Drop After Rubio's Remarks on Iran",
+      "description": "Oil prices fell more than 5% on Wednesday after comments by Secretary of State Marco Rubio touting progression in talks with Iran.",
+      "url": "https://www.newsmax.com/politics/oil-prices-marco-rubio-iran/2026/05/27/id/1257721/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=511a688e-efda-4bf5-8ce4-62d1a0a50173&SiteName=Newsmax",
+      "publishedAt": "2026-05-27T20:46:46Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "Newsmax"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.ocregister.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "High gas prices force Southern California law enforcement agencies to use bike patrols, drones to cut spending",
+      "description": "Since the start of the war with Iran in late February, through April, Pasadena's fire department has seen a 39% increase in fuel spending. During the same period, the police department also saw a 38% spike in fuel spending.",
+      "url": "https://www.cbsnews.com/losangeles/news/gas-prices-southern-california-law-enforcement-agencies-alternative-patrols/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/05/25/0536962f-f81e-4868-a71e-268e73229cb6/thumbnail/1200x630/54a555f494dbdebd59e96d7479eed905/gettyimages-2276955575.jpg",
+      "publishedAt": "2026-05-27T20:40:14Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Wall Street hangs near its records as oil prices ease",
-      "description": "U.S. stocks are hanging near their records as oil prices fall. The S&P 500 rose Wednesday and added to its all-time high set the day before.",
-      "url": "https://www.pressdemocrat.com/2026/05/27/stock-market-near-records/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-27T13:44:59Z",
+      "title": "Stocks are booming despite the Iran war, inflation and the country's dour mood. Here's why.",
+      "description": "The S&P 500 hit a new record on Wednesday, even as soaring gas prices fuel inflation and consumer confidence sinks.",
+      "url": "https://www.cbsnews.com/news/stock-market-high-nvidia-ai-economic-divide/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/06/13/c811b4b3-db5b-4688-97e0-4a3ffe66249e/thumbnail/1200x630/100ff0254c611f9c5bfe37f43b73b0ab/download.jpg",
+      "publishedAt": "2026-05-27T20:37:20Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "CBS News"
       }
     }
   ]
