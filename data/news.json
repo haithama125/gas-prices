@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-29T02:10:51+00:00",
+  "updated_at": "2026-05-29T09:35:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stocks Pressured as Oil Prices Climb on US-Iran Clashes",
-      "description": "The S&P 500 Index ($SPX ) (SPY ) today is down -0.14%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is down -0.27%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.34%. June E-mini S&P futures (ESM26 ) are down -0.17%, and June E-min...",
-      "url": "https://www.barchart.com/story/news/2178581/stocks-pressured-as-oil-prices-climb-on-us-iran-clashes",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/Inside%20NYSE%20by%20Orhan%20Akkurt%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-05-28T14:07:04Z",
+      "title": "Live updates: ASX to rise after Wall Street tech rally as oil prices drop again",
+      "description": "Oil prices have dropped again as investors hope for peace in the Middle East and an end to the global energy shock. Follow the day's events and insights as they happen\u00a0with\u00a0our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-05-29/asx-markets-business-live-news-may-26-2026/106736008",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f97a81ab1a6e607219490cb7f42b6f74?impolicy=wcms_watermark_news&cropH=2361&cropW=4198&xPos=0&yPos=437&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-05-28T21:34:32Z",
       "source": {
-        "name": "Barchart"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Key inflation gauge worsens as Americans' income and spending power erode",
-      "description": "A key inflation gauge accelerated in April to the highest level in three years, the latest sign that spiking gas prices and higher food costs are squeezing Americans\u2019 finances",
-      "url": "https://www.latimes.com/business/story/2026-05-28/key-inflation-gauge-worsens-as-americans-income-spending-power-erodes",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/e0d01a6/2147483647/strip/true/crop/5616x2948+0+398/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F97%2F78%2F72cb28f043ebbcc02455a7d18589%2F9b911f52f91d4bc88119827d8d476598.jpg",
-      "publishedAt": "2026-05-28T14:02:24Z",
+      "title": "Live updates: KPMG boss resigns over mishandled whistleblower allegations, ASX climbs",
+      "description": "Auction clearance rates have fallen to levels not seen since the 2022 housing downturn. The ASX is up solidly as oil prices drop on hopes of a Middle East peace deal. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-05-29/asx-markets-business-live-news-may-29-2026/106736008",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6ee02bae491c0ca3c94c0f7639967d66?impolicy=wcms_watermark_news&cropH=889&cropW=1581&xPos=0&yPos=83&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-05-28T21:34:32Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Treasuries\u2019 Oil-Driven Selloff Stalls as Inflation Gauge Slows",
-      "description": "Treasuries rallied back to be little-changed on the day, erasing earlier declines spurred by higher oil prices, after a key US inflation gauge rose less than expected.",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-28/treasuries-oil-driven-selloff-stalls-as-inflation-gauge-slows",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0bxXcaUPimM/v1/1200x800.jpg",
-      "publishedAt": "2026-05-28T13:59:55Z",
+      "title": "Southwest Airlines CEO says fare increases are here to stay",
+      "description": "Southwest Airlines CEO Bob Jordan indicated Thursday that fare increases over the past few months amid the Iran War conflict could stay once oil prices fall.",
+      "url": "https://www.dallasnews.com/business/airlines/article/southwest-airlines-flight-price-increases-22281150.php",
+      "image": "https://s.hdnux.com/photos/01/62/27/11/29979208/3/rawImage.jpg",
+      "publishedAt": "2026-05-28T21:33:18Z",
       "source": {
-        "name": "Bloomberg"
+        "name": "The Dallas Morning News"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records",
-      "url": "https://www.barchart.com/story/news/2165662/oil-prices-climb-but-us-stocks-hold-near-their-records",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/0a9de69dc35143a18e06719a19d06e98/0a9de69dc35143a18e06719a19d06e98_main_financial_markets_wall_street_15248.jpg",
-      "publishedAt": "2026-05-28T13:52:27Z",
+      "title": "Key inflation gauge worsens as Americans\u2019 spending power erodes",
+      "description": "A key inflation gauge accelerated in April to the highest level in three years, the latest sign that spiking gas prices and higher food costs are squeezing Americans\u2019 finances.",
+      "url": "https://www.chicagotribune.com/2026/05/28/key-inflation-gauge-worsens/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/05/Consumer_Prices_54517_8610da-1.jpg?w=1024&h=683",
+      "publishedAt": "2026-05-28T21:30:34Z",
       "source": {
-        "name": "Barchart"
+        "name": "Chicago Tribune"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records",
-      "url": "https://www.barchart.com/story/news/2165662/wall-street-hangs-near-its-records-as-profits-keep-piling-up-for-us-companies-and-oil-prices-swing",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/0a9de69dc35143a18e06719a19d06e98/0a9de69dc35143a18e06719a19d06e98_main_financial_markets_wall_street_15248.jpg",
-      "publishedAt": "2026-05-28T13:52:27Z",
+      "title": "Iran, Gas Prices, the Ballroom: Trump Professes Indifference Over Fallout",
+      "description": "President Trump has increasingly adopted a posture of nonchalance when pushed on the political consequences of his actions.",
+      "url": "https://www.nytimes.com/2026/05/28/us/politics/trump-iran-economy-ballroom-midterms.html",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28dc-memo-zlpb/28dc-memo-zlpb-facebookJumbo.jpg",
+      "publishedAt": "2026-05-28T21:16:55Z",
       "source": {
-        "name": "Barchart"
+        "name": "The New York Times"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records.",
-      "url": "https://www.readingeagle.com/2026/05/28/oil-prices-us-stocks/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_15248_7f2e5e.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-28T13:49:09Z",
+      "title": "Consumer sentiment, confidence index May 2026: Sentiment is at its lowest since 1952, gas prices still high",
+      "description": "United States consumers feel worse about their politics now than they did during the COVID-19 pandemic, Great Recession or 1970s oil crisis.",
+      "url": "https://www.oregonlive.com/retail/2026/05/consumer-sentiment-plummets-to-70-year-low-gas-prices-still-up.html",
+      "image": "https://www.oregonlive.com/resizer/v2/UGF3SVFC2BEG5CMBMYJNDZHZZQ.jpg?auth=acfc3d00da97bead0d737ff57491707534e4837b6adb70ecea54e766c49d436b&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-05-28T21:00:13Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "The Oregonian"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records.",
-      "url": "https://www.bostonherald.com/2026/05/28/oil-prices-us-stocks/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_15248_7f2e5e.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-28T13:49:09Z",
+      "title": "Outlook for oil remains extremely vulnerable to geopolitical risks: Reliance Industries Ltd",
+      "description": "Global oil demand growth is expected to be sluggish due to higher oil prices and economic slowdown in FY 2026\u201127 amid West Asia conflict, RIL said in its annual report. Crude oil has been highly volatile since March this year when the US-Israel conflict started.",
+      "url": "https://indianexpress.com/article/business/companies/outlook-for-oil-remains-extremely-vulnerable-to-geopolitical-risks-reliance-industries-ltd-10713042/",
+      "image": "https://images.indianexpress.com/2026/05/Ambani-2-col.jpg",
+      "publishedAt": "2026-05-28T20:07:49Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "The Indian Express"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records.",
-      "url": "https://www.dailycamera.com/2026/05/28/oil-prices-us-stocks/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_15248_7f2e5e.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-28T13:49:09Z",
+      "title": "Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal",
+      "description": "GLOBAL-OIL:Oil prices settle in mixed direction on conflicting reports of US-Iran ceasefire deal",
+      "url": "https://www.livemint.com/market/oil-prices-settle-in-mixed-direction-on-conflicting-reports-of-us-iran-ceasefire-deal-11779998658953.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "publishedAt": "2026-05-28T20:04:18Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records.",
-      "url": "https://www.baltimoresun.com/2026/05/28/oil-prices-us-stocks/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_15248_7f2e5e.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-28T13:49:09Z",
+      "title": "Oil Market Swings Amid U.S.-Iran Ceasefire Developments",
+      "description": "Oil prices experienced volatility following mixed signals about extending the U.S.-Iran ceasefire. Brent crude futures saw marginal declines while U.S. oil futures slightly increased. Despite a potential agreement to prolong the ceasefire, official confirmation is pending. The complex market environment remains sensitive to Middle East developments and stockpile changes.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3925282-oil-market-swings-amid-us-iran-ceasefire-developments",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_05_2026_14_23_09_3631494.png&width=920&format=jpeg",
+      "publishedAt": "2026-05-28T20:03:01Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Oil prices climb, but US stocks hold near their records",
-      "description": "Oil prices are clawing back some of their sharp drops from earlier in the week, but U.S. stocks are remaining near their records.",
-      "url": "https://www.pilotonline.com/2026/05/28/oil-prices-us-stocks/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_15248_7f2e5e.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-28T13:49:09Z",
+      "title": "Cracker Barrel set to give away free gas and food to lure customers back",
+      "description": "The sweepstakes comes as Americans struggle with soaring gas prices and high grocery bills",
+      "url": "https://www.independent.co.uk/us/money/cracker-barrel-free-food-gas-sweepstakes-b2985556.html",
+      "image": "https://static.independent.co.uk/2026/05/28/18/05/GettyImages-2231353550.jpg?trim=27,0,28,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-05-28T19:55:56Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "The Independent"
       }
     }
   ]
