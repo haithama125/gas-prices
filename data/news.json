@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-05-30T08:16:20+00:00",
+  "updated_at": "2026-05-30T13:03:05+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Pulse of the Street: Falling crude emerges as lone silver lining for bruised equities",
+      "description": "Markets ended lower this week as geopolitical uncertainty, monsoon concerns and MSCI-driven flows triggered volatility. However, a sharp fall in crude oil prices is raising hopes of easing macro pressures heading into June.",
+      "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-falling-crude-emerges-as-lone-silver-lining-for-bruised-equities-11780062760430.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/29/1600x900/logo/NSE_1768818662762_1768818703502_1780073449951_c1049431-4b88-4e30-a064-e10ecd03f500.JPG",
+      "publishedAt": "2026-05-30T00:00:05Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Strait Negotiation: Trump's Ceasefire Proposal Faces Challenges",
+      "description": "President Donald Trump is evaluating a ceasefire extension proposal with Iran, amidst ongoing disagreements over key conditions, including nuclear activities and the Strait of Hormuz. Pressure mounts on Trump due to rising U.S. gasoline prices and upcoming congressional elections. The potential deal could ease geopolitical tensions impacting oil prices.",
+      "url": "https://www.devdiscourse.com/article/politics/3926562-strait-negotiation-trumps-ceasefire-proposal-faces-challenges",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2024_21_25_41_0025841.png&width=920&format=jpeg",
+      "publishedAt": "2026-05-29T21:42:29Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Gas prices sink as oil set for 20% drop",
+      "description": "Prices at gas pumps are starting to sink and oil is on track to drop 20% in May -- its largest one-month decline since 2020 -- as investors remain optimistic that a deal to end the Iran war is near.",
+      "url": "https://nypost.com/2026/05/29/business/gas-prices-sink-as-oil-set-for-20-drop-largest-1-month-decline-since-2020/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/129105441.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-05-29T20:43:20Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Market Optimism Rises Amid U.S.-Iran Peace Hopes",
+      "description": "U.S. stocks rise, leading global indices higher as hopes grow for a U.S.-Iran peace resolution. A tech-led rally bolstered markets amid a fragile ceasefire extension, while U.S. and Iranian negotiations continue. Oil prices retreated, and U.S. Treasury yields fell, reflecting market optimism and reduced tensions.",
+      "url": "https://www.devdiscourse.com/article/business/3926550-market-optimism-rises-amid-us-iran-peace-hopes",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
+      "publishedAt": "2026-05-29T20:43:15Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "day LPG reserves, govt tells oil firms amid West Asia crisis",
+      "description": "The government has assured that stocks of petrol, diesel, LPG, crude oil and natural gas remain adequate. Refineries are operating at optimum levels, while LPG production has reached an all-time high of around 52,000 tonnes per day.",
+      "url": "https://www.tribuneindia.com/news/top-headlines/build-30-day-lpg-reserves-govt-tells-oil-firms-amid-west-asia-crisis/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1YTZkMmYwLTViOWQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-05-29T20:30:40Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Canadian Natural Resources vs. Enbridge: Which Dividend Stock Looks Better Today?",
+      "description": "CNQ and Enbridge both pay well, but one rides oil prices while the other turns energy demand into steadier dividends.",
+      "url": "https://www.fool.ca/2026/05/29/canadian-natural-resources-vs-enbridge-which-dividend-stock-looks-better-today/",
+      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1316669671-1200x800.jpg",
+      "publishedAt": "2026-05-29T20:20:00Z",
+      "source": {
+        "name": "The Motley Fool Canada"
+      }
+    },
     {
       "title": "Higher For Longer, That\u2019s The Story Of Oil And Gas Prices",
       "description": "Higher oil and gas prices are going to stay with us for quite a while as inventory levels reach historic lows.",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-05-29T19:14:57Z",
       "source": {
         "name": "Barchart"
-      }
-    },
-    {
-      "title": "Gas Prices Are Falling But Still Far Above Pre-War Levels: Here's What's Keeping Them High",
-      "description": "While a possible U.S.-Iran ceasefire deal has helped push gas prices lower, tight fuel supplies, summer demand, and ongoing uncertainty in global oil markets mean drivers should not expect significant relief at the pump immediately. , US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/gas-prices-are-falling-but-still-far-above-pre-war-levels-heres-whats-keeping-them-high-article-154429403",
-      "image": "https://images.timesnownews.com/thumb/msid-154429403,width-1280,height-720,resizemode-75/154429403.jpg",
-      "publishedAt": "2026-05-29T19:09:41Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Iran war wiped out 1.5 billion barrels of oil - so far",
-      "description": "Rory Johnston, founder of Commodity Context, discusses the damage inflicted on oil prices from the Iran war. Watch the video.",
-      "url": "https://financialpost.com/commodities/energy/oil-gas/iran-war-wiped-billion-barrels-oil",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/0530-bc-hormuz-.jpg",
-      "publishedAt": "2026-05-29T18:48:56Z",
-      "source": {
-        "name": "Financial Post"
-      }
-    },
-    {
-      "title": "Govt Ensures Petrol, Diesel, LPG Supply With 30-Day Reserves Plan; 6500 LPG Raids, 15 Arrests As Sales Spike 100% In 14 Districts",
-      "description": "The Petroleum Ministry claimed India has ample fuel with refineries at optimum and 30-day LPG reserves planned, as 6500 LPG raids net arrests amid abnormal sales spikes and \u20b910 per litre excise cut costs \u20b914,000 Crore per month.",
-      "url": "https://www.republicworld.com/india/govt-ensures-petrol-diesel-lpg-supply-with-30-day-reserves-plan-6500-lpg-raids-15-arrests-as-sales-spike-100-in-14-districts-2026-05-29-126191",
-      "image": "https://img.republicworld.com/all_images/fuel-1750673855251-16_9.webp",
-      "publishedAt": "2026-05-29T18:28:52Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Walmart cuts electric bike price by 70% for summer",
-      "description": "Walmart just slashed this electric mountain bike to $330 from $1,100 and it's perfect for beating summer gas prices.",
-      "url": "https://www.cleveland.com/shopping/2026/05/with-gas-prices-still-sky-high-get-electric-bike-for-just-330-at-70-off-at-walmart-save-hundreds.html",
-      "image": "https://www.cleveland.com/resizer/v2/IQX3B5X4FVA6TJI3JM3LPPMKL4.png?auth=634d0d437cd43280ecac18442506ee709c0c528641737bfd905ba287fd6f2e61&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-05-29T18:13:46Z",
-      "source": {
-        "name": "cleveland.com"
-      }
-    },
-    {
-      "title": "Optimism about peace pact lifts equities",
-      "description": "RECAP: Asian stock markets rose and oil prices receded yesterday, boosted by optimism that the United States and Iran will reach a deal to end their war that has hobbled global energy supplies.",
-      "url": "https://www.bangkokpost.com/business/general/3263035/optimism-about-peace-pact-lifts-equities",
-      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "publishedAt": "2026-05-29T18:01:00Z",
-      "source": {
-        "name": "Bangkok Post"
-      }
-    },
-    {
-      "title": "Canada gas prices fall on Iran optimism, but will relief last?",
-      "description": "Experts say it\u2019s anyone\u2019s guess whether the relief Canadians have been feeling at the pumps over the past week will last into June.",
-      "url": "https://www.cp24.com/news/money/2026/05/29/gas-prices-fall-on-middle-east-optimism-but-no-one-sure-if-relief-will-last/",
-      "image": "https://www.cp24.com/resizer/v2/GOT2TH3OKV34T625GARNBONTKM.jpg?smart=true&auth=90c02661514cceaa839fab3e5db845d74b6a6f51b701651fff67953ea369f4f9&width=1200&height=630",
-      "publishedAt": "2026-05-29T16:40:26Z",
-      "source": {
-        "name": "CP24 Toronto"
       }
     }
   ]
