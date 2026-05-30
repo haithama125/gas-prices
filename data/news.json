@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-29T20:08:52+00:00",
+  "updated_at": "2026-05-30T02:06:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices fall and markets rise on optimism over Iran ceasefire deal",
-      "description": "Markets rallied, and oil fell after reports that the United States and Iran had agreed in principle to extend their ceasefire, boosting hopes of a sustained de-escalation in the conflict.",
-      "url": "https://www.euronews.com/business/2026/05/29/oil-prices-fall-and-markets-rise-on-optimism-over-iran-ceasefire-deal",
-      "image": "https://images.euronews.com/articles/stories/09/77/69/34/1200x675_cmsv2_99c460d9-c3e0-5836-bdc6-2b4bd4ad8771-9776934.jpg",
-      "publishedAt": "2026-05-29T07:54:01Z",
+      "title": "Supermajor Warns Oil Prices Could Hit $160 Within Weeks",
+      "description": "Exxon and Chevron executives warn at Bernstein conference that near-record-low oil inventories will push Brent prices to $150-$160 within weeks.",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Supermajor-Warns-Oil-Prices-Could-Hit-160-Within-Weeks.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-29_oqyrfpcdmq.jpg",
+      "publishedAt": "2026-05-29T14:00:00Z",
       "source": {
-        "name": "Euronews"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "I asked ChatGPT: EV vs petrol - which really saves you more money? The answer isn\u2019t what you expect",
-      "description": "Given the current fuel situation, if you drive a car, you\u2019ve probably thought at least once, \u2018An EV would have saved me a lot of money and protected me from rising fuel prices.\u2019 But is that really true?",
-      "url": "https://www.livemint.com/money/personal-finance/i-asked-chatgpt-ev-vs-petrol-which-really-saves-you-more-money-the-answer-isn-t-what-you-expect-11780038243866.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/29/1600x900/logo/EV_Vs_Petrol_1780039690911_1780039702684_fefbdbf2-4e2f-48fc-a3cf-57d27853015c.png",
-      "publishedAt": "2026-05-29T07:32:05Z",
+      "title": "Stocks rally continues on US-Iran peace deal hopes, AI spending optimism",
+      "description": "Crude oil prices dropped again, with West Texas Intermediate falling to around $87 a barrel as the US and Iran reached a preliminary deal to extend the ceasefire by another 60 days, though President Donald Trump has yet to agree to terms.",
+      "url": "https://www.moneycontrol.com/news/business/markets/stocks-rally-continues-on-us-iran-peace-deal-hopes-ai-spending-optimism-13935934.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260529135721_457209646.jpg",
+      "publishedAt": "2026-05-29T13:58:25Z",
       "source": {
-        "name": "Livemint"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Planning To Buy Tata Punch EV? Know These 5 Things That Really Matter",
-      "description": "The Tata Punch EV is an affordable electric SUV that appeals to first-time buyers and those transitioning from petrol vehicles. It offers two battery options and up to 468 km range. Here's all you need to know about the EV in detail., Car News, Times Now",
-      "url": "https://www.timesnownews.com/auto/car-news/planning-to-buy-tata-punch-ev-know-these-5-things-that-really-matter-article-154424132",
-      "image": "https://images.timesnownews.com/thumb/msid-154424132,width-1280,height-720,resizemode-75/154424132.jpg",
-      "publishedAt": "2026-05-29T07:31:00Z",
+      "title": "Gas prices are easing: Where to buy it for under $4 a gallon in central Pa.",
+      "description": "The national average for a gallon of regular gasoline is down 12 cents from last week to $4.42 on Friday, May 29.",
+      "url": "https://www.pennlive.com/news/2026/05/gas-prices-are-easing-where-to-buy-it-for-under-4-a-gallon-in-central-pa.html",
+      "image": "https://www.pennlive.com/resizer/v2/6QYZUQZQTBEFLLLPREG3IONJ7I.jpg?auth=04a070850639f18b97b8fce415b97090964fdaa63a1fe28e147609ca53246a61&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-05-29T13:46:58Z",
       "source": {
-        "name": "Times Now"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "OTHERS SAY: A gas tax holiday is good politics but bad economics",
-      "description": "Even as the U.S. and Iran wrestle over an agreement to reopen the Strait of Hormuz, surging gas prices have turned the government's attention to a perennially popular fiscal scam: ease the pressure on household budgets with a gas tax holiday. In reality, such a plan to curry favor with voters would make them, all things considered, worse off.",
-      "url": "https://www.arkansasonline.com/news/2026/may/29/others-say-a-gas-tax-holiday-is-good-politics-but/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-      "publishedAt": "2026-05-29T07:15:00Z",
+      "title": "Oil prices plummet as Trump announces \u201cbreakthrough\u201d in Iran deal talks",
+      "description": "President Donald Trump surprised the world by saying that a deal with Iran\u2014including reopening the critical Strait of Hormuz\u2014was \u201clargely negotiated.\u201d This news caused oil prices to fall dramatically because traders believed global fuel supplies might soon flow freely again. The proposed agreement includes an official end to the war, followed by two months of [\u2026]",
+      "url": "https://www.naturalnews.com/2026-05-29-oil-prices-plummet-trump-announces-breakthrough-iran-deal.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Iran-Map.jpg",
+      "publishedAt": "2026-05-29T13:46:12Z",
       "source": {
-        "name": "Arkansas Online"
+        "name": "Natural News"
       }
     },
     {
-      "title": "Japan, South Korea markets hit records on hopes for a winding down of the Iran war",
-      "description": "Markets in Japan and South Korea have hit fresh records as Asian shares advanced on expectations the U.S. and Iran will agree to extend the ceasefire in their war by 60 days. Oil prices slipped, but...",
-      "url": "https://www.sfgate.com/news/world/article/asian-shares-are-mostly-higher-on-hopes-for-a-22281823.php",
-      "image": "https://s.hdnux.com/photos/01/66/26/53/31025872/3/rawImage.jpg",
-      "publishedAt": "2026-05-29T07:13:03Z",
+      "title": "UK petrol station plunges into liquidation - forecourt abandoned",
+      "description": "A UK based petrol station has fallen into liquidation in a dent for petrol and diesel car owners.",
+      "url": "https://www.express.co.uk/life-style/cars/2211238/uk-petrol-station-liquidation-fuel-diesel",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6949321.jpg",
+      "publishedAt": "2026-05-29T13:45:00Z",
       "source": {
-        "name": "SFGATE"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "RBI says West Asia war clouds growth outlook, but India remains relatively resilient",
-      "description": "RBI cautioned that a prolonged escalation of the war could hurt growth momentum and rekindle inflationary pressures through surging crude oil prices, volatile commodity markets and disruptions in shipping routes.",
-      "url": "https://www.livemint.com/economy/rbi-west-asia-war-india-economy-gdp-growth-inflation-risks-crude-oil-11780035686156.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/29/1600x900/logo/PTI02-23-2026-000129B-0_1778894187623_177889421039_1780038182009_1780038182180_973303ba-55ee-4a3d-92f6-9076a04c54d6.jpg",
-      "publishedAt": "2026-05-29T07:07:41Z",
+      "title": "After petrol, diesel, and milk, THIS essential product becomes costlier; prices increased by up to 5 percent",
+      "description": "This latest price increase comes at a time when FMCG companies are struggling with continuous inflationary pressure in commodities, packaging materials, and logistics costs.",
+      "url": "https://www.india.com/business/petrol-diesel-milk-toothpaste-colfate-fmcg-companies-palmolive-india-max-fresh-west-asia-united-states-iran-strait-of-hormuz-8430130/",
+      "image": "https://static.india.com/wp-content/uploads/2026/05/Price-hike.jpg",
+      "publishedAt": "2026-05-29T13:41:49Z",
       "source": {
-        "name": "Livemint"
+        "name": "India.com"
       }
     },
     {
-      "title": "West Asia crisis pose risks to growth, inflation in the short run, says RBI",
-      "description": "RBI says geopolitical tensions, elevated oil prices and supply chain disruptions could weigh on growth and inflation, though India's economic outlook remains positive",
-      "url": "https://www.business-standard.com/economy/news/rbi-annual-report-geopolitical-tensions-growth-inflation-risks-126052900683_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/08/thumb/fitandfill/1200X628/1775671796-6338.jpg",
-      "publishedAt": "2026-05-29T06:59:28Z",
+      "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq Edge Higher As Oil Cools; Traders Await Iran Truce Deal",
+      "description": "Crude oil prices eased a bit with Brent crude down 1.71% to $92.11 per barrel.",
+      "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-jones-s-p-500-nasdaq-edge-higher-as-oil-cools-traders-await-iran-truce-deal-11564972",
+      "image": "https://c.ndtvimg.com/2026-05/9asflnt4_x_625x300_29_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-05-29T13:38:23Z",
       "source": {
-        "name": "Business Standard"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "Taxpayers Association seeks scrapping of additional VAT, cess on Andhra Pradesh fuel",
-      "description": "The Taxpayers' Association, Vijayawada, has urged the AP government to scrap the additional VAT and road development cess on petrol and diesel.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/taxpayers-association-seeks-scrapping-of-additional-vat-cess-on-andhra-pradesh-fuel/article71033376.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ih42nr/article71034318.ece/alternates/LANDSCAPE_1200/DSC_9956.JPG",
-      "publishedAt": "2026-05-29T06:53:06Z",
+      "title": "World Bank sees Brent oil averaging US$86 in 2026, easing to US$70 in 2027",
+      "description": "KUALA LUMPUR: The World Bank Group has forecast that Brent oil prices will remain elevated in the near term before easing, averaging US$86 (US$1=RM3.96) per barrel in 2026 and US$70 per barrel in 2027.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/05/29/world-bank-sees-brent-oil-averaging-us86-in-2026-easing-to-us70-in-2027",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/29/3933483.png",
+      "publishedAt": "2026-05-29T13:27:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "The Star"
       }
     },
     {
-      "title": "Grupa Azoty confirms Q1 core profit as lower gas prices help offset Iran war disruption",
-      "description": "Poland's Grupa Azoty\nreported a first-quarter core profit of 316.5 million zlotys\nlate on Thursday, in line with its preliminary\nestimate, as lower average natural gas prices helped offset a\nsupply...",
-      "url": "https://www.marketscreener.com/news/grupa-azoty-confirms-q1-core-profit-as-lower-gas-prices-help-offset-iran-war-disruption-ce7f5ddbd88af127",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-05-29T06:51:05Z",
+      "title": "Wall Street inches higher, oil prices fall on hope of ceasefire extension",
+      "description": "Oil prices are down and markets are inching higher before the opening bell, adding to records hit a day earlier on optimism over a tentative deal to extend the ceasefire in the war with Iran.",
+      "url": "https://www.sandiegouniontribune.com/2026/05/29/wall-street-oil-prices-war-iran/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-29T13:13:47Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Oil prices dip as tentative US-Iran deal awaits Trump\u2019s final approval",
-      "description": "Analysts warned that any potential ceasefire extension should be viewed cautiously",
-      "url": "https://www.independent.co.uk/news/world/middle-east/trump-iran-war-us-ceasefire-oil-b2985704.html",
-      "image": "https://static.independent.co.uk/2026/05/21/14/2276831110..?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-05-29T06:48:40Z",
+      "title": "Wall Street inches higher, oil prices fall on hope of ceasefire extension",
+      "description": "Oil prices are down and markets are inching higher before the opening bell, adding to records hit a day earlier on optimism over a tentative deal to extend the ceasefire in the war with Iran.",
+      "url": "https://www.bostonherald.com/2026/05/29/wall-street-oil-prices-war-iran/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
+      "publishedAt": "2026-05-29T13:13:47Z",
       "source": {
-        "name": "The Independent"
+        "name": "The Boston Herald"
       }
     }
   ]
