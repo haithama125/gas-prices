@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-30T13:03:05+00:00",
+  "updated_at": "2026-05-30T18:59:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Pulse of the Street: Falling crude emerges as lone silver lining for bruised equities",
-      "description": "Markets ended lower this week as geopolitical uncertainty, monsoon concerns and MSCI-driven flows triggered volatility. However, a sharp fall in crude oil prices is raising hopes of easing macro pressures heading into June.",
-      "url": "https://www.livemint.com/market/stock-market-news/pulse-of-the-street-falling-crude-emerges-as-lone-silver-lining-for-bruised-equities-11780062760430.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/29/1600x900/logo/NSE_1768818662762_1768818703502_1780073449951_c1049431-4b88-4e30-a064-e10ecd03f500.JPG",
-      "publishedAt": "2026-05-30T00:00:05Z",
+      "title": "Ops Kesan 6.0 begins June 1 to curb profiteering amid global supply crisis",
+      "description": "PUTRAJAYA: The Domestic Trade and Cost of Living Ministry will conduct Ops Kesan 6.0 from June 1 to Aug 31 to curb profiteering amid the increase in world crude oil prices resulting from the global supply crisis.",
+      "url": "https://www.thestar.com.my/news/nation/2026/05/30/ops-kesan-60-begins-june-1-to-curb-profiteering-amid-global-supply-crisis",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/30/3934297.jpg",
+      "publishedAt": "2026-05-30T06:16:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "U.S. sanctions on Russia\u2019s oil industry: Global energy markets in turmoil as Washington tightens the screws",
+      "description": "The Trump administration imposed sweeping sanctions on Russian oil majors Rosneft and Lukoil on October 22, 2025, targeting Moscow\u2019s revenue for the Ukraine war. Oil prices surged dramatically, with Brent crude exceeding $140 per barrel and U.S. West Texas Intermediate surpassing $130 per barrel. Treasury Secretary Scott Bessent announced a 30-day sanctions waiver extension on [\u2026]",
+      "url": "https://www.naturalnews.com/2026-05-30-us-sanctions-on-russias-oil-industry.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/us-treasury-sanctions-russian-crude-oil-waiver-extension-1035-original.jpg",
+      "publishedAt": "2026-05-30T05:53:47Z",
+      "source": {
+        "name": "Natural News"
+      }
+    },
+    {
+      "title": "Pakistan reduces petrol, diesel prices by \u20b922 per litre, third such move in recent weeks",
+      "description": "Pakistan cuts petrol and HSD prices by \u20b922 per litre, offers Eid relief to consumers despite global energy tensions and ongoing US Iran ceasefire talks",
+      "url": "https://www.cnbctv18.com/world/pakistan-reduces-petrol-diesel-prices-by-22-per-litre-third-such-move-in-recent-weeks-ws-l-19916106.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/2026-04-03t152117z-1675815253-rc2ohkakdjh6-rtrmadp-3-pakistan-fuel-2026-05-d8d343ed01639e2dc7662ca0a298a954.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-05-30T05:40:31Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Bessent\u2019s net worth comes under fire after \u2018less than $200 in extra gas cost\u2019 remark",
+      "description": "US Treasury Secretary Scott Bessent\u2019s reassurance that the war with Iran will end soon comes amidst rising inflation and an increase in gasoline prices. However, his remarks sparked outrage as his net worth of nearly a billion dollars and privileged position were called out, with politicians criticizing him for being out of touch. | financialexpress.com",
+      "url": "https://www.financialexpress.com/shorts/world-news/us-news/millionaire-scott-bessents-net-worth-comes-under-fire-after-less-than-200-in-extra-gas-cost-remark-4254829/",
+      "image": "https://images.financialexpressdigital.com/2026/05/scott-bessent-gas-price-net-worth.jpg",
+      "publishedAt": "2026-05-30T05:25:24Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "US stock markets this week: S&P 500 posts 9th straight weekly gain as tech stocks power markets to new records",
+      "description": "US stock markets closed at record levels amid easing geopolitical tensions and lower oil prices. The S&P 500 marked its fourth consecutive record high, while technology stocks, driven by AI growth, led the rally despite concerns over ongoing Middle East tensions.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-posts-9th-straight-weekly-gain-as-tech-stocks-power-markets-to-new-records-11780115495459.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/US_stock_markets_this_week_1780115673784_1780115673925_abb58444-e32e-4976-ad7c-a05c530d5bf3.jpg",
+      "publishedAt": "2026-05-30T05:10:26Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Strait Negotiation: Trump's Ceasefire Proposal Faces Challenges",
-      "description": "President Donald Trump is evaluating a ceasefire extension proposal with Iran, amidst ongoing disagreements over key conditions, including nuclear activities and the Strait of Hormuz. Pressure mounts on Trump due to rising U.S. gasoline prices and upcoming congressional elections. The potential deal could ease geopolitical tensions impacting oil prices.",
-      "url": "https://www.devdiscourse.com/article/politics/3926562-strait-negotiation-trumps-ceasefire-proposal-faces-challenges",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_06_2024_21_25_41_0025841.png&width=920&format=jpeg",
-      "publishedAt": "2026-05-29T21:42:29Z",
+      "title": "Oil prices tumble 11% for biggest weekly drop in 7 weeks. Where is liquid gold headed from here?",
+      "description": "Global markets rallied as oil prices hit seven-week lows. Hopes for a peace deal between the US, Israel, and Iran eased inflation fears. Brent crude and WTI saw sharp declines. Diplomatic efforts continue, but differing descriptions of a potential deal persist. Geopolitical tensions remain a factor. Analysts suggest restoring normal shipping could take months.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-tumble-11-for-biggest-weekly-drop-in-7-weeks-where-is-liquid-gold-headed-from-here/articleshow/131404176.cms",
+      "image": "https://img.etimg.com/thumb/msid-131404197,width-1200,height-630,imgsize-76304,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-05-30T05:08:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Gas prices sink as oil set for 20% drop",
-      "description": "Prices at gas pumps are starting to sink and oil is on track to drop 20% in May -- its largest one-month decline since 2020 -- as investors remain optimistic that a deal to end the Iran war is near.",
-      "url": "https://nypost.com/2026/05/29/business/gas-prices-sink-as-oil-set-for-20-drop-largest-1-month-decline-since-2020/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/05/129105441.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-05-29T20:43:20Z",
+      "title": "The ultimate guide to cheaper summer holidays",
+      "description": "From low air fares to cheap petrol, great-value supermarket shopping and hotels vs self-catering \u2013 how to save in the peak weeks",
+      "url": "https://inews.co.uk/inews-lifestyle/travel/ultimate-guide-cheaper-summer-holidays-4435100",
+      "image": "https://inews.co.uk/wp-content/uploads/2026/05/SEI_299104061.jpg?crop=0px%2C244px%2C1778px%2C1009px&resize=1200%2C675",
+      "publishedAt": "2026-05-30T05:00:00Z",
       "source": {
-        "name": "New York Post"
+        "name": "The i Paper"
       }
     },
     {
-      "title": "Market Optimism Rises Amid U.S.-Iran Peace Hopes",
-      "description": "U.S. stocks rise, leading global indices higher as hopes grow for a U.S.-Iran peace resolution. A tech-led rally bolstered markets amid a fragile ceasefire extension, while U.S. and Iranian negotiations continue. Oil prices retreated, and U.S. Treasury yields fell, reflecting market optimism and reduced tensions.",
-      "url": "https://www.devdiscourse.com/article/business/3926550-market-optimism-rises-amid-us-iran-peace-hopes",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
-      "publishedAt": "2026-05-29T20:43:15Z",
+      "title": "Australia extends measure that releases petrol and diesel from domestic reserves",
+      "description": "CANBERRA: Australia on Saturday (May 30) extended a measure that releases petrol and diesel from domestic reserves, Energy Minister Chris Bowen \u200bsaid, as the country continues to grapple with the impact of the Iran war on energy supplies.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/30/australia-extends-measure-that-releases-petrol-and-diesel-from-domestic-reserves",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/30/3934275.JPG",
+      "publishedAt": "2026-05-30T04:59:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Star"
       }
     },
     {
-      "title": "day LPG reserves, govt tells oil firms amid West Asia crisis",
-      "description": "The government has assured that stocks of petrol, diesel, LPG, crude oil and natural gas remain adequate. Refineries are operating at optimum levels, while LPG production has reached an all-time high of around 52,000 tonnes per day.",
-      "url": "https://www.tribuneindia.com/news/top-headlines/build-30-day-lpg-reserves-govt-tells-oil-firms-amid-west-asia-crisis/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ1YTZkMmYwLTViOWQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-05-29T20:30:40Z",
+      "title": "Consumers Association of Pakistan hails govt\u2019s step to reduce petrol prices",
+      "description": "KARACHI\u00a0 \u00a0-\u00a0 \u00a0Chairman of the Consumers Association of Pakistan (CAP), Kaukab Iqbal, has welcomed the decision of Prime Minister Muhammad Shehbaz",
+      "url": "https://www.nation.com.pk/30-May-2026/consumers-association-pakistan-hails-govt-s-step-reduce-petrol-prices",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-05-30T04:32:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Canadian Natural Resources vs. Enbridge: Which Dividend Stock Looks Better Today?",
-      "description": "CNQ and Enbridge both pay well, but one rides oil prices while the other turns energy demand into steadier dividends.",
-      "url": "https://www.fool.ca/2026/05/29/canadian-natural-resources-vs-enbridge-which-dividend-stock-looks-better-today/",
-      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1316669671-1200x800.jpg",
-      "publishedAt": "2026-05-29T20:20:00Z",
+      "title": "Australia extends measure that releases petrol and diesel from domestic reserves",
+      "description": "Energy Minister Chris Bowen said he reached a judgement that it is best to provide ongoing flexibility. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/australianz/australia-extends-measure-that-releases-petrol-and-diesel-from-domestic-reserves",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/530b37cc2cb69dc810d9468e086feee6041985f828348b5ba6c4a0b6c44dc337",
+      "publishedAt": "2026-05-30T03:10:00Z",
       "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Higher For Longer, That\u2019s The Story Of Oil And Gas Prices",
-      "description": "Higher oil and gas prices are going to stay with us for quite a while as inventory levels reach historic lows.",
-      "url": "https://www.forbes.com/sites/mattrandolph/2026/05/29/higher-for-longer-thats-the-story-of-oil-and-gas-prices/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a19ec7b4ed720d8012453f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-05-29T19:48:58Z",
-      "source": {
-        "name": "Forbes"
-      }
-    },
-    {
-      "title": "Trump's Ceasefire Gamble: Navigating Tensions with Iran",
-      "description": "President Donald Trump is considering a proposed deal to extend the ceasefire with Iran, though significant differences remain between the two countries. Trump demands dismantling Iran's nuclear capability and open access to the Strait of Hormuz. Oil prices dropped on news of the potential agreement affecting global markets.",
-      "url": "https://www.devdiscourse.com/article/politics/3926523-trumps-ceasefire-gamble-navigating-tensions-with-iran",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_18_13_10_244579.png&width=920&format=jpeg",
-      "publishedAt": "2026-05-29T19:32:34Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "US-Iran Peace Hopes Weigh on Crude Oil Prices",
-      "description": "July WTI crude oil (CLN26 ) on Friday closed down -1.54 (-1.73%), and July RBOB gasoline (RBN26 ) closed down -0.0665 (-2.14%). Crude oil and gasoline prices retreated on Friday, with crude oil falling to a 5-week low. Crude prices are under pressu...",
-      "url": "https://www.barchart.com/story/news/2206383/us-iran-peace-hopes-weigh-on-crude-oil-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20tanker%20in%20open%20sea%20by%20StockStudio%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-05-29T19:16:25Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Forecasts for Above-Average US Temps Boost Nat-Gas Prices",
-      "description": "July Nymex natural gas (NGN26 ) on Friday closed up +0.005 (+0.15%). Nat-gas prices climbed to a 2.5-month nearest-futures high on Friday and settled slightly higher on the outlook for above-normal US temperatures next month, potentially boosting nat...",
-      "url": "https://www.barchart.com/story/news/2206361/forecasts-for-above-average-us-temps-boost-nat-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20night%20flare%20at%20plant%20by%20Kanenori%20via%20Pixabay.jpg",
-      "publishedAt": "2026-05-29T19:14:57Z",
-      "source": {
-        "name": "Barchart"
+        "name": "The Straits Times"
       }
     }
   ]
