@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-30T02:06:42+00:00",
+  "updated_at": "2026-05-30T08:16:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Supermajor Warns Oil Prices Could Hit $160 Within Weeks",
-      "description": "Exxon and Chevron executives warn at Bernstein conference that near-record-low oil inventories will push Brent prices to $150-$160 within weeks.",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Supermajor-Warns-Oil-Prices-Could-Hit-160-Within-Weeks.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-05-29_oqyrfpcdmq.jpg",
-      "publishedAt": "2026-05-29T14:00:00Z",
+      "title": "Higher For Longer, That\u2019s The Story Of Oil And Gas Prices",
+      "description": "Higher oil and gas prices are going to stay with us for quite a while as inventory levels reach historic lows.",
+      "url": "https://www.forbes.com/sites/mattrandolph/2026/05/29/higher-for-longer-thats-the-story-of-oil-and-gas-prices/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a19ec7b4ed720d8012453f9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-05-29T19:48:58Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Forbes"
       }
     },
     {
-      "title": "Stocks rally continues on US-Iran peace deal hopes, AI spending optimism",
-      "description": "Crude oil prices dropped again, with West Texas Intermediate falling to around $87 a barrel as the US and Iran reached a preliminary deal to extend the ceasefire by another 60 days, though President Donald Trump has yet to agree to terms.",
-      "url": "https://www.moneycontrol.com/news/business/markets/stocks-rally-continues-on-us-iran-peace-deal-hopes-ai-spending-optimism-13935934.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260529135721_457209646.jpg",
-      "publishedAt": "2026-05-29T13:58:25Z",
+      "title": "Trump's Ceasefire Gamble: Navigating Tensions with Iran",
+      "description": "President Donald Trump is considering a proposed deal to extend the ceasefire with Iran, though significant differences remain between the two countries. Trump demands dismantling Iran's nuclear capability and open access to the Strait of Hormuz. Oil prices dropped on news of the potential agreement affecting global markets.",
+      "url": "https://www.devdiscourse.com/article/politics/3926523-trumps-ceasefire-gamble-navigating-tensions-with-iran",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_18_13_10_244579.png&width=920&format=jpeg",
+      "publishedAt": "2026-05-29T19:32:34Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gas prices are easing: Where to buy it for under $4 a gallon in central Pa.",
-      "description": "The national average for a gallon of regular gasoline is down 12 cents from last week to $4.42 on Friday, May 29.",
-      "url": "https://www.pennlive.com/news/2026/05/gas-prices-are-easing-where-to-buy-it-for-under-4-a-gallon-in-central-pa.html",
-      "image": "https://www.pennlive.com/resizer/v2/6QYZUQZQTBEFLLLPREG3IONJ7I.jpg?auth=04a070850639f18b97b8fce415b97090964fdaa63a1fe28e147609ca53246a61&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-05-29T13:46:58Z",
+      "title": "US-Iran Peace Hopes Weigh on Crude Oil Prices",
+      "description": "July WTI crude oil (CLN26 ) on Friday closed down -1.54 (-1.73%), and July RBOB gasoline (RBN26 ) closed down -0.0665 (-2.14%). Crude oil and gasoline prices retreated on Friday, with crude oil falling to a 5-week low. Crude prices are under pressu...",
+      "url": "https://www.barchart.com/story/news/2206383/us-iran-peace-hopes-weigh-on-crude-oil-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20tanker%20in%20open%20sea%20by%20StockStudio%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-05-29T19:16:25Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "Barchart"
       }
     },
     {
-      "title": "Oil prices plummet as Trump announces \u201cbreakthrough\u201d in Iran deal talks",
-      "description": "President Donald Trump surprised the world by saying that a deal with Iran\u2014including reopening the critical Strait of Hormuz\u2014was \u201clargely negotiated.\u201d This news caused oil prices to fall dramatically because traders believed global fuel supplies might soon flow freely again. The proposed agreement includes an official end to the war, followed by two months of [\u2026]",
-      "url": "https://www.naturalnews.com/2026-05-29-oil-prices-plummet-trump-announces-breakthrough-iran-deal.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/Iran-Map.jpg",
-      "publishedAt": "2026-05-29T13:46:12Z",
+      "title": "Forecasts for Above-Average US Temps Boost Nat-Gas Prices",
+      "description": "July Nymex natural gas (NGN26 ) on Friday closed up +0.005 (+0.15%). Nat-gas prices climbed to a 2.5-month nearest-futures high on Friday and settled slightly higher on the outlook for above-normal US temperatures next month, potentially boosting nat...",
+      "url": "https://www.barchart.com/story/news/2206361/forecasts-for-above-average-us-temps-boost-nat-gas-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20night%20flare%20at%20plant%20by%20Kanenori%20via%20Pixabay.jpg",
+      "publishedAt": "2026-05-29T19:14:57Z",
       "source": {
-        "name": "Natural News"
+        "name": "Barchart"
       }
     },
     {
-      "title": "UK petrol station plunges into liquidation - forecourt abandoned",
-      "description": "A UK based petrol station has fallen into liquidation in a dent for petrol and diesel car owners.",
-      "url": "https://www.express.co.uk/life-style/cars/2211238/uk-petrol-station-liquidation-fuel-diesel",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6949321.jpg",
-      "publishedAt": "2026-05-29T13:45:00Z",
+      "title": "Gas Prices Are Falling But Still Far Above Pre-War Levels: Here's What's Keeping Them High",
+      "description": "While a possible U.S.-Iran ceasefire deal has helped push gas prices lower, tight fuel supplies, summer demand, and ongoing uncertainty in global oil markets mean drivers should not expect significant relief at the pump immediately. , US News, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-news/gas-prices-are-falling-but-still-far-above-pre-war-levels-heres-whats-keeping-them-high-article-154429403",
+      "image": "https://images.timesnownews.com/thumb/msid-154429403,width-1280,height-720,resizemode-75/154429403.jpg",
+      "publishedAt": "2026-05-29T19:09:41Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Times Now"
       }
     },
     {
-      "title": "After petrol, diesel, and milk, THIS essential product becomes costlier; prices increased by up to 5 percent",
-      "description": "This latest price increase comes at a time when FMCG companies are struggling with continuous inflationary pressure in commodities, packaging materials, and logistics costs.",
-      "url": "https://www.india.com/business/petrol-diesel-milk-toothpaste-colfate-fmcg-companies-palmolive-india-max-fresh-west-asia-united-states-iran-strait-of-hormuz-8430130/",
-      "image": "https://static.india.com/wp-content/uploads/2026/05/Price-hike.jpg",
-      "publishedAt": "2026-05-29T13:41:49Z",
+      "title": "Iran war wiped out 1.5 billion barrels of oil - so far",
+      "description": "Rory Johnston, founder of Commodity Context, discusses the damage inflicted on oil prices from the Iran war. Watch the video.",
+      "url": "https://financialpost.com/commodities/energy/oil-gas/iran-war-wiped-billion-barrels-oil",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/05/0530-bc-hormuz-.jpg",
+      "publishedAt": "2026-05-29T18:48:56Z",
       "source": {
-        "name": "India.com"
+        "name": "Financial Post"
       }
     },
     {
-      "title": "US Stock Market Today: Dow Jones, S&P 500, Nasdaq Edge Higher As Oil Cools; Traders Await Iran Truce Deal",
-      "description": "Crude oil prices eased a bit with Brent crude down 1.71% to $92.11 per barrel.",
-      "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-jones-s-p-500-nasdaq-edge-higher-as-oil-cools-traders-await-iran-truce-deal-11564972",
-      "image": "https://c.ndtvimg.com/2026-05/9asflnt4_x_625x300_29_May_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-05-29T13:38:23Z",
+      "title": "Govt Ensures Petrol, Diesel, LPG Supply With 30-Day Reserves Plan; 6500 LPG Raids, 15 Arrests As Sales Spike 100% In 14 Districts",
+      "description": "The Petroleum Ministry claimed India has ample fuel with refineries at optimum and 30-day LPG reserves planned, as 6500 LPG raids net arrests amid abnormal sales spikes and \u20b910 per litre excise cut costs \u20b914,000 Crore per month.",
+      "url": "https://www.republicworld.com/india/govt-ensures-petrol-diesel-lpg-supply-with-30-day-reserves-plan-6500-lpg-raids-15-arrests-as-sales-spike-100-in-14-districts-2026-05-29-126191",
+      "image": "https://img.republicworld.com/all_images/fuel-1750673855251-16_9.webp",
+      "publishedAt": "2026-05-29T18:28:52Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "Republic World"
       }
     },
     {
-      "title": "World Bank sees Brent oil averaging US$86 in 2026, easing to US$70 in 2027",
-      "description": "KUALA LUMPUR: The World Bank Group has forecast that Brent oil prices will remain elevated in the near term before easing, averaging US$86 (US$1=RM3.96) per barrel in 2026 and US$70 per barrel in 2027.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/05/29/world-bank-sees-brent-oil-averaging-us86-in-2026-easing-to-us70-in-2027",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/29/3933483.png",
-      "publishedAt": "2026-05-29T13:27:00Z",
+      "title": "Walmart cuts electric bike price by 70% for summer",
+      "description": "Walmart just slashed this electric mountain bike to $330 from $1,100 and it's perfect for beating summer gas prices.",
+      "url": "https://www.cleveland.com/shopping/2026/05/with-gas-prices-still-sky-high-get-electric-bike-for-just-330-at-70-off-at-walmart-save-hundreds.html",
+      "image": "https://www.cleveland.com/resizer/v2/IQX3B5X4FVA6TJI3JM3LPPMKL4.png?auth=634d0d437cd43280ecac18442506ee709c0c528641737bfd905ba287fd6f2e61&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-05-29T18:13:46Z",
       "source": {
-        "name": "The Star"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "Wall Street inches higher, oil prices fall on hope of ceasefire extension",
-      "description": "Oil prices are down and markets are inching higher before the opening bell, adding to records hit a day earlier on optimism over a tentative deal to extend the ceasefire in the war with Iran.",
-      "url": "https://www.sandiegouniontribune.com/2026/05/29/wall-street-oil-prices-war-iran/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-29T13:13:47Z",
+      "title": "Optimism about peace pact lifts equities",
+      "description": "RECAP: Asian stock markets rose and oil prices receded yesterday, boosted by optimism that the United States and Iran will reach a deal to end their war that has hobbled global energy supplies.",
+      "url": "https://www.bangkokpost.com/business/general/3263035/optimism-about-peace-pact-lifts-equities",
+      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2026-05-29T18:01:00Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Wall Street inches higher, oil prices fall on hope of ceasefire extension",
-      "description": "Oil prices are down and markets are inching higher before the opening bell, adding to records hit a day earlier on optimism over a tentative deal to extend the ceasefire in the war with Iran.",
-      "url": "https://www.bostonherald.com/2026/05/29/wall-street-oil-prices-war-iran/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/05/Financial_Markets_Wall_Street_76795.jpg?w=1024&h=682",
-      "publishedAt": "2026-05-29T13:13:47Z",
+      "title": "Canada gas prices fall on Iran optimism, but will relief last?",
+      "description": "Experts say it\u2019s anyone\u2019s guess whether the relief Canadians have been feeling at the pumps over the past week will last into June.",
+      "url": "https://www.cp24.com/news/money/2026/05/29/gas-prices-fall-on-middle-east-optimism-but-no-one-sure-if-relief-will-last/",
+      "image": "https://www.cp24.com/resizer/v2/GOT2TH3OKV34T625GARNBONTKM.jpg?smart=true&auth=90c02661514cceaa839fab3e5db845d74b6a6f51b701651fff67953ea369f4f9&width=1200&height=630",
+      "publishedAt": "2026-05-29T16:40:26Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "CP24 Toronto"
       }
     }
   ]
