@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-05-31T08:34:28+00:00",
+  "updated_at": "2026-05-31T13:14:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "India cuts export duties on petrol, diesel and aviation turbine fuel",
+      "description": "India will reduce its export duties on petrol, diesel, and aviation turbine fuel (ATF) starting June 1. The new rates are 1.5 rupees per litre for petrol, 13.5 rupees for diesel, and 9.5 rupees for ATF. These revisions are made fortnightly based on international crude oil and fuel prices.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/india-cuts-export-duties-on-petrol-diesel-and-aviation-turbine-fuel/articleshow/131417638.cms",
+      "image": "https://img.etimg.com/thumb/msid-131417641,width-1200,height-630,imgsize-136706,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-31T01:11:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Cockroaches of the world have united",
+      "description": "Mobility is the life-spring of cockroaches. The high fuel prices limit the mobility of cockroaches. The price of petrol in Delhi is Rs 102.12 and the price of diesel is Rs 95.20",
+      "url": "https://indianexpress.com/article/opinion/columns/p-chidambaram-writes-cockroaches-of-the-world-have-united-10716239/",
+      "image": "https://images.indianexpress.com/2026/05/cockroach-janata-party-2_20260529055127_20260529064522_20260529065948_20260530201040.jpeg",
+      "publishedAt": "2026-05-31T01:10:48Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Centre cuts export duties on petrol, diesel and jet fuel from June 1; check revised rates here",
+      "description": "These revised duties are part of a periodic assessment to ensure domestic fuel availability amid global energy supply constraints",
+      "url": "https://www.theweek.in/news/biz-tech/2026/05/31/centre-cuts-export-duties-on-petrol-diesel-and-jet-fuel-from-june-1-check-revised-rates-here.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/3/27/diesel-petrol-crisis-rtrs.jpg",
+      "publishedAt": "2026-05-31T00:00:00Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Across the aisle by P Chidambaram: Cockroaches of the world have united",
+      "description": "Mobility is the life-spring of cockroaches. The high fuel prices limit the mobility of cockroaches. The price of petrol in Delhi is Rs 102.12 and the price of diesel is Rs 95.20",
+      "url": "https://www.financialexpress.com/opinion/across-the-aisle-by-p-chidambaram-cockroaches-of-the-world-have-united/4255256/",
+      "image": "https://images.financialexpressdigital.com/2026/05/cockroach-janta-party-cjp-growth-followers-instagram_20260523163710_20260530172841.jpg",
+      "publishedAt": "2026-05-30T23:39:42Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "British foreign minister due to visit China and India to discuss global issues",
+      "description": "It comes at a time of heightened geopolitical tensions and soaring oil prices. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/uk-foreign-minister-due-to-visit-china-and-india-to-discuss-global-issues",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/dbec7d82d837eac7e105d8066c4e56549c9faf4e6c29901abdaecf7dee9c001d",
+      "publishedAt": "2026-05-30T23:05:01Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "India cuts export duties on petrol, diesel and aviation turbine fuel",
+      "description": "India will cut its export duty \u200bon petrol diesel and aviation \u200cturbine fuel (ATF) for the fortnight starting June 1, its government said \u200bin a statement on Saturday.",
+      "url": "https://www.reuters.com/business/energy/india-cuts-export-duties-petrol-diesel-aviation-turbine-fuel-2026-05-30/",
+      "image": "https://www.reuters.com/resizer/v2/UPARQTADDVIVTKWMGNKNO4L2PA.jpg?auth=138e02358d1f9266d953fff9a715e462cd3f6c24d6f6f7b13ed0886f0fe219ad&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-05-30T20:58:55Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
     {
       "title": "India cuts export duties on petrol, diesel and aviation turbine fuel",
       "description": "India will cut its export duty on petrol diesel and aviation turbine fuel for the fortnight starting June 1, its government said in a statement on Saturday.\nThe duty on exports of...",
@@ -35,73 +95,13 @@
       }
     },
     {
-      "title": "India halves petrol export duty; diesel, aviation fuel also slashed from June 1",
-      "description": "The Centre has further reduced export duties on petrol, diesel and ATF for June 1\u201315, following a fortnightly review linked to global fuel prices, while leaving domestic fuel taxes unchanged.",
-      "url": "https://www.cnbctv18.com/business/aviation/india-halves-petrol-export-duty-diesel-aviation-fuel-also-slashed-from-june-1-ws-el-19916316.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/image-2026-05-2d43f82541eedea1c164731ef6133797.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-05-30T18:38:30Z",
+      "title": "U.S. Releases 53 Million Barrels From Strategic Petroleum Reserve Amid Rising Gas Prices",
+      "description": "Explore the implications of the Strategic Petroleum Reserve's 53 million barrel oil release as the U.S. tackles soaring oil prices.",
+      "url": "https://www.activistpost.com/u-s-releases-53-million-barrels-from-strategic-petroleum-reserve-amid-rising-gas-prices/",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/05/strategic-petroleum-reserve-crude-oil-release-gas-prices-1472-original.jpg",
+      "publishedAt": "2026-05-30T19:04:00Z",
       "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Government revises windfall tax on fuel exports from June 1",
-      "description": "New windfall tax rates on fuel exports take effect from June 1, 2026. Taxes are back on diesel and aviation turbine fuel after a period of nil levies. Petrol exports will also attract a duty. These revisions reflect changes in global oil prices and refiner margins. The government reviews these rates fortnightly.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/government-revises-windfall-tax-on-fuel-exports-from-june-1/articleshow/131414132.cms",
-      "image": "https://img.etimg.com/thumb/msid-131414142,width-1200,height-630,imgsize-24112,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-05-30T18:12:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rachel Reeves just dangled a carrot in front of drivers - does she think we're stupid?",
-      "description": "EXCLUSIVE: Rachel Reeves just made a major change for petrol and diesel owners - but is it all too little too late?",
-      "url": "https://www.express.co.uk/life-style/cars/2210187/rachel-reeves-fuel-duty-petrol-diesel",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6944054.jpg",
-      "publishedAt": "2026-05-30T17:00:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Amidst Middle East and Hormuz crises, India purchases 5 million barrels of crude oil; will petrol and diesel prices drop?",
-      "description": "India's largest state-owned oil company, Indian Oil Corporation (IOC), has purchased approximately 5 million barrels of crude oil from the international market this week. - Amidst Middle East and Hormuz crises, India purchases 5 million barrels of crude oil; will petrol and diesel prices drop?",
-      "url": "https://www.india.com/news/india/amidst-middle-east-hormuz-crises-india-purchases-5-million-barrels-of-crude-oil-will-petrol-diesel-prices-drop-west-africa-west-asia-kissanje-nemba-angola-nigeria-usan-exxonmobil-brent-crude-8431135/",
-      "image": "https://static.india.com/wp-content/uploads/2026/05/Pakistan-petrol-diesel-price-today.jpg",
-      "publishedAt": "2026-05-30T16:57:11Z",
-      "source": {
-        "name": "India.com"
-      }
-    },
-    {
-      "title": "Montek Singh Ahluwalia warns India should prepare for oil above $100 if West Asia conflict drags on",
-      "description": "Montek Singh Ahluwalia said India should prepare for crude oil prices above $100 per barrel if the West Asia conflict drags on, warning of fuel, fertiliser and helium supply constraints.",
-      "url": "https://www.financialexpress.com/policy/economy-montek-singh-ahluwalia-warns-india-should-prepare-for-oil-above-100-if-west-asia-conflict-drags-on-4255225/",
-      "image": "https://images.financialexpressdigital.com/2026/05/SI0347va9mn0opnnVAVAVoooooCTV535TheheheYYYYb.jpg",
-      "publishedAt": "2026-05-30T16:35:24Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Higher fuel costs raise red flags across Maine\u2019s economy",
-      "description": "Ripple effects of high gas prices, soft retail sales and persistent economic uncertainty may make 2026 a tough year financially for many Mainers.",
-      "url": "https://www.bangordailynews.com/2026/05/30/state/higher-fuel-costs-raise-red-flags-across-maines-economy/",
-      "image": "https://bdn-data.s3.amazonaws.com/uploads/2026/05/2026-03-20T192200Z_1588833249_RC2F8KAD7UEA_RTRMADP_3_IRAN-C.jpg",
-      "publishedAt": "2026-05-30T16:19:29Z",
-      "source": {
-        "name": "Bangor Daily News"
-      }
-    },
-    {
-      "title": "Government cuts jet fuel and light diesel oil prices",
-      "description": "The Government of Pakistan has announced a substantial reduction in the prices of selected petroleum products, lowering the rates of jet fuel and light diesel oil with",
-      "url": "https://www.nation.com.pk/30-May-2026/government-cuts-jet-fuel-light-diesel-oil-prices",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-05-30/government-cuts-jet-fuel-light-diesel-oil-prices-1780156412-5590.jpg",
-      "publishedAt": "2026-05-30T16:06:45Z",
-      "source": {
-        "name": "The Nation"
+        "name": "Activist Post"
       }
     }
   ]
