@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-05-30T18:59:21+00:00",
+  "updated_at": "2026-05-31T02:32:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ops Kesan 6.0 begins June 1 to curb profiteering amid global supply crisis",
-      "description": "PUTRAJAYA: The Domestic Trade and Cost of Living Ministry will conduct Ops Kesan 6.0 from June 1 to Aug 31 to curb profiteering amid the increase in world crude oil prices resulting from the global supply crisis.",
-      "url": "https://www.thestar.com.my/news/nation/2026/05/30/ops-kesan-60-begins-june-1-to-curb-profiteering-amid-global-supply-crisis",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/30/3934297.jpg",
-      "publishedAt": "2026-05-30T06:16:00Z",
+      "title": "Gas Prices Fall as Iran Talks Buoy Markets",
+      "description": "The national average price of regular gasoline fell nearly 17 cents over the past week.",
+      "url": "https://www.newsmax.com/newsfront/gas-iran-buoy/2026/05/30/id/1258008/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=d614acb8-b251-427b-a79f-6b110c5003b8&SiteName=Newsmax",
+      "publishedAt": "2026-05-30T14:14:22Z",
       "source": {
-        "name": "The Star"
+        "name": "Newsmax"
       }
     },
     {
-      "title": "U.S. sanctions on Russia\u2019s oil industry: Global energy markets in turmoil as Washington tightens the screws",
-      "description": "The Trump administration imposed sweeping sanctions on Russian oil majors Rosneft and Lukoil on October 22, 2025, targeting Moscow\u2019s revenue for the Ukraine war. Oil prices surged dramatically, with Brent crude exceeding $140 per barrel and U.S. West Texas Intermediate surpassing $130 per barrel. Treasury Secretary Scott Bessent announced a 30-day sanctions waiver extension on [\u2026]",
-      "url": "https://www.naturalnews.com/2026-05-30-us-sanctions-on-russias-oil-industry.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/05/us-treasury-sanctions-russian-crude-oil-waiver-extension-1035-original.jpg",
-      "publishedAt": "2026-05-30T05:53:47Z",
+      "title": "Older drivers hit with new tax charges in 2026 for petrol, diesel and EV cars",
+      "description": "Vehicle Excise Duty rates rose from April for all UK motorists",
+      "url": "https://www.dailypost.co.uk/news/north-wales-news/older-drivers-hit-new-tax-34037870",
+      "image": "https://i2-prod.dailypost.co.uk/article34037868.ece/ALTERNATES/s1200d/0_Senior-Caucasian-man-in-car.jpg",
+      "publishedAt": "2026-05-30T14:10:17Z",
       "source": {
-        "name": "Natural News"
+        "name": "Daily Post"
       }
     },
     {
-      "title": "Pakistan reduces petrol, diesel prices by \u20b922 per litre, third such move in recent weeks",
-      "description": "Pakistan cuts petrol and HSD prices by \u20b922 per litre, offers Eid relief to consumers despite global energy tensions and ongoing US Iran ceasefire talks",
-      "url": "https://www.cnbctv18.com/world/pakistan-reduces-petrol-diesel-prices-by-22-per-litre-third-such-move-in-recent-weeks-ws-l-19916106.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/2026-04-03t152117z-1675815253-rc2ohkakdjh6-rtrmadp-3-pakistan-fuel-2026-05-d8d343ed01639e2dc7662ca0a298a954.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-05-30T05:40:31Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Bessent\u2019s net worth comes under fire after \u2018less than $200 in extra gas cost\u2019 remark",
-      "description": "US Treasury Secretary Scott Bessent\u2019s reassurance that the war with Iran will end soon comes amidst rising inflation and an increase in gasoline prices. However, his remarks sparked outrage as his net worth of nearly a billion dollars and privileged position were called out, with politicians criticizing him for being out of touch. | financialexpress.com",
-      "url": "https://www.financialexpress.com/shorts/world-news/us-news/millionaire-scott-bessents-net-worth-comes-under-fire-after-less-than-200-in-extra-gas-cost-remark-4254829/",
-      "image": "https://images.financialexpressdigital.com/2026/05/scott-bessent-gas-price-net-worth.jpg",
-      "publishedAt": "2026-05-30T05:25:24Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "US stock markets this week: S&P 500 posts 9th straight weekly gain as tech stocks power markets to new records",
-      "description": "US stock markets closed at record levels amid easing geopolitical tensions and lower oil prices. The S&P 500 marked its fourth consecutive record high, while technology stocks, driven by AI growth, led the rally despite concerns over ongoing Middle East tensions.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-markets-this-week-s-p-500-posts-9th-straight-weekly-gain-as-tech-stocks-power-markets-to-new-records-11780115495459.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/30/1600x900/logo/US_stock_markets_this_week_1780115673784_1780115673925_abb58444-e32e-4976-ad7c-a05c530d5bf3.jpg",
-      "publishedAt": "2026-05-30T05:10:26Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Oil prices tumble 11% for biggest weekly drop in 7 weeks. Where is liquid gold headed from here?",
-      "description": "Global markets rallied as oil prices hit seven-week lows. Hopes for a peace deal between the US, Israel, and Iran eased inflation fears. Brent crude and WTI saw sharp declines. Diplomatic efforts continue, but differing descriptions of a potential deal persist. Geopolitical tensions remain a factor. Analysts suggest restoring normal shipping could take months.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-tumble-11-for-biggest-weekly-drop-in-7-weeks-where-is-liquid-gold-headed-from-here/articleshow/131404176.cms",
-      "image": "https://img.etimg.com/thumb/msid-131404197,width-1200,height-630,imgsize-76304,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-05-30T05:08:00Z",
+      "title": "Transport association urges government to cut fuel prices as crude falls to $90/barrel",
+      "description": "The All India Motor & Goods Transport Association is calling on the Central Government to lower petrol and diesel prices. They point to a significant drop in international crude oil rates. The association states that consumers and transporters are not benefiting from this global price fall. Higher fuel costs are impacting essential goods and contributing to inflation.",
+      "url": "https://economictimes.indiatimes.com/industry/transportation/transport-association-urges-government-to-cut-fuel-prices-as-crude-falls-to-90/barrel/articleshow/131410657.cms",
+      "image": "https://img.etimg.com/thumb/msid-131410664,width-1200,height-630,imgsize-175578,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-05-30T13:56:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "The ultimate guide to cheaper summer holidays",
-      "description": "From low air fares to cheap petrol, great-value supermarket shopping and hotels vs self-catering \u2013 how to save in the peak weeks",
-      "url": "https://inews.co.uk/inews-lifestyle/travel/ultimate-guide-cheaper-summer-holidays-4435100",
-      "image": "https://inews.co.uk/wp-content/uploads/2026/05/SEI_299104061.jpg?crop=0px%2C244px%2C1778px%2C1009px&resize=1200%2C675",
-      "publishedAt": "2026-05-30T05:00:00Z",
+      "title": "Did petrol, diesel prices rise on May 30? Check latest fuel rates in Delhi, Mumbai, Hyderabad",
+      "description": "The prices have remained constant after the last hike on May 25, which was the fourth straight hike this month. | India News",
+      "url": "https://www.hindustantimes.com/india-news/did-petrol-diesel-prices-rise-on-may-30-check-latest-fuel-rates-in-delhi-mumbai-hyderabad-101780139683157.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/05/30/550x309/20260526-MTH-PGD-MN-Petrol-price-Hike-101--9--0_1780141528765_1780141539790_98389bfa-7bb1-4f7c-a714-5f5152ab9cb1.JPG",
+      "publishedAt": "2026-05-30T12:25:04Z",
       "source": {
-        "name": "The i Paper"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Australia extends measure that releases petrol and diesel from domestic reserves",
-      "description": "CANBERRA: Australia on Saturday (May 30) extended a measure that releases petrol and diesel from domestic reserves, Energy Minister Chris Bowen \u200bsaid, as the country continues to grapple with the impact of the Iran war on energy supplies.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/30/australia-extends-measure-that-releases-petrol-and-diesel-from-domestic-reserves",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/05/30/3934275.JPG",
-      "publishedAt": "2026-05-30T04:59:00Z",
+      "title": "High gas prices are just the start - inflation is seeping into the rest of the economy",
+      "description": "Energy shocks tied to Middle East turmoil are now feeding into housing, travel and everyday essentials, leaving Kevin Warsh\u2019s Fed with a tough choice.",
+      "url": "https://fortune.com/2026/05/30/inflation-spreading-beyond-gas-fed-warsh/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/05/GettyImages-2277156935_15e639-e1780142041441.jpg?resize=1200,600",
+      "publishedAt": "2026-05-30T11:54:31Z",
       "source": {
-        "name": "The Star"
+        "name": "Fortune"
       }
     },
     {
-      "title": "Consumers Association of Pakistan hails govt\u2019s step to reduce petrol prices",
-      "description": "KARACHI\u00a0 \u00a0-\u00a0 \u00a0Chairman of the Consumers Association of Pakistan (CAP), Kaukab Iqbal, has welcomed the decision of Prime Minister Muhammad Shehbaz",
-      "url": "https://www.nation.com.pk/30-May-2026/consumers-association-pakistan-hails-govt-s-step-reduce-petrol-prices",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-05-30T04:32:00Z",
+      "title": "Wait for Iran deal continues after Trump says he\u2019ll make \u2018final determination\u2019",
+      "description": "President Donald Trump is yet to make a decision over a deal that could extend the current ceasefire with Iran, with no announcement on Friday following a Situation Room meeting in which he said he would make a \u201cfinal determination.\u201dOil prices have dipped this week amid the persistent reports that Trump and Iran could be close to sealing the agreement that has eluded the two sides for over a month",
+      "url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260530-white-house-nd-6bd17e.jpg",
+      "publishedAt": "2026-05-30T11:22:08Z",
       "source": {
-        "name": "The Nation"
+        "name": "NBC News"
       }
     },
     {
-      "title": "Australia extends measure that releases petrol and diesel from domestic reserves",
-      "description": "Energy Minister Chris Bowen said he reached a judgement that it is best to provide ongoing flexibility. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/australianz/australia-extends-measure-that-releases-petrol-and-diesel-from-domestic-reserves",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/530b37cc2cb69dc810d9468e086feee6041985f828348b5ba6c4a0b6c44dc337",
-      "publishedAt": "2026-05-30T03:10:00Z",
+      "title": "Crude oil prices decline to six\u2011week low over tentative US\u2011Iran deal",
+      "description": "US West Texas Intermediate (July delivery) settled down 1.73 per cent at USD 87.36 a barrel, while international oil benchmark Brent crude (August contract) fell 1.7 per cent to close at USD 91.12 this week.",
+      "url": "https://zeenews.india.com/economy/crude-oil-prices-decline-to-six-week-low-over-tentative-us-iran-deal-3051543.html",
+      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/05/30/1949341-oilpumpjack1280x720.jpg",
+      "publishedAt": "2026-05-30T10:09:55Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Zee News"
+      }
+    },
+    {
+      "title": "Tiny Guyana poised for big Iran oil gains and growth strains",
+      "description": "Guyana was already the world\u2019s fastest growing economy before the U.S.-Israeli war on Iran drove up oil prices. Now, the tiny Caribbean nation of nearly 1 million people will reap an even bigger bonanza as the conflict reshapes global energy markets.",
+      "url": "https://www.reuters.com/business/energy/tiny-guyana-poised-big-iran-oil-gains-growth-strains-2026-05-30/",
+      "image": "https://www.reuters.com/resizer/v2/TPA2VHVTK5OTHKV2HUBJHOWIRQ.jpg?auth=00122b80e52ca9de2f6a83b2e107e4936d7cd4dd83624df1e0940692eb04a334&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-05-30T10:05:16Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Fuel price hikes, food inflation, monsoon risks: Finance Ministry report warns of testing times for India",
+      "description": "Rising crude oil prices, a potentially weak monsoon, and geopolitical conflicts pose headwinds for India's economy, risking higher inflation and.monsoon risks, economic review, crude oil prices, inflationary pressures, weak monsoon forecast, West Asia conflict, economic resilience, growth headwinds, food price inflation, energy price escalation, Strait of Hormuz disruption, domestic economic conditions, rural demand, aggregate growth, economic activity moderation, India, Indian economy",
+      "url": "https://www.onmanorama.com/news/india/2026/05/30/finance-ministry-report-testing-times-for-india.html",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2025/12/30/petrol-pump.jpg",
+      "publishedAt": "2026-05-30T10:05:09Z",
+      "source": {
+        "name": "Malayala Manorama"
+      }
+    },
+    {
+      "title": "Tiny Guyana poised for big Iran oil gains and growth strains",
+      "description": "Guyana was already the world's fastest growing economy before the U.S.-Israeli war on Iran drove up oil prices. Now, the tiny Caribbean nation of nearly 1 million people will reap an even bigger...",
+      "url": "https://www.marketscreener.com/news/tiny-guyana-poised-for-big-iran-oil-gains-and-growth-strains-ce7f5dd8d88cf426",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-30T100504Z_1_LYNXMPEM4T04S_RTROPTP_4_GUYANA-OIL-ECONOMY.JPG",
+      "publishedAt": "2026-05-30T10:01:35Z",
+      "source": {
+        "name": "MarketScreener"
       }
     }
   ]
