@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-01T11:10:22+00:00",
+  "updated_at": "2026-06-01T17:18:38+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices rise more than 2% as Israel moves further into Lebanon",
-      "description": "Oil prices rose more than 2% in early trading on Monday after Israel ordered troops to move further into Lebanon in the battle with the Iranian-backed Hezbollah militant group, despite a ceasefire...",
-      "url": "https://www.marketscreener.com/news/oil-prices-rise-more-than-2-as-israel-moves-further-into-lebanon-ce7f5dd8dc8ffe25",
+      "title": "Crude oil prices rise over 2% as Israel expands Lebanon offensive",
+      "description": "Crude oil prices rise over 2% as Israel expands Lebanon offensive",
+      "url": "https://www.news18.com/agency-feeds/crude-oil-prices-rise-over-2-as-israel-expands-lebanon-offensive-10123583.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+      "publishedAt": "2026-06-01T05:15:04Z",
+      "source": {
+        "name": "News18"
+      }
+    },
+    {
+      "title": "Oil prices climb as Israel expands military operation in Lebanon",
+      "description": "Oil prices rose on Monday morning after Israel stepped up its military operation in Lebanon.",
+      "url": "https://www.euronews.com/business/2026/06/01/oil-prices-climb-as-israel-expands-military-operation-in-lebanon",
+      "image": "https://static.euronews.com/articles/stories/09/25/89/90/1200x675_cmsv2_bfcb620c-c684-5edd-937d-c4a332aaad4d-9258990.jpg",
+      "publishedAt": "2026-06-01T05:06:50Z",
+      "source": {
+        "name": "Euronews"
+      }
+    },
+    {
+      "title": "Crude oil prices rise over 2% as Israel expands Lebanon offensive",
+      "description": "U.S. crude futures rose $2.37 or 2.71% to $89.73 a barrel as of 0028 GMT. Brent futures rose $2.16 or 2.37% to $93.28 a barrel, according to Reuters.",
+      "url": "https://www.tribuneindia.com/news/business/crude-oil-prices-rise-over-2-as-israel-expands-lebanon-offensive/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE1NmQ2ZjYwLTVkNzctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-01T05:06:20Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "'Master of his craft' Derby petrol head remembered by wife in touching tribute",
+      "description": "He had an international reputation as a legendary Ford specialist",
+      "url": "https://www.derbytelegraph.co.uk/news/derby-news/master-craft-derby-petrol-head-10989026",
+      "image": "https://i2-prod.derbytelegraph.co.uk/article10989439.ece/ALTERNATES/s1200d/23989323_2017-07-04_Picture_-Dean-Martin-today-saw.jpg",
+      "publishedAt": "2026-06-01T05:00:00Z",
+      "source": {
+        "name": "Derby Telegraph"
+      }
+    },
+    {
+      "title": "Stock markets across Asia rise as oil prices shoot above $93 a barrel",
+      "description": "Major stock markets across Asia rose at the start of the new trading week, as investor optimism around artificial intelligence and easing fears over the global economy lifted sentiment despite...",
+      "url": "https://www.thenews.com.pk/latest/1404357-stock-markets-across-asia-rise-as-oil-prices-shoot-above-93-a-barrel",
+      "image": "https://www.thenews.com.pk/assets/uploads/2026-06-01/1404357_100401_updates.jpg",
+      "publishedAt": "2026-06-01T04:59:01Z",
+      "source": {
+        "name": "The News International"
+      }
+    },
+    {
+      "title": "Gold and silver prices today, 1 June: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "description": "Gold and silver prices today, 1 June: Gold rates declined on MCX amid a stronger US dollar and rising crude oil prices. Check the latest 24K and 22K gold prices, along with 999 silver rates, in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad, and Chennai.",
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-today-1-june-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11780285971614.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/gold_and_silver_1780286242893_1780286245153_9679d03d-fa67-41cb-956e-6711db3a2944.jpg",
+      "publishedAt": "2026-06-01T04:56:46Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "An LNG glut is on its way",
+      "description": "The closure of the Strait of Hormuz and the shutdown of Qatars LNG exports have pushed gas prices higher, but the disruption could ultimately lead to a prolonged global LNG glut, according to the analysis. The crisis has exposed the risks of relying on LNG supplies passing through Hormuz, prompting major Asian importers such as India, Bangladesh and Pakistan to seek alternative sources.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/strait-of-hormuz-an-lng-glut-is-on-its-way-and-india-is-likely-to-be-affected-iran-us-ceasefire/articleshow/131433980.cms",
+      "image": "https://img.etimg.com/thumb/msid-131434102,width-1200,height-630,imgsize-268050,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-01T04:48:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil rises as US and Iran trade strikes, Israel moves further into Lebanon",
+      "description": "Oil prices rose more than 2% on Monday after Iran and the U.S. traded strikes and Israel ordered troops to move further into Lebanon in the battle with the Tehran-backed Hezbollah militant group.\n...",
+      "url": "https://www.marketscreener.com/news/oil-rises-as-us-and-iran-trade-strikes-israel-moves-further-into-lebanon-ce7f5dd8df8df526",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-05T160517Z_1_LYNXMPELA40YW_RTROPTP_4_EEUU-PETROLEO-EIA.JPG",
-      "publishedAt": "2026-05-31T22:24:35Z",
+      "publishedAt": "2026-06-01T04:41:24Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Scottish lottery winners hit by jackpot \u2018curse\u2019 from petrol bomb threat yob to lives ruined by cash",
-      "description": "Lottery scratchcard winner Jack Tanbini was slapped with a 15 month prison sentence this week.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/scottish-lottery-winners-hit-jackpot-37222620",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37216549.ece/ALTERNATES/s1200d/1_Jack-Tanbini-1-1.jpg",
-      "publishedAt": "2026-05-31T19:00:00Z",
+      "title": "Japan, South Korea stocks hit more records, as oil gains on Iran war ending fragility",
+      "description": "Oil prices have gained and stock markets in Japan and South Korea have hit fresh record highs on enthusiasm over the artificial intelligence boom, as investors await a decision on the ceasefire extension of the Iran war",
+      "url": "https://www.barchart.com/story/news/2226863/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/fc6893e377ff41178f3bdf4f952ffe64/fc6893e377ff41178f3bdf4f952ffe64_main_south_korea_financial_markets_26559.jpg",
+      "publishedAt": "2026-06-01T04:35:21Z",
       "source": {
-        "name": "Daily Record"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Robert Pape to Newsmax: Iran Has No Incentive for Quick Deal",
-      "description": "University of Chicago political scientist Robert Pape told Newsmax on Sunday that Iran is benefiting from instability in global energy markets and has little reason to rush into a deal with the United States while rising oil prices strengthen Tehran's negotiating leverage.",
-      "url": "https://www.newsmax.com/newsmax-tv/robert-pape-iran-oilprices/2026/05/31/id/1258074/",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a090dd0f-7139-4b19-b30a-614e564f4bf7&SiteName=Newsmax",
-      "publishedAt": "2026-05-31T18:06:22Z",
+      "title": "Markets in Japan and South Korea hit more records",
+      "description": "Oil prices have gained and stock markets in Japan and South Korea have hit fresh record highs on enthusiasm over the artificial intelligence boom, as investors await a decision on the ceasefire extension of the Iran war.",
+      "url": "https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c",
+      "image": "https://dims.apnews.com/dims4/default/4bf2cff/2147483647/strip/true/crop/3939x2625+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F23%2F86%2F213a6302fb44a5924e8a265ac972%2Fbb8ad72200dd407da782e04358579f19",
+      "publishedAt": "2026-06-01T04:35:21Z",
       "source": {
-        "name": "Newsmax"
-      }
-    },
-    {
-      "title": "Centre Slashes Windfall Tax On Fuel Exports",
-      "description": "The windfall tax was levied to increase domestic availability of the fuel amid the US-Israel and Iran war. The move of the government, however, aims at not allowing exporters to take undue advantage due to price differences as globally crude oil prices had risen since the beginning of the war",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/centre-slashes-windfall-tax-on-fuel-exports-1960401",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/05/31/2046335-fuel.jpg",
-      "publishedAt": "2026-05-31T17:09:45Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "HMRC confirms 5p per litre tax handout for petrol drivers",
-      "description": "HMRC has set out how the tax handout will work and how long it lasts.",
-      "url": "https://www.express.co.uk/life-style/cars/2211042/hmrc-confirms-5p-per-litre",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6948378.jpg",
-      "publishedAt": "2026-05-31T17:06:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Petrol drivers hit with \u00a3123 charges in June",
-      "description": "Petrol prices have just gone up and up",
-      "url": "https://www.express.co.uk/life-style/cars/2211191/petrol-drivers-hit-123-charges",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6949093.jpg",
-      "publishedAt": "2026-05-31T15:28:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "E2W makers post second-best month as fuel price hikes accelerate EV shift",
-      "description": "Driven by a \u20b97 petrol hike and flexible financing, electric two-wheeler sales surged 58% YoY in May 2026. Discover how TVS, Bajaj, and Hero MotoCorp capitalized on the massive consumer shift.",
-      "url": "https://www.financialexpress.com/business/news/e2w-makers-post-second-best-month-as-fuel-price-hikes-accelerate-ev-shift/4255749/",
-      "image": "https://images.financialexpressdigital.com/2026/05/FZ-2026-02-04T161339.580_20260531151122.png",
-      "publishedAt": "2026-05-31T15:15:24Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Sikkim lifts odd-even curbs on private vehicles across state, retains restrictions in Gangtok",
-      "description": "Gangtok, May 31 (PTI) The Sikkim government on Sunday withdrew the odd-even restriction on the movement of private vehicles across the state, except within Gangtok town, according to an official notification. The decision was taken after the Food and Civil Supplies Department informed a review meeting that sufficient buffer stocks of petrol and diesel had [\u2026]",
-      "url": "https://theprint.in/india/sikkim-lifts-odd-even-curbs-on-private-vehicles-across-state-retains-restrictions-in-gangtok/2946637/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-05-31T14:16:36Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "After petrol and diesel, will LPG and PNG prices go up? What do oil companies say? Explained in detail",
-      "description": "Over the past month, there have been repeated price hikes across petrol, diesel, and CNG. Consequently, consumers are gripped by the fear that oil companies might once again raise cylinder prices on June 1st. - After petrol and diesel, will LPG and PNG prices go up? What do oil companies say? Explained in detail",
-      "url": "https://www.india.com/news/india/after-petrol-and-diesel-will-lpg-and-png-prices-go-up-what-do-oil-companies-say-explained-in-detail-8431839/",
-      "image": "https://static.india.com/wp-content/uploads/2026/05/QT-lpg.jpg",
-      "publishedAt": "2026-05-31T13:22:01Z",
-      "source": {
-        "name": "India.com"
-      }
-    },
-    {
-      "title": "How many Tiago buyers choose electric? We asked Tata Motors MD & CEO Shailesh Chandra",
-      "description": "The Tiago remains one of the few mass-market cars in India where buyers are embracing all three powertrain options, be it petrol, CNG or electric, in meaningful numbers.",
-      "url": "https://www.moneycontrol.com/automobile/how-many-tiago-buyers-choose-electric-we-asked-tata-motors-md-ceo-shailesh-chandra-article-13936751.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260531121839_Tata-Motors-MD-and-CEO-Shailesh-Chandra.jpg",
-      "publishedAt": "2026-05-31T12:19:50Z",
-      "source": {
-        "name": "Moneycontrol"
+        "name": "The Associated Press"
       }
     }
   ]
