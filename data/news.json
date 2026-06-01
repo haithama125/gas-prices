@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-06-01T02:42:05+00:00",
+  "updated_at": "2026-06-01T11:10:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Oil prices rise more than 2% as Israel moves further into Lebanon",
+      "description": "Oil prices rose more than 2% in early trading on Monday after Israel ordered troops to move further into Lebanon in the battle with the Iranian-backed Hezbollah militant group, despite a ceasefire...",
+      "url": "https://www.marketscreener.com/news/oil-prices-rise-more-than-2-as-israel-moves-further-into-lebanon-ce7f5dd8dc8ffe25",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-05T160517Z_1_LYNXMPELA40YW_RTROPTP_4_EEUU-PETROLEO-EIA.JPG",
+      "publishedAt": "2026-05-31T22:24:35Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Scottish lottery winners hit by jackpot \u2018curse\u2019 from petrol bomb threat yob to lives ruined by cash",
+      "description": "Lottery scratchcard winner Jack Tanbini was slapped with a 15 month prison sentence this week.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/scottish-lottery-winners-hit-jackpot-37222620",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37216549.ece/ALTERNATES/s1200d/1_Jack-Tanbini-1-1.jpg",
+      "publishedAt": "2026-05-31T19:00:00Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Robert Pape to Newsmax: Iran Has No Incentive for Quick Deal",
+      "description": "University of Chicago political scientist Robert Pape told Newsmax on Sunday that Iran is benefiting from instability in global energy markets and has little reason to rush into a deal with the United States while rising oil prices strengthen Tehran's negotiating leverage.",
+      "url": "https://www.newsmax.com/newsmax-tv/robert-pape-iran-oilprices/2026/05/31/id/1258074/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=a090dd0f-7139-4b19-b30a-614e564f4bf7&SiteName=Newsmax",
+      "publishedAt": "2026-05-31T18:06:22Z",
+      "source": {
+        "name": "Newsmax"
+      }
+    },
+    {
+      "title": "Centre Slashes Windfall Tax On Fuel Exports",
+      "description": "The windfall tax was levied to increase domestic availability of the fuel amid the US-Israel and Iran war. The move of the government, however, aims at not allowing exporters to take undue advantage due to price differences as globally crude oil prices had risen since the beginning of the war",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/centre-slashes-windfall-tax-on-fuel-exports-1960401",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/05/31/2046335-fuel.jpg",
+      "publishedAt": "2026-05-31T17:09:45Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "HMRC confirms 5p per litre tax handout for petrol drivers",
+      "description": "HMRC has set out how the tax handout will work and how long it lasts.",
+      "url": "https://www.express.co.uk/life-style/cars/2211042/hmrc-confirms-5p-per-litre",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6948378.jpg",
+      "publishedAt": "2026-05-31T17:06:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Petrol drivers hit with \u00a3123 charges in June",
+      "description": "Petrol prices have just gone up and up",
+      "url": "https://www.express.co.uk/life-style/cars/2211191/petrol-drivers-hit-123-charges",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6949093.jpg",
+      "publishedAt": "2026-05-31T15:28:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "E2W makers post second-best month as fuel price hikes accelerate EV shift",
+      "description": "Driven by a \u20b97 petrol hike and flexible financing, electric two-wheeler sales surged 58% YoY in May 2026. Discover how TVS, Bajaj, and Hero MotoCorp capitalized on the massive consumer shift.",
+      "url": "https://www.financialexpress.com/business/news/e2w-makers-post-second-best-month-as-fuel-price-hikes-accelerate-ev-shift/4255749/",
+      "image": "https://images.financialexpressdigital.com/2026/05/FZ-2026-02-04T161339.580_20260531151122.png",
+      "publishedAt": "2026-05-31T15:15:24Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
     {
       "title": "Sikkim lifts odd-even curbs on private vehicles across state, retains restrictions in Gangtok",
       "description": "Gangtok, May 31 (PTI) The Sikkim government on Sunday withdrew the odd-even restriction on the movement of private vehicles across the state, except within Gangtok town, according to an official notification. The decision was taken after the Food and Civil Supplies Department informed a review meeting that sufficient buffer stocks of petrol and diesel had [\u2026]",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-05-31T12:19:50Z",
       "source": {
         "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Pakistan Economy Stares at Major Crisis With Petrol at PKR 380, Inflation Shoots 300%",
-      "description": "Citizens are struggling to cope with rising costs, as salaries remain stagnant while prices soar, exacerbated by disruptions in global energy markets linked to US-Iran tensions. , Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/pakistan-economy-stares-at-major-crisis-with-petrol-at-pkr-380-inflation-shoots-300-article-154436506",
-      "image": "https://images.timesnownews.com/thumb/msid-154436506,width-1280,height-720,resizemode-75/154436506.jpg",
-      "publishedAt": "2026-05-31T11:02:14Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "RBI Likely To Maintain Status Quo In June MPC Meeting, Says SBI Research",
-      "description": "Rising crude oil prices, rupee depreciation and fuel price hikes have increased inflation risks, but RBI is likely to rely on liquidity and currency measures instead of raising rates, according to an SBI Research report",
-      "url": "https://www.outlookmoney.com/banking/rbi-likely-to-maintain-status-quo-in-june-mpc-meeting-says-sbi-research",
-      "image": "https://media.assettype.com/outlookmoney/2025-06-06/5u9ial8y/RBI-MPC-Meeting-June-2025?w=1200",
-      "publishedAt": "2026-05-31T10:50:23Z",
-      "source": {
-        "name": "Outlook Money"
-      }
-    },
-    {
-      "title": "Firelighter 'doused in petrol' shoved into dad's Birmingham home",
-      "description": "Detectives are carrying out enquiries after a firefighter was pushed through the letterbox of a family home in Kingstanding",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/firelighter-doused-petrol-shoved-dads-34040142",
-      "image": "https://i2-prod.birminghammail.co.uk/article34040209.ece/ALTERNATES/s1200d/0_hartleyroad1.jpg",
-      "publishedAt": "2026-05-31T10:15:17Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "\u2018Petrol at PKR 380 per litre, inflation unbearable\u2019: Pakistan stares at economic crisis amid US-Iran tensions",
-      "description": "According to Pakistan's local newspaper Dawn, the neighbouring country cut its petrol and diesel prices by PKR (Pakistan Rupee) 22 per litre on 29 May.",
-      "url": "https://www.livemint.com/news/world/petrol-at-pkr-380-per-litre-inflation-unbearable-pakistan-stares-at-economic-crisis-amid-us-iran-tensions-11780218905812.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/05/31/1600x900/logo/IRAN-CRISIS-FUEL-PAKISTAN-5_1780220342169_1780220359290_4a94470e-155b-4d9a-9d57-f083c58b064f.JPG",
-      "publishedAt": "2026-05-31T09:49:17Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Cummins Vs Kaynes: How Price Action Decodes Changing Investment Regimes",
-      "description": "There is a broad market consensus that Q4FY26 corporate results have not yet meaningfully factored in the impact of rising oil prices and rupee depreciation.",
-      "url": "https://www.ndtvprofit.com/markets/cummins-vs-kaynes-how-price-action-decodes-changing-investment-regimes-11571427",
-      "image": "https://c.ndtvimg.com/2026-05/0l45lt1s_ck-column_625x300_31_May_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-05-31T09:49:05Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "Market Trading Guide: YES Bank among two stock picks for Monday with up to 10% upside scope",
-      "description": "Equity markets saw broad-based selling pressure after weak monsoon forecasts raised concerns over food inflation, though falling crude oil prices and easing bond yields helped limit downside risks. Investors now await key domestic triggers, including the RBI policy decision and GDP data, while analysts have flagged YES Bank and NBCC as stocks with strong short-term bullish momentum and upside potential.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-yes-bank-among-two-stock-picks-for-monday-with-up-to-10-upside-scope/articleshow/131421232.cms",
-      "image": "https://img.etimg.com/thumb/msid-131421222,width-1200,height-630,imgsize-87236,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-05-31T09:33:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Govt revises fuel export levies for fortnight beginning June 1, domestic rates unchanged",
-      "description": "The notification by the Ministry of Finance stated that the entry of Rs 3 per litre shall be substituted for petrol exports, while diesel has been revised to Rs 16.5 per litre.",
-      "url": "https://www.thenewsminute.com/news/govt-revises-fuel-export-levies-for-fortnight-beginning-june-1-domestic-rates-unchanged",
-      "image": "https://cf-images.assettype.com/tnm%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fpetrol_fuel_station_gurugram_pti_02042022_1200.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-05-31T09:31:36Z",
-      "source": {
-        "name": "The News Minute"
       }
     }
   ]
