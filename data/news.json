@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-02T02:40:30+00:00",
+  "updated_at": "2026-06-02T10:03:58+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
-      "description": "Expensive oil has already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.",
-      "url": "https://cdapress.com/news/2026/jun/01/oil-prices-rise-but-not-by-enough-to-keep-wall-street-from-more-records/",
-      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
-      "publishedAt": "2026-06-01T14:40:00Z",
+      "title": "Guyana Emerges as an Oil Winner in the Iran War",
+      "description": "Guyana is benefiting from higher oil prices and stronger demand for non-Middle Eastern crude amid the Iran war and Strait of Hormuz disruptions.",
+      "url": "https://oilprice.com/Energy/Energy-General/Guyana-Emerges-as-an-Oil-Winner-in-the-Iran-War.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-01_tilr6o32eh.jpg",
+      "publishedAt": "2026-06-01T22:00:00Z",
       "source": {
-        "name": "Coeur d'Alene Press"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "US stock market today (June 1, 2026): S&P 500 hovers near record as Nvidia gains offset oil price worries",
-      "description": "International Business News: US stocks traded near record levels on Monday despite a fresh rise in oil prices following renewed tensions around the fragile US-Iran ceasefire, as g.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-june-1-2026-sp-500-hovers-near-record-as-nvidia-gains-offset-oil-price-worries/articleshow/131445109.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131445107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-01T14:38:00Z",
+      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
+      "description": "NEW YORK (AP) \u2014 Oil prices rose Monday following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn\u2019t very worried, and U.S.",
+      "url": "https://wtop.com/world/2026/06/japan-south-korea-stocks-hit-more-records-as-oil-gains-on-iran-war-ending-fragility/",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/South_Korea_Financial_Markets__6566-scaled.jpg",
+      "publishedAt": "2026-06-01T21:17:58Z",
+      "source": {
+        "name": "WTOP"
+      }
+    },
+    {
+      "title": "UK petrol prices hit highest level in over three years as Iran war drives up oil costs",
+      "description": "PETROL prices have climbed to their highest level in more than three and a half years as the Iran war rattles oil markets.\u00a0\nThe average...",
+      "url": "https://www.thesun.co.uk/money/39280983/uk-petrol-prices-hit-highest-iran-war-drives-costs/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/crop-39281022.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-01T21:14:35Z",
+      "source": {
+        "name": "The Sun"
+      }
+    },
+    {
+      "title": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices surge as Iran talks stall and supply concerns return",
+      "description": "Why are oil prices up today and will Brent and US WTI crude futures continue to drop or rise again? Oil prices moved higher after Iran suspended negotiations with the United States and concerns returned over crude supplies through the Strait of Hormuz. Brent crude and US WTI futures gained sharply as traders assessed risks linked to the Middle East conflict, inflation, global stock markets, and future energy deliveries.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-up-today-and-will-brent-and-us-wti-crude-futures-continue-to-drop-or-rise-again-oil-prices-surge-as-iran-talks-stall-and-supply-concerns-return/articleshow/131450108.cms",
+      "image": "https://img.etimg.com/thumb/msid-131450110,width-1200,height-630,imgsize-9256,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-01T21:11:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "It\u2019s not just high gas prices",
+      "description": "Opinions from across America, powered by the Washington Post",
+      "url": "https://www.washingtonpost.com/ripple/2026/05/28/its-not-just-high-gas-prices-inflation-is-now-spreading-through-the-us-economy/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fwashpost%2F3ef39379-67d2-4c0e-8fbf-58a0582e4c12.png&w=640",
+      "publishedAt": "2026-06-01T21:06:59Z",
+      "source": {
+        "name": "The Washington Post"
+      }
+    },
+    {
+      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
+      "description": "Oil prices rose following the latest fighting to threaten the U.S.-Iran ceasefire, but Wall Street isn\u2019t very worried, and U.S. stocks ticked to more records",
+      "url": "https://www.latimes.com/business/story/2026-06-01/oil-prices-rise-but-not-by-enough-to-keep-wall-street-from-more-records",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/20e1f54/2147483647/strip/true/crop/5053x2653+0+358/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F19%2Fd4%2F2d82c89f423b9b442906b5929feb%2Fc07f9e7cafcd4af1b55f72f5c6be8f8b.jpg",
+      "publishedAt": "2026-06-01T20:52:43Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
+      "description": "Oil prices rose following the\u00a0latest fighting\u00a0to threaten the U.S.-Iran ceasefire, but Wall Street isn\u2019t very worried, and U.S. stocks ticked to more records. The S&P 500 added 0.3% Monday to its prior all-time high set on Friday. The Dow Jones Industrial Average rose 0.1%, and the Nasdaq composite climbed 0.4% to likewise set records. The price for a barrel of Brent crude rose more than 4%, which pushed up Treasury yields and hurt companies with big fuel bills. But strong profit reports from U.S. companies and continued strength for big technology stocks kept Wall Street's momentum going.",
+      "url": "https://www.ajc.com/news/2026/06/oil-prices-rise-but-not-by-enough-to-keep-wall-street-from-more-records/",
+      "image": "https://images.ajc.com/resizer/v2/76UR3ZRRUNGCLO4ZAK42RTYVZE.jpg?auth=6ab8f249cd469a66b4b78e8ad231779b8a85a81b579d68cc4d200edd46562bcd&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-01T20:32:06Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Are gas prices going up again?",
+      "description": "Why are gas prices going up again? How much is a gallon of gas? How much is a barrel of crude oil? Renewed Middle East tensions drive up gas prices",
+      "url": "https://www.deseret.com/business/2026/06/01/donald-trump-iran-war-oil-industry-strait-of-hormuz-gas-prices-increase/",
+      "image": "https://www.deseret.com/resizer/v2/BICFVKXGI5CKPOY7OSMO3JON5E.jpg?focal=3367%2C2186&auth=426d800c247c089339620f87a45330a503a231d7bd688500cf2501f548be9ed3&width=630&height=331",
+      "publishedAt": "2026-06-01T20:11:34Z",
+      "source": {
+        "name": "Salt Lake City Deseret News"
+      }
+    },
+    {
+      "title": "Dollar Rises on Hawkish Rally in Oil Prices",
+      "description": "The dollar index (DXY00 ) on Monday rose by +0.28% on safe-haven demand after Iran said it had halted ceasefire talks with the US, which raised the potential threat of a resumed full-scale US attack on Iran. That report prompted a rally of more than...",
+      "url": "https://www.barchart.com/story/news/2242080/dollar-rises-on-hawkish-rally-in-oil-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/British%20Pound%2C%20European%20Euro%2C%20American%20Dollar%20and%20Japanese%20Yen%20Currency%20by%20Virrage%20Images%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-06-01T19:50:43Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Sensex down 2.2k pts in four sessions as Gulf stays on boil",
+      "description": "India Business News: MUMBAI: As the West Asia peace talks showed no meaningful progress, and fresh reports of flare-ups between the US and Iran emerged, crude oil prices j.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-down-2-2k-pts-in-four-sessions-as-gulf-stays-on-boil/articleshow/131449888.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131449898,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-01T19:33:00Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "Dow, Nasdaq fall as oil prices jump on Iran concerns",
-      "description": "US stocks open mixed as oil jumps on West Asia tensions, Dow falls 0.2% while S&P 500 and Nasdaq are flat, crude surges after Iran suspends talks with the United States.",
-      "url": "https://www.cnbctv18.com/market/dow-nasdaq-fall-as-oil-prices-jump-on-iran-concerns-ws-l-19917239.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/03/2026-03-08t232658z-1746756933-rc2o0kajp2w9-rtrmadp-3-markets-crisis-risk-2026-03-3c20e503534c01335d35f0c9c6c2443b-scaled.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-01T14:36:08Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Gas prices down in the Quad-Cities from last week",
-      "description": "Prices in the area are down more than 15 cents from last week, but are 5.3 cents per gallon higher than a month ago and $1.19 per gallon higher than",
-      "url": "https://qctimes.com/news/local/business/article_37a8859d-b34c-4df2-a306-555403f24239.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/7a/37a8859d-b34c-4df2-a306-555403f24239/6a1d8e7ea3c95.preview.jpg?crop=1816%2C953%2C0%2C93&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-06-01T14:30:00Z",
-      "source": {
-        "name": "Davenport Quad-City Times"
-      }
-    },
-    {
-      "title": "After Hormuz, Iran moves to block Bab El-Mandeb Strait after halting US talks; oil surges 8%",
-      "description": "The move has rattled global markets, with oil prices surging more than 8 per cent to around $94 per barrel amid fears of a wider regional escalation.",
-      "url": "https://www.moneycontrol.com/world/after-hormuz-iran-moves-to-block-bab-el-mandeb-strait-after-halting-us-talks-oil-surges-8-article-13937814.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260601142939_Bab-el-Mandeb-1.jpg",
-      "publishedAt": "2026-06-01T14:29:46Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Mark Zandi: Trump Has Days to Strike Iran Deal Before US Economic Problems",
-      "description": "Oil prices could soar again absent a peace deal with Iran, Zandi said. Crude saw a fresh spike on Monday as US-Iran talks appeared to stall.",
-      "url": "https://www.businessinsider.com/us-economy-recession-warning-mark-zandi-iran-peace-deal-2026-6",
-      "image": "https://i.insider.com/6a1d77182e5a80cfe0501be9?width=1200&format=jpeg",
-      "publishedAt": "2026-06-01T14:25:31Z",
-      "source": {
-        "name": "Business Insider"
-      }
-    },
-    {
-      "title": "Economist Mark Zandi says Trump has a week to strike Iran deal before US faces a 'real problem'",
-      "description": "Oil prices could soar again absent a peace deal with Iran, Zandi said. Crude saw a fresh spike on Monday as US-Iran talks appeared to stall.",
-      "url": "https://www.newsbreak.com/markets-insider-562170/4683912524800-economist-mark-zandi-says-trump-has-a-week-to-strike-iran-deal-before-us-faces-a-real-problem",
-      "image": "https://img.particlenews.com/img/id/3mxBeK_1BvcNSvz00",
-      "publishedAt": "2026-06-01T14:25:31Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Michigan gas prices drop noticeably for second week in a row, AAA says",
-      "description": "Motorists are now paying an average of $4.35 per gallon for regular unleaded, compared to $4.63 on May 25 and $4.84 on May 18.",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-aaa-june-1/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/d379adb3-1417-42f6-b7e5-ee4ac3fabaf6/thumbnail/1200x630/be6706dcf83dccebc860a3f031f6c996/gas.jpg",
-      "publishedAt": "2026-06-01T14:24:47Z",
-      "source": {
-        "name": "CBS News"
-      }
-    },
-    {
-      "title": "How AWL Agri is trying to decouple itself from swings in crude oil prices as the West Asia crisis pushes up costs",
-      "description": "The company is trying to decouple itself from swings in crude oil prices as the west asia crisis pushes up costs.",
-      "url": "https://www.businesstoday.in/magazine/deep-dive/story/how-awl-agri-is-trying-to-decouple-itself-from-swings-in-crude-oil-prices-as-the-west-asia-crisis-pushes-up-costs-534338-2026-06-01",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a1d91e3bf79a-how-awl-agri-is-trying-to-decouple-itself-from-swings-in-crude-oil-prices-as-the-west-asia-crisis-pu-010621792-16x9.jpg",
-      "publishedAt": "2026-06-01T14:15:06Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Maruti goes slow on EV capacity expansion as cost-effective CNG booms amid war-triggered inflation",
-      "description": "Maruti Suzuki announces a focus on CNG vehicles following high demand, delaying its EV production ramp-up to September. With CNG prices rising slower than petrol, its market share has increased, while competitors are experiencing a surge in EV sales.",
-      "url": "https://www.livemint.com/companies/maruti-ev-capacity-expansion-cng-bookings-tata-motors-11780316042461.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/MARUTI-SUZUKI-IN-PRICE--0_1780322459992_1780322469896_865b398b-7d0b-4196-98c9-8efcfc1d5f63.JPG",
-      "publishedAt": "2026-06-01T14:10:43Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
