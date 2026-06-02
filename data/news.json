@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-01T21:21:21+00:00",
+  "updated_at": "2026-06-02T02:40:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "HMRC confirms 26p per mile rule for petrol drivers in force from Monday",
-      "description": "HMRC has confirmed fuel advisory rates for petrol, diesel and EV motorists on Monday, June 1, after a quarterly update kicked in.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/hmrc-confirms-26p-per-mile-34043295",
-      "image": "https://i2-prod.birminghammail.co.uk/article34043315.ece/ALTERNATES/s1200d/0_unleaded.jpg",
-      "publishedAt": "2026-06-01T09:15:36Z",
+      "title": "Oil prices rise, but not by enough to keep Wall Street from more records",
+      "description": "Expensive oil has already sent inflation higher, which increases not only bills for households but also yields in the bond market. High yields worldwide recently have threatened to slow economies and undercut prices for stocks and all kinds of other investments.",
+      "url": "https://cdapress.com/news/2026/jun/01/oil-prices-rise-but-not-by-enough-to-keep-wall-street-from-more-records/",
+      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
+      "publishedAt": "2026-06-01T14:40:00Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "Coeur d'Alene Press"
       }
     },
     {
-      "title": "Nifty Bank down 1%; Why SBI, ICICI Bank, Axis Bank, PNB shares fell today",
-      "description": "Bank stocks fell on Monday, June 1, on rising oil prices and bond yields. Analysts, however, remain positive on the sector outlook on healthy credit growth outlook",
-      "url": "https://www.business-standard.com/markets/news/bank-stocks-fall-rising-oil-prices-bond-yields-credit-growth-outlook-126060101270_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/22/thumb/featurecrop/1200X628/1776847724-521.jpeg",
-      "publishedAt": "2026-06-01T09:14:42Z",
+      "title": "US stock market today (June 1, 2026): S&P 500 hovers near record as Nvidia gains offset oil price worries",
+      "description": "International Business News: US stocks traded near record levels on Monday despite a fresh rise in oil prices following renewed tensions around the fragile US-Iran ceasefire, as g.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-june-1-2026-sp-500-hovers-near-record-as-nvidia-gains-offset-oil-price-worries/articleshow/131445109.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131445107,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-01T14:38:00Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Will Bitcoin lose $72K support as it enters a bearish channel amid ETF outflows?",
-      "description": "Bitcoin nears key $72K support after $1.42B in weekly ETF outflows, while rising oil prices and Middle East tensions weigh on sentiment.",
-      "url": "https://crypto.news/will-bitcoin-lose-72k-support-as-it-enters-a-bearish-channel-amid-etf-outflows/",
-      "image": "https://media.crypto.news/2025/11/crypto-news-Bitcoin-backed-oil-option03.webp",
-      "publishedAt": "2026-06-01T09:13:37Z",
+      "title": "Dow, Nasdaq fall as oil prices jump on Iran concerns",
+      "description": "US stocks open mixed as oil jumps on West Asia tensions, Dow falls 0.2% while S&P 500 and Nasdaq are flat, crude surges after Iran suspends talks with the United States.",
+      "url": "https://www.cnbctv18.com/market/dow-nasdaq-fall-as-oil-prices-jump-on-iran-concerns-ws-l-19917239.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/03/2026-03-08t232658z-1746756933-rc2o0kajp2w9-rtrmadp-3-markets-crisis-risk-2026-03-3c20e503534c01335d35f0c9c6c2443b-scaled.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-06-01T14:36:08Z",
       "source": {
-        "name": "Crypto News"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Florida gas prices affect fishing, boating as fuel prices remain high",
-      "description": "Boaters, recreational anglers and charter captains have felt the pinch at the pump, with those making their money on the water feeling it the most.",
-      "url": "https://www.tcpalm.com/story/news/local/florida/2026/06/01/florida-gas-prices-affect-fishing-boating-as-fuel-prices-remain-high/90305827007/",
-      "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/03/30/PTCN/89389165007-tcn-fuel-prices-5.jpg?crop=2999,1687,x0,y408&width=2999&height=1687&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-01T09:11:30Z",
+      "title": "Gas prices down in the Quad-Cities from last week",
+      "description": "Prices in the area are down more than 15 cents from last week, but are 5.3 cents per gallon higher than a month ago and $1.19 per gallon higher than",
+      "url": "https://qctimes.com/news/local/business/article_37a8859d-b34c-4df2-a306-555403f24239.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/3/7a/37a8859d-b34c-4df2-a306-555403f24239/6a1d8e7ea3c95.preview.jpg?crop=1816%2C953%2C0%2C93&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-06-01T14:30:00Z",
       "source": {
-        "name": "TCPalm"
+        "name": "Davenport Quad-City Times"
       }
     },
     {
-      "title": "From Fronx Hybrid to Corolla Cross: Maruti and Toyota likely to launch THESE hybrid cars in India",
-      "description": "Hybrid cars are becoming increasingly popular in India. They offer better fuel efficiency than regular petrol cars and do not need to be charged like EVs.",
-      "url": "https://zeenews.india.com/auto/from-fronx-hybrid-to-corolla-cross-maruti-and-toyota-likely-to-launch-these-hybrid-cars-in-india-3051994.html",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/01/1950098-toyota-corolla-cross-global-model.jpg",
-      "publishedAt": "2026-06-01T09:10:12Z",
-      "source": {
-        "name": "Zee News"
-      }
-    },
-    {
-      "title": "M&M shares fall 2% despite May sales beating estimates; rising crude weighs",
-      "description": "The weakness in the stock was largely attributed to global cues after crude oil prices moved higher.",
-      "url": "https://www.moneycontrol.com/news/business/markets/m-m-shares-fall-2-despite-may-sales-beating-estimates-rising-crude-weighs-13937459.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031610_sensex_nifty_market_Nifty_nse_bse.jpg",
-      "publishedAt": "2026-06-01T09:08:14Z",
+      "title": "After Hormuz, Iran moves to block Bab El-Mandeb Strait after halting US talks; oil surges 8%",
+      "description": "The move has rattled global markets, with oil prices surging more than 8 per cent to around $94 per barrel amid fears of a wider regional escalation.",
+      "url": "https://www.moneycontrol.com/world/after-hormuz-iran-moves-to-block-bab-el-mandeb-strait-after-halting-us-talks-oil-surges-8-article-13937814.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260601142939_Bab-el-Mandeb-1.jpg",
+      "publishedAt": "2026-06-01T14:29:46Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "They Voted for Trump. Here\u2019s How They Feel About High Gas Prices.",
-      "description": "With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.",
-      "url": "https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01pol-gas-trump-voters-top-lpqh/01pol-gas-trump-voters-top-lpqh-facebookJumbo.jpg",
-      "publishedAt": "2026-06-01T09:00:32Z",
+      "title": "Mark Zandi: Trump Has Days to Strike Iran Deal Before US Economic Problems",
+      "description": "Oil prices could soar again absent a peace deal with Iran, Zandi said. Crude saw a fresh spike on Monday as US-Iran talks appeared to stall.",
+      "url": "https://www.businessinsider.com/us-economy-recession-warning-mark-zandi-iran-peace-deal-2026-6",
+      "image": "https://i.insider.com/6a1d77182e5a80cfe0501be9?width=1200&format=jpeg",
+      "publishedAt": "2026-06-01T14:25:31Z",
       "source": {
-        "name": "The New York Times"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "Diesel-isobutanol blending mandate likely this year. How will it impact your diesel SUV",
-      "description": "The Indian government believes isobutanol blending in diesel will have a far greater impact on India's energy security than ethanol blending in petrol.",
-      "url": "https://www.hindustantimes.com/car-bike/dieselisobutanol-blending-mandate-likely-this-year-how-will-it-impact-your-diesel-suv-101780299715928.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/01/550x309/ANI-20260526411-0_1780304218572_1780304228329_d8dfb34c-8d69-40a3-b953-2a2f220b9d22.jpg",
-      "publishedAt": "2026-06-01T08:59:22Z",
+      "title": "Economist Mark Zandi says Trump has a week to strike Iran deal before US faces a 'real problem'",
+      "description": "Oil prices could soar again absent a peace deal with Iran, Zandi said. Crude saw a fresh spike on Monday as US-Iran talks appeared to stall.",
+      "url": "https://www.newsbreak.com/markets-insider-562170/4683912524800-economist-mark-zandi-says-trump-has-a-week-to-strike-iran-deal-before-us-faces-a-real-problem",
+      "image": "https://img.particlenews.com/img/id/3mxBeK_1BvcNSvz00",
+      "publishedAt": "2026-06-01T14:25:31Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "NewsBreak"
       }
     },
     {
-      "title": "45-litre tank, 52 litres of petrol: Kanpur car owner alleges fuel pump scam",
-      "description": "In a video, the car owner claimed that the petrol pump billed him for 52 litres of petrol in a 45-litre tank, prompting him to urge the local administration to investigate the alleged scam.",
-      "url": "https://www.indiatoday.in/india/story/kanpur-petrol-pump-scam-52-litres-billed-for-45-litre-tank-2920240-2026-06-01",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/car-owner-charan-singh-015149336-16x9_0.png?VersionId=xS4ghf37IsKcQeFlMk.U.r8E63mo0wX6",
-      "publishedAt": "2026-06-01T08:53:21Z",
+      "title": "Michigan gas prices drop noticeably for second week in a row, AAA says",
+      "description": "Motorists are now paying an average of $4.35 per gallon for regular unleaded, compared to $4.63 on May 25 and $4.84 on May 18.",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-aaa-june-1/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/d379adb3-1417-42f6-b7e5-ee4ac3fabaf6/thumbnail/1200x630/be6706dcf83dccebc860a3f031f6c996/gas.jpg",
+      "publishedAt": "2026-06-01T14:24:47Z",
       "source": {
-        "name": "India Today"
+        "name": "CBS News"
       }
     },
     {
-      "title": "European Shares Dip Amid Middle East Tensions and M&A Buzz",
-      "description": "On Monday, European shares declined due to rising tensions in the Middle East, affecting hopes for a conflict resolution. Attention was also drawn to merger news involving easyJet and Universal Music Group. Crude oil prices surged; meanwhile, energy stocks rose as geopolitical conflicts intensified, impacting market movements.",
-      "url": "https://www.devdiscourse.com/article/business/3928131-european-shares-dip-amid-middle-east-tensions-and-ma-buzz",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_07_28_06_600401.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-01T08:51:03Z",
+      "title": "How AWL Agri is trying to decouple itself from swings in crude oil prices as the West Asia crisis pushes up costs",
+      "description": "The company is trying to decouple itself from swings in crude oil prices as the west asia crisis pushes up costs.",
+      "url": "https://www.businesstoday.in/magazine/deep-dive/story/how-awl-agri-is-trying-to-decouple-itself-from-swings-in-crude-oil-prices-as-the-west-asia-crisis-pushes-up-costs-534338-2026-06-01",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a1d91e3bf79a-how-awl-agri-is-trying-to-decouple-itself-from-swings-in-crude-oil-prices-as-the-west-asia-crisis-pu-010621792-16x9.jpg",
+      "publishedAt": "2026-06-01T14:15:06Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Maruti goes slow on EV capacity expansion as cost-effective CNG booms amid war-triggered inflation",
+      "description": "Maruti Suzuki announces a focus on CNG vehicles following high demand, delaying its EV production ramp-up to September. With CNG prices rising slower than petrol, its market share has increased, while competitors are experiencing a surge in EV sales.",
+      "url": "https://www.livemint.com/companies/maruti-ev-capacity-expansion-cng-bookings-tata-motors-11780316042461.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/MARUTI-SUZUKI-IN-PRICE--0_1780322459992_1780322469896_865b398b-7d0b-4196-98c9-8efcfc1d5f63.JPG",
+      "publishedAt": "2026-06-01T14:10:43Z",
+      "source": {
+        "name": "Livemint"
       }
     }
   ]
