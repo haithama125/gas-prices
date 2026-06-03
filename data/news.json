@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-03T02:48:29+00:00",
+  "updated_at": "2026-06-03T10:43:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "LPG consumption declined 19% in May, petrol-diesel increased",
-      "description": "India's LPG consumption fell 19% in May, while petrol and diesel usage saw slight increases amid ongoing supply disruptions.",
-      "url": "https://www.thehindu.com/business/Industry/lpg-consumption-declined-19-in-may-petrol-diesel-increased/article71052941.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ewagrb/article71053603.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_26_05_10.jpg",
-      "publishedAt": "2026-06-02T14:42:20Z",
+      "title": "New Mexicans vote in gubernatorial primaries as revenue soars from oil boom",
+      "description": "Tuesday's primary election also comes at a time of promise for the next governor: Elevated global oil prices from the Iran war have translated into an influx of tax revenue.",
+      "url": "https://www.pbs.org/newshour/politics/new-mexicans-vote-in-gubernatorial-primaries-as-revenue-soars-from-oil-boom",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2022/10/Vote-4-1024x683.jpg",
+      "publishedAt": "2026-06-02T22:40:03Z",
       "source": {
-        "name": "The Hindu"
+        "name": "PBS News"
       }
     },
     {
-      "title": "FOREX-Dollar in tight range as traders eye Middle East peace talks",
-      "description": "A peace deal between the U.S. and Iran would ease pressure on currencies of oil-importing countries such as Japan and euro zone nations, while reducing safe-haven demand \u200cfor the dollar. U.S. President Donald Trump said on Monday that talks with Iran were ongoing, a comment that pushed oil prices lower despite a report that Tehran had suspended indirect negotiations with Washington to end hostilities.",
-      "url": "https://www.devdiscourse.com/article/politics/3929036-forex-dollar-in-tight-range-as-traders-eye-middle-east-peace-talks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/02_06_2026_12_43_55_7046969.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-02T14:35:13Z",
+      "title": "Rupee falls 17 paise to close at 95.36 against US dollar",
+      "description": "MUMBAI, Jun 2: The rupee depreciated 17 paise to close at 95.36 against the US dollar on Tuesday, as global crude oil prices jumped and the American currency remained firm amid massive safe-haven inflows. Forex traders said significant foreign fund outflows also weighed on the investor sentiments. At the interbank foreign exchange market, the rupee opened at 95.16 against the US dollar, then touched an intraday high of 95.03 and a low of 95.31. At the end of Tuesday\u2019s trading [\u2026]",
+      "url": "https://www.dailyexcelsior.com/rupee-falls-17-paise-to-close-at-95-36-against-us-dollar/",
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2026/05/Rupees-Rise.jpg",
+      "publishedAt": "2026-06-02T22:30:16Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "The worst summer job market in 80 years has teens scrambling for swimming pool and ice cream jobs",
-      "description": "High schoolers haven\u2019t faced this tough of a summer job market since 1948. Rising inflation, higher oil prices, and a slow hiring market are to blame.",
-      "url": "https://fortune.com/2026/06/02/hundreds-of-teens-flooding-job-ads-ice-cream-shops-swimming-pools-grapple-worst-summer-job-market-80-years/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-958440620-e1780410426199.jpg?resize=1200,600",
-      "publishedAt": "2026-06-02T14:28:01Z",
+      "title": "As Corporate Profits Surge, America\u2019s Small Businesses Get Left Behind",
+      "description": "Between Trump tariffs, rising gas prices and labor supply shocks, Main Street businesses are seeing declining profits and slower hiring. Is uncertainty their new normal?",
+      "url": "https://www.forbes.com/sites/johnschroyer/2026/06/02/as-corporate-profits-surge-americas-small-businesses-get-left-behind/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a1f3b891aecbc670af6aa71/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-06-02T22:14:40Z",
       "source": {
-        "name": "Fortune"
+        "name": "Forbes"
       }
     },
     {
-      "title": "Teens are up against the worst summer job market in nearly 80 years-they\u2019re fighting against hundreds to work at ice cream shops and swimming pools",
-      "description": "High schoolers haven\u2019t faced this tough of a summer job market since 1948. Rising inflation, higher oil prices, and a slow hiring market are to blame.",
-      "url": "https://www.newsbreak.com/fortune-561435/4686167286584-teens-are-up-against-the-worst-summer-job-market-in-nearly-80-years-they-re-fighting-against-hundreds-to-work-at-ice-cream-shops-and-swimming-pools",
-      "image": "https://img.particlenews.com/img/id/0RE23g_1BxtVp5Z00",
-      "publishedAt": "2026-06-02T14:28:01Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "LDF stages walkout in Kerala Assembly, accusing UDF of neglecting fuel crisis",
-      "description": "The Opposition Left Democratic Front (LDF) staged a walkout in the Kerala Legislative Assembly on Tuesday after accusing the United Democratic Front (UDF) government of dismissing the plight of ordinary people, who have been hit the hardest by the surge in fuel and cooking gas prices.",
-      "url": "https://www.thestatesman.com/india/ldf-stages-walkout-in-kerala-assembly-accusing-udf-of-neglecting-fuel-crisis-1503601141.html",
-      "image": "https://www.thestatesman.com/wp-content/uploads/2026/02/Untitled-design-25-3.webp",
-      "publishedAt": "2026-06-02T14:20:40Z",
-      "source": {
-        "name": "The Statesman"
-      }
-    },
-    {
-      "title": "Iran talks \u2018very boring.\u2019 Trump says he doesn\u2019t care if they\u2019re over",
-      "description": "Trump also said he was not worried about oil prices.",
-      "url": "https://www.syracuse.com/politics/2026/06/iran-talks-very-boring-trump-says-he-doesnt-care-if-theyre-over.html",
-      "image": "https://www.syracuse.com/resizer/v2/ZJEHERO57BC4FNMY3LUXEHMELI.jpg?auth=4d87218881b7b95112d8c21c18d9a2907f55a46014129b0c911756024cc1dd3b&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-06-02T14:17:42Z",
-      "source": {
-        "name": "syracuse.com"
-      }
-    },
-    {
-      "title": "Wall Street's record-breaking rally slows as Alphabet drags on the market",
-      "description": "Wall Street's record-breaking rally is slowing following a drop for Alphabet, one of Wall Street\u2019s most influential stocks. The S&P 500 slipped 0.1% Tuesday, a day after setting its latest all-time high. The Dow Jones Industrial Average rose 65 points, and the Nasdaq composite fell 0.3%. Analysts have said the market may be set for a slowdown following an unrelenting streak of nine straight winning weeks for the S&P 500. Alphabet fell after saying it plans to raise $80 billion through sales of stock to pay for its AI investments. AI chip companies rose. Oil prices held steadier following Monday's bounce back.",
-      "url": "https://www.ajc.com/news/2026/06/wall-streets-record-breaking-rally-slows-as-alphabet-drags-on-the-market/",
-      "image": "https://images.ajc.com/resizer/v2/SKA6HSKREBBE5JRP6KQ6ZJNNQQ.jpg?auth=8b403918e6f0f53b65ee33d9a0145d055967b80f0085e0211ecba8c7f51fcdd7&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-02T14:02:25Z",
+      "title": "New Mexico voters choose party nominees for governor as revenue soars from oil boom",
+      "description": "New Mexicans are choosing Democratic and Republican nominees for governor as the state grapples with high rates of violent crime, chronically underperforming schools and cuts to federal safety net programs. Tuesday's primary election also comes at a time of promise for the next governor: Elevated global oil prices from the Iran war have translated into an influx of tax revenue. Former Interior Secretary Deb Haaland is running against county prosecutor Sam Bregman for the Democratic nomination. Three candidates are seeking the GOP nod. Whoever wins in November will succeed term-limited Democratic Gov. Michelle Lujan Grisham.",
+      "url": "https://www.ajc.com/news/2026/06/new-mexico-voters-choose-party-nominees-for-governor-as-revenue-soars-from-oil-boom/",
+      "image": "https://images.ajc.com/resizer/v2/BTLA5TJFJJHWNHIQ6LOZXOVKZE.jpg?auth=fa8d1c87622942a7949acafb94e505db86ce22db997db8140ac932e3a3ff4816&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-02T22:02:34Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Gold firms with focus on Middle East developments, US economic data",
-      "description": "Gold gained on Tuesday as oil prices slipped after U.S. President Donald Trump said talks with Iran were ongoing, while markets focused on developments in the Middle East and upcoming U.S. economic...",
-      "url": "https://www.marketscreener.com/news/gold-firms-with-focus-on-middle-east-developments-us-economic-data-ce7f5ddeda8dfe26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-07T035031Z_1_LYNXMPEM36015_RTROPTP_4_GLOBAL-PRECIOUS-GOLD-EGYPT.JPG",
-      "publishedAt": "2026-06-02T13:27:39Z",
+      "title": "US stocks extended on record levels but with upside capped as oil prices rose amid mixed geopolitical headlines - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-extended-record-levels-upside-capped-oil-prices-rose-amid-mixed-geopolitical",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/Asia-Pac-Opening-News_0.png?itok=stHIc59i",
+      "publishedAt": "2026-06-02T21:53:40Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Tuesday, 2 June",
-      "description": "Use our interactive widget to fill your car for less",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34051110",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article31434288.ece/ALTERNATES/s1200d/3_Petrol-station-money-saving.jpg",
-      "publishedAt": "2026-06-02T12:59:02Z",
+      "title": "Markets live: ASX to open higher, oil prices jump on US",
+      "description": "Oil prices jump to a one-week high as the US and Iran provide conflicting updates on peace talks between the warring nations. The Australian share market is likely to start higher after a surge in AI stocks on Wall Street overnight. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-06-03/asx-markets-business-live-news/104687282",
+      "image": "https://live-production.wcms.abc-cdn.net.au/11d4a54433d5bf6312b687c451131018?impolicy=wcms_watermark_news&cropH=1688&cropW=3000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-06-02T21:47:00Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "US stock market today: Nasdaq, S&P 500 edge lower as Middle East tensions keep markets on edge",
-      "description": "US stock futures showed a muted start as tensions in the Middle East affected investor sentiment. S&P 500 futures dipped 0.1%, while Nasdaq futures fell 0.1%. Despite the market's recent record highs, concerns over rising oil prices and tech stock performance lingered.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-edge-lower-as-middle-east-tensions-keep-markets-on-edge-11780399149164.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/02/1600x900/logo/US-ECONOMY-MARKETS-NYSE-4_1750940643064_1780402421589_47c81129-ef8d-46ae-a131-9e93b6532536.jpg",
-      "publishedAt": "2026-06-02T12:40:11Z",
+      "title": "Los Angeles freeways stay busy despite gas prices, analysis shows",
+      "description": "Major Los Angeles-area freeways overall showed no significant declines in vehicle miles traveled since the U.S. and Israeli attacks on Iran.",
+      "url": "https://www.usatoday.com/story/money/california/2026/06/02/los-angeles-freeways-stay-busy-despite-gas-prices-analysis-shows/90377285007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/20/USAT/90177337007-2273092731.jpg?crop=4799,2701,x0,y149&width=3200&height=1802&format=pjpg&auto=webp",
+      "publishedAt": "2026-06-02T21:20:14Z",
       "source": {
-        "name": "Livemint"
+        "name": "USA TODAY"
+      }
+    },
+    {
+      "title": "Ted Cruz dismisses Iran war's economic impacts on midterms",
+      "description": "The conflict, which has entered its fourth month, is increasing inflation and raising gas prices, which are seen as a benchmark on the state of the economy.",
+      "url": "https://wjla.com/news/nation-world/senator-ted-cruz-dismisses-iran-wars-economic-impacts-on-midterms-elections-trump-administration",
+      "image": "https://wjla.com/resources/media2/16x9/5248/1320/0x244/90/102209f6-76fa-4c07-8d4c-40a57c599fd0-GettyImages2279458500.jpg",
+      "publishedAt": "2026-06-02T21:02:51Z",
+      "source": {
+        "name": "WJLA"
+      }
+    },
+    {
+      "title": "Ted Cruz dismisses Iran war's economic impacts on midterms",
+      "description": "The conflict, which has entered its fourth month, is increasing inflation and raising gas prices, which are seen as a benchmark on the state of the economy.",
+      "url": "https://foxbaltimore.com/station/share/senator-ted-cruz-dismisses-iran-wars-economic-impacts-on-midterms-elections-trump-administration",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/5248/1320/0x244/90/102209f6-76fa-4c07-8d4c-40a57c599fd0-GettyImages2279458500.jpg",
+      "publishedAt": "2026-06-02T21:02:51Z",
+      "source": {
+        "name": "Baltimore News"
+      }
+    },
+    {
+      "title": "More buzz around EVs, alternative energy sources due to Iran war: OCBC chief sustainability officer",
+      "description": "Consumers may not wake up thinking about geopolitics, but they certainly notice it at petrol stations, Mr Mike Ng said. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/more-buzz-around-evs-alternative-energy-sources-due-to-iran-war-ocbc-chief-sustainability-officer",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6a930a9aad21b8e1e225139f72b2f0d38e80949ec6917d3319503e6f5a1af356",
+      "publishedAt": "2026-06-02T21:00:00Z",
+      "source": {
+        "name": "The Straits Times"
       }
     }
   ]
