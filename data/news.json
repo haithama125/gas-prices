@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-03T16:18:04+00:00",
+  "updated_at": "2026-06-03T20:47:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Hindustan Zinc to Grasim - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
-      "description": "The Indian stock market declined on investor caution due to escalating Gulf tensions and rising crude oil prices. Nifty 50 and Sensex opened lower, while analysts expect geopolitical uncertainty and foreign selling to keep equities under pressure in the near term.",
-      "url": "https://www.livemint.com/market/stock-market-news/hindustan-zinc-to-grasim-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11780458771000.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/logo/DSC02469_1737528551670_1780459920757_fdcdf9d2-820b-4b87-9ccb-700ed844242f.jpg",
-      "publishedAt": "2026-06-03T04:14:21Z",
+      "title": "Rouble's strength squeezes Russian exporters despite Iran war oil gains",
+      "description": "PETERSBURG, Russia, June \u200c3 - \u200bA strong rouble is squeezing Russian commodity exporters, offsetting any gains from higher oil prices, and needs to fall to around 90 per U.S. dollar, top Sberbank executive Alexander Vedyakhin told Reuters.",
+      "url": "https://www.devdiscourse.com/article/business/3929387-roubles-strength-squeezes-russian-exporters-despite-iran-war-oil-gains",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_17_44_8184075.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-03T08:44:01Z",
       "source": {
-        "name": "Livemint"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Sensex tumbles over 800 points, Nifty below 23,300. 6 key factors behind today's D-Street rout",
-      "description": "Indian stock markets experienced a significant downturn today. Benchmark indices Sensex and Nifty saw substantial declines. This drop was fueled by escalating Iran-US tensions and continued selling by foreign institutional investors. Rising oil prices and a weakening rupee also contributed to the cautious sentiment on Dalal Street. Investors are now keenly watching the upcoming RBI commentary.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-falling-today-sensex-drops-700-points-nifty-below-23300-5-key-factors-behind-today-d-street-rout/articleshow/131454333.cms",
-      "image": "https://img.etimg.com/thumb/msid-131475333,width-1200,height-630,imgsize-111036,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-03T03:57:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Crude oil prices gain as US-Iran peace deal remains elusive; Brent tops $97/bbl. Where are they headed next?",
-      "description": "US-Iran war: MCX crude oil price rose as much as 1% to \u20b99,039 per barrel. Here's what's driving the crude oil prices today, along with experts opinion on near-term outlook.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-gain-as-us-iran-peace-deal-remains-elusive-brent-tops-97-bbl-where-are-they-headed-next-11780456758239.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/logo/crude_oil_1697775793536_1780458802947_0e4332ec-9ec8-4733-a34b-fb6966d998fc.jpg",
-      "publishedAt": "2026-06-03T03:56:23Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Oil Prices Rise on Iran Concerns, Stocks Extend Tech-Led Rally",
-      "description": "Despite Donald Trump's assurances that the United States and Iran are edging closer to ending their three-month-long war and reopening the Strait of Hormuz, crude investors appear unmoved as they await solid progress.",
-      "url": "https://www.deccanchronicle.com/business/oil-prices-rise-on-iran-concerns-stocks-extend-tech-led-rally-1960975",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/06/03/2047250-new-year-celebrations-32.jpg",
-      "publishedAt": "2026-06-03T03:51:06Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Indian shares open tad down amid Iran war jitters",
-      "description": "Indian shares opened lower on Wednesday as uncertainty over a U.S.-Iran peace deal kept investors risk-averse, while higher oil prices and persistent foreign outflows also weighed on sentiment.\n...",
-      "url": "https://www.marketscreener.com/news/indian-shares-open-tad-down-amid-iran-war-jitters-ce7f5ddfd889f721",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-10T111820Z_1_LYNXNPEL890HW_RTROPTP_4_INDIA-MUTUAL-FUND-FLOWS.JPG",
-      "publishedAt": "2026-06-03T03:50:30Z",
+      "title": "Stocks dip on new Iran attacks as oil prices rise",
+      "description": "European stocks and U.S. futures fell slightly on Wednesday as oil prices rose for a third session as fresh hostilities flared in the Gulf after U.S.-Iran peace talks stalled.\nEurope's...",
+      "url": "https://www.marketscreener.com/news/stocks-dip-on-new-iran-attacks-as-oil-prices-rise-ce7f5ddfda88f022",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-03T021435Z_1_LYNXMPEM5203U_RTROPTP_4_IRAN-CRISIS.JPG",
+      "publishedAt": "2026-06-03T08:32:59Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Petrol, Diesel Price Today (June 3): Check fuel rates in Delhi, Kolkata, Mumbai, Chennai, Gurgaon and other cities",
-      "description": "Petrol, Diesel Price Today: Fuel prices across India remained stable on June 3, with no significant changes reported in major metro cities for petrol and diesel. Despite global crude oil fluctuations, oil marketing companies maintained current retail rates, offering commuters temporary relief. CNG prices also saw no hikes, contributing to overall transport fuel stability.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-price-today-june-3-check-fuel-rates-in-delhi-kolkata-mumbai-chennai-gurgaon-and-other-cities/articleshow/131475183.cms",
-      "image": "https://img.etimg.com/thumb/msid-131475214,width-1200,height-630,imgsize-281174,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-03T03:47:00Z",
+      "title": "GLOBAL MARKETS-Stocks dip on new Iran attacks as oil prices rise",
+      "description": "\u200bfutures fell slightly on Wednesday as oil prices rose \u200cfor \u200ba third session as fresh hostilities flared in the Gulf after U.S.-Iran peace talks stalled. Europe's STOXX 600 index fell 0.4% in early trading while futures for the U.S. S&P 500 slipped 0.1%.",
+      "url": "https://www.devdiscourse.com/article/business/3929379-global-markets-stocks-dip-on-new-iran-attacks-as-oil-prices-rise",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_01_2025_14_44_59_8408741.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-03T08:31:43Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "India tightens checks on overseas flows as currency pressure mounts, sources say",
+      "description": "India increases scrutiny on overseas investments amid rupee pressure from rising oil prices and foreign money outflows.",
+      "url": "https://www.thehindubusinessline.com/markets/forex/india-tightens-checks-on-overseas-flows-as-currency-pressure-mounts-sources-say/article71056155.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/fhitln/article71056158.ece/alternates/LANDSCAPE_1200/iStock-1131200498.jpg",
+      "publishedAt": "2026-06-03T08:27:40Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "India tightens checks on overseas flows as currency pressure mounts, sources say",
+      "description": "India's central bank and markets regulator are intensifying scrutiny on overseas investments by firms and family offices, issuing multiple queries to detect potential misuse of investment routes. This move comes amid pressure on the rupee from rising oil prices and foreign outflows, prompting a focus on capital outflow pace and currency impact.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/india-tightens-checks-on-overseas-flows-as-currency-pressure-mounts-sources-say/articleshow/131479492.cms",
+      "image": "https://img.etimg.com/thumb/msid-131479482,width-1200,height-630,imgsize-87858,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-03T08:09:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Rupee falls 19 paise against dollar amid higher oil prices, weak Asian peers",
-      "description": "Indian rupee opens weaker at 95.45 against US dollar as Gulf tensions lift crude prices, markets eye RBI policy decision and inflation outlook.",
-      "url": "https://www.cnbctv18.com/market/currency/rupee-vs-dollar-inr-versus-usd-high-crude-oil-prices-asia-outlook-ws-l-19918334.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/04/1776067909_hMlhTeNczN-rupeecurrencyMar10jpg-1UrbYcNzZ1.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-03T03:45:07Z",
+      "title": "Navi Mumbai: Rohit Pawar, Jitendra Awhad Among NCP-SP Leaders Detained As Party Protests Over Recent Petrol, Diesel & LPG Price Hike - WATCH",
+      "description": "NCP-SP leader Rohit Pawar and other party leaders were detained by police during a protest in Navi Mumbai against recent hikes in petrol, diesel and LPG prices. The party symbolically lit a stove on the street to highlight inflation and unemployment. Pawar said the agitation aimed to draw attention to the daily struggles faced by common citizens.",
+      "url": "https://www.freepressjournal.in/mumbai/navi-mumbai-rohit-pawar-jitendra-awhad-among-ncp-sp-leaders-detained-as-party-protests-over-recent-petrol-diesel-lpg-price-hike-watch",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-03/jvtv1gdm/Untitled-design-2026-06-03T132507.803.jpg",
+      "publishedAt": "2026-06-03T08:08:29Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Gold rate today: MCX gold price rises above \u20b91.59 lakh per 10 grams, silver price falls amid renewed US-Iran conflict",
-      "description": "Gold prices declined in the international market,, as fresh escalation in the US-Iran war in the Middle East pushed crude oil prices higher, cementing fears that interest rates would stay \u200bhigher for longer to tame inflation.",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-today-mcx-gold-price-rises-above-rs-1-59-lakh-per-10-grams-silver-price-falls-amid-renewed-us-iran-conflict-11780457431766.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/breaking_news_1545650155659_1780457931159_994b9ba2-1814-4a11-94a5-b00a72f498fe.jpg",
-      "publishedAt": "2026-06-03T03:38:47Z",
+      "title": "UPDATE 1-Russia's Sberbank says rouble needs to weaken to 90 per US dollar for commodity exporters to 'breathe'",
+      "description": "(refiles to fix typo in paragraph 5) By Gleb \u200bBryanski and Elena Fabrichnaya MOSCOW, June \u200b3 - A strong rouble \u200cis squeezing \u200bRussian commodity exporters, offsetting any lift in profits from higher oil prices and needs to fall to around \u200c90 per U.S. dollar to help companies breathe, top Sberbank executive Alexander Vedyakhin told Reuters.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3929371-update-1-russias-sberbank-says-rouble-needs-to-weaken-to-90-per-us-dollar-for-commodity-exporters-to-breathe",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-03T08:05:15Z",
       "source": {
-        "name": "Livemint"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Japan Cabinet Approves $19 Bn Extra Budget in Response to Iran War",
-      "description": "Prime Minister Sanae Takaichi said last month that the extra budget would be used to ease the rising cost of petrol, electricity and gas",
-      "url": "https://www.deccanchronicle.com/world/asia/japan-cabinet-approves-19-bn-extra-budget-in-response-to-iran-war-1960972",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/06/03/2047246-japan.jpg",
-      "publishedAt": "2026-06-03T03:27:10Z",
+      "title": "Lisa Jane Spencer: Comedian under fire for \u2018diabolical\u2019 skit featuring mock Aboriginal dance, petrol sniffing",
+      "description": "An Australian comedian has copped a wave of backlash over her controversial skit depicting a white woman \u2018transitioning\u2019 to being Aboriginal.",
+      "url": "https://www.perthnow.com.au/entertainment/influencers/lisa-jane-spencer-comedian-under-fire-for-diabolical-skit-featuring-mock-aboriginal-dance-petrol-sniffing-c-22379414",
+      "image": "https://images.perthnow.com.au/publication/C-22379414/c77a9df4bab98ef16983f72b537cdded3fdcb458-16x9-x1y0w2446h1376.jpg?imwidth=1200",
+      "publishedAt": "2026-06-03T07:50:13Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Australia Q1 economic growth slows on trade drag, consumers struggle",
-      "description": "Australia's economy slowed in the March quarter as strength in business investment was offset by a drag from trade, data showed on Wednesday, while higher borrowing costs and rising petrol prices...",
-      "url": "https://www.marketscreener.com/news/australia-q1-economic-growth-slows-on-trade-drag-consumers-struggle-ce7f5ddfd98ff725",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-03T014239Z_1_LYNXMPEM5202U_RTROPTP_4_AUSTRALIA-ECONOMY.JPG",
-      "publishedAt": "2026-06-03T03:26:22Z",
+      "title": "Tata Intra V40 bi-fuel pickup launched, expands commercial vehicle portfolio",
+      "description": "Tata Motors has expanded its alternate-fuel commercial vehicle lineup with the launch of the Intra V40 bi-fuel pickup, offering a 1,525kg payload, CNG-petrol flexibility, and enhanced capability for last-mile cargo operations.",
+      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/tata-intra-v40-bi-fuel-pickup-launched-expands-commercial-vehicle-portfolio-2921302-2026-06-03",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/tata-intra-v40-033526378-16x9_0.png?VersionId=DBxiLOVhT9lJxKQvMElsPFZU2UhmlzPq",
+      "publishedAt": "2026-06-03T07:36:08Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "'Petrol bomb' thrown into elderly couple's home after window smashed",
+      "description": "The pensioners have no idea who targeted them in arson attack as police appeal for information",
+      "url": "https://www.dailypost.co.uk/news/north-wales-news/petrol-bomb-thrown-elderly-couples-34055455",
+      "image": "https://i2-prod.dailypost.co.uk/article34055454.ece/ALTERNATES/s1200d/0_ljr_020626_police.jpg",
+      "publishedAt": "2026-06-03T07:36:04Z",
+      "source": {
+        "name": "Daily Post"
       }
     }
   ]
