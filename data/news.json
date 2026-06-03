@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-02T20:35:14+00:00",
+  "updated_at": "2026-06-03T02:48:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Demand For EVs Rises In May As Higher Fuel Prices Drive Buyers Towards Electric Mobility",
-      "description": "India\u2019s electric vehicle market witnessed stronger demand in May as rising petrol and diesel prices encouraged consumers to shift towards EVs. Reports by Nomura and HSBC highlighted increased penetration across passenger vehicles and electric two-wheelers.",
-      "url": "https://www.freepressjournal.in/tech/demand-for-evs-rises-in-may-as-higher-fuel-prices-drive-buyers-towards-electric-mobility",
-      "image": "https://media.assettype.com/freepressjournal/2025-05-27/qwz0v3ha/Untitled-design-2025-05-27T131022.665.jpg",
-      "publishedAt": "2026-06-02T08:35:07Z",
+      "title": "LPG consumption declined 19% in May, petrol-diesel increased",
+      "description": "India's LPG consumption fell 19% in May, while petrol and diesel usage saw slight increases amid ongoing supply disruptions.",
+      "url": "https://www.thehindu.com/business/Industry/lpg-consumption-declined-19-in-may-petrol-diesel-increased/article71052941.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ewagrb/article71053603.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_26_05_10.jpg",
+      "publishedAt": "2026-06-02T14:42:20Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Trump's Stance On Iran Could Trigger Record Gas Prices: Analyst",
-      "description": "Trump's 'I Don't Care' attitude towards Iran negotiations could spike gas prices in the U.S. as high fuel costs continue affecting people.",
-      "url": "https://www.benzinga.com/news/politics/26/06/52930165/trump-says-he-doesnt-care-about-iran-wars-economic-impact-but-analyst-warns-americans-have-paid-40-billion-more-at-the-pump-and-costs-could-rise",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/02/President-Donald-Trump-stops-to-speak-wi.jpeg",
-      "publishedAt": "2026-06-02T08:33:38Z",
-      "source": {
-        "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Bank shares snap 4-day losses to recover 700 pts from day's low as crude oil prices ease to $93",
-      "description": "Bank shares erased losses and moved into positive territory after Brent crude prices slipped below the USD 95-a-barrel mark.",
-      "url": "https://www.moneycontrol.com/news/business/markets/bank-shares-recover-700-pts-from-day-s-low-as-crude-oil-prices-ease-to-93-13938467.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031607_sensex_nifty-marketup_sensexup-Niftyup.jpg",
-      "publishedAt": "2026-06-02T08:31:10Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Markets gain and oil drops as Trump's peace signals reassure investors",
-      "description": "Oil prices retreated around 4% from Monday\u2019s highs as markets responded positively to US President Donald Trump\u2019s reassuring comments that negotiations with Iran are progressing.",
-      "url": "https://www.euronews.com/business/2026/06/02/markets-gain-and-oil-drops-as-trumps-peace-signals-reassure-investors",
-      "image": "https://images.euronews.com/articles/stories/09/78/12/34/1200x675_cmsv2_fa09c913-8502-5d5d-87e1-c3ef0a9558cf-9781234.jpg",
-      "publishedAt": "2026-06-02T08:24:44Z",
-      "source": {
-        "name": "Euronews"
-      }
-    },
-    {
-      "title": "India Inc's 4QFY26 earnings were decent but 1QFY27 could be bumpy: Kotak",
-      "description": "India Inc delivered better-than-expected earnings in the March quarter of FY26, but the current quarter could be 'bumpy' as the ongoing West Asia conflict raises risks from higher oil prices and input costs, according to a Kotak Institutional Equities report.",
-      "url": "https://www.tribuneindia.com/news/business/india-incs-4qfy26-earnings-were-decent-but-1qfy27-could-be-bumpy-kotak/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY2OWM5ZDkwLTVlNWItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-02T08:20:42Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Strait of Hormuz could decide India\u2019s growth story, Kotak shares market view",
-      "description": "Kotak expects strong Nifty earnings growth despite West Asia conflict, but oil prices and Hormuz risks remain crucial.",
-      "url": "https://www.financialexpress.com/market/strait-of-hormuz-could-decide-indias-growth-story-kotak-shares-market-view-4256952/",
-      "image": "https://images.financialexpressdigital.com/2026/06/NiftyTarget.jpg",
-      "publishedAt": "2026-06-02T08:18:48Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Crude Oil Futures Slip Amid Uncertainty Over US",
-      "description": "Crude oil futures slipped on MCX as global benchmarks Brent and WTI retreated amid uncertainty over US\u2013Iran ceasefire talks and fragile Israel\u2013Hezbollah truce efforts. Learn how volatile geopolitics, mixed diplomatic signals and concerns over the Strait of Hormuz are weighing on oil prices and market sentiment.",
-      "url": "https://www.outlookbusiness.com/news/crude-oil-futures-slip-amid-uncertainty-over-us-iran-ceasefire-talks",
-      "image": "https://media.assettype.com/outlookbusiness/2026-06-02/bscw2idn/ChatGPT-Image-Jun-12-2025-043214-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-02T08:12:18Z",
-      "source": {
-        "name": "Outlook Business"
-      }
-    },
-    {
-      "title": "Nifty Rebounds 300 Points From Day\u2019s Low, Sensex Jumps Over 539 Points As Falling Crude Oil Prices Trigger Strong Buying",
-      "description": "Indian stock markets staged a strong recovery on Tuesday afternoon after crude oil prices declined on hopes of continued US-Iran talks. Nifty surged nearly 300 points from its intraday low, while Sensex gained over 539 points as investors returned to buying across sectors.",
-      "url": "https://www.freepressjournal.in/business/nifty-rebounds-300-points-from-days-low-sensex-jumps-over-539-points-as-falling-crude-oil-prices-trigger-strong-buying",
-      "image": "https://media.assettype.com/freepressjournal/2022-09/015b9250-075d-496b-9478-0ed21d73de66/bull_run.jpg",
-      "publishedAt": "2026-06-02T08:10:56Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Aztec Fluids & Machinery Reports Resilient FY26 Performance, Advances Technological Sovereignty to Drive Long",
-      "description": "Ahmedabad (Gujarat) [India], June 2: Aztec Fluids & Machinery Limited (BSE: 544177), one of India's leading coding, marking and industrial traceability solutions providers, announced its audited financial results for H2 FY26 and FY26. Despite a challenging global operating environment marked by geopolitical uncertainties, supply chain disruptions, fluctuating crude oil prices and macroeconomic volatility, the Company delivered resilient business performance.",
-      "url": "https://www.tribuneindia.com/news/business/aztec-fluids-machinery-reports-resilient-fy26-performance-advances-technological-sovereignty-to-drive-long-term-growth/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTg3YTU3MDcwLTVlNWEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-02T08:10:26Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "FOREX-Dollar stuck in narrow band as traders eye Middle East, US data",
-      "description": "A peace deal between the U.S. and Iran would ease pressure on currencies from oil-importing countries like Japan and the euro zone while \u200ccurbing safe-haven demand for the dollar. U.S. President Donald Trump said on Monday that talks with Iran were ongoing, despite a report that Tehran had suspended indirect negotiations with the United States to end hostilities, a move that prompted a slight drop in oil prices.",
-      "url": "https://www.devdiscourse.com/article/business/3928757-forex-dollar-stuck-in-narrow-band-as-traders-eye-middle-east-us-data",
+      "title": "FOREX-Dollar in tight range as traders eye Middle East peace talks",
+      "description": "A peace deal between the U.S. and Iran would ease pressure on currencies of oil-importing countries such as Japan and euro zone nations, while reducing safe-haven demand \u200cfor the dollar. U.S. President Donald Trump said on Monday that talks with Iran were ongoing, a comment that pushed oil prices lower despite a report that Tehran had suspended indirect negotiations with Washington to end hostilities.",
+      "url": "https://www.devdiscourse.com/article/politics/3929036-forex-dollar-in-tight-range-as-traders-eye-middle-east-peace-talks",
       "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/02_06_2026_12_43_55_7046969.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-02T07:56:50Z",
+      "publishedAt": "2026-06-02T14:35:13Z",
       "source": {
         "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "The worst summer job market in 80 years has teens scrambling for swimming pool and ice cream jobs",
+      "description": "High schoolers haven\u2019t faced this tough of a summer job market since 1948. Rising inflation, higher oil prices, and a slow hiring market are to blame.",
+      "url": "https://fortune.com/2026/06/02/hundreds-of-teens-flooding-job-ads-ice-cream-shops-swimming-pools-grapple-worst-summer-job-market-80-years/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-958440620-e1780410426199.jpg?resize=1200,600",
+      "publishedAt": "2026-06-02T14:28:01Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "Teens are up against the worst summer job market in nearly 80 years-they\u2019re fighting against hundreds to work at ice cream shops and swimming pools",
+      "description": "High schoolers haven\u2019t faced this tough of a summer job market since 1948. Rising inflation, higher oil prices, and a slow hiring market are to blame.",
+      "url": "https://www.newsbreak.com/fortune-561435/4686167286584-teens-are-up-against-the-worst-summer-job-market-in-nearly-80-years-they-re-fighting-against-hundreds-to-work-at-ice-cream-shops-and-swimming-pools",
+      "image": "https://img.particlenews.com/img/id/0RE23g_1BxtVp5Z00",
+      "publishedAt": "2026-06-02T14:28:01Z",
+      "source": {
+        "name": "NewsBreak"
+      }
+    },
+    {
+      "title": "LDF stages walkout in Kerala Assembly, accusing UDF of neglecting fuel crisis",
+      "description": "The Opposition Left Democratic Front (LDF) staged a walkout in the Kerala Legislative Assembly on Tuesday after accusing the United Democratic Front (UDF) government of dismissing the plight of ordinary people, who have been hit the hardest by the surge in fuel and cooking gas prices.",
+      "url": "https://www.thestatesman.com/india/ldf-stages-walkout-in-kerala-assembly-accusing-udf-of-neglecting-fuel-crisis-1503601141.html",
+      "image": "https://www.thestatesman.com/wp-content/uploads/2026/02/Untitled-design-25-3.webp",
+      "publishedAt": "2026-06-02T14:20:40Z",
+      "source": {
+        "name": "The Statesman"
+      }
+    },
+    {
+      "title": "Iran talks \u2018very boring.\u2019 Trump says he doesn\u2019t care if they\u2019re over",
+      "description": "Trump also said he was not worried about oil prices.",
+      "url": "https://www.syracuse.com/politics/2026/06/iran-talks-very-boring-trump-says-he-doesnt-care-if-theyre-over.html",
+      "image": "https://www.syracuse.com/resizer/v2/ZJEHERO57BC4FNMY3LUXEHMELI.jpg?auth=4d87218881b7b95112d8c21c18d9a2907f55a46014129b0c911756024cc1dd3b&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-06-02T14:17:42Z",
+      "source": {
+        "name": "syracuse.com"
+      }
+    },
+    {
+      "title": "Wall Street's record-breaking rally slows as Alphabet drags on the market",
+      "description": "Wall Street's record-breaking rally is slowing following a drop for Alphabet, one of Wall Street\u2019s most influential stocks. The S&P 500 slipped 0.1% Tuesday, a day after setting its latest all-time high. The Dow Jones Industrial Average rose 65 points, and the Nasdaq composite fell 0.3%. Analysts have said the market may be set for a slowdown following an unrelenting streak of nine straight winning weeks for the S&P 500. Alphabet fell after saying it plans to raise $80 billion through sales of stock to pay for its AI investments. AI chip companies rose. Oil prices held steadier following Monday's bounce back.",
+      "url": "https://www.ajc.com/news/2026/06/wall-streets-record-breaking-rally-slows-as-alphabet-drags-on-the-market/",
+      "image": "https://images.ajc.com/resizer/v2/SKA6HSKREBBE5JRP6KQ6ZJNNQQ.jpg?auth=8b403918e6f0f53b65ee33d9a0145d055967b80f0085e0211ecba8c7f51fcdd7&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-02T14:02:25Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Gold firms with focus on Middle East developments, US economic data",
+      "description": "Gold gained on Tuesday as oil prices slipped after U.S. President Donald Trump said talks with Iran were ongoing, while markets focused on developments in the Middle East and upcoming U.S. economic...",
+      "url": "https://www.marketscreener.com/news/gold-firms-with-focus-on-middle-east-developments-us-economic-data-ce7f5ddeda8dfe26",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-07T035031Z_1_LYNXMPEM36015_RTROPTP_4_GLOBAL-PRECIOUS-GOLD-EGYPT.JPG",
+      "publishedAt": "2026-06-02T13:27:39Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Tuesday, 2 June",
+      "description": "Use our interactive widget to fill your car for less",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34051110",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article31434288.ece/ALTERNATES/s1200d/3_Petrol-station-money-saving.jpg",
+      "publishedAt": "2026-06-02T12:59:02Z",
+      "source": {
+        "name": "Manchester Evening News"
+      }
+    },
+    {
+      "title": "US stock market today: Nasdaq, S&P 500 edge lower as Middle East tensions keep markets on edge",
+      "description": "US stock futures showed a muted start as tensions in the Middle East affected investor sentiment. S&P 500 futures dipped 0.1%, while Nasdaq futures fell 0.1%. Despite the market's recent record highs, concerns over rising oil prices and tech stock performance lingered.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-edge-lower-as-middle-east-tensions-keep-markets-on-edge-11780399149164.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/02/1600x900/logo/US-ECONOMY-MARKETS-NYSE-4_1750940643064_1780402421589_47c81129-ef8d-46ae-a131-9e93b6532536.jpg",
+      "publishedAt": "2026-06-02T12:40:11Z",
+      "source": {
+        "name": "Livemint"
       }
     }
   ]
