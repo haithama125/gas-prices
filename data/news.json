@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-03T20:47:16+00:00",
+  "updated_at": "2026-06-04T02:43:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rouble's strength squeezes Russian exporters despite Iran war oil gains",
-      "description": "PETERSBURG, Russia, June \u200c3 - \u200bA strong rouble is squeezing Russian commodity exporters, offsetting any gains from higher oil prices, and needs to fall to around 90 per U.S. dollar, top Sberbank executive Alexander Vedyakhin told Reuters.",
-      "url": "https://www.devdiscourse.com/article/business/3929387-roubles-strength-squeezes-russian-exporters-despite-iran-war-oil-gains",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_17_44_8184075.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-03T08:44:01Z",
+      "title": "Strength in US Economic Reports Boosts the Dollar",
+      "description": "The dollar index (DXY00 ) today is up by +0.23%. The dollar is moving higher today and is being supported by a +1% increase in WTI crude oil prices, which lifts inflation expectations and may prompt the Fed to tighten monetary policy, a bullish fact...",
+      "url": "https://www.barchart.com/story/news/2284159/strength-in-us-economic-reports-boosts-the-dollar",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Pile%20of%20money%20with%20hands%20by%20Sergey%20Nazarov%20via%20iStock.jpg",
+      "publishedAt": "2026-06-03T14:39:59Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Oil Prices Hold Gains As Gasoline Stocks Hit 12 Year Lows, Cushing 'Tank Bottoms' Loom",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/energy/oil-prices-hold-gains-gasoline-stocks-hit-12-year-lows-cushing-tank-bottoms-loom",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/bfm247F.jpg?h=5a118b96&itok=Kf5ZL6gF",
+      "publishedAt": "2026-06-03T14:39:02Z",
+      "source": {
+        "name": "ZeroHedge"
+      }
+    },
+    {
+      "title": "Wall Street Wobbles Amid Middle East Turmoil and AI Momentum",
+      "description": "Wall Street indices experienced a retreat after a string of record highs due to Middle East tensions that raised oil prices and inflation concerns. The tech sector saw notable declines, impacting sentiment. Meanwhile, the market is closely watching for monetary policy signals amidst various corporate activities, including major IPO announcements.",
+      "url": "https://www.devdiscourse.com/article/business/3929642-wall-street-wobbles-amid-middle-east-turmoil-and-ai-momentum",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_10_2025_20_54_46_8506776.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-03T14:32:34Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Stocks dip on new Iran attacks as oil prices rise",
-      "description": "European stocks and U.S. futures fell slightly on Wednesday as oil prices rose for a third session as fresh hostilities flared in the Gulf after U.S.-Iran peace talks stalled.\nEurope's...",
-      "url": "https://www.marketscreener.com/news/stocks-dip-on-new-iran-attacks-as-oil-prices-rise-ce7f5ddfda88f022",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-03T021435Z_1_LYNXMPEM5203U_RTROPTP_4_IRAN-CRISIS.JPG",
-      "publishedAt": "2026-06-03T08:32:59Z",
+      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
+      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
+      "publishedAt": "2026-06-03T14:29:35Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "GLOBAL MARKETS-Stocks dip on new Iran attacks as oil prices rise",
-      "description": "\u200bfutures fell slightly on Wednesday as oil prices rose \u200cfor \u200ba third session as fresh hostilities flared in the Gulf after U.S.-Iran peace talks stalled. Europe's STOXX 600 index fell 0.4% in early trading while futures for the U.S. S&P 500 slipped 0.1%.",
-      "url": "https://www.devdiscourse.com/article/business/3929379-global-markets-stocks-dip-on-new-iran-attacks-as-oil-prices-rise",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_01_2025_14_44_59_8408741.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-03T08:31:43Z",
+      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
+      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri-2/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
+      "publishedAt": "2026-06-03T14:29:35Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "India tightens checks on overseas flows as currency pressure mounts, sources say",
-      "description": "India increases scrutiny on overseas investments amid rupee pressure from rising oil prices and foreign money outflows.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/india-tightens-checks-on-overseas-flows-as-currency-pressure-mounts-sources-say/article71056155.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/fhitln/article71056158.ece/alternates/LANDSCAPE_1200/iStock-1131200498.jpg",
-      "publishedAt": "2026-06-03T08:27:40Z",
+      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
+      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
+      "publishedAt": "2026-06-03T14:29:35Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "India tightens checks on overseas flows as currency pressure mounts, sources say",
-      "description": "India's central bank and markets regulator are intensifying scrutiny on overseas investments by firms and family offices, issuing multiple queries to detect potential misuse of investment routes. This move comes amid pressure on the rupee from rising oil prices and foreign outflows, prompting a focus on capital outflow pace and currency impact.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/india-tightens-checks-on-overseas-flows-as-currency-pressure-mounts-sources-say/articleshow/131479492.cms",
-      "image": "https://img.etimg.com/thumb/msid-131479482,width-1200,height-630,imgsize-87858,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-03T08:09:00Z",
+      "title": "Oil prices climb back toward $100, and the record-breaking rally for US stocks stalls",
+      "description": "Oil prices are rising following the latest threats to the U.S.-Iran ceasefire, and U.S. stocks are stalling near their records",
+      "url": "https://www.barchart.com/story/news/2271975/oil-prices-climb-back-toward-100-and-the-record-breaking-rally-for-us-stocks-stalls",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ec0b3e8f2b80407c8f27162f748dae5c/ec0b3e8f2b80407c8f27162f748dae5c_main_financial_markets_wall_street_931_7.jpg",
+      "publishedAt": "2026-06-03T14:29:09Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Navi Mumbai: Rohit Pawar, Jitendra Awhad Among NCP-SP Leaders Detained As Party Protests Over Recent Petrol, Diesel & LPG Price Hike - WATCH",
-      "description": "NCP-SP leader Rohit Pawar and other party leaders were detained by police during a protest in Navi Mumbai against recent hikes in petrol, diesel and LPG prices. The party symbolically lit a stove on the street to highlight inflation and unemployment. Pawar said the agitation aimed to draw attention to the daily struggles faced by common citizens.",
-      "url": "https://www.freepressjournal.in/mumbai/navi-mumbai-rohit-pawar-jitendra-awhad-among-ncp-sp-leaders-detained-as-party-protests-over-recent-petrol-diesel-lpg-price-hike-watch",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-03/jvtv1gdm/Untitled-design-2026-06-03T132507.803.jpg",
-      "publishedAt": "2026-06-03T08:08:29Z",
+      "title": "Elevated oil prices could drag India's growth to 6%, below IMF forecast of 6.5%: Gopinath",
+      "description": "India's economic growth, projected at 6.5 per cent by the International Monetary Fund (IMF), could slow closer to 6 per cent as elevated oil prices continue to weigh on the economy, former IMF Deputy Managing Director and Chief Economist Gita Gopinath told ANI.",
+      "url": "https://www.tribuneindia.com/news/business/elevated-oil-prices-could-drag-indias-growth-to-6-below-imf-forecast-of-6-5-gopinath/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmNmJlNjUwLTVmNTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-03T14:28:52Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "UPDATE 1-Russia's Sberbank says rouble needs to weaken to 90 per US dollar for commodity exporters to 'breathe'",
-      "description": "(refiles to fix typo in paragraph 5) By Gleb \u200bBryanski and Elena Fabrichnaya MOSCOW, June \u200b3 - A strong rouble \u200cis squeezing \u200bRussian commodity exporters, offsetting any lift in profits from higher oil prices and needs to fall to around \u200c90 per U.S. dollar to help companies breathe, top Sberbank executive Alexander Vedyakhin told Reuters.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3929371-update-1-russias-sberbank-says-rouble-needs-to-weaken-to-90-per-us-dollar-for-commodity-exporters-to-breathe",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_01_02_8802375.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-03T08:05:15Z",
+      "title": "Fuel price shield helping India and consumers to tackle West Asia crisis: Gita Gopinath",
+      "description": "The government is already supporting the economy amid the ongoing West Asia crisis by not allowing the full impact of rising global oil prices to be passed on to consumers, according to Gita Gopinath, former Deputy Managing Director of the International Monetary Fund (IMF).",
+      "url": "https://www.tribuneindia.com/news/business/fuel-price-shield-helping-india-and-consumers-to-tackle-west-asia-crisis-gita-gopinath/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmYTNiZjMwLTVmNTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-03T14:28:52Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Lisa Jane Spencer: Comedian under fire for \u2018diabolical\u2019 skit featuring mock Aboriginal dance, petrol sniffing",
-      "description": "An Australian comedian has copped a wave of backlash over her controversial skit depicting a white woman \u2018transitioning\u2019 to being Aboriginal.",
-      "url": "https://www.perthnow.com.au/entertainment/influencers/lisa-jane-spencer-comedian-under-fire-for-diabolical-skit-featuring-mock-aboriginal-dance-petrol-sniffing-c-22379414",
-      "image": "https://images.perthnow.com.au/publication/C-22379414/c77a9df4bab98ef16983f72b537cdded3fdcb458-16x9-x1y0w2446h1376.jpg?imwidth=1200",
-      "publishedAt": "2026-06-03T07:50:13Z",
+      "title": "Trade Setup for June 4: Nifty continues to make lower lows raising questions on intraday recovery",
+      "description": "Market participants will closely track crude oil prices, FII flows, rupee movement and the outcome of the RBI Monetary Policy Committee meeting for further direction.",
+      "url": "https://www.cnbctv18.com/market/trade-setup-for-june-4-nifty-continues-to-make-lower-lows-raising-questions-on-intraday-recovery-ws-l-19918931.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/03/5-million-48-2026-03-38bf130b05371c9f1aaeaa1f53db66ce.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-06-03T14:25:18Z",
       "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Tata Intra V40 bi-fuel pickup launched, expands commercial vehicle portfolio",
-      "description": "Tata Motors has expanded its alternate-fuel commercial vehicle lineup with the launch of the Intra V40 bi-fuel pickup, offering a 1,525kg payload, CNG-petrol flexibility, and enhanced capability for last-mile cargo operations.",
-      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/tata-intra-v40-bi-fuel-pickup-launched-expands-commercial-vehicle-portfolio-2921302-2026-06-03",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/tata-intra-v40-033526378-16x9_0.png?VersionId=DBxiLOVhT9lJxKQvMElsPFZU2UhmlzPq",
-      "publishedAt": "2026-06-03T07:36:08Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "'Petrol bomb' thrown into elderly couple's home after window smashed",
-      "description": "The pensioners have no idea who targeted them in arson attack as police appeal for information",
-      "url": "https://www.dailypost.co.uk/news/north-wales-news/petrol-bomb-thrown-elderly-couples-34055455",
-      "image": "https://i2-prod.dailypost.co.uk/article34055454.ece/ALTERNATES/s1200d/0_ljr_020626_police.jpg",
-      "publishedAt": "2026-06-03T07:36:04Z",
-      "source": {
-        "name": "Daily Post"
+        "name": "CNBC TV18"
       }
     }
   ]
