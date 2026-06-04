@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-04T09:43:17+00:00",
+  "updated_at": "2026-06-04T14:35:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices climb back toward $100, and US stocks halt their record",
-      "description": "NEW YORK (AP) \u2014 Oil prices rose Wednesday following the latest flare-up in fighting to threaten the U.S.-Iran ceasefire, and U.S. stocks retreated from their\u2026",
-      "url": "https://wtop.com/national/2026/06/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
-      "image": "https://wtop.com/wp-content/uploads/2026/06/Japan_Financial_Markets_85199-scaled.jpg",
-      "publishedAt": "2026-06-03T21:29:38Z",
+      "title": "Oil Prices Dip as Israel-Lebanon Ceasefire Revives Iran Deal Hopes",
+      "description": "Oil prices fell after a U.S.-brokered Israel-Lebanon ceasefire raised hopes for a broader regional deal, though the closed Strait of Hormuz continues to strain global supply.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Dip-as-Israel-Lebanon-Ceasefire-Revives-Iran-Deal-Hopes.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-03_yiehmc05vg.jpg",
+      "publishedAt": "2026-06-04T02:29:54Z",
       "source": {
-        "name": "WTOP"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "What\u2019s likely to move the market",
-      "description": "The S&P 500 snapped a nine-day winning streak on Wednesday as rising Treasury yields and oil prices kept stocks under pressure.",
-      "url": "https://www.cnbc.com/2026/06/03/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108274234-1772723601571-gettyimages-2264128812-raa-broadcom260303_nptOa.jpeg?v=1772723626&w=1920&h=1080",
-      "publishedAt": "2026-06-03T21:26:32Z",
+      "title": "Gold rises on softer dollar, oil as markets weigh US-Iran peace optimism",
+      "description": "Gold prices dipped on Wednesday, pressured by a strengthening dollar and escalating oil prices amidst renewed Middle East conflict. Hopes for a quick U.S.-Iran resolution have faded, impacting diplomatic progress. Analysts suggest this geopolitical tension, coupled with inflation risks and potential interest rate hikes, is weighing on the precious metal.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-softer-dollar-oil-as-markets-weigh-us-iran-peace-optimism/articleshow/131494939.cms",
+      "image": "https://img.etimg.com/thumb/msid-131494949,width-1200,height-630,imgsize-82370,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-04T02:23:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Stock market today: Nifty seen opening lower amid global uncertainty and FII selling",
+      "description": "Indian markets may open lower as investors track RBI policy, US-Iran tensions, crude oil prices and persistent FII outflows amid weak global cues.",
+      "url": "https://www.thehindubusinessline.com/markets/nifty-may-open-150-points-lower-as-investors-track-rbi-policy-and-global-cues/article71059480.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/kq6dxw/article71051186.ece/alternates/LANDSCAPE_1200/IMG_PO05_stock_graph_2_1_IJ98FEMC.jpg",
+      "publishedAt": "2026-06-04T02:12:19Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "\u2018India\u2019s growth at risk\u2019: Former IMF chief economist Gita Gopinath warns high oil prices could trim GDP to 6%",
+      "description": "Gita Gopinath also warned that such a global slowdown would place greater stress on India\u2019s growth prospects, implying deeper downside risk than the roughly half-percentage-point gap between 6.5 per cent and a possible 6 percent outcome.",
+      "url": "https://www.financialexpress.com/business/news-indias-growth-at-risk-former-imf-chief-economist-gita-gopinath-warns-high-oil-prices-could-trim-gdp-to-6-4258610/",
+      "image": "https://images.financialexpressdigital.com/2026/06/gita.jpg",
+      "publishedAt": "2026-06-04T02:09:32Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Petrol, Diesel Price Today: Has India seen another hike on June 4? Check fuel rates in Delhi, Mumbai, Gurgaon, Chennai and other cities",
+      "description": "Petrol, Diesel Price Today: Fuel prices held steady across India on June 4, offering consumers a brief respite. However, rising global crude oil prices, nearing $95 per barrel, are fueling speculation about potential hikes. Such an increase could significantly impact household budgets, transportation costs, and overall inflation, making future fuel rates a key economic indicator to watch.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-diesel-price-today-has-india-seen-another-hike-on-june-4-check-fuel-rates-in-delhi-mumbai-gurgaon-chennai-and-other-cities/articleshow/131494693.cms",
+      "image": "https://img.etimg.com/thumb/msid-131494748,width-1200,height-630,imgsize-99220,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-04T01:55:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil Price Today (June 4): Crude oil slips as Israel-Lebanon ceasefire fuels Iran war peace hopes. What\u2019s next?",
+      "description": "Oil prices dipped as a ceasefire between Israel and Lebanon sparked hopes for broader diplomatic progress, potentially easing U.S.-Iran tensions. The U.S. House also passed a resolution limiting President Trump's military action against Tehran. Despite these developments, analysts warn that disruptions in the Strait of Hormuz could significantly impact global supply for years.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-june-4-crude-oil-slips-as-israel-lebanon-ceasefire-fuels-iran-war-peace-hopes-whats-next/articleshow/131494737.cms",
+      "image": "https://img.etimg.com/thumb/msid-131494735,width-1200,height-630,imgsize-57878,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-04T01:52:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "CNBC Daily Open: Fresh Iran war worries halt stock rally",
+      "description": "Oil prices rise and markets fall after Netanyahu tells CNBC Israel and U.S. prepared to attack Iran again if necessary.",
+      "url": "https://www.cnbc.com/2026/06/04/cnbc-daily-open-iran-war-worries-halt-stock-rally.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108316338-1780518732442-gettyimages-2279672498-kd1_8532_vbiuiux6.jpeg?v=1780518769&w=1920&h=1080",
+      "publishedAt": "2026-06-04T01:49:46Z",
       "source": {
         "name": "CNBC"
       }
     },
     {
-      "title": "Gas prices averaged $3.91 in Iowa the week of June 3",
-      "description": "The price of regular unleaded gasoline fell 21 cents from last week's price and is currently averaging $3.91 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_faaaefc7-9cf1-45ac-9536-a84f793642f1.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/f/aa/faaaefc7-9cf1-45ac-9536-a84f793642f1/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-06-03T21:00:00Z",
+      "title": "Cybersecurity Company Drags Down S&P 500",
+      "description": "Oil prices rose on Wednesday following the latest threats to the US-Iran ceasefire, and US stocks retreated from their records. The S&P 500's nine-day winning streak was...",
+      "url": "https://www.newser.com/story/390386/cybersecurity-company-drags-down-sp-500.html",
+      "image": "https://img1-azrcdn.newser.com/image/1689564-12-20260603162320.jpeg",
+      "publishedAt": "2026-06-04T01:45:00Z",
       "source": {
-        "name": "Sioux City Journal"
+        "name": "Newser"
       }
     },
     {
-      "title": "Oil prices climb back toward $100, and stocks halt their record-breaking rally",
-      "description": "Oil prices rose following the latest threats to the U.S.-Iran ceasefire, and U.S. stocks retreated from their records",
-      "url": "https://www.latimes.com/business/story/2026-06-03/oil-prices-climb-back-toward-100-us-stocks-halt-their-record-breaking-rally",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/6396357/2147483647/strip/true/crop/4835x2538+0+342/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2Faf%2F78dbef974a6cae115733455d9e65%2Fa4f394ed09b8478a945e8812b4c2ccf0.jpg",
-      "publishedAt": "2026-06-03T20:44:52Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Canada\u2019s Inflation Rate Just Jumped: 2 Stocks That Look Built for it",
-      "description": "Inflation is flaring again, and these two utility stocks let investors lean into essential electricity demand instead of chasing oil prices.",
-      "url": "https://www.fool.ca/2026/06/03/canadas-inflation-rate-just-jumped-2-stocks-that-look-built-for-it/",
-      "image": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1924765911-1200x800.jpg",
-      "publishedAt": "2026-06-03T20:40:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
-      "description": "US inflation rose at a moderate to strong pace, driven largely by surging energy costs linked to the Iran war, the Federal Reserve said. Higher oil prices disrupted supply chains and lifted input costs, while consumer spending showed widening inequality, with lower-income households facing rising financial strain.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
-      "image": "https://img.etimg.com/thumb/msid-131492008,width-1200,height-630,imgsize-14284,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-03T20:14:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Stock Market Today: Indexes Tumble, Bond Yields Surge Amid Fresh Iran Attacks",
-      "description": "The Dow fell over 500 points on Wednesday as traders assessed fresh strikes between the US and Iran that drove oil prices and bond yields higher.",
-      "url": "https://www.businessinsider.com/stock-market-today-sp500-bond-yields-iran-war-attacks-2026-6",
-      "image": "https://i.insider.com/6a206b7cb4fb977f35983d39?width=1200&format=jpeg",
-      "publishedAt": "2026-06-03T20:09:48Z",
-      "source": {
-        "name": "Business Insider"
-      }
-    },
-    {
-      "title": "US stocks today: Dow Jones drops over 500 points as Middle East tensions escalate",
-      "description": "Wall Street closed lower as Middle East tensions and rising oil prices triggered inflation concerns and profit booking. Financials and tech stocks led declines, though chipmakers stayed resilient on AI optimism. Strong services data and steady labor conditions contrasted with geopolitical risks, while expectations for a potential Fed rate hike continued to climb.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-middle-east-tensions-escalate/articleshow/131491980.cms",
-      "image": "https://img.etimg.com/thumb/msid-131491986,width-1200,height-630,imgsize-206804,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-03T20:06:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Wall Street Wobbles Amid Geopolitical Tensions and Rising Oil Prices",
-      "description": "Wall Street stocks declined as tensions in the Middle East and heightened crude prices spurred inflation concerns. The major U.S. stock indexes closed negatively, with financials and tech leading the drop. Investors' unease highlighted the ongoing conflict's impact on energy prices and the potential for systemic inflation.",
-      "url": "https://www.devdiscourse.com/article/business/3929789-wall-street-wobbles-amid-geopolitical-tensions-and-rising-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_20_42_35_7996437.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-03T20:01:04Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "The MPC can afford to wait for more inflation and growth trends before it takes a call on raising rates",
-      "description": "The RBI is expected to keep interest rates unchanged despite rising oil prices and rupee weakness, as concerns over economic growth outweigh the case for tighter policy.",
-      "url": "https://www.financialexpress.com/opinion/the-mpc-can-afford-to-wait-for-more-inflation-and-growth-trends-before-it-takes-a-call-on-raising-rates/4258529/",
-      "image": "https://images.financialexpressdigital.com/2026/06/RBIMPCMeetDay1_20260603194034.jpg",
-      "publishedAt": "2026-06-03T19:42:36Z",
+      "title": "Sensex, Nifty set for cautious start - GIFT Nifty down 17 points; Brent crude at $97",
+      "description": "Share market today, June 04: Global markets drop amid US-Iran tension, raising crude oil prices\u2014stay updated on key financial trends and rates today!",
+      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-04june2026-4258634/",
+      "image": "https://images.financialexpressdigital.com/2026/06/stockmarket_20260604013907.jpg",
+      "publishedAt": "2026-06-04T01:44:53Z",
       "source": {
         "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Dollar clings to 2-month high as Gulf hostilities flare, yen wobbles near intervention zone",
+      "description": "Heightened Middle East tensions, including Iranian attacks and U.S. strikes, propelled oil prices and boosted the dollar's safe-haven appeal near a two-month peak. The yen teetered around the 160 mark, sparking intervention fears. Meanwhile, strong U.S. services inflation data reinforced expectations of sustained high interest rates, while the Bank of Japan signaled a potential rate hike this month.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-clings-to-2-month-high-as-gulf-hostilities-flare-yen-wobbles-near-intervention-zone/articleshow/131494702.cms",
+      "image": "https://img.etimg.com/thumb/msid-131494705,width-1200,height-630,imgsize-216974,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-04T01:42:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
