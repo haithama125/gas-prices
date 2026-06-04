@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-04T02:43:51+00:00",
+  "updated_at": "2026-06-04T09:43:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Strength in US Economic Reports Boosts the Dollar",
-      "description": "The dollar index (DXY00 ) today is up by +0.23%. The dollar is moving higher today and is being supported by a +1% increase in WTI crude oil prices, which lifts inflation expectations and may prompt the Fed to tighten monetary policy, a bullish fact...",
-      "url": "https://www.barchart.com/story/news/2284159/strength-in-us-economic-reports-boosts-the-dollar",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Pile%20of%20money%20with%20hands%20by%20Sergey%20Nazarov%20via%20iStock.jpg",
-      "publishedAt": "2026-06-03T14:39:59Z",
+      "title": "Oil prices climb back toward $100, and US stocks halt their record",
+      "description": "NEW YORK (AP) \u2014 Oil prices rose Wednesday following the latest flare-up in fighting to threaten the U.S.-Iran ceasefire, and U.S. stocks retreated from their\u2026",
+      "url": "https://wtop.com/national/2026/06/tokyos-nikkei-225-index-tops-68000-for-the-1st-time-as-wall-street-logs-more-records/",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/Japan_Financial_Markets_85199-scaled.jpg",
+      "publishedAt": "2026-06-03T21:29:38Z",
       "source": {
-        "name": "Barchart"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Oil Prices Hold Gains As Gasoline Stocks Hit 12 Year Lows, Cushing 'Tank Bottoms' Loom",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/energy/oil-prices-hold-gains-gasoline-stocks-hit-12-year-lows-cushing-tank-bottoms-loom",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/bfm247F.jpg?h=5a118b96&itok=Kf5ZL6gF",
-      "publishedAt": "2026-06-03T14:39:02Z",
+      "title": "What\u2019s likely to move the market",
+      "description": "The S&P 500 snapped a nine-day winning streak on Wednesday as rising Treasury yields and oil prices kept stocks under pressure.",
+      "url": "https://www.cnbc.com/2026/06/03/thursdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108274234-1772723601571-gettyimages-2264128812-raa-broadcom260303_nptOa.jpeg?v=1772723626&w=1920&h=1080",
+      "publishedAt": "2026-06-03T21:26:32Z",
       "source": {
-        "name": "ZeroHedge"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Wall Street Wobbles Amid Middle East Turmoil and AI Momentum",
-      "description": "Wall Street indices experienced a retreat after a string of record highs due to Middle East tensions that raised oil prices and inflation concerns. The tech sector saw notable declines, impacting sentiment. Meanwhile, the market is closely watching for monetary policy signals amidst various corporate activities, including major IPO announcements.",
-      "url": "https://www.devdiscourse.com/article/business/3929642-wall-street-wobbles-amid-middle-east-turmoil-and-ai-momentum",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_10_2025_20_54_46_8506776.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-03T14:32:34Z",
+      "title": "Gas prices averaged $3.91 in Iowa the week of June 3",
+      "description": "The price of regular unleaded gasoline fell 21 cents from last week's price and is currently averaging $3.91 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
+      "url": "https://siouxcityjournal.com/news/local/business/article_faaaefc7-9cf1-45ac-9536-a84f793642f1.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/f/aa/faaaefc7-9cf1-45ac-9536-a84f793642f1/69d6a8bb1931b.social.jpg",
+      "publishedAt": "2026-06-03T21:00:00Z",
+      "source": {
+        "name": "Sioux City Journal"
+      }
+    },
+    {
+      "title": "Oil prices climb back toward $100, and stocks halt their record-breaking rally",
+      "description": "Oil prices rose following the latest threats to the U.S.-Iran ceasefire, and U.S. stocks retreated from their records",
+      "url": "https://www.latimes.com/business/story/2026-06-03/oil-prices-climb-back-toward-100-us-stocks-halt-their-record-breaking-rally",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/6396357/2147483647/strip/true/crop/4835x2538+0+342/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2Faf%2F78dbef974a6cae115733455d9e65%2Fa4f394ed09b8478a945e8812b4c2ccf0.jpg",
+      "publishedAt": "2026-06-03T20:44:52Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "Canada\u2019s Inflation Rate Just Jumped: 2 Stocks That Look Built for it",
+      "description": "Inflation is flaring again, and these two utility stocks let investors lean into essential electricity demand instead of chasing oil prices.",
+      "url": "https://www.fool.ca/2026/06/03/canadas-inflation-rate-just-jumped-2-stocks-that-look-built-for-it/",
+      "image": "https://www.fool.ca/wp-content/uploads/2024/10/GettyImages-1924765911-1200x800.jpg",
+      "publishedAt": "2026-06-03T20:40:00Z",
+      "source": {
+        "name": "The Motley Fool Canada"
+      }
+    },
+    {
+      "title": "US Fed says Iran war driving 'moderate-to-strong' inflation",
+      "description": "US inflation rose at a moderate to strong pace, driven largely by surging energy costs linked to the Iran war, the Federal Reserve said. Higher oil prices disrupted supply chains and lifted input costs, while consumer spending showed widening inequality, with lower-income households facing rising financial strain.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-fed-says-iran-war-driving-moderate-to-strong-inflation/articleshow/131492008.cms",
+      "image": "https://img.etimg.com/thumb/msid-131492008,width-1200,height-630,imgsize-14284,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-03T20:14:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Stock Market Today: Indexes Tumble, Bond Yields Surge Amid Fresh Iran Attacks",
+      "description": "The Dow fell over 500 points on Wednesday as traders assessed fresh strikes between the US and Iran that drove oil prices and bond yields higher.",
+      "url": "https://www.businessinsider.com/stock-market-today-sp500-bond-yields-iran-war-attacks-2026-6",
+      "image": "https://i.insider.com/6a206b7cb4fb977f35983d39?width=1200&format=jpeg",
+      "publishedAt": "2026-06-03T20:09:48Z",
+      "source": {
+        "name": "Business Insider"
+      }
+    },
+    {
+      "title": "US stocks today: Dow Jones drops over 500 points as Middle East tensions escalate",
+      "description": "Wall Street closed lower as Middle East tensions and rising oil prices triggered inflation concerns and profit booking. Financials and tech stocks led declines, though chipmakers stayed resilient on AI optimism. Strong services data and steady labor conditions contrasted with geopolitical risks, while expectations for a potential Fed rate hike continued to climb.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-end-lower-as-middle-east-tensions-escalate/articleshow/131491980.cms",
+      "image": "https://img.etimg.com/thumb/msid-131491986,width-1200,height-630,imgsize-206804,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-03T20:06:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Wall Street Wobbles Amid Geopolitical Tensions and Rising Oil Prices",
+      "description": "Wall Street stocks declined as tensions in the Middle East and heightened crude prices spurred inflation concerns. The major U.S. stock indexes closed negatively, with financials and tech leading the drop. Investors' unease highlighted the ongoing conflict's impact on energy prices and the potential for systemic inflation.",
+      "url": "https://www.devdiscourse.com/article/business/3929789-wall-street-wobbles-amid-geopolitical-tensions-and-rising-oil-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_07_2024_20_42_35_7996437.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-03T20:01:04Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
-      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
-      "publishedAt": "2026-06-03T14:29:35Z",
+      "title": "The MPC can afford to wait for more inflation and growth trends before it takes a call on raising rates",
+      "description": "The RBI is expected to keep interest rates unchanged despite rising oil prices and rupee weakness, as concerns over economic growth outweigh the case for tighter policy.",
+      "url": "https://www.financialexpress.com/opinion/the-mpc-can-afford-to-wait-for-more-inflation-and-growth-trends-before-it-takes-a-call-on-raising-rates/4258529/",
+      "image": "https://images.financialexpressdigital.com/2026/06/RBIMPCMeetDay1_20260603194034.jpg",
+      "publishedAt": "2026-06-03T19:42:36Z",
       "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
-      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri-2/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
-      "publishedAt": "2026-06-03T14:29:35Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri",
-      "description": "1 pc shift to ethanol-powered vehicles can save India nearly Rs 195 crore in forex: Hardeep Puri - New Delhi, June 3 A one per cent shift in India's annual petrol vehicle sales to ethanol-powered vehicles ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/1-pc-shift-to-ethanol-powered-vehicles-can-save-india-nearly-rs-195-crore-in-forex-hardeep-puri/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606033812819_202606.jpg",
-      "publishedAt": "2026-06-03T14:29:35Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Oil prices climb back toward $100, and the record-breaking rally for US stocks stalls",
-      "description": "Oil prices are rising following the latest threats to the U.S.-Iran ceasefire, and U.S. stocks are stalling near their records",
-      "url": "https://www.barchart.com/story/news/2271975/oil-prices-climb-back-toward-100-and-the-record-breaking-rally-for-us-stocks-stalls",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ec0b3e8f2b80407c8f27162f748dae5c/ec0b3e8f2b80407c8f27162f748dae5c_main_financial_markets_wall_street_931_7.jpg",
-      "publishedAt": "2026-06-03T14:29:09Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Elevated oil prices could drag India's growth to 6%, below IMF forecast of 6.5%: Gopinath",
-      "description": "India's economic growth, projected at 6.5 per cent by the International Monetary Fund (IMF), could slow closer to 6 per cent as elevated oil prices continue to weigh on the economy, former IMF Deputy Managing Director and Chief Economist Gita Gopinath told ANI.",
-      "url": "https://www.tribuneindia.com/news/business/elevated-oil-prices-could-drag-indias-growth-to-6-below-imf-forecast-of-6-5-gopinath/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmNmJlNjUwLTVmNTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-03T14:28:52Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Fuel price shield helping India and consumers to tackle West Asia crisis: Gita Gopinath",
-      "description": "The government is already supporting the economy amid the ongoing West Asia crisis by not allowing the full impact of rising global oil prices to be passed on to consumers, according to Gita Gopinath, former Deputy Managing Director of the International Monetary Fund (IMF).",
-      "url": "https://www.tribuneindia.com/news/business/fuel-price-shield-helping-india-and-consumers-to-tackle-west-asia-crisis-gita-gopinath/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmYTNiZjMwLTVmNTgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-03T14:28:52Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Trade Setup for June 4: Nifty continues to make lower lows raising questions on intraday recovery",
-      "description": "Market participants will closely track crude oil prices, FII flows, rupee movement and the outcome of the RBI Monetary Policy Committee meeting for further direction.",
-      "url": "https://www.cnbctv18.com/market/trade-setup-for-june-4-nifty-continues-to-make-lower-lows-raising-questions-on-intraday-recovery-ws-l-19918931.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/03/5-million-48-2026-03-38bf130b05371c9f1aaeaa1f53db66ce.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-03T14:25:18Z",
-      "source": {
-        "name": "CNBC TV18"
+        "name": "The Financial Express"
       }
     }
   ]
