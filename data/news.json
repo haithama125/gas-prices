@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-05T02:30:22+00:00",
+  "updated_at": "2026-06-05T09:30:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Thursday, 4 June",
-      "description": "Use our interactive widget to fill your car for less",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34067077",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article33711484.ece/ALTERNATES/s1200d/5_Middle-East-conflict.jpg",
-      "publishedAt": "2026-06-04T14:30:15Z",
+      "title": "Wall Street ends mixed as Broadcom drags tech, European stocks gain; oil dips",
+      "description": "Global stocks inched higher in choppy trading on Thursday, with European gains followed by a mixed session on Wall Street as investors weighed a snag in AI momentum, while oil prices fell, dragged by...",
+      "url": "https://www.marketscreener.com/news/wall-street-ends-mixed-as-broadcom-drags-tech-european-stocks-gain-oil-dips-ce7f5ddddb89f522",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-03T210301Z_1_LYNXMPEM521NR_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-06-04T21:08:20Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Most US stocks rise as oil prices ease, but slumping AI stars weigh on Wall Street",
-      "description": "AI winners are giving back some of their big recent runs, leaving the U.S. market mixed as oil prices ease",
-      "url": "https://www.barchart.com/story/news/2295088/the-dow-jumps-800-points-as-oil-prices-ease-but-slumping-ai-stocks-keep-wall-street-in-check",
+      "title": "Global Stocks Surge Amid Mixed US Performance and AI Setback",
+      "description": "Global stocks rose with diverse movements in the US as AI momentum slowed. Notable declines were seen in Broadcom, impacting semiconductor stocks. Despite efforts for a ceasefire between Israel and Lebanon, oil prices fell. Meanwhile, fluctuations were observed in currency and gold markets.",
+      "url": "https://www.devdiscourse.com/article/business/3930426-global-stocks-surge-amid-mixed-us-performance-and-ai-setback",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_07_59_57_0674742.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-04T21:07:22Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Tradiing Day: Who needs tech?",
+      "description": "Investors on Thursday latched onto the more encouraging aspects of mixed signals surrounding an end to war in the Middle East, pushing stocks higher and oil prices lower. Worries over AI weighed on...",
+      "url": "https://www.marketscreener.com/news/tradiing-day-who-needs-tech-ce7f5dddd880f123",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-04T210138Z_1_LYNXMPEM531MS_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-06-04T21:02:40Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Trading Day: Who needs tech?",
+      "description": "Investors on Thursday latched onto the more encouraging aspects of mixed signals surrounding an end to war in the Middle East, pushing stocks higher and oil prices lower. Worries over AI weighed on tech, but other sectors did the heavy lifting, as attention now turns to U.S. employment data on Friday.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-06-04/",
+      "image": "https://www.reuters.com/resizer/v2/RL52ZNCXDNMT3FSQUGIBNOSL6Q.jpg?auth=4d10df3302f812512581fe7b522f41a40f23ed204df7e3081246c3106bab8e70&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-04T21:01:52Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "TRADING DAY-Who needs tech?",
+      "description": "Investors on\nThursday latched onto the more encouraging aspects of mixed\nsignals surrounding an end to war in the Middle East, pushing\nstocks higher and oil prices lower. Worries over AI weighed...",
+      "url": "https://www.marketscreener.com/news/trading-day-who-needs-tech-ce7f5dddd880f223",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-06-04T21:01:22Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Dow hits record as oil prices ease and non-AI stocks flourish",
+      "description": "Wall Street rallied after falling oil prices and yields in the bond market eased the pressure on U.S. stocks",
+      "url": "https://www.inquirer.com/business/stocks-dow-new-high-oil-prices-ease-20260604.html",
+      "image": "https://www.inquirer.com/resizer/v2/KYTVRZKBFR6DV5XON5E2QANJUE.jpg?auth=851cafefee9dae39a3d0978fb6f357dccfa26e183594b0982c47c8448dc4e97d&width=760&height=507&smart=true",
+      "publishedAt": "2026-06-04T20:34:49Z",
+      "source": {
+        "name": "The Philadelphia Inquirer"
+      }
+    },
+    {
+      "title": "The Dow leaps to a record as oil prices ease and stocks outside of AI rally",
+      "description": "Wall Street rallied after falling oil prices and yields in the bond market eased the pressure on U.S. stocks",
+      "url": "https://www.latimes.com/business/story/2026-06-04/dow-leaps-to-record-as-oil-prices-ease-stocks-outside-of-ai-rally",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/0a8b45f/2147483647/strip/true/crop/5528x2902+0+391/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F3e%2F78%2Fea372a274139b136fdb93df541d1%2F13094d706972420ba034c04ba856a582.jpg",
+      "publishedAt": "2026-06-04T20:24:29Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "The Dow leaps to a record as oil prices ease and US stocks outside of AI rally",
+      "description": "Wall Street rallied after falling oil prices and yields in the bond market eased the pressure on U.S. stocks",
+      "url": "https://www.barchart.com/story/news/2295088/the-dow-leaps-to-a-record-as-oil-prices-ease-and-us-stocks-outside-of-ai-rally",
       "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b0469f2386b04a159383224a6131b830/b0469f2386b04a159383224a6131b830_main_financial_markets_wall_street_57684.jpg",
-      "publishedAt": "2026-06-04T14:23:35Z",
+      "publishedAt": "2026-06-04T20:17:57Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "India to launch E85 fuel on World Environment Day",
-      "description": "About 500 petrol pumps across Delhi-NCR, Mumbai, Pune, and Nagpur will dispense E85, a fuel blend containing 85% ethanol and 15% petrol, by the end of 2026.",
-      "url": "https://www.businesstoday.in/auto/story/india-to-launch-e85-fuel-on-world-environment-day-534992-2026-06-04",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a218730b0a91-hardeep-singh-puri-on-e85-fuel-040947609-16x9.jpg",
-      "publishedAt": "2026-06-04T14:11:32Z",
+      "title": "Trump Alone Can Fix Gas Prices-But Not Likely This Summer",
+      "description": "For many Americans, summer getaways will be shorter in length and closer to home\u2014as higher gas prices keep them from costlier vacations.",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/04/gas-prices-summer-vacations-trump/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a21d77ba574b4706a8d3ea9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-06-04T20:08:00Z",
       "source": {
-        "name": "Business Today"
+        "name": "Forbes"
       }
     },
     {
-      "title": "Horror as woman dragged out of family car, held at gunpoint and gang-raped",
-      "description": "The woman was attacked after her car ran out of petrol on a motorway.",
-      "url": "https://www.express.co.uk/news/world/2213342/horror-woman-dragged-out-family",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/78/1200x630/6960650.jpg",
-      "publishedAt": "2026-06-04T14:08:00Z",
+      "title": "Treasuries rise as oil signals optimism on Iran peace accord",
+      "description": "The moves in US government debt pushed yields lower on Thursday by two to four basis points across maturities as oil prices declined.",
+      "url": "https://www.moneycontrol.com/news/business/treasuries-rise-as-oil-signals-optimism-on-iran-peace-accord-13941604.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260527212118_crudeoilrtr7.png",
+      "publishedAt": "2026-06-04T19:48:45Z",
       "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Oil execs warn Trump that Iran war will cause gas prices to spike within weeks due to dwindling supplies: report",
-      "description": "President Trump and administration officials have insisted gas prices will come down as soon as the war ends, but there is no deadline in sight",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/oil-gas-prices-iran-war-trump-b2989615.html",
-      "image": "https://static.independent.co.uk/2026/06/04/11/2265772627..?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-06-04T14:07:18Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Surging Gas Prices Are Hitting the Pentagon: Most Affected Equipment",
-      "description": "More than three months of war in the Middle East have wreaked havoc with global oil prices, and the Pentagon isn't immune.",
-      "url": "https://www.newsweek.com/surging-gas-prices-are-hitting-pentagon-most-affected-equipment-12030530",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/06/AP19290312753496-1.jpg?w=1200&crop=1",
-      "publishedAt": "2026-06-04T13:46:44Z",
-      "source": {
-        "name": "Newsweek"
-      }
-    },
-    {
-      "title": "Slumping AI stocks weigh on Wall Street, even as oil price ease",
-      "description": "AI winners are giving back some of their big recent runs, leaving the U.S. market mixed as oil prices ease",
-      "url": "https://www.barchart.com/story/news/2295088/slumping-ai-stocks-weigh-on-wall-street-even-as-oil-price-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b0469f2386b04a159383224a6131b830/b0469f2386b04a159383224a6131b830_main_financial_markets_wall_street_57684.jpg",
-      "publishedAt": "2026-06-04T13:44:44Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Slumping AI stocks weigh on Wall Street, even as oil price ease",
-      "description": "AI winners are giving back some of their big recent runs, leaving the U.S. market mixed as oil prices ease",
-      "url": "https://www.barchart.com/story/news/2295088/most-us-stocks-rise-as-oil-prices-ease-but-slumping-ai-stars-weigh-on-wall-street",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b0469f2386b04a159383224a6131b830/b0469f2386b04a159383224a6131b830_main_financial_markets_wall_street_57684.jpg",
-      "publishedAt": "2026-06-04T13:44:44Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Slumping AI stocks weigh on Wall Street",
-      "description": "Artificial intelligence winners are giving back some of their big recent runs, leaving the U.S. market mixed as oil prices ease.",
-      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/06/04/slumping-ai-stocks-weigh-on-wall-street-even-as-oil-price-ease/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/PGPPMS274ZFL5BNJQBLYDNKBEA.jpg?smart=true&auth=d2cb07ac01a9c7f3a49affe5e7eafe184aa85f7577134807bc833bec935d89a9&width=1200&height=630",
-      "publishedAt": "2026-06-04T13:41:10Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Slumping AI stocks weigh on Wall Street",
-      "description": "Artificial intelligence winners are giving back some of their big recent runs, leaving the U.S. market mixed as oil prices ease.",
-      "url": "https://www.cp24.com/news/money/2026/06/04/slumping-ai-stocks-weigh-on-wall-street-even-as-oil-price-ease/",
-      "image": "https://www.cp24.com/resizer/v2/PGPPMS274ZFL5BNJQBLYDNKBEA.jpg?smart=true&auth=d2cb07ac01a9c7f3a49affe5e7eafe184aa85f7577134807bc833bec935d89a9&width=1200&height=630",
-      "publishedAt": "2026-06-04T13:41:10Z",
-      "source": {
-        "name": "CP24 Toronto"
+        "name": "Moneycontrol"
       }
     }
   ]
