@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-05T19:41:47+00:00",
+  "updated_at": "2026-06-06T02:09:41+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Global Markets: Australia shares log worst week in nearly a month with US-Iran talks stuck in limbo",
-      "description": "Australian shares experienced their worst week in nearly a month, with the S&P/ASX 200 index closing down 0.7% on Friday. Escalating U.S.-Iran tensions and conflicting Middle East headlines left investors uneasy, prompting profit-taking and a reassessment of risks from high oil prices and geopolitical instability. Financials and resources sectors saw significant declines.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australia-shares-log-worst-week-in-nearly-a-month-with-us-iran-talks-stuck-in-limbo/articleshow/131524855.cms",
-      "image": "https://img.etimg.com/thumb/msid-131524913,width-1200,height-630,imgsize-198298,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-05T07:20:00Z",
+      "title": "High gas prices are slowly changing how we car shop",
+      "description": "The hike in gas prices is enough to make people search for more fuel-efficient cars. And that\u2019s precisely what they\u2019re doing \u2014 searching. But what about buying?",
+      "url": "https://www.ajc.com/news/2026/06/high-gas-prices-are-changing-how-we-car-shop-but-slowly/",
+      "image": "https://images.ajc.com/resizer/v2/CXRQHVM6KBAVFNY3SXRDANQDAU.jpeg?auth=068c9e8591452b4165f7cde6a6714530b34e365a284993c08e937f7d92caae0e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-05T14:00:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Maruti WagonR flex fuel: How does the technology actually work? Simply explained",
-      "description": "Flex fuel is expected to cut tailpipe emissions by up to 70 to 75 percent compared to regular petrol.",
-      "url": "https://zeenews.india.com/auto/maruti-wagonr-flex-fuel-how-does-the-technology-actually-work-simply-explained-3052956.html",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/05/1951567-maruti-wagonr-flex-fuel.jpg",
-      "publishedAt": "2026-06-05T07:14:12Z",
+      "title": "Measure Discounting Gasoline for Service Members Advances in Congress",
+      "description": "House lawmakers moved a measure this week to lower gas prices at military exchanges, making fuel cheaper for U.S. service men and women.",
+      "url": "https://www.breitbart.com/politics/2026/06/05/measure-discounting-gasoline-service-members-advances-congress/",
+      "image": "https://media.breitbart.com/media/2026/06/female-soldier-in-vehicle-640x335.jpg",
+      "publishedAt": "2026-06-05T13:56:44Z",
       "source": {
-        "name": "Zee News"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "World Environment Day: India Begins E85 Fuel Rollout, Cleaner Mobility Push Gains Momentum",
-      "description": "India starts phased rollout of E85 fuel across major cities, boosting ethanol blending in petrol and supporting cleaner mobility and reduced crude oil dependence.",
-      "url": "https://www.outlookbusiness.com/industry/world-environment-day-india-begins-e85-fuel-rollout-cleaner-mobility-push-gains-momentum",
-      "image": "https://media.assettype.com/outlookbusiness/2026-06-05/d26c2ggm/JJ.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-05T07:03:43Z",
+      "title": "Payroll Growth Up In May As Labor Market Strengthens - What\u2019s Going On?",
+      "description": "payroll growth, unemployment, labor force, inflation, oil prices, interest rates",
+      "url": "https://www.forbes.com/sites/harryholzer/2026/06/05/payroll-growth-up-in-may-as-labor-market-strengthenswhats-going-on/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a22d09ea4f83d8502268912/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-06-05T13:44:12Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "Forbes"
       }
     },
     {
-      "title": "RBI Cuts FY27 Growth Forecast to 6.6% Amid West Asia Risks",
-      "description": "The RBI has lowered its FY27 GDP growth forecast to 6.6 percent from 6.9 percent, citing risks from the West Asia conflict, high crude oil prices and weather-related uncertainties. Despite the downgrade, the central bank said domestic demand remains resilient and kept the repo rate unchanged at 5.25 percent",
-      "url": "https://www.freepressjournal.in/business/rbi-cuts-fy27-growth-forecast-to-66-amid-west-asia-risks",
-      "image": "https://media.assettype.com/freepressjournal/2025-04-14/p5khg831/GDP.jpg",
-      "publishedAt": "2026-06-05T06:58:40Z",
+      "title": "Renault Duster SUV fuel-efficiency revealed: More efficient than these SUVs!",
+      "description": "Cars News: Renault India today announced an ARAI-certified fuel-efficiency figure of 19.41kmpl for the Duster\u2019s 1.0-litre Turbo TCe 100 petrol engine, making it .",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/renault-duster-suv-fuel-efficiency-revealed-more-efficient-than-these-suvs/articleshow/131533281.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131533284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-05T13:39:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Times of India"
       }
     },
     {
-      "title": "RBI MPC: India's Goldilocks moment dims, but the lights are not out",
-      "description": "India's economic \"Goldilocks moment\" is shifting as the RBI raises its inflation forecast and lowers growth projections due to external shocks like the West Asia conflict and elevated oil prices. Despite these headwinds, the central bank believes strong domestic fundamentals, including resilient consumption and investment, will help cushion the blow.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-indias-goldilocks-moment-dims-but-the-lights-are-not-out/articleshow/131524218.cms",
-      "image": "https://img.etimg.com/thumb/msid-131524169,width-1200,height-630,imgsize-41362,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-05T06:47:00Z",
+      "title": "Cashier of a petrol pump booked for using fake number plate on his scooter",
+      "description": "Hyderabad police booked a petrol pump cashier for using a fake number plate, leading to traffic fines for an innocent owner.",
+      "url": "https://www.thehindu.com/news/national/telangana/cashier-of-a-petrol-pump-booked-for-using-fake-number-plate-on-his-scooter/article71065654.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "publishedAt": "2026-06-05T13:36:36Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
-      "description": "Global economic outlook darkens with stagflation fears as energy prices fuel persistent inflation. Experts warn central banks may keep interest rates high longer than anticipated. Geopolitical tensions, particularly concerning Iran, are prolonging market uncertainty and could push oil prices back into triple digits, impacting global economic stability.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523749.cms",
-      "image": "https://img.etimg.com/thumb/msid-131523732,width-1200,height-630,imgsize-55686,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-05T06:30:00Z",
+      "title": "Hero Splendor Plus Flex Fuel: Everything You Need To Know Before Buying",
+      "description": "Hero MotoCorp recently launched the Splendor Plus Flex Fuel in India. The bike is capable of running on petrol blended with up to 85% ethanol. Here's all you need to know about it before buying., Bike News, Times Now",
+      "url": "https://www.timesnownews.com/auto/bike-news/hero-splendor-plus-flex-fuel-everything-you-need-to-know-before-buying-article-154466596",
+      "image": "https://images.timesnownews.com/thumb/msid-154466596,width-1280,height-720,resizemode-75/154466596.jpg",
+      "publishedAt": "2026-06-05T13:31:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Stagflation risks rise as oil prices threaten global growth outlook: Peter Cardillo",
-      "description": "Global economic outlook darkens with stagflation fears as energy prices fuel persistent inflation. Experts warn central banks may keep interest rates high longer than anticipated. Geopolitical tensions, particularly concerning Iran, are prolonging market uncertainty and could push oil prices back into triple digits, impacting global economic stability.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/stagflation-risks-rise-as-oil-prices-threaten-global-growth-outlook-peter-cardillo/articleshow/131523767.cms",
-      "image": "https://img.etimg.com/thumb/msid-131523732,width-1200,height-630,imgsize-55686,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-05T06:30:00Z",
+      "title": "FinMin won\u2019t revise FY27 GDP, inflation forecasts amid Iran war; RBI estimates \u2018fair\u2019: CEA",
+      "description": "Finance Ministry will not issue separate growth and inflation projections for FY27, says Anantha Nageswaran. Flags oil prices, supply disruptions and weather risks as key uncertainties",
+      "url": "https://www.moneycontrol.com/news/business/economy/finmin-won-t-revise-fy27-gdp-inflation-forecasts-amid-iran-war-rbi-estimates-fair-cea-13942377.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2023/01/WhatsApp-Image-2023-01-31-at-2.14.54-PM.jpeg",
+      "publishedAt": "2026-06-05T13:09:37Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "RBI MPC Meeting 2026: Five key takeaways from Governor Malhotra's policy statement",
-      "description": "The RBI kept the repo rate unchanged at 5.25 per cent and retained its neutral stance, but Governor Sanjay Malhotra's policy statement carried key signals on slowing growth, rising inflation, elevated crude oil prices, monsoon risks and measures to attract foreign capital",
-      "url": "https://www.firstpost.com/business/rbi-mpc-meeting-2026-five-key-takeaways-governor-malhotra-policy-statement-14019146.html",
-      "image": "https://images.firstpost.com/uploads/2026/06/AFP__20250606__49FC8UJ__v1__MidRes__IndiaEconomyRate-1-2026-06-c4a158426700cec190cd3c2cf41829aa.jpg?im=FitAndFill=(1200,675)",
-      "publishedAt": "2026-06-05T06:21:55Z",
+      "title": "Petrol Prices Under Fluctuations Globally, Gas Supply Chains Collapsing: PM Modi",
+      "description": "The Prime Minister recalled that he had previously described the current period as a \"decade of disasters\" for the world; pointing to the COVID-19 pandemic as the first major shock, followed by wars in different regions.",
+      "url": "https://www.ndtvprofit.com/economy/petrol-prices-under-fluctuations-globally-gas-supply-chains-collapsing-pm-modi-11596442",
+      "image": "https://c.ndtvimg.com/2026-06/ls95rias_ssssss_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-05T13:02:29Z",
       "source": {
-        "name": "Firstpost"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "pronged dollar inflow package as rupee faces external pressures",
-      "description": "The move comes at a time when the rupee has been weighed down by rising crude oil prices, geopolitical tensions in West Asia, and persistent foreign portfolio flows. The Indian currency has depreciated sharply by over 6% this year.",
-      "url": "https://www.cnbctv18.com/market/currency/rbi-unveils-multi-pronged-dollar-inflow-package-as-rupee-faces-external-pressures-ws-el-19920141.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-82d3936de9495c5f01c591026c0309f5.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-05T06:21:49Z",
+      "title": "What is the claimed fuel-efficiency of the Renault Duster 1-litre manual?",
+      "description": "Renault India has revealed the ARAI-certified fuel-efficiency of the new Duster 1.0-litre turbo-petrol manual at 19.41kmpl, making it the most economical version of the SUV ahead of its India launch.",
+      "url": "https://www.indiatoday.in/auto/cars/story/what-is-the-claimed-fuel-efficiency-of-the-renault-duster-1-litre-manual-2922549-2026-06-05",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/renault-duster-014207270-16x9.jpg?VersionId=5LEJqNje0IRylpiD4vg9BFGPH2o5Fat6",
+      "publishedAt": "2026-06-05T13:00:36Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "India Today"
       }
     },
     {
-      "title": "RBI worries higher energy costs could fuel inflation, slow growth",
-      "description": "RBI MPC Meeting 2026 Crude Oil Price Impact on Inflation: India's headline inflation may rise by 36 basis points due to higher petrol and diesel prices. The Reserve Bank of India warns that elevated energy costs and supply disruptions will impact economic activity. Global factors are also contributing to broader inflationary pressures. The central bank has maintained its key repo rate and policy stance.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-says-fuel-price-hikes-may-add-36-bps-to-inflation-flags-growth-risks-from-energy-costs/articleshow/131522201.cms",
-      "image": "https://img.etimg.com/thumb/msid-131523018,width-1200,height-630,imgsize-193040,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-05T05:57:00Z",
+      "title": "Maruti Suzuki unveils Wagon R Flex Fuel, India\u2019s first flex-fuel car that will run on petrol blended with 85% ethanol",
+      "description": "There are no major changes to the car's design, but several mechanical upgrades have been made to make it compatible with E85 fuel. - Maruti Suzuki unveils Wagon R Flex Fuel, India\u2019s first flex-fuel car that will run on petrol blended with 85% ethanol",
+      "url": "https://www.india.com/business/maruti-suzuki-unveils-wagon-r-flex-fuel-indias-first-flex-fuel-car-that-will-run-on-petrol-blended-with-85-ethanol-ola-uber-e85-fuel-cng-8437457/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/QT-wagon-r.jpg",
+      "publishedAt": "2026-06-05T12:40:26Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "India.com"
       }
     }
   ]
