@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-06T02:09:41+00:00",
+  "updated_at": "2026-06-06T08:24:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "High gas prices are slowly changing how we car shop",
-      "description": "The hike in gas prices is enough to make people search for more fuel-efficient cars. And that\u2019s precisely what they\u2019re doing \u2014 searching. But what about buying?",
-      "url": "https://www.ajc.com/news/2026/06/high-gas-prices-are-changing-how-we-car-shop-but-slowly/",
-      "image": "https://images.ajc.com/resizer/v2/CXRQHVM6KBAVFNY3SXRDANQDAU.jpeg?auth=068c9e8591452b4165f7cde6a6714530b34e365a284993c08e937f7d92caae0e&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-05T14:00:00Z",
+      "title": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates",
+      "description": "The U.S. stock market had its worst day since October as a sell-off in big technology companies weighed down the broader market. Bond yields surged as a strong jobs report boosted expectations that the Federal Reserve will be forced to hike interest rates at some point this year. The S&P 500 slumped 2.6% Friday, finishing with its first losing week in the last 10. The Dow Jones Industrial Average fell 695 points, or 1.4%. The Nasdaq composite fell 4.2%. Nvidia and Broadcom were among the heaviest weights on the market. The Labor Department reported that employers added 172,000 jobs in May, roughly double what forecasters had expected. Oil prices fell.",
+      "url": "https://www.ajc.com/news/2026/06/stocks-slump-as-big-tech-sinks-and-a-strong-may-jobs-report-boosts-odds-for-higher-interest-rates/",
+      "image": "https://images.ajc.com/resizer/v2/NWJ4W56ENVCI5NQI3M6OSFOUIY.jpg?auth=f71e8a781d6a29f2eee452d92ee816981fc0523521747a475bc34da8fa4a94d9&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-05T20:11:40Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Measure Discounting Gasoline for Service Members Advances in Congress",
-      "description": "House lawmakers moved a measure this week to lower gas prices at military exchanges, making fuel cheaper for U.S. service men and women.",
-      "url": "https://www.breitbart.com/politics/2026/06/05/measure-discounting-gasoline-service-members-advances-congress/",
-      "image": "https://media.breitbart.com/media/2026/06/female-soldier-in-vehicle-640x335.jpg",
-      "publishedAt": "2026-06-05T13:56:44Z",
+      "title": "The US job market is strong but many Americans are still frustrated by prospects and rising prices",
+      "description": "WASHINGTON \u2014 The American job market continues to show surprising strength \u2014 good news for President Donald Trump who has\u00a0taken a beating\u00a0in the polls over the surging\u00a0gasoline prices\u00a0that followed U.S. and Israeli\u00a0attacks on Iran.",
+      "url": "https://www.manilatimes.net/2026/06/06/world/the-us-job-market-is-strong-but-many-americans-are-still-frustrated-by-prospects-and-rising-prices/2359845",
+      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/06/1087783.jpg",
+      "publishedAt": "2026-06-05T20:05:00Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Payroll Growth Up In May As Labor Market Strengthens - What\u2019s Going On?",
-      "description": "payroll growth, unemployment, labor force, inflation, oil prices, interest rates",
-      "url": "https://www.forbes.com/sites/harryholzer/2026/06/05/payroll-growth-up-in-may-as-labor-market-strengthenswhats-going-on/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a22d09ea4f83d8502268912/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-06-05T13:44:12Z",
-      "source": {
-        "name": "Forbes"
-      }
-    },
-    {
-      "title": "Renault Duster SUV fuel-efficiency revealed: More efficient than these SUVs!",
-      "description": "Cars News: Renault India today announced an ARAI-certified fuel-efficiency figure of 19.41kmpl for the Duster\u2019s 1.0-litre Turbo TCe 100 petrol engine, making it .",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/renault-duster-suv-fuel-efficiency-revealed-more-efficient-than-these-suvs/articleshow/131533281.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131533284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-05T13:39:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Cashier of a petrol pump booked for using fake number plate on his scooter",
-      "description": "Hyderabad police booked a petrol pump cashier for using a fake number plate, leading to traffic fines for an innocent owner.",
-      "url": "https://www.thehindu.com/news/national/telangana/cashier-of-a-petrol-pump-booked-for-using-fake-number-plate-on-his-scooter/article71065654.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-06-05T13:36:36Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Hero Splendor Plus Flex Fuel: Everything You Need To Know Before Buying",
-      "description": "Hero MotoCorp recently launched the Splendor Plus Flex Fuel in India. The bike is capable of running on petrol blended with up to 85% ethanol. Here's all you need to know about it before buying., Bike News, Times Now",
-      "url": "https://www.timesnownews.com/auto/bike-news/hero-splendor-plus-flex-fuel-everything-you-need-to-know-before-buying-article-154466596",
-      "image": "https://images.timesnownews.com/thumb/msid-154466596,width-1280,height-720,resizemode-75/154466596.jpg",
-      "publishedAt": "2026-06-05T13:31:00Z",
+      "title": "Putin Talks Iran War At Russia's Davos: Nuclear Programme, Global Oil Prices, And More",
+      "description": "During the St. Petersburg International Economic Forum, President Putin addressed key issues regarding the Iran conflict, emphasizing Russia's support for Iran's right to a peaceful nuclear program. , World News, Times Now",
+      "url": "https://www.timesnownews.com/world/putin-talks-iran-war-at-russias-davos-nuclear-programme-global-oil-prices-and-more-article-154470312",
+      "image": "https://images.timesnownews.com/thumb/msid-154470312,width-1280,height-720,resizemode-75/154470312.jpg",
+      "publishedAt": "2026-06-05T20:00:08Z",
       "source": {
         "name": "Times Now"
       }
     },
     {
-      "title": "FinMin won\u2019t revise FY27 GDP, inflation forecasts amid Iran war; RBI estimates \u2018fair\u2019: CEA",
-      "description": "Finance Ministry will not issue separate growth and inflation projections for FY27, says Anantha Nageswaran. Flags oil prices, supply disruptions and weather risks as key uncertainties",
-      "url": "https://www.moneycontrol.com/news/business/economy/finmin-won-t-revise-fy27-gdp-inflation-forecasts-amid-iran-war-rbi-estimates-fair-cea-13942377.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2023/01/WhatsApp-Image-2023-01-31-at-2.14.54-PM.jpeg",
-      "publishedAt": "2026-06-05T13:09:37Z",
+      "title": "Iran threats against Red Sea are a big vulnerability for oil market",
+      "description": "Oil prices would spike if Iran's Houthi allies started attacking ships passing through the Bab el-Mandeb Strait.",
+      "url": "https://www.cnbc.com/2026/06/05/iran-war-oil-price-strait-hormuz-bab-el-mandeb-chokepoint.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108317632-1780685310186-gettyimages-2269014008-ed_602083.jpeg?v=1780685370&w=1920&h=1080",
+      "publishedAt": "2026-06-05T19:55:00Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "FAR expansion, tax relief may boost foreign bond inflows, but risks remain",
+      "description": "New government debt rules aim to attract foreign investment. Additional government securities are now accessible to foreign investors. Tax exemptions are also in place. These measures are expected to boost Indian debt appeal over time. However, immediate foreign inflows remain uncertain. Global events like oil prices and regional conflicts influence investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/far-expansion-tax-relief-may-boost-foreign-bond-inflows-but-risks-remain/articleshow/131540279.cms",
+      "image": "https://img.etimg.com/thumb/msid-131540279,width-1200,height-630,imgsize-23790,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-05T19:41:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Markets Tumble Amid Strong U.S. Jobs Data and Middle East Tensions",
+      "description": "The sharp decline in shares was prompted by a strong U.S. jobs report that increased the likelihood of a Federal Reserve rate hike, alongside tensions in the Middle East. Technology stocks, including Nvidia, led the sell-off. Meanwhile, oil prices were set for weekly gains, and major currencies experienced fluctuations.",
+      "url": "https://www.devdiscourse.com/article/business/3931018-markets-tumble-amid-strong-us-jobs-data-and-middle-east-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_15_36_39_2906988.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-05T19:37:31Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil Prices End The Week Lower On U.S.-Iran Diplomatic Moves",
+      "description": "Oil prices fell on Friday following new diplomatic overtures to bridge differences between the U.S. and Iran, as the global inflationary impact of the war continues.",
+      "url": "https://www.forbes.com/sites/gauravsharma/2026/06/05/oil-prices-end-the-week-lower-on-us-iran-diplomatic-moves/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/647e1c7fb99ff84056d81907/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-06-05T19:32:12Z",
+      "source": {
+        "name": "Forbes"
+      }
+    },
+    {
+      "title": "Trump says oil prices could drop 'maybe even lower than they were' after Hormuz crisis ends",
+      "description": "Trump also spoke briefly about Iran, but did not provide any new details about ongoing negotiations.",
+      "url": "https://www.moneycontrol.com/world/trump-says-oil-prices-could-drop-maybe-even-lower-than-they-were-after-hormuz-crisis-ends-article-13942534.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260604120008_Trump-Iran-7.jpg",
+      "publishedAt": "2026-06-05T19:27:11Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "Petrol Prices Under Fluctuations Globally, Gas Supply Chains Collapsing: PM Modi",
-      "description": "The Prime Minister recalled that he had previously described the current period as a \"decade of disasters\" for the world; pointing to the COVID-19 pandemic as the first major shock, followed by wars in different regions.",
-      "url": "https://www.ndtvprofit.com/economy/petrol-prices-under-fluctuations-globally-gas-supply-chains-collapsing-pm-modi-11596442",
-      "image": "https://c.ndtvimg.com/2026-06/ls95rias_ssssss_625x300_05_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-05T13:02:29Z",
+      "title": "Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+      "description": "GLOBAL-OIL:Oil prices fall on mounting hopes for de-escalation in US-Iran War",
+      "url": "https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "publishedAt": "2026-06-05T19:17:59Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "Livemint"
       }
     },
     {
-      "title": "What is the claimed fuel-efficiency of the Renault Duster 1-litre manual?",
-      "description": "Renault India has revealed the ARAI-certified fuel-efficiency of the new Duster 1.0-litre turbo-petrol manual at 19.41kmpl, making it the most economical version of the SUV ahead of its India launch.",
-      "url": "https://www.indiatoday.in/auto/cars/story/what-is-the-claimed-fuel-efficiency-of-the-renault-duster-1-litre-manual-2922549-2026-06-05",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/renault-duster-014207270-16x9.jpg?VersionId=5LEJqNje0IRylpiD4vg9BFGPH2o5Fat6",
-      "publishedAt": "2026-06-05T13:00:36Z",
+      "title": "Iran Peace Hopes and Weak China Oil Demand Hammers Crude Prices",
+      "description": "July WTI crude oil (CLN26 ) on Friday closed down -2.50 (-2.69%), and July RBOB gasoline (RBN26 ) closed up +0.0076 (+0.25%). Crude oil prices settled sharply lower on Friday amid hopes of a US-Iran peace settlement that would allow the reopening of...",
+      "url": "https://www.barchart.com/story/news/2331215/iran-peace-hopes-and-weak-china-oil-demand-hammers-crude-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-06-05T19:14:00Z",
       "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Maruti Suzuki unveils Wagon R Flex Fuel, India\u2019s first flex-fuel car that will run on petrol blended with 85% ethanol",
-      "description": "There are no major changes to the car's design, but several mechanical upgrades have been made to make it compatible with E85 fuel. - Maruti Suzuki unveils Wagon R Flex Fuel, India\u2019s first flex-fuel car that will run on petrol blended with 85% ethanol",
-      "url": "https://www.india.com/business/maruti-suzuki-unveils-wagon-r-flex-fuel-indias-first-flex-fuel-car-that-will-run-on-petrol-blended-with-85-ethanol-ola-uber-e85-fuel-cng-8437457/",
-      "image": "https://static.india.com/wp-content/uploads/2026/06/QT-wagon-r.jpg",
-      "publishedAt": "2026-06-05T12:40:26Z",
-      "source": {
-        "name": "India.com"
+        "name": "Barchart"
       }
     }
   ]
