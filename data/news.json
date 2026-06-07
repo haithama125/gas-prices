@@ -1,9 +1,29 @@
 {
-  "updated_at": "2026-06-07T08:44:27+00:00",
+  "updated_at": "2026-06-07T13:21:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "The US job market is strong but many Americans are still frustrated",
+      "description": "The American job market continues to show surprising strength \u2014 good news for President Donald Trump who has taken a beating in the polls over the surging gasoline prices that followed U.S. and Israeli attacks on Iran.",
+      "url": "https://www.chicagotribune.com/2026/06/06/us-may-job-market-report/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/06/Economy-Jobs-Report_81365.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-06T23:53:15Z",
+      "source": {
+        "name": "Chicago Tribune"
+      }
+    },
+    {
+      "title": "Escalating Tensions in the Strait: A Global Power Struggle",
+      "description": "The confrontation between the U.S. and Iran escalated further as U.S. forces struck Iranian radar sites following Iran's drone attacks. Despite ongoing indirect negotiations, tensions remain high, with key geopolitical regions and energy routes becoming major flashpoints. This conflict has worldwide ramifications, affecting oil prices and complicating international relations.",
+      "url": "https://www.devdiscourse.com/article/politics/3931420-escalating-tensions-in-the-strait-a-global-power-struggle",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_05_2025_09_58_00_74616.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-06T21:28:00Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
     {
       "title": "Domestic cylinder price increased by Rs 29, second rise in three months",
       "description": "LPG Price Hike News: The increase in LPG prices comes amid a broader rise in fuel costs. Petrol and diesel prices have been raised by a cumulative Rs 7.50 per litre since mid-May",
@@ -82,26 +102,6 @@
       "publishedAt": "2026-06-06T15:27:00Z",
       "source": {
         "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Crude Check: Upside Remains Capped",
-      "description": "Crude oil prices face resistance; further declines are likely, with key levels to watch for potential breakout opportunities.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-oil-futures-capped/article71067340.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/70d1vg/article71069096.ece/alternates/LANDSCAPE_1200/PO08_Crude_down.jpg",
-      "publishedAt": "2026-06-06T15:26:19Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "You can now buy THIS fuel for Rs 82 in Delhi; will it actually save you money?",
-      "description": "Delhi has launched its first E85 fuel station, with the ethanol-based fuel priced at Rs 82.12 per litre, Rs 20 cheaper than E20 petrol. The government plans to expand E85 availability nationwide, with 500 stations targeted by the end of 2026 and 5,000 by 2027.",
-      "url": "https://zeenews.india.com/mobility/you-can-now-buy-this-fuel-for-rs-82-in-delhi-will-it-actually-save-you-money-3053442.html",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/06/1952194-e85.jpg?im=FitAndFill=(1200,900)",
-      "publishedAt": "2026-06-06T15:20:28Z",
-      "source": {
-        "name": "Zee News"
       }
     }
   ]
