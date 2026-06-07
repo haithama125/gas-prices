@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-07T13:21:36+00:00",
+  "updated_at": "2026-06-07T19:06:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The US job market is strong but many Americans are still frustrated",
-      "description": "The American job market continues to show surprising strength \u2014 good news for President Donald Trump who has taken a beating in the polls over the surging gasoline prices that followed U.S. and Israeli attacks on Iran.",
-      "url": "https://www.chicagotribune.com/2026/06/06/us-may-job-market-report/",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/06/Economy-Jobs-Report_81365.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-06T23:53:15Z",
+      "title": "Same-sex marriage isn\u2019t the reason that gas prices are high",
+      "description": "This Pride month, Republicans are again looking for culture war scapegoats instead of policies that improve American lives.",
+      "url": "https://www.bostonglobe.com/2026/06/07/opinion/same-sex-marriage-culture-war-scapegoat/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/XGWVFXMMTN3VI4LCDL7XFPURDY.jpg?auth=79423db93817abaeeab8c7f9e2c7b58d3bb96d0e5806920a246fe0ad1f906190&width=1440",
+      "publishedAt": "2026-06-07T07:00:00Z",
       "source": {
-        "name": "Chicago Tribune"
+        "name": "The Boston Globe"
       }
     },
     {
-      "title": "Escalating Tensions in the Strait: A Global Power Struggle",
-      "description": "The confrontation between the U.S. and Iran escalated further as U.S. forces struck Iranian radar sites following Iran's drone attacks. Despite ongoing indirect negotiations, tensions remain high, with key geopolitical regions and energy routes becoming major flashpoints. This conflict has worldwide ramifications, affecting oil prices and complicating international relations.",
-      "url": "https://www.devdiscourse.com/article/politics/3931420-escalating-tensions-in-the-strait-a-global-power-struggle",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_05_2025_09_58_00_74616.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-06T21:28:00Z",
+      "title": "India can grow over 8% despite oil shocks, crude impact overblown in narrative: World Bank exec",
+      "description": "India's economy shows strong growth, defying fears of oil price shocks. Neelkanth Mishra, World Bank Executive Director, states India is well-positioned to handle higher oil prices. Domestic demand remains robust, with positive indicators in car sales and mall footfalls. India's refining capabilities offer a buffer, mitigating the impact of crude price increases. Growth is projected to remain strong, near 7.5-8%.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-can-grow-over-8-despite-oil-shocks-crude-impact-overblown-in-narrative-world-bank-executive-director-neelkanth-mishra/articleshow/131563094.cms",
+      "image": "https://img.etimg.com/thumb/msid-131563124,width-1200,height-630,imgsize-72522,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-07T06:54:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Domestic cylinder price increased by Rs 29, second rise in three months",
-      "description": "LPG Price Hike News: The increase in LPG prices comes amid a broader rise in fuel costs. Petrol and diesel prices have been raised by a cumulative Rs 7.50 per litre since mid-May",
-      "url": "https://www.moneycontrol.com/news/india/domestic-lpg-cylinder-price-increased-by-rs-29-second-hike-in-three-months-13942857.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260316140218_lpg-cylinder-cooking-gas.jpg",
-      "publishedAt": "2026-06-06T18:53:31Z",
+      "title": "New car tax bands confirmed - most petrol and diesel driver affected",
+      "description": "Petrol and diesel owners are being slapped with new car tax charges as new rates come into effect.",
+      "url": "https://www.express.co.uk/life-style/cars/2213276/new-car-tax-bands-vehicle-excise-duty-petrol-diesel",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6959765.jpg",
+      "publishedAt": "2026-06-07T06:53:00Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Domestic LPG price raised by Rs 29 per cylinder amid continued pressure on fuel retailers: Report",
-      "description": "Domestic cooking gas now costs Rs 942 in Delhi after latest hike, following earlier March increase; petrol, diesel and CNG prices also revised amid elevated glo",
-      "url": "https://www.newindianexpress.com/india/2026/Jun/06/domestic-lpg-price-raised-by-rs-29-per-cylinder-amid-continued-pressure-on-fuel-retailers-report",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2025-04-07%2Fpg9i25ln%2FLPG-PTI.JPG?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-06T18:36:06Z",
+      "title": "Ultraviolette Launches 'Kill The Petrol Bill' Programme; Offers Up To Rs 30,000 Cashback - Details",
+      "description": "Ultraviolette has launched the Kill The Petrol Bill' programme, offering cashback of up to Rs 30,000 to customers switching from petrol bikes.",
+      "url": "https://www.ndtv.com/auto/ultraviolette-launches-kill-the-petrol-bill-programme-offers-up-to-rs-30-000-cashback-details-11602375",
+      "image": "https://c.ndtvimg.com/2026-06/nbmdrf2_ultraviolette_625x300_07_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-07T06:46:40Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "NDTV.com"
       }
     },
     {
-      "title": "Why is Pentagon worried about Mossad? DNA examines reported US-Israel intelligence tensions",
-      "description": "The show also focused on India's launch of E-85 fuel, a blend consisting of 85 per cent ethanol and 15 per cent petrol. With sales beginning at select petrol pumps, the analysis explored the fuel's pricing compared to conventional petrol, its potential benefits and drawbacks, and the types of vehicles capable of using the new fuel blend.",
-      "url": "https://zeenews.india.com/india/why-is-pentagon-worried-about-mossad-dna-examines-reported-us-israel-intelligence-tensions-3053460.html",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/06/1952250-mixcollage-02-dec-2025-11-29-pm-1209.jpg?im=FitAndFill=(1200,900)",
-      "publishedAt": "2026-06-06T18:05:36Z",
+      "title": "Domestic LPG prices raised by Rs 29 per cylinder, second hike amid West Asia conflict",
+      "description": "The LPG price increase comes amid a broader rise in fuel prices across the country. Petrol and diesel prices have been increased by a cumulative Rs 7.50 per litre since mid-May, while CNG rates have risen by around Rs 6 per kg during the same period.",
+      "url": "https://www.thenewsminute.com/news/domestic-lpg-prices-raised-by-rs-29-per-cylinder-second-hike-amid-west-asia-conflict",
+      "image": "https://cf-images.assettype.com/thenewsminute%2F2026-06-07%2Fvildqny3%2FLPGrep19052022.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-06-07T05:53:23Z",
       "source": {
-        "name": "Zee News"
+        "name": "The News Minute"
       }
     },
     {
-      "title": "Maharashtra Govt Alerts Machinery Over Rising Petrol Purchases, Orders Daily Monitoring Of Sales",
-      "description": "Maharashtra government has directed officials to monitor daily petroleum sales and transportation after noticing increased purchases. The food and civil supplies department invoked 2005 provisions empowering officials to act against illegal storage, black marketing, adulteration and overcharging.",
-      "url": "https://www.freepressjournal.in/mumbai/maharashtra-govt-alerts-machinery-over-rising-petrol-purchases-orders-daily-monitoring-of-sales",
-      "image": "https://media.assettype.com/freepressjournal/2026-03-27/e5vks96r/Petrol-ban.jpg",
-      "publishedAt": "2026-06-06T17:54:59Z",
+      "title": "Indian households continue to pay among the lowest cooking gas prices in the world: Petroleum Ministry",
+      "description": "The Indian household continues to buy cooking gas much cheaper than the household in any neighbouring country, and far below the price paid in advanced economies such as the United States, Australia and Canada, the Ministry of Petroleum and Natural Gas said on Sunday, noting that a beneficiary of the Pradhan Mantri Ujjwala Yojana (PMUY) pays an effective Rs 642 for a 14.2 kg cylinder, and the general consumer in Delhi Rs 942, against a cost to supply that has now risen to over Rs 1,600.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indian-households-continue-to-pay-among-the-lowest-cooking-gas-prices-in-the-world-petroleum-ministry/articleshow/131562239.cms",
+      "image": "https://img.etimg.com/thumb/msid-131562249,width-1200,height-630,imgsize-226832,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-07T05:06:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "\u2018US has more oil, gas, coal than any other country\u2019, says Trump",
-      "description": "Trump stated that the US has the largest energy resources globally, emphasizing success with Venezuela and Iran. He noted rising oil prices but expressed confidence they would drop as oil supply increases, while highlighting US military actions against Iranian threats in the Strait of Hormuz.",
-      "url": "https://www.livemint.com/news/us-news/us-has-more-oil-gas-coal-than-any-other-country-says-trump-11780766586891.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/06/1600x900/logo/TRUMP-TRAVELS-TO-WISCONSIN_1780766678741_1780766678859_aafb000a-6af5-430e-8fe4-71364e3d2b87.jpg",
-      "publishedAt": "2026-06-06T17:27:44Z",
+      "title": "'India's Cooking Gas Prices Remain Lowest in the World': Petroleum Ministry Amid LPG Hike",
+      "description": "India News: Despite a Rs 29 increase in domestic LPG prices, India's cooking gas costs remain among the lowest globally. The Petroleum Ministry reveals that household subsidies help maintain affordability, even as international prices soar due to the West Asia crisis.",
+      "url": "https://timesofindia.indiatimes.com/india/indian-households-pay-lowest-cooking-gas-prices-in-world-petroleum-ministry-after-lpg-hike/articleshow/131562171.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131562232,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-07T05:04:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Renault Duster Turbo 1.0 mileage revealed: Is it more efficient than Creta and Seltos?",
-      "description": "The newly confirmed rating puts the 1.0-litre turbo petrol variant at 19.41 km/l, making it one of the more fuel-efficient petrol-powered SUVs in the midsize category.",
-      "url": "https://zeenews.india.com/auto/renault-duster-turbo-1-0-mileage-revealed-is-it-more-efficient-than-creta-and-seltos-3053445.html",
-      "image": "https://english.cdn.zeenews.com/sites/default/files/2026/06/06/1952197-duster-6.jpg?im=FitAndFill=(1200,900)",
-      "publishedAt": "2026-06-06T15:59:03Z",
+      "title": "Indian Households Continue to Pay Among the Lowest Cooking Gas Prices in the World: Petroleum Ministry",
+      "description": "Domestic LPG prices have been increased by Rs 29 per cylinder from Sunday amid the rise in cost due to the West Asia crisis.",
+      "url": "https://www.republicworld.com/india/indian-households-continue-to-pay-among-the-lowest-cooking-gas-prices-in-the-world-petroleum-ministry-2026-06-07-127234",
+      "image": "https://img.republicworld.com/all_images/2026/06/lpgcylinderregisterednumberupdate-1778919631545-file_16_9-1780807623518.webp",
+      "publishedAt": "2026-06-07T04:47:06Z",
       "source": {
-        "name": "Zee News"
+        "name": "Republic World"
       }
     },
     {
-      "title": "Rising gas prices are shaping summer plans with US boaters slower to hit the water",
-      "description": "Diesel fuel prices average 53% higher than a year ago",
-      "url": "https://www.independent.co.uk/news/world/americas/summer-boating-gas-prices-lake-vacations-b2991062.html",
-      "image": "https://static.independent.co.uk/2026/06/06/15/26/iStock-1325801443.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-06-06T15:39:19Z",
+      "title": "Petrol, Diesel prices today, June 7: Check prices in Delhi, Mumbai, Kolkata, Chennai, Hyderabad",
+      "description": "In Delhi, petrol has crossed \u20b9100 per litre, while diesel is priced at \u20b995.20\u00a0per litre.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-7-check-prices-in-delhi-mumbai-kolkata-chennai-hyderabad-535410-2026-06-07",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a24f1468d5ba-fuel-prices-at-the-pump-are-shaped-by-a-combination-of-global--economic--and-domestic-factors-071912701-16x9.jpg",
+      "publishedAt": "2026-06-07T04:20:45Z",
       "source": {
-        "name": "The Independent"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Tesco, Sainsbury\u2019s, Morrisons, Asda drivers warned over supermarket petrol prices",
-      "description": "Petrol this week has been closing in on the 159.0p-a-litre high of mid-April",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/tesco-sainsburys-morrisons-asda-drivers-34044082",
-      "image": "https://i2-prod.birminghammail.co.uk/article34044125.ece/ALTERNATES/s1200d/0_tesco.jpg",
-      "publishedAt": "2026-06-06T15:27:00Z",
+      "title": "FIIs, weak global cues among 5 factors that could keep D-St under pressure this week",
+      "description": "Indian stock markets may remain under pressure this week amid persistent FII selling, weak global cues, rising geopolitical tensions in West Asia and elevated crude oil prices. While RBIs policy measures and steps to attract foreign capital could support sentiment, investors will closely track monsoon progress, inflation concerns, global market trends and institutional flows for further market direction.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-weak-global-cues-among-5-factors-that-could-keep-d-st-under-pressure-this-week/articleshow/131561835.cms",
+      "image": "https://img.etimg.com/thumb/msid-131561839,width-1200,height-630,imgsize-13770,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-07T04:09:00Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Economic Times"
       }
     }
   ]
