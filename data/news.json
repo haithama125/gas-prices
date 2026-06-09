@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-09T02:06:42+00:00",
+  "updated_at": "2026-06-09T09:00:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Markets slide 1% as renewed Iran-Israel tensions lift crude oil prices",
-      "description": "Benchmark indices post their steepest decline in over two months as rising crude prices, geopolitical uncertainty and global risk aversion dampen investor sentiment",
-      "url": "https://www.business-standard.com/markets/news/markets-slide-1-as-renewed-iran-israel-tensions-lift-crude-oil-prices-126060801052_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/10/thumb/fitandfill/1200X628/1775842301-3458.jpg",
-      "publishedAt": "2026-06-08T14:05:22Z",
+      "title": "Increased gas prices are straining North Texas families",
+      "description": "Continuously high gas prices in North Texas are causing some residents to face financial hardships. Local nonprofits are working to ease the need.",
+      "url": "https://www.dallasnews.com/news/transportation/article/increased-gas-prices-straining-north-texas-22282930.php",
+      "image": "https://s.hdnux.com/photos/01/66/15/15/30987095/3/rawImage.jpg",
+      "publishedAt": "2026-06-08T20:27:18Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The Dallas Morning News"
       }
     },
     {
-      "title": "Michigan gas prices drop 20 cents a gallon amid Mideast conflict",
-      "description": "Some fear the renewed strikes between Israel and Iran could threaten to upend a ceasefire and raise fuel prices.",
-      "url": "https://www.freep.com/story/news/local/michigan/2026/06/08/michigan-gas-prices-lower-mideast-war-ceasefire/90454930007/",
-      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/04/03/PDTF/89448100007-03042026-carlos-santodomingo-pt-1.jpg?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-08T14:00:55Z",
+      "title": "Wall Street holds steadier as AI stocks recover some of their sell-off",
+      "description": "Wall Street held steadier and recovered some of its sell-off from last week. Oil prices, meanwhile, rose Monday following fighting between Israel and Iran, but they pared their biggest gains. The S&P 500 added 0.3%, coming off its 2.6% drop from Friday that was its worst since October. The Dow Jones Industrial Average dipped 0.2%, and the Nasdaq composite climbed 0.9%. Some of the best performers were companies that sell computer chips, memory and other products fueling the AI boom. They had plunged Friday amid worries that their prices had shot too high amid AI euphoria.",
+      "url": "https://www.ajc.com/news/2026/06/wall-street-holds-steadier-as-ai-stocks-recover-some-of-their-sell-off/",
+      "image": "https://images.ajc.com/resizer/v2/CX5XU6OLYBD4NEWEDGEG4SMQHY.jpg?auth=db62c00e7b7aa8c22babf91451b83b295f26a1ea1c826d0b5fcf4a2389755e78&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-08T20:22:24Z",
       "source": {
-        "name": "Detroit Free Press"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Market Wealth Erodes By \u20b96.31 Lakh Crore, Sensex Crashes 719 Points As Oil Nears $100 And Global Markets Tumble",
-      "description": "Indian investors lost Rs 6.31 lakh crore in wealth on Monday as Sensex plunged 719 points and Nifty fell below 23,150. Rising crude oil prices, escalating Iran-Israel tensions, and a sharp global market sell-off triggered broad-based selling across sectors, dragging market sentiment lower.",
-      "url": "https://www.freepressjournal.in/business/market-wealth-erodes-by-631-lakh-crore-sensex-crashes-719-points-as-oil-nears-100-and-global-markets-tumble",
-      "image": "https://media.assettype.com/freepressjournal/2025-12-28/i9rs1u27/market-drop.jpg",
-      "publishedAt": "2026-06-08T13:59:37Z",
+      "title": "Investors Fled From Bearish Oil Fund at a Record Pace Last Week",
+      "description": "An exchange-traded product that profits when oil prices fall had its biggest weekly outflow on record as several buffers that had helped keep rallies in check begin to fade.",
+      "url": "https://www.livemint.com/market/investors-fled-from-bearish-oil-fund-at-a-record-pace-last-week-11780948490906.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "publishedAt": "2026-06-08T19:54:50Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Tech Surge and Geopolitical Ease Give Wall Street a Boost",
-      "description": "Wall Street rebounded on Monday, led by a surge in chipmaker stocks and eased geopolitical tensions in the Middle East. Key performers included Intel, Nvidia, and Micron, as positive developments drove market optimism despite recent fluctuations. Strong job data and oil prices also influenced trading trends.",
-      "url": "https://www.devdiscourse.com/article/business/3932080-tech-surge-and-geopolitical-ease-give-wall-street-a-boost",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2024_21_58_17_648699.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-08T13:58:04Z",
+      "title": "Trump approval stays near record low as most Americans expect higher gas prices",
+      "description": "President Donald Trump's approval rate held near the lowest \u200blevels of his political career in recent days as most Americans said they expected gasoline prices to keep \u200crising amid the Iran war, according to a Reuters/Ipsos poll completed on Monday.",
+      "url": "https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/",
+      "image": "https://www.reuters.com/resizer/v2/6VDYQYJGUFPCDGGKY4XYX57ECA.jpg?auth=c25bb7cf51c29c75cc815bed1f56576f85a7827d4f30f605a4763a40fda9f4bb&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-08T19:50:34Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Trump Approval Stays Near Record Low as Most Americans Expect Higher Gas Prices",
+      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
+      "url": "https://www.usnews.com/news/politics/articles/2026-06-08/trump-approval-stays-near-record-low-as-most-americans-expect-higher-gas-prices",
+      "image": "https://www.usnews.com/dims4/USNEWS/43cff6d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fcf%2Ff4ab6427bd2453037a678ca26c90db%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM571ET%3A12026-06-08T195347Z_1_LYNXMPEM571ET_RTROPTP_3_USA-TRUMP-COAL.JPG",
+      "publishedAt": "2026-06-08T19:50:00Z",
+      "source": {
+        "name": "U.S. News & World Report"
+      }
+    },
+    {
+      "title": "Trump approval stays near record low as most Americans expect higher gas prices",
+      "description": "President Donald Trump's approval rate held near the lowest levels of his political career in recent days as most Americans said they expected gasoline prices to keep rising amid the Iran war,...",
+      "url": "https://www.marketscreener.com/news/trump-approval-stays-near-record-low-as-most-americans-expect-higher-gas-prices-ce7f5dd3da88f727",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-24T164423Z_1_LYNXMPEM3N13I_RTROPTP_4_IRAN-CRISIS-ENERGY.JPG",
+      "publishedAt": "2026-06-08T19:49:09Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Trump's Struggles: Approval Ratings, Gas Prices, and Political Battles",
+      "description": "President Donald Trump's approval ratings remain low amidst concerns over rising gas prices linked to the Iran conflict. Only 22% of Americans approve of his cost of living management. Despite military strikes, voters are leaning towards Democrats in upcoming congressional elections according to a Reuters/Ipsos poll.",
+      "url": "https://www.devdiscourse.com/article/politics/3932230-trumps-struggles-approval-ratings-gas-prices-and-political-battles",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_06_2026_18_36_28_5903443.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-08T19:47:45Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "AI stocks recover some of last week's sell-off, while oil prices come off their overnight highs",
-      "description": "Wall Street is clawing back some of its steep losses from last week",
-      "url": "https://www.barchart.com/story/news/2349994/ai-stocks-recover-some-of-last-week-s-sell-off-while-oil-prices-come-off-their-overnight-highs",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/890fe9c1092d4f9ba2e67b42005b662f/890fe9c1092d4f9ba2e67b42005b662f_main_financial_markets_wall_street_78573.jpg",
-      "publishedAt": "2026-06-08T13:53:49Z",
+      "title": "Iran, Israel Halt Strikes on Each Other for Now",
+      "description": "Oil prices which had risen by as much as 5% after the flurry of attacks - pared gains when Iran's military said its first wave of strikes on Israel was over. The dollar retreated from its highest level in nearly two months.",
+      "url": "https://www.deccanchronicle.com/world/iran-israel-halt-strikes-on-each-other-for-now-1962306",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/05/24/2049334-trump.jpg",
+      "publishedAt": "2026-06-08T19:43:31Z",
       "source": {
-        "name": "Barchart"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "See Donald Trump approval rating amid high gas prices, midterms",
-      "description": "President Donald Trump's endorsements have carried heavy weight in the midterm primaries, even as he has a low approval rating. What is it?",
-      "url": "https://www.naplesnews.com/story/news/trump/2026/06/08/donald-trump-approval-rating/90421044007/",
-      "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90420367007-20260604-t-215727-z-183326845-rc-28-nla-2-dpol-rtrmadp-3-usatrumpcoal.JPG?crop=3977,2237,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-08T13:42:35Z",
+      "title": "Oil prices, Europeans cut back on driving, and upcoming events",
+      "description": "Iran and Israel have agreed to stop a round of attacks that drove up oil prices.",
+      "url": "https://www.washingtonexaminer.com/daily-on-energy/4599567/daily-on-energy-oil-price-news-europeans-cut-back-driving-upcoming-events/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/DOE-e1779306299575.webp?resize=1200,683",
+      "publishedAt": "2026-06-08T19:42:58Z",
       "source": {
-        "name": "Naples Daily News"
+        "name": "Washington Examiner"
       }
     },
     {
-      "title": "See Donald Trump approval rating amid high gas prices, midterms",
-      "description": "President Donald Trump's endorsements have carried heavy weight in the midterm primaries, even as he has a low approval rating. What is it?",
-      "url": "https://www.tcpalm.com/story/news/trump/2026/06/08/donald-trump-approval-rating/90421044007/",
-      "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90420367007-20260604-t-215727-z-183326845-rc-28-nla-2-dpol-rtrmadp-3-usatrumpcoal.JPG?crop=3977,2237,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-08T13:42:35Z",
+      "title": "Healthcare, Europe emerge as alternatives to AI",
+      "description": "Oil prices, inflation concerns and stretched AI valuations are prompting investors to consider diversification beyond technology stocks.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/08/market-outlook-diversification-gains-appeal-as-ai-rally-cools/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/FFTPBNAQKJURQPWGYLMJFGU7HY.jpg?smart=true&auth=cfe07d834d1a49010ad9ac774948f3eee032805a2f462a7e4f05d187a0e924c3&width=1200&height=630",
+      "publishedAt": "2026-06-08T19:42:08Z",
       "source": {
-        "name": "TCPalm"
-      }
-    },
-    {
-      "title": "See Donald Trump approval rating amid high gas prices, midterms",
-      "description": "President Donald Trump's endorsements have carried heavy weight in the midterm primaries, even as he has a low approval rating. What is it?",
-      "url": "https://www.gainesville.com/story/news/trump/2026/06/08/donald-trump-approval-rating/90421044007/",
-      "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90420367007-20260604-t-215727-z-183326845-rc-28-nla-2-dpol-rtrmadp-3-usatrumpcoal.JPG?crop=3977,2237,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-08T13:42:35Z",
-      "source": {
-        "name": "Gainesville Sun"
-      }
-    },
-    {
-      "title": "See Donald Trump approval rating amid high gas prices, midterms",
-      "description": "President Donald Trump's endorsements have carried heavy weight in the midterm primaries, even as he has a low approval rating. What is it?",
-      "url": "https://www.heraldtribune.com/story/news/trump/2026/06/08/donald-trump-approval-rating/90421044007/",
-      "image": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/06/05/USAT/90420367007-20260604-t-215727-z-183326845-rc-28-nla-2-dpol-rtrmadp-3-usatrumpcoal.JPG?crop=3977,2237,x0,y0&width=3200&height=1800&format=pjpg&auto=webp",
-      "publishedAt": "2026-06-08T13:42:35Z",
-      "source": {
-        "name": "Herald-Tribune"
-      }
-    },
-    {
-      "title": "Oil prices surge amid Israel-Iran escalation, tech stocks dive",
-      "description": "Brent crude jumps over $5 to $94 a barrel, while benchmark US crude rises $1 to $91; Samsung down more than 10%, rival SK hynix dips 7.7%",
-      "url": "https://www.timesofisrael.com/oil-prices-surge-amid-israel-iran-escalation-tech-stocks-dive/",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/05/AFP__20260506__A9YZ6KE__v1__HighRes__BulgariaIsraelUsIranEnergyConflictWarOilTranspo.jpg",
-      "publishedAt": "2026-06-08T13:26:57Z",
-      "source": {
-        "name": "The Times of Israel"
+        "name": "Bnn Bloomberg"
       }
     }
   ]
