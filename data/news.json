@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-09T09:00:12+00:00",
+  "updated_at": "2026-06-09T14:26:11+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Increased gas prices are straining North Texas families",
-      "description": "Continuously high gas prices in North Texas are causing some residents to face financial hardships. Local nonprofits are working to ease the need.",
-      "url": "https://www.dallasnews.com/news/transportation/article/increased-gas-prices-straining-north-texas-22282930.php",
-      "image": "https://s.hdnux.com/photos/01/66/15/15/30987095/3/rawImage.jpg",
-      "publishedAt": "2026-06-08T20:27:18Z",
+      "title": "Stock Market Live Updates: Gift Nifty signals lackluster start; Asian stocks bounce back - The Economic Times",
+      "description": "Sensex Today | Nifty 50 | Stock Market Live Updates | Indian benchmark indices came under heavy selling pressure on 8 June, weighed down by weak global cues, rising geopolitical tensions, and a sharp jump in crude oil prices. The spike in oil prices has heightened concerns about inflation and its potential drag on economic growth.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-9-june-2026/liveblog/131599663.cms",
+      "image": "https://economictimes.indiatimes.com/thumb/msid-131599663,width-1200,height-900,resizemode-4,imglength-1214436/markets/stocks/live-blog/bse-sensex-today-nifty50-stock-market-live-updates-gift-nifty-ril-tcs-share-price-9-june-2026.jpg",
+      "publishedAt": "2026-06-09T02:18:00Z",
       "source": {
-        "name": "The Dallas Morning News"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Wall Street holds steadier as AI stocks recover some of their sell-off",
-      "description": "Wall Street held steadier and recovered some of its sell-off from last week. Oil prices, meanwhile, rose Monday following fighting between Israel and Iran, but they pared their biggest gains. The S&P 500 added 0.3%, coming off its 2.6% drop from Friday that was its worst since October. The Dow Jones Industrial Average dipped 0.2%, and the Nasdaq composite climbed 0.9%. Some of the best performers were companies that sell computer chips, memory and other products fueling the AI boom. They had plunged Friday amid worries that their prices had shot too high amid AI euphoria.",
-      "url": "https://www.ajc.com/news/2026/06/wall-street-holds-steadier-as-ai-stocks-recover-some-of-their-sell-off/",
-      "image": "https://images.ajc.com/resizer/v2/CX5XU6OLYBD4NEWEDGEG4SMQHY.jpg?auth=db62c00e7b7aa8c22babf91451b83b295f26a1ea1c826d0b5fcf4a2389755e78&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-08T20:22:24Z",
+      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 9",
+      "description": "Petrol, Diesel, CNG Prices on June 9 2026 stay unchanged, LPG and CNG see recent hikes, Hyderabad and Thiruvananthapuram record the highest fuel rates",
+      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-9-ws-l-10137528.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/1774944433_1774942549_1773150473_PETROL-DP-1-2026-02-fe253e5ef484d417ae60e281e17b33ab-1200x675.jpg",
+      "publishedAt": "2026-06-09T02:14:35Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "News18"
       }
     },
     {
-      "title": "Investors Fled From Bearish Oil Fund at a Record Pace Last Week",
-      "description": "An exchange-traded product that profits when oil prices fall had its biggest weekly outflow on record as several buffers that had helped keep rallies in check begin to fade.",
-      "url": "https://www.livemint.com/market/investors-fled-from-bearish-oil-fund-at-a-record-pace-last-week-11780948490906.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "publishedAt": "2026-06-08T19:54:50Z",
+      "title": "Stock market today: Gift Nifty hints muted opening; US-Iran war, gold to crude oil prices - eight stocks to buy or sell",
+      "description": "Indian stock markets are expected to open flat-to-negative on June 9, 2026, with Gift Nifty at 23,121.5. This follows a significant drop on Monday due to geopolitical tensions and rising crude prices, amid cautious global sentiment and increasing market volatility.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-opening-us-iran-war-gold-to-crude-oil-prices-eight-stocks-to-buy-or-sell-11780966292686.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1780970057884_2b558218-1d61-4de2-a0b6-cae966570ad3.jpg",
+      "publishedAt": "2026-06-09T01:58:47Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Trump approval stays near record low as most Americans expect higher gas prices",
-      "description": "President Donald Trump's approval rate held near the lowest \u200blevels of his political career in recent days as most Americans said they expected gasoline prices to keep \u200crising amid the Iran war, according to a Reuters/Ipsos poll completed on Monday.",
-      "url": "https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/",
-      "image": "https://www.reuters.com/resizer/v2/6VDYQYJGUFPCDGGKY4XYX57ECA.jpg?auth=c25bb7cf51c29c75cc815bed1f56576f85a7827d4f30f605a4763a40fda9f4bb&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-08T19:50:34Z",
+      "title": "2026 Leapmotor B10 Hybrid EV prices: Chinese brand\u2019s smallest EV in Australia gets a petrol engine",
+      "description": "Leapmotor has launched another extended-range electric vehicle in Australia, this time a version of its B10 small SUV.",
+      "url": "https://7news.com.au/motoring/2026-leapmotor-b10-hybrid-ev-prices-chinese-brands-smallest-ev-in-australia-gets-a-petrol-engine-c-22404156",
+      "image": "https://images.7news.com.au/publication/C-22404156/d815d1c58baf12420cf488341a0e387f187bdff7-16x9-x0y194w3725h2095.jpg?imwidth=1200",
+      "publishedAt": "2026-06-09T01:56:14Z",
       "source": {
-        "name": "Reuters"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Trump Approval Stays Near Record Low as Most Americans Expect Higher Gas Prices",
-      "description": "US News is a recognized leader in college, grad school, hospital, mutual fund, and car rankings. Track elected officials, research health conditions, and find news you can use in politics, business, health, and education.",
-      "url": "https://www.usnews.com/news/politics/articles/2026-06-08/trump-approval-stays-near-record-low-as-most-americans-expect-higher-gas-prices",
-      "image": "https://www.usnews.com/dims4/USNEWS/43cff6d/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fcf%2Ff4ab6427bd2453037a678ca26c90db%2Ftag%3Areuters.com%2C2026%3Anewsml_LYNXMPEM571ET%3A12026-06-08T195347Z_1_LYNXMPEM571ET_RTROPTP_3_USA-TRUMP-COAL.JPG",
-      "publishedAt": "2026-06-08T19:50:00Z",
+      "title": "2026 Leapmotor B10 Hybrid EV prices: Chinese brand\u2019s smallest EV in Australia gets a petrol engine",
+      "description": "Leapmotor has launched another extended-range electric vehicle in Australia, this time a version of its B10 small SUV.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2026-leapmotor-b10-hybrid-ev-prices-chinese-brands-smallest-ev-in-australia-gets-a-petrol-engine-c-22404155",
+      "image": "https://images.perthnow.com.au/publication/C-22404155/d815d1c58baf12420cf488341a0e387f187bdff7-16x9-x0y194w3725h2095.jpg?imwidth=1200",
+      "publishedAt": "2026-06-09T01:56:14Z",
       "source": {
-        "name": "U.S. News & World Report"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Trump approval stays near record low as most Americans expect higher gas prices",
-      "description": "President Donald Trump's approval rate held near the lowest levels of his political career in recent days as most Americans said they expected gasoline prices to keep rising amid the Iran war,...",
-      "url": "https://www.marketscreener.com/news/trump-approval-stays-near-record-low-as-most-americans-expect-higher-gas-prices-ce7f5dd3da88f727",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-24T164423Z_1_LYNXMPEM3N13I_RTROPTP_4_IRAN-CRISIS-ENERGY.JPG",
-      "publishedAt": "2026-06-08T19:49:09Z",
+      "title": "Petrol, diesel prices on June 9: Check fuel cost in Delhi, Mumbai, Bengaluru, Kolkata and other cities today",
+      "description": "Fuel prices were unchanged today on Tuesday, 9 June. The last fuel price hike was on Monday, 25 May, when oil marketing companies (OMCs) hiked both petrol and diesel prices by more than \u20b92.50 per litre.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-june-9-check-fuel-cost-delhi-mumbai-bengaluru-kolkata-chennai-hyderabad-gurugram-other-cities-11780968717517.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/09/1600x900/logo/Climate-Asia-Fuel-Blending-2_1778816980092_1778816_1780969282026_1780969282164_d5e23c14-d0ac-43d2-b7f1-03c679ccac5e.jpg",
+      "publishedAt": "2026-06-09T01:43:38Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Trump's Struggles: Approval Ratings, Gas Prices, and Political Battles",
-      "description": "President Donald Trump's approval ratings remain low amidst concerns over rising gas prices linked to the Iran conflict. Only 22% of Americans approve of his cost of living management. Despite military strikes, voters are leaning towards Democrats in upcoming congressional elections according to a Reuters/Ipsos poll.",
-      "url": "https://www.devdiscourse.com/article/politics/3932230-trumps-struggles-approval-ratings-gas-prices-and-political-battles",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_06_2026_18_36_28_5903443.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-08T19:47:45Z",
+      "title": "Trump approval near record low as Iran war and gas prices drive voter discontent",
+      "description": "US President Donald Trump's approval rating remains near a career low, a Reuters/Ipsos poll shows, as most Americans expect gas prices to rise and express growing concern over living costs.",
+      "url": "https://www.cnbctv18.com/world/trump-approval-near-record-low-as-iran-war-and-gas-prices-drive-voter-discontent-ws-l-19921842.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/2026-05-25t181339z-1914136076-rc2iglajsgkj-rtrmadp-3-usa-trump-2026-06-5b595c38a6bbbaec530962e2c7f6c00b-scaled.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-06-09T01:38:56Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Iran, Israel Halt Strikes on Each Other for Now",
-      "description": "Oil prices which had risen by as much as 5% after the flurry of attacks - pared gains when Iran's military said its first wave of strikes on Israel was over. The dollar retreated from its highest level in nearly two months.",
-      "url": "https://www.deccanchronicle.com/world/iran-israel-halt-strikes-on-each-other-for-now-1962306",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/05/24/2049334-trump.jpg",
-      "publishedAt": "2026-06-08T19:43:31Z",
+      "title": "Trump's approval stays near record low as Iran war fuels economic concerns",
+      "description": "The Republican leader has faced widespread discontent in recent months over \u200bhis decision to go to war with Iran, which has led to a surge in gasoline prices",
+      "url": "https://www.business-standard.com/world-news/trump-s-approval-stays-near-record-low-as-iran-war-fuels-economic-concerns-126060900106_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/18/thumb/fitandfill/1200X628/1779092934-2035.JPG",
+      "publishedAt": "2026-06-09T01:38:06Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Oil prices, Europeans cut back on driving, and upcoming events",
-      "description": "Iran and Israel have agreed to stop a round of attacks that drove up oil prices.",
-      "url": "https://www.washingtonexaminer.com/daily-on-energy/4599567/daily-on-energy-oil-price-news-europeans-cut-back-driving-upcoming-events/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/DOE-e1779306299575.webp?resize=1200,683",
-      "publishedAt": "2026-06-08T19:42:58Z",
+      "title": "D-Street indices caught in crossfire as oil roads lead to uncertainty",
+      "description": "Indian stock markets tumbled nearly 1% on Monday, mirroring a broader Asian decline. Renewed Middle East hostilities fueled oil prices, while global investors shifted away from AI stocks. The Nifty closed down 243.7 points at 23,123, and the Sensex fell 719.08 points to 73,524.26, reflecting heightened market anxiety.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-indices-caught-in-crossfire-as-oil-roads-lead-to-uncertainty/articleshow/131599322.cms",
+      "image": "https://img.etimg.com/thumb/msid-131599352,width-1200,height-630,imgsize-1214436,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-09T01:23:00Z",
       "source": {
-        "name": "Washington Examiner"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Healthcare, Europe emerge as alternatives to AI",
-      "description": "Oil prices, inflation concerns and stretched AI valuations are prompting investors to consider diversification beyond technology stocks.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/08/market-outlook-diversification-gains-appeal-as-ai-rally-cools/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/FFTPBNAQKJURQPWGYLMJFGU7HY.jpg?smart=true&auth=cfe07d834d1a49010ad9ac774948f3eee032805a2f462a7e4f05d187a0e924c3&width=1200&height=630",
-      "publishedAt": "2026-06-08T19:42:08Z",
+      "title": "'Oil Prices Will Come Tumbling Down': Trump Says US Will Declare 'Total Victory' Over Iran In Next Two Weeks",
+      "description": "The remarks came as Iran and Israel appeared to halt a fresh exchange of missile strikes that had flared over the weekend.",
+      "url": "https://www.ndtvprofit.com/world/039-oil-prices-will-come-tumbling-down-039-trump-says-us-will-declare-039-total-victory-039-over-iran-in-next-two-weeks-11610000",
+      "image": "https://c.ndtvimg.com/2026-06/odc9ov2o_donald-trump_625x300_09_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-09T01:20:27Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "NDTV Profit"
       }
     }
   ]
