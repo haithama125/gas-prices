@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-10T02:30:47+00:00",
+  "updated_at": "2026-06-10T09:40:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks rise at open as oil prices ease; tech shares lead gains",
-      "description": "US stock markets climb as AI stocks rebound, oil prices ease after Israel Iran pause, Apple slips on AI updates, Asia indices rally led by KOSPI",
-      "url": "https://www.cnbctv18.com/market/us-stocks-rise-dow-jones-brent-crude-eases-israel-iran-ceasefire-apple-shares-lead-gains-ws-el-19922434.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-15a12732c953b691a29ab189949cb5cd.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-09T14:30:37Z",
+      "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
+      "description": "The reversal drowned out the benefit of lower oil prices, and most stocks in the S&P 500 rose.",
+      "url": "https://www.adn.com/business-economy/2026/06/09/more-swings-for-ai-stocks-drag-wall-street-back-on-the-roller-coaster/",
+      "image": "https://www.adn.com/resizer/v2/FEB2KRXCHG75EA7KC2K2V3OZWA.jpg?smart=true&auth=46afed081b6ee3b086c210ec440b06f9d34293f4aab0c317f91e9357fc2019b1&width=1200&height=630",
+      "publishedAt": "2026-06-09T21:37:02Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Anchorage Daily News"
       }
     },
     {
-      "title": "High oil prices cause May26 EV retail sales zoom 45% YoY to 2.72 lakh units",
-      "description": "In the backdrop of steep hike in patrol and diesel prices owing to the West Asia conflict, Electric Vehicles (EV) retail sales in May 2026 zoomed 45% YoY to 2,71,682 units indicating\u00a0India\u2019s mobility transition.",
-      "url": "https://www.thehindu.com/business/high-oil-prices-cause-may26-ev-retail-sales-zoom-45-yoy-to-272-lakh-units/article71081094.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-06-09T14:28:53Z",
+      "title": "Running Low: How Ukraine's Attacks Are Triggering A Fuel Crisis In Russian-Occupied Crimea",
+      "description": "Russia-Ukraine War:\u00a0Long queues at petrol stations, fuel rationing, soaring prices and transport disruptions have become increasingly common across Crimea.",
+      "url": "https://www.news18.com/world/running-low-how-ukraines-attacks-are-triggering-a-fuel-crisis-in-russian-occupied-crimea-ws-l-10139628.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/03/Zelenskyy-Volodymyr-AFP-2025-03-24ea7c8cb6812430f36d41b989942edd-16x9.jpg",
+      "publishedAt": "2026-06-09T21:32:47Z",
       "source": {
-        "name": "The Hindu"
+        "name": "News18"
       }
     },
     {
-      "title": "Wall Street ticks higher as AI stocks recover more losses and oil prices ease",
-      "description": "The U.S. stock market is ticking higher as artificial-intelligence stocks regain more of their sudden and sharp losses from last week, while oil prices ease",
-      "url": "https://www.barchart.com/story/news/2368607/wall-street-ticks-higher-as-ai-stocks-recover-more-losses-and-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/8ab79d568d0347aab7a2bfeeb8c5734b/8ab79d568d0347aab7a2bfeeb8c5734b_main_financial_markets_wall_street_36488.jpg",
-      "publishedAt": "2026-06-09T14:28:25Z",
+      "title": "US tech shares resume sell-off while oil prices retreat",
+      "description": "Global stocks mostly fell Tuesday (Jun 9) as US tech shares faced another round of selling followed recent outsized gains and markets weighed the latest uptick in US-Iran tensions.Oil prices retreated, with",
+      "url": "https://www.channelnewsasia.com/business/us-tech-shares-resume-sell-while-oil-prices-retreat-6172016",
+      "image": "https://dam.mediacorp.sg/image/upload/s--r_oi-7KW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-09T210159Z_1_LYNXMPEM581L0_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=1ok33jkI",
+      "publishedAt": "2026-06-09T21:18:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "CNA"
       }
     },
     {
-      "title": "Govt forgoes Rs 1.23 lakh crore to support oil firms after petrol, diesel duty cuts: Sources",
-      "description": "Sources say this measure was meant to stop state-owned fuel suppliers from passing on higher global oil costs to customers",
-      "url": "https://www.tribuneindia.com/news/india/govt-forgoes-rs-1-23-lakh-crore-to-support-oil-firms-after-petrol-diesel-duty-cuts-sources/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTJiNGU5YTAwLTY0MGQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-09T14:11:49Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "US stock markets today (June 9, 2026): AI stocks rebound, easing oil prices lift Wall Street",
-      "description": "International Business News: US stocks advanced on Tuesday as technology shares tied to the artificial intelligence (AI) boom extended their recovery from last week's sharp sell-o.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-markets-today-june-9-2026-ai-stocks-rebound-easing-oil-prices-lift-wall-street/articleshow/131613145.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131613194,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-09T14:05:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Wall Street opens higher",
-      "description": "The U.S. stock market is climbing Tuesday as\u00a0artificial-intelligence\u00a0stocks\u00a0regain more\u00a0of their\u00a0sudden and sharp losses\u00a0from last week, while oil prices ease.",
-      "url": "https://www.cp24.com/news/money/2026/06/09/wall-street-opens-higher-as-ai-stocks-regain-some-more-ground-and-oil-prices-ease/",
-      "image": "https://www.cp24.com/resizer/v2/W3LWDC3HGF5ELUJLFPDYLS4ZII.jpg?smart=true&auth=2f06714d4bed6bb160209090591887ca791b6e20f3fd74332e5453ce76b7b4d4&width=1200&height=630",
-      "publishedAt": "2026-06-09T13:53:49Z",
-      "source": {
-        "name": "CP24 Toronto"
-      }
-    },
-    {
-      "title": "Wall Street opens higher",
-      "description": "The U.S. stock market is climbing Tuesday as\u00a0artificial-intelligence\u00a0stocks\u00a0regain more\u00a0of their\u00a0sudden and sharp losses\u00a0from last week, while oil prices ease.",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/06/09/wall-street-opens-higher-as-ai-stocks-regain-some-more-ground-and-oil-prices-ease/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/W3LWDC3HGF5ELUJLFPDYLS4ZII.jpg?smart=true&auth=2f06714d4bed6bb160209090591887ca791b6e20f3fd74332e5453ce76b7b4d4&width=1200&height=630",
-      "publishedAt": "2026-06-09T13:53:49Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Wall Street rises as AI stocks recover more of their losses and oil prices ease",
-      "description": "The U.S. stock market is climbing as artificial-intelligence stocks regain more of their sudden and sharp losses from last week, while oil prices ease",
-      "url": "https://www.barchart.com/story/news/2368607/wall-street-rises-as-ai-stocks-recover-more-of-their-losses-and-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/8ab79d568d0347aab7a2bfeeb8c5734b/8ab79d568d0347aab7a2bfeeb8c5734b_main_financial_markets_wall_street_36488.jpg",
-      "publishedAt": "2026-06-09T13:45:25Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Gold edges up as dollar weakens, oil falls ahead of inflation data",
-      "description": "Gold edged higher on Tuesday, rebounding from a more than two-month low in the previous session, as a weaker dollar and falling oil prices lent support while investors evaluated Middle East peace...",
-      "url": "https://www.marketscreener.com/news/gold-edges-up-as-dollar-weakens-oil-falls-ahead-of-inflation-data-ce7f5cdad88bf624",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-05T011338Z_1_LYNXMPEM5402E_RTROPTP_4_GOLD-PRICES-COLUMN-RUSSELL.JPG",
-      "publishedAt": "2026-06-09T13:42:34Z",
+      "title": "Equities fall while oil slips amid uncertain Middle East outlook",
+      "description": "MSCI's global equities\ngauge managed a small gain on Tuesday with little support from\nWall Street where heavyweight technology stocks stumbled while\ninvestors opted for safer bets, and oil prices...",
+      "url": "https://www.marketscreener.com/news/equities-fall-while-oil-slips-amid-uncertain-middle-east-outlook-ce7f5cdadc88f627",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-06-09T20:45:25Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Wall Street opens higher as AI stocks regain some more ground and oil prices ease",
-      "description": "The U.S. stock market is climbing as artificial-intelligence stocks regain more of their sudden and sharp losses from last week, while oil prices ease",
-      "url": "https://www.barchart.com/story/news/2368607/wall-street-opens-higher-as-ai-stocks-regain-some-more-ground-and-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/8ab79d568d0347aab7a2bfeeb8c5734b/8ab79d568d0347aab7a2bfeeb8c5734b_main_financial_markets_wall_street_36488.jpg",
-      "publishedAt": "2026-06-09T13:35:07Z",
+      "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
+      "description": "Another sudden reversal for high-flying artificial-intelligence stocks sent Wall Street reeling. The S&P 500 fell 0.3% Tuesday after careening between an early gain of 1% and a midday loss of 2.3%. The Dow Jones Industrial Average edged up 0.2%, and the Nasdaq composite sank 1%. Indexes swung lower after companies selling computer chips, memory and other building blocks of the AI boom broke from early gains to losses. The drops for AI stocks drowned out the benefit of lower oil prices, and most stocks in the S&P 500 rose. Treasury yields edged lower in the bond market.",
+      "url": "https://www.ajc.com/news/2026/06/more-swings-for-ai-stocks-drag-wall-street-back-on-the-roller-coaster/",
+      "image": "https://images.ajc.com/resizer/v2/XX27XWLBCRBHDEFDMXFPBRMOMI.jpg?auth=59386fab48fc65d0fb83ed87ace9f0818d0c2f2f04e9b625f73bdf11695565db&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-09T20:31:46Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Mumbai University Buys New Petrol Vehicles Amid US-Iran Conflict; Critics Question Waste As Old Cars Lie Unused",
+      "description": "Mumbai University is facing criticism after purchasing four new petrol vehicles, while several older vehicles, including electric cars and a 1857-registered historic car, remain unused. Yuva Sena\u2019s Pradeep Sawant, Milind Satam, and Rajan Kolambekar alleged financial imprudence and disregard for sustainable alternatives.",
+      "url": "https://www.freepressjournal.in/education/mumbai-university-buys-new-petrol-vehicles-amid-us-iran-conflict-critics-question-waste-as-old-cars-lie-unused",
+      "image": "https://media.assettype.com/freepressjournal/2026-01-28/k1fi83df/MU.jpg",
+      "publishedAt": "2026-06-09T20:19:06Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Crude Oil Weakness Weighs on the Dollar",
+      "description": "The dollar index (DXY00 ) on Tuesday fell by -0.12%. Tuesday's -3% plunge in WTI crude oil prices to a 7-week low lowered inflation expectations, which could prompt the Fed to pursue easier monetary policy, a bearish factor for the dollar. Also, lo...",
+      "url": "https://www.barchart.com/story/news/2385494/crude-oil-weakness-weighs-on-the-dollar",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Image%20by%20Karolina%20Kaboompics%20via%20Pexels.jpg",
+      "publishedAt": "2026-06-09T19:31:44Z",
       "source": {
         "name": "Barchart"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Finish Sharply Lower on US-Iran Peace Hopes",
+      "description": "July WTI crude oil (CLN26 ) on Tuesday closed down -3.10 (-3.40%), and July RBOB gasoline (RBN26 ) closed down -0.0495 (-1.61%). Crude oil and gasoline prices fell sharply on Tuesday, with crude posting a 7-week low and gasoline posting an 8-week low...",
+      "url": "https://www.barchart.com/story/news/2385275/crude-oil-prices-finish-sharply-lower-on-us-iran-peace-hopes",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-06-09T19:15:46Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Slip on the Outlook for Cooler US Temperatures",
+      "description": "July Nymex natural gas (NGN26 ) on Tuesday fell -0.007 (-0.22%). Nat-gas prices settled slightly lower on Tuesday but remained above Monday\u2019s 1.5-week low. Forecasts of cooler US weather, which will reduce demand for air conditioning, are weighing...",
+      "url": "https://www.barchart.com/story/news/2385231/nat-gas-prices-slip-on-the-outlook-for-cooler-us-temperatures",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
+      "publishedAt": "2026-06-09T19:14:00Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Indian banks better placed than APAC peers: Fitch on West Asia woes",
+      "description": "India's banking sector is resilient against the economic impact of the US-Israel conflict with Iran, according to Fitch Ratings. While other APAC nations face pressure from rising fuel costs and slower growth, India maintains a neutral outlook. However, small borrowers might experience strain if oil prices continue to surge, impacting domestic demand and consumer spending.",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-better-placed-than-apac-peers-fitch-on-west-asia-woes/articleshow/131619503.cms",
+      "image": "https://img.etimg.com/thumb/msid-131619500,width-1200,height-630,imgsize-115424,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-09T19:13:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
