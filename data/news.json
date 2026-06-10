@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-10T09:40:30+00:00",
+  "updated_at": "2026-06-10T14:53:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
-      "description": "The reversal drowned out the benefit of lower oil prices, and most stocks in the S&P 500 rose.",
-      "url": "https://www.adn.com/business-economy/2026/06/09/more-swings-for-ai-stocks-drag-wall-street-back-on-the-roller-coaster/",
-      "image": "https://www.adn.com/resizer/v2/FEB2KRXCHG75EA7KC2K2V3OZWA.jpg?smart=true&auth=46afed081b6ee3b086c210ec440b06f9d34293f4aab0c317f91e9357fc2019b1&width=1200&height=630",
-      "publishedAt": "2026-06-09T21:37:02Z",
-      "source": {
-        "name": "Anchorage Daily News"
-      }
-    },
-    {
-      "title": "Running Low: How Ukraine's Attacks Are Triggering A Fuel Crisis In Russian-Occupied Crimea",
-      "description": "Russia-Ukraine War:\u00a0Long queues at petrol stations, fuel rationing, soaring prices and transport disruptions have become increasingly common across Crimea.",
-      "url": "https://www.news18.com/world/running-low-how-ukraines-attacks-are-triggering-a-fuel-crisis-in-russian-occupied-crimea-ws-l-10139628.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/03/Zelenskyy-Volodymyr-AFP-2025-03-24ea7c8cb6812430f36d41b989942edd-16x9.jpg",
-      "publishedAt": "2026-06-09T21:32:47Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "US tech shares resume sell-off while oil prices retreat",
-      "description": "Global stocks mostly fell Tuesday (Jun 9) as US tech shares faced another round of selling followed recent outsized gains and markets weighed the latest uptick in US-Iran tensions.Oil prices retreated, with",
-      "url": "https://www.channelnewsasia.com/business/us-tech-shares-resume-sell-while-oil-prices-retreat-6172016",
-      "image": "https://dam.mediacorp.sg/image/upload/s--r_oi-7KW--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-09T210159Z_1_LYNXMPEM581L0_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=1ok33jkI",
-      "publishedAt": "2026-06-09T21:18:00Z",
-      "source": {
-        "name": "CNA"
-      }
-    },
-    {
-      "title": "Equities fall while oil slips amid uncertain Middle East outlook",
-      "description": "MSCI's global equities\ngauge managed a small gain on Tuesday with little support from\nWall Street where heavyweight technology stocks stumbled while\ninvestors opted for safer bets, and oil prices...",
-      "url": "https://www.marketscreener.com/news/equities-fall-while-oil-slips-amid-uncertain-middle-east-outlook-ce7f5cdadc88f627",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-06-09T20:45:25Z",
+      "title": "Gold drops as oil and dollar rise on renewed US-Iran hostilities",
+      "description": "Gold fell more than 1% on Wednesday to hit an 11-week low, as the dollar and oil prices rose on renewed hostilities between the United States and Iran, fuelling concerns about inflation and interest...",
+      "url": "https://www.marketscreener.com/news/gold-drops-as-oil-and-dollar-rise-on-renewed-us-iran-hostilities-ce7f5cdade88f526",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-03T063228Z_1_LYNXNPEL9206F_RTROPTP_4_ASIA-GOLD-DEMAND.JPG",
+      "publishedAt": "2026-06-10T02:52:18Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "More swings for AI stocks drag Wall Street back on the roller coaster",
-      "description": "Another sudden reversal for high-flying artificial-intelligence stocks sent Wall Street reeling. The S&P 500 fell 0.3% Tuesday after careening between an early gain of 1% and a midday loss of 2.3%. The Dow Jones Industrial Average edged up 0.2%, and the Nasdaq composite sank 1%. Indexes swung lower after companies selling computer chips, memory and other building blocks of the AI boom broke from early gains to losses. The drops for AI stocks drowned out the benefit of lower oil prices, and most stocks in the S&P 500 rose. Treasury yields edged lower in the bond market.",
-      "url": "https://www.ajc.com/news/2026/06/more-swings-for-ai-stocks-drag-wall-street-back-on-the-roller-coaster/",
-      "image": "https://images.ajc.com/resizer/v2/XX27XWLBCRBHDEFDMXFPBRMOMI.jpg?auth=59386fab48fc65d0fb83ed87ace9f0818d0c2f2f04e9b625f73bdf11695565db&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-09T20:31:46Z",
+      "title": "GIFT Nifty down, signals weak start for Sensex, Nifty as Middle East tensions flare again, crude oil rises",
+      "description": "GIFT Nifty traded lower on Wednesday morning, signalling that Sensex and Nifty set to open lower amid US-Iran tensions, while rising oil prices and FII selling add to market volatility. Asian markets and Wall Street also declined on renewed tensions.",
+      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-down-signals-weak-start-for-sensex-nifty-as-middle-east-tensions-flare-again-crude-oil-rises-13945568.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031610_sensex_nifty_market_Nifty_nse_bse.jpg",
+      "publishedAt": "2026-06-10T02:47:51Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Mumbai University Buys New Petrol Vehicles Amid US-Iran Conflict; Critics Question Waste As Old Cars Lie Unused",
-      "description": "Mumbai University is facing criticism after purchasing four new petrol vehicles, while several older vehicles, including electric cars and a 1857-registered historic car, remain unused. Yuva Sena\u2019s Pradeep Sawant, Milind Satam, and Rajan Kolambekar alleged financial imprudence and disregard for sustainable alternatives.",
-      "url": "https://www.freepressjournal.in/education/mumbai-university-buys-new-petrol-vehicles-amid-us-iran-conflict-critics-question-waste-as-old-cars-lie-unused",
-      "image": "https://media.assettype.com/freepressjournal/2026-01-28/k1fi83df/MU.jpg",
-      "publishedAt": "2026-06-09T20:19:06Z",
+      "title": "Indonesia's non-subsidised RON92 petrol price jumps 32%, first hike in months",
+      "description": "JAKARTA: Indonesia's non-subsidised Pertamax RON92 petrol has risen by about 32 per cent to Rp16,250 (US$0.90) per litre from Rp12,300, effective Wednesday (June 10), marking its first price increase in months.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/10/indonesia039s-non-subsidised-ron92-petrol-price-jumps-32-first-hike-in-months",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/10/3951318.jpg",
+      "publishedAt": "2026-06-10T02:45:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Star"
       }
     },
     {
-      "title": "Crude Oil Weakness Weighs on the Dollar",
-      "description": "The dollar index (DXY00 ) on Tuesday fell by -0.12%. Tuesday's -3% plunge in WTI crude oil prices to a 7-week low lowered inflation expectations, which could prompt the Fed to pursue easier monetary policy, a bearish factor for the dollar. Also, lo...",
-      "url": "https://www.barchart.com/story/news/2385494/crude-oil-weakness-weighs-on-the-dollar",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Image%20by%20Karolina%20Kaboompics%20via%20Pexels.jpg",
-      "publishedAt": "2026-06-09T19:31:44Z",
+      "title": "Stock Market Live Updates Today: BSE Sensex, Nifty50 may see volatile session as crude oil prices rise on fresh US",
+      "description": "Stock Market Live Updates Today: Stock market movements will continue to be governed by geopolitical movements on the US-Iran conflict end and oil pr",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-10-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131623169.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131623169,width-1280,height-720,imgsize-79084,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-10T02:40:11Z",
       "source": {
-        "name": "Barchart"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Crude Oil Prices Finish Sharply Lower on US-Iran Peace Hopes",
-      "description": "July WTI crude oil (CLN26 ) on Tuesday closed down -3.10 (-3.40%), and July RBOB gasoline (RBN26 ) closed down -0.0495 (-1.61%). Crude oil and gasoline prices fell sharply on Tuesday, with crude posting a 7-week low and gasoline posting an 8-week low...",
-      "url": "https://www.barchart.com/story/news/2385275/crude-oil-prices-finish-sharply-lower-on-us-iran-peace-hopes",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-06-09T19:15:46Z",
+      "title": "Petrol, Diesel prices today, June 10: Check prices in Delhi, Mumbai, Kolkata, Chennai, Hyderabad",
+      "description": "Petrol prices in New Delhi had\u00a0crossed the Rs 100 mark in the last hike. It\u00a0now costs Rs 102.12 per litre and diesel Rs 95.20 per litre following the latest increase",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-10-check-prices-in-delhi-mumbai-kolkata-chennai-hyderabad-535917-2026-06-10",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a28c5e8920d3-petrol--diesel-prices-today--june-10-100315238-16x9.jpg",
+      "publishedAt": "2026-06-10T02:39:14Z",
       "source": {
-        "name": "Barchart"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Nat-Gas Prices Slip on the Outlook for Cooler US Temperatures",
-      "description": "July Nymex natural gas (NGN26 ) on Tuesday fell -0.007 (-0.22%). Nat-gas prices settled slightly lower on Tuesday but remained above Monday\u2019s 1.5-week low. Forecasts of cooler US weather, which will reduce demand for air conditioning, are weighing...",
-      "url": "https://www.barchart.com/story/news/2385231/nat-gas-prices-slip-on-the-outlook-for-cooler-us-temperatures",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-06-09T19:14:00Z",
+      "title": "Oil rises nearly 1% as U.S. launches new strikes against Iran, supply tightens",
+      "description": "Oil prices rise nearly 1% amid U.S. military strikes on Iran and tightening crude supplies, signaling market volatility.",
+      "url": "https://www.thehindu.com/business/oil-rises-as-us-launches-new-strikes-against-iran-supply-tightens-june-10-2026/article71083303.ece",
+      "image": "https://th-i.thgim.com/public/incoming/43xc2/article71083308.ece/alternates/LANDSCAPE_1200/RTR-Indiabuys_GGCBFOVE5S.3.jpg.jpg",
+      "publishedAt": "2026-06-10T02:12:18Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Indian banks better placed than APAC peers: Fitch on West Asia woes",
-      "description": "India's banking sector is resilient against the economic impact of the US-Israel conflict with Iran, according to Fitch Ratings. While other APAC nations face pressure from rising fuel costs and slower growth, India maintains a neutral outlook. However, small borrowers might experience strain if oil prices continue to surge, impacting domestic demand and consumer spending.",
-      "url": "https://economictimes.indiatimes.com/industry/banking/finance/banking/indian-banks-better-placed-than-apac-peers-fitch-on-west-asia-woes/articleshow/131619503.cms",
-      "image": "https://img.etimg.com/thumb/msid-131619500,width-1200,height-630,imgsize-115424,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-09T19:13:00Z",
+      "title": "Trump Says Response To Iran Should Be 'Very Strong, Very Powerful' As He Orders Strikes After Apache Heli",
+      "description": "Trump ordered strikes on Iran after an Apache helicopter incident near Hormuz, lifting oil prices and escalating tensions with Tehran.",
+      "url": "https://www.benzinga.com/news/politics/26/06/53106733/trump-orders-iran-strikes-after-apache-helicopter-incident-brent-above-91",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/09/Trump.jpeg",
+      "publishedAt": "2026-06-10T02:10:16Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Petrol prices at Rs 102/litre in Delhi, diesel at Rs 95; Check fuel prices in Chennai, Mumbai",
+      "description": "Today Petrol, Diesel Prices June 10: Check fuel prices in Chennai, Mumbai, Kolkata, Bengaluru",
+      "url": "https://www.india.com/business/petrol-diesel-prices-june-100626-petrol-diesel-rates-delhi-kolkata-noida-chennai-mumbai-iran-war-strait-of-hormuz-brent-crude-oil-indian-oil-bharat-petroleum-fuel-hpcl-fuel-price-hike-updates-8441695/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/Untitled-design-2026-06-10T073658.459.jpg",
+      "publishedAt": "2026-06-10T02:09:38Z",
+      "source": {
+        "name": "India.com"
+      }
+    },
+    {
+      "title": "Stock market today: Gift Nifty hints weak start; US-Iran war, tech stocks selloff to crude oil prices - 8 stocks to buy",
+      "description": "The Indian stock market is anticipated to open lower on June 10, 2026, as global tensions impact investor confidence. Despite a brief rebound on Tuesday, concerns over US-Iran hostilities and upcoming US inflation data may influence market sentiment.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-war-tech-stocks-selloff-to-crude-oil-prices-8-stocks-to-buy-11781052912840.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/10/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1781056593078_85bbc86f-b03e-4779-97d1-8bdfb757ee24.jpg",
+      "publishedAt": "2026-06-10T02:02:29Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Australians could face higher petrol prices and renewed inflation pressure as Middle East conflict escalates",
+      "description": "The warning comes as the Reserve Bank weighs its next move on interest rates.",
+      "url": "https://7news.com.au/sunrise/australians-could-face-higher-petrol-prices-and-renewed-inflation-pressure-as-middle-east-conflict-escalates-c-22403658",
+      "image": "https://images.7news.com.au/publication/C-22403658/52a802abc6a5d720007654c5c383bdd31b2b62bc-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2026-06-10T01:59:21Z",
+      "source": {
+        "name": "7NEWS Australia"
       }
     }
   ]
