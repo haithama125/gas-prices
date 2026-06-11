@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-11T02:40:54+00:00",
+  "updated_at": "2026-06-11T10:05:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Extend Gains After Another Big Crude Draw, Cushing 'Tank Bottoms' Loom",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/energy/oil-prices-extend-gains-after-another-big-crude-draw-cushing-tank-bottoms-loom",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/bfm9C28.jpg?h=32aff202&itok=HNFzcAgw",
-      "publishedAt": "2026-06-10T14:40:51Z",
+      "title": "Northern Ireland suffers second night of unrest as rioters attack police",
+      "description": "Police were pelted with bricks and petrol bombs by balaclava-clad rioters in Co Antrim.",
+      "url": "https://www.kentonline.co.uk/news/national/northern-ireland-suffers-second-night-of-unrest-as-rioters-attack-police-167824/",
+      "image": "https://www.kentonline.co.uk/_media/img/6260Y7GEKCYAYNWLU1PE.jpg",
+      "publishedAt": "2026-06-10T22:01:41Z",
       "source": {
-        "name": "ZeroHedge"
+        "name": "Kent Online"
       }
     },
     {
-      "title": "US households, businesses stung by higher energy prices that have pushed inflation above 4%",
-      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near",
-      "url": "https://www.barchart.com/story/news/2395236/us-households-businesses-stung-by-higher-energy-prices-that-have-pushed-inflation-above-4",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a7a40e4b304340ea9e7557446ef3d0c1/a7a40e4b304340ea9e7557446ef3d0c1_main_us_gasoline_prices__3_79.jpg",
-      "publishedAt": "2026-06-10T14:36:27Z",
+      "title": "Riot police fire water cannon at protesters as second night of Belfast disorder erupts",
+      "description": "Reports of petrol bombs being thrown at police in latest unrest following Belfast knife attack",
+      "url": "https://www.standard.co.uk/news/uk/belfast-riots-police-water-cannon-protests-petrol-bombs-b1285620.html",
+      "image": "https://static.standard.co.uk/2026/06/10/22/2280291573..?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-06-10T21:29:14Z",
       "source": {
-        "name": "Barchart"
+        "name": "Evening Standard"
       }
     },
     {
-      "title": "Indonesia hikes prices of two grades of non-subsidised fuel",
-      "description": "Indonesian state-owned energy firm Pertamina has raised prices of two grades of petrol by nearly a third, its first increase since the Iran conflict began. The government says the impact on inflation will be limited, as subsidised fuel prices remain unchanged. But the move is adding to cost-of-living concerns and promp",
-      "url": "https://www.channelnewsasia.com/watch/at22-aslive-indonesia-fuel-price-hike-6174251",
-      "image": "https://dam.mediacorp.sg/image/upload/s--cT9KI-5u--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/10/1781095034-image.jpg?itok=Uh2dW9gW",
-      "publishedAt": "2026-06-10T14:24:11Z",
+      "title": "Equities drop, oil rallies with Iran-US tensions and high inflation in focus",
+      "description": "MSCI's global equities index fell 1.5% on Wednesday after economic data showed U.S. inflation was high but in line with expectations and oil prices rose as hopes for Middle East peace progress...",
+      "url": "https://www.marketscreener.com/news/equities-drop-oil-rallies-with-iran-us-tensions-and-high-inflation-in-focus-ce7f5cdbdf88f721",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-09T210159Z_1_LYNXMPEM581L0_RTROPTP_4_GLOBAL-MARKETS.JPG",
+      "publishedAt": "2026-06-10T21:27:18Z",
       "source": {
-        "name": "CNA"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Indonesia hikes prices of two grades of non-subsidised fuel",
-      "description": "Indonesian state-owned energy firm Pertamina has raised prices of two grades of petrol by nearly a third, its first increase since the Iran conflict began. The government says the impact on inflation will be limited, as subsidised fuel prices remain unchanged. But the move is adding to cost-of-living concerns and promp",
-      "url": "https://www.channelnewsasia.com/watch/indonesia-hikes-prices-two-grades-non-subsidised-fuel-6174251",
-      "image": "https://dam.mediacorp.sg/image/upload/s--cT9KI-5u--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/10/1781095034-image.jpg?itok=Uh2dW9gW",
-      "publishedAt": "2026-06-10T14:24:11Z",
-      "source": {
-        "name": "CNA"
-      }
-    },
-    {
-      "title": "Reason crude isn't crossing $200? How Iran, Gulf states are bypassing Hormuz blockade to transport oil",
-      "description": "International Business News: Oil prices have surged since Iran\u2019s closure of the Strait of Hormuz and the subsequent US naval blockade of Iranian ports, yet crude has stopped well .",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/reason-crude-isnt-crossing-200-how-iran-gulf-states-are-bypassing-hormuz-blockade-to-transport-oil/articleshow/131636910.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131636951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-10T14:01:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Escalation in the Strait-U.S.-Iran Tensions Flare Anew",
-      "description": "Tensions between the U.S. and Iran have surged as both countries engage in military strikes following the downing of a U.S. helicopter. President Trump warned Iran will 'pay the price,' while Iran vowed to reassess diplomatic engagement. The conflict threatens peace talks and impacts oil prices and regional diplomacy.",
-      "url": "https://www.devdiscourse.com/article/politics/3933178-escalation-in-the-straitus-iran-tensions-flare-anew",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2025_16_55_09_1006918.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-10T13:59:27Z",
+      "title": "Economic Jolt: Rising Oil Prices Deepen Selloff Amid Iran-US Tensions",
+      "description": "Global stock markets experienced a sharp decline as rising oil prices, fueled by heightened Middle East tensions between Iran and the U.S., spurred investor anxiety. MSCI's index fell 1.5%, while oil prices rose following exchange of threats between President Trump and Iran. Inflation concerns further pressured the Federal Reserve's rate decision.",
+      "url": "https://www.devdiscourse.com/article/business/3933355-economic-jolt-rising-oil-prices-deepen-selloff-amid-iran-us-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_15_43_16_7968449.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-10T21:27:02Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Inflation hits 3-year high, highlighting affordability challenge for Americans",
-      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near. Consumer prices rose 4.2% in May from a year earlier, the Labor Department said Wednesday, up from 3.8% in April and the third straight increase. On a monthly basis, prices rose 0.5% last month, after big gains of 0.6% in April and 0.9% in March.",
-      "url": "https://www.ajc.com/news/2026/06/inflation-hits-3-year-high-on-spike-in-prices-highlighting-affordability-challenges-for-americans/",
-      "image": "https://images.ajc.com/resizer/v2/Y6LBSKK45NCMHPQI5KB2GEEGHY.jpg?auth=14c489a3894cd03746fe5209591c1183eec214fdd37c7086aefd22b7d4c90a08&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-10T13:41:55Z",
+      "title": "Teen arrested after 'savage petrol bomb attack' in Belfast unrest",
+      "description": "A teenager has been arrested after two police officers were \u201csavagely targeted\u201d with a petrol bomb during rioting in Co Antrim.",
+      "url": "https://www.lbc.co.uk/article/teen-arrest-belfast-riot-attack-5HjdbRK_2/",
+      "image": "https://images.globalplayer.com/images/819997?crop=16_9&width=1200&signature=d9fB87TMl8tA-oZWhm-FNj6FbZE=",
+      "publishedAt": "2026-06-10T21:18:39Z",
+      "source": {
+        "name": "LBC"
+      }
+    },
+    {
+      "title": "San Diego inflation is on the rise, but not as much as the U.S. average",
+      "description": "Gasoline prices were the biggest driver of rising prices",
+      "url": "https://www.sandiegouniontribune.com/2026/06/10/san-diego-inflation-is-on-the-rise-but-not-as-much-as-the-u-s-average/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/06/SUT-L-gas-prices-007.jpg?w=1024&h=683",
+      "publishedAt": "2026-06-10T21:03:30Z",
+      "source": {
+        "name": "San Diego Union-Tribune"
+      }
+    },
+    {
+      "title": "Petrol station moguls pay $2 million to creditors after empire collapses, land contaminated",
+      "description": "The directors of Zoya Investments have agreed to a $2 million settlement to end the liquidator's case against them.",
+      "url": "https://www.abc.net.au/news/2026-06-11/zoya-investments-13m-company-collapse-legal-fight/106666586",
+      "image": "https://live-production.wcms.abc-cdn.net.au/88ef689d76d9e51cec6092859054c26b?impolicy=wcms_watermark_news&cropH=540&cropW=960&xPos=0&yPos=124&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-06-10T20:59:17Z",
+      "source": {
+        "name": "ABC (Australian Broadcasting Corporation)"
+      }
+    },
+    {
+      "title": "Arrest after two police officers \u2018savagely targeted\u2019 with petrol bomb",
+      "description": "An 18-year-old man was arrested following the incident during disorder in Carrickfergus on Tuesday night.",
+      "url": "https://www.standard.co.uk/news/uk/belfast-northern-ireland-great-britain-police-press-association-b1285617.html",
+      "image": "https://static.standard.co.uk/2026/06/10/21/8653fb347835252e9b989bd9b10607c4Y29udGVudHNlYXJjaGFwaSwxNzgxMjEwNTY3-2.84897448.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-06-10T20:54:45Z",
+      "source": {
+        "name": "Evening Standard"
+      }
+    },
+    {
+      "title": "Another sell-off for AI stocks knocks Wall Street back to where it was 5 weeks ago",
+      "description": "Another sell-off for artificial-intelligence stocks dragged the U.S. market sharply lower. The S&P 500 dropped 1.6% Wednesday for its first\u00a0back-to-back drop\u00a0in three weeks and is back to where it was in early May. The Dow Jones Industrial Average tumbled 953 points, and the Nasdaq composite led the market lower with a 2% slide. Wall Street has been shaky since last week, when AI stocks went from roaring to records to suddenly turning lower. Among the worries is that their prices have simply shot too high, too fast. Oil prices rose after President Donald Trump threatened more strikes on Iran.",
+      "url": "https://www.ajc.com/news/2026/06/another-sell-off-for-ai-stocks-drags-wall-street-to-its-first-back-to-back-drop-in-weeks/",
+      "image": "https://images.ajc.com/resizer/v2/I4F2C5FUSNHIHH2LRXVVX7XBRU.jpg?auth=09866c378fc04c434905e00364f1690e2983667080f3c60ffcde916ea59ec083&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-10T20:31:47Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "War impact: Investors turned cautious in May as equity MF inflows hit 1-year low",
-      "description": "In May, Indian investors became cautious due to the West Asia war and high crude oil prices, leading to a 40% drop in net inflows into equity mutual funds.\u00a0Despite a decline in SIP investments for the second consecutive month, overall MFs saw net outflows of Rs 64,021 crore, attributed to market volatility and cautiousness according [\u2026]",
-      "url": "https://indianexpress.com/shorts/business/war-investors-may-equity-inflowsequity-mutual-fund-gold-etf-west-asia-10733404/",
-      "image": "https://images.indianexpress.com/2026/06/iran-war-454_20260608222932.jpg",
-      "publishedAt": "2026-06-10T13:35:20Z",
+      "title": "Inflation report comes in hot",
+      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near.",
+      "url": "https://www.bostonherald.com/2026/06/10/inflation-report-comes-in-hot/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/06/AP26160487080056.jpg?w=1024&h=683",
+      "publishedAt": "2026-06-10T20:28:42Z",
       "source": {
-        "name": "The Indian Express"
-      }
-    },
-    {
-      "title": "How India uses its forex reserves to defend the rupee when global shocks hit",
-      "description": "When oil prices surge, foreign investors pull money out, or global markets panic, the RBI often steps into the currency market using India's forex reserves. Here's how those reserves help stabilize the rupee and shield the economy from bigger shocks.",
-      "url": "https://www.cnbctv18.com/market/currency/how-india-uses-its-forex-reserves-to-defend-the-rupee-when-global-shocks-hit-ws-l-19923206.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/rbi-reserve-bank-of-india-rupee-dollar-currency-may22-2026-05-52ae58505ebdc5a065068b70782f4f6a.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-10T13:32:22Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Inflation hits 3-year high, highlighting affordability challenge for Americans",
-      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near",
-      "url": "https://www.barchart.com/story/news/2395236/inflation-hits-3-year-high-highlighting-affordability-challenge-for-americans",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a7a40e4b304340ea9e7557446ef3d0c1/a7a40e4b304340ea9e7557446ef3d0c1_main_us_gasoline_prices__3_79.jpg",
-      "publishedAt": "2026-06-10T13:31:00Z",
-      "source": {
-        "name": "Barchart"
+        "name": "The Boston Herald"
       }
     }
   ]
