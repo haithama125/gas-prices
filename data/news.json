@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-10T20:11:52+00:00",
+  "updated_at": "2026-06-11T02:40:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee to average around 96/USD in FY27; risks from oil, dollar persist: Motilal Oswal",
-      "description": "The rupee is likely to average around 96/USD in FY27, however, the outlook remains subject to key downside risks, including potential US dollar appreciation and a rate hike scenario, geopolitical developments, and movements in crude oil prices, according to a report by brokerage house Motilal Oswal.",
-      "url": "https://www.tribuneindia.com/news/business/rupee-to-average-around-96-usd-in-fy27-risks-from-oil-dollar-persist-motilal-oswal/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRjOTAyNWYwLTY0YTItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-10T08:03:17Z",
+      "title": "Oil Prices Extend Gains After Another Big Crude Draw, Cushing 'Tank Bottoms' Loom",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/energy/oil-prices-extend-gains-after-another-big-crude-draw-cushing-tank-bottoms-loom",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-06/bfm9C28.jpg?h=32aff202&itok=HNFzcAgw",
+      "publishedAt": "2026-06-10T14:40:51Z",
       "source": {
-        "name": "The Tribune"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Equity mutual fund inflows fall to 1 year low in May; SIP contributions stay above \u20b930,900 crore",
-      "description": "Equity mutual fund inflows dropped to a one-year low in May 2026 as geopolitical tensions and elevated crude oil prices prompted investors to turn cautious. Despite the moderation, SIP contributions stayed above \u20b930,900 crore, highlighting the resilience of long-term retail participation.",
-      "url": "https://www.businesstoday.in/mutual-funds/story/equity-mutual-fund-inflows-fall-to-1-year-low-in-may-sip-contributions-stay-above-rs30900-crore-536017-2026-06-10",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2913062baed-mutual-fund-103216679-16x9.png",
-      "publishedAt": "2026-06-10T07:32:52Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "BYD\u2019s DM-i technology explained: EV driving, petrol backup, 1,200km range",
-      "description": "Cars News: BYD India has just introduced its DM-i (Dual Mode Intelligent) technology in India, bringing its globally established plug-in hybrid system to the mar.",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/byds-dm-i-technology-explained-ev-driving-petrol-backup-1200km-range/articleshow/131628097.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131628402,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-10T07:23:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Why is market rising? Sensex jumps 1,000 points in 2 days, Nifty crosses 23,400. 3 key factors behind the surge",
-      "description": "Indian stock markets surged for a second consecutive session, with Sensex and Nifty crossing significant milestones. This resilience occurred despite escalating Iran-US tensions, as cooling oil prices and a fizzling AI rally in global markets provided support. Key sectors like FMCG and Private Banks led the gains.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rising-sensex-jumps-1000-points-in-2-days-nifty-crosses-23400-3-key-factors-behind-the-surge/articleshow/131628175.cms",
-      "image": "https://img.etimg.com/thumb/msid-131628193,width-1200,height-630,imgsize-1246653,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-10T07:14:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Gold prices drop amid US-Iran hostilities",
-      "description": "Explore how gold prices are affected by rising oil prices and renewed US-Iran hostilities, with insights on market adjustments and inflation concerns. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/gold-prices-drop-as-oil-rises-on-renewed-us-iran-hostilities",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b4c1dbf69232cfe9088ab42ac78fb849c15a21bdcf503e466dac1f45aeb65c75",
-      "publishedAt": "2026-06-10T07:06:00Z",
-      "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "This Electric Scooter Has A 141 km/h Top Speed - Faster Than Your Escape Plan From Work",
-      "description": "Electric scooters have evolved, and now they offer impressive speed and performance, often outpacing traditional petrol vehicles. Here's a closer look at Ola S1 Pro+ Gen 3, featuring a 5.2kWh battery that can be an ideal option for people searching a faster electric scooter., Electric Vehicles, Times Now",
-      "url": "https://www.timesnownews.com/auto/electric-vehicles/this-electric-scooter-has-a-141-kmph-top-speed-faster-than-your-escape-plan-from-work-article-154548910",
-      "image": "https://images.timesnownews.com/thumb/msid-154548910,width-1280,height-720,resizemode-75/154548910.jpg",
-      "publishedAt": "2026-06-10T07:01:00Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Left parties block NH in Vijayawada over fuel, gas price hikes",
-      "description": "Left activists blocked the National Highway at Krishnalanka in Vijayawada on June 9, halting traffic for 30 minutes over rising petrol, diesel and LPG prices.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/left-parties-block-nh-in-vijayawada-over-fuel-gas-price-hikes/article71081217.ece",
-      "image": "https://th-i.thgim.com/public/incoming/bjaagz/article71081981.ece/alternates/LANDSCAPE_1200/vjkvg-fuel%201.JPG",
-      "publishedAt": "2026-06-10T06:58:56Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Euro Zone Bonds Hold Steady Amid Geopolitical Tensions and Inflation Watch",
-      "description": "Euro zone bond yields slightly decreased due to muted reaction in oil prices despite U.S.-Iran tensions. Traders focused on upcoming U.S. inflation data and ECB's anticipated interest rate hike. Geopolitical strains have maintained high yields, with markets anticipating further rate increases by the ECB and Federal Reserve.",
-      "url": "https://www.devdiscourse.com/article/business/3932975-euro-zone-bonds-hold-steady-amid-geopolitical-tensions-and-inflation-watch",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_12_48_02_7199448.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-10T06:55:04Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Asian shares fall after a tech sell-off on Wall Street, while oil prices stabilize",
-      "description": "Asian shares have mostly retreated and oil prices rose and then fell back after the U.S. launched fresh airstrikes against Iran, raising questions again over prospects for a permanent end to the war",
-      "url": "https://www.barchart.com/story/news/2391621/asian-shares-fall-after-a-tech-sell-off-on-wall-street-while-oil-prices-stabilize",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4ab8a996ffe241bfbd6b31c398488cd3/4ab8a996ffe241bfbd6b31c398488cd3_main_south_korea_financial_markets_678_1.jpg",
-      "publishedAt": "2026-06-10T06:53:09Z",
+      "title": "US households, businesses stung by higher energy prices that have pushed inflation above 4%",
+      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near",
+      "url": "https://www.barchart.com/story/news/2395236/us-households-businesses-stung-by-higher-energy-prices-that-have-pushed-inflation-above-4",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a7a40e4b304340ea9e7557446ef3d0c1/a7a40e4b304340ea9e7557446ef3d0c1_main_us_gasoline_prices__3_79.jpg",
+      "publishedAt": "2026-06-10T14:36:27Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Oil Prices: Fitch sees Crude slipping to $70 by September if Strait of Hormuz opens in July",
-      "description": "Brent crude prices have fluctuated due to the Middle East crisis, but Fitch Ratings expects global oil prices to decline to an average of $87 per barrel in 2026 once the Strait of Hormuz reopens. Market oversupply could drive prices lower by late 2026.",
-      "url": "https://www.financialexpress.com/policy/economy/oil-prices-fitch-sees-crude-slipping-to-70-by-september-if-strait-of-hormuz-opens-in-july/4263705/",
-      "image": "https://images.financialexpressdigital.com/2026/06/Crudeoil.jpg",
-      "publishedAt": "2026-06-10T06:42:02Z",
+      "title": "Indonesia hikes prices of two grades of non-subsidised fuel",
+      "description": "Indonesian state-owned energy firm Pertamina has raised prices of two grades of petrol by nearly a third, its first increase since the Iran conflict began. The government says the impact on inflation will be limited, as subsidised fuel prices remain unchanged. But the move is adding to cost-of-living concerns and promp",
+      "url": "https://www.channelnewsasia.com/watch/at22-aslive-indonesia-fuel-price-hike-6174251",
+      "image": "https://dam.mediacorp.sg/image/upload/s--cT9KI-5u--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/10/1781095034-image.jpg?itok=Uh2dW9gW",
+      "publishedAt": "2026-06-10T14:24:11Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "CNA"
+      }
+    },
+    {
+      "title": "Indonesia hikes prices of two grades of non-subsidised fuel",
+      "description": "Indonesian state-owned energy firm Pertamina has raised prices of two grades of petrol by nearly a third, its first increase since the Iran conflict began. The government says the impact on inflation will be limited, as subsidised fuel prices remain unchanged. But the move is adding to cost-of-living concerns and promp",
+      "url": "https://www.channelnewsasia.com/watch/indonesia-hikes-prices-two-grades-non-subsidised-fuel-6174251",
+      "image": "https://dam.mediacorp.sg/image/upload/s--cT9KI-5u--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/10/1781095034-image.jpg?itok=Uh2dW9gW",
+      "publishedAt": "2026-06-10T14:24:11Z",
+      "source": {
+        "name": "CNA"
+      }
+    },
+    {
+      "title": "Reason crude isn't crossing $200? How Iran, Gulf states are bypassing Hormuz blockade to transport oil",
+      "description": "International Business News: Oil prices have surged since Iran\u2019s closure of the Strait of Hormuz and the subsequent US naval blockade of Iranian ports, yet crude has stopped well .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/reason-crude-isnt-crossing-200-how-iran-gulf-states-are-bypassing-hormuz-blockade-to-transport-oil/articleshow/131636910.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131636951,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-10T14:01:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Escalation in the Strait-U.S.-Iran Tensions Flare Anew",
+      "description": "Tensions between the U.S. and Iran have surged as both countries engage in military strikes following the downing of a U.S. helicopter. President Trump warned Iran will 'pay the price,' while Iran vowed to reassess diplomatic engagement. The conflict threatens peace talks and impacts oil prices and regional diplomacy.",
+      "url": "https://www.devdiscourse.com/article/politics/3933178-escalation-in-the-straitus-iran-tensions-flare-anew",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2025_16_55_09_1006918.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-10T13:59:27Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Inflation hits 3-year high, highlighting affordability challenge for Americans",
+      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near. Consumer prices rose 4.2% in May from a year earlier, the Labor Department said Wednesday, up from 3.8% in April and the third straight increase. On a monthly basis, prices rose 0.5% last month, after big gains of 0.6% in April and 0.9% in March.",
+      "url": "https://www.ajc.com/news/2026/06/inflation-hits-3-year-high-on-spike-in-prices-highlighting-affordability-challenges-for-americans/",
+      "image": "https://images.ajc.com/resizer/v2/Y6LBSKK45NCMHPQI5KB2GEEGHY.jpg?auth=14c489a3894cd03746fe5209591c1183eec214fdd37c7086aefd22b7d4c90a08&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-10T13:41:55Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "War impact: Investors turned cautious in May as equity MF inflows hit 1-year low",
+      "description": "In May, Indian investors became cautious due to the West Asia war and high crude oil prices, leading to a 40% drop in net inflows into equity mutual funds.\u00a0Despite a decline in SIP investments for the second consecutive month, overall MFs saw net outflows of Rs 64,021 crore, attributed to market volatility and cautiousness according [\u2026]",
+      "url": "https://indianexpress.com/shorts/business/war-investors-may-equity-inflowsequity-mutual-fund-gold-etf-west-asia-10733404/",
+      "image": "https://images.indianexpress.com/2026/06/iran-war-454_20260608222932.jpg",
+      "publishedAt": "2026-06-10T13:35:20Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "How India uses its forex reserves to defend the rupee when global shocks hit",
+      "description": "When oil prices surge, foreign investors pull money out, or global markets panic, the RBI often steps into the currency market using India's forex reserves. Here's how those reserves help stabilize the rupee and shield the economy from bigger shocks.",
+      "url": "https://www.cnbctv18.com/market/currency/how-india-uses-its-forex-reserves-to-defend-the-rupee-when-global-shocks-hit-ws-l-19923206.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/rbi-reserve-bank-of-india-rupee-dollar-currency-may22-2026-05-52ae58505ebdc5a065068b70782f4f6a.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-06-10T13:32:22Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Inflation hits 3-year high, highlighting affordability challenge for Americans",
+      "description": "Rising gas prices pushed inflation to its highest level in three years last month, a headache for the Federal Reserve and a potential political challenge for the Trump administration as midterm elections near",
+      "url": "https://www.barchart.com/story/news/2395236/inflation-hits-3-year-high-highlighting-affordability-challenge-for-americans",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a7a40e4b304340ea9e7557446ef3d0c1/a7a40e4b304340ea9e7557446ef3d0c1_main_us_gasoline_prices__3_79.jpg",
+      "publishedAt": "2026-06-10T13:31:00Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
