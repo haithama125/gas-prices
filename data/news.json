@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-12T14:35:09+00:00",
+  "updated_at": "2026-06-12T19:53:13+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "In major decision, Government bans sale of high-speed diesel at petrol pumps for THESE buyers",
-      "description": "This step was taken to curb diesel hoarding and aims to ensure fuel availability for general consumers and essential services. - In major decision, Government bans sale of high-speed diesel at petrol pumps for THESE buyers",
-      "url": "https://www.india.com/business/in-major-decision-government-bans-sale-of-high-speed-diesel-at-petrol-pumps-for-these-buyers-petrol-diesel-news-west-asia-oil-supplies-8444052/",
-      "image": "https://static.india.com/wp-content/uploads/2026/06/Petrol-Diesel-price-today-.jpg",
-      "publishedAt": "2026-06-12T02:33:26Z",
-      "source": {
-        "name": "India.com"
-      }
-    },
-    {
-      "title": "Petrol, Diesel prices today, June 12: Check prices in Delhi, Mumbai, Kolkata, Chennai, Hyderabad",
-      "description": "Petrol prices in New Delhi had\u00a0crossed the Rs 100 mark in the last hike. It\u00a0now costs Rs 102.12 per litre and diesel Rs 95.20 per litre following the latest increase",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-12-check-prices-in-delhi-mumbai-kolkata-chennai-hyderabad-536435-2026-06-12",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2b6d3a8dec2-petrol--diesel-prices-today--june-12-122140577-16x9.jpg",
-      "publishedAt": "2026-06-12T02:33:14Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Govt bars industries from buying petrol, diesel at pumps; mandates bulk purchase route",
-      "description": "India Business News: Centre has barred industrial, commercial and institutional users from purchasing petrol and diesel from retail fuel outlets, rather switch to bulk sel.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/govt-bars-industries-from-buying-petrol-diesel-at-pumps-mandates-bulk-purchase-route/articleshow/131671775.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131671954,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-12T02:33:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Oil prices fall as Trump cancels planned strikes on Iran",
-      "description": "Brent and WTI futures decline amid reduced fears of escalation in West Asia",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-fall-as-trump-cancels-planned-strikes-on-iran/article71092086.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/18ojes/article71077771.ece/alternates/LANDSCAPE_1200/455444240.jpg",
-      "publishedAt": "2026-06-12T02:29:57Z",
+      "title": "World shares surge, oil prices slip after Trump claims breakthrough in Iran war talks",
+      "description": "World shares advanced on Friday, tracking big Wall Street gains, while oil prices slipped after US President Donald Trump claimed there was a breakthrough in talks to end the Iran war.",
+      "url": "https://www.thehindubusinessline.com/markets/world-shares-surge-oil-prices-slip-after-trump-claims-breakthrough-in-iran-war-talks/article71092766.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/vws4ny/article71092785.ece/alternates/LANDSCAPE_1200/PO02_Up_arrow.jpg",
+      "publishedAt": "2026-06-12T07:52:27Z",
       "source": {
         "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Indian shares open higher as oil falls on Middle East hopes",
-      "description": "Indian shares opened higher on Friday tracking gains in \u200bother Asian markets, as oil \u200cprices fell after U.S. President Donald Trump cancelled plans to strike Iran, \u200bciting progress in talks.",
-      "url": "https://www.reuters.com/world/india/indian-shares-set-open-higher-weaker-oil-amid-mideast-hopes-2026-06-12/",
-      "image": "https://www.reuters.com/resizer/v2/UBSPRD5JWRIVLC42EJU5CT2VW4.jpg?auth=26fc3e2a7d21d2d8fb1a41d05b1b187d80ab29b5dadf00093bdd2e6267b4a18c&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-12T02:24:44Z",
+      "title": "European stocks rally as oil falls on hopes for US-Iran deal",
+      "description": "European shares rallied at open on Friday, \u200cwith all major indexes gaining more than 1%, as oil prices slipped on hopes for a diplomatic breakthrough in the Middle East.",
+      "url": "https://www.reuters.com/markets/europe/european-stocks-rally-oil-falls-hopes-us-iran-deal-2026-06-12/",
+      "image": "https://www.reuters.com/resizer/v2/CZVOHT5LSJLYLGAVZVRX57AQDQ.jpg?auth=8509bdf73cfe43118aeb25e7a4ef53d57c9f5210b2ec174fbea1b95d31cfca69&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-12T07:41:23Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Indian shares set to open higher on weaker oil amid Mideast hopes",
-      "description": "Indian shares are set to open higher on Friday, tracking gains in other Asian markets, as oil prices fell after U.S. President Donald Trump cancelled plans to strike Iran citing progress in talks.\n...",
-      "url": "https://www.marketscreener.com/news/indian-shares-set-to-open-higher-on-weaker-oil-amid-mideast-hopes-ce7f5cd8de81f324",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-01T114900Z_1_LYNXMPEL7020D_RTROPTP_4_INDIA-STOCKS.JPG",
-      "publishedAt": "2026-06-12T02:21:30Z",
+      "title": "European stocks rally as oil falls on hopes for US-Iran deal",
+      "description": "European shares rallied at open on Friday, with all major indexes gaining more than 1%, as oil prices slipped on hopes for a diplomatic breakthrough in the Middle East.\nBrent crude fell...",
+      "url": "https://www.marketscreener.com/news/european-stocks-rally-as-oil-falls-on-hopes-for-us-iran-deal-ce7f5cd8d08bf627",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-11T043538Z_1_LYNXMPEM5A07I_RTROPTP_4_EUROPE-STOCKS.JPG",
+      "publishedAt": "2026-06-12T07:40:29Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
+      "title": "European Markets Surge Amid Oil Price Drop and Diplomatic Hopes",
+      "description": "European shares rose over 1% as oil prices slipped, driven by hopes of diplomatic progress in the Middle East. The STOXX 600 index gained 1.2%, boosted by gains in travel, leisure, and banking stocks. Meanwhile, German inflation slightly eased, and the UK economy contracted by 0.1% in April.",
+      "url": "https://www.devdiscourse.com/article/business/3934148-european-markets-surge-amid-oil-price-drop-and-diplomatic-hopes",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_15_36_39_2906988.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-12T07:39:28Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
       "title": "Govt Bars Bulk Industrial Petrol, Diesel Purchases Through Petrol Pumps",
-      "description": "The government has implemented a temporary ban on industrial, commercial, and institutional users from purchasing petrol and diesel at retail outlets, mandating these consumers to obtain fuel from bulk sale points instead., India News, Times Now",
-      "url": "https://www.timesnownews.com/india/govt-bans-bulk-industrial-petrol-diesel-purchases-through-petrol-pumps-amid-west-asia-crisis-article-154579195",
-      "image": "https://images.timesnownews.com/thumb/msid-154579195,width-1280,height-720,resizemode-75/154579195.jpg",
-      "publishedAt": "2026-06-12T02:16:25Z",
+      "description": "The differential arose as state-owned oil companies modulated retail prices to insulate common users from the spike in cost that followed the West Asia crisis in late February.",
+      "url": "https://www.deccanchronicle.com/nation/govt-bars-bulk-industrial-petrol-diesel-purchases-through-petrol-pumps-1963086",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/12/2050967-la-3302342.jpg",
+      "publishedAt": "2026-06-12T07:36:06Z",
       "source": {
-        "name": "Times Now"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 12",
-      "description": "Fuel prices stay unchanged on June 12, 2026, after recent hikes in petrol, diesel, LPG, CNG and PNG rates. Petrol is the costliest in Hyderabad and diesel in Thiruvananthapuram.",
-      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-12-10144395.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/05/1780037231_1779198912_1778942618_1775056003_1774944443_1774942556_Petrol-Pump-Scam-2026-01-5ea20dcf9e36d209c7fdb6772e768f83-1200x675.jpg",
-      "publishedAt": "2026-06-12T02:13:38Z",
+      "title": "Government's new petrol, diesel order: Who is affected, and why was it introduced?",
+      "description": "The Centre has restricted industrial and commercial bulk fuel purchases from retail pumps. The move aims to protect pump supplies for ordinary consumers amid a wide retail-bulk price gap.",
+      "url": "https://www.indiatoday.in/business/story/why-centre-stopped-industries-buying-petrol-diesel-from-pumps-explained-2925572-2026-06-12",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/petrol-and-diesel-restriction-123317602-16x9_0.jpg?VersionId=W5gLLRGilETiq6jWviZFTUX.VP.xMELS",
+      "publishedAt": "2026-06-12T07:33:32Z",
       "source": {
-        "name": "News18"
+        "name": "India Today"
       }
     },
     {
-      "title": "Today Petrol, Diesel Prices June 12: Petrol remains above at Rs 102/litre in Delhi; Check fuel prices in Chennai, Mumbai, Kolkata, Bengaluru",
-      "description": "Today Petrol, Diesel Prices June 12: Check fuel prices in Chennai, Mumbai, Kolkata, Bengaluru, Delhi.",
-      "url": "https://www.india.com/business/petrol-diesel-prices-june-120626-petrol-diesel-rates-delhi-kolkata-noida-chennai-mumbai-iran-war-strait-of-hormuz-brent-crude-oil-indian-oil-bharat-petroleum-fuel-hpcl-fuel-price-hike-updates-8444043/",
-      "image": "https://static.india.com/wp-content/uploads/2026/06/u-19.jpg",
-      "publishedAt": "2026-06-12T02:12:37Z",
+      "title": "World shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks",
+      "description": "World shares have advanced in the wake of big Wall Street gains, while oil prices slipped more than 1% after U.S. President Donald Trump claimed there was a breakthrough in talks on ending the Iran war. South Korea's Kospi jumped 7.8% and Tokyo's Nikkei 225 gained 3.5%. Trump said he called off military strikes against Iran and had made \u201ca great settlement of the war with Iran.\u201d He said an extension of the war's tenuous ceasefire may be finalized \u201cover the next few days.\u201d On Thursday, the S&P 500 rallied 1.8%. The Dow industrials surged 1.9%, and the Nasdaq composite jumped 2.5%. Investors were awaiting the debut Friday on Wall Street of SpaceX, Elon Musk\u2019s rocket company.",
+      "url": "https://www.ajc.com/news/2026/06/asian-shares-surge-and-oil-prices-slip-after-trump-claims-a-breakthrough-in-iran-war-talks/",
+      "image": "https://images.ajc.com/resizer/v2/4BGPBSS56VCQFLI74ZVKS7FKM4.jpg?auth=57e85ff9635cb3a0353e37e526f2bd7e47958bded5374f1bd55de1ae62307b62&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-12T07:21:40Z",
       "source": {
-        "name": "India.com"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Stock market today: Gift Nifty hints gap-up start; US-Iran peace deal to global markets rally - 7 stocks to buy",
-      "description": "Indian markets may open positively on June 12, 2026, following a strong rally in global equities amid optimism for a US-Iran peace deal. Oil prices dropped as tensions eased, while Asian markets showed resilience, marking a rebound in investor confidence.",
-      "url": "https://www.livemint.com/market/stock-market-today-gift-nifty-hints-gap-up-start-us-iran-peace-deal-to-global-markets-rally-7-stocks-to-buy-11781227099121.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/pexels-photo-6801647_1759976624214_1759976636647_1781229757277_22e77198-d492-43d4-ad85-b2fa855f57d2.jpeg",
-      "publishedAt": "2026-06-12T02:08:24Z",
+      "title": "Oil Below $90 a Barrel After Trump Cancels Iran Strikes",
+      "description": "By Giulia Petroni\nOil prices fell below $90 a barrel on Friday, extending losses from the previous session after President Trump called off planned strikes on Iran and said a peace deal could be...",
+      "url": "https://www.marketscreener.com/news/oil-below-90-a-barrel-after-trump-cancels-iran-strikes-ce7f5cd8d088f62c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-02-08T030825Z_1_LYNXMPED17043_RTROPTP_2_OIL-ARBITRAGE.JPG",
+      "publishedAt": "2026-06-12T07:21:29Z",
       "source": {
-        "name": "Livemint"
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "World shares surge and oil prices slip after Trump claims a breakthrough in Iran war talks",
+      "description": "World shares have advanced in the wake of big Wall Street gains, while oil prices slipped more than 1% after U.S. President Donald Trump claimed there was a breakthrough in talks on ending the Iran war",
+      "url": "https://www.barchart.com/story/news/2433656/world-shares-surge-and-oil-prices-slip-after-trump-claims-a-breakthrough-in-iran-war-talks",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b817b731cb3c42babf798fa7c7c779b2/b817b731cb3c42babf798fa7c7c779b2_main_south_korea_financial_markets_11832.jpg",
+      "publishedAt": "2026-06-12T07:18:56Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Frankfurt Opening Bell: Solid Gains as Trump Abandons Iran Strike",
+      "description": "FRANKFURT : U.S. President Donald Trump's decision to call off a military strike against Iran led to a retreat in oil prices on Friday, providing significant momentum for the German stock market at...",
+      "url": "https://www.marketscreener.com/news/frankfurt-opening-bell-solid-gains-as-trump-abandons-iran-strike-ce7f5cd8d089f02c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2017-01-02T083145Z_1_LYNXMPED0105K_RTROPTP_2_MARKETS-EUROPE-STOCKS.JPG",
+      "publishedAt": "2026-06-12T07:14:23Z",
+      "source": {
+        "name": "MarketScreener"
       }
     }
   ]
