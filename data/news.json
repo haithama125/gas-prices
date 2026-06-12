@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-12T09:56:42+00:00",
+  "updated_at": "2026-06-12T14:35:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold dips amid renewed Mideast conflict",
-      "description": "Renewed hostility between the US and Iran, which has caused oil prices to remain elevated longer than expected, has triggered a fresh downturn in gold prices, potentially dipping to US$3,500-3,600 an ounce or 60,000 baht per baht-weight domestically, says Kritcharat Hirunyasiri, chairman of MTS Gold.",
-      "url": "https://www.bangkokpost.com/business/general/3269615/gold-dips-amid-renewed-mideast-conflict",
-      "image": "https://static.bangkokpost.com/media/content/20260612/c1_3269615_260612044227_700.jpg",
-      "publishedAt": "2026-06-11T21:42:00Z",
+      "title": "In major decision, Government bans sale of high-speed diesel at petrol pumps for THESE buyers",
+      "description": "This step was taken to curb diesel hoarding and aims to ensure fuel availability for general consumers and essential services. - In major decision, Government bans sale of high-speed diesel at petrol pumps for THESE buyers",
+      "url": "https://www.india.com/business/in-major-decision-government-bans-sale-of-high-speed-diesel-at-petrol-pumps-for-these-buyers-petrol-diesel-news-west-asia-oil-supplies-8444052/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/Petrol-Diesel-price-today-.jpg",
+      "publishedAt": "2026-06-12T02:33:26Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "India.com"
       }
     },
     {
-      "title": "US stocks rally, oil prices fall as Trump calls off fresh Iran strikes",
-      "description": "NEW YORK: Wall Street stocks rallied and oil prices tumbled Thursday (Jun 11) after US President Donald Trump pulled back from renewed US strikes on Iran while European equities edged higher after the ECB raised interest rates.Trump jolted markets near 1730 GMT announcing he was calling off",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-trump-iran-strikes-deal-6177956",
-      "image": "https://dam.mediacorp.sg/image/upload/s--UUvhtQaG--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/12/ap26154532808503.jpg?itok=dK4VFjht",
-      "publishedAt": "2026-06-11T21:37:39Z",
+      "title": "Petrol, Diesel prices today, June 12: Check prices in Delhi, Mumbai, Kolkata, Chennai, Hyderabad",
+      "description": "Petrol prices in New Delhi had\u00a0crossed the Rs 100 mark in the last hike. It\u00a0now costs Rs 102.12 per litre and diesel Rs 95.20 per litre following the latest increase",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-12-check-prices-in-delhi-mumbai-kolkata-chennai-hyderabad-536435-2026-06-12",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2b6d3a8dec2-petrol--diesel-prices-today--june-12-122140577-16x9.jpg",
+      "publishedAt": "2026-06-12T02:33:14Z",
       "source": {
-        "name": "CNA"
+        "name": "Business Today"
       }
     },
     {
-      "title": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
-      "description": "Brian Sullivan shares his insight from the sidelines of the Global Energy Forum in Washington, DC.",
-      "url": "https://www.cnbc.com/2026/06/11/what-energy-insiders-in-dc-are-saying-about-oil-prices-and-a-possible-iran-deal.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108319718-17811099602026-06-10t103300z_524622138_rc2sqlaxpebz_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1781110040&w=1920&h=1080",
-      "publishedAt": "2026-06-11T21:29:14Z",
+      "title": "Govt bars industries from buying petrol, diesel at pumps; mandates bulk purchase route",
+      "description": "India Business News: Centre has barred industrial, commercial and institutional users from purchasing petrol and diesel from retail fuel outlets, rather switch to bulk sel.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/govt-bars-industries-from-buying-petrol-diesel-at-pumps-mandates-bulk-purchase-route/articleshow/131671775.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131671954,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-12T02:33:00Z",
       "source": {
-        "name": "CNBC"
+        "name": "Times of India"
       }
     },
     {
-      "title": "ASX set for strong start after Wall Street rebounds as Trump signals US",
-      "description": "The ASX is set for a strong start after Wall Street rallied and oil prices tumbled. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-06-12/asx-markets-business-news-live-updates/106789264",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-06-11T21:02:34Z",
+      "title": "Oil prices fall as Trump cancels planned strikes on Iran",
+      "description": "Brent and WTI futures decline amid reduced fears of escalation in West Asia",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-fall-as-trump-cancels-planned-strikes-on-iran/article71092086.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/18ojes/article71077771.ece/alternates/LANDSCAPE_1200/455444240.jpg",
+      "publishedAt": "2026-06-12T02:29:57Z",
       "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again",
-      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
-      "url": "https://www.latimes.com/business/story/2026-06-11/stocks-jump-to-their-best-day-in-2-months-on-hopes-for-deal-to-get-crude-flowing-globally-again",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/32cce67/2147483647/strip/true/crop/5555x2916+0+393/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2Fb4%2Fbb61222c4a09aa61e7a3133be96a%2Fd6c50c9723444f14adb63dfd0974f65b.jpg",
-      "publishedAt": "2026-06-11T20:45:22Z",
+      "title": "Indian shares open higher as oil falls on Middle East hopes",
+      "description": "Indian shares opened higher on Friday tracking gains in \u200bother Asian markets, as oil \u200cprices fell after U.S. President Donald Trump cancelled plans to strike Iran, \u200bciting progress in talks.",
+      "url": "https://www.reuters.com/world/india/indian-shares-set-open-higher-weaker-oil-amid-mideast-hopes-2026-06-12/",
+      "image": "https://www.reuters.com/resizer/v2/UBSPRD5JWRIVLC42EJU5CT2VW4.jpg?auth=26fc3e2a7d21d2d8fb1a41d05b1b187d80ab29b5dadf00093bdd2e6267b4a18c&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-12T02:24:44Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Reuters"
       }
     },
     {
-      "title": "US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again",
-      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
-      "url": "https://www.barchart.com/story/news/2412233/us-stocks-jump-to-their-best-day-in-2-months-on-hopes-for-a-deal-to-get-crude-flowing-globally-again",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4b11a40c56174cd28767b1d4f7d8d592/4b11a40c56174cd28767b1d4f7d8d592_main_financial_markets_wall_street__85_3.jpg",
-      "publishedAt": "2026-06-11T20:20:43Z",
+      "title": "Indian shares set to open higher on weaker oil amid Mideast hopes",
+      "description": "Indian shares are set to open higher on Friday, tracking gains in other Asian markets, as oil prices fell after U.S. President Donald Trump cancelled plans to strike Iran citing progress in talks.\n...",
+      "url": "https://www.marketscreener.com/news/indian-shares-set-to-open-higher-on-weaker-oil-amid-mideast-hopes-ce7f5cd8de81f324",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-01T114900Z_1_LYNXMPEL7020D_RTROPTP_4_INDIA-STOCKS.JPG",
+      "publishedAt": "2026-06-12T02:21:30Z",
       "source": {
-        "name": "Barchart"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Dow Jumps 930 Points, Best Day in 2 Months",
-      "description": "US Stocks Jump, and Oil Prices Ease on Hopes for a Deal to Get Crude Flowing Globally again",
-      "url": "https://www.newsmax.com/finance/streettalk/stocks-rally-oil/2026/06/11/id/1259380/",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e8045806-1fdb-47d8-b1f6-a6c5175df841&SiteName=Newsmax",
-      "publishedAt": "2026-06-11T20:19:08Z",
+      "title": "Govt Bars Bulk Industrial Petrol, Diesel Purchases Through Petrol Pumps",
+      "description": "The government has implemented a temporary ban on industrial, commercial, and institutional users from purchasing petrol and diesel at retail outlets, mandating these consumers to obtain fuel from bulk sale points instead., India News, Times Now",
+      "url": "https://www.timesnownews.com/india/govt-bans-bulk-industrial-petrol-diesel-purchases-through-petrol-pumps-amid-west-asia-crisis-article-154579195",
+      "image": "https://images.timesnownews.com/thumb/msid-154579195,width-1280,height-720,resizemode-75/154579195.jpg",
+      "publishedAt": "2026-06-12T02:16:25Z",
       "source": {
-        "name": "Newsmax"
+        "name": "Times Now"
       }
     },
     {
-      "title": "US stocks jump, and oil prices ease on hopes for a deal to get crude flowing globally again",
-      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening. That raised hopes Thursday for a potential deal to get the global flow of oil going again. The S&P 500 jumped 1.8%, coming off a back-to-back drop that had yanked it back to where it was in early May. The Dow Jones Industrial Average leaped 1.9%, and the Nasdaq composite rallied 2.5%. Strong gains for chip stocks helped offset a slide for Oracle. Treasury yields eased sharply in the bond market.",
-      "url": "https://www.ajc.com/news/2026/06/us-stocks-jump-and-oil-prices-fall-after-trump-calls-off-his-threat-to-attack-iran/",
-      "image": "https://images.ajc.com/resizer/v2/SA7EWPQFDJEGPAOZ5I77MXDDKI.jpg?auth=6ea12d129d3351cf1661850aba21b1baf1f83f3e2d7423673ecdb703602527de&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-11T20:11:35Z",
+      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 12",
+      "description": "Fuel prices stay unchanged on June 12, 2026, after recent hikes in petrol, diesel, LPG, CNG and PNG rates. Petrol is the costliest in Hyderabad and diesel in Thiruvananthapuram.",
+      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-12-10144395.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/05/1780037231_1779198912_1778942618_1775056003_1774944443_1774942556_Petrol-Pump-Scam-2026-01-5ea20dcf9e36d209c7fdb6772e768f83-1200x675.jpg",
+      "publishedAt": "2026-06-12T02:13:38Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "News18"
       }
     },
     {
-      "title": "US stocks jump, and oil prices ease on hopes for a deal to get crude flowing globally again",
-      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
-      "url": "https://www.barchart.com/story/news/2412233/us-stocks-jump-and-oil-prices-ease-on-hopes-for-a-deal-to-get-crude-flowing-globally-again",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4b11a40c56174cd28767b1d4f7d8d592/4b11a40c56174cd28767b1d4f7d8d592_main_financial_markets_wall_street__85_3.jpg",
-      "publishedAt": "2026-06-11T20:06:11Z",
+      "title": "Today Petrol, Diesel Prices June 12: Petrol remains above at Rs 102/litre in Delhi; Check fuel prices in Chennai, Mumbai, Kolkata, Bengaluru",
+      "description": "Today Petrol, Diesel Prices June 12: Check fuel prices in Chennai, Mumbai, Kolkata, Bengaluru, Delhi.",
+      "url": "https://www.india.com/business/petrol-diesel-prices-june-120626-petrol-diesel-rates-delhi-kolkata-noida-chennai-mumbai-iran-war-strait-of-hormuz-brent-crude-oil-indian-oil-bharat-petroleum-fuel-hpcl-fuel-price-hike-updates-8444043/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/u-19.jpg",
+      "publishedAt": "2026-06-12T02:12:37Z",
       "source": {
-        "name": "Barchart"
+        "name": "India.com"
       }
     },
     {
-      "title": "US stocks: Dow soars 900 pts, Nasdaq over 2% as Trump says Iran deal likely soon",
-      "description": "Wall Street surged Thursday as President Trump called off Iran strikes, easing oil prices and boosting stocks. Investors anticipate SpaceX's record-breaking IPO today, with shares set to debut Friday. Despite inflation concerns from producer price data, the market showed resilience, with major indexes posting significant gains. The Fed is expected to maintain current interest rates.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-indexes-jump-trump-says-strikes-against-iran-canceled/articleshow/131668627.cms",
-      "image": "https://img.etimg.com/thumb/msid-131668630,width-1200,height-630,imgsize-134664,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-11T20:02:00Z",
+      "title": "Stock market today: Gift Nifty hints gap-up start; US-Iran peace deal to global markets rally - 7 stocks to buy",
+      "description": "Indian markets may open positively on June 12, 2026, following a strong rally in global equities amid optimism for a US-Iran peace deal. Oil prices dropped as tensions eased, while Asian markets showed resilience, marking a rebound in investor confidence.",
+      "url": "https://www.livemint.com/market/stock-market-today-gift-nifty-hints-gap-up-start-us-iran-peace-deal-to-global-markets-rally-7-stocks-to-buy-11781227099121.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/12/1600x900/logo/pexels-photo-6801647_1759976624214_1759976636647_1781229757277_22e77198-d492-43d4-ad85-b2fa855f57d2.jpeg",
+      "publishedAt": "2026-06-12T02:08:24Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Livemint"
       }
     }
   ]
