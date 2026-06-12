@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-12T02:36:19+00:00",
+  "updated_at": "2026-06-12T09:56:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Applegreen lands Popeyes deal with 450 new jobs headed for Ireland",
-      "description": "Applegreen customers will soon be able to enjoy Popeyes Louisiana Fried Chicken at petrol stations around the country as deal announced",
-      "url": "https://extra.ie/2026/06/11/news/applegreen-lands-popeyes-deal",
-      "image": "https://extra.ie/wp-content/uploads/2026/06/Popeyes-1.jpg",
-      "publishedAt": "2026-06-11T14:29:49Z",
+      "title": "Gold dips amid renewed Mideast conflict",
+      "description": "Renewed hostility between the US and Iran, which has caused oil prices to remain elevated longer than expected, has triggered a fresh downturn in gold prices, potentially dipping to US$3,500-3,600 an ounce or 60,000 baht per baht-weight domestically, says Kritcharat Hirunyasiri, chairman of MTS Gold.",
+      "url": "https://www.bangkokpost.com/business/general/3269615/gold-dips-amid-renewed-mideast-conflict",
+      "image": "https://static.bangkokpost.com/media/content/20260612/c1_3269615_260612044227_700.jpg",
+      "publishedAt": "2026-06-11T21:42:00Z",
       "source": {
-        "name": "Extra.ie"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Southern California inflation hits 5-month high as gas prices jump 27%",
-      "description": "Your grocery run is adding to your inflation headache, too, as Southern California prices rose at a 3.6% annual rate in May.",
-      "url": "https://www.sandiegouniontribune.com/2026/06/11/southern-california-inflation-hits-5-month-high-as-gas-prices-jump-27/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/06/SoCal-vs.-US-inflation-rate@2x.jpeg?w=1024&h=576",
-      "publishedAt": "2026-06-11T14:24:44Z",
+      "title": "US stocks rally, oil prices fall as Trump calls off fresh Iran strikes",
+      "description": "NEW YORK: Wall Street stocks rallied and oil prices tumbled Thursday (Jun 11) after US President Donald Trump pulled back from renewed US strikes on Iran while European equities edged higher after the ECB raised interest rates.Trump jolted markets near 1730 GMT announcing he was calling off",
+      "url": "https://www.channelnewsasia.com/world/us-stocks-oil-prices-trump-iran-strikes-deal-6177956",
+      "image": "https://dam.mediacorp.sg/image/upload/s--UUvhtQaG--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/12/ap26154532808503.jpg?itok=dK4VFjht",
+      "publishedAt": "2026-06-11T21:37:39Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "CNA"
       }
     },
     {
-      "title": "Southern California inflation hits 5-month high as gas prices jump 27%",
-      "description": "Your grocery run is adding to your inflation headache, too, as Southern California prices rose at a 3.6% annual rate in May.",
-      "url": "https://www.ocregister.com/2026/06/11/southern-california-inflation-hits-5-month-high-as-gas-prices-jump-27/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/06/SoCal-vs.-US-inflation-rate@2x.jpeg?w=1024&h=576",
-      "publishedAt": "2026-06-11T14:24:44Z",
+      "title": "What energy insiders in DC are saying about oil prices and a possible Iran deal",
+      "description": "Brian Sullivan shares his insight from the sidelines of the Global Energy Forum in Washington, DC.",
+      "url": "https://www.cnbc.com/2026/06/11/what-energy-insiders-in-dc-are-saying-about-oil-prices-and-a-possible-iran-deal.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108319718-17811099602026-06-10t103300z_524622138_rc2sqlaxpebz_rtrmadp_0_iran-crisis-oman-hormuz.jpeg?v=1781110040&w=1920&h=1080",
+      "publishedAt": "2026-06-11T21:29:14Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Global Markets Stumble Amid U.S.-Iran Tensions and ECB Rate Hike",
-      "description": "Global markets faced mixed signals as U.S.-Iran negotiations influenced oil prices and the ECB introduced its first rate hike in three years. Despite a drop in tech stocks and tensions in the Middle East, markets showed resilience. The ECB and U.S. decision paths remain uncertain, affecting growth forecasts.",
-      "url": "https://www.devdiscourse.com/article/business/3933839-global-markets-stumble-amid-us-iran-tensions-and-ecb-rate-hike",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_03_2025_12_45_48_8113958.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-11T14:19:32Z",
+      "title": "ASX set for strong start after Wall Street rebounds as Trump signals US",
+      "description": "The ASX is set for a strong start after Wall Street rallied and oil prices tumbled. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-06-12/asx-markets-business-news-live-updates/106789264",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-06-11T21:02:34Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Trump's Fiery Threats Amid U.S.-Iran Tensions: Kharg Island in Crosshairs",
-      "description": "President Donald Trump warned of severe strikes on Iran, targeting the oil-rich Kharg Island, amidst ongoing talks for a peace deal. Despite escalating conflicts, negotiations continue, focusing on the release of Iranian funds and an end to sanctions. Global oil prices remain tense, reflecting the unfolding geopolitical standoff.",
-      "url": "https://www.devdiscourse.com/article/politics/3933838-trumps-fiery-threats-amid-us-iran-tensions-kharg-island-in-crosshairs",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/11_06_2026_18_36_09_305536.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-11T14:15:11Z",
+      "title": "Stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again",
+      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
+      "url": "https://www.latimes.com/business/story/2026-06-11/stocks-jump-to-their-best-day-in-2-months-on-hopes-for-deal-to-get-crude-flowing-globally-again",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/32cce67/2147483647/strip/true/crop/5555x2916+0+393/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F2a%2Fb4%2Fbb61222c4a09aa61e7a3133be96a%2Fd6c50c9723444f14adb63dfd0974f65b.jpg",
+      "publishedAt": "2026-06-11T20:45:22Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Wall Street rises as AI stocks swing back upward and oil prices ease",
-      "description": "U.S. stocks are recovering some of their losses for the week, as the roller coaster for AI companies turns back upward",
-      "url": "https://www.barchart.com/story/news/2412233/wall-street-rises-as-ai-stocks-swing-back-upward-and-oil-prices-ease",
+      "title": "US stocks jump to their best day in 2 months on hopes for a deal to get crude flowing globally again",
+      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
+      "url": "https://www.barchart.com/story/news/2412233/us-stocks-jump-to-their-best-day-in-2-months-on-hopes-for-a-deal-to-get-crude-flowing-globally-again",
       "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4b11a40c56174cd28767b1d4f7d8d592/4b11a40c56174cd28767b1d4f7d8d592_main_financial_markets_wall_street__85_3.jpg",
-      "publishedAt": "2026-06-11T14:09:00Z",
+      "publishedAt": "2026-06-11T20:20:43Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Excise Exemption For Higher Ethanol-Petrol Blends Not A Duty Cut, Only Avoids Double Taxation",
-      "description": "Officials clarified that the move does not amount to a reduction in excise duty on petrol sold for domestic consumption.",
-      "url": "https://www.ndtvprofit.com/economy/excise-exemption-for-higher-ethanol-petrol-blends-not-a-duty-cut-only-avoids-double-taxation-11623559",
-      "image": "https://c.ndtvimg.com/2026-06/ilclegrg_petrol_625x300_11_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-11T14:05:07Z",
+      "title": "Dow Jumps 930 Points, Best Day in 2 Months",
+      "description": "US Stocks Jump, and Oil Prices Ease on Hopes for a Deal to Get Crude Flowing Globally again",
+      "url": "https://www.newsmax.com/finance/streettalk/stocks-rally-oil/2026/06/11/id/1259380/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=e8045806-1fdb-47d8-b1f6-a6c5175df841&SiteName=Newsmax",
+      "publishedAt": "2026-06-11T20:19:08Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "Newsmax"
       }
     },
     {
-      "title": "US stocks rise and oil prices hold steady, even as worries and rates rise due to the Iran war",
-      "description": "The U.S. stock market is holding steadier, as the roller coaster for artificial-intelligence companies swings back upward. Oil prices and Treasury yields are also relatively steady even though worries are rising about the war with Iran and accelerating inflation, which pushed the European Central Bank to raise interest rates. The S&P 500 added 0.2%, coming off a back-to-back drop that pulled it down to where it was in early May. The Dow Jones Industrial Average rose 221 points, and the Nasdaq composite gained 0.2%. Chip stocks lifted the market despite a drop for Oracle, which sank on concerns about how much it's spending on AI.",
-      "url": "https://www.ajc.com/news/2026/06/wall-street-reclaims-some-ground-as-ai-stocks-turn-higher/",
+      "title": "US stocks jump, and oil prices ease on hopes for a deal to get crude flowing globally again",
+      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening. That raised hopes Thursday for a potential deal to get the global flow of oil going again. The S&P 500 jumped 1.8%, coming off a back-to-back drop that had yanked it back to where it was in early May. The Dow Jones Industrial Average leaped 1.9%, and the Nasdaq composite rallied 2.5%. Strong gains for chip stocks helped offset a slide for Oracle. Treasury yields eased sharply in the bond market.",
+      "url": "https://www.ajc.com/news/2026/06/us-stocks-jump-and-oil-prices-fall-after-trump-calls-off-his-threat-to-attack-iran/",
       "image": "https://images.ajc.com/resizer/v2/SA7EWPQFDJEGPAOZ5I77MXDDKI.jpg?auth=6ea12d129d3351cf1661850aba21b1baf1f83f3e2d7423673ecdb703602527de&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-11T14:01:59Z",
+      "publishedAt": "2026-06-11T20:11:35Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "US stocks rise and oil prices hold steady, even as worries and rates rise due to the Iran war",
-      "description": "The U.S. stock market is holding steadier, as the roller coaster for artificial-intelligence companies swings back upward",
-      "url": "https://www.barchart.com/story/news/2412233/us-stocks-rise-and-oil-prices-hold-steady-even-as-worries-and-rates-rise-due-to-the-iran-war",
+      "title": "US stocks jump, and oil prices ease on hopes for a deal to get crude flowing globally again",
+      "description": "U.S. stocks rallied to their best day in two months, and oil prices fell after President Donald Trump called off his threat to bomb Iran in the evening",
+      "url": "https://www.barchart.com/story/news/2412233/us-stocks-jump-and-oil-prices-ease-on-hopes-for-a-deal-to-get-crude-flowing-globally-again",
       "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4b11a40c56174cd28767b1d4f7d8d592/4b11a40c56174cd28767b1d4f7d8d592_main_financial_markets_wall_street__85_3.jpg",
-      "publishedAt": "2026-06-11T13:56:17Z",
+      "publishedAt": "2026-06-11T20:06:11Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Paramilitary groups deny encouraging Belfast violence",
-      "description": "Exclusive: Paramilitary leaders are effectively turning a blind eye to foot-soldiers joining disorder which has seen police pelted with bricks and petrol bombs",
-      "url": "https://www.express.co.uk/news/politics/2216239/paramilitary-groups-have-not-sanctioned",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/6974938.jpg",
-      "publishedAt": "2026-06-11T13:44:00Z",
+      "title": "US stocks: Dow soars 900 pts, Nasdaq over 2% as Trump says Iran deal likely soon",
+      "description": "Wall Street surged Thursday as President Trump called off Iran strikes, easing oil prices and boosting stocks. Investors anticipate SpaceX's record-breaking IPO today, with shares set to debut Friday. Despite inflation concerns from producer price data, the market showed resilience, with major indexes posting significant gains. The Fed is expected to maintain current interest rates.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-indexes-jump-trump-says-strikes-against-iran-canceled/articleshow/131668627.cms",
+      "image": "https://img.etimg.com/thumb/msid-131668630,width-1200,height-630,imgsize-134664,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-11T20:02:00Z",
       "source": {
-        "name": "Daily Express"
+        "name": "The Economic Times"
       }
     }
   ]
