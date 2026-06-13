@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-13T02:29:23+00:00",
+  "updated_at": "2026-06-13T08:46:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks drift as oil falls and Wall Street waits for SpaceX's debut",
-      "description": "U.S. stocks are drifting after oil prices fell again and as Wall Street waits for the highly anticipated debut of SpaceX coming later in the day. The S&P 500 rose 0.1% Friday. The Dow added 166 points, and the Nasdaq composite slipped 0.3%. SpaceX\u2019s stock will begin trading later in the day, and it could show how hungry investors still are for AI stocks following vicious swings and big doubts for them over the last week. Oil prices fell further on hopes for a deal between the United States and Iran that could get oil flowing globally again.",
-      "url": "https://www.ajc.com/news/2026/06/us-stocks-drift-as-oil-falls-and-wall-street-waits-for-spacexs-debut/",
-      "image": "https://images.ajc.com/resizer/v2/FGUTKFCJFRDTZEMKDO72QZNCRA.jpg?auth=aab408d844b289ead95b7dd7600f13d16e9e82075e6f0a99037a9dfd17bc1f07&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-12T14:21:48Z",
+      "title": "Govt slashes petrol price by Rs4, diesel by Rs2 per litre",
+      "description": "ISLAMABAD - The Federal Government slashed petrol price- for 5th time in a row- by Rs 4 per litre, while high speed diesel prices has been slashed by Rs 2 per liter.The",
+      "url": "https://www.nation.com.pk/13-Jun-2026/govt-slashes-petrol-price-rs4-diesel-rs2-per-litre",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-06-12T20:45:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "US stocks rise after oil prices ease and SpaceX soars in its debut on Wall Street",
+      "description": "U.S. stocks rose after oil prices fell again, and SpaceX soared in its highly anticipated debut on Wall Street. The S&P 500 rose 0.5% Friday. The Dow added 0.7%, and the Nasdaq composite gained 0.3%. Stocks got a lift from a 3.4% drop for Brent crude oil's price, as hopes remain for a potential U.S.-Iran deal to get oil flowing globally again. SpaceX leaped 19.3% in its first day of trading, suggesting investors still have plenty of demand for AI-related stocks. Other AI stocks were mixed following their sharp swings over the last week.",
+      "url": "https://www.ajc.com/news/2026/06/us-stocks-rise-after-oil-prices-ease-and-spacex-soars-in-its-debut-on-wall-street/",
+      "image": "https://images.ajc.com/resizer/v2/YZVJLP376ZAS5LVONISQOPZI5M.jpg?auth=0be820c695bb7b62c5051558c77b037c7e2c8d165f42110f27da2eac730055b4&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-12T20:31:19Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "US stocks drift as oil falls and Wall Street waits for SpaceX's debut",
-      "description": "U.S. stocks are drifting after oil prices fell again and as Wall Street waits for the highly anticipated debut of SpaceX coming later in the day",
-      "url": "https://www.barchart.com/story/news/2433656/us-stocks-drift-as-oil-falls-and-wall-street-waits-for-spacex-s-debut",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/45d4b8a618de4593940244ec343a5bb5/45d4b8a618de4593940244ec343a5bb5_main_financial_markets_wall_street_75573.jpg",
-      "publishedAt": "2026-06-12T14:13:01Z",
+      "title": "US Stocks Rise as Oil Prices Ease & SpaceX Soars",
+      "description": "US Stocks Rise after Oil Prices Ease and SpaceX Soars in Its Debut on Wall Street",
+      "url": "https://www.newsmax.com/finance/streettalk/stocks-markets-ai/2026/06/12/id/1259504/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=9b3d877e-4080-462c-b15f-3a88d40182bb&SiteName=Newsmax",
+      "publishedAt": "2026-06-12T20:24:25Z",
+      "source": {
+        "name": "Newsmax"
+      }
+    },
+    {
+      "title": "US Stocks Close Higher as Oil Slides 3%; Dow Gains 337.75 Points",
+      "description": "U.S. stocks closed higher on Friday with the Dow Jones gaining 337.75 points or 0.66% to 51,186.50, supported by a surge in the University of Michigan consumer sentiment index to 48.9 and a 3.3% decline in oil prices. Materials led sector gains at 1.7%, while notable corporate movers included Park Ha Biological Technology surging 139% and Pop Culture Group dropping 79%. European and Asian markets also closed in positive territory.",
+      "url": "https://scanx.trade/stock-market-news/global/dow-jones-industrial-average-gains-212-86-points-at-market-open/42473299",
+      "image": "http://news-images.dhan.co/dow-jones-industrial-average-gains-212-86-points-at-market-open.jpg",
+      "publishedAt": "2026-06-12T20:11:58Z",
+      "source": {
+        "name": "scanx.trade"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Recover on Strong LNG Shipments",
+      "description": "July Nymex natural gas (NGN26 ) on Friday rose +0.033 (+1.07%). Nat-gas prices on Friday rallied +1.07%, overcoming part of Thursday\u2019s sharp sell-off of -3.08% that was sparked by news that EIA nat-gas inventories rose by +108 bcf the week ended June...",
+      "url": "https://www.barchart.com/story/news/2446901/nat-gas-prices-recover-on-strong-lng-shipments",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-06-12T19:57:06Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "US consumer sentiment improves in June",
-      "description": "U.S. consumer sentiment improved in early June as easing gasoline \u200bprices offered households some relief, though \u200cconcerns about inflation lingered, a survey showed on Friday.",
-      "url": "https://www.reuters.com/business/us-consumer-sentiment-improves-june-2026-06-12/",
-      "image": "https://www.reuters.com/resizer/v2/MD4I4HC7N5P3HN55F4C6JUNCSQ.jpg?auth=05cff361166fc8958e645a1a19d29c69d59fa120ae595e3a059e9d2a2a4a7540&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-12T14:11:50Z",
+      "title": "Oil Prices Plunge as Trump Says U.S. Is Close to Iran Deal",
+      "description": "Oil prices fell sharply on Friday after President Donald Trump said the United States was nearing an agreement with Iran.",
+      "url": "https://www.ibtimes.com/oil-prices-plunge-trump-says-us-close-iran-deal-3804052",
+      "image": "https://d.ibtimes.com/en/full/4649367/oil-cartel.jpg",
+      "publishedAt": "2026-06-12T19:41:16Z",
       "source": {
-        "name": "Reuters"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Indonesian students decry \u2018wasteful\u2019 state spending",
-      "description": "JAKARTA - Hundreds of Indonesian students rallied in Jakarta on Friday to protest against the spending priorities of President Prabowo Subianto\u2019s government, and to oppose this week\u2019s decision to raise petrol prices.",
-      "url": "https://www.bangkokpost.com/world/3269999/indonesian-students-decry-wasteful-state-spending",
-      "image": "https://static.bangkokpost.com/media/content/20260612/c1_3269999_260612211942_700.jpg",
-      "publishedAt": "2026-06-12T14:11:00Z",
+      "title": "Crude Oil Prices Continue Sharply Lower on Iran Peace Hopes",
+      "description": "July WTI crude oil (CLN26 ) on Friday closed down -2.82 (-3.23%), and July RBOB gasoline (RBN26 ) closed down -0.0516 (-1.66%). July WTI crude oil prices on Friday fell by -3.23%, adding to Thursday\u2019s decline of -2.58%. Crude oil prices fell as repo...",
+      "url": "https://www.barchart.com/story/news/2446310/crude-oil-prices-continue-sharply-lower-on-iran-peace-hopes",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20tanker%20in%20open%20sea%20by%20StockStudio%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-06-12T19:14:54Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "Barchart"
       }
     },
     {
-      "title": "US consumer sentiment improves in June",
-      "description": "U.S. consumer sentiment improved in early June as easing gasoline prices offered households some relief, though concerns about inflation lingered, a survey showed on Friday.\nThe...",
-      "url": "https://www.marketscreener.com/news/us-consumer-sentiment-improves-in-june-ce7f5cd9db8ff727",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-18T050308Z_1_LYNXMPELBH06J_RTROPTP_4_HOLIDAYSHOPPING-RETAIL-WALMART.JPG",
-      "publishedAt": "2026-06-12T14:10:20Z",
+      "title": "A Path to Peace: U.S. and Iran Near Landmark Agreement",
+      "description": "The United States and Iran are moving closer to a historic agreement to end their conflict. Key terms include reopening the Strait of Hormuz and dismantling Iran's nuclear program. The potential deal has led to global anticipation, affecting oil prices and triggering a political debate in the U.S.",
+      "url": "https://www.devdiscourse.com/article/politics/3934565-a-path-to-peace-us-and-iran-near-landmark-agreement",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_11_44_53_3203701.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-12T18:46:40Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Iran Conflict Extends Beyond Energy, Analysts Say \u2013 NaturalNews.com",
-      "description": "When the US-Iran conflict escalated earlier this year, immediate concerns centered on oil prices and the Strait of Hormuz, but the real danger was never confined to crude oil, according to an analysis published by Antiwar.com. The crisis has evolved into a broader energy, logistics, fertilizer, food and financial shock that is becoming a structural [\u2026]",
-      "url": "https://www.naturalnews.com/2026-06-12-analysts-global-economic-drag-us-iran-conflict-beyond-energy.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/us-iran-conflict-global-economic-drag-energy-disruption-2038-original.jpg",
-      "publishedAt": "2026-06-12T13:59:17Z",
+      "title": "We\u2019re Going to See Gas Prices 'Continue to Drop Across the Country'",
+      "description": "Friday on Fox News Channel's \"The Story,\" Interior Secretary Doug Burgum said gas prices would continue to drop across the country because \"we\u2019re producing and exporting more oil than we ever have.\" | Clips",
+      "url": "https://www.breitbart.com/clips/2026/06/12/burgum-were-going-to-see-gas-prices-continue-to-drop-across-the-country/",
+      "image": "https://media.breitbart.com/media/2025/05/Burgum-56-Thumbnail-640x335.jpg",
+      "publishedAt": "2026-06-12T18:26:00Z",
       "source": {
-        "name": "Natural News"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Dow Jones opens with slight gains as investors await SpaceX debut and Iran talks",
-      "description": "US stocks opened slightly higher as investors tracked the historic SpaceX IPO, progress in US-Iran talks, falling oil prices, and Adobe's sharp share decline.",
-      "url": "https://www.cnbctv18.com/market/us-stocks-dow-jones-today-opens-higher-spacex-ipo-nasdaq-listing-iran-talks-oil-prices-ws-el-19924722.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-18c3f4648d01a3d26c066ec353bd90ad.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-12T13:58:07Z",
+      "title": "US stocks rise as oil falls and SpaceX soars in its debut on Wall Street",
+      "description": "U.S. stocks are rising after oil prices fell again, and SpaceX soared in its highly anticipated debut on Wall Street",
+      "url": "https://www.barchart.com/story/news/2433656/us-stocks-rise-after-oil-prices-ease-and-spacex-soars-in-its-debut-on-wall-street",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/060975169c2e4fe5bc092ddefbe29385/060975169c2e4fe5bc092ddefbe29385_main_finacial_markets_spacex_ipo_18974.jpg",
+      "publishedAt": "2026-06-12T18:21:32Z",
       "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "US stock market today: Wall Street steadies as oil drops, SpaceX debut puts AI frenzy to the test",
-      "description": "International Business News: US stocks drifted on Friday as falling oil prices supported sentiment, while investors turned their attention to the highly anticipated stock market d.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-steadies-as-oil-drops-spacex-debut-puts-ai-frenzy-to-the-test/articleshow/131686649.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131686658,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-12T13:54:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "US stocks drift as oil falls and Wall Street waits for SpaceX's debut",
-      "description": "U.S. stocks are drifting after oil prices fell again and as Wall Street waits for the highly anticipated debut of SpaceX coming later in the day. The S&P 500 rose 0.1% Friday. The Dow added 270 points, and the Nasdaq composite slipped 0.1%. SpaceX\u2019s stock will begin trading later in the day, and it could show how hungry investors still are for AI stocks following vicious swings and big doubts for them over the last week. Oil prices fell further on hopes for a deal between the United States and Iran that could get oil flowing globally again.",
-      "url": "https://www.ajc.com/news/2026/06/wall-street-drifts-ahead-of-highly-anticipated-market-debut-of-spacex/",
-      "image": "https://images.ajc.com/resizer/v2/FGUTKFCJFRDTZEMKDO72QZNCRA.jpg?auth=aab408d844b289ead95b7dd7600f13d16e9e82075e6f0a99037a9dfd17bc1f07&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-12T13:51:30Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Petrol, diesel and LPG costs drive inflation higher; SBI Research flags rising imported price pressures",
-      "description": "Rising petrol, diesel and LPG prices are beginning to leave their mark on household budgets, even as India's headline inflation remains below the RBI's 4% target. SBI Research has warned that surging imported inflation and external risks could keep price pressures elevated in the coming months.",
-      "url": "https://www.businesstoday.in/latest/economy/story/petrol-diesel-and-lpg-costs-drive-inflation-higher-sbi-research-flags-rising-imported-price-pressures-536647-2026-06-12",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a2c0d543a080-the-effect-of-higher-fuel-prices-was-particularly-visible-in-transport-related-expenses-124446655-16x9.png",
-      "publishedAt": "2026-06-12T13:48:10Z",
-      "source": {
-        "name": "Business Today"
+        "name": "Barchart"
       }
     }
   ]
