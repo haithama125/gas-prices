@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-06-14T09:18:40+00:00",
+  "updated_at": "2026-06-14T13:28:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Oil executives warn Trump administration that gasoline prices will get worse",
+      "description": "Oil and gas executives warn the Trump administration gasoline prices may surge as fuel inventories hit critical lows ahead of summer travel.",
+      "url": "https://seekingalpha.com/news/4603097-oil-executives-warn-trump-administration-that-gasoline-prices-will-get-worse",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1310632628/image_1310632628.jpg?io=getty-c-w630",
+      "publishedAt": "2026-06-14T00:05:17Z",
+      "source": {
+        "name": "Seeking Alpha"
+      }
+    },
     {
       "title": "Maharashtra Restricts Bulk Consumers At Retail Pumps",
       "description": "The Food and Civil Supplies Department issued an order on Friday, saying the restrictions are intended to prevent hoarding, black marketing and diversion of fuel, while assuring that petrol and diesel stocks remain adequate across the state.",
@@ -92,16 +102,6 @@
       "publishedAt": "2026-06-13T17:38:26Z",
       "source": {
         "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Bitcoin Price Forms Risky Pattern as It Suffers $4.4 Billion Headwind",
-      "description": "Bitcoin (CRYPTO: BTC) jumped above $64,250 on Saturday, helped by falling crude oil prices and dip buying among investors.",
-      "url": "https://www.benzinga.com/crypto/26/06/53184565/bitcoin-price-forms-risky-pattern-as-it-suffers-4-4-billion-headwind",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/13/Bitcoin.jpeg",
-      "publishedAt": "2026-06-13T16:51:14Z",
-      "source": {
-        "name": "Benzinga"
       }
     }
   ]
