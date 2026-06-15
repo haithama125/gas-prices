@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-15T11:45:50+00:00",
+  "updated_at": "2026-06-15T16:57:27+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Iran, US-Israel war LIVE updates: Brent crude tumbles to $83/bbl after Trump says Iran deal reached, Hormuz \u2018permanently toll free\u2019",
-      "description": "Iran, US-Israel war LIVE updates: The US and Iran agreed to a cease-fire ending months of conflict, with a formal signing set for Geneva. The deal halts military operations and eases tensions, impacting oil prices and global markets.",
-      "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-peace-deal-oil-price-today-hormuz-naval-blockade-war-ends/4267371/",
-      "image": "https://images.financialexpressdigital.com/2026/06/iran-us-war-liveupdates.jpg",
-      "publishedAt": "2026-06-14T23:45:45Z",
+      "title": "Stock markets surge tracking global rally, drop in oil prices as U.S., Iran reach peace deal",
+      "description": "Stock markets soar as Sensex and Nifty rise, driven by a global rally and declining oil prices following U.S.-Iran peace deal.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-surge-tracking-global-rally-drop-in-oil-prices-as-us-iran-reach-peace-deal/article71103522.ece",
+      "image": "https://th-i.thgim.com/public/incoming/x9m95d/article71103534.ece/alternates/LANDSCAPE_1200/2026-06-10T132840Z_1548227276_RC21RLAYM2M5_RTRMADP_3_INDIA-BLACKROCK.JPG",
+      "publishedAt": "2026-06-15T04:57:24Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Oil Prices Fall as US and Iran Reach Agreement and Trump Lifts Blockade on Strait of Hormuz",
-      "description": "Oil prices fell sharply on Sunday after President Trump announced a peace agreement with Iran and ordered the immediate lifting of the US naval blockade, with Brent crude dropping 3.9% to $84 a barrel and US crude falling 4.8% to around $81. , Business, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/oil-prices-fall-as-us-and-iran-reach-agreement-and-trump-lifts-blockade-on-strait-of-hormuz-article-154621558",
-      "image": "https://images.timesnownews.com/thumb/msid-154621558,width-1280,height-720,resizemode-75/154621558.jpg",
-      "publishedAt": "2026-06-14T23:38:32Z",
+      "title": "US Stock Market: Fed meeting in focus as Wall Street navigates volatility amid evolving US-Iran peace deal",
+      "description": "After months of gains, U.S. markets enter a pivotal week as investors assess the Federal Reserves upcoming policy decision amid persistent inflation concerns and Middle East developments. Falling oil prices and shifting rate expectations are adding complexity, while markets await signals on monetary policy and Wall Streets next direction.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-meeting-in-focus-as-wall-street-navigates-volatility-amid-evolving-us-iran-peace-deal/articleshow/131733715.cms",
+      "image": "https://img.etimg.com/thumb/msid-131733881,width-1200,height-630,imgsize-82884,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-15T04:57:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Shares Jump, Oil Skids in Asia on News of Gulf Deal",
-      "description": "Share markets surged in Asia on Monday while the dollar slipped and oil prices slid as news the United States had agreed to a peace deal with Iran boosted risk sentiment and promised to ease inflationary pressures globally.",
-      "url": "https://www.newsmax.com/us/share-markets-oil-prices-asia/2026/06/14/id/1259639/",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64b86963-b06f-4d2d-83bb-070dff6581b7&SiteName=Newsmax",
-      "publishedAt": "2026-06-14T23:24:09Z",
+      "title": "Petrol, diesel prices to be reviewed based on crude oil supply, says Union Minister Suresh Gopi",
+      "description": "Petrol and diesel prices in India witnessed a series of hikes in May 2026.",
+      "url": "https://www.hindustantimes.com/car-bike/petrol-diesel-prices-to-be-reviewed-based-on-crude-oil-supply-says-union-minister-suresh-gopi-101781498145058.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/15/550x309/fuel_1781499284660_1781499284830_0dcb6dcc-c324-4d57-819c-d8dca2f8fec4.jpg",
+      "publishedAt": "2026-06-15T04:56:31Z",
       "source": {
-        "name": "Newsmax"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Shares Jump, Oil Skids in Asia on News of Gulf Deal",
-      "description": "Share markets surged in Asia on Monday while the dollar slipped and oil prices slid as news the United States had agreed to a peace deal with Iran boosted risk sentiment and promised to ease inflationary pressures globally.",
-      "url": "https://www.newsmax.com/finance/us/share-markets-oil-prices-asia/2026/06/14/id/1259639/",
-      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=64b86963-b06f-4d2d-83bb-070dff6581b7&SiteName=Newsmax",
-      "publishedAt": "2026-06-14T23:24:09Z",
+      "title": "Stock Markets Surge Tracking Global Rally, Drop in Oil Prices",
+      "description": "The 30-share BSE Sensex jumped 1,112.70 points to 76,648.74 in early deals. The 50-share NSE Nifty surged 335.55 points to 23,956.40",
+      "url": "https://www.deccanchronicle.com/business/market/stock-markets-surge-tracking-global-rally-drop-in-oil-prices-1963654",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/02/24/2014720-bse-stock-sensex.jpg",
+      "publishedAt": "2026-06-15T04:52:19Z",
       "source": {
-        "name": "Newsmax"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Gas prices won\u2019t drop anytime soon despite Strait of Hormuz reopening, EIA says",
-      "description": "Ships will soon be sailing through the Strait of Hormuz again, and drivers across the country are all wondering when gas prices may return to where they were before the conflict with Iran began.",
-      "url": "https://www.fox9.com/news/gas-prices-wont-drop-anytime-soon-despite-strait-hormuz-reopening-eia-says",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/06/1200/630/gas-prices-wont-drop-anytime-soon-despite-strait-of-hormuz-reopening-eia-says-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-14T23:12:04Z",
+      "title": "Energy experts warn of slow oil and gas supply recovery after Iran deal",
+      "description": "High oil and gas prices and energy supply problems won't be solved overnight, despite Sunday's agreement to end the Iran war and reopen the Strait of Hormuz.",
+      "url": "https://www.euronews.com/business/2026/06/15/energy-experts-warn-of-slow-oil-and-gas-supply-recovery-after-iran-deal",
+      "image": "https://images.euronews.com/articles/stories/09/79/82/21/1200x675_cmsv2_1051b686-cd74-5694-bbfb-6267c7513294-9798221.jpg",
+      "publishedAt": "2026-06-15T04:51:50Z",
       "source": {
-        "name": "FOX 9"
+        "name": "Euronews"
       }
     },
     {
-      "title": "Gas prices won\u2019t drop anytime soon despite Strait of Hormuz reopening, EIA says",
-      "description": "Ships will soon be sailing through the Strait of Hormuz again, and drivers across the country are all wondering when gas prices may return to where they were before the conflict with Iran began.",
-      "url": "https://www.fox4news.com/news/gas-prices-wont-drop-anytime-soon-despite-strait-hormuz-reopening-eia-says",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/06/1200/630/gas-prices-wont-drop-anytime-soon-despite-strait-of-hormuz-reopening-eia-says-1.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-14T23:12:04Z",
+      "title": "E20 vs E85: Which is actually cheaper per kilometre?",
+      "description": "E85 may be nearly Rs 20 per litre cheaper than petrol, but does that actually make it cheaper to run? The answer depends on one crucial factor: fuel efficiency.",
+      "url": "https://www.indiatoday.in/auto/in-depth/story/e20-vs-e85-which-is-actually-cheaper-per-kilometre-2926647-2026-06-15",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/e85-is-priced-at-rs-8212--costing-rs-20-less-than-e20-154421217-16x9_0.png?VersionId=Id7Sk91W9SvvkGsY9zLJTGEGDiHAu255",
+      "publishedAt": "2026-06-15T04:48:26Z",
       "source": {
-        "name": "FOX 4 News"
+        "name": "India Today"
       }
     },
     {
-      "title": "Crude oil prices fall nearly 5% after Trump announces Iran deal, Hormuz reopening",
-      "description": "Brent crude fell over 3.5% in the initial trades to fall below the mark of $85 a barrel, while West Texas Intermediate (WTI) or the US crude variant, fell as much as 5% and at one point was on the verge of breaking below the mark of $80 a barrel.",
-      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-brent-wti-fall-on-iran-peace-deal-key-reasons-explained-ws-el-19925267.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-08da5cdabc8279f536a54de6b2544dfe.jpg?im=FitAndFill,width=500,height=300",
-      "publishedAt": "2026-06-14T23:06:46Z",
+      "title": "Hormuz reopening to ease India\u2019s energy worries, cut oil import costs and inflation pressure",
+      "description": "Crude oil prices declined on Sunday after US President Trump said Washington had reached a ceasefire deal with Iran that would allow the 'toll free' passage of vessels through the Strait of Hormuz",
+      "url": "https://www.telegraphindia.com/business/hormuz-reopening-to-ease-indias-energy-worries-cut-oil-import-costs-and-inflation-pressure/cid/2165584",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1781498740_hormuz.gif",
+      "publishedAt": "2026-06-15T04:46:32Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Telegraph India"
       }
     },
     {
-      "title": "Shares jump, oil skids in Asia on news of Gulf deal",
-      "description": "Share markets surged in Asia on Monday while the dollar slipped and \u200boil prices slid as news the United States had agreed to a peace deal with Iran boosted risk sentiment and \u200cpromised to ease inflationary pressures globally.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-14/",
-      "image": "https://www.reuters.com/resizer/v2/HUVK42AVJJJMLFE3C2C2H74D3E.jpg?auth=d53a172376b0230230b36fd537c4f16c6c420ad075e7ab8372875daee339eca2&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-14T22:58:01Z",
+      "title": "IndiGo, HPCL, MRF Among 10 Stocks That Jumped Up To 7% As Iran-US Deal Sent Crude Oil Prices Lower",
+      "description": "IndiGo, SpiceJet, IOC, HPCL, BPCL, MRF and other stocks gain up to 7% after oil prices slumped following Iran-US peace deal, boosting hopes of lower fuel costs and strong earnings.",
+      "url": "https://www.news18.com/business/markets/why-are-indigo-hpcl-mrf-and-other-stocks-rallying-after-the-iran-us-peace-deal-ws-l-10149881.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/crude-sensitive-stocks-2026-06-599bf7afebbd01e9fabd76da4db5c016-1200x675.png",
+      "publishedAt": "2026-06-15T04:45:06Z",
       "source": {
-        "name": "Reuters"
+        "name": "News18"
       }
     },
     {
-      "title": "Shares jump, oil skids in Asia on news of US-Iran deal",
-      "description": "SYDNEY: Share markets surged in Asia on Monday (Jun 15) while the dollar slipped and oil prices slid as news that the United States had agreed to a peace deal with Iran boosted risk sentiment and promised to ease",
-      "url": "https://www.channelnewsasia.com/asia/us-iran-peace-deal-shares-stocks-oil-6182951",
-      "image": "https://dam.mediacorp.sg/image/upload/s--YuLGpGq2--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-06-14T225712Z_1_LYNXMPEM5D0SS_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=B0cYhTLW",
-      "publishedAt": "2026-06-14T22:57:00Z",
+      "title": "Sensex jumps 1,100 points, Nifty near 24,000: Why is stock market rising today?",
+      "description": "Indian equities rallied after signs of a US-Iran deal eased tensions and oil prices slid. The move improved the outlook for inflation, the rupee and near-term market flows.",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-rally-stock-market-up-why-us-iran-peace-deal-crude-oil-prices-fall-investors-cheer-2926637-2026-06-15",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/stock-market-rally-153731363-16x9_0.png?VersionId=Cmf5WtPXFwmwRZemwtzuwRDXYjAVu32o",
+      "publishedAt": "2026-06-15T04:41:47Z",
       "source": {
-        "name": "CNA"
+        "name": "India Today"
       }
     },
     {
-      "title": "Oil prices plunge as Trump announces Iran deal complete; Brent falls to $84 a barrel",
-      "description": "International Business News: Oil prices fell sharply on Sunday after US President Donald Trump declared a deal with Iran \\\"complete\\\" and announced the \\\"immediate toll-free reopenin.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-plunge-as-trump-announces-iran-deal-complete-brent-falls-to-84-a-barrel/articleshow/131730563.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131730566,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-14T22:56:00Z",
+      "title": "Oil Prices Sink Over 5% As US-Iran Peace Deal Sparks Supply Hopes; Will Cheaper Crude Bring Relief?",
+      "description": "Prices of crude oil fell by more than 5% on account of movement towards a peace agreement between the United States and Iran as well as the opening up of the Strait of Hormuz. Here's why crude is falling and what it means for India.",
+      "url": "https://www.newsx.com/business/oil-prices-sink-over-5-as-us-iran-peace-deal-sparks-supply-hopes-will-cheaper-crude-bring-relief-234306/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/05/oil-prices.jpg",
+      "publishedAt": "2026-06-15T04:40:36Z",
       "source": {
-        "name": "Times of India"
+        "name": "NewsX"
       }
     }
   ]
