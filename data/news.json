@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-15T16:57:27+00:00",
+  "updated_at": "2026-06-15T20:45:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock markets surge tracking global rally, drop in oil prices as U.S., Iran reach peace deal",
-      "description": "Stock markets soar as Sensex and Nifty rise, driven by a global rally and declining oil prices following U.S.-Iran peace deal.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-surge-tracking-global-rally-drop-in-oil-prices-as-us-iran-reach-peace-deal/article71103522.ece",
-      "image": "https://th-i.thgim.com/public/incoming/x9m95d/article71103534.ece/alternates/LANDSCAPE_1200/2026-06-10T132840Z_1548227276_RC21RLAYM2M5_RTRMADP_3_INDIA-BLACKROCK.JPG",
-      "publishedAt": "2026-06-15T04:57:24Z",
+      "title": "Maruti Suzuki Launches India\u2019s First WagonR Flex Fuel Car At \u20b97.24 Lakh",
+      "description": "Maruti Suzuki has launched the WagonR Flex Fuel at \u20b97.24 lakh, marking India\u2019s first flex-fuel passenger car. The model can run on ethanol blends from E20 to E100 and uses a 1.2-litre petrol engine. It comes with standard WagonR features and strengthens Maruti\u2019s multi-powertrain portfolio including EV, hybrid, CNG, and petrol",
+      "url": "https://www.freepressjournal.in/business/maruti-suzuki-launches-indias-first-wagonr-flex-fuel-car-at-724-lakh",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-15/fs2spifm/maruti-suzuki-wagon-r-flex-fuel-right-front-three-quarter2.avif",
+      "publishedAt": "2026-06-15T08:37:43Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "US Stock Market: Fed meeting in focus as Wall Street navigates volatility amid evolving US-Iran peace deal",
-      "description": "After months of gains, U.S. markets enter a pivotal week as investors assess the Federal Reserves upcoming policy decision amid persistent inflation concerns and Middle East developments. Falling oil prices and shifting rate expectations are adding complexity, while markets await signals on monetary policy and Wall Streets next direction.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-fed-meeting-in-focus-as-wall-street-navigates-volatility-amid-evolving-us-iran-peace-deal/articleshow/131733715.cms",
-      "image": "https://img.etimg.com/thumb/msid-131733881,width-1200,height-630,imgsize-82884,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-15T04:57:00Z",
+      "title": "European Markets Soar as U.S.-Iran Agreement Boosts STOXX 600",
+      "description": "Europe's STOXX 600 reached a new high following a preliminary agreement between the U.S. and Iran, which positively affected global risk sentiment and reduced oil prices. The index recouped all conflict-related losses, narrowing its gap with the U.S. S&P 500. Energy and luxury stocks saw significant gains amid easing tensions.",
+      "url": "https://www.devdiscourse.com/article/business/3935059-european-markets-soar-as-us-iran-agreement-boosts-stoxx-600",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_08_2024_16_25_23_0321185.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-15T08:34:47Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Wholesale inflation surges to 9.68% in May over sharp rise in crude oil prices",
+      "description": "The wholesale price inflation climbed to a series high of 9.68% in May 2026 under the new 2022-23 base year, up from 8.26% in April, as fuel and crude petroleum prices surged sharply. Easing West Asia tensions may cool energy prices and offer some relief in the June WPI print.",
+      "url": "https://www.livemint.com/economy/wholesale-inflation-surges-to-9-68-in-may-over-sharp-rise-in-crude-oil-prices-11781510050004.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/economy1_1733465492714_1733465503344.png",
+      "publishedAt": "2026-06-15T08:26:43Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Petrol quota for federal ministers cut under austerity measures: Azam Nazir Tarar",
+      "description": "Federal Minister for Law and Justice Senator Azam Nazir Tarar has said that the petrol quota allocated to federal ministers has been reduced significantly as part of the",
+      "url": "https://www.nation.com.pk/15-Jun-2026/petrol-quota-federal-ministers-cut-austerity-measures-azam-nazir-tarar",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-06-15/petrol-quota-federal-ministers-cut-austerity-measures-azam-nazir-tarar-1781511972-5229.png",
+      "publishedAt": "2026-06-15T08:26:21Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Asian assets extend early rally as US-Iran peace deal eases oil fears",
+      "description": "Emerging Asian equities and currencies extended gains from early trade on Monday, with Philippine shares climbing nearly 7%, as a preliminary U.S.-Iran peace agreement brought oil prices down,...",
+      "url": "https://www.marketscreener.com/news/asian-assets-extend-early-rally-as-us-iran-peace-deal-eases-oil-fears-ce7f5cded88ef422",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-06-15T08:23:42Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "UPDATE 1-UK bond yields fall to two-month low on US-Iran preliminary deal",
+      "description": "British government bond yields dropped to a two-month low on Monday. This followed a preliminary peace deal between the United States and Iran. Oil prices fell more than five percent. Two-year gilt yields dropped over eight basis points. Ten-year yields also fell. This eased fears of a wider stagflationary shock. Investors became dovish on future rates outlook.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/update-1-uk-bond-yields-fall-to-two-month-low-on-us-iran-preliminary-deal/articleshow/131738418.cms",
+      "image": "https://img.etimg.com/thumb/msid-131738418,width-1200,height-630,imgsize-1335453,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-15T08:21:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Petrol, diesel prices to be reviewed based on crude oil supply, says Union Minister Suresh Gopi",
-      "description": "Petrol and diesel prices in India witnessed a series of hikes in May 2026.",
-      "url": "https://www.hindustantimes.com/car-bike/petrol-diesel-prices-to-be-reviewed-based-on-crude-oil-supply-says-union-minister-suresh-gopi-101781498145058.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/15/550x309/fuel_1781499284660_1781499284830_0dcb6dcc-c324-4d57-819c-d8dca2f8fec4.jpg",
-      "publishedAt": "2026-06-15T04:56:31Z",
+      "title": "West Asia conflict: From oil to inflation, how did the crisis impact India?",
+      "description": "The West Asia crisis affected India through higher oil prices, pressure on the rupee, weaker trade, rising aviation costs and inflation. Here's how the economy absorbed the shock",
+      "url": "https://www.business-standard.com/economy/news/us-iran-deal-west-asia-conflict-oil-inflation-trade-hormuz-india-impact-126061500479_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/22/thumb/fitandfill/1200X628/1779415892-5266.jpg",
+      "publishedAt": "2026-06-15T08:17:49Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Stock Markets Surge Tracking Global Rally, Drop in Oil Prices",
-      "description": "The 30-share BSE Sensex jumped 1,112.70 points to 76,648.74 in early deals. The 50-share NSE Nifty surged 335.55 points to 23,956.40",
-      "url": "https://www.deccanchronicle.com/business/market/stock-markets-surge-tracking-global-rally-drop-in-oil-prices-1963654",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/02/24/2014720-bse-stock-sensex.jpg",
-      "publishedAt": "2026-06-15T04:52:19Z",
+      "title": "Traders Cut South Africa Interest Rate",
+      "description": "Traders have scaled back bets on additional South African interest-rate hikes after a US-Iran peace deal sent oil prices tumbling, potentially reducing inflationary pressures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-15/traders-cut-south-africa-rate-hike-bets-after-iran-peace-deal",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFIOqrXl.Y4A/v0/1200x800.jpg",
+      "publishedAt": "2026-06-15T08:17:33Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "Bloomberg"
       }
     },
     {
-      "title": "Energy experts warn of slow oil and gas supply recovery after Iran deal",
-      "description": "High oil and gas prices and energy supply problems won't be solved overnight, despite Sunday's agreement to end the Iran war and reopen the Strait of Hormuz.",
-      "url": "https://www.euronews.com/business/2026/06/15/energy-experts-warn-of-slow-oil-and-gas-supply-recovery-after-iran-deal",
-      "image": "https://images.euronews.com/articles/stories/09/79/82/21/1200x675_cmsv2_1051b686-cd74-5694-bbfb-6267c7513294-9798221.jpg",
-      "publishedAt": "2026-06-15T04:51:50Z",
+      "title": "Dollar Dips as U.S.-Iran Peace Prospects Brighten",
+      "description": "The U.S. dollar slipped to a 10-day low amid a tentative U.S.-Iran peace deal that boosted risk assets and oil prices plummeted. Officials plan to sign the framework agreement on Friday, though nuclear program issues remain unresolved. Central banks focus on inflation as interest rate decisions loom.",
+      "url": "https://www.devdiscourse.com/article/business/3935043-dollar-dips-as-us-iran-peace-prospects-brighten",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_32_49_4543994.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-15T08:17:32Z",
       "source": {
-        "name": "Euronews"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "E20 vs E85: Which is actually cheaper per kilometre?",
-      "description": "E85 may be nearly Rs 20 per litre cheaper than petrol, but does that actually make it cheaper to run? The answer depends on one crucial factor: fuel efficiency.",
-      "url": "https://www.indiatoday.in/auto/in-depth/story/e20-vs-e85-which-is-actually-cheaper-per-kilometre-2926647-2026-06-15",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/e85-is-priced-at-rs-8212--costing-rs-20-less-than-e20-154421217-16x9_0.png?VersionId=Id7Sk91W9SvvkGsY9zLJTGEGDiHAu255",
-      "publishedAt": "2026-06-15T04:48:26Z",
+      "title": "Crude Oil Below $70 Can Help Rupee Recover To 92.5 Level, Ease Import Bill",
+      "description": "Analysts predict that falling oil prices will alleviate India's import expenses and current account issues, potentially allowing the rupee to strengthen further over the coming months., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-below-70-can-help-rupee-recover-to-92-5-level-ease-import-bill-article-154626775",
+      "image": "https://images.timesnownews.com/thumb/msid-154626775,width-1280,height-720,resizemode-75/154626775.jpg",
+      "publishedAt": "2026-06-15T08:13:21Z",
       "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Hormuz reopening to ease India\u2019s energy worries, cut oil import costs and inflation pressure",
-      "description": "Crude oil prices declined on Sunday after US President Trump said Washington had reached a ceasefire deal with Iran that would allow the 'toll free' passage of vessels through the Strait of Hormuz",
-      "url": "https://www.telegraphindia.com/business/hormuz-reopening-to-ease-indias-energy-worries-cut-oil-import-costs-and-inflation-pressure/cid/2165584",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1781498740_hormuz.gif",
-      "publishedAt": "2026-06-15T04:46:32Z",
-      "source": {
-        "name": "Telegraph India"
-      }
-    },
-    {
-      "title": "IndiGo, HPCL, MRF Among 10 Stocks That Jumped Up To 7% As Iran-US Deal Sent Crude Oil Prices Lower",
-      "description": "IndiGo, SpiceJet, IOC, HPCL, BPCL, MRF and other stocks gain up to 7% after oil prices slumped following Iran-US peace deal, boosting hopes of lower fuel costs and strong earnings.",
-      "url": "https://www.news18.com/business/markets/why-are-indigo-hpcl-mrf-and-other-stocks-rallying-after-the-iran-us-peace-deal-ws-l-10149881.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/06/crude-sensitive-stocks-2026-06-599bf7afebbd01e9fabd76da4db5c016-1200x675.png",
-      "publishedAt": "2026-06-15T04:45:06Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Sensex jumps 1,100 points, Nifty near 24,000: Why is stock market rising today?",
-      "description": "Indian equities rallied after signs of a US-Iran deal eased tensions and oil prices slid. The move improved the outlook for inflation, the rupee and near-term market flows.",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-rally-stock-market-up-why-us-iran-peace-deal-crude-oil-prices-fall-investors-cheer-2926637-2026-06-15",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/stock-market-rally-153731363-16x9_0.png?VersionId=Cmf5WtPXFwmwRZemwtzuwRDXYjAVu32o",
-      "publishedAt": "2026-06-15T04:41:47Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Oil Prices Sink Over 5% As US-Iran Peace Deal Sparks Supply Hopes; Will Cheaper Crude Bring Relief?",
-      "description": "Prices of crude oil fell by more than 5% on account of movement towards a peace agreement between the United States and Iran as well as the opening up of the Strait of Hormuz. Here's why crude is falling and what it means for India.",
-      "url": "https://www.newsx.com/business/oil-prices-sink-over-5-as-us-iran-peace-deal-sparks-supply-hopes-will-cheaper-crude-bring-relief-234306/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/05/oil-prices.jpg",
-      "publishedAt": "2026-06-15T04:40:36Z",
-      "source": {
-        "name": "NewsX"
+        "name": "Times Now"
       }
     }
   ]
