@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-16T10:54:01+00:00",
+  "updated_at": "2026-06-16T16:23:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Iran deal might bring some relief at the pump, but pre-war prices won't return overnight",
-      "description": "Falling gas prices might get a tailwind from Iran ceasefire deal, but experts warned that oil production and exports from the Middle East won't return to normal overnight.",
-      "url": "https://foxbaltimore.com/news/nation-world/iran-deal-might-bring-some-relief-at-the-pump-but-pre-war-prices-wont-return-overnight",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/5891/1320/25x572/90/0ecca92d-62e8-471a-933a-32b465acbbdf-GettyImages22712037511.jpg",
-      "publishedAt": "2026-06-15T22:36:39Z",
+      "title": "Brent crude slips as markets await clarity on US-Iran peace deal",
+      "description": "Brent crude oil prices dip as markets await details on the US-Iran peace deal, with mixed trading results.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/brent-crude-slips-as-markets-await-clarity-on-us-iran-peace-deal/article71107675.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/frj0im/article71107690.ece/alternates/LANDSCAPE_1200/IMG_Crisis_in_oil_and_pe_2_1_5CDJ968D.jpg",
+      "publishedAt": "2026-06-16T04:21:53Z",
       "source": {
-        "name": "Baltimore News"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Iran deal might bring some relief at the pump, but pre-war prices won't return overnight",
-      "description": "Falling gas prices might get a tailwind from Iran ceasefire deal, but experts warned that oil production and exports from the Middle East won't return to normal overnight.",
-      "url": "https://wjla.com/news/nation-world/iran-deal-might-bring-some-relief-at-the-pump-but-pre-war-prices-wont-return-overnight",
-      "image": "https://wjla.com/resources/media2/16x9/5891/1320/25x572/90/0ecca92d-62e8-471a-933a-32b465acbbdf-GettyImages22712037511.jpg",
-      "publishedAt": "2026-06-15T22:36:39Z",
+      "title": "Stock Market Opening Bell: Sensex Opens Above 76,500, Nifty Near 23,900; Can Markets Climb Further?",
+      "description": "Stock Market Today | Opening Bell: The Indian share markets opened positive on June 16 due to lower oil prices and improved geopolitics. The Sensex rose by more than 300 points, while the Nifty approached the 24,000 mark.",
+      "url": "https://www.newsx.com/business/stock-market-opening-bell-sensex-opens-above-76500-nifty-near-23900-can-markets-climb-further-234698/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/05/stock-market-today-7.jpg",
+      "publishedAt": "2026-06-16T04:18:32Z",
       "source": {
-        "name": "WJLA"
+        "name": "NewsX"
       }
     },
     {
-      "title": "Rural America turns on Trump: President\u2019s approval rating slips to new low in poll",
-      "description": "Respondents cited gas prices and Trump\u2019s handling of the economy",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-poll-rural-america-approval-rating-b2996221.html",
-      "image": "https://static.independent.co.uk/2026/06/06/02/2279337574..?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-06-15T22:16:18Z",
+      "title": "Most Stocks Rise, Oil Prices Flat Following Peace Deal-Fuelled Rally",
+      "description": "Oil industry watchers caution that market conditions will likely be tight for a period of weeks or months",
+      "url": "https://www.deccanchronicle.com/world/most-stocks-rise-oil-prices-flat-following-peace-deal-fuelled-rally-1963877",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/16/2052266-aa-7488537.jpg",
+      "publishedAt": "2026-06-16T04:12:10Z",
       "source": {
-        "name": "The Independent"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Market Soars as US-Iran Peace Deal Calms Inflation Fears",
-      "description": "Major stock indexes soared and bond prices rallied after a preliminary US-Iran agreement aimed at ending Gulf tensions was announced. This peace initiative, which also triggered a drop in oil prices, is likely to ease inflationary pressures and lessen the necessity for higher interest rates globally.",
-      "url": "https://www.devdiscourse.com/article/business/3935500-market-soars-as-us-iran-peace-deal-calms-inflation-fears",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_05_2026_17_31_55_2099684.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-15T22:16:10Z",
+      "title": "Asia Stocks Climb Amid U.S.-Iran Deal and BOJ Rate Hike",
+      "description": "Asian stocks made cautious gains amid U.S.-Iran peace deal news and a Bank of Japan rate hike. While the yen rose, the Nikkei 225 reached a new peak. Oil prices remained low amid lingering geopolitical uncertainties. Wall Street saw strong results, reflecting investor optimism despite potential future challenges.",
+      "url": "https://www.devdiscourse.com/article/business/3935548-asia-stocks-climb-amid-us-iran-deal-and-boj-rate-hike",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_05_2026_17_55_01_7312627.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-16T04:05:10Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Potential End of War Tests Trump\u2019s Promise of Quick Economic Rebound",
-      "description": "Gas prices and other goods could remain elevated for months, adding to the political challenge facing the White House in the midterm elections.",
-      "url": "https://www.nytimes.com/2026/06/15/us/politics/iran-war-deal-trump-economic-rebound.html",
-      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15dc-trump-econ-trump2-lvqg/15dc-trump-econ-trump2-lvqg-facebookJumbo.jpg",
-      "publishedAt": "2026-06-15T21:56:25Z",
+      "title": "John Bolton Says Trump's Focus On Price Of Gas At The Pump Makes His Iran Strategy 'So Transparent' That",
+      "description": "John Bolton warns Trump's focus on gas prices hurts US position in talks with Iran. Analysts predict relief at pump may take months or years.",
+      "url": "https://www.benzinga.com/news/politics/26/06/53214728/john-bolton-says-trumps-focus-on-gas-prices-makes-his-iran-strategy-transparent-to-tehran",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/16/John-Bolton-National-Security-Advisor-To.jpeg",
+      "publishedAt": "2026-06-16T04:02:44Z",
       "source": {
-        "name": "The New York Times"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "Thai fuel prices to stay high until Q4",
-      "description": "Domestic oil prices in Thailand are expected to remain elevated until the final quarter of this year, even though global crude benchmarks have eased and the US is set to sign a peace deal with Iran this Friday to end nearly four months of conflict in the Middle East.",
-      "url": "https://www.bangkokpost.com/business/general/3271381/thai-fuel-prices-to-stay-high-until-q4",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/06/16/6123171_700.jpg",
-      "publishedAt": "2026-06-15T21:51:00Z",
+      "title": "Stock Market Today: Sensex Gains 300 Points, Nifty Tops 23,900 In Early Trade",
+      "description": "Indian benchmark indices open higher as BSE Sensex and Nifty 50 gain in early trade, supported by positive global cues and easing crude oil prices",
+      "url": "https://www.news18.com/business/markets/stock-market-today-sensex-gains-300-points-nifty-tops-23900-in-early-trade-ws-l-10152018.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/06/stock-market-2025-06-29940b3319bf8d2acab1bba1f3ab7333.png",
+      "publishedAt": "2026-06-16T04:00:37Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "News18"
       }
     },
     {
-      "title": "Lingering questions from Iran deal for oil and gas prices",
-      "description": "The closure of the Strait of Hormuz has displaced tens of millions of barrels of crude since the war began in February.",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4609473/lingering-questions-iran-deal-oil-gas-prices/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/iStock-2265935516-e1781558968169.jpg?resize=1200,683",
-      "publishedAt": "2026-06-15T21:43:32Z",
+      "title": "Sensex rises over 250 points, Nifty above 23,900 as markets extend gains; HCL Tech among top gainers",
+      "description": "Indian stock markets surged for a third consecutive day, with Sensex and Nifty extending gains amid optimism around a potential Iran-US peace deal framework. While positive macro factors like falling crude oil prices and a stable rupee offer resilience, concerns remain regarding the monsoon's impact on inflation and FII flows.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-over-250-points-nifty-above-23900-as-markets-extend-gains-hcl-tech-among-top-gainers/articleshow/131758642.cms",
+      "image": "https://img.etimg.com/thumb/msid-131758646,width-1200,height-630,imgsize-83354,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-16T03:58:00Z",
       "source": {
-        "name": "Washington Examiner"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Stocks Leap Worldwide, And Oil Prices Drop After U.S. And Iran Reach Tentative Deal On War",
-      "description": "Stock markets rallied worldwide, and oil prices eased after the United States and Iran reached a tentative deal to get the global flow of crude going again.",
-      "url": "https://www.huffpost.com/entry/stocks-leap-worldwide-oil-price-drop-iran-deal_n_6a306f3ee4b07f7766ea635e",
-      "image": "https://img.huffingtonpost.com/asset/6a306f3f1900006b3c275fe2.jpeg?cache=r0Aeoz0LOe&ops=1200_630",
-      "publishedAt": "2026-06-15T21:35:02Z",
+      "title": "After Iran, China has a powerful new oil price weapon",
+      "description": "China has emerged as the world's first oil \"swing importer,\" significantly reducing its imports by a third to an eight-year low. This move, driven by necessity during the Iran conflict, demonstrates Beijing's ability to stabilize global oil prices and mitigate geopolitical risks, a stark contrast to historical demand patterns.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-iran-china-has-a-powerful-new-oil-price-weapon/articleshow/131758532.cms",
+      "image": "https://img.etimg.com/thumb/msid-131758550,width-1200,height-630,imgsize-145214,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-16T03:49:00Z",
       "source": {
-        "name": "HuffPost"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices hit three-month low and markets reach record high amid Iran deal breakthrough",
-      "description": "Donald Trump posts \u2018Let the oil flow\u2019 as US-Iran peace deal sparks immediate drop for Brent crude",
-      "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
-      "image": "https://i.guim.co.uk/img/media/d8390a69919bf424e2aa22b7f89df6640337ce1f/469_0_2879_2304/master/2879.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d340bfbf64aeea050b7e0abab84a9427",
-      "publishedAt": "2026-06-15T21:15:45Z",
+      "title": "Dollar Dips on Middle East Peace Deal as Markets Stabilize",
+      "description": "The U.S. dollar slightly weakened as a preliminary peace deal between the U.S. and Iran boosted global markets and eased oil prices. The Japanese yen remained steady following an expected rate hike by the Bank of Japan. Investors closely watch central bank meetings this week for inflation insights.",
+      "url": "https://www.devdiscourse.com/article/business/3935540-dollar-dips-on-middle-east-peace-deal-as-markets-stabilize",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_09_2025_14_31_25_2473554.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-16T03:44:13Z",
       "source": {
-        "name": "The Guardian"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Stocks leap worldwide, and oil prices drop after the US and Iran reach a tentative deal on their war",
-      "description": "NEW YORK (AP) \u2014 Stock markets rallied worldwide Monday, and oil prices eased after the United States and Iran reached a tentative deal to extend their ceasefire\u2026",
-      "url": "https://wtop.com/asia/2026/06/deal-on-ending-the-iran-war-sends-stocks-soaring-while-oil-prices-fall/",
-      "image": "https://wtop.com/wp-content/uploads/2026/06/South_Korea_Financial_Markets_35881-scaled.jpg",
-      "publishedAt": "2026-06-15T21:06:50Z",
+      "title": "Explainer: The road to a viable flex-fuel market",
+      "description": "E20 contains 20% ethanol and 80% petrol. E85 contains 80-85% ethanol, with petrol and permitted components making up the balance. The difference is substantial. E85 is not merely a somewhat stronger version of E20",
+      "url": "https://www.financialexpress.com/business/news/explainer-the-road-to-a-viable-flex-fuel-market/4268383/",
+      "image": "https://images.financialexpressdigital.com/2026/06/e85-fuel-india-flex-fuel-vehicles-explained.jpg",
+      "publishedAt": "2026-06-16T03:24:13Z",
       "source": {
-        "name": "WTOP"
+        "name": "The Financial Express"
       }
     }
   ]
