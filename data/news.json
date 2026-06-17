@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-17T02:44:11+00:00",
+  "updated_at": "2026-06-17T10:25:47+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday",
-      "description": "Domestic equity markets continued their recovery momentum, buoyed by growing optimism around a de-escalation in US\u2013Iran tensions and softening crude oil prices. The rally was broad-based, with notable gains in IT, realty, FMCG, and oil & gas sectors. Metal stocks, however, lagged behind, weighed down by a sharp pullback in global metal prices as supply-side concerns began to subside. Investor sentiment remains measured ahead of the upcoming US Fed policy meeting, the first under the newly appointed Chair.Here are 5 stock recommendations for Wednesday Stock Ideas",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms",
-      "image": "https://img.etimg.com/thumb/msid-131774981,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "publishedAt": "2026-06-16T14:42:00Z",
+      "title": "Oil prices tumble again on US-Iran deal; S&P 500 falls",
+      "description": "Oil prices fell more than 5% on Tuesday, extending this week's losses on hopes a U.S.-Iran deal to end the Middle East war will allow oil to flow through the Strait of Hormuz, while technology shares...",
+      "url": "https://www.marketscreener.com/news/oil-prices-tumble-again-on-us-iran-deal-s-p-500-falls-ce7f5cdcd980f42c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-20T102423Z_1_LYNXMPEL9J0DI_RTROPTP_4_BANK-STOCKS.JPG",
+      "publishedAt": "2026-06-16T22:25:46Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Why are oil prices down while gold and silver prices up today? Reasons behind crude oil fall, precious metals rally, analyst insights and market outlook",
+      "description": "Why are oil prices down while gold and silver prices up today? Oil prices fell to a three-month low as hopes grew that the Strait of Hormuz could reopen under a proposed U.S.-Iran agreement. At the same time, gold and silver prices moved higher because lower oil prices reduced inflation concerns and eased expectations of future interest-rate hikes. Analysts are now watching crude oil demand, Federal Reserve policy, and precious metals trends for the next market move.",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-down-while-gold-and-silver-prices-up-today-reasons-behind-crude-oil-fall-precious-metals-rally-analyst-insights-and-market-outlook/articleshow/131781984.cms",
+      "image": "https://img.etimg.com/thumb/msid-131782380,width-1200,height-630,imgsize-1603363,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-16T22:15:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
-      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars a barrel at one stage.",
-      "url": "https://www.standard.co.uk/business/business-news/donald-trump-strait-of-hormuz-keir-starmer-iran-israel-b1286342.html",
-      "image": "https://static.standard.co.uk/2026/05/06/13/06125240-8c3f9d6d-7dfb-40e2-b98c-29628280e745.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-06-16T14:40:21Z",
+      "title": "Oil Falls Below $80 For First Time Since March As US-Iran Deal Hopes Rise; Stocks Mixed With Dow At Record, Nasdaq Slips 1.2%",
+      "description": "Oil prices fell below $80 for first time since March as Brent dropped 5.1% to $78.96 on US-Iran deal hopes to reopen Strait of Hormuz, as US stocks were mixed with Dow up 328 points to record 51,999, S&P down 0.6% and Nasdaq down 1.2% on AI tech selloff.",
+      "url": "https://www.republicworld.com/business/oil-falls-below-80-for-first-time-since-march-as-us-iran-deal-hopes-rise-stocks-mixed-with-dow-at-record-nasdaq-slips-12-2026-06-16-128534",
+      "image": "https://img.republicworld.com/all_images/2026/05/india-eyes-new-oil-and-gas-discoveries-in-mahanadi-and-andaman-basins-amid-the-ongoing-crude-oil-crisis-1779270028152-1280x720.webp",
+      "publishedAt": "2026-06-16T22:07:08Z",
       "source": {
-        "name": "Evening Standard"
+        "name": "Republic World"
       }
     },
     {
-      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
-      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars (\u20ac68.68) a barrel at one stage.",
-      "url": "https://www.breakingnews.ie/world/oil-prices-dip-close-to-levels-seen-before-iran-war-on-hopes-over-shipping-route-1914424.html",
-      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMTYxNTMzMjRcXFwvOGMzZjlkNmQtN2RmYi00MGUyLWI5OGMtMjk2MjgyODBlNzQ1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZGZiODdmMmQ1YWFjNDRkZGFjOTRkMDg4NDgxYjFhN2U5YWZkODZjNyJ9/oil-prices-dip-close-to-levels-seen-before-iran-war-on-hopes-over-shipping-route.jpg",
-      "publishedAt": "2026-06-16T14:36:43Z",
+      "title": "Oil drops below $80 per barrel, while tech stocks weigh on a mixed Wall Street",
+      "description": "Oil prices sank again, while U.S. stocks drifted to a mixed finish near their all-time highs.",
+      "url": "https://www.latimes.com/world-nation/story/2026-06-16/oil-drops-below-80-per-barrel-while-tech-stocks-weigh-on-mixed-wall-street",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/ad6940b/2147483647/strip/true/crop/4630x2431+0+328/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2F71%2F8b898556499ab1c0748e47975ee0%2F992026f68edb4ffebd592dd8dc4f43f0.jpg",
+      "publishedAt": "2026-06-16T22:05:31Z",
       "source": {
-        "name": "BreakingNews.ie"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Falling oil prices strengthen case for U.S. Fed pause",
-      "description": "The U.S. Fed is expected to keep rates unchanged as lower oil prices ease inflation concerns and investors watch for changes in policy guidance.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/16/market-outlook-us-fed-seen-holding-rates-steady-amid-easing-inflation/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/MA47RHONGYEUEX52QVTET56SIU.jpg?smart=true&auth=4dd200577caced09b0764fa8ca23a18ea3fe8433ca8c4eba372622791b9423e6&width=1200&height=630",
-      "publishedAt": "2026-06-16T14:35:35Z",
+      "title": "Markets live: ASX to slip, oil plunges to 3-month low on reports US to scale back Iran sanctions",
+      "description": "Oil prices sink to a three-month low on reports the US will allow Iran to start selling oil again, while the Australian share market is likely to open lower after big falls across Wall Street's tech stocks. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-06-17/asx-markets-business-live-june-17/106806608",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a4e79a64c368a98d65c56f6ccc8821d9?impolicy=wcms_watermark_news&cropH=1414&cropW=2513&xPos=0&yPos=99&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-06-16T22:04:47Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
-      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars a barrel at one stage.",
-      "url": "https://www.lbc.co.uk/article/c5902f4f72944ec889d16450d27bf189-5Hjdbfr_2/",
-      "image": "https://images.globalplayer.com/images/821309?crop=16_9&width=1200&signature=nnM7v2kqQbyZzXM4yyjx1HU3kho=",
-      "publishedAt": "2026-06-16T14:34:09Z",
+      "title": "Oil prices fall below $80 per barrel, while U.S. stocks drift",
+      "description": "Oil prices dip below $80 per barrel as U.S. stocks fluctuate near record highs amid ongoing economic concerns and negotiations.",
+      "url": "https://www.thehindu.com/business/markets/oil-prices-fall-below-80-per-barrel-while-us-stocks-drift/article71110825.ece",
+      "image": "https://th-i.thgim.com/public/incoming/e5muo9/article71111063.ece/alternates/LANDSCAPE_1200/2026-06-16T180425Z_1054214361_RC2PULAMMW37_RTRMADP_3_IRAN-CRISIS-INVESTMENT-FUND.JPG",
+      "publishedAt": "2026-06-16T21:41:51Z",
       "source": {
-        "name": "LBC"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Hormuz crisis may be easing-but lower everyday prices may take longer to arrive",
-      "description": "Oil prices are falling after a tentative agreement to reopen the Strait of Hormuz, but broader relief from higher prices may take time.",
-      "url": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
-      "publishedAt": "2026-06-16T14:30:34Z",
+      "title": "Oil drops below US$80 on US-Iran deal",
+      "description": "Oil prices fell as hopes increased that the Strait of Hormuz would reopen and oil shipments would resume.",
+      "url": "https://www.channelnewsasia.com/world/oil-drops-below-us80-us-iran-deal-6188331",
+      "image": "https://dam.mediacorp.sg/image/upload/s--mUE3cHSc--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/06/17/ap26167552988861.jpg?itok=-S0UqqvL",
+      "publishedAt": "2026-06-16T21:33:15Z",
       "source": {
-        "name": "CNBC"
+        "name": "CNA"
       }
     },
     {
-      "title": "Oil prices fall to three-month low in global market",
-      "description": "Global crude oil prices fell to their lowest level in three months, extending a downward trend following developments in the Iran\u2013US agr",
-      "url": "https://www.bolnews.com/business/oil-prices-fall-to-three-month-low-in-global-market/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/FotoJet-18-2.webp",
-      "publishedAt": "2026-06-16T14:24:16Z",
+      "title": "Joe Concha questions Dem's messaging amid falling gas prices",
+      "description": "Washington Examiner columnist Joe Concha said a proposed agreement with Iran could be a turning point that complicates Democrats' messaging.",
+      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4611335/joe-concha-gas-prices-iran-deal-democrats-midterm-election-messaging/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26167511309717-e1781641822243.jpg?resize=1200,683",
+      "publishedAt": "2026-06-16T21:29:56Z",
       "source": {
-        "name": "BOL News"
+        "name": "Washington Examiner"
       }
     },
     {
-      "title": "Government Debunks Viral Claim That E20 Fuel Makes Vehicle Insurance Invalid",
-      "description": "The Government of India has clarified that using E20 fuel does not invalidate vehicle insurance policies. The Press Information Bureau emphasised that insurance claims will not be denied based on E20 petrol usage., Auto, Times Now",
-      "url": "https://www.timesnownews.com/auto/government-debunks-viral-claim-that-e20-fuel-makes-vehicle-insurance-invalid-article-154645051",
-      "image": "https://images.timesnownews.com/thumb/msid-154645051,width-1280,height-720,,resizemode-75/154645051.jpg",
-      "publishedAt": "2026-06-16T14:22:44Z",
+      "title": "Iran truce eases oil prices, but inflation risks remain",
+      "description": "Progress on peace between the U.S. and Iran is pushing down energy prices that have stoked inflation, but questions about its impact on the economy will linger.",
+      "url": "https://foxbaltimore.com/news/nation-world/iran-truce-eases-oil-prices-but-inflation-risks-remain-energy-market-strait-of-hormuz-prices-federal-reserve-interest-rates",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/6000/1320/0x313/90/54caef6c-f95d-49fe-880c-3d321f1141ce-GettyImages2270119935.jpg",
+      "publishedAt": "2026-06-16T20:24:17Z",
       "source": {
-        "name": "Times Now"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Stocks Supported by Lower Crude Oil Prices and Bond Yields",
-      "description": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.18%. June E-mini S&P futures (ESM26 ) are up +0.09%, and June E-mini Nasd...",
-      "url": "https://www.barchart.com/story/news/2495519/stocks-supported-by-lower-crude-oil-prices-and-bond-yields",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/View%20of%20the%20trading%20floor%20of%20New%20York%20Stock%20Exchange%20by%20Lev%20Radin%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-06-16T14:18:10Z",
+      "title": "Iran truce eases oil prices, but inflation risks remain",
+      "description": "Progress on peace between the U.S. and Iran is pushing down energy prices that have stoked inflation, but questions about its impact on the economy will linger.",
+      "url": "https://wjla.com/news/nation-world/iran-truce-eases-oil-prices-but-inflation-risks-remain-energy-market-strait-of-hormuz-prices-federal-reserve-interest-rates",
+      "image": "https://wjla.com/resources/media2/16x9/6000/1320/0x313/90/54caef6c-f95d-49fe-880c-3d321f1141ce-GettyImages2270119935.jpg",
+      "publishedAt": "2026-06-16T20:24:17Z",
       "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Dow hits record high as oil slides; SpaceX soars",
-      "description": "The blue-chip Dow touched an intraday record high on Tuesday as oil prices slid further on optimism around a U.S.-Iran peace deal, while SpaceX surpassed Amazon's market value to become the fifth-most...",
-      "url": "https://www.marketscreener.com/news/dow-hits-record-high-as-oil-slides-spacex-soars-ce7f5cdfdc80f220",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-09T103351Z_1_LYNXMPEM580O1_RTROPTP_4_USA-STOCKS-CITIGROUP.JPG",
-      "publishedAt": "2026-06-16T14:12:27Z",
-      "source": {
-        "name": "MarketScreener"
+        "name": "WJLA"
       }
     }
   ]
