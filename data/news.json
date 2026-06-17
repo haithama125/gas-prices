@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-16T20:38:19+00:00",
+  "updated_at": "2026-06-17T02:44:11+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Brent Crude Dips Below $80",
-      "description": "Oil prices tumbled on Tuesday, falling to their lowest levels since early March. | Economy",
-      "url": "https://www.breitbart.com/economy/2026/06/16/brent-crude-dips-below-80/",
-      "image": "https://media.breitbart.com/media/2026/06/GettyImages-2280359741-e1781624268512-639x335.jpg",
-      "publishedAt": "2026-06-16T08:37:54Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Oil Prices Slip Amid Strait of Hormuz Reopening Prospects",
-      "description": "Oil prices have dropped to three-month lows influenced by the potential reopening of the Strait of Hormuz, weaker physical demand, and a preliminary Iran war ceasefire agreement lacking full details. Analysts warn of volatility risks, as negotiations on the deal progress and as China\u2019s crude imports decline.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3935704-oil-prices-slip-amid-strait-of-hormuz-reopening-prospects",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_06_2025_11_58_05_6379147.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-16T08:36:49Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Iran-US Peace Deal Lowers Oil Prices, But India\u2019s Energy Security Risks Remain High",
-      "description": "Explore how the Iran-US peace deal and reopening of the Strait of Hormuz are easing global oil and LNG prices, yet leaving India\u2019s energy worries unresolved due to high import dependence, elevated shipping costs and persistent geopolitical risks.",
-      "url": "https://www.outlookindia.com/national/after-iran-us-peace-deal-why-indias-energy-worries-are-far-from-over",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-16/rpn9sho0/The-effects-of-the-Iran-war-on-global-energy-worldwide-IRAQ-ENERGY-CRISIS.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-16T08:32:16Z",
-      "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "Global Market | European shares inch up as investors assess US-Iran agreement",
-      "description": "European stock exchanges kicked off the day with a bullish trend on Tuesday, riding the wave of Monday's upward momentum. Market participants are closely tracking a preliminary deal between the U.S. and Iran, which could initiate oil flow through the vital Strait of Hormuz once again. With oil prices potentially on the decline, inflationary pressures seem to be lessening.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-inch-up-as-investors-assess-us-iran-agreement/articleshow/131764892.cms",
-      "image": "https://img.etimg.com/thumb/msid-131764892,width-1200,height-630,imgsize-10428,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-16T08:08:00Z",
+      "title": "Market Trading Guide: Netweb Technologies, Rane Holdings among 5 stock recommendations for Wednesday",
+      "description": "Domestic equity markets continued their recovery momentum, buoyed by growing optimism around a de-escalation in US\u2013Iran tensions and softening crude oil prices. The rally was broad-based, with notable gains in IT, realty, FMCG, and oil & gas sectors. Metal stocks, however, lagged behind, weighed down by a sharp pullback in global metal prices as supply-side concerns began to subside. Investor sentiment remains measured ahead of the upcoming US Fed policy meeting, the first under the newly appointed Chair.Here are 5 stock recommendations for Wednesday Stock Ideas",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-netweb-technologies-rane-holdings-among-5-stock-recommendations-for-wednesday/slideshow/131774981.cms",
+      "image": "https://img.etimg.com/thumb/msid-131774981,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-06-16T14:42:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "MIB Surges at the Open; Oil Prices Continue to Slide",
-      "description": ": Easing tensions in the Middle East are pushing markets into positive territory on Tuesday following reports from Iran and the U.S. of a preliminary agreement expected to be signed in Geneva this...",
-      "url": "https://www.marketscreener.com/news/mib-surges-at-the-open-oil-prices-continue-to-slide-ce7f5cdfd88ff326",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2023-04-11T093642Z_1_LYNXMPEJ3A09E_RTROPTP_3_GLOBAL-STOCKS.JPG",
-      "publishedAt": "2026-06-16T08:04:35Z",
+      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
+      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars a barrel at one stage.",
+      "url": "https://www.standard.co.uk/business/business-news/donald-trump-strait-of-hormuz-keir-starmer-iran-israel-b1286342.html",
+      "image": "https://static.standard.co.uk/2026/05/06/13/06125240-8c3f9d6d-7dfb-40e2-b98c-29628280e745.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-06-16T14:40:21Z",
+      "source": {
+        "name": "Evening Standard"
+      }
+    },
+    {
+      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
+      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars (\u20ac68.68) a barrel at one stage.",
+      "url": "https://www.breakingnews.ie/world/oil-prices-dip-close-to-levels-seen-before-iran-war-on-hopes-over-shipping-route-1914424.html",
+      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDZcXFwvMTYxNTMzMjRcXFwvOGMzZjlkNmQtN2RmYi00MGUyLWI5OGMtMjk2MjgyODBlNzQ1LmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZGZiODdmMmQ1YWFjNDRkZGFjOTRkMDg4NDgxYjFhN2U5YWZkODZjNyJ9/oil-prices-dip-close-to-levels-seen-before-iran-war-on-hopes-over-shipping-route.jpg",
+      "publishedAt": "2026-06-16T14:36:43Z",
+      "source": {
+        "name": "BreakingNews.ie"
+      }
+    },
+    {
+      "title": "Falling oil prices strengthen case for U.S. Fed pause",
+      "description": "The U.S. Fed is expected to keep rates unchanged as lower oil prices ease inflation concerns and investors watch for changes in policy guidance.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/16/market-outlook-us-fed-seen-holding-rates-steady-amid-easing-inflation/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/MA47RHONGYEUEX52QVTET56SIU.jpg?smart=true&auth=4dd200577caced09b0764fa8ca23a18ea3fe8433ca8c4eba372622791b9423e6&width=1200&height=630",
+      "publishedAt": "2026-06-16T14:35:35Z",
+      "source": {
+        "name": "Bnn Bloomberg"
+      }
+    },
+    {
+      "title": "Oil prices dip close to levels seen before Iran war on hopes over shipping route",
+      "description": "The cost of benchmark Brent crude dropped as low as 79.61 dollars a barrel at one stage.",
+      "url": "https://www.lbc.co.uk/article/c5902f4f72944ec889d16450d27bf189-5Hjdbfr_2/",
+      "image": "https://images.globalplayer.com/images/821309?crop=16_9&width=1200&signature=nnM7v2kqQbyZzXM4yyjx1HU3kho=",
+      "publishedAt": "2026-06-16T14:34:09Z",
+      "source": {
+        "name": "LBC"
+      }
+    },
+    {
+      "title": "Hormuz crisis may be easing-but lower everyday prices may take longer to arrive",
+      "description": "Oil prices are falling after a tentative agreement to reopen the Strait of Hormuz, but broader relief from higher prices may take time.",
+      "url": "https://www.cnbc.com/2026/06/16/hormuz-crisis-may-be-easingbut-lower-everyday-prices-may-take-longer-to-arrive.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107324148-1698376735096-gettyimages-1490883641-dsc03504.jpeg?v=1781617704&w=1920&h=1080",
+      "publishedAt": "2026-06-16T14:30:34Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "Oil prices fall to three-month low in global market",
+      "description": "Global crude oil prices fell to their lowest level in three months, extending a downward trend following developments in the Iran\u2013US agr",
+      "url": "https://www.bolnews.com/business/oil-prices-fall-to-three-month-low-in-global-market/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/FotoJet-18-2.webp",
+      "publishedAt": "2026-06-16T14:24:16Z",
+      "source": {
+        "name": "BOL News"
+      }
+    },
+    {
+      "title": "Government Debunks Viral Claim That E20 Fuel Makes Vehicle Insurance Invalid",
+      "description": "The Government of India has clarified that using E20 fuel does not invalidate vehicle insurance policies. The Press Information Bureau emphasised that insurance claims will not be denied based on E20 petrol usage., Auto, Times Now",
+      "url": "https://www.timesnownews.com/auto/government-debunks-viral-claim-that-e20-fuel-makes-vehicle-insurance-invalid-article-154645051",
+      "image": "https://images.timesnownews.com/thumb/msid-154645051,width-1280,height-720,,resizemode-75/154645051.jpg",
+      "publishedAt": "2026-06-16T14:22:44Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Stocks Supported by Lower Crude Oil Prices and Bond Yields",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) today is up +0.11%, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up +0.57%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is down -0.18%. June E-mini S&P futures (ESM26 ) are up +0.09%, and June E-mini Nasd...",
+      "url": "https://www.barchart.com/story/news/2495519/stocks-supported-by-lower-crude-oil-prices-and-bond-yields",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/View%20of%20the%20trading%20floor%20of%20New%20York%20Stock%20Exchange%20by%20Lev%20Radin%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-06-16T14:18:10Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Dow hits record high as oil slides; SpaceX soars",
+      "description": "The blue-chip Dow touched an intraday record high on Tuesday as oil prices slid further on optimism around a U.S.-Iran peace deal, while SpaceX surpassed Amazon's market value to become the fifth-most...",
+      "url": "https://www.marketscreener.com/news/dow-hits-record-high-as-oil-slides-spacex-soars-ce7f5cdfdc80f220",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-09T103351Z_1_LYNXMPEM580O1_RTROPTP_4_USA-STOCKS-CITIGROUP.JPG",
+      "publishedAt": "2026-06-16T14:12:27Z",
       "source": {
         "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Can E20 Fuel Lead to Motor Insurance Claim Rejection? Government Issues Clarification",
-      "description": "Government says E20 fuel use will not void motor insurance, calls viral rejection claims fake, expands ethanol blending and exempts E22 to E30 petrol from central excise duty",
-      "url": "https://www.news18.com/business/economy/can-e20-fuel-lead-to-motor-insurance-claim-rejection-government-issues-clarification-ws-l-10152636.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/03/ethanol-blending-2026-03-1fffd3c02bf70511e6b25bd617a1adda-1200x675.jpg",
-      "publishedAt": "2026-06-16T07:46:13Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "US-Iran deal eases oil, but India's petrol relief may take longer",
-      "description": "The US-Iran deal has reopened the Strait of Hormuz and cooled crude prices. But India may not see immediate fuel relief as supply chains and inventories recover.",
-      "url": "https://www.indiatoday.in/business/story/us-iran-peace-deal-strait-of-hormuz-reopening-india-petrol-diesel-prices-will-not-fall-2927613-2026-06-16",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/petrol-and-diesel-prices-254718964-original-sixteen-to-nine.jpg?VersionId=.a0r9jGUafP719nF2Ei8bUo5vp116gEF",
-      "publishedAt": "2026-06-16T07:38:15Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Petrol, Ethanol Or Flex Fuel? Your Fuel Choice Could Save You Lakhs",
-      "description": "According to experts, petrol, ethanol-blended fuels, flex-fuel vehicles and EVs are expected to coexist for years.",
-      "url": "https://www.ndtv.com/business-news/petrol-ethanol-flex-fuel-electric-car-mileage-urban-india-e20-e80-e100-best-savings-11642823",
-      "image": "https://c.ndtvimg.com/2023-08/0au14qt_ethanol-car-nitin-gadkari_625x300_29_August_23.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-16T07:32:59Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "Sensex, Nifty hold gains off day\u2019s high, metal stocks slump over 2%, Hindalco, NALCO, Vedanta Aluminium top losers",
-      "description": "Equity benchmarks pared early gains but continued to trade in positive territory during the afternoon session on Tuesday, as profit booking in select heavyweights capped the rally triggered by easing crude oil prices and supportive global cues.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-hold-gains-off-days-high-metal-stocks-slump-over-2-hindalco-nalco-vedanta-aluminium-top-losers/article71108149.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/8pqejm/article71108203.ece/alternates/LANDSCAPE_1200/PO20_Stockmarket_eyeglasses.jpg",
-      "publishedAt": "2026-06-16T07:31:07Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Can E20 petrol lead to claim rejection? Here's what ICICI Lombard says",
-      "description": "News News: The increasing adoption of E20 petrol in India has raised concerns on its impact on insurance claims. The discussion gained momentum after a post from.",
-      "url": "https://timesofindia.indiatimes.com/auto/news/can-e20-petrol-lead-to-claim-rejection-heres-what-icici-lombard-says/articleshow/131763344.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131763526,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-16T07:31:00Z",
-      "source": {
-        "name": "Times of India"
       }
     }
   ]
