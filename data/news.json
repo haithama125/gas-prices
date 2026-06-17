@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-17T14:50:46+00:00",
+  "updated_at": "2026-06-17T19:59:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Shares creep higher as miners lift on easing oil prices",
-      "description": "Falling oil prices and a softer outlook for global inflation and interest rates are supporting gold stocks, as details of the US-Iran deal drip through.",
-      "url": "https://www.perthnow.com.au/news/business/shares-creep-higher-as-miners-lift-on-easing-oil-prices-c-22444027",
-      "image": "https://images.perthnow.com.au/publication/C-22444027/e5a542404081f5d1fdcc24d13b3bbc1fffb26fe8-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-06-17T02:41:54Z",
+      "title": "RSS alleges petrol bomb attack at its Ranchi office",
+      "description": "RSS reports a petrol bomb attack at its Ranchi office; police investigate with forensic analysis underway.",
+      "url": "https://www.thehindu.com/news/national/jharkhand/rss-alleges-petrol-bomb-attack-at-its-ranchi-office/article71112471.ece",
+      "image": "https://th-i.thgim.com/public/incoming/uf8ugg/article71112571.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000154B.jpg",
+      "publishedAt": "2026-06-17T07:56:22Z",
       "source": {
-        "name": "PerthNow"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Commodity Corner: Oil, gold advance as markets assess US-Iran peace prospects",
-      "description": "While oil prices recovered on supply-related concerns, gold continued to attract safe-haven demand as investors awaited greater clarity on the US-Iran deal and the Federal Reserve's policy outlook.",
-      "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-gold-advance-as-markets-assess-us-iran-peace-prospects-13951507.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260616011630_bangles-gold.jpg",
-      "publishedAt": "2026-06-17T02:38:55Z",
+      "title": "Video: 2 Men Throw Petrol Bombs At RSS Office In Ranchi, BJP Demands Probe",
+      "description": "The bombs failed to reach the office premises, and no damage or injuries were reported.",
+      "url": "https://www.ndtv.com/india-news/video-2-men-throw-petrol-bombs-at-rss-office-in-ranchi-bjp-demands-probe-11648213",
+      "image": "https://c.ndtvimg.com/2026-06/ua6jlkgs_rss_625x300_17_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-17T07:54:01Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "NDTV.com"
       }
     },
     {
-      "title": "Gas prices come down, but remain over $1 higher than last year",
-      "description": "With framework in place for a deal to end the war with Iran, the cost per gallon of gas in Massachusetts is down 12 cents from last week.",
-      "url": "https://www.nbcboston.com/news/local/gas-prices-come-down-but-remain-over-1-higher-than-last-year/3966596/",
-      "image": "https://media.nbcboston.com/2023/12/107343981-1701878395305-gettyimages-1808128701-US_GAS_PRICES.jpeg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-06-17T02:37:13Z",
+      "title": "BJP leaders allege larger conspiracy in petrol bomb attack on RSS office in Ranchi",
+      "description": "BJP leaders allege larger conspiracy in petrol bomb attack on RSS office in Ranchi - New Delhi, June 17 Union Minister of State for Defence, Sanjay Seth, on Wednesday termed the alleged petrol ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/bjp-leaders-allege-larger-conspiracy-in-petrol-bomb-attack-on-rss-office-in-ranchi/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606173828344_202606.jpg",
+      "publishedAt": "2026-06-17T07:52:10Z",
       "source": {
-        "name": "NBC10 Boston"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Indian shares extend rally on lower crude after US-Iran peace deal",
-      "description": "Indian shares opened higher on Wednesday, building on a three-day rally \u200bfuelled by declining crude oil prices \u200cfollowing a U.S.-Iran peace deal.",
-      "url": "https://www.reuters.com/world/india/indian-shares-seen-flat-after-3-session-rally-oil-slide-fed-decision-eyed-2026-06-17/",
-      "image": "https://www.reuters.com/resizer/v2/HC2R47UFRNLDDGB4EUEXLA32HE.jpg?auth=7781f40279206424d786bca7aab4e7da3f4cc41f08dd973f769a39ae4984d005&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-17T02:28:12Z",
+      "title": "BJP Seeks Probe into Petrol Bomb Attack on RSS Office in Ranchi",
+      "description": "BJP has demanded a deep probe into the alleged petrol bomb attack on the RSS office in Ranchi, questioning law and order in Jharkhand under the JMM-Congress government and calling for identification of the masterminds behind the suspected larger conspiracy.",
+      "url": "https://www.outlookindia.com/national/bjp-seeks-probe-into-petrol-bomb-attack-on-rss-office-in-ranchi-2",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-06-17/h3zmiq8s/Media-personnel-at-RSS-office.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-06-17T07:48:40Z",
       "source": {
-        "name": "Reuters"
+        "name": "Outlook India"
       }
     },
     {
-      "title": "Indian shares seen flat after 3-session rally on oil slide; Fed decision eyed",
-      "description": "Indian shares are set for a muted open on Wednesday, as investors pause after a three-day rally fuelled by a drop in crude oil prices following the U.S.-Iran peace deal, while caution emerged ahead of...",
-      "url": "https://www.marketscreener.com/news/indian-shares-seen-flat-after-3-session-rally-on-oil-slide-fed-decision-eyed-ce7f5cdcd880f726",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-09/2025-09-12T023645Z_1_LYNXNPEL8B02Y_RTROPTP_4_INDIA-NSE-CHAIRMAN.JPG",
-      "publishedAt": "2026-06-17T02:25:40Z",
+      "title": "Crude Oil Prices Fall From $126 To $76: Transportation Costs, Rupee To Ease",
+      "description": "Crude oil prices have decreased significantly, falling to approximately $76 per barrel from a peak of $126 during the Iran War, marking a near three-month low. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-prices-fall-from-126-to-76-transportation-costs-rupee-to-ease-article-154654546",
+      "image": "https://images.timesnownews.com/thumb/msid-154654546,width-1280,height-720,resizemode-75/154654546.jpg",
+      "publishedAt": "2026-06-17T07:48:28Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Stock market today: Gift Nifty hints flat start; US-Iran Peace deal, gold, silver to crude oil prices - 8 stocks to buy",
-      "description": "Indian indices Sensex and Nifty 50 are likely to open modestly, influenced by global market cues and geopolitical tensions. While crude oil prices support a positive outlook, investor caution persists pre-US Federal Reserve policy meeting. Traders are tracking monsoon trends for economic impacts.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-flat-start-us-iran-peace-deal-gold-silver-to-crude-oil-prices-8-stocks-to-buy-11781660492989.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/17/1600x900/logo/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1781662651385_a5697a51-6eef-4a64-b030-a787f30f0d3d.jpg",
-      "publishedAt": "2026-06-17T02:25:26Z",
+      "title": "2026 Kawasaki Ninja 500 Launched With E20-Compliant Engine And Iconic Lime Green Look",
+      "description": "2026 Kawasaki Ninja 500 has been launched in India, priced at Rs 5.76 lakh (ex-showroom) and optimised for E20 fuel amid the country's shift towards ethanol-blended petrol. The bike features the classic Lime Green colour, aligning it visually with other Kawasaki models., Bike News, Times Now",
+      "url": "https://www.timesnownews.com/auto/bike-news/2026-kawasaki-ninja-500-launched-with-e20-compliant-engine-and-iconic-lime-green-look-article-154653949",
+      "image": "https://images.timesnownews.com/thumb/msid-154653949,width-1280,height-720,resizemode-75/154653949.jpg",
+      "publishedAt": "2026-06-17T07:46:00Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
+      "description": "Brent crude drops to lowest price since early March before signing of framework deal to end US-Israel war on Iran.",
+      "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167495359337-1781675948.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-17T07:44:52Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "OMCs get a breather from cooling oil prices, but the coast is not all clear",
+      "description": "As the West Asia conflict approaches resolution, Indian oil marketing companies (OMCs) are breathing a sigh of relief. With Brent crude prices falling below $80 per barrel, there's optimism for a financial rebound in the sector.",
+      "url": "https://www.livemint.com/market/mark-to-market/omcs-cooling-oil-prices-iocl-bpcl-hpcl-ongc-oil-india-petronet-crude-oil-natural-gas-oil-inventory-refining-margins-11781676761369.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/17/1600x900/logo/CHINA-ECONOMY-ENERGY-OIL-4_1781681854138_1781681863243_dc601ee6-084e-446a-aed2-be76ab194ac9.jpg",
+      "publishedAt": "2026-06-17T07:43:08Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Stock Market Live Updates Today: Will BSE Sensex, Nifty50 continue rallying for fourth consecutive session? Asian shares slip, oil prices below $80",
-      "description": "Stock Market Live Updates Today: Nifty50 and BSE Sensex are likely to open in green as global crude oil prices continue to fall. Market experts expec",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-17-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131784445.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131784445,width-1280,height-720,imgsize-76094,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-17T02:22:53Z",
+      "title": "Cost of living: Energy Minister considering extension to fuel measures as 'nothing off the table'",
+      "description": "The government have reduced excise on petrol and diesel as part of the fuel package announced back in April - Energy Minister Darragh O'Brien has said an extension could be on the cards",
+      "url": "https://www.rsvplive.ie/news/irish-news/cost-living-energy-minister-considering-37306799",
+      "image": "https://i2-prod.rsvplive.ie/article37306807.ece/ALTERNATES/s1200d/0_Cabinet-18JPG.jpg",
+      "publishedAt": "2026-06-17T07:39:56Z",
       "source": {
-        "name": "Times of India"
+        "name": "RSVP Live"
       }
     },
     {
-      "title": "Trading Plan: Will falling oil prices help Nifty 50 reclaim 24,100, Bank Nifty cross 57,800?",
-      "description": "The Nifty 50 is gradually likely to march toward 24,100, the immediate key resistance zone followed by 24,500, provided it closes and sustains above 24,000, while the 23,800 may act as an immediate key support.",
-      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-falling-oil-prices-help-nifty-50-reclaim-24-100-bank-nifty-cross-57-800-13951501.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260613040600_Sensex_market_Nifty.jpg",
-      "publishedAt": "2026-06-17T02:03:51Z",
+      "title": "CCTV Captures Men Throwing Petrol Bomb at RSS Office in Ranchi, BJP Alleges 'Larger Conspiracy' | WATCH",
+      "description": "Late Tuesday night, a petrol bomb was thrown at the RSS office in Ranchi, but no damage occurred. BJP leaders, including Babulal Marandi and Sanjay Seth, denounced the attack as part of a broader conspiracy., India News, Times Now",
+      "url": "https://www.timesnownews.com/india/cctv-captures-men-throwing-petrol-bomb-at-rss-office-in-ranchi-bjp-alleges-larger-conspiracy-watch-article-154653525",
+      "image": "https://images.timesnownews.com/thumb/msid-154653525,width-1280,height-720,resizemode-75/154653525.jpg",
+      "publishedAt": "2026-06-17T07:39:18Z",
       "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 17",
-      "description": "Petrol, Diesel, CNG prices on June 17, 2026 stay unchanged across major cities, with recent hikes, export duty changes and new fuel purchase restrictions",
-      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-17-ws-l-10154607.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/05/1780037225_1779198912_1778942618_1775056003_1774944443_1774942556_Petrol-Pump-Scam-2026-01-5ea20dcf9e36d209c7fdb6772e768f83-1200x675.jpg",
-      "publishedAt": "2026-06-17T02:00:32Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Oil prices dip near $70 per barrel mark as Middle East turmoil cools",
-      "description": "International Business News: After repeatedly soaring beyond the $100 per barrel mark amid the Middle East conflict, oil prices have finally begun to cool down, inching near the $.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-dip-near-70-per-barrel-mark-as-middle-east-turmoil-cools/articleshow/131784190.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131784228,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-17T01:57:00Z",
-      "source": {
-        "name": "Times of India"
+        "name": "Times Now"
       }
     }
   ]
