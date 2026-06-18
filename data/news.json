@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-17T19:59:33+00:00",
+  "updated_at": "2026-06-18T02:40:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "RSS alleges petrol bomb attack at its Ranchi office",
-      "description": "RSS reports a petrol bomb attack at its Ranchi office; police investigate with forensic analysis underway.",
-      "url": "https://www.thehindu.com/news/national/jharkhand/rss-alleges-petrol-bomb-attack-at-its-ranchi-office/article71112471.ece",
-      "image": "https://th-i.thgim.com/public/incoming/uf8ugg/article71112571.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000154B.jpg",
-      "publishedAt": "2026-06-17T07:56:22Z",
+      "title": "U.S. retail sales up 0.9% in May, underscoring consumer resilience",
+      "description": "Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled.",
+      "url": "https://www.cp24.com/news/money/2026/06/17/us-retail-sales-up-a-strong-09-in-may-underscoring-the-resilience-of-the-american-consumer/",
+      "image": "https://www.cp24.com/resizer/v2/NEQIUFZLTUNEPHBYXSTUUXKDU4.jpg?smart=true&auth=f5595c9682fc4184a066f113d3fbba5994fe1eb4eb68b7385b9e3789023cae03&width=1200&height=630",
+      "publishedAt": "2026-06-17T14:24:59Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Video: 2 Men Throw Petrol Bombs At RSS Office In Ranchi, BJP Demands Probe",
-      "description": "The bombs failed to reach the office premises, and no damage or injuries were reported.",
-      "url": "https://www.ndtv.com/india-news/video-2-men-throw-petrol-bombs-at-rss-office-in-ranchi-bjp-demands-probe-11648213",
-      "image": "https://c.ndtvimg.com/2026-06/ua6jlkgs_rss_625x300_17_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-17T07:54:01Z",
+      "title": "U.S. retail sales up 0.9% in May, underscoring consumer resilience",
+      "description": "Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/06/17/us-retail-sales-up-a-strong-09-in-may-underscoring-the-resilience-of-the-american-consumer/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/NEQIUFZLTUNEPHBYXSTUUXKDU4.jpg?smart=true&auth=f5595c9682fc4184a066f113d3fbba5994fe1eb4eb68b7385b9e3789023cae03&width=1200&height=630",
+      "publishedAt": "2026-06-17T14:24:59Z",
       "source": {
-        "name": "NDTV.com"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "BJP leaders allege larger conspiracy in petrol bomb attack on RSS office in Ranchi",
-      "description": "BJP leaders allege larger conspiracy in petrol bomb attack on RSS office in Ranchi - New Delhi, June 17 Union Minister of State for Defence, Sanjay Seth, on Wednesday termed the alleged petrol ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/bjp-leaders-allege-larger-conspiracy-in-petrol-bomb-attack-on-rss-office-in-ranchi/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606173828344_202606.jpg",
-      "publishedAt": "2026-06-17T07:52:10Z",
+      "title": "US retail sales rise in broad advance despite higher petrol prices",
+      "description": "Companies have also noted that consumer demand continues to hold up, signalling that shoppers are resilient. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/us-retail-sales-rise-in-broad-advance-despite-higher-petrol-prices",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f13a82687ccc086378ff8bd1c30a3801dcffbe7cb4473936afcd9ce46d5d587a",
+      "publishedAt": "2026-06-17T14:10:00Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "BJP Seeks Probe into Petrol Bomb Attack on RSS Office in Ranchi",
-      "description": "BJP has demanded a deep probe into the alleged petrol bomb attack on the RSS office in Ranchi, questioning law and order in Jharkhand under the JMM-Congress government and calling for identification of the masterminds behind the suspected larger conspiracy.",
-      "url": "https://www.outlookindia.com/national/bjp-seeks-probe-into-petrol-bomb-attack-on-rss-office-in-ranchi-2",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-17/h3zmiq8s/Media-personnel-at-RSS-office.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-17T07:48:40Z",
+      "title": "JLR vows to keep building petrol-powered Range Rovers",
+      "description": "Chief executive says luxury carmaker will focus on \u2018propulsion flexibility\u2019 amid US sales drive",
+      "url": "https://www.telegraph.co.uk/business/2026/06/17/jlr-vows-to-keep-building-petrol-powered-range-rovers/",
+      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/06/17/TELEMMGLPICT000491085598_17816978096580_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
+      "publishedAt": "2026-06-17T14:01:00Z",
       "source": {
-        "name": "Outlook India"
+        "name": "The Telegraph"
       }
     },
     {
-      "title": "Crude Oil Prices Fall From $126 To $76: Transportation Costs, Rupee To Ease",
-      "description": "Crude oil prices have decreased significantly, falling to approximately $76 per barrel from a peak of $126 during the Iran War, marking a near three-month low. , Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-prices-fall-from-126-to-76-transportation-costs-rupee-to-ease-article-154654546",
-      "image": "https://images.timesnownews.com/thumb/msid-154654546,width-1280,height-720,resizemode-75/154654546.jpg",
-      "publishedAt": "2026-06-17T07:48:28Z",
+      "title": "US stock market today: Wall Street holds steady ahead of Fed rate decision, oil stays below $80 on Iran deal hopes",
+      "description": "International Business News: US stocks traded in a narrow range on Wednesday as investors awaited the Federal Reserve's policy decision, while easing oil prices and optimism over .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-holds-steady-ahead-of-fed-rate-decision-oil-stays-below-80-on-iran-deal-hopes/articleshow/131803106.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131803121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-17T14:00:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "Times of India"
       }
     },
     {
-      "title": "2026 Kawasaki Ninja 500 Launched With E20-Compliant Engine And Iconic Lime Green Look",
-      "description": "2026 Kawasaki Ninja 500 has been launched in India, priced at Rs 5.76 lakh (ex-showroom) and optimised for E20 fuel amid the country's shift towards ethanol-blended petrol. The bike features the classic Lime Green colour, aligning it visually with other Kawasaki models., Bike News, Times Now",
-      "url": "https://www.timesnownews.com/auto/bike-news/2026-kawasaki-ninja-500-launched-with-e20-compliant-engine-and-iconic-lime-green-look-article-154653949",
-      "image": "https://images.timesnownews.com/thumb/msid-154653949,width-1280,height-720,resizemode-75/154653949.jpg",
-      "publishedAt": "2026-06-17T07:46:00Z",
+      "title": "RSS seeks security after petrol bombs hurled at its Ranchi office",
+      "description": "RSS seeks enhanced security after two men allegedly hurled petrol bombs at its Ranchi office; no injuries. Police probe, FIR filed; NIA team visited.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/rss-seeks-security-after-petrol-bombs-hurled-at-its-ranchi-office/articleshow/131802647.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131802646,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-17T13:59:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
-      "description": "Brent crude drops to lowest price since early March before signing of framework deal to end US-Israel war on Iran.",
-      "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167495359337-1781675948.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-06-17T07:44:52Z",
+      "title": "Retail sales up a strong 0.9% in May, underscoring the resilience of the US consumer",
+      "description": "NEW YORK (AP) \u2014 Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled. Retail sales rose 0.9%",
+      "url": "https://wtop.com/consumer-news/2026/06/retail-sales-up-0-9-in-may-from-april-as-warm-weather-and-cooling-gas-prices-enticed-spending/",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/Consumer_Prices__5_82-scaled.jpg",
+      "publishedAt": "2026-06-17T13:47:48Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "WTOP"
       }
     },
     {
-      "title": "OMCs get a breather from cooling oil prices, but the coast is not all clear",
-      "description": "As the West Asia conflict approaches resolution, Indian oil marketing companies (OMCs) are breathing a sigh of relief. With Brent crude prices falling below $80 per barrel, there's optimism for a financial rebound in the sector.",
-      "url": "https://www.livemint.com/market/mark-to-market/omcs-cooling-oil-prices-iocl-bpcl-hpcl-ongc-oil-india-petronet-crude-oil-natural-gas-oil-inventory-refining-margins-11781676761369.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/17/1600x900/logo/CHINA-ECONOMY-ENERGY-OIL-4_1781681854138_1781681863243_dc601ee6-084e-446a-aed2-be76ab194ac9.jpg",
-      "publishedAt": "2026-06-17T07:43:08Z",
+      "title": "Retail sales up a strong 0.9% in May, underscoring the resilience of the US consumer",
+      "description": "Shoppers stepped up their spending in May, surpassing economists\u2019 expectations, as temperatures warmed and gasoline prices cooled",
+      "url": "https://www.barchart.com/story/news/2514430/retail-sales-up-a-strong-0-9-in-may-underscoring-the-resilience-of-the-us-consumer",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/17d2f32080d64f31ba186eeb1e332044/17d2f32080d64f31ba186eeb1e332044_main_consumer_spotlight__rising_gas_prices__813_.jpg",
+      "publishedAt": "2026-06-17T13:47:48Z",
       "source": {
-        "name": "Livemint"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Cost of living: Energy Minister considering extension to fuel measures as 'nothing off the table'",
-      "description": "The government have reduced excise on petrol and diesel as part of the fuel package announced back in April - Energy Minister Darragh O'Brien has said an extension could be on the cards",
-      "url": "https://www.rsvplive.ie/news/irish-news/cost-living-energy-minister-considering-37306799",
-      "image": "https://i2-prod.rsvplive.ie/article37306807.ece/ALTERNATES/s1200d/0_Cabinet-18JPG.jpg",
-      "publishedAt": "2026-06-17T07:39:56Z",
+      "title": "Retail sales up a strong 0.9% in May, showing the resilience of the U.S. consumer",
+      "description": "Shoppers stepped up their spending in May, surpassing economists\u2019 expectations, as temperatures warmed and gasoline prices cooled.",
+      "url": "https://www.latimes.com/business/story/2026-06-17/retail-sales-up-strong-0-9-in-may-showing-resilience-of-u-s-consumer",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/7d1e9cf/2147483647/strip/true/crop/4640x2436+0+329/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F61%2Fd5b5c13940c89f605ef4f80d072f%2Fe4cd11a893704b1bb067f7558fb693a5.jpg",
+      "publishedAt": "2026-06-17T13:46:39Z",
       "source": {
-        "name": "RSVP Live"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "CCTV Captures Men Throwing Petrol Bomb at RSS Office in Ranchi, BJP Alleges 'Larger Conspiracy' | WATCH",
-      "description": "Late Tuesday night, a petrol bomb was thrown at the RSS office in Ranchi, but no damage occurred. BJP leaders, including Babulal Marandi and Sanjay Seth, denounced the attack as part of a broader conspiracy., India News, Times Now",
-      "url": "https://www.timesnownews.com/india/cctv-captures-men-throwing-petrol-bomb-at-rss-office-in-ranchi-bjp-alleges-larger-conspiracy-watch-article-154653525",
-      "image": "https://images.timesnownews.com/thumb/msid-154653525,width-1280,height-720,resizemode-75/154653525.jpg",
-      "publishedAt": "2026-06-17T07:39:18Z",
+      "title": "BSE Market Cap Reclaims USD 5 Trillion Mark, Investors Gain \u20b922.78 Lakh Crore In Four-Day Rally",
+      "description": "Indian stock markets extended their winning streak for a fourth session, helping the market value of BSE-listed companies cross USD 5 trillion again. Falling crude oil prices and easing geopolitical tensions boosted investor confidence, adding \u20b922.78 lakh crore to overall investor wealth in just four days.",
+      "url": "https://www.freepressjournal.in/business/bse-market-cap-reclaims-usd-5-trillion-mark-investors-gain-2278-lakh-crore-in-four-day-rally",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-17/fn5j31fs/bse-sensex.jpg",
+      "publishedAt": "2026-06-17T13:43:46Z",
       "source": {
-        "name": "Times Now"
+        "name": "Free Press Journal"
       }
     }
   ]
