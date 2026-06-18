@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-18T02:40:52+00:00",
+  "updated_at": "2026-06-18T10:05:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "U.S. retail sales up 0.9% in May, underscoring consumer resilience",
-      "description": "Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled.",
-      "url": "https://www.cp24.com/news/money/2026/06/17/us-retail-sales-up-a-strong-09-in-may-underscoring-the-resilience-of-the-american-consumer/",
-      "image": "https://www.cp24.com/resizer/v2/NEQIUFZLTUNEPHBYXSTUUXKDU4.jpg?smart=true&auth=f5595c9682fc4184a066f113d3fbba5994fe1eb4eb68b7385b9e3789023cae03&width=1200&height=630",
-      "publishedAt": "2026-06-17T14:24:59Z",
+      "title": "Trump signs deal to end Iran war with Strait to open & $300billion plan\u2026 but Tehran's 'finger is still on the trigger'",
+      "description": "THE US and Iran have signed an agreement to finally end the war that has seen the Strait of Hormuz blockaded, oil prices skyrocket and Gulf cities...",
+      "url": "https://www.thesun.ie/news/17129922/trump-signs-iran-peace-deal-tehran-finger-on-trigger/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/crop-39452465.jpg?quality=90&strip=all&1781739165&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-17T21:56:51Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "The Irish Sun"
       }
     },
     {
-      "title": "U.S. retail sales up 0.9% in May, underscoring consumer resilience",
-      "description": "Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled.",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/06/17/us-retail-sales-up-a-strong-09-in-may-underscoring-the-resilience-of-the-american-consumer/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/NEQIUFZLTUNEPHBYXSTUUXKDU4.jpg?smart=true&auth=f5595c9682fc4184a066f113d3fbba5994fe1eb4eb68b7385b9e3789023cae03&width=1200&height=630",
-      "publishedAt": "2026-06-17T14:24:59Z",
+      "title": "Trump signs deal to end Iran war with Strait to open & $300billion plan\u2026 but Tehran's 'finger is still on the trigger'",
+      "description": "THE US and Iran have signed an agreement to finally end the war that has seen the Strait of Hormuz blockaded, oil prices skyrocket and Gulf cities...",
+      "url": "https://www.the-sun.com/news/16529102/trump-signs-iran-peace-deal-tehran-finger-on-trigger/",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/06/crop-39452465.jpg?quality=90&strip=all&1781721170&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-17T21:56:51Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "The Sun U.S Edition"
       }
     },
     {
-      "title": "US retail sales rise in broad advance despite higher petrol prices",
-      "description": "Companies have also noted that consumer demand continues to hold up, signalling that shoppers are resilient. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/us-retail-sales-rise-in-broad-advance-despite-higher-petrol-prices",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f13a82687ccc086378ff8bd1c30a3801dcffbe7cb4473936afcd9ce46d5d587a",
-      "publishedAt": "2026-06-17T14:10:00Z",
+      "title": "Economist weighs in as gas tops $4 amid Strait of Hormuz reopening, summer demand",
+      "description": "With gas prices hovering just over $4 a gallon nationwide as of today, uncertainty over an Iran deal and whether oil can reliably move.",
+      "url": "https://foxbaltimore.com/news/nation-world/economist-weighs-in-as-gas-tops-4-amid-strait-of-hormuz-reopening-summer-demand-energy-markets-federal-reserve-oil-congress",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/7468/1320/0x390/90/3d17937a-acf2-4b5c-a93d-85d929452a5b-GettyImages2281943701.jpg",
+      "publishedAt": "2026-06-17T21:53:04Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "JLR vows to keep building petrol-powered Range Rovers",
-      "description": "Chief executive says luxury carmaker will focus on \u2018propulsion flexibility\u2019 amid US sales drive",
-      "url": "https://www.telegraph.co.uk/business/2026/06/17/jlr-vows-to-keep-building-petrol-powered-range-rovers/",
-      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/06/17/TELEMMGLPICT000491085598_17816978096580_trans_NvBQzQNjv4BqRo0U4xU-30oDveS4pXV-Vv4Xpit_DMGvdp2n7FDd82k.jpeg?impolicy=OG-Standard",
-      "publishedAt": "2026-06-17T14:01:00Z",
+      "title": "Economist weighs in as gas tops $4 amid Strait of Hormuz reopening, summer demand",
+      "description": "With gas prices hovering just over $4 a gallon nationwide as of today, uncertainty over an Iran deal and whether oil can reliably move.",
+      "url": "https://wjla.com/news/nation-world/economist-weighs-in-as-gas-tops-4-amid-strait-of-hormuz-reopening-summer-demand-energy-markets-federal-reserve-oil-congress",
+      "image": "https://wjla.com/resources/media2/16x9/7468/1320/0x390/90/3d17937a-acf2-4b5c-a93d-85d929452a5b-GettyImages2281943701.jpg",
+      "publishedAt": "2026-06-17T21:53:04Z",
       "source": {
-        "name": "The Telegraph"
+        "name": "WJLA"
       }
     },
     {
-      "title": "US stock market today: Wall Street holds steady ahead of Fed rate decision, oil stays below $80 on Iran deal hopes",
-      "description": "International Business News: US stocks traded in a narrow range on Wednesday as investors awaited the Federal Reserve's policy decision, while easing oil prices and optimism over .",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-wall-street-holds-steady-ahead-of-fed-rate-decision-oil-stays-below-80-on-iran-deal-hopes/articleshow/131803106.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131803121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-17T14:00:00Z",
+      "title": "Despite gas prices, Fourth of July travel could set Michigan record",
+      "description": "Travel industry says people will figure out a way to get to where they're going, but may try to save money once they get there.",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/06/17/michiganders-plan-to-travel-for-the-fourth-but-may-try-to-cut-costs/90591185007/",
+      "image": "https://www.freep.com/gcdn/presto/2020/07/27/PDTF/0e9ff0a0-8f4c-4211-91f4-8248eb547289-IMG_metro_lead_1_1_KAQAA0KE.JPG?crop=2399,1349,x0,y62&width=2399&height=1349&format=pjpg&auto=webp",
+      "publishedAt": "2026-06-17T19:51:09Z",
       "source": {
-        "name": "Times of India"
+        "name": "Detroit Free Press"
       }
     },
     {
-      "title": "RSS seeks security after petrol bombs hurled at its Ranchi office",
-      "description": "RSS seeks enhanced security after two men allegedly hurled petrol bombs at its Ranchi office; no injuries. Police probe, FIR filed; NIA team visited.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/rss-seeks-security-after-petrol-bombs-hurled-at-its-ranchi-office/articleshow/131802647.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131802646,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-17T13:59:00Z",
+      "title": "Gas prices averaged $3.66 in Iowa the week of June 17",
+      "description": "The price of regular unleaded gasoline fell 12 cents from last week's price and is currently averaging $3.66 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
+      "url": "https://siouxcityjournal.com/news/local/business/article_fa9399f8-25d6-470a-b631-0b8c112bca0f.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/f/a9/fa9399f8-25d6-470a-b631-0b8c112bca0f/69d6a8bb1931b.social.jpg",
+      "publishedAt": "2026-06-17T19:30:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "Sioux City Journal"
       }
     },
     {
-      "title": "Retail sales up a strong 0.9% in May, underscoring the resilience of the US consumer",
-      "description": "NEW YORK (AP) \u2014 Shoppers stepped up their spending in May and surpassed expectations as temperatures warmed and gasoline prices cooled. Retail sales rose 0.9%",
-      "url": "https://wtop.com/consumer-news/2026/06/retail-sales-up-0-9-in-may-from-april-as-warm-weather-and-cooling-gas-prices-enticed-spending/",
-      "image": "https://wtop.com/wp-content/uploads/2026/06/Consumer_Prices__5_82-scaled.jpg",
-      "publishedAt": "2026-06-17T13:47:48Z",
+      "title": "US-Iran Deal Live: Trump says US-Iran deal will be signed within next 48 hours",
+      "description": "US-Israel-Iran Live Updates: A proposed US-Iran agreement moved closer to reality after Tehran indicated that Presidents Donald Trump and Masoud Pezeshkian could personally sign the accord expected to be formalised in Switzerland on Friday. The development came as senior US officials disclosed details of the 14-point memorandum of understanding after days of secrecy surrounding the negotiations. In Tehran, Foreign Ministry spokesperson Esmail Baghaei said a presidential signing ceremony remained \"on the table\", while officials in Washington stressed that the agreement was still preliminary and that either side could walk away before a final deal is reached. Speaking at the close of the G7 summit in France, Trump defended the accord, saying it had helped avert a wider economic crisis triggered by the conflict that erupted after US and Israeli strikes on Iran in February. He pointed to increased maritime traffic through the Strait of Hormuz and easing oil prices as signs of stabilisation, but warned that military action could resume if Tehran failed to honour its commitments. Under the framework, a 60-day negotiation period would begin after signing. The proposal includes limited sanctions relief, toll-free passage through the Strait of Hormuz and a commitment by Iran to dilute part of its highly enriched uranium stockpile. Follow indiatoday.in for the latest updates on US-Iran deal.",
+      "url": "https://www.indiatoday.in/world/story/us-iran-deal-live-updates-donald-trump-mojtaba-ceasefire-israel-tehran-strait-of-hormuz-lebanon-2928705-2026-06-18",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202606/trump-171703725-16x9_0.jpg?VersionId=ccATUObeR03QkXzpbynjHkru67Xppu4M",
+      "publishedAt": "2026-06-17T19:18:21Z",
       "source": {
-        "name": "WTOP"
+        "name": "India Today"
       }
     },
     {
-      "title": "Retail sales up a strong 0.9% in May, underscoring the resilience of the US consumer",
-      "description": "Shoppers stepped up their spending in May, surpassing economists\u2019 expectations, as temperatures warmed and gasoline prices cooled",
-      "url": "https://www.barchart.com/story/news/2514430/retail-sales-up-a-strong-0-9-in-may-underscoring-the-resilience-of-the-us-consumer",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/17d2f32080d64f31ba186eeb1e332044/17d2f32080d64f31ba186eeb1e332044_main_consumer_spotlight__rising_gas_prices__813_.jpg",
-      "publishedAt": "2026-06-17T13:47:48Z",
+      "title": "Tightness in US Crude Supplies Supports Crude Oil Prices",
+      "description": "July WTI crude oil (CLN26 ) on Wednesday closed up +0.74 (+0.97%), and July RBOB gasoline (RBN26 ) closed up +0.0291 (+1.01%). Crude oil and gasoline prices settled higher on Wednesday, with crude recovering from a 3.5-month low. Crude oil prices ros...",
+      "url": "https://www.barchart.com/story/news/2522107/tightness-in-us-crude-supplies-supports-crude-oil-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20barrels%20stacked%20on%20each%20other%20by%20Kalulu%20via%20iStock.jpg",
+      "publishedAt": "2026-06-17T19:14:26Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Retail sales up a strong 0.9% in May, showing the resilience of the U.S. consumer",
-      "description": "Shoppers stepped up their spending in May, surpassing economists\u2019 expectations, as temperatures warmed and gasoline prices cooled.",
-      "url": "https://www.latimes.com/business/story/2026-06-17/retail-sales-up-strong-0-9-in-may-showing-resilience-of-u-s-consumer",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7d1e9cf/2147483647/strip/true/crop/4640x2436+0+329/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe6%2F61%2Fd5b5c13940c89f605ef4f80d072f%2Fe4cd11a893704b1bb067f7558fb693a5.jpg",
-      "publishedAt": "2026-06-17T13:46:39Z",
+      "title": "Nat-Gas Prices Fall on Storm Threat to US LNG Exports",
+      "description": "July Nymex natural gas (NGN26 ) on Wednesday closed down -0.094 (-2.90%). Nat-gas prices fell from a 1.5-week high on Wednesday and settled lower on concerns that a tropical cyclone along the US Gulf coast could disrupt LNG export shipments and boost...",
+      "url": "https://www.barchart.com/story/news/2522088/nat-gas-prices-fall-on-storm-threat-to-us-lng-exports",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Jack%20up%20drilling%20rigs%20off%20coast%20by%20Elliot%20Day%20via%20Pixabay.jpg",
+      "publishedAt": "2026-06-17T19:13:16Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "BSE Market Cap Reclaims USD 5 Trillion Mark, Investors Gain \u20b922.78 Lakh Crore In Four-Day Rally",
-      "description": "Indian stock markets extended their winning streak for a fourth session, helping the market value of BSE-listed companies cross USD 5 trillion again. Falling crude oil prices and easing geopolitical tensions boosted investor confidence, adding \u20b922.78 lakh crore to overall investor wealth in just four days.",
-      "url": "https://www.freepressjournal.in/business/bse-market-cap-reclaims-usd-5-trillion-mark-investors-gain-2278-lakh-crore-in-four-day-rally",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-17/fn5j31fs/bse-sensex.jpg",
-      "publishedAt": "2026-06-17T13:43:46Z",
+      "title": "Donald Trump touts gas prices in Iowa at G7 Summit. Were they $1.85?",
+      "description": "President Donald Trump is once again talking about the gas prices in Iowa, using the state as an example in a G7 speech.",
+      "url": "https://www.amestrib.com/story/grocery/stores/convenience/2026/06/17/gas-prices-near-me-iowa-donald-trump-speech-g7/90593456007/",
+      "image": "https://www.amestrib.com/gcdn/authoring/authoring-images/2026/04/02/PDEM/89438611007-gas-prices-cs-10.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-06-17T18:57:10Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Ames Tribune"
       }
     }
   ]
