@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-19T02:57:22+00:00",
+  "updated_at": "2026-06-19T10:12:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Iran-US deal signed: Top 20 countries with cheapest gasoline prices - India sees 7% hike in 3 months, show data",
-      "description": "US gas prices fell below $4 a gallon on average on the heels of the signing of the interim US-Iran deal that raises hope of opening of Strait of Hormuz and resumption in Iran oil supply.",
-      "url": "https://www.livemint.com/news/world/iranus-deal-signed-top-20-countries-with-cheapest-gasoline-prices-india-sees-7-hike-in-3-months-show-data-11781792502811.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/18/1600x900/logo/USA-ECONOMY--1_1781793613864_1781793635979_9ad383f6-2698-4714-af8b-e747f29a0248.JPG",
-      "publishedAt": "2026-06-18T14:54:41Z",
+      "title": "Joint team inspects petrol pumps in Khrew",
+      "description": "Excelsior Correspondent SRINAGAR, June 18: A joint team of police and the Legal Metrology Department today conducted an inspection of petrol pumps in the Khrew area of Pulwama district to ensure transparency and protect consumer interests. A spokesperson said the...",
+      "url": "https://www.dailyexcelsior.com/joint-team-inspects-petrol-pumps-in-khrew/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTFmMGE0NWQwLTZiNjItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-18T22:07:38Z",
       "source": {
-        "name": "Livemint"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Petrol and diesel drivers urged to fill up before Friday",
-      "description": "Drivers are being told about a mistake during these conditions, which could prove a little costly.",
-      "url": "https://www.express.co.uk/life-style/cars/2219092/petrol-diesel-drivers-fill-friday",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6989874.jpg",
-      "publishedAt": "2026-06-18T14:50:00Z",
+      "title": "As Iran Deal Kicks In, US Gas Prices Dip Below $4 For 1st Time Since March",
+      "description": "The average US price for a gallon of gas fell below $4 on Thursday, hitting a level not seen since the first full month of the war with Iran and providing a bit of relief to consumers squeezed by soaring costs.",
+      "url": "https://www.ndtv.com/world-news/as-iran-deal-kicks-in-us-gas-prices-dip-below-4-for-1st-time-since-march-11657082",
+      "image": "https://c.ndtvimg.com/2026-03/4d7eatq8_us-gas-station_625x300_04_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-18T21:55:15Z",
       "source": {
-        "name": "Daily Express"
+        "name": "NDTV.com"
       }
     },
     {
-      "title": "The Iran Deal Drives Oil Prices Down, But Uncertainty Looms",
-      "description": "The MOU signed by Washington and Tehran will reportedly reopen one of the world's most critical shipping lanes \u2014 but the harder questions haven't been answered yet.",
-      "url": "https://www.forbes.com/sites/arielcohen/2026/06/18/the-iran-deal-drives-oil-prices-down-but-uncertainty-looms/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a33ffce1d76413d0605f0a9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-06-18T14:36:19Z",
-      "source": {
-        "name": "Forbes"
-      }
-    },
-    {
-      "title": "JPMorgan: European Stocks Are Attractively Cheap After Oil Price Slump",
-      "description": "JPMorgan\u2019s Karen Ward says falling oil prices could spark a return to European stocks, even as the ECB warns the energy shock isn\u2019t over.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/JPMorgan-European-Stocks-Are-Attractively-Cheap-After-Oil-Price-Slump.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-06-18_9xzlndmbyx.jpg",
-      "publishedAt": "2026-06-18T14:30:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Oil Prices Keep Falling After U.S. And Iran Sign Deal To End The War And Reopen The Hormuz Strait",
-      "description": "Oil prices kept falling on Thursday after the U.S. and Iran signed the memorandum of understanding to end the war and reopen the Strait of Hormuz.",
-      "url": "https://www.ibtimes.com/oil-prices-keep-falling-after-us-iran-sign-deal-end-war-reopen-hormuz-strait-3804273",
-      "image": "https://d.ibtimes.com/en/full/4638844/oil.png",
-      "publishedAt": "2026-06-18T14:25:41Z",
-      "source": {
-        "name": "International Business Times"
-      }
-    },
-    {
-      "title": "Gas drops below $4 a gallon after Trump signs Iran peace deal",
-      "description": "Gas prices may not dip below the pre-war $3 mark until 2027 because inventory levels remain low",
-      "url": "https://www.independent.co.uk/us/money/gas-prices-fall-trump-iran-peace-b2998356.html",
-      "image": "https://static.independent.co.uk/2026/06/18/13/Consumer_Spotlight__Rising_gas_prices_32541.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-06-18T14:17:22Z",
+      "title": "Democrats won\u2019t let dropping gas prices stop them from hammering Trump on affordability",
+      "description": "President\u2019s opponents are hoping voters remember who caused prices to go up in the first place, Eric Garcia writes",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/democrats-trump-gas-prices-affordability-b2998739.html",
+      "image": "https://static.independent.co.uk/2026/06/17/13/2026-06-17T105330Z_241423477_RC2MVLARODGM_RTRMADP_3_G7-SUMMIT-TRUMP.JPG?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-06-18T21:48:06Z",
       "source": {
         "name": "The Independent"
       }
     },
     {
-      "title": "Investors Gain \u20b925.27 Lakh Crore In Five-Day Rally, BSE Market Cap Climbs To \u20b9477.61 Lakh Crore And Crosses $5 Trillion",
-      "description": "Indian stock market investors added Rs 25.27 lakh crore to their wealth in five trading sessions as benchmark indices rallied sharply. Falling crude oil prices, easing geopolitical tensions and improving global sentiment helped push BSE-listed companies",
-      "url": "https://www.freepressjournal.in/business/investors-gain-2527-lakh-crore-in-five-day-rally-bse-market-cap-climbs-to-47761-lakh-crore-and-crosses-5-trillion",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-17/fn5j31fs/bse-sensex.jpg",
-      "publishedAt": "2026-06-18T14:14:33Z",
+      "title": "Business sector welcomes Iran pact",
+      "description": "Businesses and economists took a deep breath after the US and Iran signed off on a deal to end their war and reopen the Strait of Hormuz, lifting optimism as oil prices fell, which could ease inflation and support potential economic growth.",
+      "url": "https://www.bangkokpost.com/business/general/3272961/business-sector-welcomes-iran-pact",
+      "image": "https://static.bangkokpost.com/media/content/20260619/c1_3272961_260619044529_700.jpg",
+      "publishedAt": "2026-06-18T21:45:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Russia has agreed to long-term supply of petrol, oil and gas to Malaysia, says Anwar",
-      "description": "KAZAN: Russia has agreed to guarantee long-term supplies of petrol, oil and gas to Malaysia, says Datuk Seri Anwar Ibrahim.",
-      "url": "https://www.thestar.com.my/news/nation/2026/06/18/russia-has-agreed-to-long-term-supply-of-petrol-oil-and-gas-to-malaysia-says-anwar",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/18/3965296.jpg",
-      "publishedAt": "2026-06-18T14:12:00Z",
+      "title": "Donald Trump attacks Iran ceasefire critics as stocks surge and oil prices tumble",
+      "description": "Donald Trump has lashed out at critics of his Iran peace deal, as he points to record stock market highs and tumbling oil prices as proof the agreement is working.",
+      "url": "https://www.perthnow.com.au/news/politics/world-politics/donald-trump-attacks-iran-ceasefire-critics-as-stocks-surge-and-oil-prices-tumble-c-22453678",
+      "image": "https://images.perthnow.com.au/publication/C-22453678/1a5bb36310a14ca16a945a7435faa8a3eec97a08-16x9-x1046y670w2816h1584.jpg?imwidth=1200",
+      "publishedAt": "2026-06-18T21:34:34Z",
       "source": {
-        "name": "The Star"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Three arrested in RSS office attack in Ranchi",
-      "description": "Three individuals arrested for attacking the RSS office in Ranchi with petrol bombs; police investigating under multiple legal provisions.",
-      "url": "https://www.thehindu.com/news/national/jharkhand/three-arrested-in-rss-office-attack-in-ranchi/article71118057.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hs27h9/article71118241.ece/alternates/LANDSCAPE_1200/PTI06_17_2026_000183B.jpg",
-      "publishedAt": "2026-06-18T14:06:22Z",
+      "title": "US gas prices dip below $4 for 1st time since March but remain 25% higher than last year",
+      "description": "U.S. gas prices have fallen to just below $4 a gallon on average, bringing some relief to drivers who have seen soaring costs amid Washington\u2019s war with Iran",
+      "url": "https://www.barchart.com/story/news/2535087/us-gas-prices-dip-below-4-for-1st-time-since-march-but-remain-25-higher-than-last-year",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/4b2b69998790475c9ab68865396cd885/4b2b69998790475c9ab68865396cd885_main_us_gas_prices_9_564.jpg",
+      "publishedAt": "2026-06-18T21:18:23Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Barchart"
       }
     },
     {
-      "title": "US stock market today: Wall Street rebounds as oil slides after US-Iran deal; S&P 500, Nasdaq rise over 1%",
-      "description": "India Business News: US stocks rebounded on Thursday, recovering much of the previous session's losses as falling oil prices and easing Treasury yields lifted investor sen.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/us-stock-market-today-wall-street-rebounds-as-oil-slides-after-us-iran-deal-intel-jumps-spacex-extends-losses/articleshow/131833190.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131833191,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-18T14:01:00Z",
+      "title": "Traffic flows through Hormuz as U.S.-Iran deal takes effect, but questions remain",
+      "description": "Oil tankers sailed through the Strait of Hormuz and the United States said it lifted its blockade on Iran on Thursday as an interim deal \u200cto end the war took effect, though key issues are still unresolved between the two countries. Oil prices dropped to their lowest level since the\u2026",
+      "url": "https://japantoday.com/category/world/traffic-flows-through-hormuz-as-u.s.-iran-deal-takes-effect-questions-remain",
+      "image": "https://media.japantoday.com/img/store/b0/50/001aad2de0967e691eaf71f2cde8a23545eb/tag-reuters/_w1700.jpeg",
+      "publishedAt": "2026-06-18T21:05:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "Japan Today"
+      }
+    },
+    {
+      "title": "Oil Prices Fall To 3-Month Lows On U.S.-Iran Deal",
+      "description": "Oil prices fell to three-month lows after the U.S. and Iran signalled that a long awaited deal to end hostilities in Middle East had been signed.",
+      "url": "https://www.forbes.com/sites/gauravsharma/2026/06/18/oil-prices-fall-to-3-month-lows-on-us-iran-deal/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a34442845728a7c3ca0cda1/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-06-18T21:04:56Z",
+      "source": {
+        "name": "Forbes"
+      }
+    },
+    {
+      "title": "Trump\u2019s economic approval rating keeps falling - and is now three points worse than Biden\u2019s all-time low",
+      "description": "Many Americans described gas prices as a \u2018major strain\u2019 and said they\u2019re skipping summer vacations",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-approval-economy-falling-biden-b2998641.html",
+      "image": "https://static.independent.co.uk/2026/06/18/18/12/GettyImages-2281483627.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-06-18T20:23:13Z",
+      "source": {
+        "name": "The Independent"
+      }
+    },
+    {
+      "title": "Iran peace deal offers India oil import relief, strategic space",
+      "description": "Biggest immediate gain is likely to come from lower oil prices.",
+      "url": "https://www.tribuneindia.com/news/india/us-iran-peace-deal-offers-india-oil-import-relief-strategic-space/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiYWFiYTcwLTZiNTEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-18T20:07:37Z",
+      "source": {
+        "name": "The Tribune"
       }
     }
   ]
