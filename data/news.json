@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-19T14:43:02+00:00",
+  "updated_at": "2026-06-19T19:25:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices fall as supply starts moving through Strait of Hormuz after US-Iran peace deal",
-      "description": "Oil prices fell as more supply returned to the market after oil tankers began to move through the Strait of Hormuz, post US-Iran interim peace deal. | World News",
-      "url": "https://www.hindustantimes.com/world-news/oil-prices-fall-as-supply-starts-moving-through-strait-of-hormuz-after-us-iran-peace-deal-101781835107107.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/19/550x309/IRAN-CRISIS-OMAN-HORMUZ-12_1781836750560_1781836828858_e6003653-43c3-460d-aca7-1369cce13a76.JPG",
-      "publishedAt": "2026-06-19T02:40:58Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "US-Iran peace deal: What it means for India\u2019s real estate sector, construction costs and NRI demand",
-      "description": "While the US-Iran peace deal and lower oil prices may ease cost pressures for real estate developers, the benefits are unlikely to be immediate, say experts | Real Estate News",
-      "url": "https://www.hindustantimes.com/real-estate/usiran-peace-deal-what-it-means-for-india-s-real-estate-sector-construction-costs-and-nri-demand-101781806194867.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/18/550x309/real_estate_1781807693226_1781807693348_0a398ff4-4481-4e1f-9ee1-cfd54fe59794.jpg",
-      "publishedAt": "2026-06-19T02:35:07Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today, June 19: Check prices in Delhi, Mumbai, Kolkata and other cities",
-      "description": "In Delhi, petrol continues to retail above Rs 100.\u00a0It\u00a0now costs Rs 102.12 per litre and diesel Rs 95.20 per litre following the latest increase",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-19-check-prices-in-delhi-mumbai-kolkata-and-other-cities-537935-2026-06-19",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a34a7444529f-petrol--diesel-prices-today--june-19-191942516-16x9.jpg",
-      "publishedAt": "2026-06-19T02:33:41Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Stocks set records in Japan, South Korea; dollar gets Fed boost",
-      "description": "Shares climbed to record highs in Japan and South Korea on Friday as peace in the Middle \u200bEast with the reopening of the Strait of Hormuz pulled oil prices even lower and eased inflation fears.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-19/",
-      "image": "https://www.reuters.com/resizer/v2/D6WIT5LCHFIV7EA4KJZHIFWEUQ.jpg?auth=b7a151587b314511252bd2a23409fca63f78194c75dfa3c269fde72fc7014d57&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-19T02:28:52Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Stock market today: Gift Nifty hints weak start; US-Iran deal, Accenture earnings to crude oil prices - 8 stocks to buy",
-      "description": "The Sensex and Nifty 50 are expected to open lower on June 19 amid mixed global market signals. Analysts remain cautious amid geopolitical uncertainties, despite a positive finish in US markets. Key stocks are recommended for intraday trading amid fluctuating investor sentiment.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-weak-start-us-iran-deal-accenture-share-price-to-oil-prices-8-stocks-to-buy-11781833633986.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/19/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1781835670503_c7adc0d4-f98c-4b85-89a1-d0037de70ed4.jpg",
-      "publishedAt": "2026-06-19T02:26:34Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Stocks set records in Japan, South Korea; dollar gets Fed boost",
-      "description": "Shares climbed to record highs in Japan and South Korea on Friday as peace in the Middle East with the reopening of the Strait of Hormuz pulled oil prices even lower and eased inflation fears.\n...",
-      "url": "https://www.marketscreener.com/news/stocks-set-records-in-japan-south-korea-dollar-gets-fed-boost-ce7f5cd2db8af324",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-19T022837Z_1_LYNXMPEM5I05B_RTROPTP_4_JAPAN-STOCKS.JPG",
-      "publishedAt": "2026-06-19T02:24:21Z",
+      "title": "Oil rises as uncertainty mounts over US-Iran truce",
+      "description": "Oil prices rose on Friday as the prospect of a lasting truce between the U.S. and Iran was clouded after peace talks in Switzerland were called off and as Israel stepped up attacks on Lebanon.\n...",
+      "url": "https://www.marketscreener.com/news/oil-rises-as-uncertainty-mounts-over-us-iran-truce-ce7f5cd2db8dff2d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-16T011407Z_1_LYNXMPEM5F03G_RTROPTP_4_GLOBAL-OIL-EXPORTS.JPG",
+      "publishedAt": "2026-06-19T07:22:20Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "GLOBAL MARKETS-Stocks set records in Japan, South Korea; dollar gets Fed boost",
-      "description": "Global markets surged on Friday, with shares in Japan and South Korea reaching record highs, as oil prices dropped and the US dollar strengthened following a hawkish Federal Reserve statement.",
-      "url": "https://www.devdiscourse.com/article/business/3937223-global-markets-stocks-set-records-in-japan-south-korea-dollar-gets-fed-boost",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-19T02:23:48Z",
+      "title": "ECB's Wunsch keeps July hike in play despite Iran deal",
+      "description": "The European Central Bank may raise interest rates one more time as soon as next month if it sees more evidence of euro zone inflation spreading beyond energy, ECB policymaker Pierre Wunsch told Reuters, even as the US-Iran deal dents oil prices.",
+      "url": "https://www.rte.ie/news/business/2026/0619/1579252-wunsch-on-ecb-rate-hikes/",
+      "image": "https://www.rte.ie/images/001f6bde-1600.jpg",
+      "publishedAt": "2026-06-19T07:21:08Z",
+      "source": {
+        "name": "RTE.ie"
+      }
+    },
+    {
+      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
+      "description": "Brent crude reverses slide after oil, LNG tankers cross critical waterway.",
+      "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167495359337-1781838392.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-06-19T07:19:53Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "Ranchi RSS Office Attack: All 3 Accused Linked To Pakistan-Based TTH Terror Outfit Sent Blast Video To Handlers As Proof",
+      "description": "The probe into the Ranchi RSS office petrol bomb attack has uncovered alleged links between the three arrested accused and the ISI-backed Tehreek-e-Taliban Hindustan (TTH) terror outfit, with sources claiming they were radicalised through handlers in Dubai and sent videos of the attack abroad.",
+      "url": "https://www.republicworld.com/india/ranchi-rss-office-attack-all-3-accused-linked-to-pakistan-based-tth-terror-outfit-sent-blast-video-to-handlers-as-proof-2026-06-19-129024",
+      "image": "https://img.republicworld.com/all_images/2026/06/ranchi-rss-office-petrol-bomb-attack-disclose-names-of-arrested-accused-vhp-tells-police-1781787150104-1280x720.webp",
+      "publishedAt": "2026-06-19T07:13:38Z",
+      "source": {
+        "name": "Republic World"
+      }
+    },
+    {
+      "title": "Sources say arrested men in RSS office attack linked to ISI-backed TTH",
+      "description": "All three men arrested for petrol bomb attack on a Rashtriya Swayamsevak Sangh (RSS) office in Ranchi, Jharkhand, on Tuesday (June 16) were linked to the ISI-funded Tehreek-e-Taliban Hindustan and were radicalised in Dubai, sources said.",
+      "url": "https://www.devdiscourse.com/article/headlines/3937357-sources-say-arrested-men-in-rss-office-attack-linked-to-isi-backed-tth",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_06_2026_12_38_14_3014444.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-19T07:08:18Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "The road from Aden to Jamnagar: How Dhirubhai Ambani built the Reliance empire",
-      "description": "Before he became a household name, Ambani moved to Aden in the 1950s, when it was a major trading hub under British control. He worked for a trading company and is also widely reported to have spent time at a petrol station.",
-      "url": "https://www.businesstoday.in/latest/corporate/story/the-road-from-aden-to-jamnagar-how-dhirubhai-ambani-built-the-reliance-empire-537929-2026-06-19",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a343bbc3b7c7-in-1966--he-entered-manufacturing-in-a-move-that-altered-reliances-future-184054658-16x9.jpg",
-      "publishedAt": "2026-06-19T02:15:02Z",
+      "title": "Average gas price falls below $4 a gallon",
+      "description": "NEW YORK -- U.S. gas prices fell to just below $4 a gallon on average Thursday, bringing some relief to drivers who have seen soaring costs amid Washington's war with Iran.",
+      "url": "https://www.arkansasonline.com/news/2026/jun/19/average-gas-price-falls-below-4-a-gallon/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213086110_1DGas-0619_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-06-19T06:46:00Z",
       "source": {
-        "name": "Business Today"
+        "name": "Arkansas Online"
       }
     },
     {
-      "title": "Oil prices edge higher after Vance threatens Israel against violating ceasefire",
-      "description": "International Business News: Oil prices turned volatile once again after recent comments from US Vice President JD Vance raised concerns over the stability of the Middle East peac.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-edge-higher-after-vance-threatens-israel-against-violating-ceasefire/articleshow/131844583.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131844618,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-19T02:14:00Z",
+      "title": "Rupee Opens Flat at 94.35/$, Strengthens On Oil Relief, Inflow Support",
+      "description": "The Indian rupee opened flat at 94.35 against the US dollar on June 19, supported by easing crude oil prices and improved foreign inflows. The currency has gained around 1.2% in recent sessions as Brent crude stays below $80 and dollar index strength moderates global currency movements",
+      "url": "https://www.freepressjournal.in/business/rupee-opens-flat-at-9435-strengthens-on-oil-relief-inflow-support",
+      "image": "https://media.assettype.com/freepressjournal/2026-03-30/br36ajgl/Rupee-USDollar-1.jpg",
+      "publishedAt": "2026-06-19T06:37:41Z",
       "source": {
-        "name": "Times of India"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Oil falls as supply starts moving through Strait of Hormuz",
-      "description": "Oil prices fell on Friday on the prospect of more supply returning to the market after oil tankers began to move through the \u200bStrait of Hormuz following the signing of the U.S.-Iran interim peace deal.",
-      "url": "https://www.reuters.com/business/energy/oil-falls-supply-starts-moving-through-strait-hormuz-2026-06-19/",
-      "image": "https://www.reuters.com/resizer/v2/OXYWREA7TVMLBAHFYCXTMFJY6Y.jpg?auth=682b350c76b8cc84f4dcbbf81b34304b4586ac62ae591f5a9673d5e6fd297707&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-19T02:00:09Z",
+      "title": "Crude Oil Prices Edge Higher As Delay In JD Vance\u2019s Switzerland Trip Postpones Next Round Of Iran Talks",
+      "description": "Crude oil prices traded slightly higher on Friday after US Vice President JD Vance delayed his planned visit to Switzerland, where he was expected to lead the next round of talks with Iran. Brent crude rose above $80 per barrel, while WTI crude gained 0.5 percent during Asian trading hours",
+      "url": "https://www.freepressjournal.in/business/crude-oil-prices-edge-higher-as-delay-in-jd-vances-switzerland-trip-postpones-next-round-of-iran-talks",
+      "image": "https://media.assettype.com/freepressjournal/2026-04-08/x1f91vna/Russian-Oil.jpg",
+      "publishedAt": "2026-06-19T06:22:55Z",
       "source": {
-        "name": "Reuters"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Three held under UAPA for petrol bomb attack on RSS office in Ranchi",
+      "description": "The police claimed that one of the accused men tried to flee from custody, and that he was shot in the leg in self-defence.",
+      "url": "https://scroll.in/latest/1093691/three-held-under-uapa-for-petrol-bomb-attack-on-rss-office-in-ranchi",
+      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/212449-ekuotzokgu-1773459671.jpg",
+      "publishedAt": "2026-06-19T06:14:00Z",
+      "source": {
+        "name": "Scroll.in"
+      }
+    },
+    {
+      "title": "Rupee Rises 20 Paise to 94.20 Against US Dollar in Early Trade",
+      "description": "The rupee rose 20 paise to 94.20 against the US dollar in early trade on optimism over India-US trade talks, supportive oil prices and improving foreign inflows, even as Sensex and Nifty slipped and FIIs sold over \u20b91,025 crore in equities.",
+      "url": "https://www.outlookbusiness.com/news/rupee-rises-20-paise-to-9420-against-us-dollar-in-early-trade",
+      "image": "https://media.assettype.com/outlookbusiness/2026-06-19/xt0w00io/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-06-19T06:11:13Z",
+      "source": {
+        "name": "Outlook Business"
       }
     }
   ]
