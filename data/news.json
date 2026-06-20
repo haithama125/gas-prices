@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-19T19:25:52+00:00",
+  "updated_at": "2026-06-20T02:29:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil rises as uncertainty mounts over US-Iran truce",
-      "description": "Oil prices rose on Friday as the prospect of a lasting truce between the U.S. and Iran was clouded after peace talks in Switzerland were called off and as Israel stepped up attacks on Lebanon.\n...",
-      "url": "https://www.marketscreener.com/news/oil-rises-as-uncertainty-mounts-over-us-iran-truce-ce7f5cd2db8dff2d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-16T011407Z_1_LYNXMPEM5F03G_RTROPTP_4_GLOBAL-OIL-EXPORTS.JPG",
-      "publishedAt": "2026-06-19T07:22:20Z",
+      "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
+      "description": "The Reserve Bank of India's Monetary Policy Committee has opted for a cautious \"wait and watch\" stance, holding the repo rate steady due to significant geopolitical and weather-related uncertainties. Concerns over rising crude oil prices and potential El Nino impacts are driving inflation worries. While core inflation remains subdued, the committee emphasized vigilance against generalized price increases, prioritizing data dependency before considering any policy rate adjustments.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms",
+      "image": "https://img.etimg.com/thumb/msid-131861189,width-1200,height-630,imgsize-68460,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-19T14:26:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "ECB's Wunsch keeps July hike in play despite Iran deal",
-      "description": "The European Central Bank may raise interest rates one more time as soon as next month if it sees more evidence of euro zone inflation spreading beyond energy, ECB policymaker Pierre Wunsch told Reuters, even as the US-Iran deal dents oil prices.",
-      "url": "https://www.rte.ie/news/business/2026/0619/1579252-wunsch-on-ecb-rate-hikes/",
-      "image": "https://www.rte.ie/images/001f6bde-1600.jpg",
-      "publishedAt": "2026-06-19T07:21:08Z",
+      "title": "Three children rescued from Co Clare home after horrific petrol bomb attack as local 'fear' laid bare amid garda probe",
+      "description": "THREE children were rescued from their home in Co Clare on Wednesday night following a suspected petrol bomb attack.\nThe house in the Newmarket...",
+      "url": "https://www.thesun.ie/news/17140085/clare-petrol-bomb-attack-children-rescued/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/newspress-collage-ofyh631s5-1781878946802.jpg?quality=90&strip=all&1781882571&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-19T14:24:49Z",
       "source": {
-        "name": "RTE.ie"
+        "name": "The Irish Sun"
       }
     },
     {
-      "title": "Oil prices rise as Lebanon fighting erupts and Hormuz traffic still slow",
-      "description": "Brent crude reverses slide after oil, LNG tankers cross critical waterway.",
-      "url": "https://www.aljazeera.com/economy/2026/6/19/oil-prices-rise-as-lebanon-fighting-erupts-and-hormuz-traffic-still-slow",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26167495359337-1781838392.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-06-19T07:19:53Z",
+      "title": "Petrol bomb makers among latest to be sentenced over Ely riots",
+      "description": "The deaths of teenagers Kyrees Sullivan and Harvey Evans sparked hours of violence and vandalism.",
+      "url": "https://www.bbc.com/news/articles/cvgl9z8l271o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2102/live/172a26f0-6be4-11f1-b1db-af71d47507d6.jpg",
+      "publishedAt": "2026-06-19T13:55:33Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "BBC News"
       }
     },
     {
-      "title": "Ranchi RSS Office Attack: All 3 Accused Linked To Pakistan-Based TTH Terror Outfit Sent Blast Video To Handlers As Proof",
-      "description": "The probe into the Ranchi RSS office petrol bomb attack has uncovered alleged links between the three arrested accused and the ISI-backed Tehreek-e-Taliban Hindustan (TTH) terror outfit, with sources claiming they were radicalised through handlers in Dubai and sent videos of the attack abroad.",
-      "url": "https://www.republicworld.com/india/ranchi-rss-office-attack-all-3-accused-linked-to-pakistan-based-tth-terror-outfit-sent-blast-video-to-handlers-as-proof-2026-06-19-129024",
-      "image": "https://img.republicworld.com/all_images/2026/06/ranchi-rss-office-petrol-bomb-attack-disclose-names-of-arrested-accused-vhp-tells-police-1781787150104-1280x720.webp",
-      "publishedAt": "2026-06-19T07:13:38Z",
+      "title": "PM Shehbaz announces massive fuel price cut, petrol down Rs74 per litre",
+      "description": "The federal government has announced a major reduction in petroleum prices, lowering the rates of both petrol and diesel in response to declining international oil",
+      "url": "https://www.nation.com.pk/19-Jun-2026/pm-shehbaz-announces-massive-fuel-price-cut-petrol-rs74-per-litre",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-06-19/pm-shehbaz-announces-massive-fuel-price-cut-petrol-rs74-per-litre-1781876824-7810.jpg",
+      "publishedAt": "2026-06-19T13:47:18Z",
       "source": {
-        "name": "Republic World"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Sources say arrested men in RSS office attack linked to ISI-backed TTH",
-      "description": "All three men arrested for petrol bomb attack on a Rashtriya Swayamsevak Sangh (RSS) office in Ranchi, Jharkhand, on Tuesday (June 16) were linked to the ISI-funded Tehreek-e-Taliban Hindustan and were radicalised in Dubai, sources said.",
-      "url": "https://www.devdiscourse.com/article/headlines/3937357-sources-say-arrested-men-in-rss-office-attack-linked-to-isi-backed-tth",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_06_2026_12_38_14_3014444.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-19T07:08:18Z",
+      "title": "Could Iran's New Hormuz Toll Make Petrol More Expensive",
+      "description": "Just three days after Donald Trump declared the Strait of Hormuz would reopen \"permanently toll-free,\" Iran said the opposite",
+      "url": "https://www.outlookindia.com/international/outlook-explains-could-irans-new-hormuz-toll-make-petrol-more-expensive",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-05-05/gefrgk93/Iranian-tugboat-in-Strait-of-Hormuz-off-Bandar-Abbas-Iran.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-06-19T13:46:41Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Outlook India"
       }
     },
     {
-      "title": "Average gas price falls below $4 a gallon",
-      "description": "NEW YORK -- U.S. gas prices fell to just below $4 a gallon on average Thursday, bringing some relief to drivers who have seen soaring costs amid Washington's war with Iran.",
-      "url": "https://www.arkansasonline.com/news/2026/jun/19/average-gas-price-falls-below-4-a-gallon/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213086110_1DGas-0619_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2026-06-19T06:46:00Z",
+      "title": "E85 Fuel Debuts In Mumbai, Cheaper Than E20 Petrol | Check Price",
+      "description": "Mumbai starts retailing E85 fuel at Rs 91.18 per litre, costlier than Delhi but cheaper than E20, supporting flex-fuel vehicles.",
+      "url": "https://www.news18.com/auto/e85-fuel-debuts-in-mumbai-cheaper-than-e20-petrol-check-price-ws-l-10161438.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/06/ani_20260614104712_1781876561705-1200x675.jpg",
+      "publishedAt": "2026-06-19T13:46:22Z",
       "source": {
-        "name": "Arkansas Online"
+        "name": "News18"
       }
     },
     {
-      "title": "Rupee Opens Flat at 94.35/$, Strengthens On Oil Relief, Inflow Support",
-      "description": "The Indian rupee opened flat at 94.35 against the US dollar on June 19, supported by easing crude oil prices and improved foreign inflows. The currency has gained around 1.2% in recent sessions as Brent crude stays below $80 and dollar index strength moderates global currency movements",
-      "url": "https://www.freepressjournal.in/business/rupee-opens-flat-at-9435-strengthens-on-oil-relief-inflow-support",
-      "image": "https://media.assettype.com/freepressjournal/2026-03-30/br36ajgl/Rupee-USDollar-1.jpg",
-      "publishedAt": "2026-06-19T06:37:41Z",
+      "title": "Rain Deficit To Push Inflation; Oil Prices Unlikely To Return To Pre-War Levels, RBI MPC Member Warns",
+      "description": "Saugata Bhattacharya cited the RBI inflation expectations survey, which indicated a consistent and significant increase in one year ahead inflation expectations.",
+      "url": "https://www.ndtvprofit.com/economy/rain-deficit-to-push-inflation-oil-prices-unlikely-to-return-to-pre-war-levels-rbi-mpc-member-warns-11660270",
+      "image": "https://c.ndtvimg.com/2025-12/4f537e20_Close_view_of_RBI_Reserve_Bank_of_India_signage__logo_at_its_entrance_gate___Source_Vijay_Sartape_BQ.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-19T13:39:02Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "Crude Oil Prices Edge Higher As Delay In JD Vance\u2019s Switzerland Trip Postpones Next Round Of Iran Talks",
-      "description": "Crude oil prices traded slightly higher on Friday after US Vice President JD Vance delayed his planned visit to Switzerland, where he was expected to lead the next round of talks with Iran. Brent crude rose above $80 per barrel, while WTI crude gained 0.5 percent during Asian trading hours",
-      "url": "https://www.freepressjournal.in/business/crude-oil-prices-edge-higher-as-delay-in-jd-vances-switzerland-trip-postpones-next-round-of-iran-talks",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-08/x1f91vna/Russian-Oil.jpg",
-      "publishedAt": "2026-06-19T06:22:55Z",
+      "title": "AI boom shields Asia from West Asia shock, but risks mount for India and region: Moody\u2019s Analytics",
+      "description": "Moody's Analytics has said that AI-led exports and investment have helped Asia-Pacific weather the fallout from the West Asia conflict, but higher oil prices, inflation, trade tensions and weather-related disruptions could slow growth in the years ahead.",
+      "url": "https://www.livemint.com/economy/ai-boom-cushions-india-and-asia-pacific-region-but-inflation-oil-risks-cloud-outlook-moody-s-analytics-11781870350092.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/19/1600x900/logo/Artificial_Intelligence_1781874737783_1781874737924_09ca1ddb-726a-42f7-9929-e6af8b2dccf3.JPG",
+      "publishedAt": "2026-06-19T13:28:38Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Three held under UAPA for petrol bomb attack on RSS office in Ranchi",
-      "description": "The police claimed that one of the accused men tried to flee from custody, and that he was shot in the leg in self-defence.",
-      "url": "https://scroll.in/latest/1093691/three-held-under-uapa-for-petrol-bomb-attack-on-rss-office-in-ranchi",
-      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/212449-ekuotzokgu-1773459671.jpg",
-      "publishedAt": "2026-06-19T06:14:00Z",
+      "title": "New \u20ac213 & \u20ac180 energy price hike blow as Flogas confirms rate increase for thousands of Irish households in weeks",
+      "description": "FLOGAS is the latest utility provider to announce an increase in its electricity and gas prices from next month.\nThe company said that...",
+      "url": "https://www.thesun.ie/money/17140169/flogas-energy-price-hike-thousands-irish-households/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/newspress-collage-r7masewqe-1781875166710.jpg?quality=90&strip=all&1781878782&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-19T13:19:58Z",
       "source": {
-        "name": "Scroll.in"
+        "name": "The Irish Sun"
       }
     },
     {
-      "title": "Rupee Rises 20 Paise to 94.20 Against US Dollar in Early Trade",
-      "description": "The rupee rose 20 paise to 94.20 against the US dollar in early trade on optimism over India-US trade talks, supportive oil prices and improving foreign inflows, even as Sensex and Nifty slipped and FIIs sold over \u20b91,025 crore in equities.",
-      "url": "https://www.outlookbusiness.com/news/rupee-rises-20-paise-to-9420-against-us-dollar-in-early-trade",
-      "image": "https://media.assettype.com/outlookbusiness/2026-06-19/xt0w00io/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-19T06:11:13Z",
+      "title": "Motorists issued '\u00a39.50' fuel saving update as petrol and disesl prices drop",
+      "description": "It comes as the US and Iran sign a deal to end the war in the Middle East",
+      "url": "https://www.manchestereveningnews.co.uk/news/motoring/motoring-news/fuel-prices-continue-to-fall-34150658",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article33851182.ece/ALTERNATES/s1200d/3_Fuel-prices.jpg",
+      "publishedAt": "2026-06-19T13:10:52Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "Manchester Evening News"
       }
     }
   ]
