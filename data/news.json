@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-20T02:29:31+00:00",
+  "updated_at": "2026-06-20T08:40:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "RBI MPC minutes: Policy misstep fears drove rate pause amid West Asia uncertainty",
-      "description": "The Reserve Bank of India's Monetary Policy Committee has opted for a cautious \"wait and watch\" stance, holding the repo rate steady due to significant geopolitical and weather-related uncertainties. Concerns over rising crude oil prices and potential El Nino impacts are driving inflation worries. While core inflation remains subdued, the committee emphasized vigilance against generalized price increases, prioritizing data dependency before considering any policy rate adjustments.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-minutes-policy-misstep-fears-drove-rate-pause-amid-west-asia-uncertainty/articleshow/131861187.cms",
-      "image": "https://img.etimg.com/thumb/msid-131861189,width-1200,height-630,imgsize-68460,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-19T14:26:00Z",
+      "title": "Delhi government digs in heels against pushback, no new petrol 2-wheelers from April \u201928",
+      "description": "Many even argued that India\u2019s still-import-dependent battery and rare-earth supply chains, heavily reliant on China, are not yet equipped to support a transition at this scale.",
+      "url": "https://indianexpress.com/article/cities/delhi/delhi-government-digs-in-heels-against-pushback-no-new-petrol-2-wheelers-from-april-28-10748493/",
+      "image": "https://images.indianexpress.com/2026/06/delhi-rain-3_20260619203902.jpg",
+      "publishedAt": "2026-06-19T20:39:22Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Indian Express"
       }
     },
     {
-      "title": "Three children rescued from Co Clare home after horrific petrol bomb attack as local 'fear' laid bare amid garda probe",
-      "description": "THREE children were rescued from their home in Co Clare on Wednesday night following a suspected petrol bomb attack.\nThe house in the Newmarket...",
-      "url": "https://www.thesun.ie/news/17140085/clare-petrol-bomb-attack-children-rescued/",
-      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/newspress-collage-ofyh631s5-1781878946802.jpg?quality=90&strip=all&1781882571&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-06-19T14:24:49Z",
+      "title": "Stock Market Week Ahead: Prepare for Micron\u2019s Earnings and Key Inflation Data",
+      "description": "June has provided no shortage of headlines for investors, including the U.S.-Iran memorandum of understanding (MOU), volatile gas prices, and Ke...",
+      "url": "https://markets.businessinsider.com/news/stocks/stock-market-week-ahead-prepare-for-micron-s-earnings-and-key-inflation-data-1036263506",
+      "image": "https://markets.businessinsider.com/favicon-32x32.png",
+      "publishedAt": "2026-06-19T19:22:31Z",
       "source": {
-        "name": "The Irish Sun"
+        "name": "Markets Insider"
       }
     },
     {
-      "title": "Petrol bomb makers among latest to be sentenced over Ely riots",
-      "description": "The deaths of teenagers Kyrees Sullivan and Harvey Evans sparked hours of violence and vandalism.",
-      "url": "https://www.bbc.com/news/articles/cvgl9z8l271o",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/2102/live/172a26f0-6be4-11f1-b1db-af71d47507d6.jpg",
-      "publishedAt": "2026-06-19T13:55:33Z",
+      "title": "Investors take profits after Asian rallies",
+      "description": "RECAP: Asian shares reversed course and fell yesterday as investors \u200ctook profits after record rallies in Japan and South Korea, while signs of an early snag in US-Iran talks lifted oil prices and the dollar.",
+      "url": "https://www.bangkokpost.com/business/general/3273564/investors-take-profits-after-asian-rallies",
+      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2026-06-19T18:01:00Z",
       "source": {
-        "name": "BBC News"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "PM Shehbaz announces massive fuel price cut, petrol down Rs74 per litre",
-      "description": "The federal government has announced a major reduction in petroleum prices, lowering the rates of both petrol and diesel in response to declining international oil",
-      "url": "https://www.nation.com.pk/19-Jun-2026/pm-shehbaz-announces-massive-fuel-price-cut-petrol-rs74-per-litre",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-06-19/pm-shehbaz-announces-massive-fuel-price-cut-petrol-rs74-per-litre-1781876824-7810.jpg",
-      "publishedAt": "2026-06-19T13:47:18Z",
+      "title": "Cheaper oil is doing mortgages a (slight) favour",
+      "description": "Thanks to the dive in oil prices, Canadian bond yields have simmered down. That\u2019s giving lenders a little room to ease fixed rates. Read on.",
+      "url": "https://financialpost.com/real-estate/mortgages/mortgage-rates/cheaper-oil-doing-mortgages-slight-favour",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/06/no0619houses.jpg",
+      "publishedAt": "2026-06-19T17:57:25Z",
       "source": {
-        "name": "The Nation"
+        "name": "Financial Post"
       }
     },
     {
-      "title": "Could Iran's New Hormuz Toll Make Petrol More Expensive",
-      "description": "Just three days after Donald Trump declared the Strait of Hormuz would reopen \"permanently toll-free,\" Iran said the opposite",
-      "url": "https://www.outlookindia.com/international/outlook-explains-could-irans-new-hormuz-toll-make-petrol-more-expensive",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-05-05/gefrgk93/Iranian-tugboat-in-Strait-of-Hormuz-off-Bandar-Abbas-Iran.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-19T13:46:41Z",
+      "title": "This govt reduces prices of petrol and diesel by Rs 74 and Rs 67, respectively, after US and Iran reach peace deal",
+      "description": "Following this cut, the price of petrol will become Rs 299.78, and the price of high-speed diesel will become Rs 311.78. - This govt reduces prices of petrol and diesel by Rs 74 and Rs 67, respectively, after US and Iran reach peace deal",
+      "url": "https://www.india.com/news/world/this-govt-reduces-prices-of-petrol-and-diesel-by-rs-74-and-rs-67-respectively-after-us-and-iran-reach-peace-deal-crude-oil-prices-united-states-iran-pakistan-government-shehbaz-sharif-strait-of-hormuz-8451569/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/QT-petrol-price.jpg",
+      "publishedAt": "2026-06-19T17:42:18Z",
       "source": {
-        "name": "Outlook India"
+        "name": "India.com"
       }
     },
     {
-      "title": "E85 Fuel Debuts In Mumbai, Cheaper Than E20 Petrol | Check Price",
-      "description": "Mumbai starts retailing E85 fuel at Rs 91.18 per litre, costlier than Delhi but cheaper than E20, supporting flex-fuel vehicles.",
-      "url": "https://www.news18.com/auto/e85-fuel-debuts-in-mumbai-cheaper-than-e20-petrol-check-price-ws-l-10161438.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/06/ani_20260614104712_1781876561705-1200x675.jpg",
-      "publishedAt": "2026-06-19T13:46:22Z",
+      "title": "Petrol and diesel demand defies May price hikes",
+      "description": "Despite rising petrol and diesel prices in May, fuel demand in India shows resilient growth year-on-year and month-on-month.",
+      "url": "https://www.thehindubusinessline.com/data-stories/data-focus/petrol-and-diesel-demand-defies-may-price-hikes/article71122146.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/ohju1r/article71122182.ece/alternates/LANDSCAPE_1200/20260525154L.jpg",
+      "publishedAt": "2026-06-19T16:35:00Z",
       "source": {
-        "name": "News18"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Rain Deficit To Push Inflation; Oil Prices Unlikely To Return To Pre-War Levels, RBI MPC Member Warns",
-      "description": "Saugata Bhattacharya cited the RBI inflation expectations survey, which indicated a consistent and significant increase in one year ahead inflation expectations.",
-      "url": "https://www.ndtvprofit.com/economy/rain-deficit-to-push-inflation-oil-prices-unlikely-to-return-to-pre-war-levels-rbi-mpc-member-warns-11660270",
-      "image": "https://c.ndtvimg.com/2025-12/4f537e20_Close_view_of_RBI_Reserve_Bank_of_India_signage__logo_at_its_entrance_gate___Source_Vijay_Sartape_BQ.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-19T13:39:02Z",
+      "title": "US-Iran Agreement: A Fragile Peace In West Asia",
+      "description": "The US-Iran agreement signed in France has offered a potential path towards easing tensions in West Asia and restoring confidence in global energy markets. While cargo movement through the Strait of Hormuz has resumed and oil prices have softened, ongoing violence involving Israel and Hezbollah highlights the fragile nature of the current ceasefire and the challenges facing future negotiations.",
+      "url": "https://www.freepressjournal.in/analysis/us-iran-agreement-a-fragile-peace-in-west-asia",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-19/xa0wailv/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-06-19T214703.803.jpg",
+      "publishedAt": "2026-06-19T16:17:27Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "AI boom shields Asia from West Asia shock, but risks mount for India and region: Moody\u2019s Analytics",
-      "description": "Moody's Analytics has said that AI-led exports and investment have helped Asia-Pacific weather the fallout from the West Asia conflict, but higher oil prices, inflation, trade tensions and weather-related disruptions could slow growth in the years ahead.",
-      "url": "https://www.livemint.com/economy/ai-boom-cushions-india-and-asia-pacific-region-but-inflation-oil-risks-cloud-outlook-moody-s-analytics-11781870350092.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/19/1600x900/logo/Artificial_Intelligence_1781874737783_1781874737924_09ca1ddb-726a-42f7-9929-e6af8b2dccf3.JPG",
-      "publishedAt": "2026-06-19T13:28:38Z",
+      "title": "Why Oil Prices Are Falling Even as Tankers Remain Trapped",
+      "description": "Oil prices tumble as markets bet on a Hormuz reopening despite slow tanker movements following the U.S.-Iran ceasefire.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Oil-Prices-Are-Falling-Even-as-Tankers-Remain-Trapped.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-06-19T16:10:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "New \u20ac213 & \u20ac180 energy price hike blow as Flogas confirms rate increase for thousands of Irish households in weeks",
-      "description": "FLOGAS is the latest utility provider to announce an increase in its electricity and gas prices from next month.\nThe company said that...",
-      "url": "https://www.thesun.ie/money/17140169/flogas-energy-price-hike-thousands-irish-households/",
-      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/newspress-collage-r7masewqe-1781875166710.jpg?quality=90&strip=all&1781878782&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-06-19T13:19:58Z",
+      "title": "Major supermarket slashes price of petrol and diesel at over 500 fuel stations as global oil prices fall",
+      "description": "A MAJOR supermarket has slashed the price of petrol and diesel, in a welcome boost for drivers as global oil prices fall.\nTesco is cutting 5p...",
+      "url": "https://www.thesun.co.uk/money/39472275/supermarket-slashes-petrol-diesel-prices/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/06/file-photo-dated-01-09-1070414942.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-06-19T16:00:00Z",
       "source": {
-        "name": "The Irish Sun"
+        "name": "The Sun"
       }
     },
     {
-      "title": "Motorists issued '\u00a39.50' fuel saving update as petrol and disesl prices drop",
-      "description": "It comes as the US and Iran sign a deal to end the war in the Middle East",
-      "url": "https://www.manchestereveningnews.co.uk/news/motoring/motoring-news/fuel-prices-continue-to-fall-34150658",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article33851182.ece/ALTERNATES/s1200d/3_Fuel-prices.jpg",
-      "publishedAt": "2026-06-19T13:10:52Z",
+      "title": "Tesco slashes petrol and diesel prices across over 500 UK stations",
+      "description": "The supermarket chain says the decision comes amidst a fall in global oil prices this week.",
+      "url": "https://www.express.co.uk/news/uk/2219636/tesco-slashes-petrol-diesel-prices",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6992641.jpg",
+      "publishedAt": "2026-06-19T16:00:00Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "Daily Express"
       }
     }
   ]
