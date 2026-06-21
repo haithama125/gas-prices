@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-21T02:44:43+00:00",
+  "updated_at": "2026-06-21T09:35:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Australia to extend petrol price relief for motorists",
-      "description": "Both temporary measures were due to expire at the end of June, but will be extended for the month of July. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/australianz/australia-to-extend-petrol-price-relief-for-motorists",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3d06527f07096bbdd90be55612f8f6bb0024c792cf57392d776a1b7d62e59986",
-      "publishedAt": "2026-06-20T14:15:00Z",
-      "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "America In Focus: US gas prices dip below $4 and more evidence Americans keep spending",
-      "description": "U.S. gas prices fell below $4 a gallon on average this past week, but just barely. Gas prices hit $3.999 on average in the U.S. Thursday, according to motor club AAA.",
-      "url": "https://apnews.com/article/inflation-economy-trump-iran-mortgage-unemployment-fed-5ce96031b69298e3f4bee8c73587fd54",
-      "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
-      "publishedAt": "2026-06-20T14:10:08Z",
-      "source": {
-        "name": "The Associated Press"
-      }
-    },
-    {
-      "title": "Massive cut in Jet fuel price announced",
-      "description": "ISLAMABAD: The government has reduced the price of jet fuel following significant cuts in petrol and diesel rates, according to officia",
-      "url": "https://www.bolnews.com/business/massive-cut-in-jet-fuel-price-announced/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/FotoJet-55-1.webp",
-      "publishedAt": "2026-06-20T13:46:40Z",
-      "source": {
-        "name": "BOL News"
-      }
-    },
-    {
-      "title": "West Asia conflict: Which stocks emerged as the top gainers and losers?",
-      "description": "Since the onset of the West Asia conflict on February 28, Indian equity markets have declined by around 4-5 per cent as investor sentiment weakened amid rising geopolitical tensions, volatile crude oil prices and concerns over global inflation.",
-      "url": "https://www.tribuneindia.com/news/business/west-asia-conflict-which-stocks-emerged-as-the-top-gainers-and-losers/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVlMzQxMDMwLTZjYTUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-20T12:41:28Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Energy prices expected to push inflation higher",
-      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
-      "url": "https://globalnews.ca/news/11914499/energy-prices-push-inflation-higher/",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/06/fb6ea4a80825540974b4611757d20613cbd9cc75e73e8b43e1cb1a83eceb081c.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-06-20T12:17:07Z",
-      "source": {
-        "name": "Global News"
-      }
-    },
-    {
-      "title": "Energy prices expected to push inflation higher: economists",
-      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/06/20/energy-prices-expected-to-push-inflation-higher-for-may-economists-say/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/C4SR6C7S5UXIEXHGYINY6HJWEU.jpg?smart=true&auth=9ac2e07e29b19ed1f71c026901664bcae750b266b1f494ee71ef38f36d1f679f&width=1200&height=630",
-      "publishedAt": "2026-06-20T11:52:30Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Energy prices expected to push inflation higher: economists",
-      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
-      "url": "https://www.cp24.com/news/money/2026/06/20/energy-prices-expected-to-push-inflation-higher-for-may-economists-say/",
-      "image": "https://www.cp24.com/resizer/v2/C4SR6C7S5UXIEXHGYINY6HJWEU.jpg?smart=true&auth=9ac2e07e29b19ed1f71c026901664bcae750b266b1f494ee71ef38f36d1f679f&width=1200&height=630",
-      "publishedAt": "2026-06-20T11:52:30Z",
+      "title": "Gas prices making some people consider switch to EVs",
+      "description": "An event in Halifax this weekend, known as the largest electric vehicle test drive event in Atlantic Canada, saw some people considering a switch from gas or even hybrid vehicles to electric.",
+      "url": "https://www.cp24.com/news/canada/2026/06/20/gas-prices-making-some-people-consider-switch-to-evs/",
+      "image": "https://www.cp24.com/resizer/v2/6E73BGR4XNCPLDOTXHFGNV43DY.JPG?smart=true&auth=e4282d544761efcf33271a265abf99e5a4d772e026c99a7a6e504ec5923c1131&width=1200&height=630",
+      "publishedAt": "2026-06-20T21:00:21Z",
       "source": {
         "name": "CP24 Toronto"
       }
     },
     {
-      "title": "\u2018Gadkari had promised petrol would be available at \u20b915': Tehseen Poonawalla questions E20 fuel pricing",
-      "description": "Gadkari emphasised that blending 60% ethanol with 40% electricity could lower petrol prices to \u20b915 per litre.",
-      "url": "https://www.livemint.com/news/india/gadkari-had-promised-petrol-would-be-available-at-rs-15-tehseen-poonawalla-questions-e20-fuel-pricing-11781949572885.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/a_1781952027418_1781952029979_7b0d0c53-0092-4465-b6ad-38990231bab0.png",
-      "publishedAt": "2026-06-20T11:32:17Z",
+      "title": "Gas prices making some people consider switch to EVs",
+      "description": "An event in Halifax this weekend, known as the largest electric vehicle test drive event in Atlantic Canada, saw some people considering a switch from gas or even hybrid vehicles to electric.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/06/20/gas-prices-making-some-people-consider-switch-to-evs/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/6E73BGR4XNCPLDOTXHFGNV43DY.JPG?smart=true&auth=e4282d544761efcf33271a265abf99e5a4d772e026c99a7a6e504ec5923c1131&width=1200&height=630",
+      "publishedAt": "2026-06-20T21:00:21Z",
       "source": {
-        "name": "Livemint"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "Oil prices ease to near pre",
-      "description": "NEW DELHI, June 20: Oil prices retreated to near pre-conflict levels on Friday as global markets welcomed a ceasefire Memorandum of Understanding between the United States and Iran, easing fears of a prolonged disruption to energy supplies from the Middle...",
-      "url": "https://www.dailyexcelsior.com/oil-prices-ease-to-near-pre-conflict-levels-after-us-iran-ceasefire/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTBlYzYwMmQwLTZjOTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-20T11:13:24Z",
+      "title": "My Top Energy Stocks For 2026 Mid Year Update",
+      "description": "Geopolitical risk is boosting volatile oil/gas prices\u2014see energy stock picks (XOM, CRK, AR, EGY) and why diversification matters.",
+      "url": "https://seekingalpha.com/article/4916484-my-top-energy-stocks-for-2026-mid-year-update",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/540969074/image_540969074.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-06-20T19:44:31Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Seeking Alpha"
       }
     },
     {
-      "title": "Fuelling Anxiety: What Gas Prices Tell Us About America and the World",
-      "description": "The war in Iran has showed how the price of gas weighs not just on people\u2019s wallets, but also on our national mind\u2014as it has for decades.",
-      "url": "https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/",
-      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8a330e3585fdcaf9/6a341fbc30f1a432d07e1f45/weekend-essay-gas-prices.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
-      "publishedAt": "2026-06-20T11:00:03Z",
+      "title": "Will petrol, diesel prices increase? Here\u2019s what govt says\u2026",
+      "description": "Union Minister for Petroleum Hardeep Singh Puri said the increase in fuel prices has been limited to Rs 7.60, pointing out that this remains significantly lower than the levels seen during the Russia-Ukraine war. Here's what he said on whether the prices will increase in the future",
+      "url": "https://www.india.com/news/india/will-petrol-diesel-prices-increase-hardeep-singh-puri-on-fuel-prices-in-india-8452557/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/Hardeep-Singh-Puri.jpg",
+      "publishedAt": "2026-06-20T18:18:51Z",
       "source": {
-        "name": "TIME"
+        "name": "India.com"
+      }
+    },
+    {
+      "title": "Telangana: Govt Plans Petrol Bunks, Solar Plants For Women SHGs",
+      "description": "\u201cOf the 67 lakh women in self-help groups across the state, 12 lakh were uneducated\\\": Anasuya Seethakka",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/telangana-govt-plans-petrol-bunks-solar-plants-for-women-shgs-1965058",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/20/2054121-20nlg-4.jpg",
+      "publishedAt": "2026-06-20T17:22:31Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "No increase in petrol, diesel prices \u2018if situation is viewed in real terms\u2019, says Govt",
+      "description": "Puri said said the increase in petrol and diesel prices had been limited to \u20b97.60, added that compared to prices prevailing during the Russia-Ukraine war. | India News",
+      "url": "https://www.hindustantimes.com/india-news/no-increase-in-petrol-diesel-prices-if-situation-is-viewed-in-real-terms-says-govt-hardeep-singh-puri-pm-modi-fuel-101781971016433.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/20/550x309/20260618-MTH-PGD-MN-Petrol-408-0_1781972560993_1781972570228_30216ead-0266-4ae7-a99e-745319f00daa.JPG",
+      "publishedAt": "2026-06-20T17:13:35Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Petrol, diesel rates may ease as cheaper crude arrives, says oil minister Hardeep Puri",
+      "description": "India Business News: Union petroleum and natural gas minister Hardeep Singh Puri on Saturday indicated that petrol and diesel prices could be reduced if lower-priced crude.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-diesel-rates-may-ease-as-cheaper-crude-arrives-says-oil-minister-hardeep-puri/articleshow/131880132.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131880438,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-20T17:02:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "No real spike in petrol, diesel prices in India despite global crude oil market volatility: Hardeep Singh Puri",
+      "description": "Addressing a press conference during his visit to Sonbhadra as part of the Centre's campaign marking 12 years of the Narendra Modi government, Puri further said that Sonbhadra in Uttar Pradesh is shedding its image of being a backward region and is moving towards becoming a model district.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/no-real-spike-in-petrol-diesel-prices-in-india-despite-global-crude-oil-market-volatility-hardeep-singh-puri/articleshow/131879439.cms",
+      "image": "https://img.etimg.com/thumb/msid-131879456,width-1200,height-630,imgsize-93752,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-20T16:08:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Crude Check: Trend Remains Weak",
+      "description": "Crude oil prices show a bearish trend, with potential for a temporary rise before resuming downward momentum.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-oil-futures-remain-weak/article71125894.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/ovvz8g/article71126163.ece/alternates/LANDSCAPE_1200/IMG_Evolving-crude-_G5LC_2_1_RGDGFJ4O.jpg",
+      "publishedAt": "2026-06-20T16:02:01Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "GHMC Distributes 7.1 Lakh Saris to SHG Women",
+      "description": "Azharuddin said the government was exploring additional opportunities to entrust to SHGs such as the operation of electric buses, petrol bunks, and income-generating ventures",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/ghmc-distributes-71-lakh-saris-to-shg-women-1965033",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/20/2054090-job-calendar-2026-06-20t211803935.jpg",
+      "publishedAt": "2026-06-20T15:45:33Z",
+      "source": {
+        "name": "Deccan Chronicle"
       }
     }
   ]
