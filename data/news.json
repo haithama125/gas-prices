@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-20T19:09:05+00:00",
+  "updated_at": "2026-06-21T02:44:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Govt cuts petrol levy by Rs40.49 per litre, raises diesel levy by Rs19.71",
-      "description": "Petroleum levy on petrol has been reduced to Rs 66.25 per litre from Rs 106.74 per litre, according to reports.",
-      "url": "https://www.bolnews.com/business/govt-cuts-petrol-levy-by-rs40-49-per-litre-raises-diesel-levy-by-rs19-71/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/petrol-2.webp",
-      "publishedAt": "2026-06-20T06:59:22Z",
+      "title": "Australia to extend petrol price relief for motorists",
+      "description": "Both temporary measures were due to expire at the end of June, but will be extended for the month of July. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/australianz/australia-to-extend-petrol-price-relief-for-motorists",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3d06527f07096bbdd90be55612f8f6bb0024c792cf57392d776a1b7d62e59986",
+      "publishedAt": "2026-06-20T14:15:00Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "America In Focus: US gas prices dip below $4 and more evidence Americans keep spending",
+      "description": "U.S. gas prices fell below $4 a gallon on average this past week, but just barely. Gas prices hit $3.999 on average in the U.S. Thursday, according to motor club AAA.",
+      "url": "https://apnews.com/article/inflation-economy-trump-iran-mortgage-unemployment-fed-5ce96031b69298e3f4bee8c73587fd54",
+      "image": "https://dims.apnews.com/dims4/default/295c329/2147483647/strip/true/crop/675x450+12+0/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F90%2F29%2F4e3c1cc7446089a9101a7bdff4c8%2Fdefaultshareimage-copy.png",
+      "publishedAt": "2026-06-20T14:10:08Z",
+      "source": {
+        "name": "The Associated Press"
+      }
+    },
+    {
+      "title": "Massive cut in Jet fuel price announced",
+      "description": "ISLAMABAD: The government has reduced the price of jet fuel following significant cuts in petrol and diesel rates, according to officia",
+      "url": "https://www.bolnews.com/business/massive-cut-in-jet-fuel-price-announced/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/FotoJet-55-1.webp",
+      "publishedAt": "2026-06-20T13:46:40Z",
       "source": {
         "name": "BOL News"
       }
     },
     {
-      "title": "Oil Prices Slump 16% Since June Meeting, Giving MPC Headroom for Policy Normalisation: ICICI Research Report",
-      "description": "A 16% drop in oil prices and easing geopolitical tensions since the June MPC meeting have significantly improved India's inflation outlook, according to an ICICI Research report.",
-      "url": "https://www.republicworld.com/business/oil-prices-slump-16-since-june-meeting-giving-mpc-headroom-for-policy-normalisation-icici-research-report-2026-06-20-129160",
-      "image": "https://img.republicworld.com/all_images/brent-dropped-to-6756-and-wti-to-6313-1770613628300-16_9.webp",
-      "publishedAt": "2026-06-20T06:40:00Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Top 10 winners and losers of Nifty 500 index during the US-Iran war: HFCL, Ola Electric surge while Vedanta, RVNL sinks",
-      "description": "The US-Iran conflict has led to a 4-5% decline in Indian equity markets. Investor sentiment is dampened by geopolitical tensions and rising oil prices. While negotiations offer hope, concerns over delayed talks and volatility linger, impacting stock performance across sectors.",
-      "url": "https://www.livemint.com/market/stock-market-news/top-10-winners-and-losers-of-nifty-500-index-during-the-us-iran-war-hfcl-ola-electric-surge-while-vedanta-rvnl-sinks-11781934924366.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/top_gainers_and_losers_1781935773953_1781935774297_4bd5e580-aa4f-4b84-9f9a-3c5cc59e3fdf.jpg",
-      "publishedAt": "2026-06-20T06:17:58Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "The hidden costs of electric vehicle ownership Australians should budget for",
-      "description": "Electric vehicles get sold on a simple promise: cheaper to run, cleaner to drive. Plug in overnight, skip the petrol station, and watch the savings stack up. That pitch holds...",
-      "url": "https://itwire.com/guest-articles/guest-opinion/the-hidden-costs-of-electric-vehicle-ownership-australians-should-budget-for",
-      "image": "https://media.itwire.com/2026/06/20/the-hidden-costs-of-electric-vehicle-ownership-australians-should-budget-for-0860ccb9eacc.jpg",
-      "publishedAt": "2026-06-20T06:13:00Z",
-      "source": {
-        "name": "iTWire"
-      }
-    },
-    {
-      "title": "Is the worst over on oil prices?",
-      "description": "Consumers are beginning to breathe a sigh of relief as oil prices fall after a shaky peace deal was agreed in the Middle East.",
-      "url": "https://www.rte.ie/news/business/2026/0620/1579354-is-the-worst-over-on-oil-prices/",
-      "image": "https://www.rte.ie/images/00246feb-1600.jpg",
-      "publishedAt": "2026-06-20T06:00:02Z",
-      "source": {
-        "name": "RTE.ie"
-      }
-    },
-    {
-      "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-      "description": "Falling oil prices and easing geopolitical tensions have improved India's inflation outlook, giving the Monetary Policy Committee room to decide on policy normalization timing. While concerns about food and fuel prices were noted, underlying inflation remains stable. Domestic growth shows resilience, though export and rainfall risks persist. The MPC may lower inflation forecasts if oil prices remain subdued, potentially reducing near-term rate hike odds.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/articleshow/131871079.cms",
-      "image": "https://img.etimg.com/thumb/msid-131871286,width-1200,height-630,imgsize-67686,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-20T05:59:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-      "description": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-      "url": "https://www.news18.com/agency-feeds/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research-10162218.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
-      "publishedAt": "2026-06-20T05:45:07Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Lower oil prices open door for MPC to time policy normalisation: ICICI Research",
-      "description": "With oil prices down 16 per cent since the June Monetary Policy Committee (MPC) meeting and geopolitical risks easing, the inflation outlook has improved and the MPC now has headroom to choose the timing of policy normalisation, ICICI Global Markets Economic Research Group said in a report.",
-      "url": "https://www.tribuneindia.com/news/business/lower-oil-prices-open-door-for-mpc-to-time-policy-normalisation-icici-research/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQwM2ZjNDEwLTZjNmEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-20T05:38:16Z",
+      "title": "West Asia conflict: Which stocks emerged as the top gainers and losers?",
+      "description": "Since the onset of the West Asia conflict on February 28, Indian equity markets have declined by around 4-5 per cent as investor sentiment weakened amid rising geopolitical tensions, volatile crude oil prices and concerns over global inflation.",
+      "url": "https://www.tribuneindia.com/news/business/west-asia-conflict-which-stocks-emerged-as-the-top-gainers-and-losers/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVlMzQxMDMwLTZjYTUtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-20T12:41:28Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Tesco makes change to 500 forecourts with petrol and diesel drivers affected",
-      "description": "Tesco is cutting 5p off a litre of diesel and 2p off a litre of unleaded petrol at all 500 of its filling stations across the UK.",
-      "url": "https://www.birminghammail.co.uk/whats-on/shopping/tesco-makes-change-500-forecourts-34155750",
-      "image": "https://i2-prod.birminghammail.co.uk/article34155758.ece/ALTERNATES/s1200d/0_tesco.jpg",
-      "publishedAt": "2026-06-20T05:26:09Z",
+      "title": "Energy prices expected to push inflation higher",
+      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
+      "url": "https://globalnews.ca/news/11914499/energy-prices-push-inflation-higher/",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/06/fb6ea4a80825540974b4611757d20613cbd9cc75e73e8b43e1cb1a83eceb081c.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-06-20T12:17:07Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "Global News"
       }
     },
     {
-      "title": "My experience of filling E85 fuel: The most unusual visit to a pump",
-      "description": "E85 is India's cheapest petrol blend, but very few vehicles can use it. Curious about its real-world benefits, I filled it in a flex-fuel bike and had an unexpectedly unusual experience.",
-      "url": "https://www.indiatoday.in/auto/in-depth/story/my-experience-of-filling-e85-fuel-the-most-unusual-visit-to-a-pump-2930247-2026-06-20",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/the-suzuki-gixxer-sf-220-flex-fuel-at-pusa-road-indian-oil-pump-194754887-16x9_0.jpeg?VersionId=t4HwS21bUE7xFx17xO89ulUlHM1VZ2PT",
-      "publishedAt": "2026-06-20T04:30:44Z",
+      "title": "Energy prices expected to push inflation higher: economists",
+      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/06/20/energy-prices-expected-to-push-inflation-higher-for-may-economists-say/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/C4SR6C7S5UXIEXHGYINY6HJWEU.jpg?smart=true&auth=9ac2e07e29b19ed1f71c026901664bcae750b266b1f494ee71ef38f36d1f679f&width=1200&height=630",
+      "publishedAt": "2026-06-20T11:52:30Z",
       "source": {
-        "name": "India Today"
+        "name": "Bnn Bloomberg"
+      }
+    },
+    {
+      "title": "Energy prices expected to push inflation higher: economists",
+      "description": "High oil and gasoline prices are expected to push inflation higher when Statistics Canada reports its consumer price index for May on Monday.",
+      "url": "https://www.cp24.com/news/money/2026/06/20/energy-prices-expected-to-push-inflation-higher-for-may-economists-say/",
+      "image": "https://www.cp24.com/resizer/v2/C4SR6C7S5UXIEXHGYINY6HJWEU.jpg?smart=true&auth=9ac2e07e29b19ed1f71c026901664bcae750b266b1f494ee71ef38f36d1f679f&width=1200&height=630",
+      "publishedAt": "2026-06-20T11:52:30Z",
+      "source": {
+        "name": "CP24 Toronto"
+      }
+    },
+    {
+      "title": "\u2018Gadkari had promised petrol would be available at \u20b915': Tehseen Poonawalla questions E20 fuel pricing",
+      "description": "Gadkari emphasised that blending 60% ethanol with 40% electricity could lower petrol prices to \u20b915 per litre.",
+      "url": "https://www.livemint.com/news/india/gadkari-had-promised-petrol-would-be-available-at-rs-15-tehseen-poonawalla-questions-e20-fuel-pricing-11781949572885.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/20/1600x900/logo/a_1781952027418_1781952029979_7b0d0c53-0092-4465-b6ad-38990231bab0.png",
+      "publishedAt": "2026-06-20T11:32:17Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Oil prices ease to near pre",
+      "description": "NEW DELHI, June 20: Oil prices retreated to near pre-conflict levels on Friday as global markets welcomed a ceasefire Memorandum of Understanding between the United States and Iran, easing fears of a prolonged disruption to energy supplies from the Middle...",
+      "url": "https://www.dailyexcelsior.com/oil-prices-ease-to-near-pre-conflict-levels-after-us-iran-ceasefire/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTBlYzYwMmQwLTZjOTktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-20T11:13:24Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Fuelling Anxiety: What Gas Prices Tell Us About America and the World",
+      "description": "The war in Iran has showed how the price of gas weighs not just on people\u2019s wallets, but also on our national mind\u2014as it has for decades.",
+      "url": "https://time.com/article/2026/06/20/fuelling-anxiety-what-gas-prices-tell-us-about-america-and-the-world/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt8a330e3585fdcaf9/6a341fbc30f1a432d07e1f45/weekend-essay-gas-prices.jpg?branch=production&width=3840&quality=75&auto=webp&crop=16:9",
+      "publishedAt": "2026-06-20T11:00:03Z",
+      "source": {
+        "name": "TIME"
       }
     }
   ]
