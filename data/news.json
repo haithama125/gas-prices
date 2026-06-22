@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-06-22T02:46:42+00:00",
+  "updated_at": "2026-06-22T11:34:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Pundit says oil prices hold key to Iran ceasefire",
+      "description": "A ceasefire between the US and Iran is likely to drive down global crude oil prices to around US$70 per barrel, according to a specialist on the US and Chinese economies.",
+      "url": "https://www.bangkokpost.com/business/general/3274555/pundit-says-oil-prices-hold-key-to-iran-ceasefire",
+      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
+      "publishedAt": "2026-06-21T23:20:00Z",
+      "source": {
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "Wright: Oil Flows Through Hormuz Back to Normal, Price to Continue Falling",
+      "description": "I'm long out of the business of predicting oil or gasoline prices, but they will continue to head down, Wright said. Flows of oil and natural gas through the straits have already returned to normal, and they will continue that way whatever happens with the negotiations with the Iranians.",
+      "url": "https://www.newsmax.com/world/globaltalk/chris-wright-iran-oil-prices/2026/06/21/id/1260389/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=b08e8e95-1f21-4d9d-b33d-1d06cc0c1df5&SiteName=Newsmax",
+      "publishedAt": "2026-06-21T20:32:13Z",
+      "source": {
+        "name": "Newsmax"
+      }
+    },
+    {
+      "title": "Energy Secretary Says Strait Of Hormuz Traffic Back To Normal, Predicts Decline In Oil Prices Amid Trump\u2019",
+      "description": "US Sec. of Energy Wright announces oil traffic through Strait of Hormuz back to normal after US-Iran agreement to reopen vital waterway.",
+      "url": "https://www.benzinga.com/markets/commodities/26/06/60005661/energy-secretary-says-strait-of-hormuz-traffic-back-to-normal-predicts-decline-in-oil-prices-amid-trumps-latest-threat",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/21/Aerial-view-of-crude-oil-tanker-anchored.jpg",
+      "publishedAt": "2026-06-21T19:07:18Z",
+      "source": {
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Oil Prices Slide After Iran Deal, But Analysts Warn Gasoline Relief Will Take Months",
+      "description": "Brent crude futures fell 0.1% to $77.18 a barrel on Thursday, June 18, 2026, according to market data [1]. West Texas Intermediate crude slid 0.3% to $75.78 a barrel the same day [1]. The declines brought oil prices to their lowest levels since the start of the US-Iran conflict on February 28, when benchmarks had [\u2026]",
+      "url": "https://www.naturalnews.com/2026-06-21-oil-prices-slide-gasoline-relief-take-months.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/oil-prices-iran-deal-strait-of-hormuz-2189-original.jpg",
+      "publishedAt": "2026-06-21T17:50:15Z",
+      "source": {
+        "name": "Natural News"
+      }
+    },
+    {
+      "title": "Rupee rebounds, but risks abound",
+      "description": "The rupee has experienced a brief rebound fueled by optimism surrounding the potential reopening of the Hormuz Strait and a decrease in oil prices. Although government interventions provide short-term relief, the currency\u2019s long-term vulnerability is evidenced by sluggish investments and insufficient participation in critical growth sectors such as AI.",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/rupee-rebounds-but-risks-abound/articleshow/131895360.cms",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-126966,resizemode-75,msid-131895360/opinion/et-editorial/rupee-rebounds-but-risks-abound.jpg",
+      "publishedAt": "2026-06-21T17:45:26Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Using E20 Petrol in an Old Vehicle? Follow These 5 Steps Immediately to Protect Your Engine",
+      "description": "Using E20 Petrol in an Old Vehicle? Follow These 5 Steps Immediately to Protect Your Engine - Cars and bikes manufactured before April 2023 were generally not designed for high-ethanol-blended fuel. Experts warn that using E20 petrol in such vehicles may lead to reduced mileage, damage to engine components, and corrosion-related issues over time. Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/using-e20-petrol-in-an-old-vehicle-follow-these-5-steps-immediately-to-protect-your-engine-a525/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/ethanol-blended-petrol-use_2026061127064.png",
+      "publishedAt": "2026-06-21T17:25:20Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "UK drivers ditch petrol and diesel cars as fuel \u00a320 a tank higher",
+      "description": "Many UK drivers could be set to hand over the keys and ditch their petrol and diesel cars as fuel prices remain a major concern.",
+      "url": "https://www.express.co.uk/life-style/cars/2220052/petrol-diesel-cars-fuel-prices",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6994895.jpg",
+      "publishedAt": "2026-06-21T16:41:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "UK \u00a3480 car tax system \u2018not fair\u2019 warns Treasury",
+      "description": "EXCLUSIVE: Motoring fees paid by millions of petrol and diesel owners have been described as 'not fair' by the Treasury.",
+      "url": "https://www.express.co.uk/life-style/cars/2220060/car-tax-rules-pay-per-mile",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/6994938.jpg",
+      "publishedAt": "2026-06-21T16:13:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Bike riding collegian killed in head-on collision with dumper on Nagothane-Roha Rd",
+      "description": "22-year-old biker Raj Ganesh Patang died in a head-on collision with a dumper on Nagothane-Roha Road near Nayara petrol pump; driver booked for rash driving.",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/bike-riding-collegian-killed-in-head-on-collision-with-dumper-on-nagothane-roha-rd/articleshow/131893175.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131893168,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-21T15:17:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
     {
       "title": "Triple deaths in Miryalaguda fire were murders",
       "description": "Hyderabad: Triple murder in Miryalguda ruled arson after forensic petrol traces and CCTV linked Sireesh Kumar to burning a woman and two grandsons.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-06-21T14:36:00Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "Victor Davis Hanson challenges media assumptions on the Iran deal",
-      "description": "Victor Davis Hanson pushes back on critics of the Iran ceasefire, arguing Donald Trump holds leverage through sanctions, gas prices concerns, and upcoming midterm elections.",
-      "url": "https://www.foxnews.com/media/victor-davis-hanson-dissects-mainstream-media-coverage-misreads-iran-deal",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/87b76f66-db44-4313-b38d-f578b3db22fe_trump-media-iran-fox-news.jpg",
-      "publishedAt": "2026-06-21T13:31:35Z",
-      "source": {
-        "name": "Fox News"
-      }
-    },
-    {
-      "title": "Petrol & diesel tax cut extension latest as Minister says \u2018nothing is off the table\u2019 amid 'difficult to predict' prices",
-      "description": "IRISH drivers could be spared a fresh fuel price jump after the Energy Minister refused to rule out extending petrol and diesel tax...",
-      "url": "https://www.thesun.ie/money/17150276/fuel-prices-tax-darragh-obrien-motorists-ireland/",
-      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/06/newspress-collage-pdrye2yrn-1782042416119.jpg?quality=90&strip=all&1782046054&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-06-21T12:30:33Z",
-      "source": {
-        "name": "The Irish Sun"
-      }
-    },
-    {
-      "title": "Bullion Outlook Next Week, US-Iran Talks & Crude Oil Prices To Drive Gold-Silver Trend",
-      "description": "Gold and silver prices are expected to remain volatile next week as markets closely watch US-Iran talks, crude oil movement and key global macroeconomic data. Analysts say geopolitical developments, central bank signals and inflation data will shape bullion sentiment and price direction worldwide.",
-      "url": "https://www.freepressjournal.in/business/bullion-outlook-next-week-us-iran-talks-crude-oil-prices-to-drive-gold-silver-trend",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-21/y0hskc0r/golden-outlook.jpg",
-      "publishedAt": "2026-06-21T12:14:48Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "David Hegg | Dad, Teach Your Kids How to Suffer Well",
-      "description": "By David Hegg As I write this, the conflict in the Middle East continues to both raise and dash our hopes. We hear optimistic declarations and see oil prices fall, [\u2026]",
-      "url": "https://signalscv.com/2026/06/david-hegg-dad-teach-your-kids-how-to-suffer-well/",
-      "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2025/10/29181022/David_Hegg_Setup-scaled.jpg",
-      "publishedAt": "2026-06-21T12:08:00Z",
-      "source": {
-        "name": "Santa Clarita Valley Signal"
-      }
-    },
-    {
-      "title": "New Greggs to open at Morrisons petrol station",
-      "description": "Fans of the bakery will soon be able to fill up on hot sausage rolls while filling up the motor.",
-      "url": "https://www.express.co.uk/news/uk/2218964/new-greggs-open-morrisons-petrol",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/6988829.jpg",
-      "publishedAt": "2026-06-21T11:41:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Crimea halts civilian gasoline sales as Ukraine steps up attacks on Russia",
-      "description": "Europe News: Authorities in Russian-occupied Crimea have temporarily halted civilian petrol sales after a series of Ukrainian attacks intensified pressure on fuel .",
-      "url": "https://timesofindia.indiatimes.com/world/europe/crimea-halts-civilian-gasoline-sales-as-ukraine-steps-up-attacks-on-russia/articleshow/131888923.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131890172,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-21T11:35:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Gold, silver rates outlook: Bullion investors to track US-Iran talks, crude oil trends and key global data next week",
-      "description": "India Business News: Gold and silver prices are expected to remain driven by developments in US-Iran negotiations, movements in crude oil prices and a packed global macroe.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rates-outlook-bullion-prices-to-track-us-iran-talks-crude-oil-trends-and-key-global-data-next-week/articleshow/131890059.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131890153,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-21T11:33:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "US-Iran Talks, Crude Oil Prices, Macro Data To Dictate Bullion Trend This Week",
-      "description": "Apart from geopolitical developments, investors will track the People's Bank of China's policy decision on Monday, flash manufacturing and services PMI data from major economies, US housing numbers, PCE inflation data and consumer sentiment readings.",
-      "url": "https://www.ndtvprofit.com/business/us-iran-talks-crude-oil-movement-macro-data-to-dictate-bullion-trend-next-week-analysts-11666875",
-      "image": "https://c.ndtvimg.com/2026-06/2e77ovgs_gold-price-prediction-with-expert-_625x300_21_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-21T11:19:14Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "US-Iran talks, oil movement to drive bullion trend next week: Analysts",
-      "description": "Developments surrounding US-Iran negotiations, movement in crude oil prices and key global economic data are expected to steer gold and silver prices next week, analysts said.",
-      "url": "https://www.business-standard.com/markets/news/us-iran-talks-oil-movement-to-drive-bullion-trend-next-week-analysts-126062100449_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/23/thumb/fitandfill/1200X628/1774232535-4626.jpg",
-      "publishedAt": "2026-06-21T10:49:58Z",
-      "source": {
-        "name": "Business Standard"
       }
     }
   ]
