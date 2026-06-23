@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-23T14:27:36+00:00",
+  "updated_at": "2026-06-23T19:49:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock market today: Gift Nifty hints muted start; US-Iran peace talks to crude oil prices - 8 stocks to buy",
-      "description": "The Indian stock market is expected to open cautiously amid mixed global cues. Sensex and Nifty gained on Monday, driven by optimism over US-Iran peace talks, although Asian markets traded lower. Experts recommend a 'buy on dips' strategy for Nifty as key levels remain critical.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-iran-peace-talks-to-crude-oil-prices-8-stocks-to-buy-11782178948481.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1782181066835_c30c524d-cceb-4d64-831b-41b9de2659d7.jpg",
-      "publishedAt": "2026-06-23T02:25:08Z",
+      "title": "BP, Walmart and 7-Eleven sued over AI-set petrol prices in California",
+      "description": "California drivers have sued BP, Walmart, 7-Eleven and three other chains, alleging an AI pricing tool was used to coordinate higher petrol prices.",
+      "url": "https://thenextweb.com/news/ai-gas-prices-lawsuit-california",
+      "image": "https://media.thenextweb.com/2026/06/BP.avif",
+      "publishedAt": "2026-06-23T07:43:22Z",
       "source": {
-        "name": "Livemint"
+        "name": "TNW"
       }
     },
     {
-      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
-      "description": "The US dollar strengthened Tuesday, driven by expectations of a more aggressive Federal Reserve and a rebound in oil prices. Elevated US Treasury yields are also bolstering the greenback. Meanwhile, the Japanese yen is nearing a four-decade low, prompting concerns and discussions about potential intervention. Other major currencies like the euro and pound saw limited movement.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low/articleshow/131923091.cms",
-      "image": "https://img.etimg.com/thumb/msid-131923100,width-1200,height-630,imgsize-75702,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-23T02:18:00Z",
+      "title": "Worst is over for crude oil prices for now: Jim Burkhard, S&P Global Energy",
+      "description": "Oil prices outlook: S&P Global sees Brent averaging $80-$90 a barrel in H2CY26 as supply recovers slowly after the Hormuz disruption, with China's buying patterns holding the key.",
+      "url": "https://www.business-standard.com/markets/interviews/worst-is-over-for-crude-oil-prices-for-now-jim-burkhard-s-p-global-energy-126062300493_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/23/thumb/fitandfill/1200X628/1782200109-006.jpg",
+      "publishedAt": "2026-06-23T07:37:00Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Oil prices hit lows not seen since early March on US-Iran peace talk progress",
+      "description": "Brent crude dropped nearly 2% to 76.5 US dollars a barrel at one stage in morning trading on Tuesday.",
+      "url": "https://www.kentonline.co.uk/news/national/oil-prices-hit-lows-not-seen-since-early-march-on-us-iran-peace-talk-progress-168383/",
+      "image": "https://www.kentonline.co.uk/_media/img/W0YOWHPEXJHD50QFG6R4.jpg",
+      "publishedAt": "2026-06-23T07:32:52Z",
+      "source": {
+        "name": "Kent Online"
+      }
+    },
+    {
+      "title": "Asian shares mostly slip amid caution about the war in Iran",
+      "description": "Asian shares are mostly lower as recent enthusiasm cools and markets face uncertainty about efforts to end the war in Iran. Benchmarks fell Tuesday in Tokyo, Sydney, Seoul, Hong Kong and Shanghai. Oil prices momentarily rose but fell later in the day in Asia. An end to the war could open the Strait of Hormuz for oil tankers and allow for the full resumption of deliveries from the Persian Gulf. U.S. stocks drifted through a mixed day of trading after Big Tech stocks weighed on Wall Street. The S&P 500 slipped 0.4%, the Dow added 0.3%, and the Nasdaq slumped 1.3%.",
+      "url": "https://www.ajc.com/news/2026/06/asian-shares-are-trading-mixed-amid-caution-about-the-war-in-iran/",
+      "image": "https://images.ajc.com/resizer/v2/YXAJE65YSFGJDMGTPOK2Y7V6B4.jpg?auth=2f5d058b2e0a94cbf09d48d8c32a76b1ec5180b2ef1b0010463d8b0d39c4c01e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-23T07:21:49Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Prime Day poised to set online spending record",
+      "description": "Shoppers feeling the sting of higher gas prices are expected to snatch up deals on back-to-school clothes and household goods, pushing online spending to another record during Amazon.com Inc.'s 12th annual Prime Day sale that begins Tuesday.",
+      "url": "https://www.arkansasonline.com/news/2026/jun/23/prime-day-poised-to-set-online-spending-record/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213109282_amazon-bg_II4RIEGC7VHSHBPDVLUJ6LFBTM_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-06-23T07:15:00Z",
+      "source": {
+        "name": "Arkansas Online"
+      }
+    },
+    {
+      "title": "Miscreants throw petrol bomb at clinic of BJP leader's husband close to RSS office in Bathinda",
+      "description": "Miscreants throw petrol bomb at clinic of BJP leader's husband close to RSS office in Bathinda - Chandigarh, June 23 Ahead of Punjab Chief Minister Bhagwant Mann\u2019s visit on Tuesday, two motorcycle-borne miscreants threw a ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/miscreants-throw-petrol-bomb-at-clinic-of-bjp-leaders-husband-close-to-rss-office-in-bathinda/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606233836047_202606.jpg",
+      "publishedAt": "2026-06-23T06:55:39Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "US Iran truce, lower crude to drive market; Medanta, GMR Airport, Mankind midcaps to buy",
+      "description": "Experts say easing oil prices may benefit financials, autos and realty, while Emkay sees sustained midcap outperformance through 2027.",
+      "url": "https://www.businesstoday.in/markets/stocks/story/us-iran-truce-lower-crude-to-drive-market-medanta-gmr-airport-mankind-midcaps-to-buy-538617-2026-06-23",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3a2d41e08b0-ai-generated-image-for-representational-purpose-only-235244249-16x9.png",
+      "publishedAt": "2026-06-23T06:55:15Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Rupee flat as traders mull Fed rate path, keep eyes peeled for flow clues",
+      "description": "The Indian rupee held steady as falling oil prices provided some relief, though traders remained cautious due to anticipated US Federal Reserve rate hikes. While policy measures have helped the rupee recover, the prospect of higher US interest rates poses a challenge. Analysts are closely watching the impact of these measures on dollar inflows, with some predicting significant amounts.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-flat-as-traders-mull-fed-rate-path-keep-eyes-peeled-for-flow-clues/articleshow/131928033.cms",
+      "image": "https://img.etimg.com/thumb/msid-131928045,width-1200,height-630,imgsize-207625,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-23T06:46:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Rise Amid Mixed Signals From U.S.-Iran Peace Talks",
-      "description": "By Ronnie Harui\nOil prices were up in Asia on Tuesday morning, amid mixed signals from talks between the U.S. and Iran on ending the conflict.\nVice President JD Vance said Monday that Iran...",
-      "url": "https://www.marketscreener.com/news/oil-prices-rise-amid-mixed-signals-from-u-s-iran-peace-talks-ce7f5fdad88bf524",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-07-13T003103Z_1_LYNXNPEC6C009_RTROPTP_2_GLOBAL-MARKETS.JPG",
-      "publishedAt": "2026-06-23T02:11:19Z",
+      "title": "Oil prices hold decline amid signs of peace talks progress",
+      "description": "US waiver would allow some sales of crude and fuels from Iran",
+      "url": "https://www.irishtimes.com/business/markets/2026/06/23/oil-prices-hold-decline-amid-signs-of-peace-talks-progress/",
+      "image": "https://www.irishtimes.com/resizer/v2/FULFZQDXYQGHW4MI5CX7GKH42Y.jpg?smart=true&auth=4f83a3ed3ad1b5ac0a4222de6ef0eb54af1de38eb1065bc60697aec788af73d9&width=1200&height=630",
+      "publishedAt": "2026-06-23T06:43:09Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Irish Times"
       }
     },
     {
-      "title": "With oil prices falling, should I still buy Santos shares now?",
-      "description": "Santos Ltd (ASX: STO) shares have gained 22% in 2026 amid surging oil prices. But with the oil price falling, is the ASX share still a buy?",
-      "url": "https://www.fool.com.au/2026/06/23/with-oil-prices-falling-should-i-still-buy-santos-shares-now/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2022/02/oil-1200x675.jpg",
-      "publishedAt": "2026-06-23T02:04:06Z",
+      "title": "US waives Iran sanctions as oil prices drop after progress on talks",
+      "description": "\u2018We laid a very good foundation for a successful final deal,\u2019 Vance says",
+      "url": "https://www.irishtimes.com/world/middle-east/2026/06/23/us-waives-iran-sanctions-as-oil-prices-drop-after-progress-on-talks/",
+      "image": "https://www.irishtimes.com/resizer/v2/FULFZQDXYQGHW4MI5CX7GKH42Y.jpg?smart=true&auth=4f83a3ed3ad1b5ac0a4222de6ef0eb54af1de38eb1065bc60697aec788af73d9&width=1200&height=630",
+      "publishedAt": "2026-06-23T06:42:57Z",
       "source": {
-        "name": "The Motley Fool Australia"
-      }
-    },
-    {
-      "title": "Asian markets today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
-      "description": "Asian markets today: Japan\u2019s market declined 0.5%, while S&P 500 e-mini futures edged down 0.2%. Meanwhile, Brent crude futures gained 0.2% to trade at $78.03 a barrel.",
-      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-trade-lower-amid-rebound-in-crude-oil-prices-11782178465688.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/asian_1782179814803_1782179814925_853364f5-4529-4bf5-b8c4-db111175a40b.jpg",
-      "publishedAt": "2026-06-23T02:02:36Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 23",
-      "description": "Petrol, Diesel, CNG prices on June 23, 2026 stay unchanged across major Indian cities, with Hyderabad and Thiruvananthapuram remaining the costliest markets",
-      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-23-ws-l-10166919.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/03/1774944433_1774942549_1773150473_PETROL-DP-1-2026-02-fe253e5ef484d417ae60e281e17b33ab-1200x675.jpg",
-      "publishedAt": "2026-06-23T01:57:30Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
-      "description": "The U.S. dollar held firm on Tuesday as traders positioned for a more hawkish Federal Reserve and oil prices \u200brebounded following steep losses, while the yen flirted with a four-decade low.",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-2026-06-23/",
-      "image": "https://www.reuters.com/resizer/v2/TJVRNE26QFOKFIK7TXM2RXRZB4.jpg?auth=1e57923f849e3ccd3846768bf6a76aa4a32aebca063cb3d8ac58c7664e05f1ed&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-23T01:53:05Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
-      "description": "The U.S. dollar held firm on Tuesday as traders positioned for a more hawkish Federal Reserve and oil prices rebounded following steep losses, while the yen flirted with a four-decade low.\n...",
-      "url": "https://www.marketscreener.com/news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-ce7f5fdad888f224",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-01T004455Z_1_LYNXMPEM301JV_RTROPTP_4_GLOBAL-FOREX.JPG",
-      "publishedAt": "2026-06-23T01:48:29Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "FOREX-Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
-      "description": "The US dollar held firm on Tuesday as traders anticipated a more hawkish Federal Reserve and oil prices rebounded, while the yen approached a four-decade low.",
-      "url": "https://www.devdiscourse.com/article/business/3939011-forex-dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_05_2026_23_17_58_7581546.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-23T01:47:28Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today: How costly is fuel in Chennai, Bengaluru, Delhi, Kolkata, Mumbai, other cities on 23 June?",
-      "description": "Petrol, diesel prices today: RBI in its State of the Economy article said that the price of the Indian basket crude oil remained elevated despite easing in June from the peak observed in April. Check latest fuel price in Chennai, Bengaluru, Delhi, Kolkata, Mumbai and other cities on 23 June.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-how-costly-is-fuel-in-chennai-bengaluru-delhi-kolkata-mumbai-other-cities-on-23-june-11782175387910.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/PTI03-29-2026-000250B-0_1775367468144_1775367480411_1782178861705_928a8c70-28f0-43c8-981e-6ac33b3ac8d7.jpg",
-      "publishedAt": "2026-06-23T01:46:09Z",
-      "source": {
-        "name": "Livemint"
+        "name": "The Irish Times"
       }
     }
   ]
