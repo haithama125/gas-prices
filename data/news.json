@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-23T08:58:47+00:00",
+  "updated_at": "2026-06-23T14:27:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "GLOBAL MARKETS-Stocks flat, oil falls as rate worries offset Iran talks optimism",
-      "description": "Global stocks were mostly flat on Monday, with oil prices falling, as optimism over US-Iran talks was offset by expectations of higher interest rates and rising US Treasury yields.",
-      "url": "https://www.devdiscourse.com/article/business/3938967-global-markets-stocks-flat-oil-falls-as-rate-worries-offset-iran-talks-optimism",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/22_06_2026_23_20_08_4080887.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-22T20:52:53Z",
+      "title": "Stock market today: Gift Nifty hints muted start; US-Iran peace talks to crude oil prices - 8 stocks to buy",
+      "description": "The Indian stock market is expected to open cautiously amid mixed global cues. Sensex and Nifty gained on Monday, driven by optimism over US-Iran peace talks, although Asian markets traded lower. Experts recommend a 'buy on dips' strategy for Nifty as key levels remain critical.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-muted-start-us-iran-peace-talks-to-crude-oil-prices-8-stocks-to-buy-11782178948481.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1782181066835_c30c524d-cceb-4d64-831b-41b9de2659d7.jpg",
+      "publishedAt": "2026-06-23T02:25:08Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
+      "description": "The US dollar strengthened Tuesday, driven by expectations of a more aggressive Federal Reserve and a rebound in oil prices. Elevated US Treasury yields are also bolstering the greenback. Meanwhile, the Japanese yen is nearing a four-decade low, prompting concerns and discussions about potential intervention. Other major currencies like the euro and pound saw limited movement.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low/articleshow/131923091.cms",
+      "image": "https://img.etimg.com/thumb/msid-131923100,width-1200,height-630,imgsize-75702,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-23T02:18:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil Prices Rise Amid Mixed Signals From U.S.-Iran Peace Talks",
+      "description": "By Ronnie Harui\nOil prices were up in Asia on Tuesday morning, amid mixed signals from talks between the U.S. and Iran on ending the conflict.\nVice President JD Vance said Monday that Iran...",
+      "url": "https://www.marketscreener.com/news/oil-prices-rise-amid-mixed-signals-from-u-s-iran-peace-talks-ce7f5fdad88bf524",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-07-13T003103Z_1_LYNXNPEC6C009_RTROPTP_2_GLOBAL-MARKETS.JPG",
+      "publishedAt": "2026-06-23T02:11:19Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "With oil prices falling, should I still buy Santos shares now?",
+      "description": "Santos Ltd (ASX: STO) shares have gained 22% in 2026 amid surging oil prices. But with the oil price falling, is the ASX share still a buy?",
+      "url": "https://www.fool.com.au/2026/06/23/with-oil-prices-falling-should-i-still-buy-santos-shares-now/",
+      "image": "https://www.fool.com.au/wp-content/uploads/2022/02/oil-1200x675.jpg",
+      "publishedAt": "2026-06-23T02:04:06Z",
+      "source": {
+        "name": "The Motley Fool Australia"
+      }
+    },
+    {
+      "title": "Asian markets today: Nikkei, Kospi trade lower amid rebound in crude oil prices",
+      "description": "Asian markets today: Japan\u2019s market declined 0.5%, while S&P 500 e-mini futures edged down 0.2%. Meanwhile, Brent crude futures gained 0.2% to trade at $78.03 a barrel.",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-markets-today-nikkei-kospi-trade-lower-amid-rebound-in-crude-oil-prices-11782178465688.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/asian_1782179814803_1782179814925_853364f5-4529-4bf5-b8c4-db111175a40b.jpg",
+      "publishedAt": "2026-06-23T02:02:36Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Petrol, Diesel & CNG Fresh Prices Announced: Check City-Wise Rates For June 23",
+      "description": "Petrol, Diesel, CNG prices on June 23, 2026 stay unchanged across major Indian cities, with Hyderabad and Thiruvananthapuram remaining the costliest markets",
+      "url": "https://www.news18.com/business/economy/petrol-diesel-cng-fresh-prices-announced-check-city-wise-rates-for-june-23-ws-l-10166919.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/03/1774944433_1774942549_1773150473_PETROL-DP-1-2026-02-fe253e5ef484d417ae60e281e17b33ab-1200x675.jpg",
+      "publishedAt": "2026-06-23T01:57:30Z",
+      "source": {
+        "name": "News18"
+      }
+    },
+    {
+      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
+      "description": "The U.S. dollar held firm on Tuesday as traders positioned for a more hawkish Federal Reserve and oil prices \u200brebounded following steep losses, while the yen flirted with a four-decade low.",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-2026-06-23/",
+      "image": "https://www.reuters.com/resizer/v2/TJVRNE26QFOKFIK7TXM2RXRZB4.jpg?auth=1e57923f849e3ccd3846768bf6a76aa4a32aebca063cb3d8ac58c7664e05f1ed&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-23T01:53:05Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
+      "description": "The U.S. dollar held firm on Tuesday as traders positioned for a more hawkish Federal Reserve and oil prices rebounded following steep losses, while the yen flirted with a four-decade low.\n...",
+      "url": "https://www.marketscreener.com/news/dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low-ce7f5fdad888f224",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-01T004455Z_1_LYNXMPEM301JV_RTROPTP_4_GLOBAL-FOREX.JPG",
+      "publishedAt": "2026-06-23T01:48:29Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "FOREX-Dollar firms on hawkish Fed bets, oil rebound; yen near 40-year low",
+      "description": "The US dollar held firm on Tuesday as traders anticipated a more hawkish Federal Reserve and oil prices rebounded, while the yen approached a four-decade low.",
+      "url": "https://www.devdiscourse.com/article/business/3939011-forex-dollar-firms-on-hawkish-fed-bets-oil-rebound-yen-near-40-year-low",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_05_2026_23_17_58_7581546.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-23T01:47:28Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "US stocks drift after oil prices ease and Big Tech stocks fall",
-      "description": "U.S. stocks drifted through a mixed day of trading after oil prices eased and falling Big Tech stocks weighed on Wall Street. The S&P 500 slipped 0.4% Monday and pulled 1.8% below its all-time high set early this month. The Dow Jones Industrial Average added 0.3%, and the Nasdaq composite slumped 1.3%. Oil prices fell roughly 3% following negotiations between the United States and Iran on ending their war. But drops for giants like Alphabet and Amazon weighed on the market, which resumed trading following a three-day weekend. Rising Treasury yields in the bond market also pressured stock prices.",
-      "url": "https://www.ajc.com/news/2026/06/us-stocks-drift-after-oil-prices-ease-and-big-tech-stocks-fall/",
-      "image": "https://images.ajc.com/resizer/v2/CGSK32QBUNCCHBUSBA7TF2HBII.jpg?auth=5385ec83cc03c81ea6f046f9daf982045266494ababc15276dc02ca8af95780c&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-22T20:52:07Z",
+      "title": "Petrol, diesel prices today: How costly is fuel in Chennai, Bengaluru, Delhi, Kolkata, Mumbai, other cities on 23 June?",
+      "description": "Petrol, diesel prices today: RBI in its State of the Economy article said that the price of the Indian basket crude oil remained elevated despite easing in June from the peak observed in April. Check latest fuel price in Chennai, Bengaluru, Delhi, Kolkata, Mumbai and other cities on 23 June.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-how-costly-is-fuel-in-chennai-bengaluru-delhi-kolkata-mumbai-other-cities-on-23-june-11782175387910.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/PTI03-29-2026-000250B-0_1775367468144_1775367480411_1782178861705_928a8c70-28f0-43c8-981e-6ac33b3ac8d7.jpg",
+      "publishedAt": "2026-06-23T01:46:09Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "US stocks drift after oil prices ease and Big Tech stocks fall",
-      "description": "U.S. stocks drifted through a mixed day of trading after oil prices eased and falling Big Tech stocks weighed on Wall Street. The S&P 500 slipped 0.4% Monday and pulled 1.8% below its all-time high set early this month. The Dow Jones Industrial Average added 0.3%, and the Nasdaq composite slumped 1.3%. Oil prices fell roughly 3% following negotiations between the United States and Iran on ending their war. But drops for giants like Alphabet and Amazon weighed on the market, which resumed trading following a three-day weekend. Rising Treasury yields in the bond market also pressured stock prices.",
-      "url": "https://www.ajc.com/news/2026/06/us-stocks-end-mixed-weighed-down-by-drops-in-big-tech-even-as-oil-prices-fall/",
-      "image": "https://images.ajc.com/resizer/v2/CGSK32QBUNCCHBUSBA7TF2HBII.jpg?auth=5385ec83cc03c81ea6f046f9daf982045266494ababc15276dc02ca8af95780c&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-22T20:22:07Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "US stocks drift after oil prices ease and Big Tech stocks fall",
-      "description": "U.S. stocks drifted through a mixed day of trading after oil prices eased and falling Big Tech stocks weighed on Wall Street",
-      "url": "https://www.barchart.com/story/news/2575196/us-stocks-drift-after-oil-prices-ease-and-big-tech-stocks-fall",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/014d1fe914dc451a9d6b43ae49743a67/014d1fe914dc451a9d6b43ae49743a67_main_financial_markets_wall_street_72712.jpg",
-      "publishedAt": "2026-06-22T20:14:03Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "US stocks: S&P 500, Nasdaq close lower, dragged by Alphabet and megacap tech; focus on Iran",
-      "description": "US market saw a mixed close as the S&P 500 and Nasdaq dipped, primarily due to tech giants like Alphabet facing investor scrutiny over AI spending. The Dow, however, edged higher, supported by healthcare and industrial gains. Falling oil prices offered some relief, but a hawkish Federal Reserve stance and upcoming inflation data are keeping investors cautious about future rate hikes.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-500-nasdaq-close-lower-dragged-by-alphabet-and-megacap-tech-focus-on-iran/articleshow/131920115.cms",
-      "image": "https://img.etimg.com/thumb/msid-131920121,width-1200,height-630,imgsize-122930,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-22T20:02:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Falling crude prices to boost OMC margins; BPCL, IOC likely to benefit most: JP Morgan",
-      "description": "Brokerage said composite margins \u2014 which combine profits from refining and fuel marketing operations on petrol and diesel \u2014 have risen above levels seen before",
-      "url": "https://www.newindianexpress.com/business/2026/Jun/22/falling-crude-prices-to-boost-omc-margins-bpcl-ioc-likely-to-benefit-most-jp-morgan",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2024-10-30%2Fh6lnstnz%2FCrude-imports.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-22T19:38:31Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Is AI Causing Higher Gas Prices? California Lawsuit Says It Is",
-      "description": "The lawsuit cites a bill signed into law last year banning the use of common pricing algorithms.",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/22/slew-of-california-gas-stations-illegally-used-ai-to-raise-prices-lawsuit-claims/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a398c453e243c9d23fed93c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-06-22T19:27:16Z",
-      "source": {
-        "name": "Forbes"
-      }
-    },
-    {
-      "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-      "description": "The MPC members had voted for a status quo in the June policy, citing resilient growth and the need to assess inflation impact while stating that the MPC would closely monitor incoming data. The Reserve Bank of India has projected FY27 growth at 6.6% in the June policy, while the economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131922542.cms",
-      "image": "https://img.etimg.com/thumb/msid-131919880,width-1200,height-630,imgsize-1075358,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-22T19:24:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "RBI MPC: Growth rate could top 7% if oil prices fall further",
-      "description": "The MPC members had voted for a status quo in the June policy, citing resilient growth and the need to assess inflation impact while stating that the MPC would closely monitor incoming data. The Reserve Bank of India has projected FY27 growth at 6.6% in the June policy, while the economy expanded at 7.7% in the January-March quarter, exceeding earlier estimates.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-growth-rate-could-top-7-if-oil-prices-fall-further/articleshow/131919901.cms",
-      "image": "https://img.etimg.com/thumb/msid-131919880,width-1200,height-630,imgsize-1075358,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-22T19:24:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Strong earnings and lower oil prices lift investor confidence",
-      "description": "Lower oil prices, strong earnings and AI-driven growth are supporting equities as investors assess inflation, rates and semiconductor earnings.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/22/market-outlook-falling-oil-prices-and-earnings-strength-support-equities/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/GPOFN7CC5ZGPFKIOCAV5GKCVTU.jpg?smart=true&auth=8b508ff10202e1e48e6385d60b8d2a8b9c3b6419de7897106904bcaef1379db7&width=1200&height=630",
-      "publishedAt": "2026-06-22T19:22:49Z",
-      "source": {
-        "name": "Bnn Bloomberg"
+        "name": "Livemint"
       }
     }
   ]
