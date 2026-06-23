@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-22T20:33:56+00:00",
+  "updated_at": "2026-06-23T02:12:53+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Deutsche B\u00f6rse News: \"All that matters is that oil prices are clearly lower again\"",
-      "description": "The Middle East conflict continues to keep markets firmly in its grip. For now, the signs point to easing tensions, and talks between the US and Iran are continuing. But the situation remains...",
-      "url": "https://www.marketscreener.com/news/deutsche-borse-news-all-that-matters-is-that-oil-prices-are-clearly-lower-again-ce7f5cd3da8cfe2d",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-06-22T08:31:28Z",
+      "title": "This Is a Phase to Accumulate Aggressively: Sailesh Raj Bhan on Where Smart Money Is Looking",
+      "description": "Will markets revisit the March lows? Where are the best opportunities for long-term investors today?\nIn an exclusive conversation on The Wealth Formula with N Mahalakshmi, Sailesh Raj Bhan, President & CIO \u2013 Equity Investments, Nippon India Mutual Fund, shares his market outlook, investment philosophy and framework for identifying businesses that can compound wealth over long periods.\nHe discusses the impact of oil prices on markets, lessons from a 30-year investing journey, the importance of not overpaying for growth, why sustainability of earnings matters more than narratives, and sectors where expectations remain low despite attractive fundamentals.\nKey topics include:\nChances of markets retesting the March lows\nGrowth versus valuation\nThe role of PEG ratios in stock selection\nPrivate sector banks and consumer stocks\nPharma and generic opportunities\nEvaluating business quality and free cash flow\nNavigating volatility and market noise\nBuilding a high-quality portfolio for the next 3\u20135 years\nWatch the full interview for insights on how one of India's most experienced fund managers is navigating today's market environment.",
+      "url": "https://www.moneycontrol.com/world/this-is-a-phase-to-accumulate-aggressively-sailesh-raj-bhan-on-where-smart-money-is-looking-videoshow-13955918.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260622140745_CGGFNJF.jpg",
+      "publishedAt": "2026-06-22T14:08:20Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "As higher ethanol-petrol blends loom, impact on older vehicles worries many",
-      "description": "Vehicle owners and mechanics in Pune report mileage loss and maintenance issues after E20 adoption, even as the Centre moves towards higher ethanol-petrol blends like E25 and E30.",
-      "url": "https://indianexpress.com/article/cities/pune/e20-petrol-impact-higher-ethanol-blends-vehicle-owners-concerns-10751480/",
-      "image": "https://images.indianexpress.com/2026/06/Mechanic-Jayanta-Dengwekar-Pune.jpeg",
-      "publishedAt": "2026-06-22T08:02:11Z",
+      "title": "Stock market today: US futures rise as Iran peace talks progress ahead of inflation report",
+      "description": "US stock futures rose as Iran peace talks eased tensions, oil prices fell, and investors awaited key PCE inflation data and Micron earnings this week.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/stock-market-today-us-futures-rise-as-iran-peace-talks-progress-ahead-of-inflation-report-101782135549851.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/22/550x309/US-MARKETS-TAKE-A-PLUNGE-AMID-NEW-INFLATION-NUMBER_1782136237977_1782136238071_8a25b45f-f09f-4631-a052-013861864d06.jpg",
+      "publishedAt": "2026-06-22T14:07:50Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Asian shares mixed, US futures fall as Iran talks make progress",
-      "description": "HONG KONG, June 22: Asian stocks were mixed Monday with markets in Japan and South Korea trading higher, while oil prices edged lower on fresh optimism over progress in US-Iran negotiations. US futures were trading lower. Tokyo's Nikkei 225 jumped...",
-      "url": "https://www.dailyexcelsior.com/asian-shares-mixed-us-futures-fall-as-iran-talks-make-progress/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc2ZjMzYjIwLTZlMTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-22T08:00:14Z",
+      "title": "Dow, S&P 500 rise at open; Nasdaq lags as traders weigh Iran talks",
+      "description": "US stocks opened mixed, with the Dow and S&P 500 higher while the Nasdaq lagged, as investors weighed progress in US-Iran peace talks, easing oil prices, and upcoming US inflation data. Sentiment was also shaped by AI demand optimism and reactions to the death of former Fed Chair Alan Greenspan.",
+      "url": "https://www.cnbctv18.com/market/dow-s-nasdaq-lags-as-traders-weigh-iran-talks-19930064.htm",
+      "image": "https://images.cnbctv18.com/uploads/2022/04/Wall-street-.jpg?im=FitAndFill,width=500,height=300",
+      "publishedAt": "2026-06-22T14:05:50Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Statistics Canada to release consumer price index for May this morning",
-      "description": "OTTAWA \u2014 Statistics Canada will release its latest reading for May inflation today. High oil and gasoline prices are expected to push inflation higher for the month.",
-      "url": "https://www.baytoday.ca/national-news/statistics-canada-to-release-consumer-price-index-for-may-this-morning-12453017",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/d53ee37bc568236d7cf1e112e95a96923c9daf3397a1e9bbc7d606c64bf7867b.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-06-22T08:00:04Z",
+      "title": "When Will Gasoline Prices Return to Pre-War Levels?",
+      "description": "Falling crude and gasoline prices reflect optimism about a reopening of the Strait of Hormuz, but depleted inventories, restocking demand, and lingering logistical constraints could slow the return to pre-war fuel prices.",
+      "url": "https://oilprice.com/Energy/Energy-General/When-Will-Gasoline-Prices-Return-to-Pre-War-Levels.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-22_wwzksj6ymu.jpg",
+      "publishedAt": "2026-06-22T14:00:00Z",
       "source": {
-        "name": "BayToday"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Statistics Canada to release consumer price index for May this morning",
-      "description": "OTTAWA \u2014 Statistics Canada will release its latest reading for May inflation today. High oil and gasoline prices are expected to push inflation higher for the month.",
-      "url": "https://www.sootoday.com/national-news/statistics-canada-to-release-consumer-price-index-for-may-this-morning-12453017",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/06/d53ee37bc568236d7cf1e112e95a96923c9daf3397a1e9bbc7d606c64bf7867b.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-06-22T08:00:04Z",
+      "title": "Oil Continues To Drop As U.S. Treasury Authorizes Iranian Oil Sales",
+      "description": "Oil prices continued to drop on Monday following progress in talks between the U.S. and Iran and the Treasury Department's authorization of Iranian oil sales under a 60-day license.",
+      "url": "https://www.ibtimes.com/oil-continues-drop-us-treasury-authorizes-iranian-oil-sales-3804388",
+      "image": "https://d.ibtimes.com/en/full/4650216/oil.jpg",
+      "publishedAt": "2026-06-22T13:56:52Z",
       "source": {
-        "name": "SooToday"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Tata Tiago range review: Comfort, safety and choice in one compact package",
-      "description": "Tata Tiago range review: We drive the petrol, CNG and Tiago.ev variants to find out how they stack up on design, comfort, features, performance and safety.",
-      "url": "https://www.thehindu.com/life-and-style/motoring/tata-tiago-range-review-comfort-safety-and-choice-in-one-compact-package/article71132098.ece",
-      "image": "https://th-i.thgim.com/public/life-and-style/food/sub2cu/article71132152.ece/alternates/LANDSCAPE_1200/Tiago.ev3.jpg",
-      "publishedAt": "2026-06-22T07:59:00Z",
+      "title": "US stocks drift near their records after oil prices fall",
+      "description": "U.S. stocks are drifting near their records after trading resumed following a three-day weekend",
+      "url": "https://www.barchart.com/story/news/2575196/us-stocks-drift-near-their-records-after-oil-prices-fall",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/014d1fe914dc451a9d6b43ae49743a67/014d1fe914dc451a9d6b43ae49743a67_main_financial_markets_wall_street_72712.jpg",
+      "publishedAt": "2026-06-22T13:51:43Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal",
-      "description": "Airlines stand to save billions of dollars on jet fuel after an interim U.S.-Iran peace deal sent oil prices lower, but passengers are unlikely to see immediate relief as tight \u200bcapacity may allow carriers to keep fares well above pre-war levels.",
-      "url": "https://www.reuters.com/world/asia-pacific/airline-ticket-prices-may-stay-high-carriers-bank-fuel-relief-iran-deal-2026-06-22/",
-      "image": "https://www.reuters.com/resizer/v2/REOFZNE2IJOV5PP7Q5SJCFMJNQ.jpg?auth=81557d882ca5719beac7485903cbcb0fd4936670305a10d8a2af762d93011722&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-22T07:04:19Z",
+      "title": "India\u2019s ethanol dream hinges on affordability, not policy push",
+      "description": "Ethanol may need to fall to around \u20b960-65 a litre before India\u2019s E100 push wins mass-market adoption, according to industry executives, analysts and automakers who say consumer economics, not government policy, will determine whether motorists switch from petrol. As policymakers look beyond blending targets towards direct ethanol use in vehicles, a new challenge is emerging \u2014 creating consumer demand",
+      "url": "https://www.thehindubusinessline.com/news/national/indias-ethanol-dream-hinges-on-affordability-not-policy-push/article71131704.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/wfy6xe/article71133557.ece/alternates/LANDSCAPE_1200/20260605319L.jpg",
+      "publishedAt": "2026-06-22T13:47:11Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Airline ticket prices may stay high as carriers bank fuel relief from Iran deal",
-      "description": "Airlines stand to save billions of dollars on jet fuel after an interim U.S.-Iran peace deal sent oil prices lower, but passengers are unlikely to see immediate relief as tight capacity may allow...",
-      "url": "https://www.marketscreener.com/news/airline-ticket-prices-may-stay-high-as-carriers-bank-fuel-relief-from-iran-deal-ce7f5cd3db80f52d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-19T131238Z_1_LYNXMPEM2I0UV_RTROPTP_4_USA-TRAVEL-SHUTDOWN.JPG",
-      "publishedAt": "2026-06-22T07:01:35Z",
+      "title": "India\u2019s ethanol dream hinges on affordability, not policy push",
+      "description": "Ethanol may need to fall to around \u20b960-65 a litre before India\u2019s E100 push wins mass-market adoption, according to industry executives, analysts and automakers who say consumer economics, not government policy, will determine whether motorists switch from petrol. As policymakers look beyond blending targets towards direct ethanol use in vehicles, a new challenge is emerging \u2014 creating consumer demand",
+      "url": "https://www.thehindubusinessline.com/news/indias-ethanol-dream-hinges-on-affordability-not-policy-push/article71131704.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/wfy6xe/article71133557.ece/alternates/LANDSCAPE_1200/20260605319L.jpg",
+      "publishedAt": "2026-06-22T13:47:11Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "ANALYSIS-Airline ticket prices may stay high as carriers bank fuel relief from Iran deal",
-      "description": "Airlines are poised to save billions on jet fuel due to lower oil prices, but passengers may not see immediate relief as carriers maintain high fares due to limited capacity.",
-      "url": "https://www.devdiscourse.com/article/business/3938546-analysis-airline-ticket-prices-may-stay-high-as-carriers-bank-fuel-relief-from-iran-deal",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_16_04_3385426.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-22T07:00:40Z",
+      "title": "US stocks hold near their records as trading resumes on Wall Street after a holiday weekend",
+      "description": "U.S. stocks are drifting near their records after trading resumed following a three-day weekend for Wall Street. The S&P 500 edged up 0.2% early Monday. The index is coming off its 11th winning week in the last 12. The Dow Jones Industrial Average was up 204 points, and the Nasdaq composite was down 0.3%. Crude oil prices eased following talks over the weekend between the United States and Iran on their war. The price of Brent crude fell 2.6%. Treasury yields rose in the bond market. European markets were mostly higher and Asian markets were mixed.",
+      "url": "https://www.ajc.com/news/2026/06/wall-street-quietly-mixed-in-premarket-oil-prices-fall-on-optimism-over-us-iran-negotiations/",
+      "image": "https://images.ajc.com/resizer/v2/CGSK32QBUNCCHBUSBA7TF2HBII.jpg?auth=5385ec83cc03c81ea6f046f9daf982045266494ababc15276dc02ca8af95780c&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-22T13:41:56Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Oil falls after US-Iran talks conclude in Switzerland",
-      "description": "NEW DELHI: Oil prices declined on Monday after U.S.-Iran talks concluded in Switzerland with Tehran saying it had secured waivers for oil and petrochemical exports, easing worries about a supply shortage in global markets.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/06/22/oil-falls-after-us-iran-talks-conclude-in-switzerland",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/22/3970307.jpg",
-      "publishedAt": "2026-06-22T07:00:00Z",
+      "title": "Baltimore drivers see gas prices rise 4.6 cents, GasBuddy reports",
+      "description": "Drivers in Baltimore saw gas prices tick back up last week, even as national averages continued to fall, according to a new GasBuddy survey.Average gas prices i",
+      "url": "https://foxbaltimore.com/news/local/baltimore-drivers-see-gas-prices-rise-gasbuddy",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/1156/1320/0x3/90/303d0c5d-4ddb-4cd5-9aca-bf5c87232fe9-Screenshot20260126at11.42.58AM.png",
+      "publishedAt": "2026-06-22T13:37:36Z",
       "source": {
-        "name": "The Star"
+        "name": "Baltimore News"
       }
     }
   ]
