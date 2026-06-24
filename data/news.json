@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-23T19:49:34+00:00",
+  "updated_at": "2026-06-24T02:14:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "BP, Walmart and 7-Eleven sued over AI-set petrol prices in California",
-      "description": "California drivers have sued BP, Walmart, 7-Eleven and three other chains, alleging an AI pricing tool was used to coordinate higher petrol prices.",
-      "url": "https://thenextweb.com/news/ai-gas-prices-lawsuit-california",
-      "image": "https://media.thenextweb.com/2026/06/BP.avif",
-      "publishedAt": "2026-06-23T07:43:22Z",
+      "title": "'Oil Prices Are Tumbling, World Is Safer': Trump Claims Historic Hormuz Shipping Record",
+      "description": "US President Donald Trump claimed a record 19 million barrels of oil passed through the Strait of Hormuz after a new US-Iran diplomatic understanding. He hailed falling oil prices, an open shipping route, and progress in nuclear negotiations, even as tensions with Israel persist.",
+      "url": "https://www.republicworld.com/world-news/oil-prices-are-tumbling-world-is-safer-trump-claims-historic-hormuz-shipping-record-2026-06-23-129577",
+      "image": "https://img.republicworld.com/all_images/2026/06/peace-abroad-problems-at-home-trump-claims-iran-breakthrough-but-political-storm-is-just-beginning-1781576784527-1280x720.webp",
+      "publishedAt": "2026-06-23T14:13:18Z",
       "source": {
-        "name": "TNW"
+        "name": "Republic World"
       }
     },
     {
-      "title": "Worst is over for crude oil prices for now: Jim Burkhard, S&P Global Energy",
-      "description": "Oil prices outlook: S&P Global sees Brent averaging $80-$90 a barrel in H2CY26 as supply recovers slowly after the Hormuz disruption, with China's buying patterns holding the key.",
-      "url": "https://www.business-standard.com/markets/interviews/worst-is-over-for-crude-oil-prices-for-now-jim-burkhard-s-p-global-energy-126062300493_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/23/thumb/fitandfill/1200X628/1782200109-006.jpg",
-      "publishedAt": "2026-06-23T07:37:00Z",
+      "title": "Explained: Why Petrol Prices in India Don't Follow Crude's Trajectory",
+      "description": "Crude oil prices that shot up amid the Middle East war has started to return to their pre-war levels.",
+      "url": "https://www.ndtv.com/world-news/middle-east-war-petrol-prices-explained-why-petrol-prices-in-india-dont-follow-crudes-trajectory-11676920",
+      "image": "https://c.ndtvimg.com/2026-06/dq0718v4_crude-oil_625x300_23_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-23T14:08:53Z",
       "source": {
-        "name": "Business Standard"
+        "name": "NDTV.com"
       }
     },
     {
-      "title": "Oil prices hit lows not seen since early March on US-Iran peace talk progress",
-      "description": "Brent crude dropped nearly 2% to 76.5 US dollars a barrel at one stage in morning trading on Tuesday.",
-      "url": "https://www.kentonline.co.uk/news/national/oil-prices-hit-lows-not-seen-since-early-march-on-us-iran-peace-talk-progress-168383/",
-      "image": "https://www.kentonline.co.uk/_media/img/W0YOWHPEXJHD50QFG6R4.jpg",
-      "publishedAt": "2026-06-23T07:32:52Z",
+      "title": "90/barrel in second half of 2026: S&P Global Energy",
+      "description": "S&P Global predicts oil prices may reach $80-90 per barrel in H2 2026 due to declining inventories and rising demand.",
+      "url": "https://www.thehindubusinessline.com/news/oil-prices-may-rise-to-80-90barrel-in-second-half-of-2026-sp-global-energy/article71138022.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/yy2t4q/article71138153.ece/alternates/LANDSCAPE_1200/2026-03-24T161626Z_543346605_RC24BKAFWIVW_RTRMADP_3_IRAN-CRISIS-HORMUZ.JPG",
+      "publishedAt": "2026-06-23T14:08:34Z",
       "source": {
-        "name": "Kent Online"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Asian shares mostly slip amid caution about the war in Iran",
-      "description": "Asian shares are mostly lower as recent enthusiasm cools and markets face uncertainty about efforts to end the war in Iran. Benchmarks fell Tuesday in Tokyo, Sydney, Seoul, Hong Kong and Shanghai. Oil prices momentarily rose but fell later in the day in Asia. An end to the war could open the Strait of Hormuz for oil tankers and allow for the full resumption of deliveries from the Persian Gulf. U.S. stocks drifted through a mixed day of trading after Big Tech stocks weighed on Wall Street. The S&P 500 slipped 0.4%, the Dow added 0.3%, and the Nasdaq slumped 1.3%.",
-      "url": "https://www.ajc.com/news/2026/06/asian-shares-are-trading-mixed-amid-caution-about-the-war-in-iran/",
-      "image": "https://images.ajc.com/resizer/v2/YXAJE65YSFGJDMGTPOK2Y7V6B4.jpg?auth=2f5d058b2e0a94cbf09d48d8c32a76b1ec5180b2ef1b0010463d8b0d39c4c01e&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-23T07:21:49Z",
+      "title": "Russia considers fuel imports amid Ukraine\u2019s strikes on refineries: newspaper",
+      "description": "Some areas of the world\u2019s third-largest crude oil producer report issues including restrictions on fuel sales and queues at petrol stations.",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3358100/russia-considers-fuel-imports-amid-ukraines-strikes-refineries-newspaper",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/06/23/b1d89d97-bfe1-422b-9533-d77df51b3c58_04c5effb.jpg?itok=qfXPL1y-&v=1782223492",
+      "publishedAt": "2026-06-23T14:04:55Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "South China Morning Post"
       }
     },
     {
-      "title": "Prime Day poised to set online spending record",
-      "description": "Shoppers feeling the sting of higher gas prices are expected to snatch up deals on back-to-school clothes and household goods, pushing online spending to another record during Amazon.com Inc.'s 12th annual Prime Day sale that begins Tuesday.",
-      "url": "https://www.arkansasonline.com/news/2026/jun/23/prime-day-poised-to-set-online-spending-record/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213109282_amazon-bg_II4RIEGC7VHSHBPDVLUJ6LFBTM_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2026-06-23T07:15:00Z",
+      "title": "Nasdaq falls 2% as Big Tech leads sell-off in global stocks",
+      "description": "Interest rate fears hit high-flying sectors as oil prices hold steady",
+      "url": "https://www.irishtimes.com/business/2026/06/23/nasdaq-falls-2-as-big-tech-leads-sell-off-in-global-stocks/",
+      "image": "https://www.irishtimes.com/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Firishtimes%2F1647534191476.png?auth=631eeaa12e7a61c005c8eb0bbf348f785c131b10c4d6b25c28247a15965b5a36&width=1200",
+      "publishedAt": "2026-06-23T14:01:27Z",
       "source": {
-        "name": "Arkansas Online"
+        "name": "The Irish Times"
       }
     },
     {
-      "title": "Miscreants throw petrol bomb at clinic of BJP leader's husband close to RSS office in Bathinda",
-      "description": "Miscreants throw petrol bomb at clinic of BJP leader's husband close to RSS office in Bathinda - Chandigarh, June 23 Ahead of Punjab Chief Minister Bhagwant Mann\u2019s visit on Tuesday, two motorcycle-borne miscreants threw a ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/miscreants-throw-petrol-bomb-at-clinic-of-bjp-leaders-husband-close-to-rss-office-in-bathinda/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202606233836047_202606.jpg",
-      "publishedAt": "2026-06-23T06:55:39Z",
+      "title": "SC gas prices continue to dip, but analyst warn a spike could come",
+      "description": "South Carolina drivers may see dip in gas prices, but analyst warn of spike as Middle East tensions continue.",
+      "url": "https://eu.greenvilleonline.com/story/news/2026/06/23/sc-gas-prices-lindsey-graham-iran-war/90640063007/",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/06/11/PGRE/90511301007-0611-gas-prices-june-11-greenville-sc-002.JPG?auto=webp&crop=2399,1350,x0,y6&format=pjpg&width=1200",
+      "publishedAt": "2026-06-23T14:01:10Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Greenville News"
       }
     },
     {
-      "title": "US Iran truce, lower crude to drive market; Medanta, GMR Airport, Mankind midcaps to buy",
-      "description": "Experts say easing oil prices may benefit financials, autos and realty, while Emkay sees sustained midcap outperformance through 2027.",
-      "url": "https://www.businesstoday.in/markets/stocks/story/us-iran-truce-lower-crude-to-drive-market-medanta-gmr-airport-mankind-midcaps-to-buy-538617-2026-06-23",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3a2d41e08b0-ai-generated-image-for-representational-purpose-only-235244249-16x9.png",
-      "publishedAt": "2026-06-23T06:55:15Z",
+      "title": "Gold falls 2% as rate-hike bets boost dollar to one-year high",
+      "description": "Gold prices dropped on Tuesday as the U.S. dollar hit a one-year high on increased expectations of a rate hike from the Federal Reserve, outweighing support from softer oil prices amid progress in...",
+      "url": "https://www.marketscreener.com/news/gold-falls-2-as-rate-hike-bets-boost-dollar-to-one-year-high-ce7f5fdade89f62c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-12T043618Z_1_LYNXMPEM4B078_RTROPTP_4_IRAN-CRISIS-GOLD-INDIA.JPG",
+      "publishedAt": "2026-06-23T13:48:09Z",
       "source": {
-        "name": "Business Today"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Rupee flat as traders mull Fed rate path, keep eyes peeled for flow clues",
-      "description": "The Indian rupee held steady as falling oil prices provided some relief, though traders remained cautious due to anticipated US Federal Reserve rate hikes. While policy measures have helped the rupee recover, the prospect of higher US interest rates poses a challenge. Analysts are closely watching the impact of these measures on dollar inflows, with some predicting significant amounts.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-flat-as-traders-mull-fed-rate-path-keep-eyes-peeled-for-flow-clues/articleshow/131928033.cms",
-      "image": "https://img.etimg.com/thumb/msid-131928045,width-1200,height-630,imgsize-207625,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-23T06:46:00Z",
+      "title": "Trump Flags 'Record' 19 Million-Barrel Hormuz Oil Flow, Cheers Lower Prices: 'The World Is A Much Safer P",
+      "description": "President Donald Trump says a record 19 million barrels passed through Hormuz, helping drive oil prices lower and easing market fears.",
+      "url": "https://www.benzinga.com/news/politics/26/06/60040934/trump-flags-record-19-million-barrel-hormuz-oil-flow-cheers-lower-prices-the-world-is-a-much-safer-place",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/23/Washington--Dc---April-27--2018-Presiden.jpg",
+      "publishedAt": "2026-06-23T13:23:35Z",
+      "source": {
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Oil slide anchors India 10-year yield at 3-month low",
+      "description": "Indian government bond yields dipped to a three-month low on Tuesday, buoyed by easing oil prices and receding geopolitical tensions. The benchmark 10-year note closed lower as market anxiety subsided. Analysts anticipate yields to remain within a narrow band this week. Meanwhile, anticipation builds for a potential inclusion in a global index, which could boost foreign investment and the rupee, despite ongoing El Nino concerns impacting inflation and growth.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/oil-slide-anchors-india-10-year-yield-at-3-month-low/articleshow/131938367.cms",
+      "image": "https://img.etimg.com/thumb/msid-131938367,width-1200,height-630,imgsize-57128,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-23T12:58:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices hold decline amid signs of peace talks progress",
-      "description": "US waiver would allow some sales of crude and fuels from Iran",
-      "url": "https://www.irishtimes.com/business/markets/2026/06/23/oil-prices-hold-decline-amid-signs-of-peace-talks-progress/",
-      "image": "https://www.irishtimes.com/resizer/v2/FULFZQDXYQGHW4MI5CX7GKH42Y.jpg?smart=true&auth=4f83a3ed3ad1b5ac0a4222de6ef0eb54af1de38eb1065bc60697aec788af73d9&width=1200&height=630",
-      "publishedAt": "2026-06-23T06:43:09Z",
+      "title": "Putin says Ukrainian infrastructure attacks are an attempt to destabilise Russia",
+      "description": "Russian President Vladimir Putin accused Ukraine of targeting civilian infrastructure to destabilise Russian society, amid increased attacks on oil refineries and rising gasoline prices.",
+      "url": "https://www.devdiscourse.com/article/politics/3939360-putin-says-ukrainian-infrastructure-attacks-are-an-attempt-to-destabilise-russia",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/08_06_2026_13_30_01_6315848.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-06-23T12:46:36Z",
       "source": {
-        "name": "The Irish Times"
-      }
-    },
-    {
-      "title": "US waives Iran sanctions as oil prices drop after progress on talks",
-      "description": "\u2018We laid a very good foundation for a successful final deal,\u2019 Vance says",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/23/us-waives-iran-sanctions-as-oil-prices-drop-after-progress-on-talks/",
-      "image": "https://www.irishtimes.com/resizer/v2/FULFZQDXYQGHW4MI5CX7GKH42Y.jpg?smart=true&auth=4f83a3ed3ad1b5ac0a4222de6ef0eb54af1de38eb1065bc60697aec788af73d9&width=1200&height=630",
-      "publishedAt": "2026-06-23T06:42:57Z",
-      "source": {
-        "name": "The Irish Times"
+        "name": "Devdiscourse"
       }
     }
   ]
