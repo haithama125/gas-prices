@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-25T14:03:43+00:00",
+  "updated_at": "2026-06-25T19:45:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Slip Below $70 For First Time Since Iran-US War As Iran-US Peace Hopes Grow",
-      "description": "Crude oil falls below 70 as Iran-US peace improves supply outlook, WTI at 69, Brent at 72, Trump faces Senate resolution to end war, gold drops, dollar",
-      "url": "https://www.news18.com/business/economy/oil-prices-slip-below-70-for-first-time-since-iran-us-war-as-iran-us-peace-hopes-grow-ws-l-10171807.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/06/2578076_1781120669868-1200x675.jpg",
-      "publishedAt": "2026-06-25T02:01:54Z",
+      "title": "What Prospective EV Owners Should Know Before Making the Switch",
+      "description": "Switching from a petrol or diesel car to an electric vehicle involves different technology and ownership mechanics. Range, charging infrastructure, and long-term battery performance are legitimate considerations that differ from conventional cars. Most of these concerns become manageable once buyers...",
+      "url": "https://www.dailyexcelsior.com/what-prospective-ev-owners-should-know-before-making-the-switch/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWIyMTZlMmIwLTcwNjgtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-25T07:37:18Z",
       "source": {
-        "name": "News18"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Crude oil prices extend decline, reach pre-US-Iran war level; Brent slips to $73 per barrel",
-      "description": "US-Iran peace deal: Brent crude futures for August delivery were down 40 cents, or 0.54%, at $73.34 per barrel, while US West Texas Intermediate (WTI) crude slipped 27 cents, or 0.38%, to $70.07 per barrel.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-decline-reach-pre-us-iran-war-level-brent-slips-to-73-per-barrel-11782351774082.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/crude_oil_1782352208929_1782352209036_cf9eb665-844b-469c-bf63-a8059dcb56c0.jpg",
-      "publishedAt": "2026-06-25T02:00:01Z",
+      "title": "Negri authorities investigate station owner for refusing to sell subsidised fuel",
+      "description": "SEREMBAN: A petrol station owner here is being probed for refusing to sell subsidised fuel despite having sufficient supply, says Negri Sembilan state Domestic Trade and Cost of Living director Muhammad Zahir Mazlan.",
+      "url": "https://www.thestar.com.my/news/nation/2026/06/25/negri-authorities-investigate-station-owner-for-refusing-to-sell-subsidised-fuel",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/25/3976513.jpg",
+      "publishedAt": "2026-06-25T07:37:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "war price as Iran oil hits market, ships transit strait",
+      "description": "June 25 (UPI) -- Oil prices fell to close to their pre-Iran war levels on Thursday, three days after the United States authorized Iranian oil sales on the",
+      "url": "https://www.breitbart.com/news/oil-close-to-pre-war-price-as-iran-oil-hits-market-ships-transit-strait/",
+      "image": "https://media.breitbart.com/media/2026/06/wi/upi/oil-close-pre-war-price-iran-oil-hits-market-ships-transit-strait-oil-close-pre-war-price-iran-oil-hits.jpg",
+      "publishedAt": "2026-06-25T07:33:46Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "'Time to cut petrol, diesel...': Market veteran Ajay Bagga urge relief for Indian consumers",
+      "description": "While crude prices have largely returned to pre-conflict levels, fuel prices in India remain elevated. The hikes introduced to offset higher input costs during the period of geopolitical uncertainty are still in place, prompting demands for a reassessment of retail fuel rates.",
+      "url": "https://www.businesstoday.in/india/story/time-to-cut-petrol-diesel-market-veteran-ajay-bagga-urge-relief-for-indian-consumers-539153-2026-06-25",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3cd9412af30-higher-fuel-prices-continue-to-weigh-on-household-budgets-and-business-costs-crude-oil-indian-baske-253107815-16x9.png",
+      "publishedAt": "2026-06-25T07:31:21Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Donald Trump Jr. Says Oil Futures Under $70 Thanks To His Dad's Iran Deal: 'Lower Gas Prices Coming For A",
+      "description": "Donald Trump Jr. hails lower oil prices due to his father's efforts in ending US-Iran war, predicts relief for American drivers.",
+      "url": "https://www.benzinga.com/news/politics/26/06/60089805/donald-trump-jr-says-oil-futures-below-70-show-his-fathers-iran-deal-is-working",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/25/Donald-Trump-Jr--Speaks-On-The-2nd-Day-O.jpg",
+      "publishedAt": "2026-06-25T07:29:09Z",
+      "source": {
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Stocks to buy: Nagaraj Shetti recommends Ashok Leyland, Mahindra & Mahindra Financial shares to buy in the short-term",
+      "description": "The Indian stock market showed gains on Thursday, supported by declining crude oil prices. The Nifty 50 rose 0.70% and the BSE Sensex went up 0.68%. While realty and auto sectors performed well, metal and media stocks faced profit-booking pressure.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-ashok-leyland-mahindra-mahindra-financial-shares-to-buy-in-the-shortter-11782370474898.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/Nagaraj_Shetti_1761807381164_1761807388598_1782372213485_c60d4d69-c329-4d26-8790-e746cf457024.jpeg",
+      "publishedAt": "2026-06-25T07:25:37Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Crude slips toward $70 as tankers return to Hormuz after US-Iran reach peace deal",
-      "description": "International Business News: Crude oil prices tumbled on Thursday towards pre-war levels as tanker movement through the Strait of Hormuz picked up, easing earlier supply concerns..",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-slips-toward-70-as-tankers-return-to-hormuz-after-us-iran-reach-peace-deal-oil-price-on-june-25/articleshow/131980091.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131980121,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-25T01:44:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Oil extends decline on rising Middle East supply",
-      "description": "Oil prices extended their decline on Thursday \u200bto near levels last seen before the start of the Iran war, as expectations of rising \u200csupply from the Middle East outweighed demand concerns.",
-      "url": "https://www.reuters.com/business/energy/oil-prices-fall-tankers-exit-strait-hormuz-2026-06-25/",
-      "image": "https://www.reuters.com/resizer/v2/USMXC5M54VM2DNRVQUP5IOXYQY.jpg?auth=1ffbc062d88ceb9871a5830ba9d045e796111b1da12f787abe4d2dd27f5e3025&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-06-25T01:35:17Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "First Tick: Top global cues to watch in today's trade",
-      "description": "Oil prices extended their decline on Thursday, edging closer to pre-war levels as stranded tankers exited the Strait of Hormuz following an initial accord to end the U.S.-Israeli war with Iran, easing supply concerns.",
-      "url": "https://www.moneycontrol.com/news/business/markets/first-tick-top-global-cues-to-watch-in-today-s-trade-173-13957811.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031620_sensex1.jpg",
-      "publishedAt": "2026-06-25T01:33:22Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "GIFT Nifty signals positive start for Sensex, Nifty; Brent Crude below $75",
-      "description": "Share market today, June 25: Global markets recover from a 2-day tech decline with gains in Asia-Pacific and US futures. Crude oil prices fall below $75, boosting Indian markets with Nifty and Sensex surging on June 25, 2026.",
-      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-25june2026-4275881/",
-      "image": "https://images.financialexpressdigital.com/2026/06/ShareMarket3Reuters_20260616012657_20260625012704.jpg",
-      "publishedAt": "2026-06-25T01:29:29Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Oil prices fall as tankers exit Strait of Hormuz",
-      "description": "Oil prices are dropping significantly as tankers resume passage through the Strait of Hormuz following a preliminary peace accord between the US, Israel, and Iran. This easing of supply concerns has pushed prices towards pre-war levels, surprising many analysts. Despite ongoing demining efforts, the flow of oil is expected to continue, with nations coordinating to ensure smooth departures and discuss the strait's future management.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-as-tankers-exit-strait-of-hormuz/articleshow/131980030.cms",
-      "image": "https://img.etimg.com/thumb/msid-131980033,width-1200,height-630,imgsize-70162,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-25T01:25:00Z",
+      "title": "Nikkei marks record closing high as AI shares rally on Micron forecast",
+      "description": "Tokyo's Nikkei index soared to a record high, surging over 4% on Thursday. This significant jump was fueled by a powerful rally in AI-related stocks, particularly chipmakers, following an optimistic earnings forecast from U.S. firm Micron. Investors eagerly bought back into technology shares, driving major companies like SoftBank Group, Advantest, and Tokyo Electron higher. Energy stocks, however, experienced a downturn as oil prices continued to fall.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/nikkei-marks-record-closing-high-as-ai-shares-rally-on-micron-forecast/articleshow/131986893.cms",
+      "image": "https://img.etimg.com/thumb/msid-131986920,width-1200,height-630,imgsize-263388,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-25T07:25:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Tech Stocks Boon as Micron and Qualcomm Surge: Asian Markets Rejoice",
-      "description": "Asian equities surged due to robust earnings from Micron and Qualcomm, alleviating AI rally concerns. Japan's Nikkei and South Korea's KOSPI saw significant gains. Investor worries over AI valuations persist. Meanwhile, oil prices eased as tankers exited the Strait of Hormuz, and U.S. interest rate hikes loom amid inflationary pressures.",
-      "url": "https://www.devdiscourse.com/article/business/3940393-tech-stocks-boon-as-micron-and-qualcomm-surge-asian-markets-rejoice",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_07_2024_19_28_08_4909944.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-25T01:23:50Z",
+      "title": "European shares gain as upbeat Micron forecast revives AI rally",
+      "description": "European \u200bshares rose on Thursday, led by gains in technology stocks, as strong forecasts from \u200cMicron and Qualcomm assuaged concerns about ballooning valuations in the sector, while easing oil prices provided further support.",
+      "url": "https://www.reuters.com/markets/europe/european-shares-gain-upbeat-micron-forecast-revives-ai-rally-2026-06-25/",
+      "image": "https://www.reuters.com/resizer/v2/7TO2NWVLJJJYDFOJKXZLHAFWMU.jpg?auth=992062320b50e6ca086348134a45d2d73714012a6d219ccbe41e973238d719e6&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-25T07:23:33Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "European Market Surge Driven by Tech Stocks and AI Optimism",
+      "description": "European shares experienced a boost with technology stocks leading the way, fueled by strong forecasts from Micron and Qualcomm. The pan-European STOXX 600 index saw growth as chipmakers and semiconductor firms rose. Meanwhile, declines in oil prices supported investor confidence, while retail and airline sectors showed mixed results.",
+      "url": "https://www.devdiscourse.com/article/business/3940512-european-market-surge-driven-by-tech-stocks-and-ai-optimism",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_15_36_39_2906988.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-25T07:21:41Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Crude oil prices erase all Iran war gains as Hormuz traffic picks up, talks progress",
-      "description": "Brent crude has slipped below $73 a barrel for the first time since February 27, 2026. It had hit a high of $126 per barrel on April 30 and is down 42% from those levels.",
-      "url": "https://www.cnbctv18.com/market/oil-prices-extend-fall-towards-pre-war-levels-as-supply-swells-iran-peace-talks-progress-19931940.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9c5cb1c381a69950568cf9635583dde2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-06-25T01:15:35Z",
+      "title": "Bears loosen grip on rupiah, rupee on lower oil prices, policy support: Reuters poll",
+      "description": "Short bets on the Indonesian rupiah and the Indian rupee retreated from multi-month peaks, \u200ba Reuters poll showed on Thursday, as normalising oil prices and central bank measures to attract foreign capital eased \u200csome pressure off the currencies.",
+      "url": "https://www.reuters.com/world/asia-pacific/bears-loosen-grip-rupiah-rupee-lower-oil-prices-policy-support-2026-06-25/",
+      "image": "https://www.reuters.com/resizer/v2/IR5MN42K35KTJNMNTT6BK3NFWI.jpg?auth=7ad8b9115770536ed0c7ef284ef452da08ed27aa199070fe576afb4795595ff9&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-25T07:20:20Z",
       "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Stock Market Today Highlights, June 25: Sensex crosses 77,100 as Nifty ends above 24,000 in cautious trade",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: The Sensex closed at 77,100.47, rising 109.25 points or 0.14 per cent, while the Nifty 50 ended at 24,056.00, up 34.35 points or 0.14 per cent, supported by easing crude oil prices, which fell back to pre-Iran conflict levels, and recent policy measures aimed at strengthening the rupee and attracting overseas inflows.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-updates-highlights-25th-june-2026/article71141804.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/oet1zt/article71018310.ece/alternates/LANDSCAPE_1200/stock%20market%20graph.jpg",
-      "publishedAt": "2026-06-25T01:02:51Z",
-      "source": {
-        "name": "The Hindu Business Line"
+        "name": "Reuters"
       }
     }
   ]
