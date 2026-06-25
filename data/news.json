@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-25T02:14:48+00:00",
+  "updated_at": "2026-06-25T08:46:38+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Market Shifts: Eurozone Inflation Under Control as Bund Yields Dive",
-      "description": "German 10-year Bund yields reached a three-month low due to falling oil prices and reassurance from ECB President Christine Lagarde about limited inflation. This trend suggests less aggressive policy action by the ECB. The decline reflects a shift in market sentiment, partly due to geopolitical developments involving the U.S. and Iran.",
-      "url": "https://www.devdiscourse.com/article/business/3940166-market-shifts-eurozone-inflation-under-control-as-bund-yields-dive",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_12_42_10_471815.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-24T14:12:54Z",
+      "title": "AI is helping gas stations collude to raise California fuel prices, lawsuit says",
+      "description": "A federal lawsuit accuses gas station operators in California of using AI-powered software to illegally collude and raise prices. The proposed class action lawsuit was filed Monday. It targets companies like Marathon and Circle K for allegedly violating antitrust laws with Kalibrate, a fuel-pricing software. The lawsuit says Kalibrate helps coordinate high prices and discourages operators from lowering them. Californians already face high gas prices, and the lawsuit follows similar cases against software companies accused of inflating costs in other industries like housing. Neither Kalibrate nor the gas station operators named as defendants responded to a request for comment Wednesday.",
+      "url": "https://www.ajc.com/news/2026/06/ai-is-helping-gas-stations-collude-to-raise-california-fuel-prices-lawsuit-says/",
+      "image": "https://images.ajc.com/resizer/v2/A6JAOR5BGBC47OJRB7K74BND4E.jpg?auth=0ad1214b2a990fc10d83e8b99c3cf4d11bd7b20d0e70580e5f6df0b66588146b&width=1200&height=630&smart=true",
+      "publishedAt": "2026-06-24T20:22:26Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Twin petrol bomb incidents rock Bathinda during CM Mann\u2019s stay; 5 apprehended in one case",
-      "description": "4 accused have been arrested in the Amarpura Basti attack, while one juvenile has been apprehended; no breakthrough in the homoeopathy clinic blast.",
-      "url": "https://www.tribuneindia.com/news/bathinda/twin-petrol-bomb-incidents-rock-bathinda-during-cm-manns-stay-5-apprehended-in-one-case/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJmNjQ2YmYwLTZmZDYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-24T14:12:27Z",
+      "title": "NIA begins probe into petrol bomb attack on Bathinda clinic",
+      "description": "The National Investigation Agency (NIA) today began an investigation into the petrol bomb attack on a homoeopathic clinic located on Mela Ram Road, opposite the Rashtriya Swayamsevak Sangh (RSS) office here.",
+      "url": "https://www.tribuneindia.com/news/punjab/nia-begins-probe-into-petrol-bomb-attack-on-bathinda-clinic/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM1ODA3MTcwLTcwMGEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-24T20:20:55Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Trump accuses big oil companies of \u2018gouging\u2019 consumers as gasoline prices fail to match falling crude costs, orders DOJ",
-      "description": "The directive comes as fuel prices remain elevated despite a sharp decline in global oil prices following an interim peace agreement between the United States and Iran.",
-      "url": "https://www.livemint.com/news/us-news/trump-accuses-big-oil-companies-of-gouging-consumers-as-gasoline-prices-fail-to-match-falling-crude-costs-orders-doj-11782309027402.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/TRUMP-WEAPONIZATION-0_1780300268354_1780300284_1782309456815_1782309456920_5a58db71-7491-4782-916c-aabd21676400.JPG",
-      "publishedAt": "2026-06-24T14:11:46Z",
+      "title": "Falling Oil Prices Could Fuel Inflation, Apollo's Torsten Sl\u00f8k Says",
+      "description": "Oil prices are nearing pre-war levels, but Apollo's top economist says that means inflation could accelerate, boosting the case for rate hikes.",
+      "url": "https://www.businessinsider.com/oil-prices-brent-wti-inflation-torsten-slok-iran-war-economy-2026-6",
+      "image": "https://i.insider.com/6a3c2a83360acd489560a817?width=1200&format=jpeg",
+      "publishedAt": "2026-06-24T19:54:24Z",
       "source": {
-        "name": "Livemint"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "26-Year-Old Man Set On Fire After Refusing Petrol In Gwalior, Suffers 60% Burns",
-      "description": "A 26-year-old man, Akash Sengar, was allegedly set on fire after refusing to give petrol during an argument in Thatiapur area on Tuesday night. His father suffered burn injuries while rescuing him. The suspect and an associate fled. Both are undergoing treatment at JA Group of Hospitals. Police are investigating and checking CCTV footage probe is continuing.",
-      "url": "https://www.freepressjournal.in/bhopal/26-year-old-man-set-on-fire-after-refusing-petrol-in-gwalior-suffers-60-burns",
-      "image": "https://media.assettype.com/freepressjournal/2022-11/75c6841f-87de-4053-98f8-6855af56e67f/Fire_pexels.jpg",
-      "publishedAt": "2026-06-24T13:49:35Z",
+      "title": "Trump Claims Gasoline Price 'Gouging,\u2019 Calls for DOJ Probe",
+      "description": "\u201cGasoline and crude oil prices generally move in the same direction\u2014but not at the same speed,\u201d according to the American Petroleum Institute.",
+      "url": "https://time.com/article/2026/06/24/trump-doj-probe-into-gasoline-price-gouging-experts-explain-timeline/",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt717b124e05edf535/6a3bd5a898cf5c2f8726d808/Trump_Penn_Rally.jpg?branch=production&width=2400&quality=75&auto=webp&crop=16:9",
+      "publishedAt": "2026-06-24T19:46:50Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "TIME"
       }
     },
     {
-      "title": "U.S. shares edge higher in early trading",
-      "description": "Stocks are edging higher on Wall Street as falling bond yields and lower oil prices help ease pressure on the market.",
-      "url": "https://www.cp24.com/news/money/2026/06/24/us-stocks-edge-higher-in-early-trading-as-falling-oil-prices-help-take-pressure-off-the-market/",
-      "image": "https://www.cp24.com/resizer/v2/TL5ZEOQUUCPPKBLS3TTQUGEITU.jpg?smart=true&auth=9bce991e25eddf72c77cec6075ed46179e6927935c47de20357220d9fe379486&width=1200&height=630",
-      "publishedAt": "2026-06-24T13:47:33Z",
+      "title": "Weak monsoon raises food inflation concerns, but rate hike seen unlikely",
+      "description": "Economists are split on how a weak monsoon will affect food prices, with some believing falling oil prices will offset any hikes. Others warn of El Nino's impact on sowing and food costs. The Reserve Bank of India is unlikely to raise interest rates soon, preferring to wait for clarity on the monsoon's agricultural and inflation effects.",
+      "url": "https://economictimes.indiatimes.com/news/economy/weak-monsoon-raises-food-inflation-concerns-but-rate-hike-seen-unlikely/articleshow/131976944.cms",
+      "image": "https://img.etimg.com/thumb/msid-131976966,width-1200,height-630,imgsize-119184,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-24T19:30:00Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "U.S. shares edge higher in early trading",
-      "description": "Stocks are edging higher on Wall Street as falling bond yields and lower oil prices help ease pressure on the market.",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/06/24/us-stocks-edge-higher-in-early-trading-as-falling-oil-prices-help-take-pressure-off-the-market/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/TL5ZEOQUUCPPKBLS3TTQUGEITU.jpg?smart=true&auth=9bce991e25eddf72c77cec6075ed46179e6927935c47de20357220d9fe379486&width=1200&height=630",
-      "publishedAt": "2026-06-24T13:47:33Z",
+      "title": "US gas prices higher than normal and won't fall to pre-Iran-war levels until end of fall: experts",
+      "description": "Gas prices are stuck nearly 30 to 50 cents higher than what they would be under normal circumstances despite plummeting oil prices \u2014 and the pain at the pump won't go away until the end of fall at least, experts warn.",
+      "url": "https://nypost.com/2026/06/24/us-news/gas-prices-higher-than-normal-and-wont-fall-to-pre-war-levels-until-end-of-fall-experts/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/132093444.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-06-24T19:21:54Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Fuel prices June 25 - July 1: Diesel, unsubsidised RON97, RON95 prices down",
-      "description": "KUALA LUMPUR: The retail price of diesel in Peninsular Malaysia will decrease by 30 sen to RM4.07 per litre from June 25 to 30, while unsubsidised RON97 and RON95 petrol prices will each drop by 25 sen to RM4.10 and RM3.47 per litre, respectively.",
-      "url": "https://www.thestar.com.my/news/nation/2026/06/24/fuel-prices-june-25---july-1-diesel-unsubsidised-ron97-ron95-prices-down",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/24/3975407.jpg",
-      "publishedAt": "2026-06-24T13:47:00Z",
+      "title": "Crude Oil Prices Fall Sharply as Persian Gulf Oil Flows Accelerate",
+      "description": "August WTI crude oil (CLQ26 ) on Wednesday closed down -2.87 (-3.92%), and August RBOB gasoline (RBQ26 ) closed down -0.0669 (-2.34%). Crude oil and gasoline prices sold off sharply on Wednesday, with crude oil posting a 3.5-month low. Wednesday\u2019s r...",
+      "url": "https://www.barchart.com/story/news/2633091/crude-oil-prices-fall-sharply-as-persian-gulf-oil-flows-accelerate",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20pipeline%20in%20alaska%202%20by%20jotoya%20via%20Pixabay.jpg",
+      "publishedAt": "2026-06-24T19:16:35Z",
       "source": {
-        "name": "The Star"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Why Trump suddenly sounds a lot like Biden on gas prices",
-      "description": "President Donald Trump says \u201cBig Oil\u201d companies are keeping gas prices artificially high, echoing a complaint former President Joe Biden made during the last gas price spike. But, unlike Biden, Trump says he wants the Justice Department to investigate.",
-      "url": "https://edition.cnn.com/2026/06/24/economy/trump-criticizes-big-oil-for-gas-prices",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26174762701798.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-06-24T13:39:46Z",
+      "title": "Trump to ask Congress to make 15% ethanol-gas blend permanent",
+      "description": "E15 is usually only available part of the year to help ease high gas prices under a waiver from the EPA.",
+      "url": "https://www.cbsnews.com/sacramento/news/trump-ask-congress-e15-ethanol-blend-fuel-permanent/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/80d04744-b3fc-47b0-9671-e75a995bfd54/thumbnail/1200x630/1ea520af2d2096c0c434de5d10fc962c/gettyimages-2274167441.jpg",
+      "publishedAt": "2026-06-24T19:14:00Z",
       "source": {
-        "name": "Cable News Network"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Why Trump suddenly sounds a lot like Biden on gas prices",
-      "description": "By Chris Isidore, CNN (CNN) \u2014 President Donald Trump says \u201cBig Oil\u201d companies are keeping gas prices artificially high, echoing a complaint former President Joe Biden made during the last gas price spike. But, unlike Biden, Trump says he wants the Justice Department to investigate. In a Truth Social post early Wednesday, Trump argued that",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/06/24/why-trump-suddenly-sounds-a-lot-like-biden-on-gas-prices/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/06/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXFzM283cmQwMDBtM2I2cnFxcGlndHRw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcXMzMGFsaDAwMXgyOXA0MXVtbjN4eWw-860x573.jpg",
-      "publishedAt": "2026-06-24T13:39:46Z",
+      "title": "Trump to ask Congress to make 15% ethanol-gas blend permanent",
+      "description": "E15 is usually only available part of the year to help ease high gas prices under a waiver from the EPA.",
+      "url": "https://www.cbsnews.com/news/trump-ask-congress-e15-ethanol-blend-fuel-permanent/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/24/80d04744-b3fc-47b0-9671-e75a995bfd54/thumbnail/1200x630/1ea520af2d2096c0c434de5d10fc962c/gettyimages-2274167441.jpg",
+      "publishedAt": "2026-06-24T19:14:00Z",
       "source": {
-        "name": "ABC17News.com"
+        "name": "CBS News"
       }
     },
     {
-      "title": "The cheapest place to get petrol or diesel in Greater Manchester today - Wednesday, 24 June",
-      "description": "Use our interactive widget to fill your car for less",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34178949",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article29112490.ece/ALTERNATES/s1200d/2_Fuel.jpg",
-      "publishedAt": "2026-06-24T13:32:50Z",
+      "title": "Nat-Gas Prices Rise on Warmer US Weather Forecasts",
+      "description": "July Nymex natural gas (NGN26 ) on Wednesday closed up +0.074 (+2.35%). Nat-gas prices moved higher on Wednesday as US weather forecasts shifted to hotter, potentially boosting nat-gas demand from electricity providers to power air-conditioning. The...",
+      "url": "https://www.barchart.com/story/news/2633045/nat-gas-prices-rise-on-warmer-us-weather-forecasts",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
+      "publishedAt": "2026-06-24T19:13:50Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "Barchart"
       }
     }
   ]
