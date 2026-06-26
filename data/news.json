@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-26T08:50:24+00:00",
+  "updated_at": "2026-06-26T14:03:10+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices back to pre-war levels on rising Middle East supply",
-      "description": "LONDON - Oil prices have extended their decline to levels last seen before the start of the Iran war, as expectations of rising supply from the Middle East outweighed",
-      "url": "https://www.nation.com.pk/26-Jun-2026/oil-prices-back-pre-war-levels-rising-middle-east-supply",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-06-25T20:43:00Z",
+      "title": "Crude oil prices fall as shipments through Strait of Hormuz resume; Brent oil below $75 a barrel",
+      "description": "Crude shipments through the Strait of Hormuz increased this week to their highest level since the US-Iran war began in February after a ceasefire deal reopened the waterway, data showed.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-fall-as-shipments-through-strait-of-hormuz-resume-brent-oil-below-75-a-barrel-11782438618960.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/crude_oil_1697775793536_1782438846788_1ee7abff-93da-4087-8512-da47a8a15880.jpg",
+      "publishedAt": "2026-06-26T01:54:39Z",
       "source": {
-        "name": "The Nation"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Key inflation gauge jumps to 3-year high in latest sign of affordability challenges",
-      "description": "The Federal Reserve\u2019s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for President Trump as midterm elections near.",
-      "url": "https://www.latimes.com/business/story/2026-06-25/key-inflation-gauge-jumps-to-3-year-high-in-latest-sign-of-affordability-challenges",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/8482d6f/2147483647/strip/true/crop/5582x2931+0+105/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F28%2F34%2Fe603200540ea979afcb195ecf42f%2F397723d9328442d896867c855df76178.jpg",
-      "publishedAt": "2026-06-25T20:35:39Z",
+      "title": "Petrol, diesel prices today - 26 June: Fuel rate in Delhi, Kolkata, Mumbai, Bengaluru, other cities as oil edges lower",
+      "description": "Petrol, diesel prices today \u2014 26 June: Crude oil prices plunged on Friday morning amid easing supply concerns as more stranded oil tankers exited the Strait of Hormuz. Check fuel rate in Delhi, Kolkata, Mumbai, Bengaluru, other cities.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-26-june-fuel-rate-in-delhi-kolkata-mumbai-bengaluru-other-cities-as-oil-edges-lower-11782434411665.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/26/1600x900/logo/ANI-20260523131-0_1781832355070_1781832374740_bcdf7232-e6f7-4df4-a8b0-64e3433f6b77_1782437988713_0c5fbf01-bca0-465d-b69f-c4003b9972bc.jpg",
+      "publishedAt": "2026-06-26T01:44:35Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Trump just told the DOJ to investigate the oil companies that spent $100 million getting him elected",
-      "description": "Crude prices are back to pre-war levels. Gas prices aren't. Now Trump's pointing fingers at his own biggest donors.",
-      "url": "https://fortune.com/2026/06/25/trump-accuses-big-oil-of-price-gouging/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/06/GettyImages-2282984800-e1782404708663.jpg?resize=1200,600",
-      "publishedAt": "2026-06-25T20:34:51Z",
+      "title": "Oil edges lower amid resumption of strait shipments even as vessel hit near Oman",
+      "description": "Oil prices are poised for significant weekly declines as supply worries ease with tankers navigating the Strait of Hormuz. Despite a cargo vessel being struck near Oman, with Iran implicated, and earthquakes in Venezuela causing minor infrastructure damage, crude shipments through the vital waterway have increased. However, lingering geopolitical tensions and power outages in Venezuela could still impact future production.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-lower-amid-resumption-of-strait-shipments-even-as-vessel-hit-near-oman/articleshow/132005542.cms",
+      "image": "https://img.etimg.com/thumb/msid-132005550,width-1200,height-630,imgsize-39132,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-26T01:35:00Z",
       "source": {
-        "name": "Fortune"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Key inflation gauge jumps to 3-year high in latest sign of affordability challenges",
-      "description": "WASHINGTON\u00a0\u2014 The Federal Reserve\u2019s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose\u00a0political problems\u00a0for President Donald Trump and his political party as\u00a0midterm elections\u00a0near.",
-      "url": "https://www.manilatimes.net/2026/06/26/world/key-inflation-gauge-jumps-to-3-year-high-in-latest-sign-of-affordability-challenges/2373344",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/26/1114517.jpg",
-      "publishedAt": "2026-06-25T20:29:00Z",
+      "title": "Oil edges lower amid resumption of strait shipments even as vessel hit near Oman",
+      "description": "Oil prices fell on Friday morning and are heading for steep weekly losses amid easing supply concerns as more stranded \u200boil tankers exited the Strait of Hormuz, even though a cargo vessel was \u200chit near Oman on Thursday.",
+      "url": "https://www.reuters.com/business/energy/oil-edges-lower-amid-resumption-strait-shipments-even-vessel-hit-near-oman-2026-06-26/",
+      "image": "https://www.reuters.com/resizer/v2/4Q46ZE5XPBJQ7L3ZTEXLOBC4TY.jpg?auth=90c88f16d53f315a8f4dd59502f8801cef0ed88572c284ae833c42599b058481&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-26T01:12:02Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "NIKKEI, KOSPI lead losses in Asia amidst volatile moves in tech stocks",
+      "description": "Oil prices remained in focus after Brent crude rose on Thursday following a projectile strike on a vessel in the Strait of Hormuz, snapping a three-day losing streak. However, crude prices edged lower during early Asian trading.",
+      "url": "https://www.cnbctv18.com/market/nikkei-kospi-lead-losses-in-asia-amidst-volatile-moves-in-tech-stocks-19932774.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-24d463995be1ca7ed4d6b662c631cece.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-06-26T01:10:04Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Oil prices hold gains post attack on cargo ship in Strait of Hormuz",
+      "description": "Brnet crude was trading near $75 a barrel, while West Texas Intermediate was below $72 a barrel.",
+      "url": "https://www.cnbctv18.com/market/oil-prices-hold-gains-post-attack-on-cargo-ship-in-strait-of-hormuzc-19932777.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9c5cb1c381a69950568cf9635583dde2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-06-26T01:07:19Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Oil edges lower amid resumption of strait shipments even as vessel hit near Oman",
+      "description": "Oil prices fell on Friday morning and are heading for steep weekly losses amid easing supply concerns as more stranded oil tankers exited the Strait of Hormuz, even though a cargo vessel was hit near...",
+      "url": "https://www.marketscreener.com/news/oil-edges-lower-amid-resumption-of-strait-shipments-even-as-vessel-hit-near-oman-ce7f5fd9d88bff21",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-26T010828Z_1_LYNXMPEM5P03J_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+      "publishedAt": "2026-06-26T01:07:17Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Diesel, gasoline prices likely to increase next week",
+      "description": "MANILA, Philippines \u2014 Diesel and gasoline prices are estimated to increase next week due to the uncertainty in the Middle East despite a recent peace deal between US and Iran, local oil industry sources said on Friday.",
+      "url": "https://www.manilatimes.net/2026/06/26/business/top-business/diesel-gasoline-prices-likely-to-increase-next-week/2373411",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/06/26/1114628.jpg",
+      "publishedAt": "2026-06-26T00:44:00Z",
       "source": {
         "name": "The Manila Times"
       }
     },
     {
-      "title": "Bathinda petrol bomb attack case cracked, 2 arrested",
-      "description": "The Bathinda police, in a joint operation with the Counter Intelligence Wing, claimed to have cracked the petrol bomb attack on a homoeopathic clinic near the Rashtriya Swayamsevak Sangh (RSS) office. Two youths have been arrested, while a third accused remains absconding. The National Investigation Agency (NIA) had also begun probing the case a day earlier.",
-      "url": "https://www.tribuneindia.com/news/punjab/bathinda-petrol-bomb-attack-case-cracked-2-arrested/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiNGE0YWIwLTcwZDItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-25T20:13:49Z",
+      "title": "President Trump is frustrated gas prices don\u2019t mirror oil\u2019s decline",
+      "description": "President Trump, who wants to stave off the economic fallout of the war ahead of midterm elections, is now pointing at oil companies as the culprit.",
+      "url": "https://www.chicagotribune.com/2026/06/25/trump-is-frustrated-gasoline-prices-dont-mirror-oils-decline-experts-say-its-not-that-simple/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/06/Energy_Crisis_7445_.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-26T00:21:21Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Chicago Tribune"
       }
     },
     {
-      "title": "Man set ablaze over Rs 300 petrol dues in Gwalior; two arrested",
-      "description": "Gwalior: 26-year-old man set on fire over Rs 300 petrol dues; suffers 37% burns. Two arrested, one absconding; police probe CCTV and forensics.",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/man-set-ablaze-over-rs-300-petrol-dues-in-gwalior-two-arrested/articleshow/132002964.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-06-25T19:54:00Z",
+      "title": "Cooling crude prices drive weekly gains; Street expects Q2 earnings recovery",
+      "description": "Indian stock markets closed slightly higher on Thursday, marking a third consecutive week of gains, buoyed by falling crude oil prices. The Nifty 50 and Sensex both edged up, with easing oil prices boosting investor confidence. Analysts suggest dips may attract buying, anticipating improved corporate margins from the second quarter, even with potential monsoon deficits. Volatility expectations also decreased.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cooling-crude-prices-drive-weekly-gains-street-expects-q2-earnings-recovery/articleshow/132005304.cms",
+      "image": "https://img.etimg.com/thumb/msid-132005306,width-1200,height-630,imgsize-18526,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-26T00:16:00Z",
       "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Joe Cordina charged with assault following Cardiff petrol station incident",
-      "description": "Former boxing world champion Joe Cordina has been charged with \u201cassault and threatening a person with an offensive weapon\u201d following an incident at a petrol station in Cardiff in February",
-      "url": "https://www.theguardian.com/sport/2026/jun/25/joe-cordina-charged-with-assault-following-cardiff-petrol-station-incident",
-      "image": "https://i.guim.co.uk/img/media/84af9b80d08f2b9e56da31248247862db14bd1c9/298_0_3248_2598/master/3248.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=384b9a56df7fb12634dd955637ee8cf1",
-      "publishedAt": "2026-06-25T19:44:43Z",
-      "source": {
-        "name": "The Guardian"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Sharply Higher on Concerns of Reopening of Strait of Hormuz",
-      "description": "August WTI crude oil (CLQ26 ) on Thursday closed up +1.58 (+2.25%), and August RBOB gasoline (RBQ26 ) closed up +0.1109 (+3.97%). Crude oil and gasoline prices erased early losses on Thursday and rallied sharply as short covering emerged on a report...",
-      "url": "https://www.barchart.com/story/news/2087/crude-oil-prices-sharply-higher-on-concerns-of-reopening-of-strait-of-hormuz",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20tanker%20in%20open%20sea%20by%20StockStudio%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-06-25T19:18:40Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Hot US Weather Forecasts Lift Nat-Gas Prices",
-      "description": "July Nymex natural gas (NGN26 ) on Thursday closed up +0.122 (+3.79%). Nat-gas prices rallied to a 2.5-week high on Thursday and settled sharply higher on the outlook for hotter US weather, potentially boosting nat-gas demand from electricity provide...",
-      "url": "https://www.barchart.com/story/news/2001/hot-us-weather-forecasts-lift-nat-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20range%20stove%20by%20PublicDomainPictures%20via%20Pixabay.jpg",
-      "publishedAt": "2026-06-25T19:16:06Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Survey shows gas-price pain rising even as economic confidence stabilizes",
-      "description": "Rising gas prices are dealing a major hit to household budgets, with most Americans admitting that high gas prices are severely squeezing their finances, according to a new poll.",
-      "url": "https://www.fox9.com/news/gas-price-pain-economic-confidence-survey",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/06/1200/630/customer-at-gas-pump.jpg?ve=1&tl=1",
-      "publishedAt": "2026-06-25T19:08:40Z",
-      "source": {
-        "name": "FOX 9"
+        "name": "The Economic Times"
       }
     }
   ]
