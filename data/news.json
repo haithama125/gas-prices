@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-27T08:26:09+00:00",
+  "updated_at": "2026-06-27T13:09:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Most of Wall Street rises, but sinking AI stocks send it lower for the week",
-      "description": "Most of the U.S. stock market rose after oil prices eased back to where they were before the war with Iran, but drops for AI stocks kept the market in check",
-      "url": "https://www.barchart.com/story/news/8612/most-of-wall-street-rises-but-sinking-ai-stocks-send-it-lower-for-the-week",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/23f2cf1b992f4927a99319ced724a114/23f2cf1b992f4927a99319ced724a114_main_financial_markets_wall_street_34746.jpg",
-      "publishedAt": "2026-06-26T20:11:35Z",
+      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 17% to 48% returns",
+      "description": "Indian equity markets ended a quiet week with mixed stock recommendations from top brokerages like Morgan Stanley, Nomura, and Jefferies, highlighting bullish targets on key stocks amid falling crude oil prices.",
+      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-17-to-48-returns-4277493/",
+      "image": "https://images.financialexpressdigital.com/2026/06/Nuvamapicks_20260511130339_20260626175240.jpg",
+      "publishedAt": "2026-06-27T00:30:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Market Turbulence: Tech Stocks Slip, Oil Prices Drop",
-      "description": "Global equity markets experienced a decline as investors sold off high-performing tech and chip stocks, with notable drops in crude oil prices. The S&P 500 and Nasdaq were set for weekly losses, while the Dow saw potential gains. A significant 7.7% drop in chip stocks marked the largest weekly decrease since March.",
-      "url": "https://www.devdiscourse.com/article/business/3941565-market-turbulence-tech-stocks-slip-oil-prices-drop",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_09_2025_01_51_14_7818086.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-26T20:02:16Z",
+      "title": "Saudi Aramco Resumes Operations at Ras Tanura Amid Gulf Tensions",
+      "description": "Saudi Aramco has resumed crude loadings at its Ras Tanura terminal following a four-month hiatus amid industry optimism for normalization. The restart occurs despite tensions in the Strait of Hormuz. Oil supply is recovering across the Gulf region as producers ramp up exports, potentially impacting global oil prices.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3941615-saudi-aramco-resumes-operations-at-ras-tanura-amid-gulf-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_05_2024_09_47_37_4829207.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-27T00:24:57Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Dollar Slips as Lower Crude Prices Ease Rate-Hike Concerns",
-      "description": "The dollar index (DXY00 ) on Friday fell by -0.07%. The dollar moved lower on Friday amid weakness in crude oil prices. WTI crude oil fell more than 3% on Friday to a 4-month low, easing inflation expectations and potentially persuading the Fed to...",
-      "url": "https://www.barchart.com/story/news/3005334/dollar-slips-as-lower-crude-prices-ease-rate-hike-concerns",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Money%20transfer%20Global%20Currency%20by%20Panuwatccn%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-06-26T19:34:05Z",
+      "title": "Oil prices plunge 10% for the week as Hormuz traffic resumes; Brent settles at $71.99",
+      "description": "Higher tanker traffic through the Strait of Hormuz and easing supply concerns drove oil to its steepest weekly decline in months. Brent fell 4.34% on Friday, while WTI slipped below $70",
+      "url": "https://en.protothema.gr/2026/06/27/oil-prices-plunge-10-for-the-week-as-hormuz-traffic-resumes-brent-settles-at-71-99/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/06/diesel_petrelaio_shutterstock_2667075973.jpeg-1.jpg",
+      "publishedAt": "2026-06-26T23:53:54Z",
       "source": {
-        "name": "Barchart"
+        "name": "Proto Thema"
       }
     },
     {
-      "title": "Oil prices plummet on hopes of increased supply, high gasoline prices persist",
-      "description": "The pause in hostilities between the U.S. and Iran has led to a decline in future oil prices, but industry analysts say it will take time to trickle down to lower gasoline prices.",
-      "url": "https://globalnews.ca/news/11940088/oil-prices-plummet-but-high-gas-prices-persist/",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/06/gas-pump_1.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-06-26T19:24:13Z",
+      "title": "Tensions Rise in the Strait of Hormuz: US and Iran Clash",
+      "description": "The U.S. military launched airstrikes against Iran after an Iranian drone hit a cargo ship in the Strait of Hormuz, escalating tensions. Meanwhile, Israel and Lebanon signed a ceasefire with Hezbollah, but enforcement remains unclear. The conflict has affected oil prices and raised concerns about regional stability.",
+      "url": "https://www.devdiscourse.com/article/politics/3941608-tensions-rise-in-the-strait-of-hormuz-us-and-iran-clash",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_17_55_26_8229701.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-26T23:45:06Z",
       "source": {
-        "name": "Global News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Crude Oil Prices Fall Sharply as Global Supply Risks Ease",
-      "description": "August WTI crude oil (CLQ26 ) on Friday closed down -2.69 (-3.74%), and August RBOB gasoline (RBQ26 ) closed down -0.0765 (-2.64%). Crude oil and gasoline prices settled sharply lower on Friday, with crude posting a fresh 4-month low. An acceleration...",
-      "url": "https://www.barchart.com/story/news/3004977/crude-oil-prices-fall-sharply-as-global-supply-risks-ease",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-06-26T19:14:43Z",
+      "title": "Easing gas prices give 'fairly sour' consumer sentiment a lift from all-time low",
+      "description": "Consumer sentiment rebounded this month from an all-time low in May, according to an update Friday from the University of Michigan.",
+      "url": "https://wjla.com/news/nation-world/easing-gas-prices-give-fairly-sour-consumer-sentiment-a-lift-from-all-time-low-university-of-michigan-consumer-sentiment-index-june-2026-economy-personal-finances",
+      "image": "https://wjla.com/resources/media2/16x9/5342/1320/38x466/90/b9370c6b-aeef-4d4b-b75b-6de2d16061e2-GettyImages2283298190.jpg",
+      "publishedAt": "2026-06-26T22:39:29Z",
       "source": {
-        "name": "Barchart"
+        "name": "WJLA"
       }
     },
     {
-      "title": "Nat-Gas Prices Drop as July Nymex Contract Expires",
-      "description": "July Nymex natural gas (NGN26 ) on Friday closed down -0.112 (-3.35%). Nat-gas prices retreated from a 3-month high on Friday and settled sharply lower. Long liquidation pressured prices on Friday, the last day of trading for the expiring July Nymex...",
-      "url": "https://www.barchart.com/story/news/3004964/nat-gas-prices-drop-as-july-nymex-contract-expires",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-06-26T19:13:26Z",
+      "title": "Easing gas prices give 'fairly sour' consumer sentiment a lift from all-time low",
+      "description": "Consumer sentiment rebounded this month from an all-time low in May, according to an update Friday from the University of Michigan.",
+      "url": "https://foxbaltimore.com/news/nation-world/easing-gas-prices-give-fairly-sour-consumer-sentiment-a-lift-from-all-time-low-university-of-michigan-consumer-sentiment-index-june-2026-economy-personal-finances",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/5342/1320/38x466/90/b9370c6b-aeef-4d4b-b75b-6de2d16061e2-GettyImages2283298190.jpg",
+      "publishedAt": "2026-06-26T22:39:29Z",
       "source": {
-        "name": "Barchart"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Most of Wall Street rises, but sinking AI stocks keep it on track for a losing week",
-      "description": "Most of the U.S. stock market is rising after oil prices eased back to where they were before the war with Iran, but drops for AI stocks are keeping the market in check. The S&P 500 slipped 0.2% Friday and is on track to close out just its second losing week in the last 13, largely because of drops for AI stocks. The Dow Jones Industrial Average fell 7 points, and the Nasdaq composite dropped 0.1%. Earlier in the day, stock indexes tumbled in South Korea and Japan on weakness for AI stocks. Treasury yields eased with the fall in oil prices.",
-      "url": "https://www.ajc.com/news/2026/06/most-of-wall-street-rises-as-sinking-ai-stocks-keep-it-on-track-for-a-losing-week/",
-      "image": "https://images.ajc.com/resizer/v2/Z43VCWBL6ZEVRJ2J25PSNS3DMI.jpg?auth=7f1d51d187dc9d87e5422e47294bb210dfacbfd6f9886750b549a52dfb882fcb&width=1200&height=630&smart=true",
-      "publishedAt": "2026-06-26T19:11:20Z",
+      "title": "US strikes Iran military targets after ship attack in Strait of Hormuz",
+      "description": "U.S. Central Command forces struck Iranian missile and drone storage sites and coastal radar locations in response to a June 25 drone attack on the Singapore-flagged M/V Ever Lovely near the Strait of Hormuz. CENTCOM stated the attack violated the ceasefire and undermined freedom of navigation, pledging continued support for commercial vessels. The incident escalates tensions in the critical waterway, where the IRGC has mandated specific shipping routes, even as global oil prices reflect the instability.",
+      "url": "https://scanx.trade/stock-market-news/global/iran-warns-ships-to-use-only-designated-hormuz-passage/43922669",
+      "image": "http://news-images.dhan.co/iran-warns-ships-to-use-only-designated-hormuz-passage.jpg",
+      "publishedAt": "2026-06-26T21:23:03Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "scanx.trade"
       }
     },
     {
-      "title": "Oil slips as Strait of Hormuz shipping recovers",
-      "description": "Oil prices are easing as shipping through the Strait of Hormuz rebounds, though geopolitical risks continue to cloud the outlook.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/26/market-outlook-oil-prices-fall-as-strait-of-hormuz-shipping-rebounds/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/OE7EA2X3AUTANMR47FMRRZ7KWA.jpg?smart=true&auth=49efd98f5866c5eb86cb914196fa173977c05a2c4e0c8bfdcd4eb41c981bf520&width=1200&height=630",
-      "publishedAt": "2026-06-26T19:11:20Z",
+      "title": "Farmers hold flag march against proposed India",
+      "description": "Members of the Bharatiya Kisan Union (Ekta-Ugrahan) on Friday took out a flag march at Ranjit Avenue to protest against the proposed India-US free trade agreement, rising prices of petrol, diesel and cooking gas, shortage of urea fertiliser and the increasing cost of living. The march began from Ranjit Avenue and concluded near the Deputy Commissioner\u2019s office.",
+      "url": "https://www.tribuneindia.com/news/amritsar/farmers-hold-flag-march-against-proposed-india-us-trade-deal/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTY2YjQ1MTUwLTcxYTItMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-26T21:02:51Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Investors turn bullish on IndiGo shares",
-      "description": "Analysts feel that IndiGo\u2019s strong operational metrics and dominant market share augur well for them to benefit from easing oil prices, stability in the rupee a",
-      "url": "https://www.newindianexpress.com/business/2026/Jun/26/investors-turn-bullish-on-indigo-shares",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2024-12-04%2Fr0i6t5t4%2FIndiGo-ranked.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-26T19:07:54Z",
+      "title": "Most of Wall Street rises, but sinking AI stocks send it lower for the week",
+      "description": "NEW YORK (AP) \u2014 Most of the U.S. stock market rose Friday after oil prices eased back to where they were before the war with Iran, but drops for stocks swept up\u2026",
+      "url": "https://wtop.com/world/2026/06/asian-shares-plunge-as-traders-sell-to-lock-in-profits-after-recent-rallies-driven-by-ai/",
+      "image": "https://wtop.com/wp-content/uploads/2026/06/South_Korea_Financial_Markets__795-scaled.jpg",
+      "publishedAt": "2026-06-26T21:01:50Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Dollar declines for second straight day but set for weekly gain",
-      "description": "The dollar fell for a second straight session on Friday as recent economic data and a drop in oil prices slightly cooled expectations for Federal Reserve rate hikes, although the yen remained in...",
-      "url": "https://www.marketscreener.com/news/dollar-declines-for-second-straight-day-but-set-for-weekly-gain-ce7f5fd9de8ff427",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T122646Z_1_LYNXMPEL2K0VB_RTROPTP_4_MERCADOS-DOLAR.JPG",
-      "publishedAt": "2026-06-26T18:51:20Z",
+      "title": "Outgoing IMF chief economist sees risks, shifting trade ties and continued uncertainty on global outlook",
+      "description": "Strategic petroleum releases helped avert a sharper rise in oil prices as a result of the war in the Middle East, but the global economy faces \u200bsignificant downside risks if a fragile ceasefire between the U.S. and Iran doesn't hold, IMF chief economist Pierre-Olivier Gourinchas said on Friday.",
+      "url": "https://www.reuters.com/business/outgoing-imf-chief-economist-sees-risks-shifting-trade-ties-continued-2026-06-26/",
+      "image": "https://www.reuters.com/resizer/v2/YRPSKDWUZBPDPM2JIGIF6VF56U.jpg?auth=91ab428571c5ee2ab4f88ee4d9000b272b5526f5c41eebb92fa774df86f40710&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-26T20:43:04Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Reuters"
       }
     }
   ]
