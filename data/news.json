@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-06-28T08:40:03+00:00",
+  "updated_at": "2026-06-28T13:16:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "rickshaw operators to adhere to approved fares",
+      "description": "Excelsior Correspondent JAMMU, June 27: Ahead of the annual Amarnath Yatra commencing on July 3, the Regional Transport Officer (RTO), Jammu, today directed all e-rickshaw, e-auto and petrol auto-rickshaw operators to strictly adhere to the approved fare structure to ensure...",
+      "url": "https://www.dailyexcelsior.com/rto-jammu-directs-e-auto-auto-rickshaw-operators-to-adhere-to-approved-fares/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTI1ZjEyNjEwLTcyN2YtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-27T23:22:56Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "New Mexico governor urges lawmakers to approve $250 taxpayer rebates for high gas prices",
+      "description": "New Mexico governor Michelle Lujan Grisham calls on state lawmakers to approve $250 rebates for taxpayers, citing a budget windfall and rising gas prices. Some legislators advocate for long-term tax code changes instead of one-time checks.",
+      "url": "https://www.abqjournal.com/news/governor-calls-on-lawmakers-to-approve-250-tax-rebates-to-soften-blow-of-high-gas-prices/3070796",
+      "image": "https://image.abqjournal.com/3071038.jpg?imageId=3071038&x=0&y=9.62&cropw=100&croph=70.88&panox=0&panoy=9.62&panow=100&panoh=70.88&width=1200&height=683",
+      "publishedAt": "2026-06-27T21:39:56Z",
+      "source": {
+        "name": "Albuquerque Journal"
+      }
+    },
+    {
+      "title": "A 2017 Law Is About To Send California Gas Prices Climbing Again",
+      "description": "California Senate Bill 1, passed in 2017, legalized inflation-linked gas tax increases. One such hike for 2.2 cents a gallon is scheduled for July 1, 2026.",
+      "url": "https://www.slashgear.com/2202844/california-law-july-2026-gas-price-increase/",
+      "image": "https://www.slashgear.com/img/gallery/a-2017-law-is-about-to-send-california-gas-prices-climbing-again/l-intro-1782501586.jpg",
+      "publishedAt": "2026-06-27T20:45:00Z",
+      "source": {
+        "name": "SlashGear"
+      }
+    },
     {
       "title": "Why are fuel prices still high when global crude oil rates have fallen: Kharge",
       "description": "\u201cToday, crude oil prices have fallen to $70.71 per barrel. Then why is the Modi government selling petrol at Rs 102.12 per litre and diesel at Rs 95.20 per litre?\u201d Kharge asked.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-06-27T16:16:29Z",
       "source": {
         "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Crude oil prices tumble down but relief likely",
-      "description": "Crude oil prices face a potential relief rally, but key support levels will dictate future movements.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-oil-prices-tumble-down-but-relief-likely/article71153662.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/dmw4sy/article71154440.ece/alternates/LANDSCAPE_1200/PO28_%20crude.jpg",
-      "publishedAt": "2026-06-27T16:06:57Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Scorpio driver gets tank filled with Rs 6,000 petrol, escapes pump located on Pataudi",
-      "description": "Incident at Yash Filling Station captured on CCTV; snapped delivery hose attached to the car.",
-      "url": "https://www.tribuneindia.com/news/gurugram/scorpio-driver-gets-tank-filled-with-rs-6000-petrol-escapes-pump-located-on-pataudi-bilaspur-road/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThmZWIyY2UwLTcyM2EtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-27T15:11:59Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "America In Focus: key inflation gauge surges to 3-year high, mortgage rate climbs",
-      "description": "The Federal Reserve\u2019s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for President Donald Trump and his political party as midterm elections near.",
-      "url": "https://apnews.com/article/economy-inflation-iran-trump-unemployment-935feff61ebcb6a7dfbb604b7a49fcff",
-      "image": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
-      "publishedAt": "2026-06-27T14:10:08Z",
-      "source": {
-        "name": "The Associated Press"
       }
     }
   ]
