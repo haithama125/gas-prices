@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-27T19:04:14+00:00",
+  "updated_at": "2026-06-28T02:33:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Govt committed to passing oil price relief to consumers: Ali Pervaiz Malik",
-      "description": "ISLAMABAD: Federal Minister for Petroleum Ali Pervaiz Malik on Saturday reaffirmed that the government remains committed to passing on the impact of fluctuations in international oil prices to consumers, while fulfilling all international obligations, rejecting perceptions of preferential treatment in fuel pricing decisions.",
-      "url": "https://www.bolnews.com/business/govt-committed-to-passing-oil-price-relief-to-consumers-ali-pervaiz-malik/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/06/oil-price.webp",
-      "publishedAt": "2026-06-27T06:48:52Z",
+      "title": "America In Focus: key inflation gauge surges to 3-year high, mortgage rate climbs",
+      "description": "The Federal Reserve\u2019s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political problems for President Donald Trump and his political party as midterm elections near.",
+      "url": "https://apnews.com/article/economy-inflation-iran-trump-unemployment-935feff61ebcb6a7dfbb604b7a49fcff",
+      "image": "https://dims.apnews.com/dims4/default/cfae71b/2147483647/strip/true/crop/3657x2437+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F1c%2F62%2F6478db5a29a2e2389f40d106c34e%2F53412e7a108a463fb005a1b5e0229ccd",
+      "publishedAt": "2026-06-27T14:10:08Z",
       "source": {
-        "name": "BOL News"
+        "name": "The Associated Press"
       }
     },
     {
-      "title": "Market Prediction For Monday, June 29: Will Nifty Cross 24,200? West Asia, Crude Oil, Monsoon, FII Flows In Focus",
-      "description": "Analysts say investors will closely track West Asia developments, crude oil prices, FII flows, monsoon progress and the key 24,200 level on the Nifty for directional cues.",
-      "url": "https://www.news18.com/business/markets/market-prediction-for-monday-june-29-will-nifty-cross-24200-west-asia-crude-oil-monsoon-fii-flows-in-focus-ws-l-10176652.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/10/stock-market-2025-10-da4779be99b8c81dc48f09b780bc2aef-16x9.png",
-      "publishedAt": "2026-06-27T06:48:26Z",
+      "title": "America In Focus: Key inflation gauge surges to 3",
+      "description": "The Federal Reserve\u2019s preferred inflation gauge rose to a new three-year high in May as gas prices peaked, a sign rising costs could pose political",
+      "url": "https://www.breitbart.com/news/america-in-focus-key-inflation-gauge-surges-to-3-year-high-mortgage-rate-climbs/",
+      "image": "https://media.breitbart.com/media/2026/06/wi/ap/consumer-spending-39-consumer-spending-key-inflation-measure-rose-federal-data-ap-digita-640x335.jpg",
+      "publishedAt": "2026-06-27T14:03:58Z",
       "source": {
-        "name": "News18"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Oil costs\u2019 fall buoys Wall Street dragged by AI losses",
-      "description": "NEW YORK -- Most of the U.S. stock market rose Friday after oil prices eased back to where they were before the war with Iran, but drops for stocks swept up in the mania around artificial intelligence technology kept the market in check.",
-      "url": "https://www.arkansasonline.com/news/2026/jun/27/oil-costs-fall-buoys-wall-street-dragged-by-ai/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213137517_2D-stocks-0627-RGB_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2026-06-27T06:45:00Z",
+      "title": "Costco's first standalone gas station opens in Mission Viejo as California gas tax increase looms",
+      "description": "Gas prices are beginning to fall across Southern California, but drivers are days away from a statewide gas tax increase set to take effect.",
+      "url": "https://abc7.com/post/costcos-first-standalone-gas-station-opens-orange-county-california-tax-increase-looms/19392512/",
+      "image": "https://cdn.abcotvs.com/dip/images/19395842_062726-kabc-oc-costco-gas-station-vid.jpg?w=1600",
+      "publishedAt": "2026-06-27T13:57:00Z",
       "source": {
-        "name": "Arkansas Online"
+        "name": "KABC-TV"
       }
     },
     {
-      "title": "Oil prices tumble over 3% as Strait of Hormuz shipping eases supply fears",
-      "description": "Oil prices fell more than 3% and posted steep weekly losses as tanker traffic through the Strait of Hormuz increased, easing supply concerns despite a cargo ship attack near Oman, while markets also weighed expectations of stronger global crude supplies.",
-      "url": "https://www.firstpost.com/world/oil-prices-tumble-over-3-as-strait-of-hormuz-shipping-eases-supply-fears-14026717.html",
-      "image": "https://images.firstpost.com/uploads/2026/05/Representational-Image-86-2026-05-c1bad62dba52e1653637171868a4f0c0.jpg?im=FitAndFill=(1200,675)",
-      "publishedAt": "2026-06-27T05:37:46Z",
+      "title": "Sainsbury's thief and burglar jailed for string of offences in Middlesbrough",
+      "description": "Michael Lee Lawrence, from Hartlepool, targeted a Sainbury's petrol station and stole from its stores in Middlesbrough",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/michael-lawrence-sainsburys-theft-middlesbrough-34194876",
+      "image": "https://i2-prod.gazettelive.co.uk/article34195067.ece/ALTERNATES/s1200d/0_NCR_MGA_260626_lawrence.jpg",
+      "publishedAt": "2026-06-27T13:03:53Z",
       "source": {
-        "name": "Firstpost"
+        "name": "Teessidelive"
       }
     },
     {
-      "title": "Nifty, Sensex post modest weekly gains as crude oil prices dip",
-      "description": "Nifty, Sensex post modest weekly gains as crude oil prices dip - Mumbai, June 27 The Indian equity benchmarks posted a third consecutive week of gains, over sharp correction in ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/nifty-sensex-post-modest-weekly-gains-as-crude-oil-prices-dip-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/db88ae978abbeb3b2d422093803d2ae6_202606.jpg",
-      "publishedAt": "2026-06-27T05:33:16Z",
+      "title": "Petrol and diesel drivers giving up cars over \u00a320 charge hike",
+      "description": "30 per cent say they are more likely to consider an electric vehicle (EV) next time",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-diesel-drivers-giving-up-34162432",
+      "image": "https://i2-prod.birminghammail.co.uk/article34162442.ece/ALTERNATES/s1200d/0_driving-licence.jpg",
+      "publishedAt": "2026-06-27T12:22:00Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Nifty, Sensex post modest weekly gains as crude oil prices dip",
-      "description": "Nifty, Sensex post modest weekly gains as crude oil prices dip - Mumbai, June 27 The Indian equity benchmarks posted a third consecutive week of gains, over sharp correction in ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/nifty-sensex-post-modest-weekly-gains-as-crude-oil-prices-dip/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/db88ae978abbeb3b2d422093803d2ae6_202606.jpg",
-      "publishedAt": "2026-06-27T05:33:16Z",
+      "title": "College student arrested in Bathinda petrol bomb case linked to Pak handler",
+      "description": "Police arrest third accused who allegedly paid two others \u20b9500 each to attack BJP leader\u2019s clinic, then forwarded video of incident across the border.",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/college-student-arrested-in-bathinda-petrol-bomb-case-linked-to-pak-handler-101782560696221.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/27/550x309/Sandeep-Singh--23---face-covered---the-third-accus_1782560694071.jpg",
+      "publishedAt": "2026-06-27T11:44:55Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Oil prices fall to pre-war levels but well-stocked India unlikely to lap up Iran crude",
-      "description": "New Delhi has been snapping up oil from countries around the world and has now fully met its needs for July and the first half of August",
-      "url": "https://www.telegraphindia.com/business/oil-prices-fall-to-pre-war-levels-but-well-stocked-india-unlikely-to-lap-up-iran-crude/cid/2167469",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1782534553_iran-crude-price.gif",
-      "publishedAt": "2026-06-27T04:30:19Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12465183",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-6-23goodmorningnorthbaybct-5-freshly-overhauled-go-transit-train-at-trout-creek-ontario.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-06-27T10:00:00Z",
       "source": {
-        "name": "Telegraph India"
+        "name": "BayToday"
       }
     },
     {
-      "title": "Two-year yields dip as Hormuz flows rise, hopes on inflation grow",
-      "description": "Treasury yields dipped Friday as falling oil prices, linked to increased Strait of Hormuz shipments, sparked hopes of easing inflation. While the Federal Reserve remains watchful of price pressures, traders are assessing the likelihood of future rate hikes. Despite some hawkish signals from policymakers, the prevailing sentiment suggests a pause in rate increases, with economists largely expecting rates to hold steady this year.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/two-year-yields-dip-as-hormuz-flows-rise-hopes-on-inflation-grow/articleshow/132028369.cms",
-      "image": "https://img.etimg.com/thumb/msid-132028448,width-1200,height-630,imgsize-6919,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-27T04:05:00Z",
+      "title": "Oil and gas prices drop in time for Fourth of July driving",
+      "description": "Oil and gas prices continue to fall ahead of the Fourth of July weekend as shipping traffic through the Strait of Hormuz cautiously resumed.",
+      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4626796/oil-and-gas-prices-drop-ahead-of-the-fourth-of-july-holiday/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/06/AP26156453832541.jpg?resize=1200,683",
+      "publishedAt": "2026-06-27T10:00:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Washington Examiner"
       }
     },
     {
-      "title": "Stocks to buy below \u20b9100: Mehul Kothari of Anand Rathi recommends three shares to buy or sell",
-      "description": "Next week, Bank Nifty's trading range is set between 57,000 and 59,000, with breakouts suggesting future trends. Analyst Mehul Kothari advises buying Trident, UCO Bank, and MMTC under \u20b9100, as the Indian market remains strong amid mixed signals and easing crude oil prices.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-below-100-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-or-sell-11782531566876.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/27/1600x900/logo/Mehul_Kothari_of_Anand_Rathi_1782531987534_1782531987751_fb0d9ca5-71a4-4d6f-bba4-af05c47a96d3.JPG",
-      "publishedAt": "2026-06-27T04:01:22Z",
+      "title": "War Levels As Traffic Through Strait Of Hormuz Improves",
+      "description": "Crude oil prices have retreated to the levels seen before the Iran war started, easing concerns over further supply disruption.",
+      "url": "https://www.outlookmoney.com/invest/crude-oil-price-pre-war-level-strait-of-hormuz",
+      "image": "https://media.assettype.com/outlookmoney/2026-06-27/mirkjt7t/crude-oil-price.jpg?w=1200",
+      "publishedAt": "2026-06-27T09:59:01Z",
       "source": {
-        "name": "Livemint"
+        "name": "Outlook Money"
       }
     },
     {
-      "title": "Dollar declines for second straight day but set for weekly gain",
-      "description": "The dollar dipped for a second day as easing inflation and falling oil prices tempered expectations for Federal Reserve rate hikes. Despite this pullback, the greenback remains strong for the week and month. Meanwhile, the yen hovers near a critical level, raising intervention concerns. Analysts suggest a cautious approach to the dollar against the yen ahead of key U.S. jobs data.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-declines-for-second-straight-day-but-set-for-weekly-gain/articleshow/132028297.cms",
-      "image": "https://img.etimg.com/thumb/msid-132028307,width-1200,height-630,imgsize-230788,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-27T03:57:00Z",
+      "title": "Drivers in Spain could save \u20ac300 a year by choosing these petrol stations",
+      "description": "Drivers in Spain could save up to \u20ac300 a year by choosing cheaper petrol station chains, according to OCU\u2019s 2026 fuel ranking.",
+      "url": "https://euroweeklynews.com/2026/06/27/drivers-in-spain-could-save-e300-a-year-by-choosing-these-petrol-stations/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/06/Petrol-Savings-WEB.png",
+      "publishedAt": "2026-06-27T09:10:26Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Euro Weekly News"
       }
     }
   ]
