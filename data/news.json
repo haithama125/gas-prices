@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-29T10:21:54+00:00",
+  "updated_at": "2026-06-29T15:30:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil climbs following renewed US, Iran strikes in Middle East",
-      "description": "Oil prices rose on Monday following days of tit-for-tat strikes by the United States and Iran in the Middle East that underscored the fragility of their interim peace deal and again slowed energy...",
-      "url": "https://www.marketscreener.com/news/oil-climbs-following-renewed-us-iran-strikes-in-middle-east-ce7f5fded88ff322",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-28T221451Z_1_LYNXMPEM5R0QA_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG",
-      "publishedAt": "2026-06-28T22:10:15Z",
+      "title": "India regains top spot in EM tracker, but higher cost pressures continue to linger",
+      "description": "Stronger exports and factory activity helped India reclaim the top spot in Mint's Emerging Markets Tracker. However, higher crude prices during the West Asia war have raised wholesale inflation and input costs, delaying relief for businesses despite the recent easing in oil prices.",
+      "url": "https://www.livemint.com/economy/mint-emerging-markets-tracker-india-economy-exports-manufacturing-pmi-crude-oil-prices-rupee-wholesale-inflation-11782671017357.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/29/1600x900/logo/PTI06-18-2026-000118A-0_1782699023197_1782699042037_18ccbf7e-7284-4379-8e68-0af9860562ba.jpg",
+      "publishedAt": "2026-06-29T03:30:15Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Stock Market Today: Sensex, Nifty Likely To See A Muted Start Amid US",
+      "description": "Stock Market Today: A mix of geopolitical tensions in West Asia, subdued Asian markets and higher crude oil prices could keep benchmark indices range-bound at the start of trade on July 29.",
+      "url": "https://www.outlookmoney.com/invest/stock-market-today-sensex-nifty-muted-start-us-iran-uncertainty",
+      "image": "https://media.assettype.com/outlookmoney/2026-06-29/z7lpbe6x/stock-market-today.jpg?w=1200",
+      "publishedAt": "2026-06-29T03:20:14Z",
+      "source": {
+        "name": "Outlook Money"
+      }
+    },
+    {
+      "title": "Gold Slips As Fresh US-Iran Strikes Boost Oil, Fed Rate-Hike Bets Weigh",
+      "description": "Gold prices eased on Monday as recent U.S.-Iran strikes in the Gulf pushed oil prices higher, while expectations of U.S. Federal Reserve interest rate hikes further weighed on the non-yielding metal.",
+      "url": "https://www.republicworld.com/business/gold-slips-as-fresh-us-iran-strikes-boost-oil-fed-rate-hike-bets-weigh-2026-06-29-130365",
+      "image": "https://img.republicworld.com/all_images/gold-price-1745323698375-16_9.webp",
+      "publishedAt": "2026-06-29T03:17:49Z",
+      "source": {
+        "name": "Republic World"
+      }
+    },
+    {
+      "title": "Nifty, Sensex Eye Cautious Start As US-Iran Stand Down After Fresh Clashes",
+      "description": "Investors are expected to keenly observe stock market triggers, including the developments over the US-Iran peace talks, India-US trade deal, trends in FPI flows, and crude oil prices.",
+      "url": "https://www.republicworld.com/business/nifty-sensex-eye-cautious-start-as-us-iran-stand-down-after-fresh-clashes-2026-06-29-130363",
+      "image": "https://img.republicworld.com/all_images/sensex-nifty-1766145135963-16_9.webp",
+      "publishedAt": "2026-06-29T03:10:51Z",
+      "source": {
+        "name": "Republic World"
+      }
+    },
+    {
+      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh",
+      "description": "Gold prices eased on Monday as recent U.S.-Iran \u200cstrikes in the Gulf pushed oil prices higher, while expectations of U.S. Federal Reserve interest rate hikes further weighed on the non-yielding metal.",
+      "url": "https://www.reuters.com/world/india/gold-slips-fresh-us-iran-strikes-boost-oil-fed-rate-hike-bets-weigh-2026-06-29/",
+      "image": "https://www.reuters.com/resizer/v2/B7IRKAEH2JPN3MZLZLOML64VII.jpg?auth=b49b66e432a72e67050b2098142118f5637963913454c6988ce797f51dfac90a&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-29T02:56:48Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Gold slips as fresh US-Iran strikes boost oil, Fed rate-hike bets weigh",
+      "description": "Gold prices eased on Monday as recent U.S.-Iran strikes in the Gulf pushed oil prices higher, while expectations of U.S. Federal Reserve interest rate hikes further weighed on the non-yielding metal....",
+      "url": "https://www.marketscreener.com/news/gold-slips-as-fresh-us-iran-strikes-boost-oil-fed-rate-hike-bets-weigh-ce7f5fdedb8ff724",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-06/2026-06-18T030610Z_1_LYNXMPEM5H03N_RTROPTP_4_GLOBAL-PRECIOUS.JPG",
+      "publishedAt": "2026-06-29T02:55:17Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Foreign Outflows Thin Down on Healthier Cues",
-      "description": "Overseas investors slowed selling of Indian equities in June, with monthly outflows on track to be the lowest in this years selling months as easing crude oil prices and receding geopolitical tensions helped improve sentiment.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jun/29/et-front/foreign-outflows-thin-down-on-healthier-cues/articleshow/132058696.cms",
-      "image": "https://img.etimg.com/thumb/msid-132059787,width-1200,height-630,imgsize-328754,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-28T21:34:00Z",
+      "title": "GIFT Nifty flat, signals muted opening for Sensex, Nifty on US-Iran uncertainty; Asia markets slip, oil rises",
+      "description": "Indian markets are set for a flat open amid renewed Middle East tensions, as GIFT Nifty signals little change after a three-day weekend. Investors are watching US-Iran talks, oil prices, and global cues.",
+      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-flat-signals-muted-opening-for-sensex-nifty-on-us-iran-uncertainty-asia-markets-slip-oil-rises-13960719.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260604040853_volatile-market.jpg",
+      "publishedAt": "2026-06-29T02:55:13Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Foreign Outflows Thin Down on Healthier Cues",
-      "description": "Overseas investors slowed selling of Indian equities in June, with monthly outflows on track to be the lowest in this years selling months as easing crude oil prices and receding geopolitical tensions helped improve sentiment.",
-      "url": "https://economictimes.indiatimes.com/et-front/foreign-outflows-thin-down-on-healthier-cues/articleshow/132058696.cms",
-      "image": "https://img.etimg.com/thumb/msid-132059787,width-1200,height-630,imgsize-328754,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-28T21:34:00Z",
+      "title": "Rupee likely to shrug off US-Iran flare-up; limited impact on oil, Asia FX",
+      "description": "The Indian rupee is set to open largely flat to slightly weaker on Monday, with fresh U.S.-Iran hostilities having little impact on oil prices, risk appetite and Asian currencies.\nThe...",
+      "url": "https://www.marketscreener.com/news/rupee-likely-to-shrug-off-us-iran-flare-up-limited-impact-on-oil-asia-fx-ce7f5fdedb8cfe2d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-02/2026-02-03T011419Z_1_LYNXMPEM1201T_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-06-29T02:54:46Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Oil Prices Near $70 a Barrel as Strait of Hormuz Evacuation Plan Raises Hopes for Normalized Flow",
-      "description": "Oil Prices Drop on Evacuation Plan Oil prices traded near $70 a barrel on Wednesday, June 24, as an evacuation plan for vessels trapped in the Strait of Hormuz raised hopes for normalized energy flows, according to market data. Brent crude futures fell below $75 a barrel on June 23, while West Texas Intermediate crude [\u2026]",
-      "url": "https://www.naturalnews.com/2026-06-28-oil-prices-hormuz-evacuation-plan-normalized-flow.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/06/strait-of-hormuz-brent-crude-wti-2321-original.jpg",
-      "publishedAt": "2026-06-28T17:40:40Z",
+      "title": "Petrol, diesel prices today, June 29: Prices to rise again? Check prices in Delhi, Mumbai, Kolkata and other cities",
+      "description": "In Delhi, petrol continues to retail above Rs 100.\u00a0It\u00a0now costs Rs 102.12 per litre and diesel Rs 95.20 per litre, following the latest increase.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-29-prices-to-rise-again-check-prices-in-delhi-mumbai-kolkata-and-other-cities-539594-2026-06-29",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a41d8e95d87d-petrol--diesel-price-today--june-29-293059101-16x9.jpeg",
+      "publishedAt": "2026-06-29T02:32:35Z",
       "source": {
-        "name": "Natural News"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Mid, smallcap selling weighs on market breadth; easing oil prices may help",
-      "description": "Profit booking in small-cap stocks and a revival in IPO activity kept market breadth weak in June, though easing oil prices may support a broader recovery",
-      "url": "https://www.business-standard.com/markets/news/mid-smallcap-selling-weighs-on-market-breadth-easing-oil-prices-may-help-126062800439_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/thumb/fitandfill/1200X628/1782663969-3199.jpg",
-      "publishedAt": "2026-06-28T16:26:50Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Pakistan mulls over purchase of cheaper gas, oil from Iran after US eases sanctions on Tehran",
-      "description": "During the height of the US-Iran war, petroleum prices increased to PKR 414 per litre in Pakistan; Currently, petrol is priced at PKR 300 per litre",
-      "url": "https://www.telegraphindia.com/world/pakistan-mulls-over-purchase-of-cheaper-gas-oil-from-iran-after-us-eases-sanctions-on-tehran/cid/2167654",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Jun/1782663498_pakiran.jpg",
-      "publishedAt": "2026-06-28T16:19:55Z",
-      "source": {
-        "name": "Telegraph India"
-      }
-    },
-    {
-      "title": "Tankers & drums seized in Bokaro admin\u2019s crackdown against fuel theft",
-      "description": "Bokaro officials and police busted a fuel theft racket, seizing tankers, drums and 5,000 litres of petrol, diesel and ethanol in raids across Sector-12, Balidih and Garga Dam.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/tankers-drums-seized-in-bokaro-admins-crackdown-against-fuel-theft/articleshow/132054884.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132054873,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-28T16:18:00Z",
+      "title": "Stock Market Live Updates Today: BSE Sensex, Nifty50 set for cautious start on US",
+      "description": "Stock Market Live Updates Today: GIFT Nifty indicates a cautious start to the week for Nifty50 and BSE Sensex on Monday. Crude oil prices moved highe",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-29-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132061302.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132061302,width-1280,height-720,imgsize-103350,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-29T02:29:47Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "External gap to widen as global risks increase",
-      "description": "THE country\u2019s external position is expected to remain under pressure through 2027, with the Bangko Sentral ng Pilipinas (BSP) projecting a wider balance of payments (BOP) deficit amid elevated global risks, higher oil prices and structural constraints.",
-      "url": "https://www.manilatimes.net/2026/06/29/business/top-business/external-gap-to-widen-as-global-risks-increase/2374367",
-      "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-      "publishedAt": "2026-06-28T16:16:00Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Oil price relief fails to lift peso vs dollar",
-      "description": "A DECLINE in global oil prices has done little to ease pressure on the peso as weaknesses in the country's external accounts continue to weigh on the currency, ANZ Research said.",
-      "url": "https://www.manilatimes.net/2026/06/29/business/top-business/oil-price-relief-fails-to-lift-peso-vs-dollar/2374365",
-      "image": "https://cdnx.premiumread.com/?url=https://www.manilatimes.net/theme_manilatimes/images/TMT_1920x1008.jpg&w=1920&q=100&f=webp&v=1",
-      "publishedAt": "2026-06-28T16:14:00Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Make fossil fuel companies pay for N.J.\u2019s climate damage | Opinion",
-      "description": "The Polluters Pay Act would shift $50 billion in climate costs from New Jersey families to the corporations responsible for the damage, without raising gas prices.",
-      "url": "https://www.nj.com/opinion/2026/06/make-fossil-fuel-companies-pay-for-njs-climate-damage-opinion.html",
-      "image": "https://www.nj.com/resizer/v2/WDML3MBULRGGBE7CZCNEGFQ5SI.JPG?auth=bb36b0902a611ca5ba4a6770dfc15ee7f8a5f683a336dfb46a4d78cca8127573&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-06-28T16:00:00Z",
-      "source": {
-        "name": "NJ.com"
       }
     }
   ]
