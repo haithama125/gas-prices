@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-28T19:02:23+00:00",
+  "updated_at": "2026-06-29T02:33:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mcap of 6 of top-10 most valued firms climbs Rs 88,678 cr; ICICI Bank biggest winner",
-      "description": "Indian stock markets saw a modest gain last week, with the top 10 companies adding Rs 88,678.1 crore in market valuation. ICICI Bank led the surge, followed by HDFC Bank and Reliance Industries. However, Bharti Airtel, TCS, and LIC experienced significant valuation drops. This positive market sentiment was attributed to easing crude oil prices and improved geopolitical developments.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcap-of-6-of-top-10-most-valued-firms-climbs-rs-88678-cr-icici-bank-biggest-winner/articleshow/132046789.cms",
-      "image": "https://img.etimg.com/thumb/msid-132046789,width-1200,height-630,imgsize-14916,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-28T06:59:00Z",
+      "title": "San Diego gas prices still high, but heading lower as July 4 weekend nears",
+      "description": "Fuel analysts expect prices to keep dropping, provided that the tenuous deal between the U.S. and Iran stays in place.",
+      "url": "https://www.sandiegouniontribune.com/2026/06/28/san-diego-gas-prices-still-high-but-heading-lower-as-july-4-weekend-nears/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/06/SUT-L-GAS-PRICES-0626-003.jpg?w=1024&h=683",
+      "publishedAt": "2026-06-28T13:00:30Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "FIIs Return To Indian Markets, Rupee Strengthens To 94.40/$ as Selling Eases After 9 Trading Sessions",
-      "description": "Foreign institutional investors (FIIs) are gradually returning to Indian equities as the rupee strengthens and volatility in South Korean and Taiwanese markets shifts investment flows. Lower crude oil prices and hopes of an India-US trade deal have also improved market sentiment despite weak corporate earnings.",
-      "url": "https://www.freepressjournal.in/business/fiis-return-to-indian-markets-rupee-strengthens-to-9440-as-selling-eases-after-9-trading-sessions",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-13/gvxszbpr/fii-selling.jpg",
-      "publishedAt": "2026-06-28T06:06:46Z",
+      "title": "\u2018Grab and go\u2019 Margate thief with 112 offences smashed wine bottle amid police pursuit",
+      "description": "A \"grab and go\" thief who has amassed 112 offences smashed a wine bottle during a police pursuit after stealing from a petrol station.",
+      "url": "https://www.kentonline.co.uk/thanet/news/grab-and-go-thief-with-112-offences-smashed-wine-bottle-am-341868/",
+      "image": "https://www.kentonline.co.uk/_media/img/S3V3YD7CS2W4ROF7UVBW.jpg",
+      "publishedAt": "2026-06-28T13:00:00Z",
+      "source": {
+        "name": "Kent Online"
+      }
+    },
+    {
+      "title": "'Mandatory' new petrol station rule for every UK petrol and diesel driver",
+      "description": "Fuel Finder is a new scheme designed to help drivers find the cheapest fuel near them.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/mandatory-new-petrol-station-rule-34172793",
+      "image": "https://i2-prod.birminghammail.co.uk/article34172841.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-06-28T12:44:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Man held for trying to kill woman by setting her on fire",
+      "description": "28-year-old Sundargarh man arrested for allegedly trying to kill a woman by pouring petrol through a window and setting her on fire; victim critical with 40% burns.",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/man-held-for-trying-to-kill-woman-by-setting-her-on-fire/articleshow/132051402.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132051401,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-28T12:37:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "FMCG firms stall price hikes as lower oil prices support volume growth",
+      "description": "Consumer goods companies are delaying planned price hikes as easing crude oil prices reduce input cost pressures, helping them protect volume growth amid a fragile demand recovery",
+      "url": "https://www.business-standard.com/industry/news/fmcg-firms-stall-price-hikes-as-lower-oil-prices-support-volume-growth-126062800499_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/01/thumb/fitandfill/1200X628/1780252925-1489.jpg",
+      "publishedAt": "2026-06-28T11:49:13Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "The Market Is Dead Wrong: I'm Buying Dirt-Cheap Energy Stocks",
+      "description": "Energy sector fundamentals strengthen as Iran War de-risks, oil prices normalize, and cyclical growth accelerates. Check out the stocks that I favor here.",
+      "url": "https://seekingalpha.com/article/4917828-the-market-is-dead-wrong-im-buying-dirt-cheap-energy-stocks",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1643001950/image_1643001950.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-06-28T11:30:00Z",
+      "source": {
+        "name": "Seeking Alpha"
+      }
+    },
+    {
+      "title": "WPIL Ltd Barred From Future MP Jal Nigam Tenders For Up To 3 Years, Company Says Existing Business & Operations Will Not Be Affected",
+      "description": "Indian stock markets ended the holiday-shortened week with gains, keeping the positive trend intact. Analysts believe the Nifty could move higher if it crosses 24,500, while the Sensex may rally towards 79,000. Falling crude oil prices and easing geopolitical tensions have improved investor confidence.",
+      "url": "https://www.freepressjournal.in/business/wpil-ltd-barred-from-future-mp-jal-nigam-tenders-for-up-to-3-years-company-says-existing-business-operations-will-not-be-affected",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-28/afun45j5/wpil-ltd.jpg",
+      "publishedAt": "2026-06-28T11:01:14Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "Pakistan hikes levy on petrol, diesel; retail prices unchanged",
-      "description": "Pakistan raises petroleum levies on petrol and diesel while keeping retail prices unchanged amid declining global oil prices.",
-      "url": "https://www.thehindubusinessline.com/news/world/pakistan-hikes-levy-on-petrol-diesel-retail-prices-unchanged/article71157109.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/dyn1h6/article71157120.ece/alternates/LANDSCAPE_1200/iStock-476040646.jpg",
-      "publishedAt": "2026-06-28T05:19:31Z",
+      "title": "Nifty Faces Strong Resistance At 24,500, Sensex May Climb Towards 79,000 If Bullish Momentum Continues",
+      "description": "Indian stock markets ended the holiday-shortened week with gains, keeping the positive trend intact. Analysts believe the Nifty could move higher if it crosses 24,500, while the Sensex may rally towards 79,000. Falling crude oil prices and easing geopolitical tensions have improved investor confidence.",
+      "url": "https://www.freepressjournal.in/business/nifty-faces-strong-resistance-at-24500-sensex-may-climb-towards-79000-if-bullish-momentum-continues",
+      "image": "https://media.assettype.com/freepressjournal/2025-11-24/dg4qu87g/sENSEX-NIFTY-8.jpg",
+      "publishedAt": "2026-06-28T10:44:13Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Pakistan hikes petroleum levy on petrol, diesel; keeps retail prices unchanged",
-      "description": "Pakistan raises petroleum levies on petrol and diesel while keeping retail prices unchanged amid declining global oil prices.",
-      "url": "https://www.thehindubusinessline.com/news/world/pakistan-hikes-petroleum-levy-on-petrol-diesel-keeps-retail-prices-unchanged/article71157109.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/dyn1h6/article71157120.ece/alternates/LANDSCAPE_1200/iStock-476040646.jpg",
-      "publishedAt": "2026-06-28T05:19:31Z",
+      "title": "Gold, silver face fresh test as US dollar, Iran crisis to shape week ahead: Analysts",
+      "description": "NEW DELHI, June 28: \u00a0Gold and silver are likely to remain under pressure next week as investors assess the impact of renewed hostilities between the US and Iran, movement in crude oil prices and a raft of macroeconomic data, analysts...",
+      "url": "https://www.dailyexcelsior.com/gold-silver-face-fresh-test-as-us-dollar-iran-crisis-to-shape-week-ahead-analysts/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTE3NzhiNjYwLTcyZGEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-06-28T10:14:03Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months",
-      "description": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months - Seoul, June 28 The average gasoline price at South Korea's gas stations again fell from a day earlier ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/gas-prices-fall-under-2000-korean-won-for-1st-time-in-nearly-2-months-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260419059_202606.jpg",
-      "publishedAt": "2026-06-28T04:43:43Z",
+      "title": "US-Iran Tensions, Crude Oil Prices To Drive Stock Market Mood This Week",
+      "description": "Foreign portfolio investor activity and the pace of the southwest monsoon's advance will also stay on investors' radar.",
+      "url": "https://www.ndtvprofit.com/markets/us-iran-conflict-crude-oil-prices-to-drive-stock-market-mood-this-week-11698278",
+      "image": "https://c.ndtvimg.com/2026-06/o59sqjk8_stock-market_625x300_28_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-28T10:10:56Z",
       "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months",
-      "description": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months - Seoul, June 28 The average gasoline price at South Korea's gas stations again fell from a day earlier ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/gas-prices-fall-under-2000-korean-won-for-1st-time-in-nearly-2-months/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260419059_202606.jpg",
-      "publishedAt": "2026-06-28T04:43:43Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months",
-      "description": "Gas prices fall under 2,000 Korean won for 1st time in nearly 2 months - Seoul, June 28 The average gasoline price at South Korea's gas stations again fell from a day earlier ... Get Latest News on International only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/international/gas-prices-fall-under-2000-korean-won-for-1st-time-in-nearly-2-months-2/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260419059_202606.jpg",
-      "publishedAt": "2026-06-28T04:43:43Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Will Sensex, Nifty extend gains or turn volatile? Q1 updates, F&O expiry among 8 factors set to steer stock market this week",
-      "description": "Indian markets head into a crucial week with investors tracking Q1 business updates, June F&O expiry, auto sales data, FII flows, crude oil prices, monsoon progress, US bond yields and key macroeconomic releases. While benchmark indices have remained resilient, profit booking in broader markets signals caution as traders assess domestic and global cues for the next leg of market direction.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-or-turn-volatile-q1-updates-fo-expiry-among-8-factors-set-to-steer-stock-market-this-week/articleshow/132045460.cms",
-      "image": "https://img.etimg.com/thumb/msid-132045457,width-1200,height-630,imgsize-255918,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-28T04:28:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today, June 28: Check latest prices in Delhi, Mumbai, Kolkata and other cities",
-      "description": "In Delhi, petrol continues to retail above \u20b9100. It now costs \u20b9102.12 per litre and diesel \u20b995.20 per litre, following the latest increase.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-june-28-check-latest-prices-in-delhi-mumbai-kolkata-and-other-cities-539560-2026-06-28",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a40a0e8e72dc-in-major-cities-such-as-bengaluru--hyderabad--and-kolkata--petrol-prices-are-still-above-110-per-li-281947335-16x9.jpeg",
-      "publishedAt": "2026-06-28T04:20:14Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Pakistan hikes petroleum levy on petrol, diesel; keeps retail prices unchanged",
-      "description": "Pakistan's government has increased the petroleum levy on petrol and diesel, keeping retail prices steady despite falling international oil rates. Consumers will continue paying the same for petrol and diesel, while kerosene prices have been reduced. This move boosts government revenue as global oil prices hit pre-war lows following a US-Iran accord and the reopening of the Strait of Hormuz.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-hikes-petroleum-levy-on-petrol-diesel-keeps-retail-prices-unchanged/articleshow/132045336.cms",
-      "image": "https://img.etimg.com/thumb/msid-132045348,width-1200,height-630,imgsize-49300,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-28T04:12:00Z",
-      "source": {
-        "name": "The Economic Times"
+        "name": "NDTV Profit"
       }
     }
   ]
