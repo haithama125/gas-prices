@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-30T08:56:18+00:00",
+  "updated_at": "2026-06-30T13:55:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Toyota May global sales drop 7.2%; down for 4th month, on weak China demand",
-      "description": "Toyota Motor Corp said Monday its global sales in May dropped 7.2 percent from a year earlier to 834,279 units, marking the fourth straight month of decline, reflecting sluggish demand in China hit by higher gasoline prices amid the Middle East conflict. Its exports from Japan to the Middle East\u2026",
-      "url": "https://japantoday.com/category/business/update1-toyota-may-global-sales-drop-7.2-down-for-4th-month-on-weak-china-demand",
-      "image": "https://media.japantoday.com/img/store/43/69/65c515a88d7ce9951d23bab9a45e53e3afca/_w1700-35/_w1700.jpeg",
-      "publishedAt": "2026-06-29T20:50:00Z",
+      "title": "US-Iran war LIVE: Uncertainty shrouds talks in Doha as Tehran rejects Trump's claims; oil prices fall",
+      "description": "US-Iran war LIVE updates: The United States and Iran separately confirmed on Monday that they would send delegations to Qatar. However, Tehran said that it has not agreed to hold talks with the US. Meanwhile, oil prices fell on Tuesday over the potential talks in Doha. | World News",
+      "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-doha-talks-qatar-trump-tehran-peace-deal-ceasefire-strait-of-hormuz-oil-prices-lebanon-israel-101782783128182.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/30/550x309/trump_khamenei_us_iran_1782783546330_1782783582759_ec5db4fe-2daa-4479-be0d-f6e2c2f71af6.png",
+      "publishedAt": "2026-06-30T01:53:53Z",
       "source": {
-        "name": "Japan Today"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Trump official claims gas prices cheaper per gallon in red states",
-      "description": "A Trump official told drivers to fill up their gas tanks in \"red states,\" claiming that gas prices there are 53 cents cheaper per gallon than in \"blue states.\" During an appearance on Fox News, Interior Secretary Doug Burgum was asked about \"hidden gems\" in the US's parks. He encouraged the public to visit national parks, saying: \"Walk for an hour, and you\u2019re going to find yourself in a spot where you can reflect on the amazing abundance of resources that we have in this country.\" Burgum went on to claim that gas prices were 53 cents cheaper per gallon in \"red states\" compared to \"blue states.\" \"Gas up in a red state. On average nationally right now this weekend it\u2019s 53 cents cheaper per gallon to fill up your car in a red state than it is in a blue state,\" he stated. According to the American Automobile Association, the national gas price average per gallon is $3.86 as of Monday (29 June). Some states, such as California, saw prices of more than $5 per gallon.",
-      "url": "https://www.independent.co.uk/tv/news/trump-gas-prices-red-state-b3005340.html",
-      "image": "https://cdn.jwplayer.com/v2/media/3SMtTJsZ/poster.jpg?width=720",
-      "publishedAt": "2026-06-29T20:24:31Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Petrol, diesel retail sale curbs for commercial users lifted",
-      "description": "India News: NEW DELHI: Rolling back yet another emergency measure introduced to ensure equitable distribution of fuel during West Asia conflict, govt Monday decid.",
-      "url": "https://timesofindia.indiatimes.com/india/petrol-diesel-retail-sale-curbs-for-commercial-users-lifted/articleshow/132079278.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132079275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-29T20:18:00Z",
+      "title": "Oil prices ease as investors await US-Iran talks; Brent crude falls to $72 per barrel",
+      "description": "International Business News: Oil prices continued to ease on Tuesday as markets tracked the outcome of potential US-Iran engagement in Doha, even as weekend missile exchanges sign.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-investors-await-us-iran-talks-brent-crude-falls-to-72-per-barrel/articleshow/132081875.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132081926,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-30T01:46:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Strait of Hormuz: The Turbulent Path to Peace",
-      "description": "Iran and the U.S. are engaged in complex negotiations aimed at extending a ceasefire and ensuring safe passage through the Strait of Hormuz. As tensions simmer, Iran plans to charge fees for strait use, affecting global oil prices. The discussions also encompass Iran's nuclear ambitions and regional conflicts.",
-      "url": "https://www.devdiscourse.com/article/politics/3942583-strait-of-hormuz-the-turbulent-path-to-peace",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_19_04_18_281562.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-29T20:17:30Z",
+      "title": "Oil falls as investors focus on potential Iran-US talks in Doha",
+      "description": "Oil prices dipped as markets keenly watched potential U.S.-Iran talks in Doha, following recent missile exchanges that tested a fragile ceasefire. While investors express cautious optimism for de-escalation and a return to normal shipping through the Strait of Hormuz, uncertainty lingers. Middle Eastern producers are actively loading oil and LNG, with analysts predicting a recovery in Gulf flows to pre-war levels soon.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-investors-focus-on-potential-iran-us-talks-in-doha/articleshow/132081917.cms",
+      "image": "https://img.etimg.com/thumb/msid-132081924,width-1200,height-630,imgsize-76316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-06-30T01:44:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Markets Surge Amid U.S.-Iran Tensions and Tech Rebound",
-      "description": "Global markets rose due to an interim peace deal between Iran and the U.S., despite ongoing tensions and rising oil prices. Wall Street performed well with technology shares rebounding. Investors are cautious, especially with anticipated Federal Reserve rate hikes and fragile conditions in the Strait of Hormuz.",
-      "url": "https://www.devdiscourse.com/article/business/3942575-markets-surge-amid-us-iran-tensions-and-tech-rebound",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_15_33_39_3673019.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-29T19:45:26Z",
+      "title": "Trump warns US fuel retailers: Cut gasoline prices immediately or face 'big problems'",
+      "description": "US President Donald Trump has urged fuel retailers to cut gasoline prices immediately, saying crude oil has fallen to around $68 a barrel. He warned of \"big problems\" for retailers that fail to lower pump prices and renewed his criticism of California's fuel taxes",
+      "url": "https://www.firstpost.com/business/trump-warns-us-fuel-retailers-cut-gasoline-prices-big-problems-14027607.html",
+      "image": "https://images.firstpost.com/uploads/2026/03/2026-03-09T222743Z_115818467_RC291KA8UU0Q_RTRMADP_3_USA-TRUMP-2026-03-1ce3cbc4398688e09f36878d276cd7e2-1200x675.jpg?im=FitAndFill=(1200,675)",
+      "publishedAt": "2026-06-30T01:25:47Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Firstpost"
       }
     },
     {
-      "title": "Here\u2019s Where Gas Prices Are Falling Fastest Amid Iran War Negotiations",
-      "description": "The national average price for a gallon of regular gasoline has fallen below $4, dropping to about $3.86.",
-      "url": "https://www.newsweek.com/heres-where-gas-prices-are-falling-fastest-amid-iran-war-negotiations-12137041",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/06/GettyImages-2268719972.jpg?w=1200&crop=1",
-      "publishedAt": "2026-06-29T19:43:39Z",
+      "title": "Trump tells gas stations to slash prices or face \u2018big problems\u2019 ahead",
+      "description": "President Donald Trump urged gas station owners to lower gas prices to $2.50 a gallon, warning of consequences and criticizing California gas tax policies.",
+      "url": "https://www.foxbusiness.com/politics/trump-demands-gas-stations-lower-pump-prices-immediately-renews-push-2-50-gasoline",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/0/0/gas1.jpg?ve=1&tl=1",
+      "publishedAt": "2026-06-30T01:25:02Z",
       "source": {
-        "name": "Newsweek"
+        "name": "Fox Business"
       }
     },
     {
-      "title": "Dollar Retreats as Stocks Rally",
-      "description": "The dollar index (DXY00 ) on Monday fell by -0.26%. The dollar retreated as Monday's stock rally curbed liquidity demand for the dollar. However, losses in the dollar were limited as Monday's +2% jump in WTI crude oil prices has strengthened inflat...",
-      "url": "https://www.barchart.com/story/news/3039260/dollar-retreats-as-stocks-rally",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Opened%20wallet%20with%20US%20dollars%20on%20table%20by%20olyasolod%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-06-29T19:35:28Z",
+      "title": "India's oil import cost falls below $70, first since Iran war began. But petrol, diesel price cut unlikely",
+      "description": "The average price of the Indian basket of crude fell to $68.86 a barrel, down more than 56% from a peak of $157.04 on March 23 after the outbreak of the war. | India News",
+      "url": "https://www.hindustantimes.com/india-news/india-oil-import-cost-falls-below-70-dollars-a-barrel-first-since-us-iran-war-began-but-petrol-diesel-price-cut-unlikely-101782781325960.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/30/550x309/PTI05-15-2026-000125B-0_1782781633338_1782781650845_bc1a71f5-9ac0-4fb6-aa89-dc6ca9c5e488.jpg",
+      "publishedAt": "2026-06-30T01:21:04Z",
       "source": {
-        "name": "Barchart"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "AC on, man drinks in car and dozes off, suffocates to death in Ghaziabad",
-      "description": "Ghaziabad: 30-year-old Noida software engineer Akhilesh Purohit found dead in parked KWID; police suspect alcohol, AC on, windows shut, petrol ran out.",
-      "url": "https://timesofindia.indiatimes.com/city/noida/ac-on-man-drinks-in-car-and-dozes-off-suffocates-to-death-in-ghaziabad/articleshow/132078990.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-06-29T19:23:00Z",
+      "title": "Oil set to end June down by about 20%, with investors focused on Doha",
+      "description": "Oil prices dipped around 1% on Tuesday, reversing the previous \u200csession's gains, and were poised for a monthly decline, with investors eyeing potential U.S.-Iran talks in Doha amid a strained interim ceasefire in the four-month-old war.",
+      "url": "https://www.reuters.com/business/energy/oil-falls-investors-focus-potential-iran-us-talks-doha-2026-06-30/",
+      "image": "https://www.reuters.com/resizer/v2/3EIDJGV4RBIMFF23KT6MLNIB3Q.jpg?auth=dcd91b95be1a1e28de2b80ded9eb253e8729fb42d5de47f8f4569fb94325ca84&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-06-30T01:18:21Z",
       "source": {
-        "name": "Times of India"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil price shocks have exposed car\u2011dependent cities. Here's what governments can do",
-      "description": "The recent Israeli\u2013United States war with Iran sent oil prices soaring worldwide, and Canada was no exception. In some regions, gasoline passed $2 per liter.",
-      "url": "https://phys.org/news/2026-06-oil-price-exposed-cardependent-cities.html",
-      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/gas-station-1.jpg",
-      "publishedAt": "2026-06-29T19:20:07Z",
+      "title": "Oil falls as investors focus on potential Iran-US talks in Doha",
+      "description": "Oil prices dropped on Tuesday, with investors eyeing the outcome of potential U.S.-Iran talks in Doha amid weekend missile fire from both sides that tested an interim ceasefire to end the...",
+      "url": "https://www.marketscreener.com/news/oil-falls-as-investors-focus-on-potential-iran-us-talks-in-doha-ce7f5fdfde8bff27",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-05/2026-05-10T220825Z_1_LYNXMPEM490ER_RTROPTP_4_GLOBAL-OIL-KAZAKHSTAN.JPG",
+      "publishedAt": "2026-06-30T01:17:18Z",
       "source": {
-        "name": "Phys.org"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Reduced Tanker Flows Through Strait of Hormuz Boosts Crude Prices",
-      "description": "August WTI crude oil (CLQ26 ) on Monday closed up +1.52 (+2.20%), and August RBOB gasoline (RBQ26 ) closed up +0.0753 (+2.66%). Crude oil and gasoline prices settled sharply higher on Monday amid escalating tensions in the Strait of Hormuz, which hav...",
-      "url": "https://www.barchart.com/story/news/3038955/reduced-tanker-flows-through-strait-of-hormuz-boosts-crude-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
-      "publishedAt": "2026-06-29T19:13:41Z",
+      "title": "Oil Prices On June 30: Brent Crude At $73 As Iran Pushes For Strait Of Hormuz Control Ahead Of US Talks",
+      "description": "Brent crude for September delivery traded above $73 a barrel after climbing 1.8% in the previous session, while West Texas Intermediate (WTI) hovered near $70 a barrel.",
+      "url": "https://www.ndtvprofit.com/markets/oil-prices-on-june-30-brent-crude-at-73-as-iran-pushes-for-strait-of-hormuz-control-ahead-of-us-talks-11705104",
+      "image": "https://c.ndtvimg.com/2026-06/nps55vio_oil_625x300_18_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-30T01:13:29Z",
       "source": {
-        "name": "Barchart"
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Oil prices hold gains ahead of US",
+      "description": "Brent traded above $73 a barrel after rising 1.8% in the previous session. Meanwhile, West Texas Intermediate was near $70 a barrel.",
+      "url": "https://www.cnbctv18.com/market/oil-prices-hold-gains-ahead-of-us-iran-talks-in-doha-19934552.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/oil-omc-crude-ghatgpt-1600x900-11jun-2026-06-a68d04a40c37f58ea73f98602e9249e6.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-06-30T01:12:45Z",
+      "source": {
+        "name": "CNBC TV18"
       }
     }
   ]
