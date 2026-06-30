@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-29T19:42:39+00:00",
+  "updated_at": "2026-06-30T02:28:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "RUBBER-Japan rubber futures rise as oil rebounds, weak yen supports prices",
-      "description": "Japanese rubber futures edged higher on\nMonday, supported by a rebound in oil prices and a near 40-year\nlow in the yen, though improved supply capped gains.\n* The Osaka Exchange rubber...",
-      "url": "https://www.marketscreener.com/news/rubber-japan-rubber-futures-rise-as-oil-rebounds-weak-yen-supports-prices-ce7f5fdedc8df120",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-06-29T07:34:40Z",
+      "title": "Centre lifts restrictions on sale of petrol, diesel from July 1",
+      "description": "The Centre lifts restrictions on petrol and diesel sales effective July 1, ending limits for industrial and commercial consumers.",
+      "url": "https://www.thehindu.com/business/Economy/centre-lifts-restrictions-on-sale-of-petrol-diesel-from-july-1/article71162151.ece",
+      "image": "https://th-i.thgim.com/public/incoming/clfag9/article71162152.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20%20DELHI%202026_24_06_5.jpg",
+      "publishedAt": "2026-06-29T14:22:59Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Fuel excise cuts likely to be extended and tapered off over coming months",
-      "description": "At present, the reductions in excise of 32 cent a litre on diesel and 27 cent for petrol are due to expire at the end of July.",
-      "url": "https://www.breakingnews.ie/ireland/fuel-excise-cuts-likely-to-be-extended-and-tapered-off-over-coming-months-1919893.html",
-      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjNcXFwvMTBcXFwvMTAxMTI1MjZcXFwvUEEtNzQxMDcwNjQtZTE2OTY5MzM3MjgzMjcuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI2ODdjNzU3ZGU1MDI0YWY2ODg1YTZhNjIyMTg5ZmE0NDc4MmZjMmMxIn0=/fuel-excise-cuts-likely-to-be-extended-and-tapered-off-over-coming-months.jpg",
-      "publishedAt": "2026-06-29T07:20:56Z",
+      "title": "litre cap on petrol, diesel sales from July 1",
+      "description": "The Centre has withdrawn the temporary 200-litre daily cap on petrol and diesel sales through retail outlets, citing an improvement in fuel supply and distribution across the country.",
+      "url": "https://www.cnbctv18.com/india/govt-withdraws-temporary-200-litre-cap-on-petrol-diesel-sales-from-july-1-19934401.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/fuel-2026-05-dd56123940d3866e620bd91ad39b004e.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-06-29T14:17:14Z",
       "source": {
-        "name": "BreakingNews.ie"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil climbs following renewed US, Iran strikes in Middle East",
-      "description": "SINGAPORE: Oil prices rose on Monday following days of tit-for-tat strikes by the U.S. and Iran that underscored the fragility of their interim peace deal and again slowed energy shipping through the Strait of Hormuz.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/06/29/oil-climbs-following-renewed-us-iran-strikes-in-middle-east",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/29/3982876.jpg",
-      "publishedAt": "2026-06-29T07:20:00Z",
+      "title": "India Lifts Petrol, Diesel Sale Curbs For Commercial Buyers From July 1",
+      "description": "From July 1, commercial users such as transport companies and industries will once again be able to buy petrol and diesel from retail outlets without any quantity limits.",
+      "url": "https://www.ndtvprofit.com/business/india-lifts-petrol-diesel-sale-curbs-for-commercial-buyers-from-july-1-11703398",
+      "image": "https://c.ndtvimg.com/2026-03/4drmqga8_petrol-pump-ndtv-profit_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-06-29T14:15:50Z",
       "source": {
-        "name": "The Star"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "Middle East Energy Export Resilience Amid Rising Tensions",
-      "description": "Despite recent tensions and attacks in the Strait of Hormuz, Middle Eastern producers continue to export oil and LNG. Iran accelerates exports after a U.S. sanctions waiver, while Saudi Arabia and UAE maintain shipments. This ongoing export activity is impacting global oil prices, causing fluctuations.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3942106-middle-east-energy-export-resilience-amid-rising-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_16_16_17_682803.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-29T07:17:40Z",
+      "title": "Centre lifts petrol, diesel sale restrictions from July 1 as supply concerns recede",
+      "description": "India Business News: The Centre has decided to lift temporary restrictions on the sale of petrol and diesel from July 1, ending curbs imposed earlier this month to prevent.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/centre-lifts-petrol-diesel-sale-restrictions-from-july-1-as-supply-concerns-recede/articleshow/132073353.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132073365,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-29T14:08:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Middle East Oil and LNG Exports Forge On Amid Strait of Hormuz Tensions",
-      "description": "Middle East producers persist with oil and LNG shipments despite rising tensions in the Strait of Hormuz. Recent U.S.-Iran hostilities, including ship attacks, strained their interim peace agreement. Still, oil loadings continue from key terminals, impacting global oil prices, while LNG exports proceed from Qatar and UAE.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3942103-middle-east-oil-and-lng-exports-forge-on-amid-strait-of-hormuz-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-06-29T07:13:04Z",
+      "title": "Modi government plans major action on petrol and diesel as West Asia crisis nears end, sale restrictions will now be\u2026",
+      "description": "Modi government plans major action on petrol and diesel as West Asia crisis nears end, sale restrictions will now be...",
+      "url": "https://www.india.com/news/india/modi-government-plans-major-action-on-petrol-and-diesel-as-west-asia-crisis-nears-end-sale-restrictions-will-now-be-8461110/",
+      "image": "https://static.india.com/wp-content/uploads/2026/06/u-73.jpg",
+      "publishedAt": "2026-06-29T14:00:50Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "India.com"
       }
     },
     {
-      "title": "Asian shares are mixed as tech stocks fall in Japan and South Korea",
-      "description": "HONG KONG, June 29: Asian markets were mixed on Monday as selling of artificial intelligence-related shares pulled benchmarks in Japan and South Korea lower, though gains for other stocks helped offset those losses. US futures advanced and oil prices gained,...",
-      "url": "https://www.dailyexcelsior.com/asian-shares-are-mixed-as-tech-stocks-fall-in-japan-and-south-korea/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTA4YTM0ZTcwLTczODktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-29T07:06:19Z",
+      "title": "Big news for commercial petrol, diesel buyers: India lifts emergency curbs on retail sales from July 1",
+      "description": "Driven by escalating conflict in the West Asia that threatened global supply chains and raised fears of domestic shortages, the government had barred commercial users from buying fuel at retail stations and capped individual diesel purchases at 200 liters per day per customer or vehicle.",
+      "url": "https://www.businesstoday.in/india/story/commercial-petrol-diesel-buyers-note-india-lifts-emergency-curbs-on-retail-sales-from-july-1-539835-2026-06-29",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a427947f2ed3-the-emergency-intervention-was-originally-triggered-by-a-massive-price-disparity-between-retail-fuel-295514406-16x9.jpg",
+      "publishedAt": "2026-06-29T13:55:33Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Euro Zone Bond Yields Steady as Oil Prices Ease Inflation Fears",
-      "description": "Euro zone bond yields remain low amid easing inflation concerns due to declining oil prices, significantly impacting investors and central banking strategies at the ECB's Sintra Forum. Key figures such as Christine Lagarde and Kevin Warsh are expected to shed light on economic policy developments. Inflation data from major economies will be pivotal this week.",
-      "url": "https://www.devdiscourse.com/article/business/3942093-euro-zone-bond-yields-steady-as-oil-prices-ease-inflation-fears",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2024_15_54_39_9763433.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-29T06:51:32Z",
+      "title": "Govt to end petrol, diesel sale restrictions for commercial buyers from July 1",
+      "description": "India will lift petrol and diesel sale restrictions from July 1, ending temporary curbs imposed over West Asia conflict-driven supply disruptions and fuel shortage concerns.",
+      "url": "https://www.financialexpress.com/india-news/govt-to-end-petrol-diesel-sale-restrictions-for-commercial-buyers-from-july-1/4279260/",
+      "image": "https://images.financialexpressdigital.com/2026/06/Fuel-Reuters-1_20251226163452_20260523130449_20260531131432_20260616114256.jpg",
+      "publishedAt": "2026-06-29T13:48:30Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Energy bills rise this week but experts predict no further increase in October",
-      "description": "The Ofgem price cap increases to \u00a31,862 a year from July 1, but falling wholesale gas prices have improved forecasts for household bills this autumn.",
-      "url": "https://www.dailyrecord.co.uk/lifestyle/money/household-energy-bills-july-rise-37360134",
-      "image": "https://i2-prod.dailyrecord.co.uk/article30573550.ece/ALTERNATES/s1168v/0_DR-MOney.png",
-      "publishedAt": "2026-06-29T06:44:27Z",
+      "title": "Petrol and diesel prices hike",
+      "description": "India has lifted \u200brestrictions on the \u200csale of petrol and diesel from July 1. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/centre-lifts-restrictions-on-sale-of-petrol-diesel-from-july-1-article-154796782",
+      "image": "https://images.timesnownews.com/thumb/msid-154796778,thumbsize-378440,width-1280,height-720,resizemode-75/154796778.jpg",
+      "publishedAt": "2026-06-29T13:48:07Z",
       "source": {
-        "name": "Daily Record"
+        "name": "Times Now"
       }
     },
     {
-      "title": "India bonds edge up, supported by steady oil prices, halt to US-Iran strikes",
-      "description": "Indian government bonds saw an early rise on Monday, buoyed by strong foreign investment and stable oil prices, which helped offset geopolitical tensions. Despite recent U.S.-Iran strikes, a diplomatic resolution and a dip in crude oil prices eased inflation concerns. This positive sentiment, coupled with RBI incentives and tax cuts, has attracted significant foreign inflows into government bonds, boosting market confidence.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-edge-up-supported-by-steady-oil-prices-halt-to-us-iran-strikes/articleshow/132065229.cms",
-      "image": "https://img.etimg.com/thumb/msid-132065264,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-06-29T06:37:00Z",
+      "title": "India to lift petrol, diesel sale curbs for commercial buyers from July 1",
+      "description": "The June curbs had barred commercial users from buying fuel at retail outlets and capped diesel sales at 200 litres per customer or vehicle per day.",
+      "url": "https://www.moneycontrol.com/news/business/india-to-lift-petrol-diesel-sale-curbs-for-commercial-buyers-from-july-1-13961521.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2017/03/petrol-pump-oil-crude-gas-diesel.jpg",
+      "publishedAt": "2026-06-29T13:43:33Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "India Reclaims 5th Spot In Global Market Cap Rankings As AI-Fuelled Asia Selloff Hits Taiwan, South Korea",
-      "description": "India has climbed back to fifth place in global market capitalisation rankings as Taiwan and South Korea slip amid profit booking in AI and semiconductor stocks. India outperformed global peers in June, supported by lower crude oil prices, improved valuations, and steady foreign institutional investor inflows",
-      "url": "https://www.freepressjournal.in/business/india-reclaims-5th-spot-in-global-market-cap-rankings-as-ai-fuelled-asia-selloff-hits-taiwan-south-korea",
-      "image": "https://media.assettype.com/freepressjournal/2025-05-13/57ayp4ff/indian-stock-market.jpg",
-      "publishedAt": "2026-06-29T06:02:13Z",
+      "title": "Petrol, diesel sale restrictions to end on July 1 as India eases war-time curb",
+      "description": "The curbs, imposed as a precaution against potential supply shortages, had barred commercial consumers from buying petrol and diesel at retail fuel stations. | India News",
+      "url": "https://www.hindustantimes.com/india-news/petrol-diesel-sale-restrictions-to-end-on-july-1-as-india-eases-war-time-curb-modi-govt-rates-prices-us-iran-war-deal-101782740301827.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/550x309/photo-1762680585321-4b7a07dbad33_1782740460952_1782740484103_24fdf535-7b39-4d47-aaa1-c6e09638f3ed.jpg",
+      "publishedAt": "2026-06-29T13:42:15Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Hindustan Times"
       }
     }
   ]
