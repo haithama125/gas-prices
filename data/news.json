@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-30T02:28:24+00:00",
+  "updated_at": "2026-06-30T08:56:18+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Centre lifts restrictions on sale of petrol, diesel from July 1",
-      "description": "The Centre lifts restrictions on petrol and diesel sales effective July 1, ending limits for industrial and commercial consumers.",
-      "url": "https://www.thehindu.com/business/Economy/centre-lifts-restrictions-on-sale-of-petrol-diesel-from-july-1/article71162151.ece",
-      "image": "https://th-i.thgim.com/public/incoming/clfag9/article71162152.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20%20DELHI%202026_24_06_5.jpg",
-      "publishedAt": "2026-06-29T14:22:59Z",
+      "title": "Toyota May global sales drop 7.2%; down for 4th month, on weak China demand",
+      "description": "Toyota Motor Corp said Monday its global sales in May dropped 7.2 percent from a year earlier to 834,279 units, marking the fourth straight month of decline, reflecting sluggish demand in China hit by higher gasoline prices amid the Middle East conflict. Its exports from Japan to the Middle East\u2026",
+      "url": "https://japantoday.com/category/business/update1-toyota-may-global-sales-drop-7.2-down-for-4th-month-on-weak-china-demand",
+      "image": "https://media.japantoday.com/img/store/43/69/65c515a88d7ce9951d23bab9a45e53e3afca/_w1700-35/_w1700.jpeg",
+      "publishedAt": "2026-06-29T20:50:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Japan Today"
       }
     },
     {
-      "title": "litre cap on petrol, diesel sales from July 1",
-      "description": "The Centre has withdrawn the temporary 200-litre daily cap on petrol and diesel sales through retail outlets, citing an improvement in fuel supply and distribution across the country.",
-      "url": "https://www.cnbctv18.com/india/govt-withdraws-temporary-200-litre-cap-on-petrol-diesel-sales-from-july-1-19934401.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/fuel-2026-05-dd56123940d3866e620bd91ad39b004e.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-06-29T14:17:14Z",
+      "title": "Trump official claims gas prices cheaper per gallon in red states",
+      "description": "A Trump official told drivers to fill up their gas tanks in \"red states,\" claiming that gas prices there are 53 cents cheaper per gallon than in \"blue states.\" During an appearance on Fox News, Interior Secretary Doug Burgum was asked about \"hidden gems\" in the US's parks. He encouraged the public to visit national parks, saying: \"Walk for an hour, and you\u2019re going to find yourself in a spot where you can reflect on the amazing abundance of resources that we have in this country.\" Burgum went on to claim that gas prices were 53 cents cheaper per gallon in \"red states\" compared to \"blue states.\" \"Gas up in a red state. On average nationally right now this weekend it\u2019s 53 cents cheaper per gallon to fill up your car in a red state than it is in a blue state,\" he stated. According to the American Automobile Association, the national gas price average per gallon is $3.86 as of Monday (29 June). Some states, such as California, saw prices of more than $5 per gallon.",
+      "url": "https://www.independent.co.uk/tv/news/trump-gas-prices-red-state-b3005340.html",
+      "image": "https://cdn.jwplayer.com/v2/media/3SMtTJsZ/poster.jpg?width=720",
+      "publishedAt": "2026-06-29T20:24:31Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "The Independent"
       }
     },
     {
-      "title": "India Lifts Petrol, Diesel Sale Curbs For Commercial Buyers From July 1",
-      "description": "From July 1, commercial users such as transport companies and industries will once again be able to buy petrol and diesel from retail outlets without any quantity limits.",
-      "url": "https://www.ndtvprofit.com/business/india-lifts-petrol-diesel-sale-curbs-for-commercial-buyers-from-july-1-11703398",
-      "image": "https://c.ndtvimg.com/2026-03/4drmqga8_petrol-pump-ndtv-profit_625x300_27_March_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-29T14:15:50Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "Centre lifts petrol, diesel sale restrictions from July 1 as supply concerns recede",
-      "description": "India Business News: The Centre has decided to lift temporary restrictions on the sale of petrol and diesel from July 1, ending curbs imposed earlier this month to prevent.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/centre-lifts-petrol-diesel-sale-restrictions-from-july-1-as-supply-concerns-recede/articleshow/132073353.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132073365,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-29T14:08:00Z",
+      "title": "Petrol, diesel retail sale curbs for commercial users lifted",
+      "description": "India News: NEW DELHI: Rolling back yet another emergency measure introduced to ensure equitable distribution of fuel during West Asia conflict, govt Monday decid.",
+      "url": "https://timesofindia.indiatimes.com/india/petrol-diesel-retail-sale-curbs-for-commercial-users-lifted/articleshow/132079278.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132079275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-29T20:18:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Modi government plans major action on petrol and diesel as West Asia crisis nears end, sale restrictions will now be\u2026",
-      "description": "Modi government plans major action on petrol and diesel as West Asia crisis nears end, sale restrictions will now be...",
-      "url": "https://www.india.com/news/india/modi-government-plans-major-action-on-petrol-and-diesel-as-west-asia-crisis-nears-end-sale-restrictions-will-now-be-8461110/",
-      "image": "https://static.india.com/wp-content/uploads/2026/06/u-73.jpg",
-      "publishedAt": "2026-06-29T14:00:50Z",
+      "title": "Strait of Hormuz: The Turbulent Path to Peace",
+      "description": "Iran and the U.S. are engaged in complex negotiations aimed at extending a ceasefire and ensuring safe passage through the Strait of Hormuz. As tensions simmer, Iran plans to charge fees for strait use, affecting global oil prices. The discussions also encompass Iran's nuclear ambitions and regional conflicts.",
+      "url": "https://www.devdiscourse.com/article/politics/3942583-strait-of-hormuz-the-turbulent-path-to-peace",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_05_2025_19_04_18_281562.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-29T20:17:30Z",
       "source": {
-        "name": "India.com"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Big news for commercial petrol, diesel buyers: India lifts emergency curbs on retail sales from July 1",
-      "description": "Driven by escalating conflict in the West Asia that threatened global supply chains and raised fears of domestic shortages, the government had barred commercial users from buying fuel at retail stations and capped individual diesel purchases at 200 liters per day per customer or vehicle.",
-      "url": "https://www.businesstoday.in/india/story/commercial-petrol-diesel-buyers-note-india-lifts-emergency-curbs-on-retail-sales-from-july-1-539835-2026-06-29",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a427947f2ed3-the-emergency-intervention-was-originally-triggered-by-a-massive-price-disparity-between-retail-fuel-295514406-16x9.jpg",
-      "publishedAt": "2026-06-29T13:55:33Z",
+      "title": "Markets Surge Amid U.S.-Iran Tensions and Tech Rebound",
+      "description": "Global markets rose due to an interim peace deal between Iran and the U.S., despite ongoing tensions and rising oil prices. Wall Street performed well with technology shares rebounding. Investors are cautious, especially with anticipated Federal Reserve rate hikes and fragile conditions in the Strait of Hormuz.",
+      "url": "https://www.devdiscourse.com/article/business/3942575-markets-surge-amid-us-iran-tensions-and-tech-rebound",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_15_33_39_3673019.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-29T19:45:26Z",
       "source": {
-        "name": "Business Today"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Govt to end petrol, diesel sale restrictions for commercial buyers from July 1",
-      "description": "India will lift petrol and diesel sale restrictions from July 1, ending temporary curbs imposed over West Asia conflict-driven supply disruptions and fuel shortage concerns.",
-      "url": "https://www.financialexpress.com/india-news/govt-to-end-petrol-diesel-sale-restrictions-for-commercial-buyers-from-july-1/4279260/",
-      "image": "https://images.financialexpressdigital.com/2026/06/Fuel-Reuters-1_20251226163452_20260523130449_20260531131432_20260616114256.jpg",
-      "publishedAt": "2026-06-29T13:48:30Z",
+      "title": "Here\u2019s Where Gas Prices Are Falling Fastest Amid Iran War Negotiations",
+      "description": "The national average price for a gallon of regular gasoline has fallen below $4, dropping to about $3.86.",
+      "url": "https://www.newsweek.com/heres-where-gas-prices-are-falling-fastest-amid-iran-war-negotiations-12137041",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/06/GettyImages-2268719972.jpg?w=1200&crop=1",
+      "publishedAt": "2026-06-29T19:43:39Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Newsweek"
       }
     },
     {
-      "title": "Petrol and diesel prices hike",
-      "description": "India has lifted \u200brestrictions on the \u200csale of petrol and diesel from July 1. , Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/centre-lifts-restrictions-on-sale-of-petrol-diesel-from-july-1-article-154796782",
-      "image": "https://images.timesnownews.com/thumb/msid-154796778,thumbsize-378440,width-1280,height-720,resizemode-75/154796778.jpg",
-      "publishedAt": "2026-06-29T13:48:07Z",
+      "title": "Dollar Retreats as Stocks Rally",
+      "description": "The dollar index (DXY00 ) on Monday fell by -0.26%. The dollar retreated as Monday's stock rally curbed liquidity demand for the dollar. However, losses in the dollar were limited as Monday's +2% jump in WTI crude oil prices has strengthened inflat...",
+      "url": "https://www.barchart.com/story/news/3039260/dollar-retreats-as-stocks-rally",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Opened%20wallet%20with%20US%20dollars%20on%20table%20by%20olyasolod%20via%20Adobe%20Stock.jpeg",
+      "publishedAt": "2026-06-29T19:35:28Z",
       "source": {
-        "name": "Times Now"
+        "name": "Barchart"
       }
     },
     {
-      "title": "India to lift petrol, diesel sale curbs for commercial buyers from July 1",
-      "description": "The June curbs had barred commercial users from buying fuel at retail outlets and capped diesel sales at 200 litres per customer or vehicle per day.",
-      "url": "https://www.moneycontrol.com/news/business/india-to-lift-petrol-diesel-sale-curbs-for-commercial-buyers-from-july-1-13961521.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2017/03/petrol-pump-oil-crude-gas-diesel.jpg",
-      "publishedAt": "2026-06-29T13:43:33Z",
+      "title": "AC on, man drinks in car and dozes off, suffocates to death in Ghaziabad",
+      "description": "Ghaziabad: 30-year-old Noida software engineer Akhilesh Purohit found dead in parked KWID; police suspect alcohol, AC on, windows shut, petrol ran out.",
+      "url": "https://timesofindia.indiatimes.com/city/noida/ac-on-man-drinks-in-car-and-dozes-off-suffocates-to-death-in-ghaziabad/articleshow/132078990.cms",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-06-29T19:23:00Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Petrol, diesel sale restrictions to end on July 1 as India eases war-time curb",
-      "description": "The curbs, imposed as a precaution against potential supply shortages, had barred commercial consumers from buying petrol and diesel at retail fuel stations. | India News",
-      "url": "https://www.hindustantimes.com/india-news/petrol-diesel-sale-restrictions-to-end-on-july-1-as-india-eases-war-time-curb-modi-govt-rates-prices-us-iran-war-deal-101782740301827.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/29/550x309/photo-1762680585321-4b7a07dbad33_1782740460952_1782740484103_24fdf535-7b39-4d47-aaa1-c6e09638f3ed.jpg",
-      "publishedAt": "2026-06-29T13:42:15Z",
+      "title": "Oil price shocks have exposed car\u2011dependent cities. Here's what governments can do",
+      "description": "The recent Israeli\u2013United States war with Iran sent oil prices soaring worldwide, and Canada was no exception. In some regions, gasoline passed $2 per liter.",
+      "url": "https://phys.org/news/2026-06-oil-price-exposed-cardependent-cities.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/gas-station-1.jpg",
+      "publishedAt": "2026-06-29T19:20:07Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Phys.org"
+      }
+    },
+    {
+      "title": "Reduced Tanker Flows Through Strait of Hormuz Boosts Crude Prices",
+      "description": "August WTI crude oil (CLQ26 ) on Monday closed up +1.52 (+2.20%), and August RBOB gasoline (RBQ26 ) closed up +0.0753 (+2.66%). Crude oil and gasoline prices settled sharply higher on Monday amid escalating tensions in the Strait of Hormuz, which hav...",
+      "url": "https://www.barchart.com/story/news/3038955/reduced-tanker-flows-through-strait-of-hormuz-boosts-crude-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
+      "publishedAt": "2026-06-29T19:13:41Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
