@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-01T02:34:25+00:00",
+  "updated_at": "2026-07-01T09:29:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Indian economy remains exposed to energy price shocks: RBI report",
-      "description": "India's economy faces potential exchange rate volatility due to rising oil prices and supply chain issues, an RBI report revealed. Despite strong fundamentals, the nation remains vulnerable to energy price shocks and geopolitical tensions. While recent policy measures have eased pressure on the rupee and bond yields, attracting capital remains a focus amidst global uncertainties.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms",
-      "image": "https://img.etimg.com/thumb/msid-132095327,width-1200,height-630,imgsize-39860,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-30T14:34:00Z",
+      "title": "California Dems push war-time price gouging bill as gas prices spike",
+      "description": "California lawmakers are pushing legislation that would let state officials pursue wartime price gouging under the state's emergency consumer-protection laws.",
+      "url": "https://nypost.com/2026/06/30/us-news/california-dems-push-war-time-price-gouging-bill-as-gas-prices-spike/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newcomp-4-3.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-06-30T21:03:05Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
+      "description": "Oil supply disruptions caused by the Iran conflict could trigger a recession, lower oil prices, and widespread supply chain disruptions rather than a sustained spike in energy prices.",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-30_ely7ni42ye.jpg",
+      "publishedAt": "2026-06-30T21:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Global Markets Surge in Historic Quarter as Dollar Strengthens, Oil Prices Plummet",
+      "description": "Global stock markets experienced their largest quarterly increase in six years, driven by booming artificial intelligence stocks and a sustained rise in the U.S. dollar. In contrast, Brent oil prices dropped significantly due to a fragile ceasefire between the U.S. and Iran. Emerging markets also saw gains against the dollar.",
+      "url": "https://www.devdiscourse.com/article/business/3943284-global-markets-surge-in-historic-quarter-as-dollar-strengthens-oil-prices-plummet",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_07_2024_08_39_47_6371573.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-30T20:47:56Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Fuel tax scaled back today | Morning News Bulletin 1 July 2027",
+      "description": "In this bulletin, Fuel tax relief scaled back from today, with petrol prices to rise, disagreements cloud prospects for US-Iran talks. And in basketball, NBA legend Le Bron James is a free agent after leaving the Los Angeles Lakers.",
+      "url": "https://www.sbs.com.au/news/podcast-episode/fuel-tax-scaled-back-today/k72paw318",
+      "image": "https://assets.sbs.com.au/dims4/default/dcaaf02/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F54%2Fdc%2F4b42c5bb4f5fab1a2cc41835b588%2Fmorning-bulletin-2.png",
+      "publishedAt": "2026-06-30T20:38:58Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "45% of homes will need electrical upgrades to charge EVs: Study",
+      "description": "India Business News: NEW DELHI: Amid the push for EVs and Delhi govt\u2019s policy of stopping registration of CNG- and petrol-fuelled threewheelers from Jan 2027 and two-wheel.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/45-of-homes-will-need-electrical-upgrades-to-charge-evs-study/articleshow/132101315.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132101316,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-06-30T20:20:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Global Stocks Soar Amid Market Fluctuations",
+      "description": "Global stocks are experiencing their largest quarterly increase in six years, fuelled by an AI-driven rally, while Brent oil sees a significant drop. The U.S. dollar strengthens amid interest rate hike expectations. Fragile U.S.-Iran ceasefire impacts oil prices, as investors remain bullish despite market volatility.",
+      "url": "https://www.devdiscourse.com/article/business/3943271-global-stocks-soar-amid-market-fluctuations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
+      "publishedAt": "2026-06-30T19:50:59Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Government Hikes Windfall Tax on Petrol Exports; Slashes Levies on Diesel and ATF",
+      "description": "When the duties were initially imposed, state-owned oil companies were exempted from paying the export levy on petrol, diesel and ATF supplied to Nepal, Bhutan, Bangladesh and Sri Lanka.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/government-hikes-windfall-tax-on-petrol-exports-slashes-levies-on-diesel-and-atf-1967461",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/30/2058753-fefded.jpg",
+      "publishedAt": "2026-06-30T19:24:49Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "Work begins on new County Durham Starbucks drive-thru and petrol station",
+      "description": "The development adds to the Integra 61 logistics and factory site, creating about 70 jobs",
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/work-begins-new-county-durham-34213676",
+      "image": "https://i2-prod.chroniclelive.co.uk/article34213778.ece/ALTERNATES/s1200d/0_TKR_NJL_300626IntegraCGI.jpg",
+      "publishedAt": "2026-06-30T19:21:18Z",
+      "source": {
+        "name": "Evening Chronicle"
+      }
+    },
+    {
+      "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
+      "description": "India's economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, monsoon vagaries and West Asian geopolitical shifts pose risks to growth and inflation. Foreign investors are returning to sovereign debt, signaling confidence. The finance ministry emphasizes building national buffer stocks and reorienting farm policies towards climate-resilient crops, highlighting the need for proactive policy measures.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms",
+      "image": "https://img.etimg.com/thumb/msid-132101021,width-1200,height-630,imgsize-70162,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-30T19:21:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Families will be \u2018aghast\u2019 at phased withdrawal of fuel tax cuts, Sinn F\u00e9in says",
-      "description": "Cabinet has agreed to begin gradual reduction of reliefs, worth 32 cent on litre of diesel and 27 cent on petrol, from September 1st",
-      "url": "https://www.irishtimes.com/politics/2026/06/30/families-will-be-aghast-at-phased-withdrawal-of-fuel-tax-cuts-sinn-fein-says/",
-      "image": "https://www.irishtimes.com/resizer/v2/RYNVEXQ2ABAVBMQAGAMUKLNRPI.JPG?smart=true&auth=8a7c9e2b6dfbdfb0fcb519cc9b29ee9faeab2d5b61ed25f58ccf8ec07464efe3&width=1200&height=630",
-      "publishedAt": "2026-06-30T14:32:52Z",
+      "title": "Crude Prices Fall as Global Oil Supply Risks Ease",
+      "description": "August WTI crude oil (CLQ26 ) on Tuesday closed down -1.25 (-1.77%), and August RBOB gasoline (RBQ26 ) closed down -0.0063 (-0.22%). Crude oil and gasoline prices retreated on Tuesday, with crude settling sharply lower. Crude oil prices gave up an e...",
+      "url": "https://www.barchart.com/story/news/3061794/crude-prices-fall-as-global-oil-supply-risks-ease",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20pipeline%20through%20forest%20by%20cozyta%20via%20iStock.jpg",
+      "publishedAt": "2026-06-30T19:14:13Z",
       "source": {
-        "name": "The Irish Times"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.ocregister.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Santa Ana Orange County Register"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.baltimoresun.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Baltimore Sun"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.bostonherald.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "The Boston Herald"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.courant.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Hartford Courant"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.sandiegouniontribune.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "San Diego Union-Tribune"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.readingeagle.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Reading Eagle"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.pilotonline.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Norfolk Virginian-Pilot"
-      }
-    },
-    {
-      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
-      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
-      "url": "https://www.dailycamera.com/2026/06/30/consumer-confidence-june/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
-      "publishedAt": "2026-06-30T14:26:47Z",
-      "source": {
-        "name": "Boulder Daily Camera"
+        "name": "Barchart"
       }
     }
   ]
