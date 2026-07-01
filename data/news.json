@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-01T14:07:12+00:00",
+  "updated_at": "2026-07-01T19:29:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Daily Voice | Easing Middle East tensions, benign oil prices to drive Q1 earnings beat: Varun Lohchab",
-      "description": "Unless the monsoon turns substantially weak this year, Varun Lohchab of HDFC Securities believes rural consumption is unlikely to be disrupted.",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-easing-middle-east-tensions-benign-oil-prices-to-drive-q1-earnings-beat-varun-lohchab-13962766.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2023/01/VarunLohchab.jpg",
-      "publishedAt": "2026-07-01T01:52:49Z",
+      "title": "ATF, Commercial LPG and Petrol, Diesel Prices Slashed from July 1: Check Latest Rates",
+      "description": "ATF, commercial LPG and Nayara petrol, diesel prices have been cut from July 1 as global crude eases, offering relief to airlines and businesses. Check latest fuel and LPG rates in Delhi, Lucknow, Kolkata, Patna and across India, plus details on revised export duties and excise policy.",
+      "url": "https://www.outlookbusiness.com/economy-and-policy/atf-commercial-lpg-and-petrol-diesel-prices-slashed-from-july-1-check-latest-rates",
+      "image": "https://media.assettype.com/outlookbusiness/2026-03-03/v8y15y9c/tg.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-01T07:22:39Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Outlook Business"
       }
     },
     {
-      "title": "NIA arrests Trinamool Councillor Shakir Ali in 2023 Rishra Ram Navami violence case",
-      "description": "Calcutta High Court had ordered the transfer of the cases from the state police to the NIA after it emerged that the investigators in Bengal had not registered the cases under the Explosive Substances Act despite the use of crude bombs and petrol bombs in the attacks",
-      "url": "https://www.telegraphindia.com/west-bengal/nia-arrests-trinamool-councillor-shakir-ali-in-2023-rishra-ram-navami-violence-case-prnt/cid/2168010",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Jul/1782870452_new-project-4.jpg",
-      "publishedAt": "2026-07-01T01:50:33Z",
-      "source": {
-        "name": "Telegraph India"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today - 1 July: How costly is fuel in Bengaluru, Delhi, Mumbai, Kolkata, Hyderabad, other cities?",
-      "description": "Petrol, diesel prices today \u2014 1 July: Amid ongoing developments over US and Iran, brent crude underwent significant fluctuation. Let's find out how costly is fuel in Bengaluru, Delhi, Mumbai, Kolkata, Hyderabad and other cities.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-1-july-how-costly-is-fuel-in-bengaluru-delhi-mumbai-kolkata-hyderabad-other-cities-11782866381373.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/01/1600x900/logo/PTI03-29-2026-000250B-0_1775367468144_1775367480411_1782870130711_ec2c0866-1b21-41e8-9e66-5be5fe2473de.jpg",
-      "publishedAt": "2026-07-01T01:46:00Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Global funds revisit Indian stocks as oil, rupee risks recede",
-      "description": "Global fund managers are reconsidering their exit from Indian stocks as falling oil prices and rupee stabilization ease key investment concerns. Daily foreign selling has slowed, and inflows into India-focused ETFs have turned positive. While some see India as oversold with attractive valuations, sustained earnings growth is crucial for a long-term market rerating, with analysts predicting a mid-teen acceleration.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-funds-revisit-indian-stocks-as-oil-rupee-risks-recede/articleshow/132103821.cms",
-      "image": "https://img.etimg.com/thumb/msid-132103825,width-1200,height-630,imgsize-46166,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-01T01:35:00Z",
+      "title": "Delhi govt notifies EV policy, offers tax exemption for electric cars priced up to Rs 30 lakh",
+      "description": "Delhi has unveiled its Electric Vehicles Policy 2026, aiming to boost EV adoption and improve air quality. Effective July 1, 2026, electric cars under Rs 30 lakh will enjoy full road tax and registration fee exemptions. The policy also mandates electric auto-rickshaw registrations from January 2027 and phases out petrol/CNG two-wheeler registrations by April 2028, offering subsidies for e-two-wheelers.",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/delhi-govt-notifies-ev-policy-offers-tax-exemption-for-electric-cars-priced-up-to-rs-30-lakh/articleshow/132108891.cms",
+      "image": "https://img.etimg.com/thumb/msid-132109002,width-1200,height-630,imgsize-46830,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-01T07:20:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices On July 1: Brent Crude Climbs Above $73 As US-Iran Peace Talks Advance, Hormuz Traffic Picks Up",
-      "description": "Brent traded above $73 a barrel, while West Texas Intermediate (WTI) hovered near $70, after crude posted its steepest quarterly decline since the pandemic.",
-      "url": "https://www.ndtvprofit.com/markets/oil-prices-on-july-1-brent-crude-climbs-above-73-as-us-iran-peace-talks-advance-hormuz-traffic-picks-up-11710267",
-      "image": "https://c.ndtvimg.com/2026-04/7s6rt6eg_goldman-sachs-oil-price-forecast_625x300_27_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-07-01T01:31:17Z",
+      "title": "Kia Seltos GTX(O), X-Line(O) variants launched in India: Check price, features, ADAS, engine options and other details",
+      "description": "Kia India has launched two new top-tier Seltos variants, GTX(O) and X-Line(O), enhancing the SUV with advanced Level 2+ ADAS features and premium tech. These models offer turbo-petrol and diesel automatic options, boasting features like a 12.3-inch digital display and Head-Up Display. The X-Line(O) adds exclusive styling, aiming to bolster the Seltos' strong market position.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/kia-seltos-gtxo-x-lineo-variants-launched-in-india-check-price-features-adas-engine-options-and-other-details/articleshow/132108867.cms",
+      "image": "https://img.etimg.com/thumb/msid-132108978,width-1200,height-630,imgsize-375584,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-01T07:19:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "US consumer attitudes up slightly",
+      "description": "WASHINGTON -- Americans' attitudes toward the economy improved slightly last month as gas prices declined, but their outlook is still mostly negative by historical standards.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/01/us-consumer-attitudes-up-slightly/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213158939_1DConsumers0701_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-07-01T07:17:00Z",
+      "source": {
+        "name": "Arkansas Online"
+      }
+    },
+    {
+      "title": "Primark owner set for weaker profits as high gas prices to hit sugar arm",
+      "description": "It said trading has been \u2018resilient\u2019 over the latest quarter despite \u2018challenging\u2019 retail conditions in most markets.",
+      "url": "https://www.lbc.co.uk/article/8e641a634a9a453aaba8829ade90de2c-5HjdcMT_2/",
+      "image": "https://images.globalplayer.com/images/824798?crop=16_9&width=1200&signature=fPU3u0SS2GyrK26RDKWHibwJtZQ=",
+      "publishedAt": "2026-07-01T07:14:09Z",
+      "source": {
+        "name": "LBC"
+      }
+    },
+    {
+      "title": "Primark owner set for weaker profits as high gas prices to hit sugar arm",
+      "description": "It said trading has been \u2018resilient\u2019 over the latest quarter despite \u2018challenging\u2019 retail conditions in most markets.",
+      "url": "https://www.standard.co.uk/business/business-news/associated-british-foods-primark-middle-east-b1288280.html",
+      "image": "https://static.standard.co.uk/2026/07/01/08/dee889639c2f66129c316af16fe548cbY29udGVudHNlYXJjaGFwaSwxNzgyOTc1Mjgx-2.79996761.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-07-01T07:07:44Z",
+      "source": {
+        "name": "Evening Standard"
+      }
+    },
+    {
+      "title": "Delhi's EV Policy Notified: TVS And Bajaj Win, Royal Enfield, Maruti Lose? Key Auto Stocks To Watch",
+      "description": "The sharpest provisions are the registration bans. From January 1, 2027, only electric autorickshaws will be eligible for new registrations. From April 1, 2028, petrol and CNG two-wheelers go the same way.",
+      "url": "https://www.ndtvprofit.com/markets/delhis-ev-policy-notified-tvs-and-bajaj-win-royal-enfield-maruti-lose-key-auto-stocks-to-watch-11711328",
+      "image": "https://c.ndtvimg.com/2026-03/1dh665d_delhi-ev-policy_625x300_13_March_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-07-01T07:07:17Z",
       "source": {
         "name": "NDTV Profit"
       }
     },
     {
-      "title": "Oil prices edge higher as US",
-      "description": "Brent was above $73 a barrel, while West Texas Intermediate was close to $70 a barrel.",
-      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-edge-higher-as-us-iran-peace-talks-continue-19935967.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9c5cb1c381a69950568cf9635583dde2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-01T01:20:58Z",
+      "title": "New BMW X5 breaks cover: New design, EV, PHEV, petrol, diesel & more",
+      "description": "Cars News: German Automaker BMW has unveiled the fifth-generation BMW X5. The SUV features an all-new exterior design, a new cabin, added features and multiple p.",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/new-bmw-x5-breaks-cover-new-design-ev-phev-petrol-diesel-more/articleshow/132108307.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132108391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-01T06:58:00Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Indian markets experienced a volatile session ahead of monthly expiry, with the Nifty closing lower at 23,866. Geopolitical tensions in West Asia are expected to keep investor sentiment cautious, despite a dip in crude oil prices. Analysts suggest a mixed trend for equities, with the Nifty potentially hovering around 24,000, but a break below 23,800 could signal a correction.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132103752.cms",
-      "image": "https://img.etimg.com/thumb/msid-132103749,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-01T01:18:00Z",
+      "title": "'Long queues at petrol stations': How Ukraine\u2019s drone strikes are hitting Russia\u2019s fuel supply",
+      "description": "International Business News: Russia is facing an unprecedented fuel shortage after months of Ukrainian drone strikes damaged oil refineries and disrupted supplies, leading to fuel.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/long-queues-at-petrol-stations-how-ukraines-drone-strikes-are-hitting-russias-fuel-supply/articleshow/132107324.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132108272,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-01T06:51:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
-      "description": "Oil prices saw an uptick as Iran's refusal to meet U.S. envoys heightened tensions, impacting the fragile ceasefire. Despite recent declines following conflict de-escalation, analysts are revising forecasts. Meanwhile, U.S. crude and gasoline inventories dropped last week, with markets awaiting official government data. Tanker traffic through the Strait of Hormuz is reportedly recovering, easing supply disruption fears.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-higher-as-irans-refusal-to-meet-us-envoys-dims-ceasefire-hopes/articleshow/132103641.cms",
-      "image": "https://img.etimg.com/thumb/msid-132103646,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-01T00:46:00Z",
+      "title": "Petrol Relief Ahead? Commercial LPG, Jet Fuel, Nayara's Price Cut Spark Hope",
+      "description": "Nayara has cut petrol and diesel prices, but PSU oil firms are yet to follow. Analysts say global crude trends and recent losses will determine any broader fuel price cut.",
+      "url": "https://www.news18.com/india/will-petrol-diesel-prices-be-cut-nayara-fuel-price-reduction-commercial-lpg-price-psu-omcs-indian-oil-bpcl-hpcl-global-crude-oil-ws-el-10183679.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/07/image-2026-07-6a296ae3f1b59e6b9c6c9c2ebb88170c-1200x675.jpg",
+      "publishedAt": "2026-07-01T06:50:41Z",
       "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
-      "description": "Oil prices rose in early trade on Wednesday as investors responded to news that \u200cIran will not be meeting with U.S. envoys, a further strain on the interim ceasefire agreed between the two in the four-month-long war.",
-      "url": "https://www.reuters.com/business/energy/oil-ticks-higher-irans-refusal-meet-us-envoys-dims-ceasefire-hopes-2026-07-01/",
-      "image": "https://www.reuters.com/resizer/v2/KUAAXSISNJOFBCBWDP7AMJQQDY.jpg?auth=5359e0bee7d8927c9a601b4066d69b5476039f1d4e174e5de14a851acb19d8b1&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-01T00:45:09Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
-      "description": "Oil prices rose in early trade on Wednesday as investors responded to news that Iran will not be meeting with U.S. envoys, a further strain on the interim ceasefire agreed between the two in the...",
-      "url": "https://www.marketscreener.com/news/oil-ticks-higher-as-iran-s-refusal-to-meet-us-envoys-dims-ceasefire-hopes-ce7f5fdddd88f120",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-07/2026-07-01T004441Z_1_LYNXMPEM601WG_RTROPTP_4_GLOBAL-OIL-KAZAKHSTAN.JPG",
-      "publishedAt": "2026-07-01T00:42:23Z",
-      "source": {
-        "name": "MarketScreener"
+        "name": "News18"
       }
     }
   ]
