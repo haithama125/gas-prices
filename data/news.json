@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-01T09:29:01+00:00",
+  "updated_at": "2026-07-01T14:07:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "California Dems push war-time price gouging bill as gas prices spike",
-      "description": "California lawmakers are pushing legislation that would let state officials pursue wartime price gouging under the state's emergency consumer-protection laws.",
-      "url": "https://nypost.com/2026/06/30/us-news/california-dems-push-war-time-price-gouging-bill-as-gas-prices-spike/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/06/newcomp-4-3.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-06-30T21:03:05Z",
+      "title": "Daily Voice | Easing Middle East tensions, benign oil prices to drive Q1 earnings beat: Varun Lohchab",
+      "description": "Unless the monsoon turns substantially weak this year, Varun Lohchab of HDFC Securities believes rural consumption is unlikely to be disrupted.",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-easing-middle-east-tensions-benign-oil-prices-to-drive-q1-earnings-beat-varun-lohchab-13962766.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2023/01/VarunLohchab.jpg",
+      "publishedAt": "2026-07-01T01:52:49Z",
       "source": {
-        "name": "New York Post"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Why a Supply Crunch From Iran Could Send Oil Back Below $40 a Barrel",
-      "description": "Oil supply disruptions caused by the Iran conflict could trigger a recession, lower oil prices, and widespread supply chain disruptions rather than a sustained spike in energy prices.",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Why-a-Supply-Crunch-From-Iran-Could-Send-Oil-Back-Below-40-a-Barrel.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-06-30_ely7ni42ye.jpg",
-      "publishedAt": "2026-06-30T21:00:00Z",
+      "title": "NIA arrests Trinamool Councillor Shakir Ali in 2023 Rishra Ram Navami violence case",
+      "description": "Calcutta High Court had ordered the transfer of the cases from the state police to the NIA after it emerged that the investigators in Bengal had not registered the cases under the Explosive Substances Act despite the use of crude bombs and petrol bombs in the attacks",
+      "url": "https://www.telegraphindia.com/west-bengal/nia-arrests-trinamool-councillor-shakir-ali-in-2023-rishra-ram-navami-violence-case-prnt/cid/2168010",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Jul/1782870452_new-project-4.jpg",
+      "publishedAt": "2026-07-01T01:50:33Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Telegraph India"
       }
     },
     {
-      "title": "Global Markets Surge in Historic Quarter as Dollar Strengthens, Oil Prices Plummet",
-      "description": "Global stock markets experienced their largest quarterly increase in six years, driven by booming artificial intelligence stocks and a sustained rise in the U.S. dollar. In contrast, Brent oil prices dropped significantly due to a fragile ceasefire between the U.S. and Iran. Emerging markets also saw gains against the dollar.",
-      "url": "https://www.devdiscourse.com/article/business/3943284-global-markets-surge-in-historic-quarter-as-dollar-strengthens-oil-prices-plummet",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_07_2024_08_39_47_6371573.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-30T20:47:56Z",
+      "title": "Petrol, diesel prices today - 1 July: How costly is fuel in Bengaluru, Delhi, Mumbai, Kolkata, Hyderabad, other cities?",
+      "description": "Petrol, diesel prices today \u2014 1 July: Amid ongoing developments over US and Iran, brent crude underwent significant fluctuation. Let's find out how costly is fuel in Bengaluru, Delhi, Mumbai, Kolkata, Hyderabad and other cities.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-1-july-how-costly-is-fuel-in-bengaluru-delhi-mumbai-kolkata-hyderabad-other-cities-11782866381373.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/01/1600x900/logo/PTI03-29-2026-000250B-0_1775367468144_1775367480411_1782870130711_ec2c0866-1b21-41e8-9e66-5be5fe2473de.jpg",
+      "publishedAt": "2026-07-01T01:46:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Fuel tax scaled back today | Morning News Bulletin 1 July 2027",
-      "description": "In this bulletin, Fuel tax relief scaled back from today, with petrol prices to rise, disagreements cloud prospects for US-Iran talks. And in basketball, NBA legend Le Bron James is a free agent after leaving the Los Angeles Lakers.",
-      "url": "https://www.sbs.com.au/news/podcast-episode/fuel-tax-scaled-back-today/k72paw318",
-      "image": "https://assets.sbs.com.au/dims4/default/dcaaf02/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F54%2Fdc%2F4b42c5bb4f5fab1a2cc41835b588%2Fmorning-bulletin-2.png",
-      "publishedAt": "2026-06-30T20:38:58Z",
-      "source": {
-        "name": "SBS Australia"
-      }
-    },
-    {
-      "title": "45% of homes will need electrical upgrades to charge EVs: Study",
-      "description": "India Business News: NEW DELHI: Amid the push for EVs and Delhi govt\u2019s policy of stopping registration of CNG- and petrol-fuelled threewheelers from Jan 2027 and two-wheel.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/45-of-homes-will-need-electrical-upgrades-to-charge-evs-study/articleshow/132101315.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132101316,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-06-30T20:20:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Global Stocks Soar Amid Market Fluctuations",
-      "description": "Global stocks are experiencing their largest quarterly increase in six years, fuelled by an AI-driven rally, while Brent oil sees a significant drop. The U.S. dollar strengthens amid interest rate hike expectations. Fragile U.S.-Iran ceasefire impacts oil prices, as investors remain bullish despite market volatility.",
-      "url": "https://www.devdiscourse.com/article/business/3943271-global-stocks-soar-amid-market-fluctuations",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-30T19:50:59Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Government Hikes Windfall Tax on Petrol Exports; Slashes Levies on Diesel and ATF",
-      "description": "When the duties were initially imposed, state-owned oil companies were exempted from paying the export levy on petrol, diesel and ATF supplied to Nepal, Bhutan, Bangladesh and Sri Lanka.",
-      "url": "https://www.deccanchronicle.com/southern-states/telangana/government-hikes-windfall-tax-on-petrol-exports-slashes-levies-on-diesel-and-atf-1967461",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/06/30/2058753-fefded.jpg",
-      "publishedAt": "2026-06-30T19:24:49Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Work begins on new County Durham Starbucks drive-thru and petrol station",
-      "description": "The development adds to the Integra 61 logistics and factory site, creating about 70 jobs",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/work-begins-new-county-durham-34213676",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34213778.ece/ALTERNATES/s1200d/0_TKR_NJL_300626IntegraCGI.jpg",
-      "publishedAt": "2026-06-30T19:21:18Z",
-      "source": {
-        "name": "Evening Chronicle"
-      }
-    },
-    {
-      "title": "Easing oil prices, supply chains to soften external pressures on India: Finance ministry",
-      "description": "India's economy remains resilient despite global uncertainties, with easing oil prices and improving supply chains offering some relief. However, monsoon vagaries and West Asian geopolitical shifts pose risks to growth and inflation. Foreign investors are returning to sovereign debt, signaling confidence. The finance ministry emphasizes building national buffer stocks and reorienting farm policies towards climate-resilient crops, highlighting the need for proactive policy measures.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/easing-oil-prices-supply-chains-to-soften-external-pressures-on-india-finance-ministry/articleshow/132100894.cms",
-      "image": "https://img.etimg.com/thumb/msid-132101021,width-1200,height-630,imgsize-70162,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-06-30T19:21:00Z",
+      "title": "Global funds revisit Indian stocks as oil, rupee risks recede",
+      "description": "Global fund managers are reconsidering their exit from Indian stocks as falling oil prices and rupee stabilization ease key investment concerns. Daily foreign selling has slowed, and inflows into India-focused ETFs have turned positive. While some see India as oversold with attractive valuations, sustained earnings growth is crucial for a long-term market rerating, with analysts predicting a mid-teen acceleration.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-funds-revisit-indian-stocks-as-oil-rupee-risks-recede/articleshow/132103821.cms",
+      "image": "https://img.etimg.com/thumb/msid-132103825,width-1200,height-630,imgsize-46166,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-01T01:35:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Prices Fall as Global Oil Supply Risks Ease",
-      "description": "August WTI crude oil (CLQ26 ) on Tuesday closed down -1.25 (-1.77%), and August RBOB gasoline (RBQ26 ) closed down -0.0063 (-0.22%). Crude oil and gasoline prices retreated on Tuesday, with crude settling sharply lower. Crude oil prices gave up an e...",
-      "url": "https://www.barchart.com/story/news/3061794/crude-prices-fall-as-global-oil-supply-risks-ease",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20pipeline%20through%20forest%20by%20cozyta%20via%20iStock.jpg",
-      "publishedAt": "2026-06-30T19:14:13Z",
+      "title": "Oil Prices On July 1: Brent Crude Climbs Above $73 As US-Iran Peace Talks Advance, Hormuz Traffic Picks Up",
+      "description": "Brent traded above $73 a barrel, while West Texas Intermediate (WTI) hovered near $70, after crude posted its steepest quarterly decline since the pandemic.",
+      "url": "https://www.ndtvprofit.com/markets/oil-prices-on-july-1-brent-crude-climbs-above-73-as-us-iran-peace-talks-advance-hormuz-traffic-picks-up-11710267",
+      "image": "https://c.ndtvimg.com/2026-04/7s6rt6eg_goldman-sachs-oil-price-forecast_625x300_27_April_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-07-01T01:31:17Z",
       "source": {
-        "name": "Barchart"
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Oil prices edge higher as US",
+      "description": "Brent was above $73 a barrel, while West Texas Intermediate was close to $70 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-edge-higher-as-us-iran-peace-talks-continue-19935967.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9c5cb1c381a69950568cf9635583dde2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-01T01:20:58Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Indian markets experienced a volatile session ahead of monthly expiry, with the Nifty closing lower at 23,866. Geopolitical tensions in West Asia are expected to keep investor sentiment cautious, despite a dip in crude oil prices. Analysts suggest a mixed trend for equities, with the Nifty potentially hovering around 24,000, but a break below 23,800 could signal a correction.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132103752.cms",
+      "image": "https://img.etimg.com/thumb/msid-132103749,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-01T01:18:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
+      "description": "Oil prices saw an uptick as Iran's refusal to meet U.S. envoys heightened tensions, impacting the fragile ceasefire. Despite recent declines following conflict de-escalation, analysts are revising forecasts. Meanwhile, U.S. crude and gasoline inventories dropped last week, with markets awaiting official government data. Tanker traffic through the Strait of Hormuz is reportedly recovering, easing supply disruption fears.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-higher-as-irans-refusal-to-meet-us-envoys-dims-ceasefire-hopes/articleshow/132103641.cms",
+      "image": "https://img.etimg.com/thumb/msid-132103646,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-01T00:46:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
+      "description": "Oil prices rose in early trade on Wednesday as investors responded to news that \u200cIran will not be meeting with U.S. envoys, a further strain on the interim ceasefire agreed between the two in the four-month-long war.",
+      "url": "https://www.reuters.com/business/energy/oil-ticks-higher-irans-refusal-meet-us-envoys-dims-ceasefire-hopes-2026-07-01/",
+      "image": "https://www.reuters.com/resizer/v2/KUAAXSISNJOFBCBWDP7AMJQQDY.jpg?auth=5359e0bee7d8927c9a601b4066d69b5476039f1d4e174e5de14a851acb19d8b1&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-01T00:45:09Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Oil ticks higher as Iran's refusal to meet US envoys dims ceasefire hopes",
+      "description": "Oil prices rose in early trade on Wednesday as investors responded to news that Iran will not be meeting with U.S. envoys, a further strain on the interim ceasefire agreed between the two in the...",
+      "url": "https://www.marketscreener.com/news/oil-ticks-higher-as-iran-s-refusal-to-meet-us-envoys-dims-ceasefire-hopes-ce7f5fdddd88f120",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-07/2026-07-01T004441Z_1_LYNXMPEM601WG_RTROPTP_4_GLOBAL-OIL-KAZAKHSTAN.JPG",
+      "publishedAt": "2026-07-01T00:42:23Z",
+      "source": {
+        "name": "MarketScreener"
       }
     }
   ]
