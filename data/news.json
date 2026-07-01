@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-06-30T19:42:12+00:00",
+  "updated_at": "2026-07-01T02:34:25+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fuel excise cuts set to be extended until September",
-      "description": "The government have reduced excise on petrol and diesel as part of the fuel package announced back in April - it has now been extended into September as the cabinet will finalise measures today",
-      "url": "https://www.rsvplive.ie/news/irish-news/fuel-excise-cuts-set-extended-37365060",
-      "image": "https://i2-prod.rsvplive.ie/article37365061.ece/ALTERNATES/s1200d/0_National-Risk-Assessment-and-Priority-Actions-plan-13JPG.jpg",
-      "publishedAt": "2026-06-30T07:38:37Z",
+      "title": "Indian economy remains exposed to energy price shocks: RBI report",
+      "description": "India's economy faces potential exchange rate volatility due to rising oil prices and supply chain issues, an RBI report revealed. Despite strong fundamentals, the nation remains vulnerable to energy price shocks and geopolitical tensions. While recent policy measures have eased pressure on the rupee and bond yields, attracting capital remains a focus amidst global uncertainties.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indian-economy-remains-exposed-to-energy-price-shocks-rbi-report/articleshow/132095310.cms",
+      "image": "https://img.etimg.com/thumb/msid-132095327,width-1200,height-630,imgsize-39860,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-06-30T14:34:00Z",
       "source": {
-        "name": "RSVP Live"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Newsom Defends California Gas Tax",
-      "description": "Gavin Newsom criticizes Trump administration for profiting off high gas prices, defends California's gas tax.",
-      "url": "https://www.benzinga.com/news/politics/26/06/60178194/gavin-newsom-defends-california-gas-tax-blames-gop-enabled-iran-war-for-63-billion-in-higher-fuel-costs",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/30/Sacramento--Ca---Jan-10--2024-Governor-G.jpg",
-      "publishedAt": "2026-06-30T07:32:42Z",
+      "title": "Families will be \u2018aghast\u2019 at phased withdrawal of fuel tax cuts, Sinn F\u00e9in says",
+      "description": "Cabinet has agreed to begin gradual reduction of reliefs, worth 32 cent on litre of diesel and 27 cent on petrol, from September 1st",
+      "url": "https://www.irishtimes.com/politics/2026/06/30/families-will-be-aghast-at-phased-withdrawal-of-fuel-tax-cuts-sinn-fein-says/",
+      "image": "https://www.irishtimes.com/resizer/v2/RYNVEXQ2ABAVBMQAGAMUKLNRPI.JPG?smart=true&auth=8a7c9e2b6dfbdfb0fcb519cc9b29ee9faeab2d5b61ed25f58ccf8ec07464efe3&width=1200&height=630",
+      "publishedAt": "2026-06-30T14:32:52Z",
       "source": {
-        "name": "Benzinga"
+        "name": "The Irish Times"
       }
     },
     {
-      "title": "Trump Loses It Over Gas Prices in Unhinged Meltdown",
-      "description": "The president demanded that retailers lower their prices \u201cimmediately.\u201d",
-      "url": "https://www.thedailybeast.com/donald-trump-loses-it-over-gas-prices-in-unhinged-meltdown/",
-      "image": "https://www.thedailybeast.com/resizer/v2/WBFO7DZZ5BEPNF5B7SAUDE37FQ.jpg?smart=true&auth=10a03c7127e206ac688274f9a9745c37e23ca35d32be4f067ef804d889ab4f97&width=1200&height=630",
-      "publishedAt": "2026-06-30T07:32:05Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.ocregister.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "The Daily Beast"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "Euro Zone Bond Yields Decline Amid Potential U.S.-Iran Talks",
-      "description": "Euro zone bond yields slightly decreased as oil prices hovered low, with focus on potential U.S.-Iran talks. Germany's 10- and 2-year bond yields fell 1 basis point each. Brent crude oil declined, while euro zone inflation figures awaited. ECB's monetary policy conference added to market dynamics.",
-      "url": "https://www.devdiscourse.com/article/business/3942799-euro-zone-bond-yields-decline-amid-potential-us-iran-talks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/08_07_2024_06_29_57_495893.png&width=920&format=jpeg",
-      "publishedAt": "2026-06-30T07:32:00Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.baltimoresun.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Baltimore Sun"
       }
     },
     {
-      "title": "Why Delhi's 2028 Petrol Two-Wheeler Ban Is A High-Stakes Move?",
-      "description": "Delhi EV Policy 2026: Why a complete ban on the registration of petrol two-wheelers from April 1, 2028, makes sense? We explain.",
-      "url": "https://www.ndtv.com/auto/explainer-why-delhis-2028-petrol-two-wheeler-ban-is-a-high-stakes-move-11706293",
-      "image": "https://c.ndtvimg.com/2026-06/vkqmqtqs_delhievpolicy2026petroltwowheelerban_625x300_30_June_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-06-30T07:29:15Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.bostonherald.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "NDTV.com"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "Auto demand likely to remain strong, easing crude, aluminium, PGM prices to support margins: Kotak",
-      "description": "India's automobile sector is likely to remain on a strong footing in the coming quarters, as demand has remained resilient despite the hike in petrol and diesel prices. In addition, easing commodity costs are expected to provide much-needed relief to automakers' profit margins, according to a report by Kotak Institutional Equities.",
-      "url": "https://www.tribuneindia.com/news/business/auto-demand-likely-to-remain-strong-easing-crude-aluminium-pgm-prices-to-support-margins-kotak/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWVjZTRjODAwLTc0NTMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-06-30T07:18:36Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.courant.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Hartford Courant"
       }
     },
     {
-      "title": "Rupee heads for first quarterly gain in five on cooling oil prices and a policy boost",
-      "description": "The Indian rupee aims for its first quarterly gain since March 2025, buoyed by falling oil prices and policy support.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/rupee-heads-for-first-quarterly-gain-in-five-on-cooling-oil-prices-and-a-policy-boost/article71164693.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/di1lur/article71164712.ece/alternates/LANDSCAPE_1200/IMG_bl16_rupee_pic_4_1_V5FNIGST.jpg",
-      "publishedAt": "2026-06-30T07:00:29Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.sandiegouniontribune.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "E20 Petrol Update: Centre tells Supreme Court ethanol blending an experiment, results to be assessed next year",
-      "description": "E20 Petrol Update: Centre tells Supreme Court ethanol blending an experiment, results to be assessed next year",
-      "url": "https://www.india.com/news/india/e20-petrol-update-centre-tells-supreme-court-ethanol-blending-an-experiment-results-to-be-assessed-next-year-8461545/",
-      "image": "https://static.india.com/wp-content/uploads/2026/06/Breaking-News-Today-1-11.jpg",
-      "publishedAt": "2026-06-30T06:51:12Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.readingeagle.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "India.com"
+        "name": "Reading Eagle"
       }
     },
     {
-      "title": "Delhi Petrol Bike Ban Explained: EV Policy 2.0, 2028 Deadline and Should You Buy a Two-Wheeler in 2026?",
-      "description": "Understand Delhi\u2019s 2026 EV Policy 2.0 and what the petrol bike registration ban from April 2028 means for you. Learn if you should still buy a petrol two-wheeler, the subsidies on electric scooters and bikes, and how existing petrol vehicles are affected.",
-      "url": "https://www.outlookindia.com/national/delhis-petrol-bike-ban-should-you-still-buy-a-two-wheeler-in-2026",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-30/wz5tixgu/Fuel_station_20190706.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-30T06:50:09Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.pilotonline.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "Outlook India"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "FMCG sector set for strong Q1, lower crude oil prices to boost margins, says Anand Rathi; Marico, HUL among top picks",
-      "description": "The FMCG sector is expected to see healthy revenue growth in FY27, fueled by innovation and price adjustments. Anand Rathi highlights top picks like Marico and Hindustan Unilever, despite rural demand risks associated with weather conditions impacting the market.",
-      "url": "https://www.livemint.com/market/stock-market-news/fmcg-sector-set-for-strong-q1-lower-crude-oil-prices-to-boost-margins-says-anand-rathi-marico-hul-among-top-picks-11782800531811.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/30/1600x900/logo/US-TARGET-FACES-PRICE-PRESSURES-FROM-TARIFFS-AMID-_1782800991950_1782800992177_cd5d5ed9-b503-45bd-a7e1-963e39d518eb.jpg",
-      "publishedAt": "2026-06-30T06:45:53Z",
+      "title": "Consumer confidence ticks up as gas prices fall, economic gloom lingers",
+      "description": "Americans\u2019 attitudes toward the economy improved slightly this month as gas prices declined, but their outlook is still mostly negative.",
+      "url": "https://www.dailycamera.com/2026/06/30/consumer-confidence-june/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/06/AP26177441823955.jpg?w=1024&h=682",
+      "publishedAt": "2026-06-30T14:26:47Z",
       "source": {
-        "name": "Livemint"
+        "name": "Boulder Daily Camera"
       }
     }
   ]
