@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-07-02T08:41:35+00:00",
+  "updated_at": "2026-07-02T13:29:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Oil falls after US, Iran talks conclude in Doha",
+      "description": "Oil prices dipped as Qatar reported positive progress in indirect Iran-U.S. talks concerning the vital Strait of Hormuz. Despite recent exchanges, tanker traffic is recovering, with U.S. officials noting a return to pre-war levels. This, coupled with anticipated OPEC+ output hikes and a smaller-than-expected draw in U.S. crude inventories, is fueling expectations of oversupply and pushing prices lower.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-after-us-iran-talks-conclude-in-doha/articleshow/132126892.cms",
+      "image": "https://img.etimg.com/thumb/msid-132126900,width-1200,height-630,imgsize-46250,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-02T01:15:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
+      "description": "Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.",
+      "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&w=1920&h=1080",
+      "publishedAt": "2026-07-02T00:59:34Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "Brent crude prices fall below $71 a barrel as traffic flows through Hormuz, talks progress",
+      "description": "Crude oil prices reported their worst quarter since 2020, reversing all the gains made during the Iran war, during which prices had gone up to as high as $125 a barrel. Prices are now extending losses as flows continue through Hormuz, though not at pre-war levels, but better than peak war levels too.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-brent-wti-extend-losses-strait-of-hormuz-us-iran-talks-barrels-stockpiles-19936469.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-02t00-43-54652832-2026-07-b3d88c20e4f51dce97ab7706ea8908e5.jpeg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-02T00:45:48Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "\u2018Experts\u2019 Stumped About How Trump Proved Them Wrong on Oil Prices: \u2018It\u2019s the Weirdest Thing\u2019",
+      "description": "When I was a younger, more wide-eyed man, there was one job I always wanted: weather anchor.",
+      "url": "https://www.thegatewaypundit.com/2026/07/experts-stumped-trump-proved-wrong-oil-prices-weirdest/",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/06/trump-economy-1200x630.jpg",
+      "publishedAt": "2026-07-02T00:40:27Z",
+      "source": {
+        "name": "The Gateway Pundit"
+      }
+    },
+    {
+      "title": "ATF price cut by Rs 5/ltr, commercial LPG price by Rs 183.50/19 kg cylinder",
+      "description": "new delhi :\u00a0aviation turbine fuel (atf) and commercial lpg prices were cut on wednesday as easing tensions in west asia pulled down international oil prices, while private fuel retailer nayara energy lowered petrol and diesel prices, beco",
+      "url": "https://www.thehitavada.com/Encyc/2026/7/2/atf-price-cut-by-rs-5ltr-commercial-lpg-price-by-rs-1835019-kg-cylinder.html",
+      "image": "https://www.thehitavada.com/Encyc/2026/7/2/New-Army-chief-unveils_202607021142141039_H@@IGHT_338_W@@IDTH_600.jpg",
+      "publishedAt": "2026-07-02T00:00:00Z",
+      "source": {
+        "name": "The Hitavada"
+      }
+    },
+    {
+      "title": "AIMTC Welcomes Nayara's \u20b95 Petrol, \u20b93 Diesel Cut - Urges Centre And OMCs To Follow Suit Amid Falling Crude",
+      "description": "All India Motor Transport Congress advisor Bal Malkit Singh has urged the Centre and oil marketing companies to reduce fuel prices, following Nayara Energy\u2019s decision to cut petrol by \u20b95 per litre and diesel by \u20b93 per litre. He cited falling global crude prices below $70 per barrel and called for relief to transporters facing high operational costs and freight pressures.",
+      "url": "https://www.freepressjournal.in/mumbai/aimtc-welcomes-nayaras-5-petrol-3-diesel-cut-urges-centre-and-omcs-to-follow-suit-amid-falling-crude",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-01/dgpcr7ek/Untitled-design-2026-07-01T094744.851.jpg",
+      "publishedAt": "2026-07-01T23:40:15Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "2026 Chery C5 and E5 price and specs: Hybrid joins small SUV range",
+      "description": "The Chery C5 can now be had with hybrid power like the boxier, more popular Tiggo 4 small SUV, joining existing petrol and electric options.",
+      "url": "https://7news.com.au/motoring/2026-chery-c5-and-e5-price-and-specs-hybrid-joins-small-suv-range-c-22517464",
+      "image": "https://images.7news.com.au/publication/C-22517464/6c9dd58b81dc9185495282d06b346e9472a6e901-16x9-x0y66w1273h716.jpg?imwidth=1200",
+      "publishedAt": "2026-07-01T23:35:24Z",
+      "source": {
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "2026 Chery C5 and E5 price and specs: Hybrid joins small SUV range",
+      "description": "The Chery C5 can now be had with hybrid power like the boxier, more popular Tiggo 4 small SUV, joining existing petrol and electric options.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2026-chery-c5-and-e5-price-and-specs-hybrid-joins-small-suv-range-c-22517463",
+      "image": "https://images.perthnow.com.au/publication/C-22517463/6c9dd58b81dc9185495282d06b346e9472a6e901-16x9-x0y66w1273h716.jpg?imwidth=1200",
+      "publishedAt": "2026-07-01T23:35:24Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
     {
       "title": "Climate Support Levy increased to Rs5 per litre on petrol, diesel",
       "description": "ISLAMABAD - Meeting another condition set by the International Monetary Fund (IMF), the federal government has increased the Climate Support Levy on petrol from Rs2.50",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-07-01T20:15:52Z",
       "source": {
         "name": "HuffPost"
-      }
-    },
-    {
-      "title": "Gas prices averaged $3.53 in Iowa the week of July 1",
-      "description": "As of Wednesday, the price of regular unleaded gasoline averaged $3.53 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_48ffb7ae-822a-4114-ab49-5286fe6b75a4.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/4/8f/48ffb7ae-822a-4114-ab49-5286fe6b75a4/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-07-01T20:15:00Z",
-      "source": {
-        "name": "Sioux City Journal"
-      }
-    },
-    {
-      "title": "Daily on Energy: Trump\u2019s nuclear deadline met, oil prices decline further, and U.S. to outpace China on fossil fuel spending",
-      "description": "Last year, President Donald Trump set the ambitious target of having three new advanced nuclear reactors achieve criticality by July 4th.",
-      "url": "https://www.washingtonexaminer.com/daily-on-energy/4633157/daily-on-energy-trump-nuclear-deadline-met/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/07/DOE-e1779306299575.webp?resize=1200,683",
-      "publishedAt": "2026-07-01T19:42:20Z",
-      "source": {
-        "name": "Washington Examiner"
-      }
-    },
-    {
-      "title": "Crude Prices Slide as Geopolitical Risks Ease",
-      "description": "August WTI crude oil (CLQ26 ) on Wednesday closed down -0.92 (-1.32%), and August RBOB gasoline (RBQ26 ) closed up +0.0503 (+1.74%). Crude oil and gasoline prices settled mixed on Wednesday, with crude falling to a 4.25-month low and gasoline rising...",
-      "url": "https://www.barchart.com/story/news/3084651/crude-prices-slide-as-geopolitical-risks-ease",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20pipeline%20in%20alaska%202%20by%20jotoya%20via%20Pixabay.jpg",
-      "publishedAt": "2026-07-01T19:13:57Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Fall on Expectations of a Large Weekly Storage Build",
-      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed down -0.055 (-1.68%). Nat-gas prices fell on Wednesday amid expectations of a larger-than-average build in weekly storage levels. The consensus is that Thursday\u2019s weekly EIA nat-gas inventories w...",
-      "url": "https://www.barchart.com/story/news/3084614/nat-gas-prices-fall-on-expectations-of-a-large-weekly-storage-build",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-07-01T19:12:02Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Detroit carmakers mostly miss out on demand boom for hybrids",
-      "description": "Fuel-sipping hybrids have become some of the hottest vehicles on the lot this year as gas prices hover near $4 a gallon. The problem for Detroit\u2019s automakers is that they don\u2019t have many to offer.",
-      "url": "https://www.chicagotribune.com/2026/07/01/detroit-carmakers-hybrids/",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/CTC-Z-DETROIT-CARMAKERS-01.jpg?w=1024&h=577",
-      "publishedAt": "2026-07-01T19:10:37Z",
-      "source": {
-        "name": "Chicago Tribune"
-      }
-    },
-    {
-      "title": "D-FW retail powers ahead amid grocery push though macro issues weigh",
-      "description": "D-FW retail powers ahead amid grocery push though macro issues. New Weitzman report signals steady demand but there are some concerns with inflation, gas prices",
-      "url": "https://www.dallasnews.com/business/retail/article/d-fw-retail-powers-ahead-amid-grocery-push-though-22328561.php",
-      "image": "https://s.hdnux.com/photos/01/66/24/55/31017830/7/rawImage.jpg",
-      "publishedAt": "2026-07-01T18:54:17Z",
-      "source": {
-        "name": "The Dallas Morning News"
-      }
-    },
-    {
-      "title": "Wisconsin Kwik Trip Cited for Raising Gas Prices Twice in a Day",
-      "description": "A Hartford Kwik Trip was caught raising fuel prices twice in 24 hours, which is a Wisconsin law violation. Here's the rule, how it works, and what happened.",
-      "url": "https://kdhlradio.com/ixp/150/p/wisconsin-kwik-trip-gas-price-violation/",
-      "image": "https://townsquare.media/site/150/files/2026/07/attachment-kwik1.jpg?w=1200&format=natural",
-      "publishedAt": "2026-07-01T18:21:33Z",
-      "source": {
-        "name": "kdhlradio.com"
-      }
-    },
-    {
-      "title": "\u2018It\u2019s fair to ask whether it was worth it\u2019: The Iran war has cost Americans $1,000 per household-and that\u2019s a conservative estimate, Mark Zandi says",
-      "description": "Gas prices, higher interest rates, and taxpayers covering military costs are adding up to quite the bill for American households.",
-      "url": "https://www.newsbreak.com/fortune-561435/4744377693652-it-s-fair-to-ask-whether-it-was-worth-it-the-iran-war-has-cost-americans-1-000-per-household-and-that-s-a-conservative-estimate-mark-zandi-says",
-      "image": "https://img.particlenews.com/img/id/0FicwH_1CtXigPw00",
-      "publishedAt": "2026-07-01T18:11:14Z",
-      "source": {
-        "name": "NewsBreak"
       }
     }
   ]
