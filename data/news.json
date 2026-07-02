@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-02T13:29:42+00:00",
+  "updated_at": "2026-07-02T19:09:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil falls after US, Iran talks conclude in Doha",
-      "description": "Oil prices dipped as Qatar reported positive progress in indirect Iran-U.S. talks concerning the vital Strait of Hormuz. Despite recent exchanges, tanker traffic is recovering, with U.S. officials noting a return to pre-war levels. This, coupled with anticipated OPEC+ output hikes and a smaller-than-expected draw in U.S. crude inventories, is fueling expectations of oversupply and pushing prices lower.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-after-us-iran-talks-conclude-in-doha/articleshow/132126892.cms",
-      "image": "https://img.etimg.com/thumb/msid-132126900,width-1200,height-630,imgsize-46250,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-02T01:15:00Z",
+      "title": "India ramps up share sale plans to cushion budget hit from oil",
+      "description": "India accelerates stake sales in major state-owned firms to stabilize finances impacted by high oil prices.",
+      "url": "https://www.thehindubusinessline.com/markets/india-ramps-up-share-sale-plans-to-cushion-budget-hit-from-oil/article71173301.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/8cnsym/article71173411.ece/alternates/LANDSCAPE_1200/PO02_Accounting.jpg",
+      "publishedAt": "2026-07-02T07:08:20Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Oil prices fall after U.S.-Iran talks conclude in Doha",
-      "description": "Oil prices fell more than 1% on Wednesday after talks between Washington and Tehran concluded.",
-      "url": "https://www.cnbc.com/2026/07/02/oil-prices-fall-after-us-iran-talks-conclude-in-doha.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108326595-1782375177613-gettyimages-2282087363-AA_21062026_2840956.jpeg?v=1782389474&w=1920&h=1080",
-      "publishedAt": "2026-07-02T00:59:34Z",
+      "title": "Foreign inflows, lower oil prices help Indian bond traders look past US Treasury selloff",
+      "description": "Indian bonds rise as foreign inflows and lower oil prices offset U.S. Treasury selloff, boosting investor confidence.",
+      "url": "https://www.thehindubusinessline.com/markets/foreign-inflows-lower-oil-prices-help-indian-bond-traders-look-past-us-treasury-selloff/article71173288.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/36uuik/article71173352.ece/alternates/LANDSCAPE_1200/IMG_bonds_2_1_82C7FS92.jpg",
+      "publishedAt": "2026-07-02T06:54:44Z",
       "source": {
-        "name": "CNBC"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Brent crude prices fall below $71 a barrel as traffic flows through Hormuz, talks progress",
-      "description": "Crude oil prices reported their worst quarter since 2020, reversing all the gains made during the Iran war, during which prices had gone up to as high as $125 a barrel. Prices are now extending losses as flows continue through Hormuz, though not at pre-war levels, but better than peak war levels too.",
-      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-brent-wti-extend-losses-strait-of-hormuz-us-iran-talks-barrels-stockpiles-19936469.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-02t00-43-54652832-2026-07-b3d88c20e4f51dce97ab7706ea8908e5.jpeg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-02T00:45:48Z",
+      "title": "Rupee Rises 26 Paise to 94.90 Against US Dollar",
+      "description": "Lower crude oil prices and strong foreign bond inflows support the domestic currency in early trade.",
+      "url": "https://www.deccanchronicle.com/business/economics/rupee-rises-26-paise-to-9490-against-us-dollar-1967783",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/05/04/2037440-2032672-rupee.jpg",
+      "publishedAt": "2026-07-02T06:50:35Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "\u2018Experts\u2019 Stumped About How Trump Proved Them Wrong on Oil Prices: \u2018It\u2019s the Weirdest Thing\u2019",
-      "description": "When I was a younger, more wide-eyed man, there was one job I always wanted: weather anchor.",
-      "url": "https://www.thegatewaypundit.com/2026/07/experts-stumped-trump-proved-wrong-oil-prices-weirdest/",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/06/trump-economy-1200x630.jpg",
-      "publishedAt": "2026-07-02T00:40:27Z",
+      "title": "India's EV Surge Could Slash Crude Oil Bills by Rs 1 Lakh Crore by 2030",
+      "description": "India is poised to replace 35 lakh petrol vehicles with electric vehicles between 2027-2030, potentially saving nearly Rs 1 lakh crore in crude oil imports by 2030. Enhanced EV adoption, driven by geopolitical factors, is accelerating, necessitating expanded charging infrastructure and comprehensive regulatory frameworks.",
+      "url": "https://www.devdiscourse.com/article/business/3943938-indias-ev-surge-could-slash-crude-oil-bills-by-rs-1-lakh-crore-by-2030",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/02_07_2026_12_19_49_5435546.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-02T06:49:56Z",
       "source": {
-        "name": "The Gateway Pundit"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "ATF price cut by Rs 5/ltr, commercial LPG price by Rs 183.50/19 kg cylinder",
-      "description": "new delhi :\u00a0aviation turbine fuel (atf) and commercial lpg prices were cut on wednesday as easing tensions in west asia pulled down international oil prices, while private fuel retailer nayara energy lowered petrol and diesel prices, beco",
-      "url": "https://www.thehitavada.com/Encyc/2026/7/2/atf-price-cut-by-rs-5ltr-commercial-lpg-price-by-rs-1835019-kg-cylinder.html",
-      "image": "https://www.thehitavada.com/Encyc/2026/7/2/New-Army-chief-unveils_202607021142141039_H@@IGHT_338_W@@IDTH_600.jpg",
-      "publishedAt": "2026-07-02T00:00:00Z",
+      "title": "Oil prices fall to pre-war levels as Strait of Hormuz shipping slowly recovers",
+      "description": "Tanker traffic through Hormuz has begun to recover, though vessel movements remain well below pre-conflict levels",
+      "url": "https://www.independent.co.uk/news/business/oil-prices-today-us-iran-talks-trump-b3007273.html",
+      "image": "https://static.independent.co.uk/2026/07/02/07/2026-07-01T164535Z_267159373_RC2KVKADMUK6_RTRMADP_3_GLOBAL-OIL.JPG?width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-07-02T06:46:38Z",
       "source": {
-        "name": "The Hitavada"
+        "name": "The Independent"
       }
     },
     {
-      "title": "AIMTC Welcomes Nayara's \u20b95 Petrol, \u20b93 Diesel Cut - Urges Centre And OMCs To Follow Suit Amid Falling Crude",
-      "description": "All India Motor Transport Congress advisor Bal Malkit Singh has urged the Centre and oil marketing companies to reduce fuel prices, following Nayara Energy\u2019s decision to cut petrol by \u20b95 per litre and diesel by \u20b93 per litre. He cited falling global crude prices below $70 per barrel and called for relief to transporters facing high operational costs and freight pressures.",
-      "url": "https://www.freepressjournal.in/mumbai/aimtc-welcomes-nayaras-5-petrol-3-diesel-cut-urges-centre-and-omcs-to-follow-suit-amid-falling-crude",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-01/dgpcr7ek/Untitled-design-2026-07-01T094744.851.jpg",
-      "publishedAt": "2026-07-01T23:40:15Z",
+      "title": "Rs 1 lakh crore on crude imports will be saved by 2030, as 35 lakh EVs will replace petrol vehicles: SBI Report",
+      "description": "Around 35 lakh more electric vehicles (EVs) are expected to replace petrol vehicles during 2027-2030, helping India save nearly Rs 1 lakh crore in crude oil import bills if EVs account for 20 per cent of the vehicle market by 2030, according to a report by the State Bank of India (SBI).",
+      "url": "https://www.tribuneindia.com/news/business/rs-1-lakh-crore-on-crude-imports-will-be-saved-by-2030-as-35-lakh-evs-will-replace-petrol-vehicles-sbi-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFlZTM5MmYwLTc1ZTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-02T06:38:41Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "2026 Chery C5 and E5 price and specs: Hybrid joins small SUV range",
-      "description": "The Chery C5 can now be had with hybrid power like the boxier, more popular Tiggo 4 small SUV, joining existing petrol and electric options.",
-      "url": "https://7news.com.au/motoring/2026-chery-c5-and-e5-price-and-specs-hybrid-joins-small-suv-range-c-22517464",
-      "image": "https://images.7news.com.au/publication/C-22517464/6c9dd58b81dc9185495282d06b346e9472a6e901-16x9-x0y66w1273h716.jpg?imwidth=1200",
-      "publishedAt": "2026-07-01T23:35:24Z",
+      "title": "BPCL, HPCL, IOC shares gain up to 4% amid oil price fall, Nayara petrol, diesel rate cuts",
+      "description": "HPCL gained the most, rising 3.58 per cent to Rs 392.20 apiece. BPCL rose 3.33 per cent to hit a high of Rs 314.35 on BSE. IOC added 2.75 per cent to Rs 143.75.",
+      "url": "https://www.businesstoday.in/markets/stocks/story/bpcl-hpcl-ioc-shares-gain-up-to-4-amid-oil-price-fall-nayara-petrol-diesel-rate-cuts-540448-2026-07-02",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a460328eeb51-icici-securities-factored-in-a-weak-h1fy27e-for-the-omcs--with-high-retail-losses-and-now-the-potent-022019545-16x9.png",
+      "publishedAt": "2026-07-02T06:30:46Z",
       "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "2026 Chery C5 and E5 price and specs: Hybrid joins small SUV range",
-      "description": "The Chery C5 can now be had with hybrid power like the boxier, more popular Tiggo 4 small SUV, joining existing petrol and electric options.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/2026-chery-c5-and-e5-price-and-specs-hybrid-joins-small-suv-range-c-22517463",
-      "image": "https://images.perthnow.com.au/publication/C-22517463/6c9dd58b81dc9185495282d06b346e9472a6e901-16x9-x0y66w1273h716.jpg?imwidth=1200",
-      "publishedAt": "2026-07-01T23:35:24Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Climate Support Levy increased to Rs5 per litre on petrol, diesel",
-      "description": "ISLAMABAD - Meeting another condition set by the International Monetary Fund (IMF), the federal government has increased the Climate Support Levy on petrol from Rs2.50",
-      "url": "https://www.nation.com.pk/02-Jul-2026/climate-support-levy-increased-rs5-per-litre-petrol-diesel",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-07-01T20:29:00Z",
-      "source": {
-        "name": "The Nation"
+        "name": "Business Today"
       }
     },
     {
       "title": "Trump Chief Says There Are \u2018Guys Living In Caves\u2019 Responsible For Strait Of Hormuz Debacle",
       "description": "The crucial waterway closed earlier this year thanks to the Iran war, sending oil prices to skyrocket worldwide.",
-      "url": "https://www.huffpost.com/entry/kevin-hassett-strait-of-hormuz-update-guys-living-in-caves_n_6a45528fe4b0fd8f280c1d11",
-      "image": "https://img.huffingtonpost.com/asset/6a45544618000029421562fc.jpg?cache=KUDAMkjvVM&ops=1200_630",
-      "publishedAt": "2026-07-01T20:15:52Z",
+      "url": "https://www.huffingtonpost.co.uk/entry/trump-chief-strait-hormuz-iran_uk_6a4603c8e4b03060a84bb57b",
+      "image": "https://img.huffingtonpost.com/asset/6a45544618000029421562fc.jpg?cache=KUDAMkjvVM&ops=500_281%2Cscalefit_1200_630",
+      "publishedAt": "2026-07-02T06:26:08Z",
       "source": {
-        "name": "HuffPost"
+        "name": "Huffpost Uk"
+      }
+    },
+    {
+      "title": "Fed can afford to stay patient as inflation risks ease: Steve Englander",
+      "description": "The Federal Reserve is unlikely to alter interest rates soon, as inflation moderates and the economy remains stable, according to Steve Englander of Standard Chartered. He believes muted labor costs and easing oil prices reduce the need for immediate policy shifts.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-can-afford-to-stay-patient-as-inflation-risks-ease-steve-englander/articleshow/132130592.cms",
+      "image": "https://img.etimg.com/thumb/msid-132130626,width-1200,height-630,imgsize-27536,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-02T06:17:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Fed can afford to stay patient as inflation risks ease: Steve Englander",
+      "description": "The Federal Reserve is unlikely to alter interest rates soon, as inflation moderates and the economy remains stable, according to Steve Englander of Standard Chartered. He believes muted labor costs and easing oil prices reduce the need for immediate policy shifts.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fed-can-afford-to-stay-patient-as-inflation-risks-ease-steve-englander/articleshow/132130691.cms",
+      "image": "https://img.etimg.com/thumb/msid-132130626,width-1200,height-630,imgsize-27536,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-02T06:17:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
