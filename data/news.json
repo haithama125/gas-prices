@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-03T13:42:23+00:00",
+  "updated_at": "2026-07-03T19:01:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "\"Fuel price cut will be legitimate question if crude stays at current levels\": Hardeep Singh Puri",
-      "description": "Union Minister for Petroleum and Natural Gas Hardeep Singh Puri on Thursday stated that a reduction in retail petrol and diesel prices would become a 'legitimate question' if global crude oil prices stabilise at their current levels for the next few weeks, though he maintained it was too early to speculate on an immediate price cut.",
-      "url": "https://www.tribuneindia.com/news/world/fuel-price-cut-will-be-legitimate-question-if-crude-stays-at-current-levels-hardeep-singh-puri/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjYTk1NmQwLTc2N2QtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-03T01:18:01Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Global Market Today: Asian stocks slip on AI woes, oil extends drop",
-      "description": "Asian stocks dipped, mirroring a global tech sell-off fueled by concerns that the AI rally has overheated. Investors are questioning sky-high valuations amid rising costs and market competition. Meanwhile, US Treasuries saw yields fall after softer jobs data and lower oil prices eased expectations for further Federal Reserve rate hikes this year, though at least one increase remains priced in.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slip-on-ai-woes-oil-extends-drop/articleshow/132150465.cms",
-      "image": "https://img.etimg.com/thumb/msid-132150463,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-03T01:08:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Idaho gas prices fall as Fourth travel heats up",
-      "description": "\u201cWhat Idaho drivers are paying is a far cry from the recent peak of $4.70 back in late April,\u201d says AAA Idaho public affairs director Matthew Conde. \u201cCrude oil prices have come down as the market shows guarded optimism about tensions in the Middle East. But the peace is fragile, as we just saw over the weekend. Any surge in the conflict can have a direct effect on oil and pump prices.\u201d",
-      "url": "https://cdapress.com/news/2026/jul/03/idaho-gas-prices-fall-as-fourth-travel-heats-up/",
-      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
-      "publishedAt": "2026-07-03T01:00:00Z",
-      "source": {
-        "name": "Coeur d'Alene Press"
-      }
-    },
-    {
-      "title": "Cheaper oil, RBI support fail to lift rupee amid dollar demand",
-      "description": "The Indian rupee weakened to 95.39 against the dollar on Thursday, despite lower oil prices and central bank support. Demand from foreign banks, oil firms, and investor outflows pressured the currency. Traders noted Reserve Bank of India intervention, particularly in the morning, and offshore dollar sales. This marks a 0.45% depreciation for the rupee this financial year.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/cheaper-oil-rbi-support-fail-to-lift-rupee-amid-dollar-demand/articleshow/132150297.cms",
-      "image": "https://img.etimg.com/thumb/msid-132150295,width-1200,height-630,imgsize-77877,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-03T00:22:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "cr loss on fuel sales amid West Asia crisis: Puri",
-      "description": "NEW DELHI, Jul 2: Oil marketing companies suffered Rs 74,781-crore losses for selling petrol, diesel and LPG below cost for the period up to June 30 when global crude oil prices spiked in the wake of the West Asia conflict,...",
-      "url": "https://www.dailyexcelsior.com/oil-cos-suffered-rs-74781-cr-loss-on-fuel-sales-amid-west-asia-crisis-puri/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWM3NjQ1MTAwLTc2NjktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-02T23:00:10Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Trump Says Iran Retains Missiles as Denuclearisation Talks Continue",
-      "description": "Trump asserted that Iran still has some missiles but the U.S. could eliminate them if necessary, while reaffirming that the Iran situation is about denuclearisation, not war. Indirect talks in Doha through Qatari mediators showed positive progress on a 14-point memorandum of understanding signed on June 17, even as Tehran declined direct negotiations. Oil prices slipped, with WTI falling 1.17% to $67.78 and Brent declining 0.99% to $70.86, amid hopes of avoided supply disruptions.",
-      "url": "https://scanx.trade/stock-market-news/global/trump-confirms-meeting-with-iran-on-june-30-in-doha/44282781",
-      "image": "http://news-images.dhan.co/trump-confirms-meeting-with-iran-on-june-30-in-doha.jpg",
-      "publishedAt": "2026-07-02T22:50:26Z",
-      "source": {
-        "name": "scanx.trade"
-      }
-    },
-    {
-      "title": "Govt expects pick-up in economy as West Asia situation improves",
-      "description": "India Business News: NEW DELHI: With the situation in West Asia improving and oil prices falling, govt expects a pick-up in the economy, amid economic indicators pointing .",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/govt-expects-pick-up-in-economy-as-west-asia-situation-improves/articleshow/132148103.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132148102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-02T21:33:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Global Market Shake-Up: Mixed Signals on Stocks and Interest Rates",
-      "description": "Global stocks showed little change as optimism over potential U.S. interest rate hikes was balanced by the decline in semiconductor shares. U.S. job growth slowed, affecting rate hike expectations, while the dollar weakened. Oil prices remained stable, and key indices experienced mixed movements on the final trading day before a holiday.",
-      "url": "https://www.devdiscourse.com/article/business/3944454-global-market-shake-up-mixed-signals-on-stocks-and-interest-rates",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_15_12_19_0163178.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-02T21:21:44Z",
+      "title": "Kejriwal Criticizes Modi Government over E20 Petrol Experimentation",
+      "description": "AAP leader Arvind Kejriwal accuses the Indian government of forcibly imposing E20 petrol, causing vehicle damage and reduced fuel efficiency. He highlights public discontent and questions the government's decision amid conflicting statements regarding the policy's experimental nature. Kejriwal plans to address the issue with Prime Minister Modi.",
+      "url": "https://www.devdiscourse.com/article/politics/3944632-kejriwal-criticizes-modi-government-over-e20-petrol-experimentation",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_07_2026_12_08_07_2687341.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-03T06:38:13Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "US stocks today: Nasdaq ends lower with tech slip; investors assess softer jobs data",
-      "description": "US markets closed mixed as weak June jobs data cooled rate hike fears. Nasdaq fell on tech and chip stock declines, while the Dow rose strongly. Tesla slipped despite strong deliveries. Softer payrolls reduced Fed tightening expectations, offering near-term relief, even as inflation concerns tied to oil prices persisted.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data/articleshow/132147710.cms",
-      "image": "https://img.etimg.com/thumb/msid-132147710,width-1200,height-630,imgsize-302540,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-02T20:05:00Z",
+      "title": "Does E20 petrol reduce mileage of your car, bike? Centre answers",
+      "description": "Union Minister Hardeep Singh Puri has admitted E20 petrol may slightly impact vehicle mileage, but clarifies that drop is tied to multiple factors, not just ethanol.",
+      "url": "https://indianexpress.com/article/india/e20-petrol-ethanol-reduces-mileage-of-car-bike-hardeep-puri-10769363/",
+      "image": "https://images.indianexpress.com/2026/07/Hardeep-Singh-Puri.jpg",
+      "publishedAt": "2026-07-03T06:37:11Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Skoda Kodiaq RS launched at Rs 66.99 lakh: First batch sold out in just 6 minutes",
+      "description": "Skoda has launched the performance-focused Kodiaq RS in India at an ex-showroom price of Rs. 66.99 lakh. Powered by a 265hp 2.0-litre turbo-petrol engine, the fully imported SUV accelerates from 0-100kmph in just 6.3 seconds.",
+      "url": "https://www.indiatvnews.com/auto/skoda-kodiaq-rs-launched-at-rs-66-99-lakh-first-batch-sold-out-in-just-6-minutes-2026-07-03-1046991",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/skoda-1783059914.jpg",
+      "publishedAt": "2026-07-03T06:34:04Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "Food inflation projected to average 6% in FY27 amid rainfall deficit concerns: CareEdge Ratings",
+      "description": "India faces a challenging economic outlook with food inflation projected at 6% and CPI at 5% in FY27, largely due to a severe monsoon deficit impacting agriculture. Despite a widening non-oil trade deficit, strong services exports and a surge in FDI inflows are providing crucial support. Remittances also show robust growth, bolstering the economy. Government and RBI measures aim to stabilize the rupee, with crude oil prices expected around $90/bbl.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/food-inflation-projected-to-average-6-in-fy27-amid-rainfall-deficit-concerns-careedge-ratings/articleshow/132153945.cms",
+      "image": "https://img.etimg.com/thumb/msid-132154024,width-1200,height-630,imgsize-231188,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-03T06:14:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Oil Prices Recover as the Dollar Weakens",
-      "description": "August WTI crude oil (CLQ26 ) on Thursday closed up +0.11 (+0.16%), and August RBOB gasoline (RBQ26 ) closed down -0.0279 (-0.95%). Crude oil and gasoline prices settled mixed on Thursday. Crude oil recovered from a 4.25-month low on Thursday and po...",
-      "url": "https://www.barchart.com/story/news/3104957/crude-oil-prices-recover-as-the-dollar-weakens",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/2%20pumpjacks%20at%20sunset%20by%20vadimrysev%20via%20iStock.jpg",
-      "publishedAt": "2026-07-02T19:12:09Z",
+      "title": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
+      "description": "Petrol, diesel rates today on July 3: Have OMCs slashed fuel prices? Check latest levels across Delhi, Mumbai, Noida - full list",
+      "url": "https://www.moneycontrol.com/news/business/commodities/petrol-diesel-rates-today-on-july-3-have-omcs-slashed-fuel-prices-check-latest-levels-across-delhi-mumbai-noida-full-list-13965120.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251006073110_petrol-pti.jpg",
+      "publishedAt": "2026-07-03T05:54:04Z",
       "source": {
-        "name": "Barchart"
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "State Fuel Retailers Lost \u20b974,781 Cr in Q1, Says Oil Minister Puri",
+      "description": "State-run oil marketing companies in India suffered losses of \u20b974,781 crore in April\u2013June by selling fuel below market rates, even as Brent crude prices fall. Oil minister Hardeep Singh Puri remains noncommittal on cutting petrol and diesel prices, saying refiners are still processing higher-priced crude. Read how losses, global price trends, and private refiners like Nayara Energy could shape future fuel prices.",
+      "url": "https://www.outlookbusiness.com/economy-and-policy/state-fuel-retailers-lost-74781-cr-in-q1-says-oil-minister-puri",
+      "image": "https://media.assettype.com/outlookbusiness/2026-06-08/9k5o10a4/Hardeep_puri_pti1.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-03T05:44:15Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "Rupee rises 19 paise to 95.16 against US dollar in early trade",
+      "description": "Rupee appreciates 19 paise to 95.16 against the US dollar amid weaker dollar index and lower crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-19-paise-to-9516-against-us-dollar-in-early-trade/article71177383.ece",
+      "image": "https://th-i.thgim.com/public/news/national/ombnzs/article71137302.ece/alternates/LANDSCAPE_1200/iStock-1063408740%202.jpg",
+      "publishedAt": "2026-07-03T05:24:21Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Sensex Rises 550 Points, Nifty Gains 0.6% In Early Trade As IT Stocks Rally",
+      "description": "Benchmark indices Sensex and Nifty rose sharply in early trade, driven by gains in IT stocks and softer US jobs data that eased Fed tightening concerns. Global cues were positive, with Asian markets higher. Analysts cited cooling crude oil prices and moderating FII outflows as additional support for sentiment",
+      "url": "https://www.freepressjournal.in/business/sensex-rises-550-points-nifty-gains-06-in-early-trade-as-it-stocks-rally",
+      "image": "https://media.assettype.com/freepressjournal/2026-02-27/lebhj5he/Share-Market-Open-Close-3.jpg",
+      "publishedAt": "2026-07-03T05:04:00Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Sensex and Nifty Surge Amid Weak US Labor Data and Falling Crude Prices",
+      "description": "Indian stock markets opened strong with the Sensex up over 500 points and Nifty surpassing 24,300, driven by weak US labor data and falling crude oil prices. Investors are optimistic about a more accommodative US Federal Reserve policy. IT, metal, and telecom sectors, along with several prominent companies, led the gains.",
+      "url": "https://www.devdiscourse.com/article/business/3944562-sensex-and-nifty-surge-amid-weak-us-labor-data-and-falling-crude-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_07_2026_10_14_11_4454464.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-03T04:44:15Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Cossacks, volunteers help keep order at petrol stations in Russian Black Sea resort",
+      "description": "July 3 - Cossacks and volunteers have stepped in to help city officials and police keep order and prevent conflicts at petrol stations in the popular Russian Black Sea resort of Anapa, as Ukrainian attacks worsen a countrywide fuel crisis. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/cossacks-volunteers-help-keep-order-at-petrol-stations-in-russian-black-sea-resort",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/00830043a4caac6c38a390d68c9bd7ea8cb9bf57d78b6a4f1c149c9d5ec10d6c",
+      "publishedAt": "2026-07-03T04:35:58Z",
+      "source": {
+        "name": "The Straits Times"
       }
     }
   ]
