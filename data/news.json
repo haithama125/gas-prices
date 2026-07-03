@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-07-03T08:49:00+00:00",
+  "updated_at": "2026-07-03T13:42:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "\"Fuel price cut will be legitimate question if crude stays at current levels\": Hardeep Singh Puri",
+      "description": "Union Minister for Petroleum and Natural Gas Hardeep Singh Puri on Thursday stated that a reduction in retail petrol and diesel prices would become a 'legitimate question' if global crude oil prices stabilise at their current levels for the next few weeks, though he maintained it was too early to speculate on an immediate price cut.",
+      "url": "https://www.tribuneindia.com/news/world/fuel-price-cut-will-be-legitimate-question-if-crude-stays-at-current-levels-hardeep-singh-puri/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjYTk1NmQwLTc2N2QtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-03T01:18:01Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Global Market Today: Asian stocks slip on AI woes, oil extends drop",
+      "description": "Asian stocks dipped, mirroring a global tech sell-off fueled by concerns that the AI rally has overheated. Investors are questioning sky-high valuations amid rising costs and market competition. Meanwhile, US Treasuries saw yields fall after softer jobs data and lower oil prices eased expectations for further Federal Reserve rate hikes this year, though at least one increase remains priced in.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-slip-on-ai-woes-oil-extends-drop/articleshow/132150465.cms",
+      "image": "https://img.etimg.com/thumb/msid-132150463,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-03T01:08:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Idaho gas prices fall as Fourth travel heats up",
+      "description": "\u201cWhat Idaho drivers are paying is a far cry from the recent peak of $4.70 back in late April,\u201d says AAA Idaho public affairs director Matthew Conde. \u201cCrude oil prices have come down as the market shows guarded optimism about tensions in the Middle East. But the peace is fragile, as we just saw over the weekend. Any surge in the conflict can have a direct effect on oil and pump prices.\u201d",
+      "url": "https://cdapress.com/news/2026/jul/03/idaho-gas-prices-fall-as-fourth-travel-heats-up/",
+      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
+      "publishedAt": "2026-07-03T01:00:00Z",
+      "source": {
+        "name": "Coeur d'Alene Press"
+      }
+    },
+    {
+      "title": "Cheaper oil, RBI support fail to lift rupee amid dollar demand",
+      "description": "The Indian rupee weakened to 95.39 against the dollar on Thursday, despite lower oil prices and central bank support. Demand from foreign banks, oil firms, and investor outflows pressured the currency. Traders noted Reserve Bank of India intervention, particularly in the morning, and offshore dollar sales. This marks a 0.45% depreciation for the rupee this financial year.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/cheaper-oil-rbi-support-fail-to-lift-rupee-amid-dollar-demand/articleshow/132150297.cms",
+      "image": "https://img.etimg.com/thumb/msid-132150295,width-1200,height-630,imgsize-77877,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-03T00:22:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "cr loss on fuel sales amid West Asia crisis: Puri",
+      "description": "NEW DELHI, Jul 2: Oil marketing companies suffered Rs 74,781-crore losses for selling petrol, diesel and LPG below cost for the period up to June 30 when global crude oil prices spiked in the wake of the West Asia conflict,...",
+      "url": "https://www.dailyexcelsior.com/oil-cos-suffered-rs-74781-cr-loss-on-fuel-sales-amid-west-asia-crisis-puri/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWM3NjQ1MTAwLTc2NjktMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-02T23:00:10Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Trump Says Iran Retains Missiles as Denuclearisation Talks Continue",
+      "description": "Trump asserted that Iran still has some missiles but the U.S. could eliminate them if necessary, while reaffirming that the Iran situation is about denuclearisation, not war. Indirect talks in Doha through Qatari mediators showed positive progress on a 14-point memorandum of understanding signed on June 17, even as Tehran declined direct negotiations. Oil prices slipped, with WTI falling 1.17% to $67.78 and Brent declining 0.99% to $70.86, amid hopes of avoided supply disruptions.",
+      "url": "https://scanx.trade/stock-market-news/global/trump-confirms-meeting-with-iran-on-june-30-in-doha/44282781",
+      "image": "http://news-images.dhan.co/trump-confirms-meeting-with-iran-on-june-30-in-doha.jpg",
+      "publishedAt": "2026-07-02T22:50:26Z",
+      "source": {
+        "name": "scanx.trade"
+      }
+    },
+    {
+      "title": "Govt expects pick-up in economy as West Asia situation improves",
+      "description": "India Business News: NEW DELHI: With the situation in West Asia improving and oil prices falling, govt expects a pick-up in the economy, amid economic indicators pointing .",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/govt-expects-pick-up-in-economy-as-west-asia-situation-improves/articleshow/132148103.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132148102,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-02T21:33:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Global Market Shake-Up: Mixed Signals on Stocks and Interest Rates",
+      "description": "Global stocks showed little change as optimism over potential U.S. interest rate hikes was balanced by the decline in semiconductor shares. U.S. job growth slowed, affecting rate hike expectations, while the dollar weakened. Oil prices remained stable, and key indices experienced mixed movements on the final trading day before a holiday.",
+      "url": "https://www.devdiscourse.com/article/business/3944454-global-market-shake-up-mixed-signals-on-stocks-and-interest-rates",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_15_12_19_0163178.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-02T21:21:44Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
     {
       "title": "US stocks today: Nasdaq ends lower with tech slip; investors assess softer jobs data",
       "description": "US markets closed mixed as weak June jobs data cooled rate hike fears. Nasdaq fell on tech and chip stock declines, while the Dow rose strongly. Tesla slipped despite strong deliveries. Softer payrolls reduced Fed tightening expectations, offering near-term relief, even as inflation concerns tied to oil prices persisted.",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-07-02T19:12:09Z",
       "source": {
         "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Retreat as US Storage Levels Build",
-      "description": "August Nymex natural gas (NGQ26 ) on Thursday closed down -0.024 (-0.75%). Nat-gas prices slid to a 2-week low on Thursday and settled lower after weekly US nat-gas storage rose more than expected. The EIA reported that weekly EIA nat-gas inventorie...",
-      "url": "https://www.barchart.com/story/news/3104938/nat-gas-prices-retreat-as-us-storage-levels-build",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Jack%20up%20drilling%20rigs%20off%20coast%20by%20Elliot%20Day%20via%20Pixabay.jpg",
-      "publishedAt": "2026-07-02T19:11:18Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "California's Fourth of July gas prices see massive increase in 2026",
-      "description": "Heading into the Fourth of July holiday, California's average gasoline price per gallon is $5.40, up nearly $1 from 2025 when fuel prices were $4.57, according to AAA.",
-      "url": "https://nypost.com/2026/07/02/us-news/californias-fourth-of-july-gas-prices-see-massive-increase-in-2026/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133053047.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-02T19:10:58Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "California's Fourth of July gas prices see massive increase in 2026",
-      "description": "Heading into the Fourth of July holiday, California's average gasoline price per gallon is $5.40, up nearly $1 from 2025 when fuel prices were $4.57, according to AAA.",
-      "url": "https://nypost.com/2026/07/02/lifestyle/californias-fourth-of-july-gas-prices-see-massive-increase-in-2026/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133053047.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-02T19:10:58Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Tesla global auto sales jump 25% in 2nd quarter, beating expectations",
-      "description": "NEW YORK \u2014 Tesla reported a jump in second-quarter auto sales Thursday, as Elon Musk's electric vehicle company easily topped expectations in a period of lofty gasoline prices due to the US-Iran war.",
-      "url": "https://www.manilatimes.net/2026/07/03/business/tesla-global-auto-sales-jump-25-in-2nd-quarter-beating-expectations/2377773",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123094.jpg",
-      "publishedAt": "2026-07-02T18:32:00Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Market Dynamics: Nascent Jobs Report and Tech Stocks' Slump",
-      "description": "The Nasdaq and S&P 500 dipped due to a second day of declines in technology stocks, while a lower-than-expected U.S. jobs report eased concerns over potential Federal Reserve interest rate hikes. Semiconductor stocks experienced significant losses. Oil prices fell amid diplomatic progress between Iran and the U.S., impacting markets.",
-      "url": "https://www.devdiscourse.com/article/business/3944409-market-dynamics-nascent-jobs-report-and-tech-stocks-slump",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_13_37_15_1383422.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-02T18:29:58Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Brazil to phase out subsidy for diesel more slowly than for gasoline, minister says",
-      "description": "Brazil's government will take longer to phase out its diesel subsidy than the gasoline benefit, \u200creflecting concerns the process must be handled carefully, even after the drop in global oil prices, to avoid price shocks or fuel shortages, Planning and Budget Minister Bruno Moretti told Reuters on Thursday.",
-      "url": "https://www.reuters.com/business/energy/brazil-phase-out-subsidy-diesel-more-slowly-than-gasoline-minister-says-2026-07-02/",
-      "image": "https://www.reuters.com/resizer/v2/QRTIHPWFYVLXXCPGKTINDHQ3G4.jpg?auth=42fdf48a554815128627da4ca86e08ae1df31bb5959b28320a1f0e5b11ab651f&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-02T18:26:09Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices to fall only after cheaper crude oil reaches Indian refiners: Hardeep Puri",
-      "description": "Petrol and diesel prices will only decrease after cheaper crude oil reaches Indian refiners, says Petroleum Minister Hardeep Puri.",
-      "url": "https://www.thehindu.com/business/Industry/petrol-diesel-prices-to-fall-only-after-cheaper-crude-oil-reaches-indian-refiners-hardeep-puri/article71175419.ece",
-      "image": "https://th-i.thgim.com/public/incoming/rqh06f/article71175768.ece/alternates/LANDSCAPE_1200/20260702283L.jpg",
-      "publishedAt": "2026-07-02T18:02:06Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Keir Starmer and Ed Miliband are out of control - anyone with a car should be furious",
-      "description": "Keir Starmer and Ed Miliband's petrol and diesel car ban plan is out of control - at this point, no one wants it.",
-      "url": "https://www.express.co.uk/life-style/cars/2224511/keir-starmer-ed-miliband-zev-mandate-petrol-diesel-car-ban",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7017406.jpg",
-      "publishedAt": "2026-07-02T18:00:00Z",
-      "source": {
-        "name": "Daily Express"
       }
     }
   ]
