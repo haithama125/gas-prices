@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-02T19:09:07+00:00",
+  "updated_at": "2026-07-03T01:58:46+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India ramps up share sale plans to cushion budget hit from oil",
-      "description": "India accelerates stake sales in major state-owned firms to stabilize finances impacted by high oil prices.",
-      "url": "https://www.thehindubusinessline.com/markets/india-ramps-up-share-sale-plans-to-cushion-budget-hit-from-oil/article71173301.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/8cnsym/article71173411.ece/alternates/LANDSCAPE_1200/PO02_Accounting.jpg",
-      "publishedAt": "2026-07-02T07:08:20Z",
+      "title": "Air India Cuts Fuel Surcharge On Long-Haul Flights To US, UK, Europe And Australia",
+      "description": "Air India has reduced fuel surcharges on long-haul flights to North America, Europe, the UK and Australia following a fall in crude oil prices.",
+      "url": "https://www.newsx.com/india/air-india-cuts-fuel-surcharge-on-long-haul-flights-to-us-uk-europe-and-australia-243840/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/06/air-india.jpg",
+      "publishedAt": "2026-07-02T13:53:10Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "NewsX"
       }
     },
     {
-      "title": "Foreign inflows, lower oil prices help Indian bond traders look past US Treasury selloff",
-      "description": "Indian bonds rise as foreign inflows and lower oil prices offset U.S. Treasury selloff, boosting investor confidence.",
-      "url": "https://www.thehindubusinessline.com/markets/foreign-inflows-lower-oil-prices-help-indian-bond-traders-look-past-us-treasury-selloff/article71173288.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/36uuik/article71173352.ece/alternates/LANDSCAPE_1200/IMG_bonds_2_1_82C7FS92.jpg",
-      "publishedAt": "2026-07-02T06:54:44Z",
+      "title": "Oil prices start falling as Iran negotiations continue; gas prices are next: Expert",
+      "description": "Former White House economic adviser Steve Moore says Americans may soon see relief at the gas pump as lower oil prices work through the market.",
+      "url": "https://foxbaltimore.com/news/nation-world/oil-prices-start-falling-as-iran-negotiations-continue-gas-prices-are-next-expert-iran-strait-of-hormuz-trump-gas-station",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/7961/1320/0x415/90/0574462c-301a-4f6c-98ae-5ea8e38237fc-GettyImages2283298117.jpg",
+      "publishedAt": "2026-07-02T13:38:56Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Rupee Rises 26 Paise to 94.90 Against US Dollar",
-      "description": "Lower crude oil prices and strong foreign bond inflows support the domestic currency in early trade.",
-      "url": "https://www.deccanchronicle.com/business/economics/rupee-rises-26-paise-to-9490-against-us-dollar-1967783",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/05/04/2037440-2032672-rupee.jpg",
-      "publishedAt": "2026-07-02T06:50:35Z",
+      "title": "Oil prices start falling as Iran negotiations continue; gas prices are next: Expert",
+      "description": "Former White House economic adviser Steve Moore says Americans may soon see relief at the gas pump as lower oil prices work through the market.",
+      "url": "https://wjla.com/news/nation-world/oil-prices-start-falling-as-iran-negotiations-continue-gas-prices-are-next-expert-iran-strait-of-hormuz-trump-gas-station",
+      "image": "https://wjla.com/resources/media2/16x9/7961/1320/0x415/90/0574462c-301a-4f6c-98ae-5ea8e38237fc-GettyImages2283298117.jpg",
+      "publishedAt": "2026-07-02T13:38:56Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "WJLA"
       }
     },
     {
-      "title": "India's EV Surge Could Slash Crude Oil Bills by Rs 1 Lakh Crore by 2030",
-      "description": "India is poised to replace 35 lakh petrol vehicles with electric vehicles between 2027-2030, potentially saving nearly Rs 1 lakh crore in crude oil imports by 2030. Enhanced EV adoption, driven by geopolitical factors, is accelerating, necessitating expanded charging infrastructure and comprehensive regulatory frameworks.",
-      "url": "https://www.devdiscourse.com/article/business/3943938-indias-ev-surge-could-slash-crude-oil-bills-by-rs-1-lakh-crore-by-2030",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/02_07_2026_12_19_49_5435546.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-02T06:49:56Z",
+      "title": "Jet Fuel Price Stabilization Scheme Fails, No Airlines Sign Up as Oil Prices Fall",
+      "description": "Jet fuel price stabilization program fails as no airlines sign up. Declining oil prices made the \u20b910,000-crore scheme unattractive.",
+      "url": "https://www.cnbctv18.com/business/aviation/airlines-shun-rs-10000-crore-atf-subsidy-as-fuel-prices-fall-19937510.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/airlines-1-2026-06-b81fb30f367763a4778a1b3d4028eb0a.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-02T13:32:59Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil prices fall to pre-war levels as Strait of Hormuz shipping slowly recovers",
-      "description": "Tanker traffic through Hormuz has begun to recover, though vessel movements remain well below pre-conflict levels",
-      "url": "https://www.independent.co.uk/news/business/oil-prices-today-us-iran-talks-trump-b3007273.html",
-      "image": "https://static.independent.co.uk/2026/07/02/07/2026-07-01T164535Z_267159373_RC2KVKADMUK6_RTRMADP_3_GLOBAL-OIL.JPG?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-07-02T06:46:38Z",
+      "title": "Why petrol and diesel prices haven't fallen yet? Hardeep Singh Puri hints at rate cut after sustained low crude prices",
+      "description": "Fuel prices might see a dip if international crude oil rates stay low for a few more weeks, according to Union Minister Hardeep Puri. Oil companies are currently using crude purchased at higher prices during the West Asia conflict, leading to past losses. However, sustained low global prices could pave the way for a reduction at the pump. India also plans to boost its oil storage capacity.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/why-petrol-and-diesel-prices-havent-fallen-yet-hardeep-singh-puri-hints-at-rate-cut-after-sustained-low-crude-prices/articleshow/132139900.cms",
+      "image": "https://img.etimg.com/thumb/msid-132140113,width-1200,height-630,imgsize-52428,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-02T13:28:00Z",
       "source": {
-        "name": "The Independent"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Rs 1 lakh crore on crude imports will be saved by 2030, as 35 lakh EVs will replace petrol vehicles: SBI Report",
-      "description": "Around 35 lakh more electric vehicles (EVs) are expected to replace petrol vehicles during 2027-2030, helping India save nearly Rs 1 lakh crore in crude oil import bills if EVs account for 20 per cent of the vehicle market by 2030, according to a report by the State Bank of India (SBI).",
-      "url": "https://www.tribuneindia.com/news/business/rs-1-lakh-crore-on-crude-imports-will-be-saved-by-2030-as-35-lakh-evs-will-replace-petrol-vehicles-sbi-report/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFlZTM5MmYwLTc1ZTAtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-02T06:38:41Z",
+      "title": "Don't expect petrol and diesel prices to fall just yet: Hardeep Puri",
+      "description": "Global crude oil prices have fallen to around $70 a barrel, but Petroleum Minister Hardeep Singh Puri says petrol and diesel prices are unlikely to be cut immediately because the fuel currently being sold was bought earlier at higher prices. He said any review of retail prices would depend on crude remaining at current levels for the next two to three months.",
+      "url": "https://www.cnbctv18.com/energy/dont-expect-petrol-and-diesel-prices-to-fall-just-yet-hardeep-puri-19937422.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-02t171125713-2026-07-5581b7778e5bdab3db068a79722b0edc.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-02T13:08:15Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Tesla Sales Rebound As It Cashes in on Sky-High Gas Prices",
+      "description": "A spike in gas prices due to the war in the Middle East appear to have given the EV industry a shot in the arm.",
+      "url": "https://www.businessinsider.com/tesla-sales-q2-ev-gas-prices-2026-7",
+      "image": "https://i.insider.com/6a43a8ade218c3b62535f1a1?width=1200&format=jpeg",
+      "publishedAt": "2026-07-02T13:06:18Z",
+      "source": {
+        "name": "Business Insider"
+      }
+    },
+    {
+      "title": "Will Centre slash petrol, diesel prices? Here's what minister Hardeep Singh Puri said amid sliding crude oil",
+      "description": "Public sector oil marketing companies, including Bharat Petroleum Corporation Ltd (BPCL), Hindustan Petroleum Corporation Ltd (HPCL) and India Oil Corporation Ltd (IOCL), have raised petrol and diesel prices by a cumulative \u20b97.5 per litre each through multiple revisions in the second half of May",
+      "url": "https://www.theweek.in/news/biz-tech/2026/07/02/will-petrol-diesel-price-cut-crude-oil-petroleum-minister.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/5/25/petrol-hike-patna-PTI.jpg",
+      "publishedAt": "2026-07-02T13:06:04Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Oil firms lost nearly Rs 75,000 cr on fuel sales between Apr",
+      "description": "State-owned oil marketing companies' (OMCs) suffered a total loss of Rs 74,781 crore for selling petrol, diesel, and liquefied petroleum gas (LPG) below cost in the period April-June 2026.",
+      "url": "https://www.tribuneindia.com/news/business/oil-firms-lost-nearly-rs-75000-cr-on-fuel-sales-between-apr-june-amid-west-asia-crisis-hardeep-puri/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczZGE5OTIwLTc2MTYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-02T13:03:36Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "BPCL, HPCL, IOC shares gain up to 4% amid oil price fall, Nayara petrol, diesel rate cuts",
-      "description": "HPCL gained the most, rising 3.58 per cent to Rs 392.20 apiece. BPCL rose 3.33 per cent to hit a high of Rs 314.35 on BSE. IOC added 2.75 per cent to Rs 143.75.",
-      "url": "https://www.businesstoday.in/markets/stocks/story/bpcl-hpcl-ioc-shares-gain-up-to-4-amid-oil-price-fall-nayara-petrol-diesel-rate-cuts-540448-2026-07-02",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a460328eeb51-icici-securities-factored-in-a-weak-h1fy27e-for-the-omcs--with-high-retail-losses-and-now-the-potent-022019545-16x9.png",
-      "publishedAt": "2026-07-02T06:30:46Z",
+      "title": "Nigeria's NNPC Revenue Drops in May Despite Higher Oil Output",
+      "description": "NNPC's May revenue fell to $3.15 billion even as Nigeria's crude output rose to 1.73 million bpd, as oil prices cooled from April's highs.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-NNPC-Revenue-Drops-in-May-Despite-Higher-Oil-Output.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-02_a2dylxvwhq.jpg",
+      "publishedAt": "2026-07-02T13:00:00Z",
       "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Trump Chief Says There Are \u2018Guys Living In Caves\u2019 Responsible For Strait Of Hormuz Debacle",
-      "description": "The crucial waterway closed earlier this year thanks to the Iran war, sending oil prices to skyrocket worldwide.",
-      "url": "https://www.huffingtonpost.co.uk/entry/trump-chief-strait-hormuz-iran_uk_6a4603c8e4b03060a84bb57b",
-      "image": "https://img.huffingtonpost.com/asset/6a45544618000029421562fc.jpg?cache=KUDAMkjvVM&ops=500_281%2Cscalefit_1200_630",
-      "publishedAt": "2026-07-02T06:26:08Z",
-      "source": {
-        "name": "Huffpost Uk"
-      }
-    },
-    {
-      "title": "Fed can afford to stay patient as inflation risks ease: Steve Englander",
-      "description": "The Federal Reserve is unlikely to alter interest rates soon, as inflation moderates and the economy remains stable, according to Steve Englander of Standard Chartered. He believes muted labor costs and easing oil prices reduce the need for immediate policy shifts.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-can-afford-to-stay-patient-as-inflation-risks-ease-steve-englander/articleshow/132130592.cms",
-      "image": "https://img.etimg.com/thumb/msid-132130626,width-1200,height-630,imgsize-27536,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-02T06:17:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Fed can afford to stay patient as inflation risks ease: Steve Englander",
-      "description": "The Federal Reserve is unlikely to alter interest rates soon, as inflation moderates and the economy remains stable, according to Steve Englander of Standard Chartered. He believes muted labor costs and easing oil prices reduce the need for immediate policy shifts.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/fed-can-afford-to-stay-patient-as-inflation-risks-ease-steve-englander/articleshow/132130691.cms",
-      "image": "https://img.etimg.com/thumb/msid-132130626,width-1200,height-630,imgsize-27536,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-02T06:17:00Z",
-      "source": {
-        "name": "The Economic Times"
+        "name": "OilPrice"
       }
     }
   ]
