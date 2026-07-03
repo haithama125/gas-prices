@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-03T01:58:46+00:00",
+  "updated_at": "2026-07-03T08:49:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Air India Cuts Fuel Surcharge On Long-Haul Flights To US, UK, Europe And Australia",
-      "description": "Air India has reduced fuel surcharges on long-haul flights to North America, Europe, the UK and Australia following a fall in crude oil prices.",
-      "url": "https://www.newsx.com/india/air-india-cuts-fuel-surcharge-on-long-haul-flights-to-us-uk-europe-and-australia-243840/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/06/air-india.jpg",
-      "publishedAt": "2026-07-02T13:53:10Z",
-      "source": {
-        "name": "NewsX"
-      }
-    },
-    {
-      "title": "Oil prices start falling as Iran negotiations continue; gas prices are next: Expert",
-      "description": "Former White House economic adviser Steve Moore says Americans may soon see relief at the gas pump as lower oil prices work through the market.",
-      "url": "https://foxbaltimore.com/news/nation-world/oil-prices-start-falling-as-iran-negotiations-continue-gas-prices-are-next-expert-iran-strait-of-hormuz-trump-gas-station",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/7961/1320/0x415/90/0574462c-301a-4f6c-98ae-5ea8e38237fc-GettyImages2283298117.jpg",
-      "publishedAt": "2026-07-02T13:38:56Z",
-      "source": {
-        "name": "Baltimore News"
-      }
-    },
-    {
-      "title": "Oil prices start falling as Iran negotiations continue; gas prices are next: Expert",
-      "description": "Former White House economic adviser Steve Moore says Americans may soon see relief at the gas pump as lower oil prices work through the market.",
-      "url": "https://wjla.com/news/nation-world/oil-prices-start-falling-as-iran-negotiations-continue-gas-prices-are-next-expert-iran-strait-of-hormuz-trump-gas-station",
-      "image": "https://wjla.com/resources/media2/16x9/7961/1320/0x415/90/0574462c-301a-4f6c-98ae-5ea8e38237fc-GettyImages2283298117.jpg",
-      "publishedAt": "2026-07-02T13:38:56Z",
-      "source": {
-        "name": "WJLA"
-      }
-    },
-    {
-      "title": "Jet Fuel Price Stabilization Scheme Fails, No Airlines Sign Up as Oil Prices Fall",
-      "description": "Jet fuel price stabilization program fails as no airlines sign up. Declining oil prices made the \u20b910,000-crore scheme unattractive.",
-      "url": "https://www.cnbctv18.com/business/aviation/airlines-shun-rs-10000-crore-atf-subsidy-as-fuel-prices-fall-19937510.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/airlines-1-2026-06-b81fb30f367763a4778a1b3d4028eb0a.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-02T13:32:59Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Why petrol and diesel prices haven't fallen yet? Hardeep Singh Puri hints at rate cut after sustained low crude prices",
-      "description": "Fuel prices might see a dip if international crude oil rates stay low for a few more weeks, according to Union Minister Hardeep Puri. Oil companies are currently using crude purchased at higher prices during the West Asia conflict, leading to past losses. However, sustained low global prices could pave the way for a reduction at the pump. India also plans to boost its oil storage capacity.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/why-petrol-and-diesel-prices-havent-fallen-yet-hardeep-singh-puri-hints-at-rate-cut-after-sustained-low-crude-prices/articleshow/132139900.cms",
-      "image": "https://img.etimg.com/thumb/msid-132140113,width-1200,height-630,imgsize-52428,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-02T13:28:00Z",
+      "title": "US stocks today: Nasdaq ends lower with tech slip; investors assess softer jobs data",
+      "description": "US markets closed mixed as weak June jobs data cooled rate hike fears. Nasdaq fell on tech and chip stock declines, while the Dow rose strongly. Tesla slipped despite strong deliveries. Softer payrolls reduced Fed tightening expectations, offering near-term relief, even as inflation concerns tied to oil prices persisted.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-nasdaq-ends-lower-with-tech-investors-assess-softer-jobs-data/articleshow/132147710.cms",
+      "image": "https://img.etimg.com/thumb/msid-132147710,width-1200,height-630,imgsize-302540,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-02T20:05:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Don't expect petrol and diesel prices to fall just yet: Hardeep Puri",
-      "description": "Global crude oil prices have fallen to around $70 a barrel, but Petroleum Minister Hardeep Singh Puri says petrol and diesel prices are unlikely to be cut immediately because the fuel currently being sold was bought earlier at higher prices. He said any review of retail prices would depend on crude remaining at current levels for the next two to three months.",
-      "url": "https://www.cnbctv18.com/energy/dont-expect-petrol-and-diesel-prices-to-fall-just-yet-hardeep-puri-19937422.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-02t171125713-2026-07-5581b7778e5bdab3db068a79722b0edc.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-02T13:08:15Z",
+      "title": "Crude Oil Prices Recover as the Dollar Weakens",
+      "description": "August WTI crude oil (CLQ26 ) on Thursday closed up +0.11 (+0.16%), and August RBOB gasoline (RBQ26 ) closed down -0.0279 (-0.95%). Crude oil and gasoline prices settled mixed on Thursday. Crude oil recovered from a 4.25-month low on Thursday and po...",
+      "url": "https://www.barchart.com/story/news/3104957/crude-oil-prices-recover-as-the-dollar-weakens",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/2%20pumpjacks%20at%20sunset%20by%20vadimrysev%20via%20iStock.jpg",
+      "publishedAt": "2026-07-02T19:12:09Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Tesla Sales Rebound As It Cashes in on Sky-High Gas Prices",
-      "description": "A spike in gas prices due to the war in the Middle East appear to have given the EV industry a shot in the arm.",
-      "url": "https://www.businessinsider.com/tesla-sales-q2-ev-gas-prices-2026-7",
-      "image": "https://i.insider.com/6a43a8ade218c3b62535f1a1?width=1200&format=jpeg",
-      "publishedAt": "2026-07-02T13:06:18Z",
+      "title": "Nat-Gas Prices Retreat as US Storage Levels Build",
+      "description": "August Nymex natural gas (NGQ26 ) on Thursday closed down -0.024 (-0.75%). Nat-gas prices slid to a 2-week low on Thursday and settled lower after weekly US nat-gas storage rose more than expected. The EIA reported that weekly EIA nat-gas inventorie...",
+      "url": "https://www.barchart.com/story/news/3104938/nat-gas-prices-retreat-as-us-storage-levels-build",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Jack%20up%20drilling%20rigs%20off%20coast%20by%20Elliot%20Day%20via%20Pixabay.jpg",
+      "publishedAt": "2026-07-02T19:11:18Z",
       "source": {
-        "name": "Business Insider"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Will Centre slash petrol, diesel prices? Here's what minister Hardeep Singh Puri said amid sliding crude oil",
-      "description": "Public sector oil marketing companies, including Bharat Petroleum Corporation Ltd (BPCL), Hindustan Petroleum Corporation Ltd (HPCL) and India Oil Corporation Ltd (IOCL), have raised petrol and diesel prices by a cumulative \u20b97.5 per litre each through multiple revisions in the second half of May",
-      "url": "https://www.theweek.in/news/biz-tech/2026/07/02/will-petrol-diesel-price-cut-crude-oil-petroleum-minister.html",
-      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/5/25/petrol-hike-patna-PTI.jpg",
-      "publishedAt": "2026-07-02T13:06:04Z",
+      "title": "California's Fourth of July gas prices see massive increase in 2026",
+      "description": "Heading into the Fourth of July holiday, California's average gasoline price per gallon is $5.40, up nearly $1 from 2025 when fuel prices were $4.57, according to AAA.",
+      "url": "https://nypost.com/2026/07/02/us-news/californias-fourth-of-july-gas-prices-see-massive-increase-in-2026/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133053047.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-02T19:10:58Z",
       "source": {
-        "name": "THE WEEK"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Oil firms lost nearly Rs 75,000 cr on fuel sales between Apr",
-      "description": "State-owned oil marketing companies' (OMCs) suffered a total loss of Rs 74,781 crore for selling petrol, diesel, and liquefied petroleum gas (LPG) below cost in the period April-June 2026.",
-      "url": "https://www.tribuneindia.com/news/business/oil-firms-lost-nearly-rs-75000-cr-on-fuel-sales-between-apr-june-amid-west-asia-crisis-hardeep-puri/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTczZGE5OTIwLTc2MTYtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-02T13:03:36Z",
+      "title": "California's Fourth of July gas prices see massive increase in 2026",
+      "description": "Heading into the Fourth of July holiday, California's average gasoline price per gallon is $5.40, up nearly $1 from 2025 when fuel prices were $4.57, according to AAA.",
+      "url": "https://nypost.com/2026/07/02/lifestyle/californias-fourth-of-july-gas-prices-see-massive-increase-in-2026/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133053047.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-02T19:10:58Z",
       "source": {
-        "name": "The Tribune"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Nigeria's NNPC Revenue Drops in May Despite Higher Oil Output",
-      "description": "NNPC's May revenue fell to $3.15 billion even as Nigeria's crude output rose to 1.73 million bpd, as oil prices cooled from April's highs.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Nigerias-NNPC-Revenue-Drops-in-May-Despite-Higher-Oil-Output.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-02_a2dylxvwhq.jpg",
-      "publishedAt": "2026-07-02T13:00:00Z",
+      "title": "Tesla global auto sales jump 25% in 2nd quarter, beating expectations",
+      "description": "NEW YORK \u2014 Tesla reported a jump in second-quarter auto sales Thursday, as Elon Musk's electric vehicle company easily topped expectations in a period of lofty gasoline prices due to the US-Iran war.",
+      "url": "https://www.manilatimes.net/2026/07/03/business/tesla-global-auto-sales-jump-25-in-2nd-quarter-beating-expectations/2377773",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/03/1123094.jpg",
+      "publishedAt": "2026-07-02T18:32:00Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Manila Times"
+      }
+    },
+    {
+      "title": "Market Dynamics: Nascent Jobs Report and Tech Stocks' Slump",
+      "description": "The Nasdaq and S&P 500 dipped due to a second day of declines in technology stocks, while a lower-than-expected U.S. jobs report eased concerns over potential Federal Reserve interest rate hikes. Semiconductor stocks experienced significant losses. Oil prices fell amid diplomatic progress between Iran and the U.S., impacting markets.",
+      "url": "https://www.devdiscourse.com/article/business/3944409-market-dynamics-nascent-jobs-report-and-tech-stocks-slump",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_13_37_15_1383422.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-02T18:29:58Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Brazil to phase out subsidy for diesel more slowly than for gasoline, minister says",
+      "description": "Brazil's government will take longer to phase out its diesel subsidy than the gasoline benefit, \u200creflecting concerns the process must be handled carefully, even after the drop in global oil prices, to avoid price shocks or fuel shortages, Planning and Budget Minister Bruno Moretti told Reuters on Thursday.",
+      "url": "https://www.reuters.com/business/energy/brazil-phase-out-subsidy-diesel-more-slowly-than-gasoline-minister-says-2026-07-02/",
+      "image": "https://www.reuters.com/resizer/v2/QRTIHPWFYVLXXCPGKTINDHQ3G4.jpg?auth=42fdf48a554815128627da4ca86e08ae1df31bb5959b28320a1f0e5b11ab651f&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-02T18:26:09Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices to fall only after cheaper crude oil reaches Indian refiners: Hardeep Puri",
+      "description": "Petrol and diesel prices will only decrease after cheaper crude oil reaches Indian refiners, says Petroleum Minister Hardeep Puri.",
+      "url": "https://www.thehindu.com/business/Industry/petrol-diesel-prices-to-fall-only-after-cheaper-crude-oil-reaches-indian-refiners-hardeep-puri/article71175419.ece",
+      "image": "https://th-i.thgim.com/public/incoming/rqh06f/article71175768.ece/alternates/LANDSCAPE_1200/20260702283L.jpg",
+      "publishedAt": "2026-07-02T18:02:06Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Keir Starmer and Ed Miliband are out of control - anyone with a car should be furious",
+      "description": "Keir Starmer and Ed Miliband's petrol and diesel car ban plan is out of control - at this point, no one wants it.",
+      "url": "https://www.express.co.uk/life-style/cars/2224511/keir-starmer-ed-miliband-zev-mandate-petrol-diesel-car-ban",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7017406.jpg",
+      "publishedAt": "2026-07-02T18:00:00Z",
+      "source": {
+        "name": "Daily Express"
       }
     }
   ]
