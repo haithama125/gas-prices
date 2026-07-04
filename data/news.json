@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-04T01:56:55+00:00",
+  "updated_at": "2026-07-04T08:23:45+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mob sets panchayat neta\u2019s house, vehicles ablaze in Shyampur",
-      "description": "Mob torches Howrah panchayat upa-pradhan\u2019s home, SUV and bikes in Shyampur; wife doused in petrol but rescued by police; 10 held, tensions persist.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/mob-sets-panchayat-netas-house-vehicles-ablaze-in-shyampur/articleshow/132163082.cms",
+      "title": "Falling Oil Prices Are Putting Pressure On African Exporter Budgets Across The Continent. But The Real Strain Is Showing In Nigeria\u2019s Heavy Dependence On Crude Revenue.",
+      "description": "Falling oil price expectations are renewing pressure on African crude exporters, threatening government budgets that depend heavily on energy revenue just as debt costs, currency weakness and public",
+      "url": "https://www.ibtimes.com/falling-oil-prices-are-putting-pressure-african-exporter-budgets-across-continent-real-strain-3804906",
+      "image": "https://d.ibtimes.com/en/full/4650926/nigeria-energy-oil-investment.jpg",
+      "publishedAt": "2026-07-03T20:12:57Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "Blast triggers fire at restaurant inside Lucknow petrol pump",
+      "description": "Blast-triggered fire broke out at a restaurant inside a Lucknow petrol pump in Khurram Nagar; likely AC compressor explosion, no casualties, firefighters contained blaze.",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/blast-triggers-fire-at-restaurant-inside-lucknow-petrol-pump/articleshow/132170474.cms",
       "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-07-03T13:32:00Z",
+      "publishedAt": "2026-07-03T19:52:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "India's Petrol Exports to 'Unknown' Markets Jump in June amid Russian Trade Buzz",
-      "description": "India\u2019s petrol exports to \u2018unknown\u2019 markets surged 84% in June just as Russia battles fuel shortages from Ukrainian drone strikes. Explore how mysterious shipping routes, denials from New Delhi, and record Russian crude flows to India are reshaping global energy trade.",
-      "url": "https://www.outlookbusiness.com/economy-and-policy/indias-petrol-exports-to-unknown-markets-jump-in-june-amid-russian-trade-buzz",
-      "image": "https://media.assettype.com/outlookbusiness/2026-07-03/udktdc3m/ChatGPT-Image-Jul-3-2026-064736-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-03T13:24:17Z",
+      "title": "Himachal: Apple growers fear E20 fuel is taking a toll on farm machinery",
+      "description": "Apple growers in Himachal Pradesh are raising concerns over the impact of 20 per cent ethanol-blended petrol (E20) on farm equipment, claiming that the fuel is reducing machine efficiency, increasing maintenance costs and affecting the longevity of petrol-operated tools widely used in orchards.",
+      "url": "https://www.tribuneindia.com/news/himachal/himachal-apple-growers-fear-e20-fuel-is-taking-a-toll-on-farm-machinery/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5NzYwNmEwLTc3MTctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-03T19:46:12Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Oil prices stable as U.S.-Iran peace efforts hold",
-      "description": "Benchmarks touched pre-war \u200blows on Thursday",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-stable-as-us-iran-peace-efforts-hold/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/CL3IGAICY5CGNKSUGJWS4AMVKU.JPG?auth=0e25eaabfdd8a0133add5420ef5883d2b30ef2fad6283e1e5135f3d69d3a8236&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-07-03T13:24:13Z",
+      "title": "Govt. says ethanol blending backed by extensive trials and best practices as concerns linger despite clarifications",
+      "description": "Government defends ethanol blending in petrol as safe, amid ongoing public concerns and political opposition from Kejriwal.",
+      "url": "https://www.thehindu.com/business/Industry/govt-says-ethanol-blending-backed-by-extensive-trials-and-best-practices-as-concerns-linger-despite-clarifications/article71179805.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ev5nf7/article71180340.ece/alternates/LANDSCAPE_1200/20260605321L.jpg",
+      "publishedAt": "2026-07-03T19:39:18Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "E20 ethanol row: Fresh claims question Centre's Supreme Court stand after 'experiment' denial",
-      "description": "The Attorney General's Office clarified that the June 30 hearing related to contractual provisions governing ethanol procurement by oil marketing companies from dedicated ethanol plants and not the merits of the Ethanol Blended Petrol Programme.",
-      "url": "https://www.cnbctv18.com/energy/e20-fuel-row-critics-question-governments-changing-positioning-of-programmes-success-19938217.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-5f3d9f5f06ee206b8442814bec75da7f.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-03T13:05:12Z",
+      "title": "Rachel Reeves confirms new VAT rates for newer petrol and diesel cars before exit as Chancellor",
+      "description": "HM Treasury, which acts under Chancellor Ms Reeves, has introduced new VAT road fuel scale charges.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/rachel-reeves-confirms-new-vat-34205174",
+      "image": "https://i2-prod.birminghammail.co.uk/article34205193.ece/ALTERNATES/s1200d/0_rachel-reeves.jpg",
+      "publishedAt": "2026-07-03T19:22:00Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "BT Exclusive: India's first flex fuel car gives 11.8 kmpl. But that's not the biggest surprise",
-      "description": "Can an 85% ethanol-powered car feel just like a regular petrol vehicle? That's the question Business Today set out to answer after becoming one of the first news organisations in India to drive Maruti Suzuki's E85 flex-fuel Wagon R.",
-      "url": "https://www.businesstoday.in/auto/story/bt-exclusive-indias-first-flex-fuel-car-delivers-11-8-kmpl-mileage-but-thats-not-the-big-surprise-540905-2026-07-03",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a47ad7c60100-despite-running-on-e85--the-wagon-r-did-not-feel-noticeably-different-from-its-petrol-sibling-in-ev-033919374-16x9.jpeg",
-      "publishedAt": "2026-07-03T12:34:29Z",
+      "title": "DOJ and FTC press states to target any illegal activity contributing to high gas prices",
+      "description": "The federal government issued a letter to states attorneys general urging them to target any unlawful activities contributing to high fuel prices.",
+      "url": "https://www.newsbreak.com/fox-business-1600402/4748610457762-doj-and-ftc-press-states-to-target-any-illegal-activity-contributing-to-high-gas-prices",
+      "image": "https://img.particlenews.com/img/id/05v8J2_1CxoPYTq00",
+      "publishedAt": "2026-07-03T19:17:18Z",
       "source": {
-        "name": "Business Today"
+        "name": "NewsBreak"
       }
     },
     {
-      "title": "Maruti Suzuki Baleno Prices Hiked in India - Check Variant-Wise Rates Here",
-      "description": "Maruti Suzuki has recently increased prices for several Baleno variants with some seeing hikes of Rs 5,000 and others Rs 7,500, while the Sigma petrol manual remains unchanged at Rs 5.99 lakh. Check revised variant-wise prices here., Car News, Times Now",
-      "url": "https://www.timesnownews.com/auto/car-news/maruti-baleno-prices-hiked-in-india-check-variant-wise-rates-here-article-154906056",
-      "image": "https://images.timesnownews.com/thumb/msid-154906775,thumbsize-44464,width-1280,height-720,resizemode-75/154906775.jpg",
-      "publishedAt": "2026-07-03T12:34:00Z",
+      "title": "The road back to $3 gas could be long. Here's what's keeping gasoline prices high, explained",
+      "description": "US gasoline prices are falling after the Iran peace deal, but $3 gas may not return soon. Here's why fuel prices remain high, explained.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/the-road-back-to-3-gas-could-be-long-heres-whats-keeping-gasoline-prices-high-explained-101783100876366.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/03/550x309/pexels-photo-3971795_1783101162692_1783101176335_0811a850-ec11-4c04-8f4c-59d960bfeb2a.jpeg",
+      "publishedAt": "2026-07-03T18:57:42Z",
       "source": {
-        "name": "Times Now"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "India seeks to quell public backlash on ethanol-mixed fuel after 'experiment' remark",
-      "description": "India's government is facing a growing backlash over its mandatory E20 ethanol-blended petrol policy. Motorists are protesting lower fuel efficiency and vehicle performance issues, amplified by the Attorney General's recent description of the policy as an \"experiment.\" While the government denies rushing the rollout and highlights environmental and economic benefits, public anger is mounting, with planned protests and widespread complaints on social media detailing car damage and increased costs.",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/india-seeks-to-quell-public-backlash-on-ethanol-mixed-fuel-after-experiment-remark/articleshow/132161258.cms",
-      "image": "https://img.etimg.com/thumb/msid-132161439,width-1200,height-630,imgsize-109842,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-03T12:33:00Z",
+      "title": "E20 fuel backed by scientific studies, government rebuts misinformation",
+      "description": "The ministry also dismissed claims that E20 allows water to enter vehicle fuel tanks, saying modern vehicles and fuel retail infrastructure are equipped with safeguards to prevent water ingress. It similarly described viral videos purporting to show sugarcane juice being mixed into petrol as fabricated.",
+      "url": "https://www.indiatoday.in/india/story/e20-ethanol-blending-programme-centre-rebuts-myths-on-water-engines-and-insurance-2940258-2026-07-03",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/the-ethanol-dilemma-032330221-16x9_1.jpg?VersionId=HjcYEXqXiVc1njOdPfErSM4CXsZPF1dx",
+      "publishedAt": "2026-07-03T18:24:03Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "India Today"
       }
     },
     {
-      "title": "India seeks to quell public backlash on ethanol-mixed fuel after 'experiment' remark",
-      "description": "India's government on Friday \u200bsought to contain a growing backlash against its mandatory use of 20% ethanol-blended petrol, as consumers \u200cunhappy about lower fuel efficiency and vehicle performance planned a protest against the policy.",
-      "url": "https://www.reuters.com/world/india/india-seeks-quell-public-backlash-ethanol-mixed-fuel-after-experiment-remark-2026-07-03/",
-      "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-03T12:21:51Z",
+      "title": "Justice Department urges states to target illegal activity amid high gas prices",
+      "description": "The federal government issued a letter pressing states attorneys general to target any unlawful activities contributing to high fuel prices.",
+      "url": "https://www.foxbusiness.com/politics/doj-ftc-press-states-target-any-illegal-activity-contributing-high-gas-prices",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/gas-pump-july-1-2026.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-03T18:17:18Z",
+      "source": {
+        "name": "Fox Business"
+      }
+    },
+    {
+      "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
+      "description": "Ferrari launched a limited-edition 12-cylinder model with a manual gearbox on \u200cFriday, appealing to traditional fans of roaring petrol engines and hands-on driving after the mixed initial reception for its first electric vehicle.",
+      "url": "https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditionalists-with-new-v12-manual-gearbox-limited-edition-2026-07-03/",
+      "image": "https://www.reuters.com/resizer/v2/2WIFXPM34ZIEHD7GN3G2IMOK6Y.jpg?auth=369145baaab7819849f5d647bca91295e54c73e66d26d47ecd954575d6df59ac&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-03T18:16:50Z",
       "source": {
         "name": "Reuters"
-      }
-    },
-    {
-      "title": "Russia halts petrol sales in city as Ukraine strikes deepen fuel crisis",
-      "description": "Ukrainian strikes on Russian energy infrastructure have triggered a severe fuel crisis, forcing curbs on sales and leading to price hikes. Cities like Novorossiysk have suspended gasoline sales to private motorists, while others see Cossacks deployed to manage queues and prevent conflict. Russia is now importing fuel and allowing lower-quality production to combat shortages.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/russia-halts-petrol-sales-in-city-as-ukraine-strikes-deepen-fuel-crisis/articleshow/132161063.cms",
-      "image": "https://img.etimg.com/thumb/msid-132161115,width-1200,height-630,imgsize-230508,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-03T12:16:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "mongering claims': Govt trashes social media claims on harmful effects of E20 petrol",
-      "description": "'Fear-mongering claims': Govt trashes social media claims on harmful effects of E20 petrol - New Delhi, July 3 The Ministry of Petroleum & Natural Gas on Thursday dismissed as false and misleading ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/fear-mongering-claims-govt-trashes-social-media-claims-on-harmful-effects-of-e20-petrol-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607033850645_202607.jpg",
-      "publishedAt": "2026-07-03T12:02:46Z",
-      "source": {
-        "name": "Lokmat Times"
       }
     }
   ]
