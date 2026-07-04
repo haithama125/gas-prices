@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-07-04T08:23:45+00:00",
+  "updated_at": "2026-07-04T12:59:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol,diesel prices lowered by Rs.1.97/litre",
+      "description": "ISLAMABAD - The federal government on Friday night slightly reduced the prices of petrol and high-speed diesel by Rs 1.97 per litre each.The Government of Pakistan has",
+      "url": "https://www.nation.com.pk/04-Jul-2026/petrol-diesel-prices-lowered-rs-1-97-litre",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-07-03T21:21:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "EVs generally cost less to maintain than petrol cars",
+      "description": "EV parts like the motor and batteries do not need as much maintenance as engines and transmissions. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/transport/evs-generally-cost-less-to-maintain-than-petrol-cars",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ba9da3454d0239f670ccaeba238cb1760663ba7b1bd132f1c6f28c2e453e8765",
+      "publishedAt": "2026-07-03T21:00:00Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Justice Department calls on states to investigate gas prices",
+      "description": "The Justice Department on Friday called on states to investigate whether businesses and individuals are artificially inflating gas prices.",
+      "url": "https://www.upi.com/Top_News/US/2026/07/03/gas-prices-DOJ/8651783108758/",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/8651783108758/2026/1/6002c295230d40502dff7b0b8abb84de/v1.5/Justice-Department-calls-on-states-to-investigate-gas-prices.jpg",
+      "publishedAt": "2026-07-03T20:52:23Z",
+      "source": {
+        "name": "UPI News"
+      }
+    },
+    {
+      "title": "Justice Department calls on states to investigate gas prices",
+      "description": "The Justice Department on Friday called on states to investigate whether businesses and individuals are artificially inflating gas prices.",
+      "url": "https://www.newsbreak.com/upi-news-510013/4748824675785-justice-department-calls-on-states-to-investigate-gas-prices",
+      "image": "https://img.particlenews.com/img/id/0j76ky_1Cy10GGv00",
+      "publishedAt": "2026-07-03T20:52:23Z",
+      "source": {
+        "name": "NewsBreak"
+      }
+    },
+    {
+      "title": "Your super may have been boosted by an unlikely sharemarket - here's how",
+      "description": "An overseas stock exchange may have boosted your super last year. Plus, falling petrol prices and the rising ETF market.",
+      "url": "https://www.sbs.com.au/news/article/on-the-money-petrol-prices-super-south-korea-etfs/wx610iko8",
+      "image": "https://assets.sbs.com.au/dims4/default/165f593/2147483647/strip/true/crop/800x450+0+75/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fnews%2Fpublic%2Fimages%2F2%2F0%2F200115m_Superannuation_800x600.jpg",
+      "publishedAt": "2026-07-03T20:42:24Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "The Cryptocurrency News That Moved Markets This Week While Pepeto Quietly Crossed $10Million",
+      "description": "Get the scoop on cryptocurrency news as Bitcoin surges past $61,500 following key developments in Iran talks and oil prices.",
+      "url": "https://techbullion.com/the-cryptocurrency-news-that-moved-markets-this-week-while-pepeto-quietly-crossed-10million/",
+      "image": "https://techbullion.com/wp-content/uploads/2026/05/NEWS-JUNE-29-1000x600.jpg",
+      "publishedAt": "2026-07-03T20:40:24Z",
+      "source": {
+        "name": "TechBullion"
+      }
+    },
+    {
+      "title": "Big Oil heads for biggest profits in years as Trump pushes for lower gas prices",
+      "description": "America\u2019s biggest oil companies are poised to post their strongest quarterly earnings in years as President Trump ramps up pressure on the industry to lower gas prices ahead of November\u2019s midterms.",
+      "url": "https://nypost.com/2026/07/03/business/big-oil-heads-for-biggest-profits-in-years-as-trump-pushes-for-lower-gas-prices/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/fuel-prices-displayed-sign-chevron-133152588.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-03T20:28:16Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
     {
       "title": "Falling Oil Prices Are Putting Pressure On African Exporter Budgets Across The Continent. But The Real Strain Is Showing In Nigeria\u2019s Heavy Dependence On Crude Revenue.",
       "description": "Falling oil price expectations are renewing pressure on African crude exporters, threatening government budgets that depend heavily on energy revenue just as debt costs, currency weakness and public",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-07-03T19:46:12Z",
       "source": {
         "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Govt. says ethanol blending backed by extensive trials and best practices as concerns linger despite clarifications",
-      "description": "Government defends ethanol blending in petrol as safe, amid ongoing public concerns and political opposition from Kejriwal.",
-      "url": "https://www.thehindu.com/business/Industry/govt-says-ethanol-blending-backed-by-extensive-trials-and-best-practices-as-concerns-linger-despite-clarifications/article71179805.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ev5nf7/article71180340.ece/alternates/LANDSCAPE_1200/20260605321L.jpg",
-      "publishedAt": "2026-07-03T19:39:18Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Rachel Reeves confirms new VAT rates for newer petrol and diesel cars before exit as Chancellor",
-      "description": "HM Treasury, which acts under Chancellor Ms Reeves, has introduced new VAT road fuel scale charges.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/rachel-reeves-confirms-new-vat-34205174",
-      "image": "https://i2-prod.birminghammail.co.uk/article34205193.ece/ALTERNATES/s1200d/0_rachel-reeves.jpg",
-      "publishedAt": "2026-07-03T19:22:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "DOJ and FTC press states to target any illegal activity contributing to high gas prices",
-      "description": "The federal government issued a letter to states attorneys general urging them to target any unlawful activities contributing to high fuel prices.",
-      "url": "https://www.newsbreak.com/fox-business-1600402/4748610457762-doj-and-ftc-press-states-to-target-any-illegal-activity-contributing-to-high-gas-prices",
-      "image": "https://img.particlenews.com/img/id/05v8J2_1CxoPYTq00",
-      "publishedAt": "2026-07-03T19:17:18Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "The road back to $3 gas could be long. Here's what's keeping gasoline prices high, explained",
-      "description": "US gasoline prices are falling after the Iran peace deal, but $3 gas may not return soon. Here's why fuel prices remain high, explained.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/the-road-back-to-3-gas-could-be-long-heres-whats-keeping-gasoline-prices-high-explained-101783100876366.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/03/550x309/pexels-photo-3971795_1783101162692_1783101176335_0811a850-ec11-4c04-8f4c-59d960bfeb2a.jpeg",
-      "publishedAt": "2026-07-03T18:57:42Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "E20 fuel backed by scientific studies, government rebuts misinformation",
-      "description": "The ministry also dismissed claims that E20 allows water to enter vehicle fuel tanks, saying modern vehicles and fuel retail infrastructure are equipped with safeguards to prevent water ingress. It similarly described viral videos purporting to show sugarcane juice being mixed into petrol as fabricated.",
-      "url": "https://www.indiatoday.in/india/story/e20-ethanol-blending-programme-centre-rebuts-myths-on-water-engines-and-insurance-2940258-2026-07-03",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/the-ethanol-dilemma-032330221-16x9_1.jpg?VersionId=HjcYEXqXiVc1njOdPfErSM4CXsZPF1dx",
-      "publishedAt": "2026-07-03T18:24:03Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Justice Department urges states to target illegal activity amid high gas prices",
-      "description": "The federal government issued a letter pressing states attorneys general to target any unlawful activities contributing to high fuel prices.",
-      "url": "https://www.foxbusiness.com/politics/doj-ftc-press-states-target-any-illegal-activity-contributing-high-gas-prices",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/gas-pump-july-1-2026.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-03T18:17:18Z",
-      "source": {
-        "name": "Fox Business"
-      }
-    },
-    {
-      "title": "Ferrari appeals to traditionalists with new V12 manual gearbox limited edition",
-      "description": "Ferrari launched a limited-edition 12-cylinder model with a manual gearbox on \u200cFriday, appealing to traditional fans of roaring petrol engines and hands-on driving after the mixed initial reception for its first electric vehicle.",
-      "url": "https://www.reuters.com/business/autos-transportation/ferrari-appeals-traditionalists-with-new-v12-manual-gearbox-limited-edition-2026-07-03/",
-      "image": "https://www.reuters.com/resizer/v2/2WIFXPM34ZIEHD7GN3G2IMOK6Y.jpg?auth=369145baaab7819849f5d647bca91295e54c73e66d26d47ecd954575d6df59ac&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-03T18:16:50Z",
-      "source": {
-        "name": "Reuters"
       }
     }
   ]
