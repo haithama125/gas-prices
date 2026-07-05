@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-07-05T08:40:00+00:00",
+  "updated_at": "2026-07-05T13:07:50+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "E20 rollout fuels demand for premium petrol amid mileage, engine concerns",
+      "description": "As E20 becomes the default fuel across India, a growing number of motorists are opting for higher-octane petrol amid concerns that E20 could hurt mileage and engine performance.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/e20-rollout-fuels-demand-for-premium-petrol-amid-mileage-engine-concerns/articleshow/132186675.cms",
+      "image": "https://img.etimg.com/thumb/msid-132186955,width-1200,height-630,imgsize-109842,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-05T00:30:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "A Week of Twists in US: From Highways to Headlines",
+      "description": "The week in the US was marked by diverse news events. Americans traveled despite high gas prices; Supreme Court Justice Barrett's decisions drew attention; a Tibetan man self-immolated for independence; Taylor Swift married Travis Kelce; Joey Chestnut battled heat to win Nathan\u2019s contest; a California man pleaded guilty to fake ransom charges.",
+      "url": "https://www.devdiscourse.com/article/entertainment/3945405-a-week-of-twists-in-us-from-highways-to-headlines",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_15_54_24_6391789.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-04T23:52:37Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Carmakers on E20: No engine damage, but mileage drops",
+      "description": "India News: NEW DELHI: Coming to the defence of govt amid backlash over the impact of mandatory 20% blending of ethanol in petrol, vehicle manufacturers on Saturd.",
+      "url": "https://timesofindia.indiatimes.com/india/carmakers-on-e20-no-engine-damage-but-mileage-drops/articleshow/132187415.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132187413,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-04T21:19:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
     {
       "title": "Small businesses say they're having a good summer as Americans travel closer to home",
       "description": "The reported boost to domestic tourism, though anecdotal, comes as higher airfares and gasoline prices have made vacations more expensive.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-07-04T17:53:00Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "E20 petrol triggers engine damage complaints at city fuel stations",
-      "description": "Mangaluru fuel stations report more engine damage complaints linked to E20 petrol as rainwater contamination and faulty fuel caps affect older vehicles.",
-      "url": "https://timesofindia.indiatimes.com/city/mangaluru/e20-petrol-triggers-engine-damage-complaints-at-city-fuel-stations/articleshow/132184921.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132184919,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-04T17:22:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Industry says E20 petrol is safe for all vehicles, backs ethanol push for energy security",
-      "description": "Former Engineers India Ltd Chairman and Managing Director Vartika Shukla said E20 fuel was introduced in phases before being rolled out nationwide after extensive testing on two- and four-wheelers ahead of the 2030 mandate.",
-      "url": "https://www.moneycontrol.com/news/business/industry-says-e20-petrol-is-safe-for-all-vehicles-backs-ethanol-push-for-energy-security-13966183.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/08/20250814122120_1.jpg",
-      "publishedAt": "2026-07-04T17:04:54Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Maruti Suzuki, Toyota India execs defend E20 petrol: \u2018No problem in terms of wear & tear, corrosion'",
-      "description": "The cause of concern is what happens if E20 fuel is used in cars that have been manufactured and sold before 2023, which were primarily designed for E10? Read on to know what auto industry experts said.",
-      "url": "https://www.livemint.com/news/india/maruti-suzuki-toyota-india-heads-say-e20-petrol-is-safe-for-vehicles-no-problem-in-terms-of-wear-and-tear-corrosion-11783179169019.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/ANI-20260704298-0_1783179369338_1783179410082_b1c524ad-54ca-473f-89d0-c1a163531bc1.jpg",
-      "publishedAt": "2026-07-04T16:44:11Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
