@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-06T02:10:11+00:00",
+  "updated_at": "2026-07-06T09:55:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Car fuel system choked, drop in mileage: Motorists reveal why they became protesters",
-      "description": "E20 Fuel Row: From stalled engines and falling mileage to costly repairs, allegations made on social media were heard on the streets of Delhi as people protested against the implementation of the ethanol-blending policy. Motorists at Delhi's Jantar Mantar claimed E20 petrol was damaging their cars, and that they had evidence of that.",
-      "url": "https://www.indiatoday.in/india/story/e20-fuel-protest-jantar-mantar-car-owners-mileage-drop-repair-costs-tehseen-poonawala-team-bharat-2941155-2026-07-05",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/tehseen-poonawala-e20-fuel-protest-jantar-mantar-new-delhi-nitin-gadkari-hardeep-singh-puri-petroleu-055804740-16x9_0.jpeg?VersionId=ICYcGfr3Nm0OiEpsmSagqkoXCnpDNfJc",
-      "publishedAt": "2026-07-05T13:50:26Z",
+      "title": "OPEC+ approves further oil output increase as Strait of Hormuz exports recover",
+      "description": "OPEC+ has agreed a further increase in output targets from August, the group said in a statement on Sunday, adding to global supply at a time when oil prices are falling due to the gradual reopening of the Strait of Hormuz for oil exports.",
+      "url": "https://nypost.com/2026/07/05/business/opec-approves-further-oil-output-increase-as-strait-of-hormuz-exports-recover/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133414300_c240b7.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-05T21:25:12Z",
       "source": {
-        "name": "India Today"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Falling crude prices give RBI more room to support growth: Standard Chartered",
-      "description": "Falling crude prices give RBI more room to support growth: Standard Chartered - New Delhi, July 5 Falling global crude oil prices are giving the Reserve Bank of India (RBI) and ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/falling-crude-prices-give-rbi-more-room-to-support-growth-standard-chartered/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852867_202607.jpg",
-      "publishedAt": "2026-07-05T13:42:53Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Highway to Festivity: Americans Defy Gas Prices, Supreme Court's Bold Move, Celebrity Ties, and Stormy Celebrations",
-      "description": "A summary of the latest US domestic news covers Americans traveling for July 4 despite high gas prices, Supreme Court Justice Barrett's role in conservative victories, Joey Chestnut's hot-dog contest defense, Taylor Swift's marriage to Travis Kelce, power grid challenges during a heatwave, and other significant domestic events.",
-      "url": "https://www.devdiscourse.com/article/entertainment/3945471-highway-to-festivity-americans-defy-gas-prices-supreme-courts-bold-move-celebrity-ties-and-stormy-celebrations",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2024_05_01_36_5822569.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-05T13:00:38Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
-      "description": "The cartel\u2019s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
-      "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05biz-opec-zkqm/05biz-opec-zkqm-facebookJumbo.jpg",
-      "publishedAt": "2026-07-05T12:50:45Z",
-      "source": {
-        "name": "The New York Times"
-      }
-    },
-    {
-      "title": "Delhi EV policy: \u20b91 lakh incentive for four-wheeler owners who switch to EVs, scrappage incentives explained",
-      "description": "Delhi's new electronic vehicles policy provides \u20b91 lakh scrapping incentive for four-wheeler owners who switch to EVs from petrol and diesel vehicles. We explain how the incentives work and steps to apply\u2026",
-      "url": "https://www.livemint.com/money/personal-finance/delhi-ev-policy-rs-1-lakh-scrappage-incentive-old-cars-owners-two-wheelers-switch-to-ev-petrol-diesel-vehicles-explained-11783249860916.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/g89ac277ff081c3fa9aa5cecca9e1d425b5d64dc99c2024108_1745905586398_1783254270495_88c3a532-5e70-42d0-bb72-4a3e7a35e651.png",
-      "publishedAt": "2026-07-05T12:29:14Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt",
-      "description": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt - New Delhi, July 5 The Ethanol Blended Petrol (EBP) Programme has emerged as a key pillar of India's ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/e20-petrol-has-saved-rs-190-lakh-crore-forex-blending-is-global-practice-govt/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852770_202607.jpg",
-      "publishedAt": "2026-07-05T12:07:27Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt",
-      "description": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt - New Delhi, July 5 The Ethanol Blended Petrol (EBP) Programme has emerged as a key pillar of India's ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/e20-petrol-has-saved-rs-190-lakh-crore-forex-blending-is-global-practice-govt-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852770_202607.jpg",
-      "publishedAt": "2026-07-05T12:07:27Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims",
-      "description": "India Business News: The ministry of petroleum and natural gas (MoPNG) on Sunday dismissed reports claiming that Bhutan had refused to import India\u2019s E20 petrol, stating t.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/no-such-proposal-for-exporting-e20-petrol-centre-dismisses-bhutan-e20-rejection-claims/articleshow/132194578.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132194698,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-05T11:52:00Z",
+      "title": "E20 debate explained: Mileage loss, engine concerns and what's next",
+      "description": "India News: NEW DELHI: For the second time in the past 11 months, country\u2019s automobile majors have come to back govt\u2019s mandatory 20% blending of ethanol in petrol.",
+      "url": "https://timesofindia.indiatimes.com/india/e20-debate-explained-mileage-loss-engine-concerns-and-whats-next/articleshow/132201919.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132201945,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-05T18:47:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Indian ministry vs Bhutan news outlet on \u2018rejection\u2019 of E20 petrol",
-      "description": "In \u2018Fact Check\u2019 posted on its social media accounts, ministry said: \u201cClaims that Bhutan declined an offer to import E20 petrol from India are incorrect.\u201d | India News",
-      "url": "https://www.hindustantimes.com/india-news/indias-oil-ministry-vs-bhutanese-news-outlet-over-rejection-of-e20-by-balens-govt-101783251274272.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/05/550x309/ANI-20260605321-0_1783251836048_1783251851462_35c7f790-bf4e-4080-9e0e-99eb6757d0fc.jpg",
-      "publishedAt": "2026-07-05T11:47:49Z",
+      "title": "Fall in global crude prices brightens fiscal outlook, El Nino risks linger",
+      "description": "Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agricultural impacts remain concerns, the improved energy price scenario offers a more favorable fiscal path for the nation.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/fall-in-global-crude-prices-brightens-fiscal-outlook-el-nino-risks-linger/articleshow/132201863.cms",
+      "image": "https://img.etimg.com/thumb/msid-132201910,width-1200,height-630,imgsize-81582,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-05T18:42:00Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "India's oil ministry vs Bhutanese news outlet over 'rejection' of E20 petrol",
-      "description": "In \u2018Fact Check\u2019 posted on its social media accounts, ministry said: \u201cClaims that Bhutan declined an offer to import E20 petrol from India are incorrect.\u201d | India News",
-      "url": "https://www.hindustantimes.com/india-news/indias-oil-ministry-vs-bhutanese-news-outlet-over-rejection-of-e20-101783251274272.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/05/550x309/ANI-20260605321-0_1783251836048_1783251851462_35c7f790-bf4e-4080-9e0e-99eb6757d0fc.jpg",
-      "publishedAt": "2026-07-05T11:47:49Z",
+      "title": "E20 shift must not leave drivers behind",
+      "description": "The government's rollout of E20 petrol, while extensively consulted, lacked clear communication to vehicle buyers, fueling misinformation. Despite ongoing trials and no apparent damage to vehicles, consumers remain largely uninformed. Policymakers must prioritize continuous, transparent communication to keep the public abreast of this crucial fuel-blending initiative, essential for India's energy security and climate goals.",
+      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/e20-petrol-transition-protecting-drivers-and-ensuring-engine-health/articleshow/132200983.cms",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-100614,resizemode-75,msid-132200983/opinion/et-editorial/e20-petrol-transition-protecting-drivers-and-ensuring-engine-health.jpg",
+      "publishedAt": "2026-07-05T18:14:07Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "E20 petrol backlash grows: 53% of vehicle owners call rollout 'disastrous', 66% report mileage drop, survey finds",
+      "description": "India's E20 petrol rollout faces growing criticism as 53% of motorists rate it negatively and 66% report mileage losses, according to a LocalCircles survey.",
+      "url": "https://www.livemint.com/news/india/e20-petrol-backlash-53-per-cent-of-vehicle-owners-call-rollout-disastrous-66-per-cent-report-mileage-drop-11783272601052.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/Petrol-Crises-10_1778987370838_1778987412498_d6c34cbb-3230-42e9-8205-dbce15e95f3b_1783272596784_ec4bc989-ec6c-4dfb-b2f2-04688a063c0f.jpg",
+      "publishedAt": "2026-07-05T18:07:51Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Union Petroleum Ministry Rejects Reports Of Bhutan Refusing India\u2019s E20 Petrol",
+      "description": "MoPNG Clarifies No Export Offer Was Made; Dismisses Claims of Bhutan Rejecting Ethanol-Blended Fuel",
+      "url": "https://www.outlookindia.com/national/union-petroleum-ministry-rejects-reports-of-bhutan-refusing-indias-e20-petrol",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-07-03/7j05eu48/FuelPriceHike920260515.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-05T16:41:32Z",
+      "source": {
+        "name": "Outlook India"
+      }
+    },
+    {
+      "title": "Top Three Catalysts That Could Move the S&P 500 and Dow This Week",
+      "description": "These are the top three catalysts that could move the S&P 500 and Dow Jones this week, including falling crude oil prices and key earnings.",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60269993/top-three-catalysts-that-could-move-the-sp-500-and-dow-this-week",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/05/Wall-Street-Sign-With-American-Flag-On-T.jpg",
+      "publishedAt": "2026-07-05T16:11:00Z",
+      "source": {
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Oil prices hover near pre-conflict levels as OPEC+ boosts output again",
+      "description": "Oil prices remained near pre-conflict levels after OPEC+ approved another production increase, adding to global crude supplies as markets continue to stabilize.",
+      "url": "https://www.foxbusiness.com/energy/oil-prices-hover-near-pre-conflict-levels-opec-boosts-output-again",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/straight-of-hormuz-ships.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-05T16:01:27Z",
+      "source": {
+        "name": "Fox Business"
+      }
+    },
+    {
+      "title": "Centre Fact-Checks Claims Of Bhutan Rejecting India's E20 Fuel Offer: 'No Such Offer Made'",
+      "description": "The Ministry of Petroleum and Natural Gas clarified that reports claiming Bhutan rejected India's E20 petrol imports are false, as no such offer was made by Indian Oil Marketing Companies. , India News, Times Now",
+      "url": "https://www.timesnownews.com/india/centre-fact-checks-claims-of-bhutan-rejecting-indias-e20-fuel-offer-no-such-offer-made-article-154947289",
+      "image": "https://images.timesnownews.com/thumb/msid-154947402,thumbsize-47144,width-1280,height-720,resizemode-75/154947402.jpg",
+      "publishedAt": "2026-07-05T15:16:48Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Dalal Street Week Ahead: TCS Q1 earnings, FOMC minutes, oil prices, monsoon progress among 10 key factors to watch",
+      "description": "Going ahead, the market is expected to remain positive despite intermittent consolidation, with investors focusing on the FOMC minutes, June quarter earnings, oil prices, and the progress of the monsoon.",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-tcs-q1-earnings-fomc-minutes-oil-prices-monsoon-progress-among-10-key-factors-to-watch-13966481.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2022/01/Dalal-Street-AFP.jpg",
+      "publishedAt": "2026-07-05T14:28:51Z",
+      "source": {
+        "name": "Moneycontrol"
       }
     }
   ]
