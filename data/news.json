@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-06T09:55:31+00:00",
+  "updated_at": "2026-07-06T14:58:44+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "OPEC+ approves further oil output increase as Strait of Hormuz exports recover",
-      "description": "OPEC+ has agreed a further increase in output targets from August, the group said in a statement on Sunday, adding to global supply at a time when oil prices are falling due to the gradual reopening of the Strait of Hormuz for oil exports.",
-      "url": "https://nypost.com/2026/07/05/business/opec-approves-further-oil-output-increase-as-strait-of-hormuz-exports-recover/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/133414300_c240b7.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-07-05T21:25:12Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "E20 debate explained: Mileage loss, engine concerns and what's next",
-      "description": "India News: NEW DELHI: For the second time in the past 11 months, country\u2019s automobile majors have come to back govt\u2019s mandatory 20% blending of ethanol in petrol.",
-      "url": "https://timesofindia.indiatimes.com/india/e20-debate-explained-mileage-loss-engine-concerns-and-whats-next/articleshow/132201919.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132201945,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-05T18:47:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Fall in global crude prices brightens fiscal outlook, El Nino risks linger",
-      "description": "Easing West Asian tensions have significantly improved India's fiscal outlook, with economists now predicting a smaller deficit than previously feared. Lower global crude oil prices are reducing the government's subsidy burden and boosting revenue prospects. While subsidy pressures and potential agricultural impacts remain concerns, the improved energy price scenario offers a more favorable fiscal path for the nation.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/fall-in-global-crude-prices-brightens-fiscal-outlook-el-nino-risks-linger/articleshow/132201863.cms",
-      "image": "https://img.etimg.com/thumb/msid-132201910,width-1200,height-630,imgsize-81582,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-05T18:42:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "E20 shift must not leave drivers behind",
-      "description": "The government's rollout of E20 petrol, while extensively consulted, lacked clear communication to vehicle buyers, fueling misinformation. Despite ongoing trials and no apparent damage to vehicles, consumers remain largely uninformed. Policymakers must prioritize continuous, transparent communication to keep the public abreast of this crucial fuel-blending initiative, essential for India's energy security and climate goals.",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/e20-petrol-transition-protecting-drivers-and-ensuring-engine-health/articleshow/132200983.cms",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-100614,resizemode-75,msid-132200983/opinion/et-editorial/e20-petrol-transition-protecting-drivers-and-ensuring-engine-health.jpg",
-      "publishedAt": "2026-07-05T18:14:07Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "E20 petrol backlash grows: 53% of vehicle owners call rollout 'disastrous', 66% report mileage drop, survey finds",
-      "description": "India's E20 petrol rollout faces growing criticism as 53% of motorists rate it negatively and 66% report mileage losses, according to a LocalCircles survey.",
-      "url": "https://www.livemint.com/news/india/e20-petrol-backlash-53-per-cent-of-vehicle-owners-call-rollout-disastrous-66-per-cent-report-mileage-drop-11783272601052.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/Petrol-Crises-10_1778987370838_1778987412498_d6c34cbb-3230-42e9-8205-dbce15e95f3b_1783272596784_ec4bc989-ec6c-4dfb-b2f2-04688a063c0f.jpg",
-      "publishedAt": "2026-07-05T18:07:51Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Union Petroleum Ministry Rejects Reports Of Bhutan Refusing India\u2019s E20 Petrol",
-      "description": "MoPNG Clarifies No Export Offer Was Made; Dismisses Claims of Bhutan Rejecting Ethanol-Blended Fuel",
-      "url": "https://www.outlookindia.com/national/union-petroleum-ministry-rejects-reports-of-bhutan-refusing-indias-e20-petrol",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-07-03/7j05eu48/FuelPriceHike920260515.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-05T16:41:32Z",
-      "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "Top Three Catalysts That Could Move the S&P 500 and Dow This Week",
-      "description": "These are the top three catalysts that could move the S&P 500 and Dow Jones this week, including falling crude oil prices and key earnings.",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60269993/top-three-catalysts-that-could-move-the-sp-500-and-dow-this-week",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/05/Wall-Street-Sign-With-American-Flag-On-T.jpg",
-      "publishedAt": "2026-07-05T16:11:00Z",
+      "title": "Gary Black Says Tesla's Q2 Delivery Beat Was Fueled by Iran War-Driven Gas Price Spike, Expects TSLA to R",
+      "description": "Gary Black says EV giant Tesla's shares will rebound in the coming weeks despite a decline in gas prices at the pump.",
+      "url": "https://www.benzinga.com/markets/tech/26/07/60271300/gary-black-says-teslas-q2-delivery-beat-was-fueled-by-iran-war-driven-gas-price-spike-expects-tsla-to-rebound-ahead-of-earnings",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/06/Kaunas--Lithuania-2022---April-14-Tesla-.jpg",
+      "publishedAt": "2026-07-06T02:58:00Z",
       "source": {
         "name": "Benzinga"
       }
     },
     {
-      "title": "Oil prices hover near pre-conflict levels as OPEC+ boosts output again",
-      "description": "Oil prices remained near pre-conflict levels after OPEC+ approved another production increase, adding to global crude supplies as markets continue to stabilize.",
-      "url": "https://www.foxbusiness.com/energy/oil-prices-hover-near-pre-conflict-levels-opec-boosts-output-again",
-      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/straight-of-hormuz-ships.jpg?ve=1&tl=1",
-      "publishedAt": "2026-07-05T16:01:27Z",
-      "source": {
-        "name": "Fox Business"
-      }
-    },
-    {
-      "title": "Centre Fact-Checks Claims Of Bhutan Rejecting India's E20 Fuel Offer: 'No Such Offer Made'",
-      "description": "The Ministry of Petroleum and Natural Gas clarified that reports claiming Bhutan rejected India's E20 petrol imports are false, as no such offer was made by Indian Oil Marketing Companies. , India News, Times Now",
-      "url": "https://www.timesnownews.com/india/centre-fact-checks-claims-of-bhutan-rejecting-indias-e20-fuel-offer-no-such-offer-made-article-154947289",
-      "image": "https://images.timesnownews.com/thumb/msid-154947402,thumbsize-47144,width-1280,height-720,resizemode-75/154947402.jpg",
-      "publishedAt": "2026-07-05T15:16:48Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Dalal Street Week Ahead: TCS Q1 earnings, FOMC minutes, oil prices, monsoon progress among 10 key factors to watch",
-      "description": "Going ahead, the market is expected to remain positive despite intermittent consolidation, with investors focusing on the FOMC minutes, June quarter earnings, oil prices, and the progress of the monsoon.",
-      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-tcs-q1-earnings-fomc-minutes-oil-prices-monsoon-progress-among-10-key-factors-to-watch-13966481.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2022/01/Dalal-Street-AFP.jpg",
-      "publishedAt": "2026-07-05T14:28:51Z",
+      "title": "GIFT Nifty signals muted start for Sensex, Nifty despite firm Asian cues, lower crude, investors eye earnings",
+      "description": "GIFT Nifty was trading marginally down on Monday, indicating a muted start for Indian markets, even as crude oil prices eased further due to OPEC+ output hike, and Asian markets were firm on global earnings optimism.",
+      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-signals-muted-start-for-sensex-nifty-despite-firm-asian-cues-lower-crude-investors-eye-earnings-13966608.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260629035553_volatile-market.jpg",
+      "publishedAt": "2026-07-06T02:45:11Z",
       "source": {
         "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "on sentiment to keep Indian market on consolidation",
+      "description": "Ponmudi R, CEO - Enrich Money, said Indian equities are expected to open on a steady note, supported by positive global cues, subdued crude oil prices and improving risk sentiment",
+      "url": "https://www.thehindubusinessline.com/markets/risk-on-sentiment-to-keep-indian-market-on-consolidation/article71187843.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/34l3wx/article71178493.ece/alternates/LANDSCAPE_1200/PO10_Chart.jpg",
+      "publishedAt": "2026-07-06T02:40:29Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, July 6: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "description": "Petrol and diesel prices have remained steady since May 25, when state-owned Oil Marketing Companies (OMCs) raised petrol prices by \u20b92.61 per litre and diesel prices by \u20b92.71 per litre",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-6-check-latest-prices-in-delhi-mumbai-chennai-other-cities-541055-2026-07-06",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a4b084a33a59-petrol--diesel-prices-today--july-6-064327666-16x9.png",
+      "publishedAt": "2026-07-06T02:31:09Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Bhutan journalist doubles down after India debunks report on E20 petrol offer",
+      "description": "The controversy has intensified with both sides standing by their positions \u2013 the newspaper citing Bhutan's official correspondence and India's Petroleum Ministry insisting no formal proposal to export E20 petrol to Bhutan has ever been made.",
+      "url": "https://www.indiatoday.in/world/story/bhutan-e20-fuel-row-newspaper-cites-trade-reply-after-india-denies-export-offer-2941330-2026-07-06",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/govt-rejects-reports-on-bhutan-refusing-e20-petrol-from-india-052922514-16x9_0.jpg?VersionId=rbnmFB2OP42FqSKtCCBHr1XhwmmEwRlS",
+      "publishedAt": "2026-07-06T02:30:28Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "HDFC Bank, Axis Bank lead rise in Indian shares after Q1 updates",
+      "description": "Indian shares advanced on Monday, led by HDFC Bank and Axis Bank on strong quarterly business updates, while lower \u200bcrude oil prices also aided sentiment.",
+      "url": "https://www.reuters.com/world/india/indian-shares-likely-open-higher-strong-business-updates-lenders-2026-07-06/",
+      "image": "https://www.reuters.com/resizer/v2/WYXPYGO5ERKP5OBAG4RQ5D5F7Y.jpg?auth=8f993961eafe73e28ba9e6975e02075585b6b2fe98dda1b5b4169f4f26716224&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-06T02:27:59Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Oil price today: Crude slips after OPEC+ announces raising output targets from August",
+      "description": "International Business News: Oil prices edged lower early on Monday after OPEC+ agreed to raise production targets again from August, while improving exports from the Gulf and hig.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-on-july-06-2026-crude-slips-after-opec-raises-output-targets-from-august/articleshow/132205540.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132205604,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-06T02:15:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Stock market today: Gift Nifty hints flat start; eight day trading stocks to buy on Monday, 6 July",
+      "description": "The Indian stock market is expected to open muted on Monday amid mixed global cues. While crude oil prices remain under pressure, the Sensex and Nifty 50 both gained last Friday, marking a continued upward trend in domestic equity benchmarks.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-today-gift-nifty-hints-positive-start-eight-day-trading-stocks-to-buy-on-friday-6-july-11783301975693.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/3-0-86449917-iStock-1167137273-0_1679793048835_1783303601796_06b7b831-9b4d-4ccf-8059-4df5ea97adf9.jpg",
+      "publishedAt": "2026-07-06T02:09:59Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Oil prices decline as OPEC+ approves higher output targets; Brent above $70 per barrel",
+      "description": "US-Iran war: Brent crude futures slipped 24 cents, or 0.33%, to $71.88 a barrel, after ending 0.45% higher on Friday.",
+      "url": "https://www.livemint.com/market/commodities/oil-prices-decline-as-opec-approves-higher-output-targets-brent-above-70-per-barrel-11783301976573.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/crude_oil_1697775793536_1783303028256_619af587-3453-4b93-81e6-8661fde0f023.jpg",
+      "publishedAt": "2026-07-06T02:03:18Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Woodside shares soared, then stumbled. What's next for investors?",
+      "description": "Woodside shares have slipped 10% in a month as oil prices cooled. Do experts think that the $53 billion ASX energy stock can regain momentum?",
+      "url": "https://www.fool.com.au/2026/07/06/woodside-shares-soared-then-stumbled-whats-next-for-investors/",
+      "image": "https://www.fool.com.au/wp-content/uploads/2021/06/GettyImages-1222079751-1-1200x675.jpg",
+      "publishedAt": "2026-07-06T01:41:16Z",
+      "source": {
+        "name": "The Motley Fool Australia"
       }
     }
   ]
