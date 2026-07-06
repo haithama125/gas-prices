@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-05T19:01:38+00:00",
+  "updated_at": "2026-07-06T02:10:11+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "'No such offer was made': Centre denies report claiming Bhutan turned down E20 petrol from India",
-      "description": "'No such offer has been made by the Oil Marketing Companies, and there is no proposal for export of E20 petrol to Bhutan,' says the Ministry of Petroleum and Natural Gas",
-      "url": "https://www.businesstoday.in/india/story/no-such-offer-was-made-centre-denies-report-claiming-bhutan-turned-down-e20-petrol-from-india-541032-2026-07-05",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a49f9c85233c-govt-rejects-reports-on-bhutan-refusing-e20-petrol-from-india-052922514-16x9.jpg",
-      "publishedAt": "2026-07-05T06:30:58Z",
+      "title": "Car fuel system choked, drop in mileage: Motorists reveal why they became protesters",
+      "description": "E20 Fuel Row: From stalled engines and falling mileage to costly repairs, allegations made on social media were heard on the streets of Delhi as people protested against the implementation of the ethanol-blending policy. Motorists at Delhi's Jantar Mantar claimed E20 petrol was damaging their cars, and that they had evidence of that.",
+      "url": "https://www.indiatoday.in/india/story/e20-fuel-protest-jantar-mantar-car-owners-mileage-drop-repair-costs-tehseen-poonawala-team-bharat-2941155-2026-07-05",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/tehseen-poonawala-e20-fuel-protest-jantar-mantar-new-delhi-nitin-gadkari-hardeep-singh-puri-petroleu-055804740-16x9_0.jpeg?VersionId=ICYcGfr3Nm0OiEpsmSagqkoXCnpDNfJc",
+      "publishedAt": "2026-07-05T13:50:26Z",
       "source": {
-        "name": "Business Today"
+        "name": "India Today"
       }
     },
     {
-      "title": "Trump Admin Ramps Up Pressure on Oil Industry, Former Fed Hawk Warns of Higher Rates and More: This Week",
-      "description": "Over the weekend, Trump targeted oil prices, AI infrastructure spending hit records and Cathie Wood questioned the latest jobs report.",
-      "url": "https://www.benzinga.com/markets/macro-economic-events/26/07/60269363/trump-admin-ramps-up-pressure-on-oil-industry-former-fed-hawk-warns-of-higher-rates-and-more-this-week-in-economy",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/05/President-Of-The-United-States-Donald-Tr.jpg",
-      "publishedAt": "2026-07-05T06:01:00Z",
+      "title": "Falling crude prices give RBI more room to support growth: Standard Chartered",
+      "description": "Falling crude prices give RBI more room to support growth: Standard Chartered - New Delhi, July 5 Falling global crude oil prices are giving the Reserve Bank of India (RBI) and ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/falling-crude-prices-give-rbi-more-room-to-support-growth-standard-chartered/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852867_202607.jpg",
+      "publishedAt": "2026-07-05T13:42:53Z",
       "source": {
-        "name": "Benzinga"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Neil the seal causes chaos at Tasmanian petrol station as experts warn Australians to stay away",
-      "description": "Startled tourists recorded the massive elephant seal as he threw his 1000kg body onto a parked car.",
-      "url": "https://7news.com.au/news/neil-the-seal-causes-chaos-at-tasmanian-petrol-station-as-experts-warn-australians-to-stay-away-c-22533345",
-      "image": "https://images.7news.com.au/publication/C-22533345/f3490e7645fe62056e86f4df7a0c12e5a0d8d173-16x9-x0y0w256h144.gif?imwidth=1200",
-      "publishedAt": "2026-07-05T05:08:38Z",
-      "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "After E20 petrol, Nitin Gadkari pushes for 15% isobutanol-blended diesel: What it is and why it matters",
-      "description": "India may soon allow up to 15% isobutanol blending in diesel. Here's what isobutanol is, why Nitin Gadkari is backing it, and how it could reduce fuel imports.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/after-e20-nitin-gadkari-plans-diesel-blended-with-isobutanol-what-it-is-benefits-and-indias-biofuel-roadmap/articleshow/132190552.cms",
-      "image": "https://img.etimg.com/thumb/msid-132190656,width-1200,height-630,imgsize-26304,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-05T04:17:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Tesla, BYD to Tata Motors: How should Indian investors play the EV theme? Experts explain the right strategy",
-      "description": "Gas prices surged, prompting questions about investing in EV stocks like Tesla. However, valuations may not align with sales. Experts advise focusing on long-term EV adoption trends and diversifying investments rather than reacting to short-term fuel price spikes.",
-      "url": "https://www.livemint.com/money/personal-finance/tesla-byd-to-tata-motors-how-should-indian-investors-play-the-ev-theme-experts-explain-the-right-strategy-11783142892356.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/04/1600x900/logo/EV_1783178551663_1783178551870_6be8815d-4c48-4599-80a1-28e9a8aa5b5a.png",
-      "publishedAt": "2026-07-05T04:05:33Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Ban on non-EV 2-wheeler, registration needed to clear city air: CM Rekha Gupta on Delhi EV Policy 2.0",
-      "description": "NEW DELHI: Chief minister Rekha Gupta on Saturday defended Delhi govt\u2019s decision to stop fresh registrations of petrol-powered two-wheelers from April.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/ban-on-non-ev-2-wheeler-registration-needed-to-clear-city-air-cm-rekha-gupta-on-delhi-ev-policy-2-0/articleshow/132189761.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132190317,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-05T03:29:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today - 5 July: Latest fuel rates in Delhi, Mumbai, Bengaluru, Kolkata, Hyderabad, other cities",
-      "description": "Fuel prices in India remained stable on 5 July despite falling global crude prices. Oil Marketing Companies are not expected to cut domestic prices soon.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-5-july-latest-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-hyderabad-other-cities-11783212430515.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/pp_1783212538070_1783212538205_17986abe-072c-4600-b7b3-855f1e5fde4f.jpg",
-      "publishedAt": "2026-07-05T01:43:23Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "E20 rollout fuels demand for premium petrol amid mileage, engine concerns",
-      "description": "As E20 becomes the default fuel across India, a growing number of motorists are opting for higher-octane petrol amid concerns that E20 could hurt mileage and engine performance.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/e20-rollout-fuels-demand-for-premium-petrol-amid-mileage-engine-concerns/articleshow/132186675.cms",
-      "image": "https://img.etimg.com/thumb/msid-132186955,width-1200,height-630,imgsize-109842,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-05T00:30:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "A Week of Twists in US: From Highways to Headlines",
-      "description": "The week in the US was marked by diverse news events. Americans traveled despite high gas prices; Supreme Court Justice Barrett's decisions drew attention; a Tibetan man self-immolated for independence; Taylor Swift married Travis Kelce; Joey Chestnut battled heat to win Nathan\u2019s contest; a California man pleaded guilty to fake ransom charges.",
-      "url": "https://www.devdiscourse.com/article/entertainment/3945405-a-week-of-twists-in-us-from-highways-to-headlines",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_15_54_24_6391789.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-04T23:52:37Z",
+      "title": "Highway to Festivity: Americans Defy Gas Prices, Supreme Court's Bold Move, Celebrity Ties, and Stormy Celebrations",
+      "description": "A summary of the latest US domestic news covers Americans traveling for July 4 despite high gas prices, Supreme Court Justice Barrett's role in conservative victories, Joey Chestnut's hot-dog contest defense, Taylor Swift's marriage to Travis Kelce, power grid challenges during a heatwave, and other significant domestic events.",
+      "url": "https://www.devdiscourse.com/article/entertainment/3945471-highway-to-festivity-americans-defy-gas-prices-supreme-courts-bold-move-celebrity-ties-and-stormy-celebrations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2024_05_01_36_5822569.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-05T13:00:38Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Carmakers on E20: No engine damage, but mileage drops",
-      "description": "India News: NEW DELHI: Coming to the defence of govt amid backlash over the impact of mandatory 20% blending of ethanol in petrol, vehicle manufacturers on Saturd.",
-      "url": "https://timesofindia.indiatimes.com/india/carmakers-on-e20-no-engine-damage-but-mileage-drops/articleshow/132187415.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132187413,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-04T21:19:00Z",
+      "title": "OPEC Plus Pledges to Pump More Even as Oil Prices Fall",
+      "description": "The cartel\u2019s decision comes as U.S.-Iran talks to end the war have eased pressure on oil supplies, even as broader market and political volatility persists.",
+      "url": "https://www.nytimes.com/2026/07/05/business/opec-production-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/07/05/multimedia/05biz-opec-zkqm/05biz-opec-zkqm-facebookJumbo.jpg",
+      "publishedAt": "2026-07-05T12:50:45Z",
+      "source": {
+        "name": "The New York Times"
+      }
+    },
+    {
+      "title": "Delhi EV policy: \u20b91 lakh incentive for four-wheeler owners who switch to EVs, scrappage incentives explained",
+      "description": "Delhi's new electronic vehicles policy provides \u20b91 lakh scrapping incentive for four-wheeler owners who switch to EVs from petrol and diesel vehicles. We explain how the incentives work and steps to apply\u2026",
+      "url": "https://www.livemint.com/money/personal-finance/delhi-ev-policy-rs-1-lakh-scrappage-incentive-old-cars-owners-two-wheelers-switch-to-ev-petrol-diesel-vehicles-explained-11783249860916.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/05/1600x900/logo/g89ac277ff081c3fa9aa5cecca9e1d425b5d64dc99c2024108_1745905586398_1783254270495_88c3a532-5e70-42d0-bb72-4a3e7a35e651.png",
+      "publishedAt": "2026-07-05T12:29:14Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt",
+      "description": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt - New Delhi, July 5 The Ethanol Blended Petrol (EBP) Programme has emerged as a key pillar of India's ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/e20-petrol-has-saved-rs-190-lakh-crore-forex-blending-is-global-practice-govt/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852770_202607.jpg",
+      "publishedAt": "2026-07-05T12:07:27Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt",
+      "description": "E20 petrol has saved Rs 1.90 lakh crore forex, blending is global practice: Govt - New Delhi, July 5 The Ethanol Blended Petrol (EBP) Programme has emerged as a key pillar of India's ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/e20-petrol-has-saved-rs-190-lakh-crore-forex-blending-is-global-practice-govt-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607053852770_202607.jpg",
+      "publishedAt": "2026-07-05T12:07:27Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "'No such proposal for exporting E20 petrol': Centre dismisses Bhutan E20 rejection claims",
+      "description": "India Business News: The ministry of petroleum and natural gas (MoPNG) on Sunday dismissed reports claiming that Bhutan had refused to import India\u2019s E20 petrol, stating t.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/no-such-proposal-for-exporting-e20-petrol-centre-dismisses-bhutan-e20-rejection-claims/articleshow/132194578.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132194698,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-05T11:52:00Z",
       "source": {
         "name": "Times of India"
+      }
+    },
+    {
+      "title": "Indian ministry vs Bhutan news outlet on \u2018rejection\u2019 of E20 petrol",
+      "description": "In \u2018Fact Check\u2019 posted on its social media accounts, ministry said: \u201cClaims that Bhutan declined an offer to import E20 petrol from India are incorrect.\u201d | India News",
+      "url": "https://www.hindustantimes.com/india-news/indias-oil-ministry-vs-bhutanese-news-outlet-over-rejection-of-e20-by-balens-govt-101783251274272.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/05/550x309/ANI-20260605321-0_1783251836048_1783251851462_35c7f790-bf4e-4080-9e0e-99eb6757d0fc.jpg",
+      "publishedAt": "2026-07-05T11:47:49Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "India's oil ministry vs Bhutanese news outlet over 'rejection' of E20 petrol",
+      "description": "In \u2018Fact Check\u2019 posted on its social media accounts, ministry said: \u201cClaims that Bhutan declined an offer to import E20 petrol from India are incorrect.\u201d | India News",
+      "url": "https://www.hindustantimes.com/india-news/indias-oil-ministry-vs-bhutanese-news-outlet-over-rejection-of-e20-101783251274272.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/05/550x309/ANI-20260605321-0_1783251836048_1783251851462_35c7f790-bf4e-4080-9e0e-99eb6757d0fc.jpg",
+      "publishedAt": "2026-07-05T11:47:49Z",
+      "source": {
+        "name": "Hindustan Times"
       }
     }
   ]
