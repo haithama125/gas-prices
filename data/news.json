@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-06T19:42:29+00:00",
+  "updated_at": "2026-07-07T02:05:18+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why petrol prices aren't rising as fast as expected despite halving of fuel excise discount",
-      "description": "Petrol prices are edging higher after the fuel excise discount was halved, but why haven't they jumped by the full amount?",
-      "url": "https://www.sbs.com.au/news/podcast-episode/record-car-sales-as-asx-rallies/j3rvcbqdl",
-      "image": "https://assets.sbs.com.au/dims4/default/611b109/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F0e%2F02%2Fc754b6e442529348ddc3eb1d02ed%2Fotm-thumbnail-ricardo.png",
-      "publishedAt": "2026-07-06T07:32:05Z",
+      "title": "The U.S. Is Awash In Oil And Gasoline. So Why Are Pump Prices So High?",
+      "description": "There is a mismatch between the kind of oil the U.S. produces and what our refineries can currently handle. It is the root cause of higher gasoline prices here.",
+      "url": "https://www.forbes.com/sites/georgecalhoun/2026/07/06/the-us-is-awash-in-oil-and-gasoline-so-why-are-pump-prices-so-high/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a49338f6a692f54d912c2ba/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-07-06T14:00:42Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "Forbes"
       }
     },
     {
-      "title": "US futures rise and Asian shares trade mixed as oil prices decline with increased output",
-      "description": "Asian shares are mixed while U.S. futures are rising following a long weekend on Wall Street. Selling of technology shares pulled benchmarks in Tokyo and Seoul lower Monday. The U.S. dollar was trading at 162 yen. Oil prices slipped as some members of the OPEC plus group of crude exporters decided to raise their output next month. Uncertainty over supplies persists as negotiations with Iran aimed at fully reopening the Strait of Hormuz appeared to be on hold during funeral ceremonies for Ayatollah Ali Khamenei. Markets in the U.S. were closed on Friday, July 3, for the Independence Day holiday. This year, July 4th fell on a Saturday.",
-      "url": "https://www.ajc.com/news/2026/07/us-futures-and-asian-shares-are-mixed-while-oil-prices-decline-as-some-exporters-opt-to-raise-output/",
-      "image": "https://images.ajc.com/resizer/v2/3KDPNQIX5RACREWCXECQE5EVIU.jpg?auth=23fee93e79bd855a00ea2562a75c5323c5372f296f889000a14eebf331e6de8d&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-06T07:12:48Z",
+      "title": "Contaminated Petrol Explained: How bad fuel can damage your car and ways to stay safe?",
+      "description": "Contaminated petrol is one of the hidden causes of engine problems and expensive repairs. Water, dirt, rust, or poor-quality fuel can reduce your car's performance, damage the fuel system, and even leave you stranded.",
+      "url": "https://www.indiatvnews.com/auto/contaminated-petrol-explained-how-bad-fuel-can-damage-your-car-and-ways-to-stay-safe-2026-07-06-1047320",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/contaminated-pixabay-1783336061.jpg",
+      "publishedAt": "2026-07-06T14:00:02Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "India TV News"
       }
     },
     {
-      "title": "India's macro outlook improves as oil prices ease: Report",
-      "description": "India's macro outlook improves as oil prices ease: Report - New Delhi, July 6 India's macroeconomic and growth outlook has improved as lower oil prices, easing foreign portfolio ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/indias-macro-outlook-improves-as-oil-prices-ease-report-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607063853431_202607.jpeg",
-      "publishedAt": "2026-07-06T07:12:19Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "India's macro outlook improves as oil prices ease: Report",
-      "description": "India's macro outlook improves as oil prices ease: Report - New Delhi, July 6 India's macroeconomic and growth outlook has improved as lower oil prices, easing foreign portfolio ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/indias-macro-outlook-improves-as-oil-prices-ease-report/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607063853431_202607.jpeg",
-      "publishedAt": "2026-07-06T07:12:19Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Sainsbury's cuts back petrol station opening hours",
-      "description": "From today",
-      "url": "https://www.stokesentinel.co.uk/news/stoke-on-trent-news/sainsburys-cuts-back-petrol-station-11046155",
-      "image": "https://i2-prod.stokesentinel.co.uk/article11046158.ece/ALTERNATES/s1200d/1_bspsJPG.jpg",
-      "publishedAt": "2026-07-06T07:06:20Z",
-      "source": {
-        "name": "Stoke Sentinel"
-      }
-    },
-    {
-      "title": "US futures rise and Asian shares trade mixed as oil prices decline with increased output",
-      "description": "Asian shares are mixed while U.S. futures are rising following a long weekend on Wall Street",
-      "url": "https://www.barchart.com/story/news/3135790/us-futures-rise-and-asian-shares-trade-mixed-as-oil-prices-decline-with-increased-output",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/dfd7490f72c84855ba40fc92ddba9044/dfd7490f72c84855ba40fc92ddba9044_main_japan_financial_markets_69121.jpg",
-      "publishedAt": "2026-07-06T07:01:49Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "US futures and Asian shares are mixed while oil prices decline as some exporters opt to raise output",
-      "description": "TOKYO, July 6: \u00a0Asian shares and US futures were mixed on Monday following a long weekend on Wall Street, while selling of technology shares pulled benchmarks in Tokyo and Seoul lower. Oil prices slipped after OPEC+ announced Sunday that seven...",
-      "url": "https://www.dailyexcelsior.com/us-futures-and-asian-shares-are-mixed-while-oil-prices-decline-as-some-exporters-opt-to-raise-output/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWQ3NmNjZGMwLTc5MDctMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-06T06:56:39Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Global Market: Japan's Topix rises on oil price drop, Nikkei weighed down by tech",
-      "description": "Japanese stocks saw a positive start to the week, with the Topix index extending its winning streak to six sessions, buoyed by falling oil prices and a strong global market. While the tech-heavy Nikkei 225 remained flat, sectors like shipping and autos surged. Investors are closely watching central bank policies and currency movements, with the yen weakening and government bonds experiencing a sharp decline.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-topix-rises-on-oil-price-drop-nikkei-weighed-down-by-tech/articleshow/132209914.cms",
-      "image": "https://img.etimg.com/thumb/msid-132209981,width-1200,height-630,imgsize-180512,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-06T06:51:00Z",
+      "title": "AI investors may pivot to hyperscalers from chipmakers, Morgan Stanley says",
+      "description": "Morgan Stanley has recommended a strategic pivot in market investments, directing attention from semiconductor stocks to AI-based giants such as Alphabet and Amazon. This shift is fueled by expectations of reduced rate hikes and a decline in oil prices, which favor sectors like consumer discretionary, transport, and biotech. As major players invest significantly in AI infrastructure, investors are seeking tangible outcomes, potentially signaling a downturn for chip stocks.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ai-investors-may-pivot-to-hyperscalers-from-chipmakers-morgan-stanley-says/articleshow/132218137.cms",
+      "image": "https://img.etimg.com/thumb/msid-132218137,width-1200,height-630,imgsize-2062168,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-06T13:55:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "July 2026 car offers: Tata, Honda, Kia, MG, Hyundai, Maruti and other brands roll out discounts; check model-wise deals",
-      "description": "Car buyers can rejoice this July as major automakers like Tata Motors, Honda, Kia, and Maruti Suzuki are offering significant discounts. Savings can range from a few thousand rupees up to Rs 3.5 lakh on select models, including EVs and popular petrol/diesel variants. These attractive deals aim to boost sales following recent price increases by manufacturers.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/july-2026-car-offers-tata-honda-kia-mg-hyundai-maruti-and-other-brands-roll-out-discounts-check-model-wise-deals/articleshow/132209313.cms",
-      "image": "https://img.etimg.com/thumb/msid-132209755,width-1200,height-630,imgsize-31102,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-06T06:46:00Z",
+      "title": "Saudi Arabia cuts oil prices for Asia customers by $11 a barrel in biggest reduction in 26 years",
+      "description": "Saudi Arabia cut the price of its main crude grade for customers in Asia in August by the most in at least 26 years, as a surge of global supply heightens competition for buyers.",
+      "url": "https://www.livemint.com/economy/saudi-arabia-aramco-cuts-oil-prices-for-asia-customers-by-11-a-barrel-in-biggest-reduction-in-26-years-11783345319084.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/SAUDI-ARAMCO-RESULTS--0_1783345353988_1783345377155_315fc4ac-687e-4918-938f-0e9d2f7ab5af.JPG",
+      "publishedAt": "2026-07-06T13:50:33Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Hormuz Service Fee Explained: How Iran\u2019s Plan Could Raise India\u2019s Oil and Fuel Prices",
-      "description": "Will Iran\u2019s proposed Hormuz service fee push up India\u2019s oil import bill? Explore how potential charges on ships using the Strait of Hormuz could raise freight and insurance costs, impact crude supplies from Gulf producers, and affect petrol, diesel and LPG prices for Indian consumers.",
-      "url": "https://www.outlookindia.com/national/hormuz-service-fee-explained-will-india-pay-more-for-oil-if-iran-starts-charging-ships",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-07-06/r1enzyn0/AP26070478014685.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-06T06:39:27Z",
+      "title": "Oil prices head back to pre-Iran conflict levels: report",
+      "description": "Oil prices have beginning to decrease down to pre-Iran conflict levels following OPEC+ agreeing to increase production.",
+      "url": "https://wjla.com/news/nation-world/oil-prices-head-back-to-pre-iran-conflict-levels-report-donald-trump-strait-of-hormuz-white-house-jared-kushner",
+      "image": "https://wjla.com/resources/media2/16x9/4978/1320/0x461/90/2e91eb58-9d13-4b82-a9a4-d74ac18d6bb0-GettyImages2282806003.jpg",
+      "publishedAt": "2026-07-06T13:42:17Z",
       "source": {
-        "name": "Outlook India"
+        "name": "WJLA"
+      }
+    },
+    {
+      "title": "Oil prices head back to pre-Iran conflict levels: report",
+      "description": "Oil prices have beginning to decrease down to pre-Iran conflict levels following OPEC+ agreeing to increase production.",
+      "url": "https://foxbaltimore.com/station/share/oil-prices-head-back-to-pre-iran-conflict-levels-report-donald-trump-strait-of-hormuz-white-house-jared-kushner",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/4978/1320/0x461/90/2e91eb58-9d13-4b82-a9a4-d74ac18d6bb0-GettyImages2282806003.jpg",
+      "publishedAt": "2026-07-06T13:42:17Z",
+      "source": {
+        "name": "Baltimore News"
+      }
+    },
+    {
+      "title": "Nashik: Car Driver Stabs Two-Wheeler Rider After Traffic Dispute In Manmad; Accused Arrested |WATCH VIDEO",
+      "description": "The victim has been identified as Irfan Beg. He was riding his two-wheeler near the Chopda Petrol Pump in Manmad when a speeding car, heading towards Yeola, cut sharply in front of him. Irfan stopped the car and questioned the driver. Enraged, the car driver pulled out a knife and stabbed Irfan in the abdomen. The accused fled the scene immediately after the attack",
+      "url": "https://www.freepressjournal.in/pune/nashik-car-driver-stabs-two-wheeler-rider-after-traffic-dispute-in-manmad-accused-arrested-watch-video",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-06/vk0w3nwr/MixCollage-06-Jul-2026-07-00-PM-6205.jpg",
+      "publishedAt": "2026-07-06T13:31:52Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Crude oil relief: OMCs may break even on petrol, diesel rates soon; what it means for retail prices",
+      "description": "India Business News: Respite for oil marketing companies! State-run oil marketing companies (OMCs) could reach the break-even point on petrol and diesel sales within the n.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/crude-oil-relief-omcs-may-break-even-on-petrol-diesel-rates-soon-what-it-means-for-retail-prices/articleshow/132215124.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132217591,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-06T13:29:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "E20 petrol in pre 2022 cars: Engineer\u2019s blog post against panic goes viral",
+      "description": "Ashwin Durai, a Chennai-based mechanic, engineer and founder of ICD Tuning, argues that fears around E20 petrol are exaggerated.",
+      "url": "https://www.businesstoday.in/auto/story/e20-petrol-in-pre-2022-cars-engineers-blog-post-against-panic-goes-viral-541272-2026-07-06",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a4baa078aa20-durai-argues-that-viral-claims-of-e20-destroying-engines-often-confuse-existing-maintenanceproble-061337788-16x9.jpg",
+      "publishedAt": "2026-07-06T13:15:58Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Markets on Wall Street quietly mixed while oil prices slip",
+      "description": "US futures mostly climbed following the Independence Day holiday and oil prices slipped after OPEC+ announced a ramp up in production.",
+      "url": "https://www.pilotonline.com/2026/07/06/wall-street-markets-oil-prices/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_24929.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-06T13:08:41Z",
+      "source": {
+        "name": "Norfolk Virginian-Pilot"
       }
     }
   ]
