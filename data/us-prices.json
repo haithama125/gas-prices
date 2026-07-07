@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T12:03:55+00:00",
-  "week_of": "2026-06-22",
+  "updated_at": "2026-07-07T12:21:19+00:00",
+  "week_of": "2026-06-29",
   "source": "EIA Weekly Retail Gasoline Prices (regular grade)",
   "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
   "currency": "USD",
@@ -8,358 +8,358 @@
   "states": {
     "AL": {
       "name": "Alabama",
-      "gasoline_usd_per_gallon": 3.437,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.321,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R30"
     },
     "AK": {
       "name": "Alaska",
-      "gasoline_usd_per_gallon": 5.057,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 4.919,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R50"
     },
     "AZ": {
       "name": "Arizona",
-      "gasoline_usd_per_gallon": 5.057,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 4.919,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R50"
     },
     "AR": {
       "name": "Arkansas",
-      "gasoline_usd_per_gallon": 3.437,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.321,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R30"
     },
     "CA": {
       "name": "California",
-      "gasoline_usd_per_gallon": 5.387,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 5.245,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SCA"
     },
     "CO": {
       "name": "Colorado",
-      "gasoline_usd_per_gallon": 3.666,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.563,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SCO"
     },
     "CT": {
       "name": "Connecticut",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "DE": {
       "name": "Delaware",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "DC": {
       "name": "District of Columbia",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "FL": {
       "name": "Florida",
-      "gasoline_usd_per_gallon": 3.567,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.689,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SFL"
     },
     "GA": {
       "name": "Georgia",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "HI": {
       "name": "Hawaii",
-      "gasoline_usd_per_gallon": 5.057,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 4.919,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R50"
     },
     "ID": {
       "name": "Idaho",
-      "gasoline_usd_per_gallon": 3.845,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.715,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R40"
     },
     "IL": {
       "name": "Illinois",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "IN": {
       "name": "Indiana",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "IA": {
       "name": "Iowa",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "KS": {
       "name": "Kansas",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "KY": {
       "name": "Kentucky",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "LA": {
       "name": "Louisiana",
-      "gasoline_usd_per_gallon": 3.437,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.321,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R30"
     },
     "ME": {
       "name": "Maine",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "MD": {
       "name": "Maryland",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "MA": {
       "name": "Massachusetts",
-      "gasoline_usd_per_gallon": 3.949,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.839,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SMA"
     },
     "MI": {
       "name": "Michigan",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "MN": {
       "name": "Minnesota",
-      "gasoline_usd_per_gallon": 3.719,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.614,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SMN"
     },
     "MS": {
       "name": "Mississippi",
-      "gasoline_usd_per_gallon": 3.437,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.321,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R30"
     },
     "MO": {
       "name": "Missouri",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "MT": {
       "name": "Montana",
-      "gasoline_usd_per_gallon": 3.845,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.715,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R40"
     },
     "NE": {
       "name": "Nebraska",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "NV": {
       "name": "Nevada",
-      "gasoline_usd_per_gallon": 5.057,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 4.919,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R50"
     },
     "NH": {
       "name": "New Hampshire",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "NJ": {
       "name": "New Jersey",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "NM": {
       "name": "New Mexico",
-      "gasoline_usd_per_gallon": 3.437,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.321,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R30"
     },
     "NY": {
       "name": "New York",
-      "gasoline_usd_per_gallon": 4.075,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.978,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SNY"
     },
     "NC": {
       "name": "North Carolina",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "ND": {
       "name": "North Dakota",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "OH": {
       "name": "Ohio",
-      "gasoline_usd_per_gallon": 3.862,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.772,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SOH"
     },
     "OK": {
       "name": "Oklahoma",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "OR": {
       "name": "Oregon",
-      "gasoline_usd_per_gallon": 5.057,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 4.919,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R50"
     },
     "PA": {
       "name": "Pennsylvania",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "RI": {
       "name": "Rhode Island",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "SC": {
       "name": "South Carolina",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "SD": {
       "name": "South Dakota",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "TN": {
       "name": "Tennessee",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "TX": {
       "name": "Texas",
-      "gasoline_usd_per_gallon": 3.371,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.23,
+      "period": "2026-06-29",
       "source": "state",
       "region": "STX"
     },
     "UT": {
       "name": "Utah",
-      "gasoline_usd_per_gallon": 3.845,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.715,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R40"
     },
     "VT": {
       "name": "Vermont",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "VA": {
       "name": "Virginia",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "WA": {
       "name": "Washington",
-      "gasoline_usd_per_gallon": 5.152,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 5.029,
+      "period": "2026-06-29",
       "source": "state",
       "region": "SWA"
     },
     "WV": {
       "name": "West Virginia",
-      "gasoline_usd_per_gallon": 3.777,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.742,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R10"
     },
     "WI": {
       "name": "Wisconsin",
-      "gasoline_usd_per_gallon": 3.723,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.625,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R20"
     },
     "WY": {
       "name": "Wyoming",
-      "gasoline_usd_per_gallon": 3.845,
-      "period": "2026-06-22",
+      "gasoline_usd_per_gallon": 3.715,
+      "period": "2026-06-29",
       "source": "padd",
       "region": "R40"
     }
