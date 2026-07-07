@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-07T09:23:38+00:00",
+  "updated_at": "2026-07-07T14:07:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "500 \u2018dead\u2019 petrol pumps claim selling thousands of litres of oil in March-April, submit PDCs",
-      "description": "ISLAMABAD\u00a0 -\u00a0 Pakistan\u2019s 500 dormant petrol pumps, which hadn\u2019t operated for the entire year, have resurfaced claiming to have sold thousands of",
-      "url": "https://www.nation.com.pk/07-Jul-2026/500-dead-petrol-pumps-claim-selling-thousands-litres-oil-march-april-submit-pdcs",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-07-06T19:54:00Z",
+      "title": "Gas prices are falling. So why aren\u2019t Utahns feeling better about the economy?",
+      "description": "Biggest worries probably won\u2019t come as a surprise",
+      "url": "https://www.deseret.com/business/2026/07/06/us-inflation-gas-grocery-prices-new-utah-poll-household-budgets-housing-federal-reserve-supply-shock-petroleum-industry/",
+      "image": "https://www.deseret.com/resizer/v2/VGSRMAN6RVB25E3BUZC2SIYK2M.JPG?focal=0%2C0&auth=47eef9fa5f685ba0d313f1266f8d04849d206a7386dd55c5faa63d5951c3ee35&width=630&height=331",
+      "publishedAt": "2026-07-07T02:00:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "Salt Lake City Deseret News"
       }
     },
     {
-      "title": "How E20 affects your car and what\u2019s next on E85 rollout",
-      "description": "Times Special News: India has completed its nationwide shift to E20 petrol, which means the regular petrol sold at pumps now contains 20% ethanol. The transition was achi.",
-      "url": "https://timesofindia.indiatimes.com/times-special/how-e20-affects-your-car-and-whats-next-on-e85-rollout/articleshow/132225251.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132225321,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-06T19:52:00Z",
+      "title": "Government likely to slow E25 petrol rollout after concerns over E20 transition: Report",
+      "description": "The Centre is learnt to favour a graded transition as automakers and motorists raise concerns over mileage and vehicle compatibility.",
+      "url": "https://www.moneycontrol.com/news/business/government-likely-to-slow-e25-petrol-rollout-after-concerns-over-e20-transition-report-13967459.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251006073254_petrol-pti.jpg",
+      "publishedAt": "2026-07-07T01:57:20Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Oil price today: Crude benchmarks inch higher as focus shifts to supply, demand and Hormuz shipments",
+      "description": "International Business News: Oil prices inched higher on Tuesday as traders are now focused on supply demand and recovering shipments across the crucial Strait of Hormuz. Around 7.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-benchmarks-inch-higher-as-focus-shifts-to-supply-demand-and-hormuz-shipments/articleshow/132228339.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132228382,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-07T01:53:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Suncor Stock vs. Enbridge Stock: Which Dividend Giant Is the Better Buy for 2026?",
-      "description": "Canada\u2019s $140 billion oil-export engine is still powering two TSX dividend giants, but Suncor rides oil prices while Enbridge sells steadier infrastructure cash flow.",
-      "url": "https://www.fool.ca/2026/07/06/suncor-stock-vs-enbridge-stock-which-dividend-giant-is-the-better-buy-for-2026/",
-      "image": "https://www.fool.ca/wp-content/uploads/2026/03/GettyImages-117149892-1200x817.jpg",
-      "publishedAt": "2026-07-06T19:30:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Pressured as Global Supplies Rebound",
-      "description": "August WTI crude oil (CLQ26 ) on Monday closed down -0.14 (-0.20%), and August RBOB gasoline (RBQ26 ) closed up +0.0860 (+2.95%). Crude oil and gasoline prices settled mixed on Monday, with gasoline posting a 3-week high. Crude oil was under pressur...",
-      "url": "https://www.barchart.com/story/news/3147805/crude-oil-prices-pressured-as-global-supplies-rebound",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20pipeline%20through%20forest%20by%20cozyta%20via%20iStock.jpg",
-      "publishedAt": "2026-07-06T19:15:06Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Stronger Domestic Demand Lifts Nat-Gas Prices",
-      "description": "August Nymex natural gas (NGQ26 ) on Monday closed up +0.049 (+1.53%). Nat-gas prices settled higher on Monday amid speculation that the recent heatwave that engulfed over two-thirds of the US sparked heavy demand for nat-gas from electricity provide...",
-      "url": "https://www.barchart.com/story/news/3147782/stronger-domestic-demand-lifts-nat-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20cooktop%20by%20MarianVejcik%20via%20iStock.jpg",
-      "publishedAt": "2026-07-06T19:13:40Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "PIL seeks ethanol blend disclosure at fuel pumps",
-      "description": "A Supreme Court petition demands transparency in ethanol-blended petrol distribution. It seeks display of ethanol percentages on fuel nozzles and bills. The petition also requests a vehicle compatibility database for various ethanol blends. It aims to protect consumers from potential vehicle damage and warranty issues. An expert committee is proposed to study E20 compatibility and its implications.",
-      "url": "https://economictimes.indiatimes.com/news/india/pil-seeks-ethanol-blend-disclosure-at-fuel-pumps/articleshow/132224990.cms",
-      "image": "https://img.etimg.com/thumb/msid-132225000,width-1200,height-630,imgsize-109704,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-06T19:13:00Z",
+      "title": "Oil prices gain as focus shifts to supply recovery and demand",
+      "description": "Oil prices saw slight gains Tuesday as traders focused on supply increases. Traders are looking beyond Middle East tensions to demand prospects. The United Arab Emirates increased crude output significantly in June. Saudi Arabia also cut its August crude selling price to Asia. Market watchers await demand response, especially from China.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-gain-as-focus-shifts-to-supply-recovery-and-demand/articleshow/132228392.cms",
+      "image": "https://img.etimg.com/thumb/msid-132228399,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-07T01:51:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Dewas fuel stations launch advisories amid E20 fuel concerns",
-      "description": "Dewas petrol pumps issue advisories urging motorists to clean fuel tanks during monsoon amid E20 concerns, as some report moisture-related fuel system issues.",
-      "url": "https://timesofindia.indiatimes.com/city/indore/dewas-fuel-stations-launch-advisories-amid-e20-fuel-concerns/articleshow/132224703.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-07-06T18:59:00Z",
+      "title": "Electric vehicle sales are on a fast track: war has done what policy couldn't",
+      "description": "Recent data for retail automobile offtake shows robust demand overall, but gains made by vehicles that don\u2019t run on petrol-station refills stand out. How long will the West Asian war\u2019s propulsion last?",
+      "url": "https://www.livemint.com/opinion/online-views/mint-quick-edit-electric-vehicle-sales-alternative-fuel-cng-west-asian-war-us-iran-evs-11783348432964.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/06/1600x900/logo/Delhi-and-Indiamore-broadly-need-structural-polic_1783349065323_1783349065540_a1dd1fc5-6b7d-41c2-815f-daaaa998055d.jpg",
+      "publishedAt": "2026-07-07T01:30:35Z",
       "source": {
-        "name": "Times of India"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Here's how much it will cost to drive across Canada this summer",
-      "description": "Here\u2019s a breakdown of costs driving sea-to-sea on the Trans-Canada Highway based on the latest provincial gas prices. Find out more here.",
-      "url": "https://financialpost.com/personal-finance/heres-how-much-cost-drive-across-canada",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/road-trip-gs0706.jpg",
-      "publishedAt": "2026-07-06T18:41:20Z",
+      "title": "Tata Punch tops India's June 2026 sales with petrol, CNG and EV options",
+      "description": "Tata Motors' Punch, including its electric version, emerged as India's best-selling passenger vehicle in June 2026. Offered with petrol, CNG and EV powertrains, the micro SUV now boasts one of the widest powertrain choices and feature lists in its segment.",
+      "url": "https://www.indiatoday.in/auto/cars/story/tata-punch-tops-indias-june-2026-sales-with-petrol-cng-and-ev-options-2941991-2026-07-07",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/tata-punch-emerged-as-the-best-selling-car-of-june-064510250-16x9_0.jpg?VersionId=JVmZkdDDnmpuz998x3FWK7WMsYnuDNqW",
+      "publishedAt": "2026-07-07T01:30:14Z",
       "source": {
-        "name": "Financial Post"
+        "name": "India Today"
       }
     },
     {
-      "title": "6 men linked to Pak-based gang arrested; petrol bombs seized",
-      "description": "The Delhi Police Special Cell on Monday arrested six men from Delhi, Punjab and Uttar Pradesh, busting two modules linked to Pakistan-based gangster-turned-terror operative Shahzad Bhatti, officials said | Latest News Delhi",
-      "url": "https://www.hindustantimes.com/cities/delhi-news/6-men-linked-to-pak-based-gang-arrested-petrol-bombs-seized-101783361710115.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/06/550x309/Further-arrests-and-recoveries-are-possible-as-the_1783361708078.jpg",
-      "publishedAt": "2026-07-06T18:15:09Z",
+      "title": "Crude oil prices rise on hopes of stronger demand; Brent above $72 per barrel",
+      "description": "US-Iran war: Brent crude futures rose 28 cents, or 0.39%, to $72.29 a barrel, while US West Texas Intermediate (WTI) crude climbed 29 cents, or 0.26%, to $68.84 a barrel.",
+      "url": "https://www.livemint.com/market/crude-oil-prices-rise-on-hopes-of-stronger-demand-brent-above-72-per-barrel-11783386630920.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/07/1600x900/logo/crude_oil_1697775793536_1783387155011_1982fb4b-52ea-4747-b054-d31918e995c0.jpg",
+      "publishedAt": "2026-07-07T01:30:14Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "NY Fed says supply chain pressures eased in June",
-      "description": "Global supply chain pressures eased in June, with the New York Fed index falling to 1.25 as Middle East disruptions showed signs of easing. Improved transit through the Strait of Hormuz and softer oil prices are expected to moderate inflation, though logistics bottlenecks and supplier delays continue to signal residual strain.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/ny-fed-says-supply-chain-pressures-eased-in-june/articleshow/132223240.cms",
-      "image": "https://img.etimg.com/thumb/msid-132223240,width-1200,height-630,imgsize-464896,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-06T18:03:00Z",
+      "title": "Oil prices gain as focus shifts to supply recovery and demand",
+      "description": "OIL prices edged higher on Tuesday, but gains were limited as traders looked beyond easing geopolitical tensions in the Middle East and turned their attention to supply increases and demand prospects.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/07/oil-prices-gain-as-focus-shifts-to-supply-recovery-and-demand",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/07/3996325.jpg",
+      "publishedAt": "2026-07-07T01:27:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Inflation eases to 6.4% in June 2026 as fuel, food prices cool",
+      "description": "Though lower domestic oil prices and cheaper major food items have pushed inflation down, it remains well above the government\u2019s target range of 2% to 4%",
+      "url": "https://www.rappler.com/business/inflation-rate-philippines-june-2026/",
+      "image": "https://www.rappler.com/tachyon/2025/11/commonwealth-market-march-13-2025-003.jpg",
+      "publishedAt": "2026-07-07T01:07:40Z",
+      "source": {
+        "name": "Rappler"
+      }
+    },
+    {
+      "title": "Oil prices gain as focus shifts to supply recovery and demand",
+      "description": "Oil prices edged higher on Tuesday, but gains were limited as traders looked beyond easing geopolitical tensions in the Middle East and turned their attention to \u200bsupply increases and demand prospects.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-gain-focus-shifts-supply-recovery-demand-2026-07-07/",
+      "image": "https://www.reuters.com/resizer/v2/XB7KZVCK2RK57LNJ7KWJF2RZSM.jpg?auth=280e647fa2426247f33083c3105738680bc532c035466ece4047cb2cecc70ae2&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-07T00:53:03Z",
+      "source": {
+        "name": "Reuters"
       }
     }
   ]
