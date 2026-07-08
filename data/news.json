@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-08T13:30:26+00:00",
+  "updated_at": "2026-07-08T19:06:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets",
-      "description": "Gold eased on Wednesday to its lowest level in nearly a week, as U.S. strikes on Iran boosted oil prices and the dollar, raising concerns that \u200binflation could keep interest rates higher for longer and weigh on non-yielding \u200cbullion.",
-      "url": "https://www.reuters.com/world/india/gold-eases-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets-2026-07-08/",
-      "image": "https://www.reuters.com/resizer/v2/GV5E2ZCNLBMD5AW2PI6CTIY4HY.jpg?auth=7e2d7f40543ba6ffc7491a644a3adcd8387b6e7f31be6e7d50fb6cb341594d44&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-08T01:28:15Z",
+      "title": "Sensex falls over 680 pts, Nifty slips below 24,200 mark as crude oil spike weighs, FMCGs, oil & gas stocks drag",
+      "description": "Benchmark equity indices Sensex and Nifty tumbled on Wednesday amid renewed US-Iran tensions and a fresh spike in crude oil prices.",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-falls-over-680-pts-nifty-slips-below-24200-mark-as-crude-oil-spike-weighs-fmcgs-oil-amp-gas-stocks-drag/article71197003.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/2nqzln/article71197015.ece/alternates/LANDSCAPE_1200/PO31_Global_chart.jpg",
+      "publishedAt": "2026-07-08T07:05:54Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Global Market Today: Oil rises, Asian stocks steady as US strikes Iran",
-      "description": "Oil prices surged as the United States conducted airstrikes and revoked waivers for Iran. Asian stocks remained largely unchanged while investors assessed the geopolitical situation. S&P 500 and Nasdaq futures showed slight gains after earlier declines in US markets. Renewed tensions risk energy market disruptions and undermine the recent US-Iran peace deal. Investors are now shifting focus from AI sentiment to geopolitical concerns.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-rises-asian-stocks-steady-as-us-strikes-iran/articleshow/132251290.cms",
-      "image": "https://img.etimg.com/thumb/msid-132251284,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-08T01:17:00Z",
+      "title": "Commodities: Oil Bounces On Persian Gulf Re-Escalation",
+      "description": "Re-escalation in the Persian Gulf has reignited supply concerns, pushing oil prices higher amid\u00a0questions about the direction of\u00a0US-Iran peace\u00a0talks. Read more here.",
+      "url": "https://seekingalpha.com/article/4920522-oil-bounces-on-persian-gulf-re-escalation",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220412416/image_2220412416.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-07-08T07:00:00Z",
+      "source": {
+        "name": "Seeking Alpha"
+      }
+    },
+    {
+      "title": "Rupee slips as oil prices jump, modest portfolio inflows cushion fall",
+      "description": "The Indian rupee weakened slightly on Wednesday due to Middle East hostilities. Renewed conflict lifted oil prices, impacting risk sentiment across markets. Modest portfolio inflows helped cushion the rupee's downward pressure. Elevated oil prices pose a risk to India's economic growth and inflation. Investors also await U.S. Federal Reserve policy meeting minutes later today.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-oil-prices-jump-modest-portfolio-inflows-cushion-fall/articleshow/132255397.cms",
+      "image": "https://img.etimg.com/thumb/msid-132255451,width-1200,height-630,imgsize-38656,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-08T06:19:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "PetChem leads FBM KLCI higher as Hormuz attacks ignite oil supply concerns",
-      "description": "KUALA LUMPUR: A jump in crude oil prices following Iran's attack on tankers in the Straits of Hormuz is spurring activity in the energy sector once again, even as investors rotate out of the overheated AI-drive technology sector.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/07/08/petchem-leads-fbm-klci-higher-as-hormuz-attacks-ignite-supply-concerns",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998194.png",
-      "publishedAt": "2026-07-08T01:13:00Z",
+      "title": "Nitin Gadkari Defends E20 Fuel Policy, Challenges Critics To Show Vehicle Damage",
+      "description": "Union Minister Nitin Gadkari defended India\u2019s E20 ethanol-blended petrol programme amid criticism over mileage concerns and vehicle issues. He challenged critics to name a single car damaged by E20 fuel, while highlighting the policy\u2019s role in reducing crude oil imports, saving foreign exchange and cutting carbon emissions",
+      "url": "https://www.freepressjournal.in/business/nitin-gadkari-defends-e20-fuel-policy-challenges-critics-to-show-vehicle-damage",
+      "image": "https://media.assettype.com/freepressjournal/2025-06-21/cbfwnyuv/FotoJet-2025-06-21T164707.064.jpg",
+      "publishedAt": "2026-07-08T06:13:07Z",
       "source": {
-        "name": "The Star"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Asian shares steady, oil prices rise as US strikes Iran",
-      "description": "South Korea's Kospi index was up 0.9%, while Japan's Nikkei index was flat but sharply off day's lows. The MSCI Asia Pacific index was steady after falling nearly 1% during open. S&P 500 futures were up0.1% while contracts for the Nasdaq 100 were up 0.3%.",
-      "url": "https://www.cnbctv18.com/market/asian-shares-steady-oil-prices-rise-as-us-strikes-iran-19940537.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/stk-market-1-2026-06-e03f2c7b54b5bb72b0c56efc60487294.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-08T01:10:49Z",
+      "title": "Oil surges after U.S. launches strikes on Iran",
+      "description": "U.S. military strikes on Iran send oil prices surging after attacks on commercial vessels in the Strait of Hormuz, threatening a fragile ceasefire and raising inflation concerns ahead of the midterm elections.",
+      "url": "https://www.bolnews.com/business/oil-surges-after-u-s-launches-strikes-on-iran/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/02/Humrox.webp",
+      "publishedAt": "2026-07-08T06:10:34Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "BOL News"
       }
     },
     {
-      "title": "Govt to conduct extensive E25 testing before rollout decision",
-      "description": "India News: New Delhi: Govt will carry out extensive testing of E25 (petrol blended with 25% ethanol), evaluate reports and consult all stakeholders before taking.",
-      "url": "https://timesofindia.indiatimes.com/india/govt-to-conduct-extensive-e25-testing-before-rollout-decision/articleshow/132251249.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132251254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-08T01:08:00Z",
+      "title": "New luxury EV's price shock",
+      "description": "Lexus Australia has confirmed pricing and specification for the new eighth-generation ES sedan, with a choice of petrol-electric,...",
+      "url": "https://www.canberratimes.com.au/story/9306812/new-luxury-evs-price-shock/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/18691e54-c4df-4534-8a27-75edbb6889d2.jpg/r0_4_1489_786_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-07-08T06:04:43Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Canberra Times"
       }
     },
     {
-      "title": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
-      "description": "United States reimposed sanctions on Iranian oil sales Tuesday. This action followed attacks on vessels in the Strait of Hormuz. The U.S. Treasury had previously authorized sales until August 21. Tuesday's revocation shortens this wind-down period to July 17. Oil prices rose more than five percent after the announcement.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-reinstates-sanctions-on-iranian-oil-sales-after-lng-oil-tanker-attacks/articleshow/132251156.cms",
-      "image": "https://img.etimg.com/thumb/msid-132251175,width-1200,height-630,imgsize-61406,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-08T00:50:00Z",
+      "title": "Rachel Reeves says 'hundreds of letters sent' as petrol rules broken",
+      "description": "The Chancellor says fines will be issued to those failing to comply with the law",
+      "url": "https://www.express.co.uk/news/uk/2226593/rachel-reeves-says-hundreds-letters",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7027901.jpg",
+      "publishedAt": "2026-07-08T06:01:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Daily Express"
       }
     },
     {
       "title": "Oil prices jump more than 3% after US strikes on Iran, while shares in Asia are mixed",
-      "description": "Asian shares are mixed and oil prices have surged more than 3% after the U.S. launched strikes on Iran. BANGKOK (AP) \u2014 Asian shares were mixed on",
-      "url": "https://www.breitbart.com/news/oil-prices-jump-more-than-3-after-us-strikes-on-iran-while-shares-in-asia-are-mixed/",
-      "image": "https://media.breitbart.com/media/2026/07/wi/ap/south-korea-financial-markets-47267-south-korea-financial-markets-screen-korea-composite-stock-640x335.jpg",
-      "publishedAt": "2026-07-08T00:49:14Z",
+      "description": "Asian shares are mixed and oil prices have surged more than 3% after the U.S. launched strikes on Iran",
+      "url": "https://www.barchart.com/story/news/3176179/oil-prices-jump-more-than-3-after-us-strikes-on-iran-while-shares-in-asia-are-mixed",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ab39e3f49e014ff2be6cc270658b7922/ab39e3f49e014ff2be6cc270658b7922_main_south_korea_financial_markets_41186.jpg",
+      "publishedAt": "2026-07-08T05:59:58Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Dollar at week-high after US resumes attacks on Iran",
-      "description": "The dollar reached its highest weekly level against peers amid renewed U.S. strikes on Iran. Geopolitical tensions escalated, and oil prices saw an increase following the attacks. Concerns over peace deal stability reemerged after Iran's actions in the Strait of Hormuz. Global yields jumped higher as inflation outlook worries intensified for investors. Other currencies like the euro and pound experienced slight declines against the dollar.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-at-week-high-after-us-resumes-attacks-on-iran/articleshow/132251150.cms",
-      "image": "https://img.etimg.com/thumb/msid-132251153,width-1200,height-630,imgsize-1627029,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-08T00:46:00Z",
+      "title": "Oil prices jump more than 3% after US strikes on Iran, while shares in Asia are mixed",
+      "description": "BANGKOK (AP) \u2014 Asian shares were mixed on Wednesday and oil prices surged more than 3% after the U.S. launched strikes on Iran following attacks on three ships\u2026",
+      "url": "https://wtop.com/asia/2026/07/oil-prices-jump-after-us-strikes-on-iran-while-shares-in-asia-are-mixed/",
+      "image": "https://wtop.com/wp-content/uploads/2026/07/South_Korea_Financial_Markets_47267-scaled.jpg",
+      "publishedAt": "2026-07-08T05:59:58Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "WTOP"
       }
     },
     {
-      "title": "US oil prices jump after US military launches strikes against Iran",
-      "description": "U.S. oil prices increased significantly after military strikes against Iran. These actions followed Iranian attacks on three commercial vessels in the Strait of Hormuz. A Qatari liquefied natural gas tanker reported being struck by a drone. Maritime security sources indicated a Saudi-flagged crude oil tanker was also damaged. Fears of disruptions to tanker traffic through the Strait of Hormuz have resurfaced.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/us-oil-prices-jump-after-us-military-launches-strikes-against-iran/articleshow/132251138.cms",
-      "image": "https://img.etimg.com/thumb/msid-132251140,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-08T00:44:00Z",
+      "title": "Oil Prices Jump After Iran Attacks Commercial Vessels",
+      "description": "Renewed U.S.-Iran military strikes and attacks on commercial shipping near the Strait of Hormuz have lifted oil prices and reminded markets that geopolitical risks remain a major threat to global energy supplies.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_3diyhbbpw9.jpg",
+      "publishedAt": "2026-07-08T05:58:56Z",
       "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Brent, WTI rise as U.S. targets Iran",
-      "description": "Oil prices rose on Wednesday after the U.S. launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108324654-1782115767392-gettyimages-2282654347-06212026qabooswaters-15_xwpmsykj.jpeg?v=1782116154&w=1920&h=1080",
-      "publishedAt": "2026-07-08T00:26:10Z",
-      "source": {
-        "name": "CNBC"
+        "name": "OilPrice"
       }
     }
   ]
