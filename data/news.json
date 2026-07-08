@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-08T08:07:42+00:00",
+  "updated_at": "2026-07-08T13:30:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Dhaliwal inspects city petrol stations, orders fuel sampling",
-      "description": "AAP\u2019s chief spokesperson and former minister Kuldeep Singh Dhaliwal on Tuesday inspected several petrol pumps in the Ajnala area and ordered the collection of petrol samples to check the ethanol content in the fuel.",
-      "url": "https://www.tribuneindia.com/news/amritsar/dhaliwal-inspects-city-petrol-stations-orders-fuel-sampling/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE0N2FmYTgwLTdhM2UtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-07T20:01:27Z",
+      "title": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets",
+      "description": "Gold eased on Wednesday to its lowest level in nearly a week, as U.S. strikes on Iran boosted oil prices and the dollar, raising concerns that \u200binflation could keep interest rates higher for longer and weigh on non-yielding \u200cbullion.",
+      "url": "https://www.reuters.com/world/india/gold-eases-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets-2026-07-08/",
+      "image": "https://www.reuters.com/resizer/v2/GV5E2ZCNLBMD5AW2PI6CTIY4HY.jpg?auth=7e2d7f40543ba6ffc7491a644a3adcd8387b6e7f31be6e7d50fb6cb341594d44&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-08T01:28:15Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Seven airline stocks that could take flight as oil prices fall",
-      "description": "Ryanair Holdings, Europe\u2019s largest airline by passengers, and Copa Holdings, a Panama City-based carrier, both stand to benefit from falling prices",
-      "url": "https://www.theglobeandmail.com/investing/investment-ideas/number-cruncher/article-seven-airline-stocks-take-flight-oil-prices-fall/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/HS6LZR56NNA3FH46OARZX2Z3CY.jpg?auth=13088cc084fa42765fa4d18879f1fdb98e0bc6567d3b8b07ae537f647b13bbee&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-07-07T20:00:01Z",
+      "title": "Global Market Today: Oil rises, Asian stocks steady as US strikes Iran",
+      "description": "Oil prices surged as the United States conducted airstrikes and revoked waivers for Iran. Asian stocks remained largely unchanged while investors assessed the geopolitical situation. S&P 500 and Nasdaq futures showed slight gains after earlier declines in US markets. Renewed tensions risk energy market disruptions and undermine the recent US-Iran peace deal. Investors are now shifting focus from AI sentiment to geopolitical concerns.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-rises-asian-stocks-steady-as-us-strikes-iran/articleshow/132251290.cms",
+      "image": "https://img.etimg.com/thumb/msid-132251284,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-08T01:17:00Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Petrol, HSD rates in int\u2019l market are $15-20 per barrel above pre-war levels: Ali Pervaiz",
-      "description": "ISLAMABAD\u00a0 -\u00a0 Pakistan\u2019s petroleum products prices remain higher than pre-US-Iran conflict levels, as petrol and HSD prices in the international market",
-      "url": "https://www.nation.com.pk/08-Jul-2026/petrol-hsd-rates-int-l-market-dollar-15-20-per-barrel-pre-war-levels-ali-pervaiz",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-07-07T20:00:00Z",
+      "title": "PetChem leads FBM KLCI higher as Hormuz attacks ignite oil supply concerns",
+      "description": "KUALA LUMPUR: A jump in crude oil prices following Iran's attack on tankers in the Straits of Hormuz is spurring activity in the energy sector once again, even as investors rotate out of the overheated AI-drive technology sector.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/08/petchem-leads-fbm-klci-higher-as-hormuz-attacks-ignite-supply-concerns",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/08/3998194.png",
+      "publishedAt": "2026-07-08T01:13:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "The Star"
       }
     },
     {
-      "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
-      "description": "Trump is escalating pressure on oil companies, accusing them of price gouging and demanding gasoline prices fall toward $2.50 per gallon.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-07_vc1rouiy3g.jpg",
-      "publishedAt": "2026-07-07T20:00:00Z",
+      "title": "Asian shares steady, oil prices rise as US strikes Iran",
+      "description": "South Korea's Kospi index was up 0.9%, while Japan's Nikkei index was flat but sharply off day's lows. The MSCI Asia Pacific index was steady after falling nearly 1% during open. S&P 500 futures were up0.1% while contracts for the Nasdaq 100 were up 0.3%.",
+      "url": "https://www.cnbctv18.com/market/asian-shares-steady-oil-prices-rise-as-us-strikes-iran-19940537.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/stk-market-1-2026-06-e03f2c7b54b5bb72b0c56efc60487294.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-08T01:10:49Z",
       "source": {
-        "name": "OilPrice"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Dollar Edges Up on Weak Stocks and Crude Oil Strength",
-      "description": "The dollar index (DXY00 ) rose by +0.24% on Tuesday. The dollar rose on Tuesday amid weakness in stocks, boosting liquidity demand for the currency. Also, higher crude oil prices on Tuesday pushed up inflation expectations and could persuade the Fe...",
-      "url": "https://www.barchart.com/story/news/3170192/dollar-edges-up-on-weak-stocks-and-crude-oil-strength",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Hands%20holding%20a%20briefcase%20of%20money%20by%20Efired%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-07T19:39:22Z",
+      "title": "Govt to conduct extensive E25 testing before rollout decision",
+      "description": "India News: New Delhi: Govt will carry out extensive testing of E25 (petrol blended with 25% ethanol), evaluate reports and consult all stakeholders before taking.",
+      "url": "https://timesofindia.indiatimes.com/india/govt-to-conduct-extensive-e25-testing-before-rollout-decision/articleshow/132251249.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132251254,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-08T01:08:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "Times of India"
       }
     },
     {
-      "title": "U.S. Revokes Iran Oil License Amid Hormuz Tensions",
-      "description": "The United States revoked a general license allowing the sale of Iranian oil in response to unacceptable actions by Iran in the Strait of Hormuz. This move follows reports of attacks on tankers in the region, threatening fragile diplomacy between the U.S. and Iran and affecting global oil prices.",
-      "url": "https://www.devdiscourse.com/article/law-order/3946790-us-revokes-iran-oil-license-amid-hormuz-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-07T19:22:35Z",
+      "title": "US reinstates sanctions on Iranian oil sales after LNG, oil tanker attacks",
+      "description": "United States reimposed sanctions on Iranian oil sales Tuesday. This action followed attacks on vessels in the Strait of Hormuz. The U.S. Treasury had previously authorized sales until August 21. Tuesday's revocation shortens this wind-down period to July 17. Oil prices rose more than five percent after the announcement.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-reinstates-sanctions-on-iranian-oil-sales-after-lng-oil-tanker-attacks/articleshow/132251156.cms",
+      "image": "https://img.etimg.com/thumb/msid-132251175,width-1200,height-630,imgsize-61406,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-08T00:50:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Oil Prices Sharply Higher on Supply Disruptions",
-      "description": "August WTI crude oil (CLQ26 ) on Tuesday closed up +1.89 (+2.76%), and August RBOB gasoline (RBQ26 ) closed down -0.0494 (-1.64%). Crude oil and gasoline prices settled mixed on Tuesday. Crude oil prices jumped following attacks on shipping in and a...",
-      "url": "https://www.barchart.com/story/news/3169968/crude-oil-prices-sharply-higher-on-supply-disruptions",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-07T19:21:56Z",
+      "title": "Oil prices jump more than 3% after US strikes on Iran, while shares in Asia are mixed",
+      "description": "Asian shares are mixed and oil prices have surged more than 3% after the U.S. launched strikes on Iran. BANGKOK (AP) \u2014 Asian shares were mixed on",
+      "url": "https://www.breitbart.com/news/oil-prices-jump-more-than-3-after-us-strikes-on-iran-while-shares-in-asia-are-mixed/",
+      "image": "https://media.breitbart.com/media/2026/07/wi/ap/south-korea-financial-markets-47267-south-korea-financial-markets-screen-korea-composite-stock-640x335.jpg",
+      "publishedAt": "2026-07-08T00:49:14Z",
       "source": {
-        "name": "Barchart"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Nat-Gas Prices Climb on Carryover Support from European Nat-Gas",
-      "description": "August Nymex natural gas (NGQ26 ) on Tuesday closed up +0.020 (+0.62%). Nat-gas prices pushed higher on Tuesday amid carryover support from a rally in European nat-gas prices to a 3-week high after a Qatari LNG gas carrier was attacked in the Strait...",
-      "url": "https://www.barchart.com/story/news/3169941/nat-gas-prices-climb-on-carryover-support-from-european-nat-gas",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-07-07T19:20:47Z",
+      "title": "Dollar at week-high after US resumes attacks on Iran",
+      "description": "The dollar reached its highest weekly level against peers amid renewed U.S. strikes on Iran. Geopolitical tensions escalated, and oil prices saw an increase following the attacks. Concerns over peace deal stability reemerged after Iran's actions in the Strait of Hormuz. Global yields jumped higher as inflation outlook worries intensified for investors. Other currencies like the euro and pound experienced slight declines against the dollar.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-at-week-high-after-us-resumes-attacks-on-iran/articleshow/132251150.cms",
+      "image": "https://img.etimg.com/thumb/msid-132251153,width-1200,height-630,imgsize-1627029,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-08T00:46:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "U.S. revoking license that authorized Iranian oil sales after tanker attacks",
-      "description": "Oil prices rose more than five per cent following the announcement",
-      "url": "https://www.theglobeandmail.com/world/article-us-revoking-license-that-authorized-iranian-oil-sales-after-tanker/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/XKFLU6TUE5GBLOXQLKBWBZUC5E.JPG?auth=e4b7000ebabaf9f371fcb77b5c96e3e6e43e5f6d1faf5827b65fea8aa1167a9f&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-07-07T19:19:33Z",
+      "title": "US oil prices jump after US military launches strikes against Iran",
+      "description": "U.S. oil prices increased significantly after military strikes against Iran. These actions followed Iranian attacks on three commercial vessels in the Strait of Hormuz. A Qatari liquefied natural gas tanker reported being struck by a drone. Maritime security sources indicated a Saudi-flagged crude oil tanker was also damaged. Fears of disruptions to tanker traffic through the Strait of Hormuz have resurfaced.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/us-oil-prices-jump-after-us-military-launches-strikes-against-iran/articleshow/132251138.cms",
+      "image": "https://img.etimg.com/thumb/msid-132251140,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-08T00:44:00Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Tensions Ignite: Strait of Hormuz Under Threat After Tanker Attacks",
-      "description": "Recent attacks on Qatari and Saudi tankers near the Strait of Hormuz have escalated tensions, prompting maritime authorities to raise the threat level for vessels to 'severe'. The incidents highlight ongoing volatility and have affected shipping traffic and oil prices. Diplomatic talks between Iran and the U.S. continue amid the tensions.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3946788-tensions-ignite-strait-of-hormuz-under-threat-after-tanker-attacks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_22_03_39_3900827.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-07T19:15:15Z",
+      "title": "Brent, WTI rise as U.S. targets Iran",
+      "description": "Oil prices rose on Wednesday after the U.S. launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/07/08/oil-prices-brent-wti-iran-us-hormuz.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108324654-1782115767392-gettyimages-2282654347-06212026qabooswaters-15_xwpmsykj.jpeg?v=1782116154&w=1920&h=1080",
+      "publishedAt": "2026-07-08T00:26:10Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC"
       }
     }
   ]
