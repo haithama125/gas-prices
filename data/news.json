@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-09T14:30:29+00:00",
+  "updated_at": "2026-07-09T19:22:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "IMF expects world economy to grow a sluggish 3% this year, weighed down by Iran war but helped by AI",
-      "description": "The International Monetary Fund on Wednesday modestly downgraded its outlook for the world economy this year, citing the energy shock caused by the Iran war. But the fallout from the conflict is being partially offset by booming investment in artificial intelligence and other technologies. The IMF now expects the global economy to expand by a sluggish 3% in 2026, down from 3.5% last year and from the 3.1% it had forecast for this year back in April. The war pushed up energy prices, squeezing businesses and consumers. The IMF now expects oil prices to be up nearly 32% this year and for overall global inflation to accelerate to 4.7% in 2026.",
-      "url": "https://www.ajc.com/news/2026/07/imf-expects-world-economy-to-grow-a-sluggish-3-this-year-weighed-down-by-iran-war-but-helped-by-ai/",
-      "image": "https://images.ajc.com/resizer/v2/3DX7THJYPFDGNF56RKCOAVIUNY.jpg?auth=d6b4cb71fb5db704ff17b0369477caceeef0a390e3aa23c2bc3195b04097c381&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-09T02:21:45Z",
+      "title": "Peter Schiff Says Trump's Iran War Ended Where It Started, Only With Higher Oil Prices",
+      "description": "Peter Schiff criticizes Trump's handling of Iran war, decrying massive spending, as well as the loss of lives and property damage.",
+      "url": "https://www.benzinga.com/news/politics/26/07/60349939/peter-schiff-says-us-goal-with-iran-war-to-get-back-to-previous-status-quo-but-with-higher-oil-prices-following-strikes",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/09/Many-See-Shared-Benefits.jpg",
+      "publishedAt": "2026-07-09T07:21:13Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "Crude chaos: Oil nears $80 a barrel again after Trump declares US-Iran ceasefire \u2018over\u2019",
-      "description": "International Business News: After a brief spell of calm, global oil markets are once again facing chaos. Crude oil prices surged another 1% on Thursday after already recording a .",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-chaos-oil-nears-80-a-barrel-again-after-trump-declares-us-iran-ceasefire-over/articleshow/132275311.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132275339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-09T02:20:00Z",
+      "title": "'Coordinated Controversy': Oil Minister Hardeep Singh Puri Questions Push Back Against Ethanol Blended Fuel",
+      "description": "Petroleum Minister Hardeep Singh Puri defended India\u2019s ethanol blending programme amid criticism over E20 petrol, saying the fuel has been used for nearly two years without major issues. He highlighted reduced crude import dependence, energy security benefits, lower emissions and support for farmers, while calling the criticism a coordinated controversy",
+      "url": "https://www.freepressjournal.in/business/coordinated-controversy-oil-minister-hardeep-singh-puri-questions-push-back-against-ethanol-blended-fuel",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-02/98wqh6zl/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-07-02T180558.718.jpg",
+      "publishedAt": "2026-07-09T07:15:26Z",
       "source": {
-        "name": "Times of India"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Markets tank as Trump says Iran peace deal \u2018over\u2019",
-      "description": "Sensex and Nifty tumble over 2% each, crude oil prices soar 6% as West Asia crisis deepens",
-      "url": "https://www.newindianexpress.com/business/2026/Jul/09/markets-tank-as-trump-says-iran-peace-deal-over",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-07%2F8mbv1tdp%2FANI_20260707222716.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-09T02:11:56Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Dollar stands tall as Gulf tensions fuel oil price surge, Fed hike bets",
-      "description": "The U.S. dollar held firm against major currencies on Thursday. Renewed Gulf tensions revived safe-haven bids, boosting the dollar's strength. Surging oil prices also fueled rate hike bets, keeping the yen under pressure. The Japanese yen struggled near a 40-year trough against the dollar. U.S. Treasury yields rose as markets priced in higher rate hike risks.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stands-tall-as-gulf-tensions-fuel-oil-price-surge-fed-hike-bets/articleshow/132275177.cms",
-      "image": "https://img.etimg.com/thumb/msid-132275187,width-1200,height-630,imgsize-70462,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-09T02:00:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil rises after US launches fresh strikes against Iran",
-      "description": "Oil prices increased on Thursday following new U.S. strikes against Iran. These actions have diminished hopes for peace and the Strait of Hormuz reopening. Brent and West Texas Intermediate crude futures saw notable gains in early trading. Shipowners are expected to adopt a more cautious approach to voyages through the strait. Insurance providers are reviewing policy terms after recent vessel attacks.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-us-launches-fresh-strikes-against-iran/articleshow/132275168.cms",
-      "image": "https://img.etimg.com/thumb/msid-132275172,width-1200,height-630,imgsize-76304,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-09T01:57:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "US launches fresh wave of strikes on Iran after Trump declares ceasefire over",
-      "description": "Renewed hostilities over the strategic Strait of Hormuz waterway have led to another spike in oil prices",
-      "url": "https://www.standard.co.uk/news/politics/middle-east-iran-kuwait-strait-of-hormuz-tehran-b1289299.html",
-      "image": "https://static.standard.co.uk/2026/07/02/01/30-a723d6cf44e94923a09cda25d90eedd5.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-07-09T01:54:20Z",
-      "source": {
-        "name": "Evening Standard"
-      }
-    },
-    {
-      "title": "Asian shares climb on chip rally, oil jumps as Gulf hostilities resume",
-      "description": "Oil prices rose for a third straight session after President Donald Trump said the interim agreement with Iran to end the war was",
-      "url": "https://www.moneycontrol.com/news/business/markets/asian-shares-climb-on-chip-rally-oil-jumps-as-gulf-hostilities-resume-13969431.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260709015303_Asiansharesrtr.png",
-      "publishedAt": "2026-07-09T01:53:36Z",
+      "title": "E20 petrol row: Hardeep Puri says controversy was \u2018manufactured\u2019 after E85 launch",
+      "description": "Petroleum Minister Hardeep Singh Puri says that E20 has been available for nearly two years and said the recent backlash followed the June 5 launch of E85 flex-fuel vehicles.",
+      "url": "https://www.moneycontrol.com/news/business/e20-petrol-row-hardeep-puri-says-controversy-was-manufactured-after-e85-launch-13969789.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260211120655_Hardeep-Puri.jpg",
+      "publishedAt": "2026-07-09T07:08:37Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "Asian shares climb on chip rally, oil jumps as Gulf hostilities resume",
-      "description": "Asian shares climbed on Thursday as semiconductors got a respite from heavy selling, though \u200bgains were capped by a surge in oil prices as a resumption of hostilities in the Gulf reignited \u200cinflation fears and hammered bonds.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-09/",
-      "image": "https://www.reuters.com/resizer/v2/E7RRAFLVUBJUZE5RMJ6ZFTIKTQ.jpg?auth=d6872424211abb44dbaa7ae5f88b83047c71f35da9715cd75f489e4666e201ec&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-09T01:49:58Z",
+      "title": "Global Markets: Japan's Nikkei rebounds as AI shares gain, oil tempers broader mood",
+      "description": "Japan's Nikkei share average rebounded on Thursday after a three-day losing streak. AI-related shares tracked gains in the U.S. technology sector, boosting the index. Higher oil prices, however, kept investor optimism in check following renewed U.S.-Iran hostilities. The Nikkei 225 index climbed 1.4% to close at 67,743.85 points. Market breadth was negative as gains were skewed by heavily weighted stocks.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rebounds-as-ai-shares-gain-oil-tempers-broader-mood/articleshow/132279814.cms",
+      "image": "https://img.etimg.com/thumb/msid-132279841,width-1200,height-630,imgsize-188752,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-09T07:03:00Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Asian Markets Rally Amidst Inflation and Oil Price Surges",
-      "description": "Asian shares saw gains on Thursday as semiconductors experienced a rally following heavy sell-offs. However, rising oil prices due to renewed Gulf conflict raised inflation concerns. Wall Street showed mixed reactions, while global bond markets felt the pressure. The situation remains unstable, affecting global economies and trade.",
-      "url": "https://www.devdiscourse.com/article/business/3947546-asian-markets-rally-amidst-inflation-and-oil-price-surges",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_07_2024_09_48_05_495577.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-09T01:47:41Z",
+      "title": "Hero cop saved man from fireball injuries and disastrous blaze at petrol station",
+      "description": "Sgt Charlie Thompson spang into action having spotted a person from setting fire to himself in Stratford",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/hero-cop-saved-man-fireball-34261071",
+      "image": "https://i2-prod.birminghammail.co.uk/article34261198.ece/ALTERNATES/s1200d/0_petrol-station1.jpg",
+      "publishedAt": "2026-07-09T07:02:10Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Rupee slips 4 paise to 95.52 against U.S. dollar in early trade",
+      "description": "Rupee falls to 95.52 against the dollar amid rising crude oil prices and geopolitical tensions in West Asia.",
+      "url": "https://www.thehindu.com/business/markets/rupee-slips-4-paise-to-9552-against-us-dollar-in-early-trade/article71200989.ece",
+      "image": "https://th-i.thgim.com/public/incoming/d20g61/article71197102.ece/alternates/LANDSCAPE_1200/iStock-2230740487%203.jpg",
+      "publishedAt": "2026-07-09T07:00:41Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Hormuz Tanker Traffic Grinds to a Halt After U.S.-Iran Escalation",
+      "description": "Renewed U.S.-Iran military clashes have sharply reduced tanker traffic through the Strait of Hormuz, sending oil prices higher and renewing fears of supply disruptions.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Traffic-Grinds-to-a-Halt-After-US-Iran-Escalation.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-09_rykcqrbvng.jpg",
+      "publishedAt": "2026-07-09T07:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "High crude, weak rupee likely to push OMCs into Q1FY27 losses despite record refining margins: Report",
+      "description": "India's oil marketing companies (OMCs) are likely to report losses in the first quarter of FY2026-27 as elevated crude oil prices, a weaker rupee and inventory losses outweighed the benefit of record refining margins, according to a report by Equirus Securities.",
+      "url": "https://www.tribuneindia.com/news/business/high-crude-weak-rupee-likely-to-push-omcs-into-q1fy27-losses-despite-record-refining-margins-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEzYmY3YjkwLTdiNjMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-09T06:58:43Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Fiery Collision: Petrol Truck Crash Ignites Massive Blaze Near Bengaluru",
+      "description": "A petrol tanker crash in Bengaluru Rural district caused a major fire, engulfing a nearby milk truck. Both drivers escaped unhurt. The incident disrupted traffic temporarily as emergency teams extinguished the blaze. In a separate mishap, six died in a Karnataka truck collision.",
+      "url": "https://www.devdiscourse.com/article/headlines/3947650-fiery-collision-petrol-truck-crash-ignites-massive-blaze-near-bengaluru",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/09_07_2026_12_18_12_5206292.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-09T06:48:18Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Crude oil prices extend gains on renewed US-Iran war tensions; Brent climbs above $78 per barrel",
-      "description": "US-Iran war: Brent crude futures were up 78 cents, or 1%, at $78.80 a barrel, while US West Texas Intermediate (WTI) crude gained 74 cents, or 1.01%, to trade at $74.26 a barrel.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-on-renewed-us-iran-war-tensions-brent-climbs-above-78-per-barrel-11783560834001.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/09/1600x900/logo/crude_oil_1783561314106_1783561314276_f107d609-0a02-44f8-8246-dedb247db64e.jpg",
-      "publishedAt": "2026-07-09T01:47:05Z",
+      "title": "Oil prices rise, stocks fall after ceasefire said \u2018over\u2019",
+      "description": "NEW YORK -- Oil prices rose, and stock markets dropped in shaky trading worldwide Wednesday after President Donald Trump raised doubts about the temporary truce in the war with Iran.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/09/oil-prices-rise-stocks-fall-after-ceasefire-said/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213207031_213206485-65d6d849792642189cef69bcf3e1dea5_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-07-09T06:44:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "Arkansas Online"
       }
     }
   ]
