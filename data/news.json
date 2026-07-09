@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-09T09:21:02+00:00",
+  "updated_at": "2026-07-09T14:30:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ottawa gas prices investigation reveals possible price gouging",
-      "description": "\u201cIt\u2019s very interesting how after we passed a resolution looking into gas prices, that gas prices in Ottawa went down,\u201d Commissioner Tom Ganiere said during Tuesday night\u2019s council meeting.",
-      "url": "https://www.shawlocal.com/illinois-valley/2026/07/08/ottawa-gas-prices-investigation-reveals-possible-price-gouging/",
-      "image": "https://www.shawlocal.com/resizer/v2/TDHJ3WNDZZI7HAU3SWJYFXADWA.jpg?auth=0ad372b52d656cdc19f6ac139792187a65e9a9cd349b9f43c6ef1f25c32fa701&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-08T21:15:53Z",
+      "title": "IMF expects world economy to grow a sluggish 3% this year, weighed down by Iran war but helped by AI",
+      "description": "The International Monetary Fund on Wednesday modestly downgraded its outlook for the world economy this year, citing the energy shock caused by the Iran war. But the fallout from the conflict is being partially offset by booming investment in artificial intelligence and other technologies. The IMF now expects the global economy to expand by a sluggish 3% in 2026, down from 3.5% last year and from the 3.1% it had forecast for this year back in April. The war pushed up energy prices, squeezing businesses and consumers. The IMF now expects oil prices to be up nearly 32% this year and for overall global inflation to accelerate to 4.7% in 2026.",
+      "url": "https://www.ajc.com/news/2026/07/imf-expects-world-economy-to-grow-a-sluggish-3-this-year-weighed-down-by-iran-war-but-helped-by-ai/",
+      "image": "https://images.ajc.com/resizer/v2/3DX7THJYPFDGNF56RKCOAVIUNY.jpg?auth=d6b4cb71fb5db704ff17b0369477caceeef0a390e3aa23c2bc3195b04097c381&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-09T02:21:45Z",
       "source": {
-        "name": "Shaw Local Enewspapers"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Tensions Surge: U.S. Strikes Iran Amidst Oil Route Threats",
-      "description": "The U.S. launched strikes on Iran to keep the Strait of Hormuz open, as Iran attacked American sites in retaliation. The clash follows failed peace talks and affects global oil prices, highlighting Tehran's strategic leverage over the crucial waterway amid ongoing negotiations.",
-      "url": "https://www.devdiscourse.com/article/politics/3947490-tensions-surge-us-strikes-iran-amidst-oil-route-threats",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_06_2024_21_09_53_9841007.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-08T21:04:53Z",
+      "title": "Crude chaos: Oil nears $80 a barrel again after Trump declares US-Iran ceasefire \u2018over\u2019",
+      "description": "International Business News: After a brief spell of calm, global oil markets are once again facing chaos. Crude oil prices surged another 1% on Thursday after already recording a .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/crude-chaos-oil-nears-80-a-barrel-again-after-trump-declares-us-iran-ceasefire-over/articleshow/132275311.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132275339,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-09T02:20:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Market Jitters: Oil Prices Surge, Stocks Slide Amid Middle East Tensions",
-      "description": "Global markets faced volatility as oil prices surged due to heightened Middle East tensions. The Dow Jones dropped significantly, while concerns over inflation were fueled by new U.S. Federal Reserve insights. The IMF warns of impacted global growth, adding to investor concerns as treasury yields rise and gold prices drop.",
-      "url": "https://www.devdiscourse.com/article/business/3947484-market-jitters-oil-prices-surge-stocks-slide-amid-middle-east-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_10_05_18_5946026.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-08T20:54:35Z",
+      "title": "Markets tank as Trump says Iran peace deal \u2018over\u2019",
+      "description": "Sensex and Nifty tumble over 2% each, crude oil prices soar 6% as West Asia crisis deepens",
+      "url": "https://www.newindianexpress.com/business/2026/Jul/09/markets-tank-as-trump-says-iran-peace-deal-over",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-07%2F8mbv1tdp%2FANI_20260707222716.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-09T02:11:56Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Standoff at Strait: U.S. and Iran in Critical Confrontation",
-      "description": "The U.S. military has launched fresh attacks on Iran to keep the Strait of Hormuz open, following Iranian strikes on U.S. sites. This escalation threatens a recently signed memorandum, raising oil prices and challenging ongoing peace negotiations between the two countries.",
-      "url": "https://www.devdiscourse.com/article/politics/3947483-standoff-at-strait-us-and-iran-in-critical-confrontation",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-08T20:52:06Z",
+      "title": "Dollar stands tall as Gulf tensions fuel oil price surge, Fed hike bets",
+      "description": "The U.S. dollar held firm against major currencies on Thursday. Renewed Gulf tensions revived safe-haven bids, boosting the dollar's strength. Surging oil prices also fueled rate hike bets, keeping the yen under pressure. The Japanese yen struggled near a 40-year trough against the dollar. U.S. Treasury yields rose as markets priced in higher rate hike risks.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-stands-tall-as-gulf-tensions-fuel-oil-price-surge-fed-hike-bets/articleshow/132275177.cms",
+      "image": "https://img.etimg.com/thumb/msid-132275187,width-1200,height-630,imgsize-70462,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-09T02:00:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "3 Energy ETFs for a Renewed Rally in Oil",
-      "description": "America's ceasefire with Iran looks all but over, and oil prices have started to rebound. These energy ETFs are among the top beneficiaries.",
-      "url": "https://www.barchart.com/story/news/3192823/3-energy-etfs-for-a-renewed-rally-in-oil",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Stacked%20oil%20barrels%20by%20JONGHO%20SHIN%20via%20iStock.jpg",
-      "publishedAt": "2026-07-08T20:51:37Z",
+      "title": "Oil rises after US launches fresh strikes against Iran",
+      "description": "Oil prices increased on Thursday following new U.S. strikes against Iran. These actions have diminished hopes for peace and the Strait of Hormuz reopening. Brent and West Texas Intermediate crude futures saw notable gains in early trading. Shipowners are expected to adopt a more cautious approach to voyages through the strait. Insurance providers are reviewing policy terms after recent vessel attacks.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-us-launches-fresh-strikes-against-iran/articleshow/132275168.cms",
+      "image": "https://img.etimg.com/thumb/msid-132275172,width-1200,height-630,imgsize-76304,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-09T01:57:00Z",
       "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "3 Energy ETFs for a Renewed Rally in Oil",
-      "description": "America's ceasefire with Iran looks all but over, and oil prices have started to rebound. These energy ETFs are among the top beneficiaries.",
-      "url": "https://www.barchart.com/story/news/3192822/3-energy-etfs-for-a-renewed-rally-in-oil",
-      "image": "https://assets.barchart.com/img/barchart-og.png",
-      "publishedAt": "2026-07-08T20:51:37Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "2 TSX Stocks I\u2019d Buy Today as Oil Prices Keep Swinging",
-      "description": "TSX energy stocks like Enbridge have the luxury of benefitting from strong long-term energy trends without the volatility.",
-      "url": "https://www.fool.ca/2026/07/08/2-tsx-stocks-id-buy-today-as-oil-prices-keep-swinging-2/",
-      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1213731690-1200x800.jpg",
-      "publishedAt": "2026-07-08T20:50:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Oil prices rise, and stocks drop worldwide after Trump says ceasefire with Iran is 'over'",
-      "description": "Oil prices rose, and stock markets dropped in shaky trading worldwide after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-      "url": "https://www.latimes.com/business/story/2026-07-08/oil-prices-rise-stocks-drop-worldwide-after-trump-says-ceasefire-with-iran-is-over",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/cf3746f/2147483647/strip/true/crop/3847x2020+0+272/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F77%2F55%2F53a457344778b0ced40beb713864%2F65d6d849792642189cef69bcf3e1dea5.jpg",
-      "publishedAt": "2026-07-08T20:44:27Z",
-      "source": {
-        "name": "Los Angeles Times"
+        "name": "The Economic Times"
       }
     },
     {
       "title": "US launches fresh wave of strikes on Iran after Trump declares ceasefire over",
       "description": "Renewed hostilities over the strategic Strait of Hormuz waterway have led to another spike in oil prices",
-      "url": "https://www.kentonline.co.uk/news/national/us-launches-fresh-wave-of-strikes-on-iran-after-trump-declares-ceasefire-over-169062/",
-      "image": "https://www.kentonline.co.uk/_media/img/CO3JK2MZ11HRS2JDTTOC.jpg",
-      "publishedAt": "2026-07-08T20:40:28Z",
+      "url": "https://www.standard.co.uk/news/politics/middle-east-iran-kuwait-strait-of-hormuz-tehran-b1289299.html",
+      "image": "https://static.standard.co.uk/2026/07/02/01/30-a723d6cf44e94923a09cda25d90eedd5.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-07-09T01:54:20Z",
       "source": {
-        "name": "Kent Online"
+        "name": "Evening Standard"
       }
     },
     {
-      "title": "Beyond the War Premium: How Strategic Reserves Create a New Floor for Oil Prices",
-      "description": "Oil pricing is a balance of two curves. Bears look only at stagnating demand, ignoring depleting cheap reserves and soaring capex. Meanwhile, geopolitical risks are sparking a boom in strategic storage.",
-      "url": "https://www.barchart.com/story/news/3192589/beyond-the-war-premium-how-strategic-reserves-create-a-new-floor-for-oil-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Crude%20Oil%20pumpjack%20at%20sunset%20by%20Zbynek%20Burival%20via%20Unsplash.jpg",
-      "publishedAt": "2026-07-08T20:37:36Z",
+      "title": "Asian shares climb on chip rally, oil jumps as Gulf hostilities resume",
+      "description": "Oil prices rose for a third straight session after President Donald Trump said the interim agreement with Iran to end the war was",
+      "url": "https://www.moneycontrol.com/news/business/markets/asian-shares-climb-on-chip-rally-oil-jumps-as-gulf-hostilities-resume-13969431.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260709015303_Asiansharesrtr.png",
+      "publishedAt": "2026-07-09T01:53:36Z",
       "source": {
-        "name": "Barchart"
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Asian shares climb on chip rally, oil jumps as Gulf hostilities resume",
+      "description": "Asian shares climbed on Thursday as semiconductors got a respite from heavy selling, though \u200bgains were capped by a surge in oil prices as a resumption of hostilities in the Gulf reignited \u200cinflation fears and hammered bonds.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-07-09/",
+      "image": "https://www.reuters.com/resizer/v2/E7RRAFLVUBJUZE5RMJ6ZFTIKTQ.jpg?auth=d6872424211abb44dbaa7ae5f88b83047c71f35da9715cd75f489e4666e201ec&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-09T01:49:58Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Asian Markets Rally Amidst Inflation and Oil Price Surges",
+      "description": "Asian shares saw gains on Thursday as semiconductors experienced a rally following heavy sell-offs. However, rising oil prices due to renewed Gulf conflict raised inflation concerns. Wall Street showed mixed reactions, while global bond markets felt the pressure. The situation remains unstable, affecting global economies and trade.",
+      "url": "https://www.devdiscourse.com/article/business/3947546-asian-markets-rally-amidst-inflation-and-oil-price-surges",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_07_2024_09_48_05_495577.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-09T01:47:41Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Crude oil prices extend gains on renewed US-Iran war tensions; Brent climbs above $78 per barrel",
+      "description": "US-Iran war: Brent crude futures were up 78 cents, or 1%, at $78.80 a barrel, while US West Texas Intermediate (WTI) crude gained 74 cents, or 1.01%, to trade at $74.26 a barrel.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-gains-on-renewed-us-iran-war-tensions-brent-climbs-above-78-per-barrel-11783560834001.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/09/1600x900/logo/crude_oil_1783561314106_1783561314276_f107d609-0a02-44f8-8246-dedb247db64e.jpg",
+      "publishedAt": "2026-07-09T01:47:05Z",
+      "source": {
+        "name": "Livemint"
       }
     }
   ]
