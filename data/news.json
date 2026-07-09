@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-08T19:06:56+00:00",
+  "updated_at": "2026-07-09T01:58:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex falls over 680 pts, Nifty slips below 24,200 mark as crude oil spike weighs, FMCGs, oil & gas stocks drag",
-      "description": "Benchmark equity indices Sensex and Nifty tumbled on Wednesday amid renewed US-Iran tensions and a fresh spike in crude oil prices.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-falls-over-680-pts-nifty-slips-below-24200-mark-as-crude-oil-spike-weighs-fmcgs-oil-amp-gas-stocks-drag/article71197003.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/2nqzln/article71197015.ece/alternates/LANDSCAPE_1200/PO31_Global_chart.jpg",
-      "publishedAt": "2026-07-08T07:05:54Z",
+      "title": "Lawsuit accuses Walmart, other retailers of using AI to fix gas prices in \u2018illegal scheme\u2019",
+      "description": "The system allows retailers to coordinate pricing rather than competing, the suit alleges.",
+      "url": "https://www.al.com/business/2026/07/lawsuit-accuses-walmart-other-retailers-of-using-ai-to-fix-gas-prices-in-illegal-scheme.html",
+      "image": "https://www.al.com/resizer/v2/FU4BSDCEQFFRRO342VUPSZBDGA.jpg?auth=d45804401c8081afe625f2288180839fb9a0fdd1e022e8b230cf6e518610aeab&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-07-08T13:54:05Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "AL.com"
       }
     },
     {
-      "title": "Commodities: Oil Bounces On Persian Gulf Re-Escalation",
-      "description": "Re-escalation in the Persian Gulf has reignited supply concerns, pushing oil prices higher amid\u00a0questions about the direction of\u00a0US-Iran peace\u00a0talks. Read more here.",
-      "url": "https://seekingalpha.com/article/4920522-oil-bounces-on-persian-gulf-re-escalation",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220412416/image_2220412416.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-07-08T07:00:00Z",
+      "title": "U.S.-Iran Tensions Surge: Trump Warns of Renewed Attacks",
+      "description": "The U.S. President, Donald Trump, announced potential renewed strikes against Iran, following the breakdown of an initial ceasefire deal. Despite surging oil prices, Trump's stance on avoiding a nuclear-armed Iran remains strong. The Strait of Hormuz sees heightened tensions, impacting global oil and gas transit significantly.",
+      "url": "https://www.devdiscourse.com/article/politics/3947257-us-iran-tensions-surge-trump-warns-of-renewed-attacks",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/04_07_2026_16_11_54_3142631.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-08T13:49:42Z",
       "source": {
-        "name": "Seeking Alpha"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Rupee slips as oil prices jump, modest portfolio inflows cushion fall",
-      "description": "The Indian rupee weakened slightly on Wednesday due to Middle East hostilities. Renewed conflict lifted oil prices, impacting risk sentiment across markets. Modest portfolio inflows helped cushion the rupee's downward pressure. Elevated oil prices pose a risk to India's economic growth and inflation. Investors also await U.S. Federal Reserve policy meeting minutes later today.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slips-as-oil-prices-jump-modest-portfolio-inflows-cushion-fall/articleshow/132255397.cms",
-      "image": "https://img.etimg.com/thumb/msid-132255451,width-1200,height-630,imgsize-38656,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-08T06:19:00Z",
+      "title": "A timeline of the Iran deal and talks",
+      "description": "Global markets and oil prices have lurched again after the United States and Iran traded new strikes.",
+      "url": "https://www.bostonglobe.com/2026/07/08/nation/iran-war-talks-timeline/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/KJ7AVQHKO5FLFCS35TSQOTS2WU.jpg?auth=2ca9b43a386f4c527309db6964006822efe45ed8de9a37bbcfec12296c269145&width=1440",
+      "publishedAt": "2026-07-08T13:49:31Z",
+      "source": {
+        "name": "The Boston Globe"
+      }
+    },
+    {
+      "title": "Bond yields jump, rupee weakens as oil surges after Trump says Iran deal is over",
+      "description": "The rise in crude oil prices renewed concerns over inflation and India\u2019s external balances.",
+      "url": "https://www.livemint.com/market/bonds/bond-yields-rupee-weakens-oil-surges-trump-iran-deal-west-asia-tension-strait-of-hormuz-debt-market-11783514363546.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/investor_1684403954684_1783518194088_5760a395-9ea3-4096-b2b8-ef727d10df7b.jpg",
+      "publishedAt": "2026-07-08T13:49:08Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "US-Iran Tensions Escalate with Strikes and Ceasefire Collapse",
+      "description": "Tensions between the US and Iran have intensified following Trump's announcement of the termination of a ceasefire agreement. The US prepared new strikes in response to Iranian attacks on military bases, causing oil prices to surge. This development hampers efforts for a permanent peace deal and raises concerns over the security of the Strait of Hormuz.",
+      "url": "https://www.devdiscourse.com/article/politics/3947256-us-iran-tensions-escalate-with-strikes-and-ceasefire-collapse",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2025_11_32_49_1185221.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-08T13:48:48Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Trump says interim accord to end Iran war is 'over', warns of new US strikes",
+      "description": "By Humeyra Pamuk, Gram Slattery and Tala RamadanANKARA/DUBAI, July 8 (Reuters) - President Donald Trump said an interim agreement to end the war with Iran was \"over\" and that the United States was likely to launch new strikes on Wednesday night following Iranian attacks on U.S. bases in the Gulf. In a flare-up of hostilities that pushed up oil prices, Iran said on Wednesday it had targeted U.S. military sites in Bahrain and Kuwait after U.S. forces struck Iranian targets in response to attacks on tankers in the Strait of Hormuz.",
+      "url": "https://www.al-monitor.com/originals/2026/07/trump-says-interim-accord-end-iran-war-over-warns-new-us-strikes",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-08T042831Z_2_LYNXMPEM6705P_RTROPTP_4_IRAN-CRISIS.JPG?h=4462e40b&itok=QnRMh_mP",
+      "publishedAt": "2026-07-08T13:48:14Z",
+      "source": {
+        "name": "Al-Monitor"
+      }
+    },
+    {
+      "title": "Oil prices are up. Gas prices could 'soon' spike, too",
+      "description": "Oil prices spiked after President Trump said the U.S.-Iran ceasefire is \"over.\" Analysts say to expect further price increases at the gas pump.",
+      "url": "https://www.usatoday.com/story/money/economy/2026/07/08/oil-gas-prices-increase-trump-iran-ceasefire/90845040007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845505007-usatsi-29303438.jpg?crop=2999,1688,x0,y208&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-08T13:46:12Z",
+      "source": {
+        "name": "USA TODAY"
+      }
+    },
+    {
+      "title": "Is an Iran deal 'over' and war back on? A timeline of the conflict and talks",
+      "description": "Global markets and oil prices lurched after the United States and Iran traded new strikes. The conflict threatened lives throughout the region and foreign residents of Gulf nations. A fragile ceasefire was reached and later extended, but fighting resumed. An interim deal was signed, but tensions remained high. The war and negotiations continued with uncertain outcomes.",
+      "url": "https://economictimes.indiatimes.com/news/defence/is-an-iran-deal-over-and-war-back-on-a-timeline-of-the-conflict-and-talks/articleshow/132265420.cms",
+      "image": "https://img.etimg.com/thumb/msid-132265436,width-1200,height-630,imgsize-35472,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-07-08T13:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Nitin Gadkari Defends E20 Fuel Policy, Challenges Critics To Show Vehicle Damage",
-      "description": "Union Minister Nitin Gadkari defended India\u2019s E20 ethanol-blended petrol programme amid criticism over mileage concerns and vehicle issues. He challenged critics to name a single car damaged by E20 fuel, while highlighting the policy\u2019s role in reducing crude oil imports, saving foreign exchange and cutting carbon emissions",
-      "url": "https://www.freepressjournal.in/business/nitin-gadkari-defends-e20-fuel-policy-challenges-critics-to-show-vehicle-damage",
-      "image": "https://media.assettype.com/freepressjournal/2025-06-21/cbfwnyuv/FotoJet-2025-06-21T164707.064.jpg",
-      "publishedAt": "2026-07-08T06:13:07Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Oil surges after U.S. launches strikes on Iran",
-      "description": "U.S. military strikes on Iran send oil prices surging after attacks on commercial vessels in the Strait of Hormuz, threatening a fragile ceasefire and raising inflation concerns ahead of the midterm elections.",
-      "url": "https://www.bolnews.com/business/oil-surges-after-u-s-launches-strikes-on-iran/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/02/Humrox.webp",
-      "publishedAt": "2026-07-08T06:10:34Z",
-      "source": {
-        "name": "BOL News"
-      }
-    },
-    {
-      "title": "New luxury EV's price shock",
-      "description": "Lexus Australia has confirmed pricing and specification for the new eighth-generation ES sedan, with a choice of petrol-electric,...",
-      "url": "https://www.canberratimes.com.au/story/9306812/new-luxury-evs-price-shock/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/18691e54-c4df-4534-8a27-75edbb6889d2.jpg/r0_4_1489_786_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-07-08T06:04:43Z",
-      "source": {
-        "name": "The Canberra Times"
-      }
-    },
-    {
-      "title": "Rachel Reeves says 'hundreds of letters sent' as petrol rules broken",
-      "description": "The Chancellor says fines will be issued to those failing to comply with the law",
-      "url": "https://www.express.co.uk/news/uk/2226593/rachel-reeves-says-hundreds-letters",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7027901.jpg",
-      "publishedAt": "2026-07-08T06:01:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Oil prices jump more than 3% after US strikes on Iran, while shares in Asia are mixed",
-      "description": "Asian shares are mixed and oil prices have surged more than 3% after the U.S. launched strikes on Iran",
-      "url": "https://www.barchart.com/story/news/3176179/oil-prices-jump-more-than-3-after-us-strikes-on-iran-while-shares-in-asia-are-mixed",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/ab39e3f49e014ff2be6cc270658b7922/ab39e3f49e014ff2be6cc270658b7922_main_south_korea_financial_markets_41186.jpg",
-      "publishedAt": "2026-07-08T05:59:58Z",
+      "title": "Oil prices rise, and stocks fall worldwide after Trump says ceasefire with Iran is 'over'",
+      "description": "Oil prices are rising, and stock markets are falling worldwide after President Donald Trump raised doubts about the temporary truce in the war with Iran",
+      "url": "https://www.barchart.com/story/news/3176179/oil-prices-rise-and-stocks-fall-worldwide-after-trump-says-ceasefire-with-iran-is-over",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a9f73844eab84a14a8a12e31f98d407f/a9f73844eab84a14a8a12e31f98d407f_main_financial_markets_wall_street_95152.jpg",
+      "publishedAt": "2026-07-08T13:44:10Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Oil prices jump more than 3% after US strikes on Iran, while shares in Asia are mixed",
-      "description": "BANGKOK (AP) \u2014 Asian shares were mixed on Wednesday and oil prices surged more than 3% after the U.S. launched strikes on Iran following attacks on three ships\u2026",
-      "url": "https://wtop.com/asia/2026/07/oil-prices-jump-after-us-strikes-on-iran-while-shares-in-asia-are-mixed/",
-      "image": "https://wtop.com/wp-content/uploads/2026/07/South_Korea_Financial_Markets_47267-scaled.jpg",
-      "publishedAt": "2026-07-08T05:59:58Z",
+      "title": "US markets fall and oil prices jump after Trump says ceasefire with Iran is 'over'",
+      "description": "Oil prices are rising, and stock markets are falling worldwide after President Donald Trump raised doubts about the temporary truce in the war with Iran. The S&P 500 fell 0.6% early Wednesday after Trump said the agreement to pause fighting was \u201cover,\u201d though he added that he would allow negotiations to continue. The Dow Jones Industrial Average lost 545 points, or 1%, and the Nasdaq composite was down 0.3%. The action was stronger in the oil market, where the price for a barrel of Brent crude climbed 5.2% to $77.97 after briefly topping $79 earlier. Treasury yields ticked higher.",
+      "url": "https://www.ajc.com/news/2026/07/us-markets-retreat-oil-prices-jump-more-than-5-after-trump-says-ceasefire-with-iran-is-over/",
+      "image": "https://images.ajc.com/resizer/v2/J62EKDYCXBFI3LDST56WV72YO4.jpg?auth=d2e9489475c8f92e12f680137b8a9b7b5ce1e82a28279fc602cad69212914fe8&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-08T13:42:17Z",
       "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "Oil Prices Jump After Iran Attacks Commercial Vessels",
-      "description": "Renewed U.S.-Iran military strikes and attacks on commercial shipping near the Strait of Hormuz have lifted oil prices and reminded markets that geopolitical risks remain a major threat to global energy supplies.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-After-Iran-Attacks-Commercial-Vessels.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-08_3diyhbbpw9.jpg",
-      "publishedAt": "2026-07-08T05:58:56Z",
-      "source": {
-        "name": "OilPrice"
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
