@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-10T09:18:26+00:00",
+  "updated_at": "2026-07-10T13:59:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "E25 only being tested, no rollout decision yet: Puri",
-      "description": "India News: NEW DELHI: Petroleum minister Hardeep Singh Puri on Thursday said E25 (petrol with 25% ethanol) is \\\"only being tested\\\" and no decision has been taken .",
-      "url": "https://timesofindia.indiatimes.com/india/e25-only-being-tested-no-rollout-decision-yet-puri/articleshow/132297999.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132297998,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-09T21:16:00Z",
+      "title": "Oil edges lower, but heads for weekly gain as Middle East supply risks persist",
+      "description": "Oil prices saw a slight dip Friday but are set for weekly gains. US and Iran exchanged strikes, escalating regional tensions and impacting supply routes. Concerns over rising inflation are also pressuring oil demand and market prices. The conflict has delayed the reopening of the vital Strait of Hormuz waterway. Market sentiment remains cautious as leaders express hopes for de-escalation.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-lower-but-heads-for-weekly-gain-as-middle-east-supply-risks-persist/articleshow/132300954.cms",
+      "image": "https://img.etimg.com/thumb/msid-132300962,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-10T01:53:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "GLOBAL MARKETS-Stocks climb, oil slides as tech hopes outlast Middle East worries",
-      "description": "US stocks surged on Thursday, with the Dow, S&P 500, and Nasdaq Composite rising, despite renewed conflict in the Middle East and a decline in oil prices.",
-      "url": "https://www.devdiscourse.com/article/business/3948106-global-markets-stocks-climb-oil-slides-as-tech-hopes-outlast-middle-east-worries",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/12_01_2026_11_04_50_0662175.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-09T21:05:21Z",
+      "title": "Petrol, diesel prices today - 10 July: Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as oil prices ease",
+      "description": "Petrol and diesel prices today: Fuel prices in India stood steady on Friday despite easing of Brent crude price. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-10-july-check-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-oil-prices-ease-11783644449823.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/10/1600x900/logo/3-0-20247848-petrol-pump--6--0_1679824070966_1783644532532_01aeb239-3570-452c-99ae-bb64f7a63c51.jpg",
+      "publishedAt": "2026-07-10T01:43:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
-      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-      "url": "https://www.latimes.com/business/story/2026-07-09/stocks-recover-losses-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/d59d765/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fa9%2Ff022905d435f86b7eb852c6842eb%2Fc09a775cb578415dae565f2086d8dfb6.jpg",
-      "publishedAt": "2026-07-09T20:57:35Z",
+      "title": "Oil heads for weekly gain as Middle East supply risks persist",
+      "description": "Oil prices rose on Friday and were set for weekly gains because",
+      "url": "https://www.reuters.com/business/energy/oil-edges-lower-heads-weekly-gain-middle-east-supply-risks-persist-2026-07-10/",
+      "image": "https://www.reuters.com/resizer/v2/X2VGJ2IHUNLX5EHR4VBVST4JWY.jpg?auth=d0417d372663092eadbb30e9ab3e8742d29364bb0440e3a58efc4da49c24c77c&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-10T01:33:43Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Will gas prices rise after Iran ceasefire ends? TN could see $4 gas",
-      "description": "Oil prices rose after President Trump declared the Iran ceasefire over, increasing concerns that gas prices could climb nationwide, including in Tennessee.",
-      "url": "https://www.knoxnews.com/story/news/local/2026/07/09/tennessee-gas-prices-iran-ceasefire/90864031007/",
-      "image": "https://www.knoxnews.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845505007-usatsi-29303438.jpg?crop=2999,1688,x0,y208&width=2999&height=1688&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-09T20:23:46Z",
+      "title": "Australian fuel giant suggests it may eventually phase out petrol",
+      "description": "Selling petrol is becoming less profitable in Australia, says Ampol's CEO, but there's money to be made in electric vehicle charging.",
+      "url": "https://7news.com.au/motoring/australian-fuel-giant-suggests-it-may-eventually-phase-out-petrol-c-22558580",
+      "image": "https://images.7news.com.au/publication/C-22558580/8a29e077b5b0d51a6a7563bc88394fa2b741a57e-16x9-x0y156w3000h1688.jpg?imwidth=1200",
+      "publishedAt": "2026-07-10T01:33:02Z",
       "source": {
-        "name": "Knoxville News-Sentinel"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
-      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-      "url": "https://www.barchart.com/story/news/3196587/stocks-recover-losses-and-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1967fbb300824e3c9d81e9df1720d2ea/1967fbb300824e3c9d81e9df1720d2ea_main_financial_markets_wall_street__6836.jpg",
-      "publishedAt": "2026-07-09T20:20:46Z",
+      "title": "Amid Ethanol Blending Row, Union Minister Hardeep Singh Puri Clears Air on Claims And Misconceptions | Exclusive",
+      "description": "Union Minister Hardeep Singh Puri addressed misconceptions regarding the blending of Ethanol (E20) with petrol in a recent interview., India News, Times Now",
+      "url": "https://www.timesnownews.com/india/amid-ethanol-blending-row-union-minister-hardeep-singh-puri-clears-air-on-claims-and-misconceptions-exclusive-article-155036850",
+      "image": "https://images.timesnownews.com/thumb/msid-155036860,thumbsize-44506,width-1280,height-720,resizemode-75/155036860.jpg",
+      "publishedAt": "2026-07-10T01:26:11Z",
       "source": {
-        "name": "Barchart"
+        "name": "Times Now"
       }
     },
     {
-      "title": "How major US stock indexes fared Thursday 7/9/2026",
-      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran.",
-      "url": "https://wtop.com/europe/2026/07/how-major-us-stock-indexes-fared-thursday-7-9-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
-      "publishedAt": "2026-07-09T20:18:55Z",
+      "title": "Stock Market Live: Sensex jumps 830 pts, Nifty reclaims 24,200; VIX down 6%, all sectors gain",
+      "description": "Sensex Today | Stock Market LIVE Updates: The Indian benchmark indices opened higher on July 10 with Nifty above 24150, led by gains in IT stocks, while softer crude oil prices and positive global cues further boosted investor sentiment. TCS, Infosys, Shriram Finance, Hindalco, Adani Enterprises were among major gainers on the Nifty, while losers were Dr Reddy's Labs, Bharti Airtel, Apollo Hospitals. Except pharma, healthcare, all other sectoral indices are trading in the green with bank, IT, metal, Consumer Durables up 1% each. Nifty Midcap and smallcap indices up nearly 1% each.",
+      "url": "https://www.moneycontrol.com/news/business/markets/stock-market-live-updates-nifty50-share-price-sensex-share-price-crude-fii-gift-nifty-rupee-latest-updates-10-07-2026-liveblog-13970424.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260624035919_bse-nsee_nifty-Sensex.jpg?impolicy=website&width=1280&height=720",
+      "publishedAt": "2026-07-10T01:15:00Z",
       "source": {
-        "name": "WTOP"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
-      "description": "As oil prices fall back to levels not seen since before the Middle East war began, the Kremlin will be forced to confront a deepening budget deficit.",
-      "url": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
-      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-russia-budget-twmf/09int-russia-budget-twmf-facebookJumbo.jpg",
-      "publishedAt": "2026-07-09T20:04:47Z",
+      "title": "Global Market Today: Asian stocks rise following chip rally, oil slips",
+      "description": "Asian stocks climbed as investors favored semiconductor shares due to AI demand. Oil prices declined as energy supply disruption fears eased. South Korea's Kospi index saw a significant rally, while other regional benchmarks edged higher. Futures for the Nasdaq 100 Index indicated a more cautious market sentiment. Company earnings and profit growth will guide market direction next month.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-following-chip-rally-oil-slips/articleshow/132300754.cms",
+      "image": "https://img.etimg.com/thumb/msid-132300751,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-10T01:13:00Z",
       "source": {
-        "name": "The New York Times"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Calm returns to financial markets worldwide as stocks recover losses and oil prices ease",
-      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-      "url": "https://www.barchart.com/story/news/3196587/calm-returns-to-financial-markets-worldwide-as-stocks-recover-losses-and-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1967fbb300824e3c9d81e9df1720d2ea/1967fbb300824e3c9d81e9df1720d2ea_main_financial_markets_wall_street__6836.jpg",
-      "publishedAt": "2026-07-09T20:03:52Z",
+      "title": "Oil prices steady at end of volatile week after US",
+      "description": "Bent was near $76 a barrel after declining over 2% in the previous session, while West Texas Intermediate was under $72 a barrel.",
+      "url": "https://www.cnbctv18.com/market/oil-prices-steady-at-end-of-volatile-week-after-us-iran-talks-continue-19942373.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-9c5cb1c381a69950568cf9635583dde2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-10T01:05:51Z",
       "source": {
-        "name": "Barchart"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Stanford hybrid work expert says World Cup chaos and gas prices are making this a remote work summer",
-      "description": "The economist who has spent two decades studying remote work said most employers are never going back to a fully in-office set up.",
-      "url": "https://fortune.com/2026/07/09/stanford-nicholas-bloom-world-cup-heat-wave-gas-prices-hybrid-work-remote-work-future-office/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2023/11/Nicholas_Bloom_Stanford.jpg?resize=1200,600",
-      "publishedAt": "2026-07-09T19:49:25Z",
+      "title": "Asian shares gain after chip rally, oil prices slip",
+      "description": "South Korea's Kospi index was up 2.6%, while Japan's Nikkei was uo 1.3%. The MSCI Asia Pacific Index was up 0.6%.",
+      "url": "https://www.cnbctv18.com/market/asian-shas-gain-after-chip-rally-oil-prices-slip-19942365.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/stk-market-1-2026-06-e03f2c7b54b5bb72b0c56efc60487294.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-10T01:00:31Z",
       "source": {
-        "name": "Fortune"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Brawl at petrol pump over moving vehicle spills onto Sohna highway, FIR registered",
-      "description": "Brawl at a CNG pump near Ghamroj Toll on Sohna Highway erupted over a queue dispute, spilled onto the road disrupting traffic; FIR filed, CCTV reviewed.",
-      "url": "https://timesofindia.indiatimes.com/city/gurgaon/brawl-at-petrol-pump-over-moving-vehicle-spills-onto-sohna-highway-fir-registered/articleshow/132297740.cms",
-      "image": "https://static.toiimg.com/thumb/msid-131882392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-09T19:41:00Z",
+      "title": "Australian fuel giant suggests it may eventually phase out petrol",
+      "description": "Selling petrol is becoming less profitable in Australia, says Ampol's CEO, but there's money to be made in electric vehicle charging.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/australian-fuel-giant-suggests-it-may-eventually-phase-out-petrol-c-22558427",
+      "image": "https://images.perthnow.com.au/publication/C-22558427/8a29e077b5b0d51a6a7563bc88394fa2b741a57e-16x9-x0y156w3000h1688.jpg?imwidth=1200",
+      "publishedAt": "2026-07-10T00:58:21Z",
       "source": {
-        "name": "Times of India"
+        "name": "PerthNow"
       }
     }
   ]
