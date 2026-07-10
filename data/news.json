@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-10T01:56:49+00:00",
+  "updated_at": "2026-07-10T09:18:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices and stock markets worldwide hold steadier as AI stocks climb",
-      "description": "Wall Street and oil prices are holding steadier in the wait to see what will come next after President Donald Trump raised doubts about the temporary truce in the war with Iran",
-      "url": "https://www.barchart.com/story/news/3196587/oil-prices-and-stock-markets-worldwide-hold-steadier-as-ai-stocks-climb",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1967fbb300824e3c9d81e9df1720d2ea/1967fbb300824e3c9d81e9df1720d2ea_main_financial_markets_wall_street__6836.jpg",
-      "publishedAt": "2026-07-09T13:51:19Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "US stock market today: Wall Street, oil prices steady after sharp swings yesterday",
-      "description": "International Business News: Wall Street traded with little direction on Thursday, while oil prices remained relatively stable after the sharp volatility seen a day earlier, as in.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-stock-market-today-july-09-2026-wall-street-sp-500-dow-jones-nasdaq-donald-trump-us-iran-war-crude-oil-prices/articleshow/132288244.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132288275,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-09T13:43:00Z",
+      "title": "E25 only being tested, no rollout decision yet: Puri",
+      "description": "India News: NEW DELHI: Petroleum minister Hardeep Singh Puri on Thursday said E25 (petrol with 25% ethanol) is \\\"only being tested\\\" and no decision has been taken .",
+      "url": "https://timesofindia.indiatimes.com/india/e25-only-being-tested-no-rollout-decision-yet-puri/articleshow/132297999.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132297998,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-09T21:16:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "U.S. shares and crude oil hold steadier",
-      "description": "Wall Street and oil prices are holding steadier following their sharp swings the day before in the wait to see what will come next after U.S. President Donald Trump raised doubts about the temporary truce in the war with Iran.",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/07/09/us-stocks-and-crude-oil-hold-steadier-a-day-after-swinging-sharply/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/KQEC7Z54I3GLAR5DR3VCGIOZBA.jpg?smart=true&auth=c072a4afb4121cb4cebbdae403650ac36a746e05dd76dba370a4cdb6ca1ff5db&width=1200&height=630",
-      "publishedAt": "2026-07-09T13:42:01Z",
+      "title": "GLOBAL MARKETS-Stocks climb, oil slides as tech hopes outlast Middle East worries",
+      "description": "US stocks surged on Thursday, with the Dow, S&P 500, and Nasdaq Composite rising, despite renewed conflict in the Middle East and a decline in oil prices.",
+      "url": "https://www.devdiscourse.com/article/business/3948106-global-markets-stocks-climb-oil-slides-as-tech-hopes-outlast-middle-east-worries",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/12_01_2026_11_04_50_0662175.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-09T21:05:21Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "U.S. shares and crude oil hold steadier",
-      "description": "Wall Street and oil prices are holding steadier following their sharp swings the day before in the wait to see what will come next after U.S. President Donald Trump raised doubts about the temporary truce in the war with Iran.",
-      "url": "https://www.cp24.com/news/money/2026/07/09/us-stocks-and-crude-oil-hold-steadier-a-day-after-swinging-sharply/",
-      "image": "https://www.cp24.com/resizer/v2/KQEC7Z54I3GLAR5DR3VCGIOZBA.jpg?smart=true&auth=c072a4afb4121cb4cebbdae403650ac36a746e05dd76dba370a4cdb6ca1ff5db&width=1200&height=630",
-      "publishedAt": "2026-07-09T13:42:01Z",
+      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
+      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
+      "url": "https://www.latimes.com/business/story/2026-07-09/stocks-recover-losses-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/d59d765/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F7b%2Fa9%2Ff022905d435f86b7eb852c6842eb%2Fc09a775cb578415dae565f2086d8dfb6.jpg",
+      "publishedAt": "2026-07-09T20:57:35Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Tata Curvv Prices Increased In India By Rs 6,000 Across All Variants",
-      "description": "Tata Motors has implemented a price increase of Rs 6,000 across all standard variants of the Curvv SUV coupe, impacting both petrol and diesel models with manual and automatic transmissions., Car News, Times Now",
-      "url": "https://www.timesnownews.com/auto/car-news/tata-curvv-prices-increased-in-india-by-rs-6000-across-all-variants-article-155017243",
-      "image": "https://images.timesnownews.com/thumb/msid-155017854,thumbsize-33560,width-1280,height-720,resizemode-75/155017854.jpg",
-      "publishedAt": "2026-07-09T13:31:00Z",
+      "title": "Will gas prices rise after Iran ceasefire ends? TN could see $4 gas",
+      "description": "Oil prices rose after President Trump declared the Iran ceasefire over, increasing concerns that gas prices could climb nationwide, including in Tennessee.",
+      "url": "https://www.knoxnews.com/story/news/local/2026/07/09/tennessee-gas-prices-iran-ceasefire/90864031007/",
+      "image": "https://www.knoxnews.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90845505007-usatsi-29303438.jpg?crop=2999,1688,x0,y208&width=2999&height=1688&format=pjpg&auto=webp",
+      "publishedAt": "2026-07-09T20:23:46Z",
       "source": {
-        "name": "Times Now"
+        "name": "Knoxville News-Sentinel"
       }
     },
     {
-      "title": "Brazil to decide on gasoline subsidy next week, plans rural debt restructuring",
-      "description": "Brazil's decision on removing a gasoline subsidy has been postponed until \u200cnext week, Finance Minister Dario Durigan said on Thursday, citing Iran war uncertainties that have pushed oil prices back up.",
-      "url": "https://www.reuters.com/business/energy/brazil-decide-gasoline-subsidy-next-week-plans-rural-debt-restructuring-2026-07-09/",
-      "image": "https://www.reuters.com/resizer/v2/QRTIHPWFYVLXXCPGKTINDHQ3G4.jpg?auth=42fdf48a554815128627da4ca86e08ae1df31bb5959b28320a1f0e5b11ab651f&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-09T13:19:49Z",
+      "title": "Stocks recover losses, and oil prices ease as calm returns to financial markets worldwide",
+      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
+      "url": "https://www.barchart.com/story/news/3196587/stocks-recover-losses-and-oil-prices-ease-as-calm-returns-to-financial-markets-worldwide",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1967fbb300824e3c9d81e9df1720d2ea/1967fbb300824e3c9d81e9df1720d2ea_main_financial_markets_wall_street__6836.jpg",
+      "publishedAt": "2026-07-09T20:20:46Z",
       "source": {
-        "name": "Reuters"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Petrol tanker and milk tanker catches fire in a freak accident near Doddaballapur",
-      "description": "A petrol and milk tanker caught fire in Doddaballapur, but drivers escaped unharmed; investigation into the cause ongoing.",
-      "url": "https://www.thehindu.com/news/national/karnataka/petrol-tanker-and-milk-tanker-catches-fire-in-a-freak-accident-near-doddaballapur/article71201680.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-07-09T13:17:02Z",
+      "title": "How major US stock indexes fared Thursday 7/9/2026",
+      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran.",
+      "url": "https://wtop.com/europe/2026/07/how-major-us-stock-indexes-fared-thursday-7-9-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2017/04/wtop_logo_512x512.png",
+      "publishedAt": "2026-07-09T20:18:55Z",
       "source": {
-        "name": "The Hindu"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Global markets mixed, oil prices rise as Iran, US launch new attacks",
-      "description": "US markets are mixed and oil prices rose as Iran and the US launched fresh attacks in the Middle East that threatened a deal to end the war.",
-      "url": "https://www.bostonherald.com/2026/07/09/markets-oil-prices-iran-us/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/AP26187536980374.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-09T13:11:17Z",
+      "title": "Russian Finances Get Shakier, Despite Short-Term Bonus From Iran War",
+      "description": "As oil prices fall back to levels not seen since before the Middle East war began, the Kremlin will be forced to confront a deepening budget deficit.",
+      "url": "https://www.nytimes.com/2026/07/09/world/europe/russia-oil-budget-deficit.html",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09int-russia-budget-twmf/09int-russia-budget-twmf-facebookJumbo.jpg",
+      "publishedAt": "2026-07-09T20:04:47Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "The New York Times"
       }
     },
     {
-      "title": "Global markets mixed, oil prices rise as Iran, US launch new attacks",
-      "description": "US markets are mixed and oil prices rose as Iran and the US launched fresh attacks in the Middle East that threatened a deal to end the war.",
-      "url": "https://www.courant.com/2026/07/09/markets-oil-prices-iran-us/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/AP26187536980374.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-09T13:11:17Z",
+      "title": "Calm returns to financial markets worldwide as stocks recover losses and oil prices ease",
+      "description": "Stocks rose, and oil prices eased as financial markets calmed a day after President Donald Trump raised doubts about the temporary truce in the war with Iran",
+      "url": "https://www.barchart.com/story/news/3196587/calm-returns-to-financial-markets-worldwide-as-stocks-recover-losses-and-oil-prices-ease",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1967fbb300824e3c9d81e9df1720d2ea/1967fbb300824e3c9d81e9df1720d2ea_main_financial_markets_wall_street__6836.jpg",
+      "publishedAt": "2026-07-09T20:03:52Z",
       "source": {
-        "name": "Hartford Courant"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Global markets mixed, oil prices rise as Iran, US launch new attacks",
-      "description": "US markets are mixed and oil prices rose as Iran and the US launched fresh attacks in the Middle East that threatened a deal to end the war.",
-      "url": "https://www.baltimoresun.com/2026/07/09/markets-oil-prices-iran-us/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/AP26187536980374.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-09T13:11:17Z",
+      "title": "Stanford hybrid work expert says World Cup chaos and gas prices are making this a remote work summer",
+      "description": "The economist who has spent two decades studying remote work said most employers are never going back to a fully in-office set up.",
+      "url": "https://fortune.com/2026/07/09/stanford-nicholas-bloom-world-cup-heat-wave-gas-prices-hybrid-work-remote-work-future-office/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2023/11/Nicholas_Bloom_Stanford.jpg?resize=1200,600",
+      "publishedAt": "2026-07-09T19:49:25Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "Brawl at petrol pump over moving vehicle spills onto Sohna highway, FIR registered",
+      "description": "Brawl at a CNG pump near Ghamroj Toll on Sohna Highway erupted over a queue dispute, spilled onto the road disrupting traffic; FIR filed, CCTV reviewed.",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/brawl-at-petrol-pump-over-moving-vehicle-spills-onto-sohna-highway-fir-registered/articleshow/132297740.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131882392,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-09T19:41:00Z",
+      "source": {
+        "name": "Times of India"
       }
     }
   ]
