@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-11T07:39:45+00:00",
+  "updated_at": "2026-07-11T12:55:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Crude Oil Prices Retreat as US-Iran Peace Talks Set to Continue",
-      "description": "August WTI crude oil (CLQ26 ) on Friday closed down -0.67 (-0.93%), and August RBOB gasoline (RBQ26 ) closed down -0.0541 (-1.78%). Crude oil and gasoline prices gave up an early advance on Friday and moved lower as prices whipsawed on various news h...",
-      "url": "https://www.barchart.com/story/news/3229608/crude-oil-prices-retreat-as-us-iran-peace-talks-set-to-continue",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Crude%20oil%20unloading%20dock%20by%20Surapol%20Usanakul%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-10T19:23:04Z",
+      "title": "E20 fuel may cut mileage by 3-5 pc but offers cleaner combustion",
+      "description": "new delhi :\u00a0petrol blended with 20 per cent ethanol (e20) can reduce fuel economy by 3-5 per cent in some vehicles, the oil ministry said on friday, but argued the impact is outweighed by benefits, including a higher octane rating,",
+      "url": "https://www.thehitavada.com/Encyc/2026/7/11/e20-fuel-may-cut-mileage-by-3-5-pc-but-offers-cleaner-combustion.html",
+      "image": "https://www.thehitavada.com/Encyc/2026/7/11/4_202607110832476003_H@@IGHT_720_W@@IDTH_1280.png",
+      "publishedAt": "2026-07-11T00:00:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Hitavada"
       }
     },
     {
-      "title": "Nat-Gas Prices Fall on Cooler Weather and Ample Supplies",
-      "description": "August Nymex natural gas (NGQ26 ) on Friday closed down -0.072 (-2.39%). Nat-gas prices added to Thursday\u2019s losses on Friday and posted a 1.5-month low. Nat-gas prices are under pressure as US weather forecasts shifted to show cooler weather in the...",
-      "url": "https://www.barchart.com/story/news/3229591/nat-gas-prices-fall-on-cooler-weather-and-ample-supplies",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
-      "publishedAt": "2026-07-10T19:22:06Z",
+      "title": "Trump says U.S. agreed to Iran\u2019s request to continue talks, but ceasefire is over",
+      "description": "The United States also stepped up demands that Iran stop attacks on ships in the Strait of Hormuz, where recent hostilities have pushed oil prices higher.",
+      "url": "https://www.japantimes.co.jp/news/2026/07/11/world/politics/trump-talks-continue-ceasefire-over/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/11/551122.JPG?v=3.1",
+      "publishedAt": "2026-07-10T23:38:18Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Japan Times "
       }
     },
     {
-      "title": "US stocks rise as Wall Street shows it's still hungry for AI winners",
-      "description": "U.S. stocks ticked higher after Wall Street showed its appetite is still big for winners of the artificial-intelligence boom. The S&P 500 rose 0.4% Friday and was on track to close out its fourth winning week in the last five. The Dow Jones Industrial Average added 190 points, and the Nasdaq composite climbed 0.3%. Shares of South Korean tech giant SK Hynix soared in their debut on Wall Street. Oil prices eased, while Treasury yields ticked higher in the bond market. Stock indexes outside the United States were mixed.",
-      "url": "https://www.ajc.com/news/2026/07/stocks-rise-oil-prices-fall-while-south-korean-ai-darling-sk-hynix-leaps-in-its-wall-street-debut/",
-      "image": "https://images.ajc.com/resizer/v2/PN6AK47D5FDRNFI6Z2AE4UHRHA.jpg?auth=81a4fe5f4b50e3c753e742b9c1006250ef0503150395ff47447ce901771503d7&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-10T19:21:46Z",
+      "title": "Ethanol programme saved Rs 1.90 lakh cr in forex since 2014",
+      "description": "NEW DELHI, Jul 10 : The government on Friday defended the ethanol-blended petrol programme amid concerns over engine damage and mileage loss in vehicles using ethanol-blended fuel, saying the scheme has helped the sugar economy, boosted farmers' incomes and saved...",
+      "url": "https://www.dailyexcelsior.com/ethanol-programme-saved-rs-1-90-lakh-cr-in-forex-since-2014-15-says-govt-amid-row-over-e20-fuel/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTFkODRkMWYwLTdjYjMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-10T23:00:08Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Federal govt raises petrol, diesel prices in fortnightly review",
-      "description": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel in its latest fortnightly fuel price review",
-      "url": "https://www.bolnews.com/business/federal-govt-raises-petrol-diesel-prices-in-fortnightly-review/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-47.webp",
-      "publishedAt": "2026-07-10T18:34:46Z",
+      "title": "Pakistan braces for another fuel blow as global oil surge threatens petrol, diesel price hike",
+      "description": "The petrol and diesel prices in Pakistan are likely to witness a rise due to recent surge in crude oil rates in global market, ARY News reported.",
+      "url": "https://www.tribuneindia.com/news/world/pakistan-braces-for-another-fuel-blow-as-global-oil-surge-threatens-petrol-diesel-price-hike/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZjOTFiNGUwLTdjYjEtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5wbmc=",
+      "publishedAt": "2026-07-10T22:48:01Z",
       "source": {
-        "name": "BOL News"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "AI Enthusiasm Boosts Wall Street Amid U.S.-Iran Tensions",
-      "description": "Wall Street indices rose as investors maintained optimism surrounding AI, despite tensions between the U.S. and Iran. SK Hynix's 14% jump in its Nasdaq debut highlighted a strong appetite for AI-related stocks. Oil prices fell slightly, and the Japanese yen strengthened, while U.S. dollar remained stable.",
-      "url": "https://www.devdiscourse.com/article/business/3948673-ai-enthusiasm-boosts-wall-street-amid-us-iran-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2024_16_48_38_4556863.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-10T18:26:41Z",
+      "title": "High Stakes Negotiations: Iran-US Tensions Flare Amid Strait of Hormuz Crisis",
+      "description": "President Donald Trump announced that talks would continue between the U.S. and Iran despite the recent escalation in tensions. Hostilities have risen, especially concerning the Strait of Hormuz, affecting oil prices. Both countries are engaged in a tit-for-tat that has international implications, notably on global oil supply and political stability.",
+      "url": "https://www.devdiscourse.com/article/politics/3948743-high-stakes-negotiations-iran-us-tensions-flare-amid-strait-of-hormuz-crisis",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_07_2026_23_12_08_5819046.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-10T22:25:12Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Stocks rise, oil prices fall, while South Korean AI darling SK Hynix leaps in its Wall Street debut",
-      "description": "U.S. stocks edged higher and oil prices fell as Wall Street leans toward a quiet finish for the week",
-      "url": "https://www.barchart.com/story/news/3218737/us-stocks-rise-as-wall-street-shows-it-s-still-hungry-for-ai-winners",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/60d5bbb1f198450f8044cf4b1fad22e8/60d5bbb1f198450f8044cf4b1fad22e8_main_financial_markets_wall_street__9615.jpg",
-      "publishedAt": "2026-07-10T18:23:46Z",
+      "title": "Won't be feasible to offer pure petrol, lower blends as options to E20: Govt",
+      "description": "India News: NEW DELHI: Govt Friday ruled out offering pure petrol, lower ethanol-petrol blends as options to E20 saying it won't be feasible, amid a debate and de.",
+      "url": "https://timesofindia.indiatimes.com/india/wont-be-feasible-to-offer-pure-petrol-lower-blends-as-options-to-e20-govt/articleshow/132322726.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132322728,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-10T22:24:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "Times of India"
       }
     },
     {
-      "title": "HMRC confirms new VAT rates for older petrol and diesel cars",
-      "description": "The new VAT rates will remain in force until April 30, 2027.",
-      "url": "https://www.express.co.uk/life-style/cars/2227802/HMRC-confirms-new-VAT-rates",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7033715.jpg",
-      "publishedAt": "2026-07-10T18:03:00Z",
+      "title": "Ukraine destroys 49 of Russia's shadow fleet ships in crippling strikes",
+      "description": "Vladimir Putin's shadow fleet was rocked by 14 new attacks today as the chaos at Russia\u2019s petrol stations deepens.",
+      "url": "https://metro.co.uk/2026/07/10/ukraine-destroys-49-russias-shadow-fleet-ships-crippling-strikes-29107236/",
+      "image": "https://metro.co.uk/wp-content/uploads/2026/07/Shadow-fleet-attacked-1-east2west-news-9c46-e1783717295645_1783719905.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2026-07-10T21:44:57Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Metro.co.uk"
       }
     },
     {
-      "title": "Asian shares gain despite new US-Iran clashes",
-      "description": "RECAP: Asian stocks rose sharply yesterday, led by \u200cchip and AI firms, as investors brushed off concern about fresh US-Iran hostilities, which has put the spotlight back on oil prices and inflation risk.",
-      "url": "https://www.bangkokpost.com/business/general/3284194/asian-shares-gain-despite-new-usiran-clashes",
-      "image": "https://www.bangkokpost.com/v3/assets/images/img-default.jpg",
-      "publishedAt": "2026-07-10T18:01:00Z",
+      "title": "Occidental's quarterly realized oil prices jump amid Iran war disruption",
+      "description": "Shale producer Occidental Petroleum said in a filing on Friday its worldwide average \u200brealized oil prices rose 38.4% in \u200cthe second quarter compared with the previous three months, driven by higher benchmark crude \u200brates amid the Middle East conflict.",
+      "url": "https://www.reuters.com/business/energy/occidentals-quarterly-realized-oil-prices-jump-amid-iran-war-disruption-2026-07-10/",
+      "image": "https://www.reuters.com/resizer/v2/VRJQZM2M6RM6VBDSS23XTA3RM4.jpg?auth=81f1e4e990fff27d7e1527a583f940e2d97ba45ec654b3dbd9a31306f0efd4d4&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-10T21:06:53Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Govt defends ethanol push: invokes energy needs, farmers, Maruti and Henry Ford",
-      "description": "The petroleum ministry argued that E20, or 20% ethanol-blended, petrol costs more to produce than the pure one, so it cannot be sold cheaper.",
-      "url": "https://www.livemint.com/news/govt-petroleum-ministry-ethanol-blending-energy-farmers-maruti-henry-ford-e20-automotive-industry-consumers-damages-11783694458501.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/10/1600x900/logo/HPCL-successfully-launched-E20-fuel-in-February-th_1686310169146_1783704457675_78228672-78bf-47fc-a02e-4ef1356d8332.jpg",
-      "publishedAt": "2026-07-10T17:42:52Z",
+      "title": "Stocks Surge Amid AI Enthusiasm Despite U.S.-Iran Tensions",
+      "description": "Stocks rose with AI-related optimism, despite U.S.-Iran tensions. The Dow, S&P 500, and Nasdaq ended higher. SK Hynix's market debut soared, benefiting from AI chip demand. Oil prices slipped amid conflict concerns. The Japanese yen strengthened, while U.S. dollar remained stable, eyeing interest rate movements.",
+      "url": "https://www.devdiscourse.com/article/business/3948716-stocks-surge-amid-ai-enthusiasm-despite-us-iran-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/09_05_2025_12_45_36_0854144.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-10T20:49:45Z",
       "source": {
-        "name": "Livemint"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gas prices climbing again as U.S.-Iran tensions flare",
-      "description": "Prices at the pump sank following a June ceasefire. But renewed conflict in the Middle East and other factors are driving fuel costs back up.",
-      "url": "https://www.cbsnews.com/detroit/news/gas-prices-rise-us-iran-war/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/18/d33b9060-2349-4f0b-8503-2baa1b911d60/thumbnail/1200x630/b2109922fb442b740acbe246309f05ce/cbsn-fusion-gas-prices-dip-below-4-a-gallon-on-average-for-first-time-in-months-thumbnail.jpg",
-      "publishedAt": "2026-07-10T17:27:00Z",
+      "title": "Rate cuts could come earlier than expected - but there's a catch",
+      "description": "One of Australia's leading banks says rate cuts could come sooner than expected. Plus: petrol prices, a big ASX IPO and a Telstra outage.",
+      "url": "https://www.sbs.com.au/news/article/on-the-money-rate-cuts-telstra-outage-petrol-prices-ipo/kj69rwgrl",
+      "image": "https://assets.sbs.com.au/dims4/default/1a1f128/2147483647/strip/true/crop/4712x2651+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F28%2Fc2%2F446b386a42c080a46aaeefcb4f8d%2Finterest-rate-cuts.jpg",
+      "publishedAt": "2026-07-10T20:45:21Z",
       "source": {
-        "name": "CBS News"
+        "name": "SBS Australia"
       }
     }
   ]
