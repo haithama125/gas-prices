@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-07-12T12:56:00+00:00",
+  "updated_at": "2026-07-12T18:50:45+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Q1 FY27 Earnings To Set Market Tone, Crude Oil Prices, FII Flows And West Asia Developments To Drive Dalal Street Next Week",
+      "description": "Investors will track Q1 FY27 earnings, crude oil prices, FII activity and developments in West Asia next week. Markets ended a four-week winning streak, but strong buying in the final sessions and TCS earnings helped limit weekly losses.",
+      "url": "https://www.freepressjournal.in/business/q1-fy27-earnings-to-set-market-tone-crude-oil-prices-fii-flows-and-west-asia-developments-to-drive-dalal-street-next-week",
+      "image": "https://media.assettype.com/freepressjournal/2025-06-22/e3za3g5k/share-market-outlook.jpg",
+      "publishedAt": "2026-07-12T06:39:17Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Iran moves to close Strait of Hormuz. Should investors fear a Nifty crash in coming days?",
+      "description": "Indian equities are likely to remain volatile this week as escalating tensions in West Asia and the closure of the Strait of Hormuz threaten to push crude oil prices higher. Investors will also monitor Q1 earnings, inflation data, FII flows and global risk sentiment for market direction.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/iran-moves-to-close-strait-of-hormuz-should-investors-fear-a-nifty-crash-in-coming-days/articleshow/132341443.cms",
+      "image": "https://img.etimg.com/thumb/msid-132341443,width-1200,height-630,imgsize-255930,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-12T06:15:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Q1 earnings, crude oil trends likely to drive Dalal Street next week",
+      "description": "Q1 earnings, crude oil trends likely to drive Dalal Street next week - Mumbai, July 12 Investors will closely track the ongoing Q1 FY27 earnings season, movement in crude oil prices, ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/q1-earnings-crude-oil-trends-likely-to-drive-dalal-street-next-week/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607123861477_202607.jpg",
+      "publishedAt": "2026-07-12T06:02:06Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Maruti Suzuki XL6 Prices Increased In India: Check Latest Variant-Wise Rates",
+      "description": "The Maruti Suzuki XL6 prices in India have been increased by up to Rs 10,000 across petrol and CNG variants. Here's a look at the revised prices of all variants in the model range., Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/maruti-suzuki-xl6-prices-increased-in-india-check-latest-variant-wise-rates-article-155077510",
+      "image": "https://images.timesnownews.com/thumb/msid-155077682,thumbsize-64312,width-1280,height-720,resizemode-75/155077682.jpg",
+      "publishedAt": "2026-07-12T05:30:00Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, July 12: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "description": "In Delhi,\u00a0petrol\u00a0continues to be priced above \u20b9100 per litre at \u20b9102.12, while diesel is retailing at \u20b995.20 per litre.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-12-check-latest-prices-in-delhi-mumbai-chennai-other-cities-542407-2026-07-12",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a53172b7eeb4-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-122457979-16x9.png",
+      "publishedAt": "2026-07-12T04:25:43Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "S\u2019pore banks hit record highs, DBS tops $70 for the first time",
+      "description": "SIA shares briefly retreated after renewed US-Iran tensions triggered swings in oil prices. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/spore-banks-hit-record-highs-dbs-tops-70-for-the-first-time",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1197903636db2b4a92c7b8e779e2afc96789d67f12dfee4a18839cabd7271ca4",
+      "publishedAt": "2026-07-12T04:00:00Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Oil Prices Set for More Volatility After Latest Iranian Attack in Strait of Hormuz",
+      "description": "Crude oil prices jumped above prewar levels this week, demonstrating Iran\u2019s capacity to move energy prices by projecting power in the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/07/11/world/middleeast/strait-hormuz-shipping-oil-prices.html",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11mideast-live-strait-hormuz-shipping-oil-jqhp/11mideast-live-strait-hormuz-shipping-oil-jqhp-facebookJumbo.jpg",
+      "publishedAt": "2026-07-12T02:13:22Z",
+      "source": {
+        "name": "The New York Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today - 12 July: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata as Iran closes Hormuz",
+      "description": "Petrol and diesel prices today: Fuel prices in India remained stable on 12 July despite volatility global crude prices. Check retail petrol and diesel prices today in your city here.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-12-july-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-as-iran-closes-hormuz-11783817941019.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/12/1600x900/logo/pp_1783818115619_1783818115744_46642369-9b0d-4378-be86-3ed51ddd3e78.jpg",
+      "publishedAt": "2026-07-12T01:54:20Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Iran declares Hormuz closed after 'unauthorised' vessel hit, warns of 'severe response'",
+      "description": "Iran closed the Strait of Hormuz after a vessel incident and warned of severe retaliation. The United States demands Iran cease attacks and ensure free passage through the waterway. Mediators are attempting to arrange talks between Iran and the United States regarding regional stability. Iran's new supreme leader vowed vengeance for his predecessor's death. Tensions remain high as oil prices surge amid ongoing regional hostilities.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-declares-hormuz-closed-after-unauthorised-vessel-hit-warns-of-severe-response/articleshow/132339703.cms",
+      "image": "https://img.etimg.com/thumb/msid-132339717,width-1200,height-630,imgsize-63316,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-12T01:18:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
     {
       "title": "Pakistan: Air fares likely to increase after government raises jet fuel prices",
       "description": "Airfares in Pakistan are likely to increase after the government raised the price of jet fuel by PKR 13.23 per litre, following a recent hike in petrol prices, ARY News reported.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-07-11T23:48:18Z",
       "source": {
         "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Tensions Rise as Iran Closes Strait of Hormuz Amidst Escalating Conflict",
-      "description": "Iran has closed the crucial Strait of Hormuz after a vessel violated route protocols, warning of a severe response to any retaliation. The incident exacerbates tensions with the U.S., with potential impacts on global oil prices and ongoing negotiations among regional players to de-escalate the situation.",
-      "url": "https://www.devdiscourse.com/article/politics/3948915-tensions-rise-as-iran-closes-strait-of-hormuz-amidst-escalating-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_09_2025_12_15_20_8472649.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-11T23:20:56Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Kejriwal visits Delhi petrol pump, service station to hear consumers' E20 fuel concerns",
-      "description": "NEW DELHI, Jul 11: AAP national convenor Arvind Kejriwal on Saturday visited a petrol pump and service station in Delhi to interact with vehicle owners over their experience with E20-blended petrol, claiming that several consumers complained of reduced mileage and...",
-      "url": "https://www.dailyexcelsior.com/kejriwal-visits-delhi-petrol-pump-service-station-to-hear-consumers-e20-fuel-concerns/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY5OGJjM2EwLTdkN2MtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
-      "publishedAt": "2026-07-11T23:00:29Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Iran rejects US talks as Hormuz shipping slows",
-      "description": "Iran has refused to restart talks with the US unless Washington retreats from its current positions, specifically demanding the restoration of oil exports and control over Hormuz shipping arrangements. This follows US strikes on 90 Iranian military targets in response to attacks on commercial vessels, which have significantly reduced traffic through the Strait. Diplomatic efforts involving Oman and Qatar are underway, while the IMO has rejected Iran's sovereignty claims over the waterway. The tensions continue to impact global oil prices, with the IMF warning of prolonged inflation risks.",
-      "url": "https://scanx.trade/stock-market-news/global/trump-declares-iran-ceasefire-has-ended/45045321",
-      "image": "http://news-images.dhan.co/trump-declares-iran-ceasefire-has-ended.jpg",
-      "publishedAt": "2026-07-11T19:46:55Z",
-      "source": {
-        "name": "scanx.trade"
-      }
-    },
-    {
-      "title": "After \u2018spot check\u2019, Kejriwal takes aim at govt.\u2019s \u2018E20 lies\u2019",
-      "description": "Kejriwal criticizes the government for misleading claims about E20 petrol's negative impact on vehicle mileage and performance.",
-      "url": "https://www.thehindu.com/news/cities/Delhi/after-spot-check-kejriwaltakes-aim-atgovts-e20-lies/article71211402.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-07-11T19:43:35Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Petrol stations caught breaking 'mandatory' new rule with drivers warned",
-      "description": "New research shows petrol stations are failing to act, despite it being mandatory, and the risk of businesses paying hefty fines.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-stations-caught-breaking-mandatory-34248596",
-      "image": "https://i2-prod.birminghammail.co.uk/article34248625.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-07-11T18:47:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Can Australia avoid the next round of the global energy crisis?",
-      "description": "As the conflict has dragged on, gas prices have soared and now threaten to up-end the economies of Europe and Asia.",
-      "url": "https://www.abc.net.au/news/2026-07-12/australia-avoiding-next-round-of-the-global-energy-crisis/106902908",
-      "image": "https://live-production.wcms.abc-cdn.net.au/c0c99408091b52ba78b34acb8539b588?impolicy=wcms_watermark_news&cropH=2567&cropW=4563&xPos=0&yPos=234&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-07-11T18:41:09Z",
-      "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
-      }
-    },
-    {
-      "title": "Kejriwal visits Delhi petrol pump, service station to hear consumers' E20 fuel concerns",
-      "description": "India News: NEW DELHI: AAP national convenor Arvind Kejriwal on Saturday visited a petrol pump and service station in Delhi to interact with vehicle owners over t.",
-      "url": "https://timesofindia.indiatimes.com/india/kejriwal-visits-delhi-petrol-pump-service-station-to-hear-consumers-e20-fuel-concerns/articleshow/132335446.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132335482,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-11T17:33:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "UK drivers at risk of petrol and diesel \u2018price spikes\u2019 in new fuel warning",
-      "description": "Petrol and diesel owners have already been hit with a massive rise at the petrol pumps, and things could still get a lot worse.",
-      "url": "https://www.express.co.uk/life-style/cars/2228072/drivers-petrol-diesel-prices-fuel-costs",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7035072.jpg",
-      "publishedAt": "2026-07-11T16:51:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Bounce May Fade in Oil Futures",
-      "description": "Oil prices recovered briefly, but bearish trends suggest traders should consider selling crude futures.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bounce-may-fade-in-oil-futures/article71209788.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/1qtf3z/article71209932.ece/alternates/LANDSCAPE_1200/1022081650",
-      "publishedAt": "2026-07-11T16:28:44Z",
-      "source": {
-        "name": "The Hindu Business Line"
       }
     }
   ]
