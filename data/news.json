@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-07-12T07:59:24+00:00",
+  "updated_at": "2026-07-12T12:56:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Pakistan: Air fares likely to increase after government raises jet fuel prices",
+      "description": "Airfares in Pakistan are likely to increase after the government raised the price of jet fuel by PKR 13.23 per litre, following a recent hike in petrol prices, ARY News reported.",
+      "url": "https://www.tribuneindia.com/news/world/pakistan-air-fares-likely-to-increase-after-government-raises-jet-fuel-prices/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxZWI2ZDcwLTdkODMtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-11T23:48:18Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Tensions Rise as Iran Closes Strait of Hormuz Amidst Escalating Conflict",
+      "description": "Iran has closed the crucial Strait of Hormuz after a vessel violated route protocols, warning of a severe response to any retaliation. The incident exacerbates tensions with the U.S., with potential impacts on global oil prices and ongoing negotiations among regional players to de-escalate the situation.",
+      "url": "https://www.devdiscourse.com/article/politics/3948915-tensions-rise-as-iran-closes-strait-of-hormuz-amidst-escalating-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_09_2025_12_15_20_8472649.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-11T23:20:56Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Kejriwal visits Delhi petrol pump, service station to hear consumers' E20 fuel concerns",
+      "description": "NEW DELHI, Jul 11: AAP national convenor Arvind Kejriwal on Saturday visited a petrol pump and service station in Delhi to interact with vehicle owners over their experience with E20-blended petrol, claiming that several consumers complained of reduced mileage and...",
+      "url": "https://www.dailyexcelsior.com/kejriwal-visits-delhi-petrol-pump-service-station-to-hear-consumers-e20-fuel-concerns/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY5OGJjM2EwLTdkN2MtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-11T23:00:29Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
     {
       "title": "Iran rejects US talks as Hormuz shipping slows",
       "description": "Iran has refused to restart talks with the US unless Washington retreats from its current positions, specifically demanding the restoration of oil exports and control over Hormuz shipping arrangements. This follows US strikes on 90 Iranian military targets in response to attacks on commercial vessels, which have significantly reduced traffic through the Strait. Diplomatic efforts involving Oman and Qatar are underway, while the IMO has rejected Iran's sovereignty claims over the waterway. The tensions continue to impact global oil prices, with the IMF warning of prolonged inflation risks.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-07-11T16:28:44Z",
       "source": {
         "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Environmental group bashes automakers for EV pullback in new ads",
-      "description": "WASHINGTON \u2014 A prominent environmental group is launching an ad campaign faulting Michigan automakers for consumer struggles with high gas prices. \u201cWe need to put the blame for this unaffordable economy where it belongs. Automakers have the technology that could help America break the cycle of oil price shocks,\u201d said Dan Becker, director of the Center for Biological Diversity\u2019s Safe Climate ...",
-      "url": "https://www.courant.com/2026/07/11/environmental-group-bashes-automakers-for-ev-pullback-in-new-ads-2/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/202607101414MCT_____PHOTO____BIZ-AUTO-ENV-EV-PULLBACK-AD-CAMPAIGN-FILEPIC-GET.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-11T15:30:09Z",
-      "source": {
-        "name": "Hartford Courant"
-      }
-    },
-    {
-      "title": "Kejriwal visits Delhi petrol pump, service station to hear consumers' E20 fuel concerns",
-      "description": "New Delhi, Jul 11 (PTI) AAP national convenor Arvind Kejriwal on Saturday visited a petrol pump and service station in Delhi to interact with vehicle owners over their experience with E20-blended petrol, claiming that several consumers complained of reduced mileage and vehicle performance. During the visit, Kejriwal spoke to people who had come for refuelling [\u2026]",
-      "url": "https://theprint.in/india/kejriwal-visits-delhi-petrol-pump-service-station-to-hear-consumers-e20-fuel-concerns/2984191/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-07-11T15:20:26Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Petrol bomb attack on house was reckless, police say",
-      "description": "Police have appealed for information.",
-      "url": "https://www.breakingnews.ie/ireland/petrol-bomb-attack-on-house-was-reckless-police-say-1925489.html",
-      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDdcXFwvMTExNTQwMDhcXFwvMi40MDczMTY4MS0yLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiZWM1YTIyYzg2ZmY4NDlhMTFmZjQ5Y2ZmZWZiYjdlNDRmZThkYWYwNSJ9/petrol-bomb-attack-on-house-was-reckless-police-say.jpg",
-      "publishedAt": "2026-07-11T14:57:50Z",
-      "source": {
-        "name": "BreakingNews.ie"
       }
     }
   ]
