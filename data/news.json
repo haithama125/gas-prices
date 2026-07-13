@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-13T14:05:10+00:00",
+  "updated_at": "2026-07-13T19:11:46+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Chaos returns to Middle East: Oil prices jump 4% as US-Iran exchange strikes",
-      "description": "International Business News: Oil prices soared sharply on Monday as the Middle East was once again embroiled in chaos. Crude prices jumped 4% as fresh military action between Iran.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/chaos-returns-to-middle-east-oil-prices-jump-4-as-us-iran-exchange-strikes-on-july-13-2026/articleshow/132354601.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132354614,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-13T02:05:00Z",
+      "title": "Market Jitters: U.S.-Iran Tensions Rattle European Shares",
+      "description": "European share markets opened lower after Tehran closed the Strait of Hormuz amid escalating tensions with the United States. The pan-European STOXX 600 index registered a minor decline as energy stocks climbed owing to a spike in oil prices. Investors await earnings season for more economic insights.",
+      "url": "https://www.devdiscourse.com/article/business/3949329-market-jitters-us-iran-tensions-rattle-european-shares",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_09_2025_02_29_19_67857.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-13T07:10:48Z",
       "source": {
-        "name": "Times of India"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gold slides over 1% as oil surges on Strait of Hormuz closure fears",
-      "description": "Gold prices declined over one percent in early Asian trade Monday. Oil prices jumped sharply, increasing inflation concerns and interest rate expectations. U.S. and Iranian forces exchanged missile and drone assaults in the Gulf region. Federal Reserve chair testimony and economic data will offer policy clues. Gold speculators reduced net long positions while China increased its reserves.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-over-1-as-oil-surges-on-strait-of-hormuz-closure-fears/articleshow/132354518.cms",
-      "image": "https://img.etimg.com/thumb/msid-132354523,width-1200,height-630,imgsize-2216329,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-13T01:52:00Z",
+      "title": "Asian currencies weaken on renewed Gulf conflict, KOSPI tumbles 8%",
+      "description": "ASIAN currencies weakened against the U.S. dollar on Monday as renewed tension in the Middle East sent oil prices surging and revived fears of inflation, while South Korean shares fell 8% to trigger a circuit breaker, led lower by SK Hynix.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/13/asian-currencies-weaken-on-renewed-gulf-conflict-kospi-tumbles-8",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007580.png",
+      "publishedAt": "2026-07-13T07:07:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Star"
       }
     },
     {
-      "title": "Fresh US strikes hit Iran amid renewed fighting over Strait of Hormuz",
-      "description": "US forces retaliated with strikes after Iran attacked shipping in the Strait of Hormuz, escalating conflict that threatens peace talks and impacts.Strait of Hormuz, US military strikes Iran, Iran conflict, Middle East tensions, oil prices, global economy, Kuwait attack, Iranian Revolutionary Guards, maritime security, diplomatic solution, international relations, Middle East politics, conflict escalation, navigation freedom, conflict aftermath",
-      "url": "https://www.onmanorama.com/news/world/2026/07/13/us-launches-strikes-iran-hormuz.html",
-      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/3/2/strait-of-hormuz.jpg",
-      "publishedAt": "2026-07-13T01:50:51Z",
+      "title": "Stock Markets Slump in Early Trade on Rising Tensions in West Asia, Higher Oil Prices",
+      "description": "Stock Markets Slump in Early Trade on Rising Tensions in West Asia, Higher Oil Prices",
+      "url": "https://www.outlookbusiness.com/markets/stock-markets-slump-in-early-trade-on-rising-tensions-in-west-asia-higher-oil-prices",
+      "image": "https://media.assettype.com/outlookbusiness/2026-07-08/0jn0khml/oo.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-13T06:55:58Z",
       "source": {
-        "name": "Malayala Manorama"
+        "name": "Outlook Business"
       }
     },
     {
-      "title": "Dollar jumps on renewed Middle East attacks, Hormuz closure",
-      "description": "The dollar strengthened against most currencies due to renewed Middle East conflict. This conflict fueled inflation fears and increased rate hike prospects from central banks. Oil prices rose significantly, driving the dollar's upward movement and inflation concerns. Traders now anticipate two Federal Reserve rate hikes by year-end. Upcoming U.S. inflation data and Fed testimony will remain key focus areas.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-jumps-on-renewed-middle-east-attacks-hormuz-closure/articleshow/132354510.cms",
-      "image": "https://img.etimg.com/thumb/msid-132354514,width-1200,height-630,imgsize-137318,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-13T01:50:00Z",
+      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
+      "description": "WASHINGTON/DUBAI, July 13 - U.S. and Iranian forces exchanged heavy missile and drone assaults, with Tehran targeting U.S. facilities in states across the Gulf and saying it had again closed the vital Strait of Hormuz, sending oil prices higher. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/30eb9420eefb8c755b82a20dad2196d2505c64110833c6da59241047bbe71471",
+      "publishedAt": "2026-07-13T06:50:28Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Crude oil prices jump 3% amid renewed US-Iran war tensions; Brent crude above $78 per barrel",
-      "description": "US-Iran war: Brent crude climbed 3% above $78 a barrel after gaining 5.4% last week, while US benchmark West Texas Intermediate hovered near $74.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-jump-3-amid-renewed-us-iran-war-tensions-brent-crude-above-78-per-barrel-11783906393450.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/crude_1783906779200_1783906779316_fa3672d1-86a3-4e69-9c91-77f5ea040600.jpg",
-      "publishedAt": "2026-07-13T01:45:56Z",
+      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
+      "description": "WASHINGTON/DUBAI, July 13 - U.S. and Iranian forces exchanged heavy missile and drone assaults, with Tehran targeting U.S. facilities in states across the Gulf and saying it had again closed the vital Strait of Hormuz, sending oil prices higher. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/30eb9420eefb8c755b82a20dad2196d2505c64110833c6da59241047bbe71471",
+      "publishedAt": "2026-07-13T06:50:28Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Iran fires ballistic missiles towards Jordan as US strike kills one; oil prices surge",
-      "description": "Iran fired at least 12 ballistic missiles towards Jordan in two waves as the latest exchange of attacks with the US sent global oil prices sharply higher.",
-      "url": "https://www.moneycontrol.com/world/iran-fires-ballistic-missiles-towards-jordan-as-us-strike-kills-one-oil-prices-surge-article-13972119.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260712013339_iran-bushehr.jpeg",
-      "publishedAt": "2026-07-13T01:41:20Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Trump Directs Fresh Strikes to 'Hold Iranian Forces Accountable,' Says CENTCOM; Oil Tops $74 as Dow Futur",
-      "description": "Trump ordered fresh strikes on Iran, sending oil prices higher and U.S. stock futures lower as Strait of Hormuz tensions escalated.",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60406100/trump-orders-fresh-strikes-to-hold-iranian-forces-accountable-as-oil-tops-74-and-dow-futures-drop",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/13/Poll-Shows-Iran-Advantage.jpg",
-      "publishedAt": "2026-07-13T01:37:21Z",
-      "source": {
-        "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Gift Nifty, US-Iran war, bond yields to crude oil prices: 10 things that changed for Indian stock market over weekend",
-      "description": "Gift Nifty was trading around 24,056 level, a discount of nearly 186 points from the Nifty futures\u2019 previous close, indicating a gap-down start for the Indian stock market indices.",
-      "url": "https://www.livemint.com/market/stock-market-news/gift-nifty-us-iran-war-bond-yields-to-crude-oil-prices-10-things-that-changed-for-indian-stock-market-over-weekend-11783906045374.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/GLOBAL-MARKETS-FLOWS-0_1783906401821_1783906407097_3b9960e9-7332-4294-a0cd-1e267570c096.JPG",
-      "publishedAt": "2026-07-13T01:34:55Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Indian rupee and bonds likely to track Mideast developments, inflation data",
-      "description": "The Indian rupee and government bonds will likely track developments in the Middle East conflict alongside inflation data from the U.S. and India to gauge the impact of volatile oil prices on broader costs and central bank policy decisions.",
-      "url": "https://www.reuters.com/world/india/indian-rupee-bonds-likely-track-mideast-developments-inflation-data-2026-07-13/",
-      "image": "https://www.reuters.com/resizer/v2/RTKAANLR7VPZ5JP7KFLDUMCK24.jpg?auth=480298ee2efc8c040da36c399e99f43a1af32297ac7e3c0314008d06dd53a7bf&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-13T01:32:18Z",
+      "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices",
+      "description": "Iran's Guards say they targeted US facilities in Bahrain, Kuwait, Oman and Jordan.",
+      "url": "https://www.reuters.com/world/middle-east/iran-escalates-attacks-us-bases-gulf-states-warns-more-incidents-strait-2026-07-13/",
+      "image": "https://www.reuters.com/resizer/v2/YQIME74F3RMQ5MWEIOH6GXUEVI.jpg?auth=fa816db24faa2e028977c5c0e502a4d29b2ff2be2d062e890ea835d3b314b3f1&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-13T06:47:22Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Asian stocks today: Kospi, Nikkei decline following renewed US-Iran war tensions, rising crude oil prices",
-      "description": "Asian stocks today: Japan's Nikkei 225 fell 0.2%, while the broader Topix index declined 0.094%. South Korea's Kospi was down 2.47%, with the small-cap Kosdaq climbing 0.98%",
-      "url": "https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-nikkei-decline-following-renewed-us-iran-war-tensions-rising-crude-oil-prices-11783905005567.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/13/1600x900/logo/asian_markets_1783905812171_1783905812287_3f1cb248-e884-443c-a757-d406347ebe71.jpg",
-      "publishedAt": "2026-07-13T01:29:13Z",
+      "title": "Petrol and diesel prices fall in July, EV tariffs updated",
+      "description": "AA Ireland's fuel price analysis shows that both petrol and diesel prices decreased in July compared to June",
+      "url": "https://www.rte.ie/news/business/2026/0713/1583047-aa-ireland-fuel-price-survey/",
+      "image": "https://www.rte.ie/images/0023ff4b-1600.jpg",
+      "publishedAt": "2026-07-13T06:43:47Z",
       "source": {
-        "name": "Livemint"
+        "name": "RTE.ie"
+      }
+    },
+    {
+      "title": "Gold falls 1% on MCX, silver crashes by Rs 5.3k per kg amid renewed US-Iran war tensions",
+      "description": "Rising crude oil prices fueled concerns that inflationary pressures could persist, reinforcing expectations that the Federal Reserve may raise interest rates once more this year.",
+      "url": "https://www.indiatvnews.com/business/markets/gold-falls-1-pc-on-mcx-silver-crashes-by-rs-5-3k-per-kg-amid-renewed-us-iran-war-tensions-check-city-wise-rates-2026-07-13-1048069",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/goldsilverprice-1783924476.jpg",
+      "publishedAt": "2026-07-13T06:37:02Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "U.S. hits Iran as Gulf states targeted in flare-up over Hormuz",
+      "description": "U.S. strikes on Iran escalate tensions over the Strait of Hormuz, impacting Gulf allies and oil prices amid ongoing conflict.",
+      "url": "https://www.thehindu.com/news/international/us-hits-iran-as-gulf-states-targeted-in-flare-up-over-hormuz/article71216183.ece",
+      "image": "https://th-i.thgim.com/public/incoming/96jt4p/article71216233.ece/alternates/LANDSCAPE_1200/Logistics_GB_G5G28G83DEB.4.jpg.jpg",
+      "publishedAt": "2026-07-13T06:33:47Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Rupee hits one-month low as renewed Mideast conflict lifts oil prices",
+      "description": "The Indian rupee reached its weakest point in over a month on Monday. Renewed Middle East hostilities and Iran's Strait of Hormuz claim sent oil prices surging. State-run banks offered dollars, likely on behalf of the Reserve Bank of India. Markets had anticipated less severe escalation, but this risk is now back. India's upcoming trade and inflation data will offer further economic insights.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-one-month-low-as-renewed-mideast-conflict-lifts-oil-prices/articleshow/132358838.cms",
+      "image": "https://img.etimg.com/thumb/msid-132358850,width-1200,height-630,imgsize-33708,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-13T06:31:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
