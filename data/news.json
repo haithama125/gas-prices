@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-14T07:46:33+00:00",
+  "updated_at": "2026-07-14T13:07:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "From paan kiosk to fuel thief: How man built multi-lakh theft network",
-      "description": "Lucknow Crime Branch busts alleged fuel pilferage network run from a paan kiosk; 4 arrested, 7,750L petrol and 4,000L diesel seized; probe on.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/from-paan-kiosk-to-fuel-thief-how-man-built-multi-lakh-theft-network/articleshow/132376047.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-07-13T19:45:00Z",
+      "title": "Oil climbs to one-month high as US, Iran step up attacks in Strait of Hormuz",
+      "description": "Oil prices rose 2% on Tuesday to their highest in four weeks, as the U.S. reimposed its naval blockade of Iran while the two countries stepped \u200bup attacks in the Strait of Hormuz, heightening uncertainty about energy flows.",
+      "url": "https://www.reuters.com/business/energy/oil-climbs-one-month-high-us-iran-step-up-attacks-strait-hormuz-2026-07-14/",
+      "image": "https://www.reuters.com/resizer/v2/XPAR6IDKMBIATOM7A5J7OJ3SOU.jpg?auth=c4351e9c3b773d8e48d4a1c8fddca3fbdb1addb23e6b8950189d0a1efe0d8375&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-14T01:01:19Z",
       "source": {
-        "name": "Times of India"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Tensions in the Strait of Hormuz: Oil Prices Surge Amid U.S. Naval Blockade",
-      "description": "Oil prices spiked over 9% following the U.S. announcement of a naval blockade on Iran's coastline, stirring concerns over energy supply via the Strait of Hormuz. The move comes amid heightened tensions between the U.S. and Iran, with potential long-term supply disruptions being a major concern.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3949724-tensions-in-the-strait-of-hormuz-oil-prices-surge-amid-us-naval-blockade",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/04_08_2024_13_23_13_0343445.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-13T19:26:26Z",
+      "title": "Dollar steady before US inflation data, yen under pressure",
+      "description": "The dollar steadied on Tuesday ahead of U.S. inflation data, with Middle East tensions lifting oil \u200bprices while the yen held a soft tone amid caution over possible intervention and after policymakers' comments on state \u200cpension fund allocations.",
+      "url": "https://www.reuters.com/world/china/dollar-steady-before-us-inflation-data-yen-under-pressure-2026-07-14/",
+      "image": "https://www.reuters.com/resizer/v2/6PGLXNR5BRM6HDSAGGYNW2D55M.jpg?auth=e781bd256daaa1c26f1b718fe726885f88a74bbd9d4cdead568fed52c138f8c4&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-14T00:50:47Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Crude Oil Prices Sharply Higher on Escalation of US-Iran Hostilities",
-      "description": "August WTI crude oil (CLQ26 ) on Monday closed up +6.73 (+9.42%), and August RBOB gasoline (RBQ26 ) closed up +0.1817 (+6.09%). Crude oil and gasoline prices surged on Monday, with crude posting a 3.5-week high and gasoline posting a 5-week high. Cr...",
-      "url": "https://www.barchart.com/story/news/3259376/crude-oil-prices-sharply-higher-on-escalation-of-us-iran-hostilities",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
-      "publishedAt": "2026-07-13T19:17:08Z",
+      "title": "U.S. military renews strikes on Iran while tankers come under attack in Strait of Hormuz",
+      "description": "US forces conducted strikes against Iran for a third night. Two tankers faced attacks in the Strait of Hormuz while transiting. President Trump declared a blockade and vowed to guard the vital waterway. Iran responded by targeting US facilities and equipment in the region. Oil prices surged significantly following these escalating tensions.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/u-s-military-renews-strikes-on-iran-while-tankers-come-under-attack-in-strait-of-hormuz/articleshow/132378602.cms",
+      "image": "https://img.etimg.com/thumb/msid-132378617,width-1200,height-630,imgsize-85112,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-14T00:39:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Settle Lower on Higher US Output and Smaller Exports",
-      "description": "August Nymex natural gas (NGQ26 ) on Monday closed down -0.043 (-1.46%). Nat-gas prices tumbled to a 2-month low on Monday and settled sharply lower. Signs of stronger US nat-gas output and smaller exports are weighing on prices. Nat-gas production...",
-      "url": "https://www.barchart.com/story/news/3259345/nat-gas-prices-settle-lower-on-higher-us-output-and-smaller-exports",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-07-13T19:13:56Z",
+      "title": "Trump unveils Strait of Hormuz shipping fees, Iran port blockade",
+      "description": "Oil prices rose on Tuesday after U.S. President Donald Trump announced plans to impose shipping fees in the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/07/14/oil-prices-today-brent-wti-hormuz-trump-toll-iran.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108325936-1782289399007-gettyimages-2281783154-dji_20260615155808_0334_d_3mamzkfe.jpeg?v=1782289495&w=1920&h=1080",
+      "publishedAt": "2026-07-14T00:32:25Z",
       "source": {
-        "name": "Barchart"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Spike in oil prices hits stocks in travel sector",
-      "description": "Irish markets fell flat across the board with Ryanair leading declines",
-      "url": "https://www.irishtimes.com/business/2026/07/13/spike-in-oil-prices-hits-stocks-in-travel-sector/",
-      "image": "https://www.irishtimes.com/resizer/v2/WSD5JCGMDCPKC6GVJVNJ6EAMOM.jpg?smart=true&auth=6b2bd0840fd8284aa772036bf7f3f12021f96d56f7e7bd0de7b15e47f2a1aa98&width=1200&height=630",
-      "publishedAt": "2026-07-13T18:45:03Z",
+      "title": "Iran-US war LIVE updates: Indian sailor killed in UAE tanker attack; Oil hits one-month high after Trump notifies congress US is \u2018in war\u2019",
+      "description": "Iran-US conflict escalates as the US resumes military strikes and naval blockade on Iran, imposing a 20% fee for shipping through the Strait of Hormuz. Iran vows retaliation amid rising oil prices and regional tensions.",
+      "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-military-attacks-hormuz-toll-oil-prices-today-uae-israel-gulf-latest/4290805/",
+      "image": "https://images.financialexpressdigital.com/2026/07/iran-us-war-live-trump-hormuz-updates.jpg",
+      "publishedAt": "2026-07-13T23:54:33Z",
       "source": {
-        "name": "The Irish Times"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "The Battle for Hormuz: Tensions Escalate Between the U.S. and Iran",
-      "description": "The United States, led by President Donald Trump, has reinstated a blockade on Iranian shipping through the Strait of Hormuz and plans to charge a fee for safe passage, escalating tensions with Iran. Hostilities have increased, with attacks from both sides threatening a fragile ceasefire and impacting global oil prices.",
-      "url": "https://www.devdiscourse.com/article/politics/3949713-the-battle-for-hormuz-tensions-escalate-between-the-us-and-iran",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-13T18:43:22Z",
+      "title": "Crude oil prices extend gains after biggest move since April; Brent near $85 a barrel",
+      "description": "West Texas Intermediate (WTI) or the US Crude gained as much as 9.4% on Monday and is up another 1% on Tuesday to trade near the $80 a barrel mark. Brent Crude rallied by a similar quantum overnight and is now near the mark of $85 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-today-brent-wti-surge-us-iran-tensions-strait-of-hormuz-trump-toll-fee-blockade-19944617.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-14-2026-05-20-35-am-1-2026-07-e4af5b82c6bb55843ab25553a973004a.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-13T23:51:39Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil Prices Surge 8% After Trump Reimposes Iran Blockade",
-      "description": "Oil prices jumped more than 8% on Monday after U.S. President Donald Trump announced the United States would reinstate its blockade on Iran, forcing traders to once again price in the risk of prolonged disruption to energy flows through the Strait of Hormuz.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Surge-8-After-Trump-Reimposes-Iran-Blockade.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-13_k70acowuqs.jpg",
-      "publishedAt": "2026-07-13T18:30:00Z",
+      "title": "Tuesday's big stock stories: What\u2019s likely to move the market in the next trading session",
+      "description": "President Donald Trump said he planned to reinstate what he called a blockade on Iranian shipping, sending oil prices higher and stocks lower on Monday.",
+      "url": "https://www.cnbc.com/2026/07/13/tuesdays-big-stock-stories-whats-likely-to-move-the-market-in-the-next-trading-session.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108327440-1782483970824-Traders-Photo-20260626-KK-PRESS-015.jpg?v=1782484337&w=1920&h=1080",
+      "publishedAt": "2026-07-13T23:36:15Z",
       "source": {
-        "name": "OilPrice"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Trump says US reinstates blockade of Iranian shipping, but Strait of Hormuz to remain open",
-      "description": "Trump declared a US blockade of Iranian shipping and plans to charge a 20% fee for passage through the Strait of Hormuz following recent missile and.Donald Trump, Strait of Hormuz, Iran shipping blockade, US Iran conflict, Gulf shipping crisis, Hormuz Strait fee, Iranian blockade, Truth Social, oil prices, Brent crude, US Central Command, Iran missile attacks, Iran drone attacks, Gulf tensions, Hormuz shipping route, global oil supply, Iran Revolutionary Guards, Bahrain missile interception, Kuwait US bases, Oman radar systems, Prince Hassan Air Base, Qeshm, Bandar Abbas, Abadan attack, US Iran ceasefire, Mohammad Baqer Qalibaf, Esmaeil Baghaei, MarineTraffic, freedom of navigation, international shipping, UN shipping agency, Iran Oman mechanism, Middle East conflict, energy security, oil market disruption, Gulf crisis, US foreign policy, Iran war news",
-      "url": "https://www.onmanorama.com/news/world/2026/07/13/trump-says-us-reinstates-blockade-of-iranian-shipping-in-hormuz.html",
-      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/world/images/2026/6/10/donald-trump.jpg",
-      "publishedAt": "2026-07-13T18:06:44Z",
+      "title": "Motorists to pay price for US blockade, toll in strait",
+      "description": "While the government is concerned about the impact on petrol prices, the opposition warns a US toll in the Strait of Hormuz would set a dangerous precedent.",
+      "url": "https://www.perthnow.com.au/news/politics/motorists-to-pay-price-for-us-blockade-toll-in-strait-c-22573520",
+      "image": "https://images.perthnow.com.au/publication/C-22573520/7c17ca1ae1dff15c4d24dc866d69087a3360d295-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-07-13T23:31:20Z",
       "source": {
-        "name": "Malayala Manorama"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Energy markets brace for prolonged Strait of Hormuz disruption",
-      "description": "Oil prices continued climbing on Monday amid escalating fighting between the United States and Iran as both sides claim control over the Strait of Hormuz.",
-      "url": "https://foxbaltimore.com/news/nation-world/energy-markets-brace-for-prolonged-strait-of-hormuz-disruption-iran-war-gas-prices-crude-oil-refineries",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/1920/1320/center/90/732ca67b-eb00-4b87-bb2b-dd29ad51d171-c53c0ae1473b4ec1a4a3885426e17cbe.png",
-      "publishedAt": "2026-07-13T18:02:08Z",
+      "title": "Motorists to pay price for US blockade, toll in strait",
+      "description": "While the government is concerned about the impact on petrol prices, the opposition warns a US toll in...",
+      "url": "https://www.canberratimes.com.au/story/9310140/motorists-to-pay-price-for-us-blockade-toll-in-strait/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/e40d0ee8-fd09-4610-bdee-12b89bb08670.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-07-13T23:30:01Z",
       "source": {
-        "name": "Baltimore News"
+        "name": "The Canberra Times"
       }
     },
     {
-      "title": "Energy markets brace for prolonged Strait of Hormuz disruption",
-      "description": "Oil prices continued climbing on Monday amid escalating fighting between the United States and Iran as both sides claim control over the Strait of Hormuz.",
-      "url": "https://wjla.com/news/nation-world/energy-markets-brace-for-prolonged-strait-of-hormuz-disruption-iran-war-gas-prices-crude-oil-refineries",
-      "image": "https://wjla.com/resources/media2/16x9/1920/1320/center/90/732ca67b-eb00-4b87-bb2b-dd29ad51d171-c53c0ae1473b4ec1a4a3885426e17cbe.png",
-      "publishedAt": "2026-07-13T18:02:08Z",
+      "title": "Jim Cramer says these 'Pavlovian trades' are the stocks that benefit when oil spikes",
+      "description": "CNBC's Jim Cramer said investors have gravitated toward a familiar group of stocks as oil prices climb.",
+      "url": "https://www.cnbc.com/2026/07/13/jim-cramer-stocks-benefit-when-oil-spikes.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109969-NUP_198430_00200r.jpg?v=1694042675&w=1920&h=1080",
+      "publishedAt": "2026-07-13T23:00:01Z",
       "source": {
-        "name": "WJLA"
+        "name": "CNBC"
       }
     }
   ]
