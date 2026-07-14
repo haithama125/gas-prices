@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-13T19:11:46+00:00",
+  "updated_at": "2026-07-14T01:26:44+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Market Jitters: U.S.-Iran Tensions Rattle European Shares",
-      "description": "European share markets opened lower after Tehran closed the Strait of Hormuz amid escalating tensions with the United States. The pan-European STOXX 600 index registered a minor decline as energy stocks climbed owing to a spike in oil prices. Investors await earnings season for more economic insights.",
-      "url": "https://www.devdiscourse.com/article/business/3949329-market-jitters-us-iran-tensions-rattle-european-shares",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_09_2025_02_29_19_67857.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-13T07:10:48Z",
+      "title": "US and Iran trade attacks as Strait of Hormuz dispute deepens",
+      "description": "By Elwely Elwelly, Tala Ramadan and Katharine JacksonDUBAI/WASHINGTON, July 13 (Reuters) - U.S. and Iranian forces exchanged missile and drone attacks on Monday and clashed over control the Strait of Hormuz, casting doubt on the viability of an interim deal to halt their war and driving oil prices higher.After Iran's announcement of the strait's closure over the weekend, U.S. President Donald Trump said on Monday the United States would probably take over the waterway and should be reimbursed for controlling the vital shipping route.",
+      "url": "https://www.al-monitor.com/originals/2026/07/us-and-iran-trade-attacks-strait-hormuz-dispute-deepens",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-07/2026-07-13T064901Z_1_LYNXMPEM6C09S_RTROPTP_4_IRAN-CRISIS-OMAN-HORMUZ.JPG?h=76b36f84&itok=VE0ClqcB",
+      "publishedAt": "2026-07-13T13:25:11Z",
+      "source": {
+        "name": "Al-Monitor"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices rising in Switzerland again",
+      "description": "Fuel prices in Switzerland have recently risen by 1.7%.",
+      "url": "https://www.swissinfo.ch/eng/various/petrol-and-diesel-prices-are-rising-again/91738980",
+      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/07/4083f529fd02ae9036584066f893773a8827bb4e-91738044.jpg?ver=39de46c4&fit=1200,900",
+      "publishedAt": "2026-07-13T13:20:41Z",
+      "source": {
+        "name": "Swissinfo (EN)"
+      }
+    },
+    {
+      "title": "Benz responds after YouTuber Sourav Joshi blames E20 petrol for mileage drop",
+      "description": "Mercedes-Benz India says their BS VI petrol cars are built and approved to run on E20 fuel without specifically mentioning YouTuber Sourav Joshi.",
+      "url": "https://www.tribuneindia.com/news/india/mercedes-benz-responds-after-youtuber-sourav-joshi-blames-e20-petrol-for-mileage-drop/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU0MmQyNzAwLTdlYmQtMTFmMS1hZmFlLTJkNzNlMTMwYzExYi5qcGc=",
+      "publishedAt": "2026-07-13T13:16:35Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Oil pangs resurface for rupee, options market gauge signals bearish bias",
+      "description": "The Indian rupee fell to its weakest level in over a month as oil prices surged following US-Iran strikes and Iran's claim of closing the Strait of Hormuz.",
+      "url": "https://www.moneycontrol.com/world/oil-pangs-resurface-for-rupee-options-market-gauge-signals-bearish-bias-article-13972805.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260409103540_rupee-banknote-bloomberg.jpg",
+      "publishedAt": "2026-07-13T13:13:39Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Wall Street Stumbles Amid U.S.-Iran Tensions and Volatile Chip Stocks",
+      "description": "Wall Street's main indexes faced a downturn as tensions between the U.S. and Iran escalated, pushing oil prices higher. This development, along with pressure on semiconductor stocks, disrupted investor sentiment. Key economic data and corporate earnings reports are awaited amid the ongoing U.S.-Iran geopolitical crisis.",
+      "url": "https://www.devdiscourse.com/article/business/3949534-wall-street-stumbles-amid-us-iran-tensions-and-volatile-chip-stocks",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_21_49_03_6672533.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-13T13:06:45Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Asian currencies weaken on renewed Gulf conflict, KOSPI tumbles 8%",
-      "description": "ASIAN currencies weakened against the U.S. dollar on Monday as renewed tension in the Middle East sent oil prices surging and revived fears of inflation, while South Korean shares fell 8% to trigger a circuit breaker, led lower by SK Hynix.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/07/13/asian-currencies-weaken-on-renewed-gulf-conflict-kospi-tumbles-8",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/13/4007580.png",
-      "publishedAt": "2026-07-13T07:07:00Z",
+      "title": "Baltimore gas prices jump 17 cents in a week to $3.86 a gallon, GasBuddy says",
+      "description": "Drivers are paying noticeably more at the pump this week, with average gas prices jumping 17 cents in the last seven days.Average gas prices in Baltimore have r",
+      "url": "https://foxbaltimore.com/news/local/baltimore-gas-prices-jump-gasbuddy",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/1280/1320/center/90/c342d75d-376b-406d-9f39-49068bf32a66-GasPumpWCHS.jpg",
+      "publishedAt": "2026-07-13T12:53:43Z",
       "source": {
-        "name": "The Star"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Stock Markets Slump in Early Trade on Rising Tensions in West Asia, Higher Oil Prices",
-      "description": "Stock Markets Slump in Early Trade on Rising Tensions in West Asia, Higher Oil Prices",
-      "url": "https://www.outlookbusiness.com/markets/stock-markets-slump-in-early-trade-on-rising-tensions-in-west-asia-higher-oil-prices",
-      "image": "https://media.assettype.com/outlookbusiness/2026-07-08/0jn0khml/oo.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-13T06:55:58Z",
+      "title": "US market today: Stock futures slip as West Asia tensions lift crude prices",
+      "description": "US stock futures fall as US-Iran hostilities escalate, pushing oil prices higher. Tech stocks decline ahead of key inflation data and corporate earnings reports.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-today-futures-nasdaq-dow-jones-west-asia-tensions-crude-prices-19944371.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-98-2026-07-2446e95fadbd5ddb65dad86d4f486be7.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-13T12:49:33Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
-      "description": "WASHINGTON/DUBAI, July 13 - U.S. and Iranian forces exchanged heavy missile and drone assaults, with Tehran targeting U.S. facilities in states across the Gulf and saying it had again closed the vital Strait of Hormuz, sending oil prices higher. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/30eb9420eefb8c755b82a20dad2196d2505c64110833c6da59241047bbe71471",
-      "publishedAt": "2026-07-13T06:50:28Z",
+      "title": "Mercedes-Benz Vehicles E20 Petrol Compatible In India? Company's Tweet Divides Internet",
+      "description": "Blending facts with fiction under duress? Netizens demand the truth (and nothing but the truth) on how E20 affects mileage and material of the vehicle. Meanwhile, the heart of all mudda/issues is water. Read the article to know why.",
+      "url": "https://in.mashable.com/tech/111910/mercedes-benz-vehicles-e20-petrol-compatible-in-india-companys-tweet-divides-internet",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/00-aa-banner-1200-x-675-2026-07-11t171257-1_bfa8.jpg",
+      "publishedAt": "2026-07-13T12:45:20Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Mashable India"
       }
     },
     {
-      "title": "Iran escalates attacks on US bases in Gulf states, warns of more 'incidents' in strait",
-      "description": "WASHINGTON/DUBAI, July 13 - U.S. and Iranian forces exchanged heavy missile and drone assaults, with Tehran targeting U.S. facilities in states across the Gulf and saying it had again closed the vital Strait of Hormuz, sending oil prices higher. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/iran-escalates-attacks-on-us-bases-in-gulf-states-warns-of-more-incidents-in-strait",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/30eb9420eefb8c755b82a20dad2196d2505c64110833c6da59241047bbe71471",
-      "publishedAt": "2026-07-13T06:50:28Z",
+      "title": "Refreshed US-Iran strikes enter second day",
+      "description": "DUBAI - US military strikes on Iran entered a second day on Monday in a new surge of fighting over the status of the Strait of Hormuz that endangered a fragile interim agreement and sent oil prices spiking.",
+      "url": "https://www.bangkokpost.com/world/3285379/refreshed-usiran-strikes-enter-second-day",
+      "image": "https://static.bangkokpost.com/media/content/20260713/c1_6153319_700.jpg",
+      "publishedAt": "2026-07-13T12:45:00Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices",
-      "description": "Iran's Guards say they targeted US facilities in Bahrain, Kuwait, Oman and Jordan.",
-      "url": "https://www.reuters.com/world/middle-east/iran-escalates-attacks-us-bases-gulf-states-warns-more-incidents-strait-2026-07-13/",
-      "image": "https://www.reuters.com/resizer/v2/YQIME74F3RMQ5MWEIOH6GXUEVI.jpg?auth=fa816db24faa2e028977c5c0e502a4d29b2ff2be2d062e890ea835d3b314b3f1&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-13T06:47:22Z",
+      "title": "Asda makes major change for shoppers filling up at petrol stations this month",
+      "description": "The supermarket will be making a change for motorists shopping in its stores up to July 31",
+      "url": "https://www.manchestereveningnews.co.uk/whats-on/shopping/asda-makes-major-change-shoppers-34281918",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article34282310.ece/ALTERNATES/s1200d/0_KV_MEN_Petrol_03.jpg",
+      "publishedAt": "2026-07-13T12:35:34Z",
       "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Petrol and diesel prices fall in July, EV tariffs updated",
-      "description": "AA Ireland's fuel price analysis shows that both petrol and diesel prices decreased in July compared to June",
-      "url": "https://www.rte.ie/news/business/2026/0713/1583047-aa-ireland-fuel-price-survey/",
-      "image": "https://www.rte.ie/images/0023ff4b-1600.jpg",
-      "publishedAt": "2026-07-13T06:43:47Z",
-      "source": {
-        "name": "RTE.ie"
-      }
-    },
-    {
-      "title": "Gold falls 1% on MCX, silver crashes by Rs 5.3k per kg amid renewed US-Iran war tensions",
-      "description": "Rising crude oil prices fueled concerns that inflationary pressures could persist, reinforcing expectations that the Federal Reserve may raise interest rates once more this year.",
-      "url": "https://www.indiatvnews.com/business/markets/gold-falls-1-pc-on-mcx-silver-crashes-by-rs-5-3k-per-kg-amid-renewed-us-iran-war-tensions-check-city-wise-rates-2026-07-13-1048069",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/goldsilverprice-1783924476.jpg",
-      "publishedAt": "2026-07-13T06:37:02Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "U.S. hits Iran as Gulf states targeted in flare-up over Hormuz",
-      "description": "U.S. strikes on Iran escalate tensions over the Strait of Hormuz, impacting Gulf allies and oil prices amid ongoing conflict.",
-      "url": "https://www.thehindu.com/news/international/us-hits-iran-as-gulf-states-targeted-in-flare-up-over-hormuz/article71216183.ece",
-      "image": "https://th-i.thgim.com/public/incoming/96jt4p/article71216233.ece/alternates/LANDSCAPE_1200/Logistics_GB_G5G28G83DEB.4.jpg.jpg",
-      "publishedAt": "2026-07-13T06:33:47Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Rupee hits one-month low as renewed Mideast conflict lifts oil prices",
-      "description": "The Indian rupee reached its weakest point in over a month on Monday. Renewed Middle East hostilities and Iran's Strait of Hormuz claim sent oil prices surging. State-run banks offered dollars, likely on behalf of the Reserve Bank of India. Markets had anticipated less severe escalation, but this risk is now back. India's upcoming trade and inflation data will offer further economic insights.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-hits-one-month-low-as-renewed-mideast-conflict-lifts-oil-prices/articleshow/132358838.cms",
-      "image": "https://img.etimg.com/thumb/msid-132358850,width-1200,height-630,imgsize-33708,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-13T06:31:00Z",
-      "source": {
-        "name": "The Economic Times"
+        "name": "Manchester Evening News"
       }
     }
   ]
