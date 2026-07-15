@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-15T13:11:50+00:00",
+  "updated_at": "2026-07-15T18:54:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil rises after US-Iran hostilities flare again with strikes on energy targets",
-      "description": "Oil prices increased as President Donald Trump reimposed naval blockades on Iranian ports. Iran retaliated with strikes on United States infrastructure in the region. Brent and West Texas Intermediate crude oil reached their highest levels in weeks. Attacks have deepened supply disruptions in the vital Strait of Hormuz. Hostilities have reignited doubts about a permanent halt to the ongoing conflict.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-us-iran-hostilities-flare-again-with-strikes-on-energy-targets/articleshow/132403669.cms",
-      "image": "https://img.etimg.com/thumb/msid-132403670,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T01:11:00Z",
+      "title": "Mutual funds cut cash allocation by over Rs 4,500 crore in June to 19-month low",
+      "description": "Mutual funds cut cash holdings by over Rs 4,563 crore to Rs 1.83 lakh crore in June, marking a 19-month low, as fund houses increased equity exposure amid a market rally. The move came as geopolitical tensions eased and crude oil prices declined. The Sensex and Nifty50 gained 2.98% and 2.06%, respectively, during June 2026.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-funds-cut-cash-allocation-by-over-rs-4500-crore-in-june-to-19-month-low/articleshow/132408603.cms",
+      "image": "https://img.etimg.com/thumb/msid-132408601,width-1200,height-630,imgsize-34433,overlay-etwealthmutualfunds/articleshow.jpg",
+      "publishedAt": "2026-07-15T06:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Global Market Today: Asian stocks rise after soft US CPI, Kospi rallies",
-      "description": "Asian shares advanced as softer US inflation data eased rate hike concerns. The artificial intelligence trade gained renewed strength, boosting technology stocks significantly. Oil prices rose for a third consecutive day due to escalating Middle East tensions. Investors are closely watching the semiconductor sector after a volatile trading session. Fed officials reiterated their commitment to controlling inflation despite recent positive data.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-soft-us-cpi-kospi-rallies/articleshow/132403636.cms",
-      "image": "https://img.etimg.com/thumb/msid-132403634,width-1200,height-630,imgsize-86136,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T01:05:00Z",
+      "title": "Oil rises to $86 after US restores Iran blockade, threatens strikes on energy targets",
+      "description": "Trump\u2019s restoration of naval blockade and fresh strikes in response to attacks on ships in Strait of Hormuz caused oil prices to hit a four-week high. Brent rose 1.72% and WTI surged 1.4%. US Central Command launched operation to degrade Iranian capabilities, with Trump threatening to strike energy targets.",
+      "url": "https://indianexpress.com/shorts/world/global-oil-prices-rise-us-iran-hostilities-strikes-targets-10787095/",
+      "image": "https://images.indianexpress.com/2026/06/oman-coast.jpg",
+      "publishedAt": "2026-07-15T06:37:25Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Indian Express"
       }
     },
     {
-      "title": "Expert warns scrapping fuel tax relief would be \u2018political suicide\u2019 amid looming petrol price spike",
-      "description": "Analysts are predicting oil prices could climb beyond $US100 a barrel.",
-      "url": "https://7news.com.au/sunrise/expert-warns-scrapping-fuel-tax-relief-would-be-political-suicide-amid-looming-petrol-price-spike-c-22579398",
-      "image": "https://images.7news.com.au/publication/C-22579398/087875f56626e9cf2b35454a6f678050831739f1-16x9-x0y0w1280h720.png?imwidth=1200",
-      "publishedAt": "2026-07-15T00:50:59Z",
+      "title": "Oil prices rise as hostilities worsen in West Asia",
+      "description": "Oil prices surge as U.S.-Iran tensions escalate, with Brent reaching $85.72 and WTI at $79.98 per barrel.",
+      "url": "https://www.thehindu.com/business/markets/oil-prices-rise-as-hostilities-worsen-in-west-asia/article71224170.ece",
+      "image": "https://th-i.thgim.com/public/news/international/tyex2m/article71224379.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
+      "publishedAt": "2026-07-15T06:36:37Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "US pump prices may climb back up to US$4 as resurgent oil prices rekindle inflation fears",
-      "description": "High pump prices have become a political headache for Trump and his Republican Party ahead of US midterm elections. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/economy/us-pump-prices-may-climb-back-up-to-us4-as-resurgent-oil-prices-rekindle-inflation-fears",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ad1f70ee4b14a8fcaff026293ffca151b0ebaf0454609454d9bdeacffe42a286",
-      "publishedAt": "2026-07-15T00:36:34Z",
+      "title": "Rupee rises 5 paise to 96.11 against U.S. dollar in early trade",
+      "description": "Rupee gains 5 paise to 96.11 against the U.S. dollar amid geopolitical tensions and rising crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-5-paise-to-9611-against-us-dollar-in-early-trade/article71224150.ece",
+      "image": "https://th-i.thgim.com/public/incoming/25ssge/article71146024.ece/alternates/LANDSCAPE_1200/iStock-1358183711%201.jpg",
+      "publishedAt": "2026-07-15T06:11:03Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Rupee slides to eight-week low as Middle East tensions, surging oil weigh on sentiment",
-      "description": "The Indian rupee reached an eight-week low against the dollar on Tuesday. High crude oil prices and safe-haven dollar demand pressured the currency. Overseas investors resumed selling local assets, further weakening the rupee. The Reserve Bank of India intervened to limit the currency's decline. The rupee has depreciated 1.4% in the current fiscal year.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-to-eight-week-low-as-middle-east-tensions-surging-oil-weigh-on-sentiment/articleshow/132403494.cms",
-      "image": "https://img.etimg.com/thumb/msid-132403493,width-1200,height-630,imgsize-9170,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T00:22:00Z",
+      "title": "Downstream Risks From Trump\u2019s War With Iran",
+      "description": "We Are Sleepwalking into a Global Collapse The mainstream media obsesses over oil prices. Every time a barrel jumps a few dollars, the pundits wring their hands. But they are missing the real story \u2014 the one that will crash civilization long before a gas pump runs dry. What I see, from my years tracking [\u2026]",
+      "url": "https://www.naturalnews.com/2026-07-15-downstream-risks-from-trumps-war-with-iran.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/iran-war-strait-of-hormuz-aluminum-2736-original.jpg",
+      "publishedAt": "2026-07-15T06:09:36Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Natural News"
       }
     },
     {
-      "title": "Middle East tensions push oil above $85, but equities show resilience on Trump's TACO trade",
-      "description": "Middle East tensions have pushed oil prices above eighty-five dollars a barrel. Indian equities declined moderately after recent geopolitical developments. Investors are betting on Donald Trump's tendency to de-escalate conflicts. This resilience suggests markets are accustomed to regional geopolitical tensions. Higher oil prices are negative for India, but investors expect rewards.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/middle-east-tensions-push-oil-above-85-but-equities-show-resilience-on-trumps-taco-trade/articleshow/132403480.cms",
-      "image": "https://img.etimg.com/thumb/msid-132403477,width-1200,height-630,imgsize-223810,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T00:15:00Z",
+      "title": "UP Shocker: Man's Hands Chopped Off With Axe After Dispute At Mahoba Petrol Pump - VIDEO",
+      "description": "A 28-year-old man allegedly had both hands chopped off with an axe after an argument at a petrol pump in Uttar Pradesh",
+      "url": "https://www.freepressjournal.in/india/up-shocker-mans-hands-chopped-off-with-axe-after-dispute-at-mahoba-petrol-pump-video",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-15/t75grsdv/BBC-28.jpg",
+      "publishedAt": "2026-07-15T05:58:44Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines",
-      "description": "Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the governor. Oil prices have spiked over nine percent after recent military actions.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-meets-bank-ceos-to-discuss-ai-geopolitics-and-ecl-guidelines/articleshow/132403469.cms",
-      "image": "https://img.etimg.com/thumb/msid-132403466,width-1200,height-630,imgsize-234630,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T00:09:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "China\u2019s Growth Misses, but AI and Oil Prices Snap Its 3-Year Deflation Streak",
-      "description": "China\u2019s Growth Misses, but AI and Oil Prices Snap Its 3-Year Deflation Streak - Nominal GDP growth outpaces real growth for first time since early 2023, though sluggish demand signals need for further stimulus",
-      "url": "https://www.caixinglobal.com/2026-07-15/chinas-growth-misses-but-ai-and-oil-prices-snap-its-3-year-deflation-streak-102464387.html",
-      "image": "https://img.caixin.com/2026-07-15/178409300643948_560_373.jpg",
-      "publishedAt": "2026-07-15T00:00:00Z",
-      "source": {
-        "name": "Caixin"
-      }
-    },
-    {
-      "title": "China Can Shield Its Economy From the Iran War, Economist Says",
-      "description": "China Can Shield Its Economy From the Iran War, Economist Says - Oxford Economics\u2019 Betty Wang Rui says the country\u2019s vast oil reserves will cushion the shock of rising oil prices, but warns a prolonged conflict could erode already sluggish consumer spending",
-      "url": "https://www.caixinglobal.com/2026-07-15/china-can-shield-its-economy-from-the-iran-war-economist-says-102464549.html",
-      "image": "https://img.caixin.com/2026-07-15/178411125402581_560_373.jpg",
-      "publishedAt": "2026-07-15T00:00:00Z",
-      "source": {
-        "name": "Caixin"
-      }
-    },
-    {
-      "title": "Tensions Surge in US-Iran Strait of Hormuz Conflict",
-      "description": "The U.S. has reimposed a naval blockade on Iran amid escalating tensions. President Trump threatens to target energy infrastructures unless Iran resumes negotiations. Iran retaliates with drone strikes and missile attacks. The conflict has raised oil prices and disrupted global energy supplies.",
-      "url": "https://www.devdiscourse.com/article/politics/3950410-tensions-surge-in-us-iran-strait-of-hormuz-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/14_07_2026_22_58_16_0441424.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-14T23:48:06Z",
+      "title": "Markets Rally as Inflation Eases: AI Stocks in the Spotlight",
+      "description": "Stocks surged on Wednesday following a surprise slowdown in U.S. inflation, reducing expectations for interest rate hikes. AI stocks showed volatility, reflecting market uncertainty. European markets saw mixed futures performance, while Wall Street banks enjoyed stellar earnings. Meanwhile, China's economic growth slowed, and oil prices stabilized amidst geopolitical tensions.",
+      "url": "https://www.devdiscourse.com/article/business/3950486-markets-rally-as-inflation-eases-ai-stocks-in-the-spotlight",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_10_11_18_5287741.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-15T05:58:43Z",
       "source": {
         "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices rise as Trump threatens further strikes on Iran",
+      "description": "US resumes blockade on the Islamic Republic\u2019s shipping through the Strait of Hormuz",
+      "url": "https://www.irishtimes.com/business/2026/07/15/oil-prices-rise-as-trump-threatens-further-strikes-on-iran/",
+      "image": "https://www.irishtimes.com/resizer/v2/GBGWQOMNBH4PFKRXIDSNYILBKU.jpg?smart=true&auth=3abb34a2fe6081ea7954de536296caf498209ee5c4a7dd5b4c533a8471d831bf&width=1200&height=630",
+      "publishedAt": "2026-07-15T05:54:05Z",
+      "source": {
+        "name": "The Irish Times"
+      }
+    },
+    {
+      "title": "China's Electric Taxi Revolution: A New Buffer Against Oil Shocks",
+      "description": "China's transport structure sees a significant rise in electric taxis and ridesharing usage. As oil prices climb, these electric options provide a cheaper alternative, reducing China's oil dependency. With 50% of taxis now electric, gasoline demand has dropped, positioning China against global oil price fluctuations.",
+      "url": "https://www.devdiscourse.com/article/business/3950481-chinas-electric-taxi-revolution-a-new-buffer-against-oil-shocks",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_06_2024_05_00_25_7385093.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-15T05:48:06Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil rises to $86 after US restores Iran blockade, threatens strikes on energy targets",
+      "description": "On Tuesday, oil prices hit a four-week high, rising 2%, as attacks deepened a supply crisis in the Strait of Hormuz -- a strategic water channel that aided the transport of one-fifth of global energy supplies during the pre-war period.",
+      "url": "https://indianexpress.com/article/world/global-oil-prices-rise-us-iran-hostilities-strikes-targets-10787095/",
+      "image": "https://images.indianexpress.com/2026/06/oman-coast.jpg",
+      "publishedAt": "2026-07-15T05:47:56Z",
+      "source": {
+        "name": "The Indian Express"
       }
     }
   ]
