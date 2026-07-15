@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-15T07:50:15+00:00",
+  "updated_at": "2026-07-15T13:11:50+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Crude Oil Prices Rise as US-Iran Hostilities Continue",
-      "description": "August WTI crude oil (CLQ26 ) on Tuesday closed up +1.20 (+1.54%), and August RBOB gasoline (RBQ26 ) closed up +0.0610 (+1.93%). Crude oil and gasoline prices added to Monday\u2019s gains on Tuesday, with crude posting a 1-month high and gasoline posting...",
-      "url": "https://www.barchart.com/story/news/3281129/crude-oil-prices-rise-as-us-iran-hostilities-continue",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Crude%20oil%20unloading%20dock%20by%20Surapol%20Usanakul%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-14T19:20:18Z",
+      "title": "Oil rises after US-Iran hostilities flare again with strikes on energy targets",
+      "description": "Oil prices increased as President Donald Trump reimposed naval blockades on Iranian ports. Iran retaliated with strikes on United States infrastructure in the region. Brent and West Texas Intermediate crude oil reached their highest levels in weeks. Attacks have deepened supply disruptions in the vital Strait of Hormuz. Hostilities have reignited doubts about a permanent halt to the ongoing conflict.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-rises-after-us-iran-hostilities-flare-again-with-strikes-on-energy-targets/articleshow/132403669.cms",
+      "image": "https://img.etimg.com/thumb/msid-132403670,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T01:11:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Consolidate Above Monday\u2019s 2-Month Low",
-      "description": "August Nymex natural gas (NGQ26 ) on Tuesday closed up +0.007 (+0.24%). Nat-gas prices settled slightly higher on Tuesday as they consolidated above Monday\u2019s 2-month low. The outlook for cooler US temperatures is weighing on prices, as the cooler wea...",
-      "url": "https://www.barchart.com/story/news/3281090/nat-gas-prices-consolidate-above-mondays-2-month-low",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-07-14T19:18:30Z",
+      "title": "Global Market Today: Asian stocks rise after soft US CPI, Kospi rallies",
+      "description": "Asian shares advanced as softer US inflation data eased rate hike concerns. The artificial intelligence trade gained renewed strength, boosting technology stocks significantly. Oil prices rose for a third consecutive day due to escalating Middle East tensions. Investors are closely watching the semiconductor sector after a volatile trading session. Fed officials reiterated their commitment to controlling inflation despite recent positive data.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-rise-after-soft-us-cpi-kospi-rallies/articleshow/132403636.cms",
+      "image": "https://img.etimg.com/thumb/msid-132403634,width-1200,height-630,imgsize-86136,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T01:05:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Tensions Surge as U.S. Reinforces Blockade",
-      "description": "Oil prices rose after the U.S. reinstated a naval blockade on Iran, impacting flows through the Strait of Hormuz. This geopolitical tension, combined with concerns about inflation and economic growth, affects global oil markets. Attacks between the U.S. and Iran continue, while market eyes await U.S. oil storage data.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3950350-oil-tensions-surge-as-us-reinforces-blockade",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_06_2025_11_58_05_6379147.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-14T19:12:58Z",
+      "title": "Expert warns scrapping fuel tax relief would be \u2018political suicide\u2019 amid looming petrol price spike",
+      "description": "Analysts are predicting oil prices could climb beyond $US100 a barrel.",
+      "url": "https://7news.com.au/sunrise/expert-warns-scrapping-fuel-tax-relief-would-be-political-suicide-amid-looming-petrol-price-spike-c-22579398",
+      "image": "https://images.7news.com.au/publication/C-22579398/087875f56626e9cf2b35454a6f678050831739f1-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2026-07-15T00:50:59Z",
+      "source": {
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "US pump prices may climb back up to US$4 as resurgent oil prices rekindle inflation fears",
+      "description": "High pump prices have become a political headache for Trump and his Republican Party ahead of US midterm elections. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/economy/us-pump-prices-may-climb-back-up-to-us4-as-resurgent-oil-prices-rekindle-inflation-fears",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ad1f70ee4b14a8fcaff026293ffca151b0ebaf0454609454d9bdeacffe42a286",
+      "publishedAt": "2026-07-15T00:36:34Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Rupee slides to eight-week low as Middle East tensions, surging oil weigh on sentiment",
+      "description": "The Indian rupee reached an eight-week low against the dollar on Tuesday. High crude oil prices and safe-haven dollar demand pressured the currency. Overseas investors resumed selling local assets, further weakening the rupee. The Reserve Bank of India intervened to limit the currency's decline. The rupee has depreciated 1.4% in the current fiscal year.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-slides-to-eight-week-low-as-middle-east-tensions-surging-oil-weigh-on-sentiment/articleshow/132403494.cms",
+      "image": "https://img.etimg.com/thumb/msid-132403493,width-1200,height-630,imgsize-9170,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T00:22:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Middle East tensions push oil above $85, but equities show resilience on Trump's TACO trade",
+      "description": "Middle East tensions have pushed oil prices above eighty-five dollars a barrel. Indian equities declined moderately after recent geopolitical developments. Investors are betting on Donald Trump's tendency to de-escalate conflicts. This resilience suggests markets are accustomed to regional geopolitical tensions. Higher oil prices are negative for India, but investors expect rewards.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/middle-east-tensions-push-oil-above-85-but-equities-show-resilience-on-trumps-taco-trade/articleshow/132403480.cms",
+      "image": "https://img.etimg.com/thumb/msid-132403477,width-1200,height-630,imgsize-223810,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T00:15:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "RBI governor meets bank CEOs to discuss AI, geopolitics and ECL guidelines",
+      "description": "Central bank governor Sanjay Malhotra met bank chief executives on Tuesday. Geopolitical complexities and artificial intelligence were key discussion points. New expected credit loss guidelines also featured in the important talks. Some banks shared their FCNR(B) scheme inflow estimates with the governor. Oil prices have spiked over nine percent after recent military actions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-governor-meets-bank-ceos-to-discuss-ai-geopolitics-and-ecl-guidelines/articleshow/132403469.cms",
+      "image": "https://img.etimg.com/thumb/msid-132403466,width-1200,height-630,imgsize-234630,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T00:09:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "China\u2019s Growth Misses, but AI and Oil Prices Snap Its 3-Year Deflation Streak",
+      "description": "China\u2019s Growth Misses, but AI and Oil Prices Snap Its 3-Year Deflation Streak - Nominal GDP growth outpaces real growth for first time since early 2023, though sluggish demand signals need for further stimulus",
+      "url": "https://www.caixinglobal.com/2026-07-15/chinas-growth-misses-but-ai-and-oil-prices-snap-its-3-year-deflation-streak-102464387.html",
+      "image": "https://img.caixin.com/2026-07-15/178409300643948_560_373.jpg",
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "source": {
+        "name": "Caixin"
+      }
+    },
+    {
+      "title": "China Can Shield Its Economy From the Iran War, Economist Says",
+      "description": "China Can Shield Its Economy From the Iran War, Economist Says - Oxford Economics\u2019 Betty Wang Rui says the country\u2019s vast oil reserves will cushion the shock of rising oil prices, but warns a prolonged conflict could erode already sluggish consumer spending",
+      "url": "https://www.caixinglobal.com/2026-07-15/china-can-shield-its-economy-from-the-iran-war-economist-says-102464549.html",
+      "image": "https://img.caixin.com/2026-07-15/178411125402581_560_373.jpg",
+      "publishedAt": "2026-07-15T00:00:00Z",
+      "source": {
+        "name": "Caixin"
+      }
+    },
+    {
+      "title": "Tensions Surge in US-Iran Strait of Hormuz Conflict",
+      "description": "The U.S. has reimposed a naval blockade on Iran amid escalating tensions. President Trump threatens to target energy infrastructures unless Iran resumes negotiations. Iran retaliates with drone strikes and missile attacks. The conflict has raised oil prices and disrupted global energy supplies.",
+      "url": "https://www.devdiscourse.com/article/politics/3950410-tensions-surge-in-us-iran-strait-of-hormuz-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/14_07_2026_22_58_16_0441424.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-14T23:48:06Z",
       "source": {
         "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Rupee breaches 96-level to one-month low",
-      "description": "The rupee slipped past 96 per dollar amid renewed US-Iran tensions, rising oil prices, and stronger US Treasury yields, pressuring India's currency and economy while RBI intervenes to curb volatility.",
-      "url": "https://www.financialexpress.com/market/rupee-breaches-96-level-to-one-month-low-4291749/",
-      "image": "https://images.financialexpressdigital.com/2026/07/Untitled-design-13-1_20260323162755_20260327043609_20260330164634_20260403175216_20260421061009_20260529125145_20260531123505_20260612181549_20260714063521_20260714184954.png",
-      "publishedAt": "2026-07-14T18:50:28Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "U.S. shares hold steadier",
-      "description": "Stocks are holding steadier Tuesday after a report showed\u00a0U.S. inflation was not as bad\u00a0last month as economists expected. That was even though oil prices continue to jump on worries that the United States and Iran\u00a0may return to all-out war.",
-      "url": "https://www.cp24.com/news/money/2026/07/14/us-stocks-hold-steadier-after-inflation-data-even-as-ibm-plunges/",
-      "image": "https://www.cp24.com/resizer/v2/CLXF2N2KMQMTCUIKSIAH4CRGIM.jpg?smart=true&auth=f04c85f4877369ae25d03c86d5ba84024d2ea6cb32e95485dd8e1b4753d5c735&width=1200&height=630",
-      "publishedAt": "2026-07-14T18:36:31Z",
-      "source": {
-        "name": "CP24 Toronto"
-      }
-    },
-    {
-      "title": "U.S. shares hold steadier",
-      "description": "Stocks are holding steadier Tuesday after a report showed\u00a0U.S. inflation was not as bad\u00a0last month as economists expected. That was even though oil prices continue to jump on worries that the United States and Iran\u00a0may return to all-out war.",
-      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/07/14/us-stocks-hold-steadier-after-inflation-data-even-as-ibm-plunges/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/CLXF2N2KMQMTCUIKSIAH4CRGIM.jpg?smart=true&auth=f04c85f4877369ae25d03c86d5ba84024d2ea6cb32e95485dd8e1b4753d5c735&width=1200&height=630",
-      "publishedAt": "2026-07-14T18:36:31Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "U.S. CPI slowdown lowers odds of July Fed hike",
-      "description": "Softer U.S. inflation reduced expectations for a July Fed rate hike, but rising oil prices could keep future increases on the table.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/07/14/market-outlook-soft-us-inflation-eases-fed-rate-hike-pressure/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/TCGHOVCH5I2GLJQOAONDO3RLDA.jpg?smart=true&auth=e3882ba094f279b8e8617c7e8baf7a2d2ee5255ffe866046dddfdce4652327f7&width=1200&height=630",
-      "publishedAt": "2026-07-14T18:18:17Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "US stocks hold steadier after inflation data, even as IBM plunges",
-      "description": "Stocks are holding steadier after a report showed U.S. inflation is getting less bad. Tuesday's gains came even though oil prices continue to jump on worries that the United States and Iran may return to all-out war. The S&P 500 rose 0.4%, the Dow Jones Industrial Average dipped 56 points and the Nasdaq composite gained 1.1%. Stocks got a lift from easing yields in the bond market, which fell following the better-than-expected inflation data. Chip stocks and other AI winners rebounded, while big U.S. banks reported stronger profits than expected. IBM was an outlier and fell sharply.",
-      "url": "https://www.ajc.com/news/2026/07/us-stocks-hold-steadier-after-inflation-data-even-as-ibm-plunges/",
-      "image": "https://images.ajc.com/resizer/v2/653QDGFXYVDGPPC5OORCLLGBUI.jpg?auth=a0d082344efa85a0d99edfc937cb4edc638379a35e614bc1ba208c313adeac7f&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-14T18:12:48Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Global Oil Prices Surge Amid U.S.-Iran Tensions",
-      "description": "Oil prices reached a one-month high after the U.S. reimposed a naval blockade on Iran, escalating tensions in the Strait of Hormuz. This impacts global energy flow and raises inflation concerns. U.S. crude and Brent futures rose, despite inflation worries affecting demand. Oil inventories are under scrutiny.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3950327-global-oil-prices-surge-amid-us-iran-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_07_2024_14_51_17_5993274.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-14T18:11:28Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Rupee falls below 96 as crude oil prices go up",
-      "description": "The local currency touched a low of 96.24 to the dollar, its weakest level since May 22, before ending the session down 0.6% at 96.20",
-      "url": "https://www.newindianexpress.com/business/2026/Jul/14/rupee-falls-below-96-as-crude-oil-prices-go-up",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-06-10%2Fdizcta3t%2FANI_20260610075418.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-14T17:58:24Z",
-      "source": {
-        "name": "The New Indian Express"
       }
     }
   ]
