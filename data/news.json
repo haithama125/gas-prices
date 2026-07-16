@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-16T07:55:12+00:00",
+  "updated_at": "2026-07-16T13:19:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India's first consumer court order on E20 goes in Chhattisgarh vehicle owner's favour",
-      "description": "The Raipur consumer commission ruled for a vehicle owner who blamed E20 petrol for recurring engine trouble. The order highlights fuel choice constraints and fixes liability for repair costs and compensation.",
-      "url": "https://www.indiatoday.in/india/story/chhattisgarh-e20-petrol-consumer-court-raipur-car-owner-engine-damage-ruling-2948855-2026-07-16",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/iit-kanpur-research-finds-no-evidence-of-engine-harm-by-e20-154537138-16x9_0.jpg?VersionId=8Hk45.LLuY82H4faFXLSjcuC0L4H0izU",
-      "publishedAt": "2026-07-15T19:54:18Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Dollar Dips Amid Softer U.S. Inflation and Rising Middle East Tensions",
-      "description": "The dollar declined against major currencies, influenced by softer U.S. inflation data and conflicts with Iran. The U.S. Producer Price Index fell, boosting Fed patience over interest rates. While easing inflation pressures weighed on the dollar, Middle East tensions sustained high oil prices, impacting its outlook.",
-      "url": "https://www.devdiscourse.com/article/business/3950938-dollar-dips-amid-softer-us-inflation-and-rising-middle-east-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_20_01_20_8092646.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-15T19:50:43Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "India raises windfall tax on diesel & ATF exports, cuts tariff on petrol",
-      "description": "Diesel export levy raised to Rs 15.5/litre, ATF to Rs 14.5/litre; petrol duty cut to Rs 2.5/litre.",
-      "url": "https://www.tribuneindia.com/news/business/india-raises-windfall-tax-on-diesel-atf-exports-cuts-tariff-on-petrol/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4ZWM0ZmEwLTgwODYtMTFmMS1hMjIxLWM3MTFjYjk5YTdlZS5qcGc=",
-      "publishedAt": "2026-07-15T19:48:56Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "If inflation is 'cooling,' why are prices still so high?",
-      "description": "Consumers learned this week that inflation \u201ccooled\u201d in June , thanks in part to falling gas prices. But prices still rose. In fact, the 3.5% annual inflati",
-      "url": "https://www.newsbreak.com/usa-today-560565/4772395846415-if-inflation-is-cooling-why-are-prices-still-so-high",
-      "image": "https://img.particlenews.com/img/id/3l78cX_1DKmJDmT00",
-      "publishedAt": "2026-07-15T19:43:38Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Flex-fuel vehicles better fit for India than E25 rollout: AIDA",
-      "description": "A national debate has been raging over the impact of 20% ethanol-blended petrol (E20) on the engines and fuel efficiency of vehicles not designed to run on such fuel, with many consumers demanding either a rollback of the programme or the option to buy petrol with a lower or zero ethanol blend.",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/flex-fuel-vehicles-better-fit-for-india-than-e25-rollout-aida/articleshow/132424007.cms",
-      "image": "https://img.etimg.com/thumb/msid-132424565,width-1200,height-630,imgsize-49448,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-15T19:37:00Z",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Benchmark indices experienced volatility on Wednesday amid the ongoing Q1 earnings season. Profit booking occurred after an intraday high, limiting market upside. A weaker rupee and firm crude oil prices contributed to cautious investor sentiment. Analysts anticipate the index will continue its consolidation within a specific range. India VIX, a fear gauge, saw a notable decrease during the session.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132427427.cms",
+      "image": "https://img.etimg.com/thumb/msid-132427428,width-1200,height-630,imgsize-31848,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-16T01:14:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Higher gas prices affecting summer plans, survey finds",
-      "description": "Rising gas prices have many families rethinking their summer vacation plans, according to a new survey.",
-      "url": "https://www.cp24.com/news/canada/2026/07/15/higher-gas-prices-affecting-summer-plans-survey-finds/",
-      "image": "https://www.cp24.com/resizer/v2/PVDDXQE275CD5EKIATTV3CKL4M.JPG?smart=true&auth=a7e73510b39420dd9207efb5525ecb032c7afc081952d263dafda13823cac46d&width=1200&height=630",
-      "publishedAt": "2026-07-15T19:26:19Z",
+      "title": "Global Market Today: Asian equities drop led by Kospi, oil extends gain",
+      "description": "Asian stocks declined as semiconductor shares faced renewed selling pressure. Crude oil prices climbed higher due to fresh strikes in the Middle East. Government bonds in Australia and New Zealand opened higher after US inflation data. Traders reduced expectations for Federal Reserve interest rate increases this year. Investors assess if strong earnings can sustain the artificial intelligence rally.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-equities-drop-led-by-kospi-oil-extends-gain/articleshow/132427394.cms",
+      "image": "https://img.etimg.com/thumb/msid-132427390,width-1200,height-630,imgsize-107306,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-16T01:04:00Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Oil Prices Move Higher on the Prospects of Tighter Global Supplies",
-      "description": "August WTI crude oil (CLQ26 ) on Wednesday closed up +0.26 (+0.33%), and August RBOB gasoline (RBQ26 ) closed up +0.0736 (+2.28%). Crude oil and gasoline prices settled higher on Wednesday, with gasoline up sharply at a 7-week high. Crude prices foun...",
-      "url": "https://www.barchart.com/story/news/3302956/crude-oil-prices-move-higher-on-the-prospects-of-tighter-global-supplies",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
-      "publishedAt": "2026-07-15T19:14:32Z",
+      "title": "Oil prices rise for fourth day, Brent above $85 as US strikes on Iran revive Hormuz supply fears",
+      "description": "Brent and WTI hovered near one-month highs as renewed US-Iran hostilities threatened energy flows through the Strait of Hormuz; Goldman Sachs said Brent could exceed $110 if Gulf exports remain constrained.",
+      "url": "https://www.moneycontrol.com/news/business/commodities/oil-prices-rise-for-fourth-day-brent-above-85-as-us-strikes-on-iran-revive-hormuz-supply-fears-13975118.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260616163241_oiliran.png",
+      "publishedAt": "2026-07-16T00:56:20Z",
       "source": {
-        "name": "Barchart"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Forecasts for Hot US Temps Boost Nat-Gas Prices",
-      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.020 (+0.69%). Nat-gas prices settled higher on Wednesday as forecasts for above-average US temperatures are expected to boost nat-gas demand from electricity suppliers to power air-condition...",
-      "url": "https://www.barchart.com/story/news/3302934/forecasts-for-hot-us-temps-boost-nat-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Weather/Heat%20records%20road%20sign%20by%20Icatnews%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-15T19:13:25Z",
+      "title": "Oil prices rise for 4th day as US strikes on Iran raise fears of wider conflict",
+      "description": "Oil prices rose for a fourth straight day on Thursday after a new wave of U.S. strikes on Iranian military installations fuelled \u200bfears of renewed full-scale conflict and supply disruptions in the Strait \u200cof Hormuz.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-4th-day-us-strikes-iran-raise-fears-wider-conflict-2026-07-16/",
+      "image": "https://www.reuters.com/resizer/v2/SDB4YQ2VZRJ2DIBVALB2BW4SDM.jpg?auth=b0a979412254c0c64374538c54ff54fe7d7a497cca59801b2a245c35a9f0ca40&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-16T00:43:40Z",
       "source": {
-        "name": "Barchart"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices threaten further Wall Street gains",
-      "description": "Strong financial earnings are supporting Wall Street sentiment, but rising oil prices and geopolitical tensions remain key risks.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/07/15/market-outlook-strong-bank-earnings-boost-financial-stocks-higher/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/5WIN4RPR6BFNNKZ45HAZV7DCZY.jpg?smart=true&auth=1afb1915cebf66f84e33778f4f09145c1b6ec8d026e8091752860665cbbcba5f&width=1200&height=630",
-      "publishedAt": "2026-07-15T18:55:37Z",
+      "title": "US data surprise eases rate hike fears, also cheers D-Street",
+      "description": "Indian equities closed higher, mirroring gains across Asian markets after US inflation data. Oil prices around $85 a barrel limited upside, raising supply disruption concerns. The NSE Nifty rose 26.5 points, while the BSE Sensex gained 130.5 points. Geopolitical tensions in the Middle East have made investor sentiment cautious recently. Foreign portfolio investors sold shares, while domestic institutional investors bought equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/us-data-surprise-eases-rate-hike-fears-also-cheers-d-street/articleshow/132427270.cms",
+      "image": "https://img.etimg.com/thumb/msid-132427267,width-1200,height-630,imgsize-26662,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-16T00:16:00Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Why Australians shouldn't panic about latest surge in oil prices and state of supply",
-      "description": "With the price of oil rising and the fuel excise cut due to end, drivers are facing twin threats when it comes to the price of fuel, but experts say Australia is in a much better position compared with when the Middle East conflict began.",
-      "url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442",
-      "image": "https://live-production.wcms.abc-cdn.net.au/bc1ab9c96678db0235f3d99d18ae2756?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-07-15T18:48:56Z",
+      "title": "Asian shares mostly decline with South Korea's Kospi down 6.6%, while oil prices slip",
+      "description": "Asian shares are mostly lower and oil prices have fallen despite back-and-forth strikes between the U.S. and Iran. HONG KONG (AP) \u2014 Asian shares",
+      "url": "https://www.breitbart.com/news/asian-shares-mostly-decline-with-south-koreas-kospi-down-6-6-while-oil-prices-slip/",
+      "image": "https://media.breitbart.com/media/2026/07/wi/ap/south-korea-financial-markets-61562-south-korea-financial-markets-currency-traders-watch-monitors-640x335.jpg",
+      "publishedAt": "2026-07-15T23:19:11Z",
       "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "President Trump discusses Iran, economy at defense summit in Pennsylvania",
+      "description": "President Donald Trump said Iran's IRGC has lost roughly 91% of its weapons capabilities following U.S. strikes while discussing oil prices, inflation and the economy.",
+      "url": "https://www.foxbusiness.com/politics/trump-us-rebuilding-military-irans-irgc-loses-90-percent-weapons-capability",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/07/0/0/trump-defense-innovation-summit.jpg?ve=1&tl=1",
+      "publishedAt": "2026-07-15T22:49:47Z",
+      "source": {
+        "name": "Fox Business"
+      }
+    },
+    {
+      "title": "Trump Signals Ship Procurement Plans, Anticipates Oil at $55/bbl Amid Iran Developments",
+      "description": "Trump announced plans to purchase ships manufactured outside the region and stated expectations that oil prices would reach $55 per barrel when Iran settles down. The remarks connect energy price movement to geopolitical developments surrounding Iran. No additional details on procurement timelines or specific conditions for the oil price target were provided in the available information.",
+      "url": "https://scanx.trade/stock-market-news/global/trump-signals-ship-procurement-plans-anticipates-oil-at-55-bbl-amid-iran-developments/45699813",
+      "image": "http://news-images.dhan.co/trump-signals-ship-procurement-plans-anticipates-oil-at-55-bbl-amid-iran-developments.jpg",
+      "publishedAt": "2026-07-15T22:23:48Z",
+      "source": {
+        "name": "scanx.trade"
+      }
+    },
+    {
+      "title": "Trump Favors Rate Pause Over Hike, Expects Lower Inflation by Year-End",
+      "description": "Trump stated that pausing interest rates is preferable to raising them and expects inflation to decline by year-end. He described oil prices as likely to \"yo-yo\" for a period, reflecting anticipated near-term volatility in energy markets. On trade, Trump expressed a desire for tariffs to be implemented at a faster pace.",
+      "url": "https://scanx.trade/stock-market-news/global/trump-favors-rate-pause-over-hike-expects-lower-inflation-by-year-end/45699664",
+      "image": "http://news-images.dhan.co/trump-favors-rate-pause-over-hike-expects-lower-inflation-by-year-end.jpg",
+      "publishedAt": "2026-07-15T22:21:20Z",
+      "source": {
+        "name": "scanx.trade"
+      }
+    },
+    {
+      "title": "How much is this Iran war costing you at the gas pump?",
+      "description": "Gas prices are up 94 cents a gallon since the start of the unprovoked U.S.-Israeli military attacks on Iran on Feb. 28.",
+      "url": "https://augustafreepress.com/news/how-much-is-this-iran-war-costing-you-at-the-gas-pump-more-than-you-thought/",
+      "image": "https://augustafreepress.com/wp-content/uploads/2023/08/gas-prices-1.jpg",
+      "publishedAt": "2026-07-15T22:16:50Z",
+      "source": {
+        "name": "Augusta Free Press"
       }
     }
   ]
