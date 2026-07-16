@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-15T18:54:48+00:00",
+  "updated_at": "2026-07-16T01:43:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mutual funds cut cash allocation by over Rs 4,500 crore in June to 19-month low",
-      "description": "Mutual funds cut cash holdings by over Rs 4,563 crore to Rs 1.83 lakh crore in June, marking a 19-month low, as fund houses increased equity exposure amid a market rally. The move came as geopolitical tensions eased and crude oil prices declined. The Sensex and Nifty50 gained 2.98% and 2.06%, respectively, during June 2026.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-funds-cut-cash-allocation-by-over-rs-4500-crore-in-june-to-19-month-low/articleshow/132408603.cms",
-      "image": "https://img.etimg.com/thumb/msid-132408601,width-1200,height-630,imgsize-34433,overlay-etwealthmutualfunds/articleshow.jpg",
-      "publishedAt": "2026-07-15T06:45:00Z",
+      "title": "830 litre of stolen fuel seized, 1 held",
+      "description": "Chittaurgarh Police and DST seized 830 litres of stolen petrol-diesel from illegal storage in Bhadsoda, arresting Prem Shankar Mali for illegal sale.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/830-litre-of-stolen-fuel-seized-1-held/articleshow/132417300.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132417299,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-15T13:26:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Euro zone bond yields tick higher along with oil prices after big swings",
+      "description": "Bond yields in the Euro zone experienced a slight uptick on Wednesday, driven by rising oil prices linked to the U.S.-Iran tensions that threaten energy channels. Germany's 2-year bond yield reacted accordingly, highlighting concerns over future central bank rate increases. Although U.S. inflation reports suggested a decrease, the looming energy price pressures cast uncertainty over economic stability.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132417193.cms",
+      "image": "https://img.etimg.com/thumb/msid-132417193,width-1200,height-630,imgsize-1026865,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-15T13:19:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil rises to $86 after US restores Iran blockade, threatens strikes on energy targets",
-      "description": "Trump\u2019s restoration of naval blockade and fresh strikes in response to attacks on ships in Strait of Hormuz caused oil prices to hit a four-week high. Brent rose 1.72% and WTI surged 1.4%. US Central Command launched operation to degrade Iranian capabilities, with Trump threatening to strike energy targets.",
-      "url": "https://indianexpress.com/shorts/world/global-oil-prices-rise-us-iran-hostilities-strikes-targets-10787095/",
-      "image": "https://images.indianexpress.com/2026/06/oman-coast.jpg",
-      "publishedAt": "2026-07-15T06:37:25Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.courant.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "Hartford Courant"
       }
     },
     {
-      "title": "Oil prices rise as hostilities worsen in West Asia",
-      "description": "Oil prices surge as U.S.-Iran tensions escalate, with Brent reaching $85.72 and WTI at $79.98 per barrel.",
-      "url": "https://www.thehindu.com/business/markets/oil-prices-rise-as-hostilities-worsen-in-west-asia/article71224170.ece",
-      "image": "https://th-i.thgim.com/public/news/international/tyex2m/article71224379.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
-      "publishedAt": "2026-07-15T06:36:37Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.sandiegouniontribune.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "The Hindu"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Rupee rises 5 paise to 96.11 against U.S. dollar in early trade",
-      "description": "Rupee gains 5 paise to 96.11 against the U.S. dollar amid geopolitical tensions and rising crude oil prices.",
-      "url": "https://www.thehindu.com/business/markets/rupee-rises-5-paise-to-9611-against-us-dollar-in-early-trade/article71224150.ece",
-      "image": "https://th-i.thgim.com/public/incoming/25ssge/article71146024.ece/alternates/LANDSCAPE_1200/iStock-1358183711%201.jpg",
-      "publishedAt": "2026-07-15T06:11:03Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.pressdemocrat.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "Downstream Risks From Trump\u2019s War With Iran",
-      "description": "We Are Sleepwalking into a Global Collapse The mainstream media obsesses over oil prices. Every time a barrel jumps a few dollars, the pundits wring their hands. But they are missing the real story \u2014 the one that will crash civilization long before a gas pump runs dry. What I see, from my years tracking [\u2026]",
-      "url": "https://www.naturalnews.com/2026-07-15-downstream-risks-from-trumps-war-with-iran.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/07/iran-war-strait-of-hormuz-aluminum-2736-original.jpg",
-      "publishedAt": "2026-07-15T06:09:36Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.pilotonline.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "Natural News"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "UP Shocker: Man's Hands Chopped Off With Axe After Dispute At Mahoba Petrol Pump - VIDEO",
-      "description": "A 28-year-old man allegedly had both hands chopped off with an axe after an argument at a petrol pump in Uttar Pradesh",
-      "url": "https://www.freepressjournal.in/india/up-shocker-mans-hands-chopped-off-with-axe-after-dispute-at-mahoba-petrol-pump-video",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-15/t75grsdv/BBC-28.jpg",
-      "publishedAt": "2026-07-15T05:58:44Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.baltimoresun.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Baltimore Sun"
       }
     },
     {
-      "title": "Markets Rally as Inflation Eases: AI Stocks in the Spotlight",
-      "description": "Stocks surged on Wednesday following a surprise slowdown in U.S. inflation, reducing expectations for interest rate hikes. AI stocks showed volatility, reflecting market uncertainty. European markets saw mixed futures performance, while Wall Street banks enjoyed stellar earnings. Meanwhile, China's economic growth slowed, and oil prices stabilized amidst geopolitical tensions.",
-      "url": "https://www.devdiscourse.com/article/business/3950486-markets-rally-as-inflation-eases-ai-stocks-in-the-spotlight",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_10_11_18_5287741.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-15T05:58:43Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.readingeagle.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Reading Eagle"
       }
     },
     {
-      "title": "Oil prices rise as Trump threatens further strikes on Iran",
-      "description": "US resumes blockade on the Islamic Republic\u2019s shipping through the Strait of Hormuz",
-      "url": "https://www.irishtimes.com/business/2026/07/15/oil-prices-rise-as-trump-threatens-further-strikes-on-iran/",
-      "image": "https://www.irishtimes.com/resizer/v2/GBGWQOMNBH4PFKRXIDSNYILBKU.jpg?smart=true&auth=3abb34a2fe6081ea7954de536296caf498209ee5c4a7dd5b4c533a8471d831bf&width=1200&height=630",
-      "publishedAt": "2026-07-15T05:54:05Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.ocregister.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "The Irish Times"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "China's Electric Taxi Revolution: A New Buffer Against Oil Shocks",
-      "description": "China's transport structure sees a significant rise in electric taxis and ridesharing usage. As oil prices climb, these electric options provide a cheaper alternative, reducing China's oil dependency. With 50% of taxis now electric, gasoline demand has dropped, positioning China against global oil price fluctuations.",
-      "url": "https://www.devdiscourse.com/article/business/3950481-chinas-electric-taxi-revolution-a-new-buffer-against-oil-shocks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_06_2024_05_00_25_7385093.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-15T05:48:06Z",
+      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
+      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
+      "url": "https://www.bostonherald.com/2026/07/15/wall-street-oil-prices-iran-exports/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-15T13:15:34Z",
       "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil rises to $86 after US restores Iran blockade, threatens strikes on energy targets",
-      "description": "On Tuesday, oil prices hit a four-week high, rising 2%, as attacks deepened a supply crisis in the Strait of Hormuz -- a strategic water channel that aided the transport of one-fifth of global energy supplies during the pre-war period.",
-      "url": "https://indianexpress.com/article/world/global-oil-prices-rise-us-iran-hostilities-strikes-targets-10787095/",
-      "image": "https://images.indianexpress.com/2026/06/oman-coast.jpg",
-      "publishedAt": "2026-07-15T05:47:56Z",
-      "source": {
-        "name": "The Indian Express"
+        "name": "The Boston Herald"
       }
     }
   ]
