@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-16T01:43:36+00:00",
+  "updated_at": "2026-07-16T07:55:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "830 litre of stolen fuel seized, 1 held",
-      "description": "Chittaurgarh Police and DST seized 830 litres of stolen petrol-diesel from illegal storage in Bhadsoda, arresting Prem Shankar Mali for illegal sale.",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/830-litre-of-stolen-fuel-seized-1-held/articleshow/132417300.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132417299,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-15T13:26:00Z",
+      "title": "India's first consumer court order on E20 goes in Chhattisgarh vehicle owner's favour",
+      "description": "The Raipur consumer commission ruled for a vehicle owner who blamed E20 petrol for recurring engine trouble. The order highlights fuel choice constraints and fixes liability for repair costs and compensation.",
+      "url": "https://www.indiatoday.in/india/story/chhattisgarh-e20-petrol-consumer-court-raipur-car-owner-engine-damage-ruling-2948855-2026-07-16",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/iit-kanpur-research-finds-no-evidence-of-engine-harm-by-e20-154537138-16x9_0.jpg?VersionId=8Hk45.LLuY82H4faFXLSjcuC0L4H0izU",
+      "publishedAt": "2026-07-15T19:54:18Z",
       "source": {
-        "name": "Times of India"
+        "name": "India Today"
       }
     },
     {
-      "title": "Euro zone bond yields tick higher along with oil prices after big swings",
-      "description": "Bond yields in the Euro zone experienced a slight uptick on Wednesday, driven by rising oil prices linked to the U.S.-Iran tensions that threaten energy channels. Germany's 2-year bond yield reacted accordingly, highlighting concerns over future central bank rate increases. Although U.S. inflation reports suggested a decrease, the looming energy price pressures cast uncertainty over economic stability.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bond-yields-tick-higher-along-with-oil-prices-after-big-swings/articleshow/132417193.cms",
-      "image": "https://img.etimg.com/thumb/msid-132417193,width-1200,height-630,imgsize-1026865,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-15T13:19:00Z",
+      "title": "Dollar Dips Amid Softer U.S. Inflation and Rising Middle East Tensions",
+      "description": "The dollar declined against major currencies, influenced by softer U.S. inflation data and conflicts with Iran. The U.S. Producer Price Index fell, boosting Fed patience over interest rates. While easing inflation pressures weighed on the dollar, Middle East tensions sustained high oil prices, impacting its outlook.",
+      "url": "https://www.devdiscourse.com/article/business/3950938-dollar-dips-amid-softer-us-inflation-and-rising-middle-east-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_20_01_20_8092646.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-15T19:50:43Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "India raises windfall tax on diesel & ATF exports, cuts tariff on petrol",
+      "description": "Diesel export levy raised to Rs 15.5/litre, ATF to Rs 14.5/litre; petrol duty cut to Rs 2.5/litre.",
+      "url": "https://www.tribuneindia.com/news/business/india-raises-windfall-tax-on-diesel-atf-exports-cuts-tariff-on-petrol/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM4ZWM0ZmEwLTgwODYtMTFmMS1hMjIxLWM3MTFjYjk5YTdlZS5qcGc=",
+      "publishedAt": "2026-07-15T19:48:56Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "If inflation is 'cooling,' why are prices still so high?",
+      "description": "Consumers learned this week that inflation \u201ccooled\u201d in June , thanks in part to falling gas prices. But prices still rose. In fact, the 3.5% annual inflati",
+      "url": "https://www.newsbreak.com/usa-today-560565/4772395846415-if-inflation-is-cooling-why-are-prices-still-so-high",
+      "image": "https://img.particlenews.com/img/id/3l78cX_1DKmJDmT00",
+      "publishedAt": "2026-07-15T19:43:38Z",
+      "source": {
+        "name": "NewsBreak"
+      }
+    },
+    {
+      "title": "Flex-fuel vehicles better fit for India than E25 rollout: AIDA",
+      "description": "A national debate has been raging over the impact of 20% ethanol-blended petrol (E20) on the engines and fuel efficiency of vehicles not designed to run on such fuel, with many consumers demanding either a rollback of the programme or the option to buy petrol with a lower or zero ethanol blend.",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/flex-fuel-vehicles-better-fit-for-india-than-e25-rollout-aida/articleshow/132424007.cms",
+      "image": "https://img.etimg.com/thumb/msid-132424565,width-1200,height-630,imgsize-49448,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-15T19:37:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.courant.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
+      "title": "Higher gas prices affecting summer plans, survey finds",
+      "description": "Rising gas prices have many families rethinking their summer vacation plans, according to a new survey.",
+      "url": "https://www.cp24.com/news/canada/2026/07/15/higher-gas-prices-affecting-summer-plans-survey-finds/",
+      "image": "https://www.cp24.com/resizer/v2/PVDDXQE275CD5EKIATTV3CKL4M.JPG?smart=true&auth=a7e73510b39420dd9207efb5525ecb032c7afc081952d263dafda13823cac46d&width=1200&height=630",
+      "publishedAt": "2026-07-15T19:26:19Z",
       "source": {
-        "name": "Hartford Courant"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.sandiegouniontribune.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
+      "title": "Crude Oil Prices Move Higher on the Prospects of Tighter Global Supplies",
+      "description": "August WTI crude oil (CLQ26 ) on Wednesday closed up +0.26 (+0.33%), and August RBOB gasoline (RBQ26 ) closed up +0.0736 (+2.28%). Crude oil and gasoline prices settled higher on Wednesday, with gasoline up sharply at a 7-week high. Crude prices foun...",
+      "url": "https://www.barchart.com/story/news/3302956/crude-oil-prices-move-higher-on-the-prospects-of-tighter-global-supplies",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
+      "publishedAt": "2026-07-15T19:14:32Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.pressdemocrat.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
+      "title": "Forecasts for Hot US Temps Boost Nat-Gas Prices",
+      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.020 (+0.69%). Nat-gas prices settled higher on Wednesday as forecasts for above-average US temperatures are expected to boost nat-gas demand from electricity suppliers to power air-condition...",
+      "url": "https://www.barchart.com/story/news/3302934/forecasts-for-hot-us-temps-boost-nat-gas-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Weather/Heat%20records%20road%20sign%20by%20Icatnews%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-15T19:13:25Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.pilotonline.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
+      "title": "Oil prices threaten further Wall Street gains",
+      "description": "Strong financial earnings are supporting Wall Street sentiment, but rising oil prices and geopolitical tensions remain key risks.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/07/15/market-outlook-strong-bank-earnings-boost-financial-stocks-higher/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/5WIN4RPR6BFNNKZ45HAZV7DCZY.jpg?smart=true&auth=1afb1915cebf66f84e33778f4f09145c1b6ec8d026e8091752860665cbbcba5f&width=1200&height=630",
+      "publishedAt": "2026-07-15T18:55:37Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.baltimoresun.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
+      "title": "Why Australians shouldn't panic about latest surge in oil prices and state of supply",
+      "description": "With the price of oil rising and the fuel excise cut due to end, drivers are facing twin threats when it comes to the price of fuel, but experts say Australia is in a much better position compared with when the Middle East conflict began.",
+      "url": "https://www.abc.net.au/news/2026-07-16/petrol-temperature-check-what-happens-with-prices/106917442",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bc1ab9c96678db0235f3d99d18ae2756?impolicy=wcms_watermark_news&cropH=3942&cropW=7008&xPos=0&yPos=365&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-07-15T18:48:56Z",
       "source": {
-        "name": "Baltimore Sun"
-      }
-    },
-    {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.readingeagle.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
-      "source": {
-        "name": "Reading Eagle"
-      }
-    },
-    {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.ocregister.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
-      "source": {
-        "name": "Santa Ana Orange County Register"
-      }
-    },
-    {
-      "title": "Wall Street ticks up in premarket, oil prices rise amid Iran threats",
-      "description": "Stock indexes mostly rose in premarket trading on Wall Street and oil prices rose modestly after Iran threatened to block energy exports.",
-      "url": "https://www.bostonherald.com/2026/07/15/wall-street-oil-prices-iran-exports/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_45771.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-15T13:15:34Z",
-      "source": {
-        "name": "The Boston Herald"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     }
   ]
