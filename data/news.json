@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-17T07:52:15+00:00",
+  "updated_at": "2026-07-17T13:04:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "HMRC confirms new 26p per mile rule for drivers after rule change",
-      "description": "June 2026 update, effective from 1 June 2026, increases petrol, diesel, and LPG rates across all engine bands, while electric rates remain unchanged from March 2026.",
-      "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-confirms-new-26p-per-34282050",
-      "image": "https://i2-prod.birminghammail.co.uk/article34282151.ece/ALTERNATES/s1200d/0_petrol3.jpg",
-      "publishedAt": "2026-07-16T19:20:00Z",
+      "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
+      "description": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations. Heightened geopolitical tensions fueled inflation worries and potential interest rate hikes. Consumers continue spending and the labor market shows resilience despite economic challenges.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
+      "image": "https://img.etimg.com/thumb/msid-132450367,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-17T01:01:00Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Dollar Strength Sparks Long Liquidation in Crude Oil Futures",
-      "description": "August WTI crude oil (CLQ26 ) on Thursday closed down -0.65 (-0.82%), and August RBOB gasoline (RBQ26 ) closed down -0.0162 (-0.49%). Crude oil and gasoline prices gave up early gains on Thursday and settled lower, as a stronger dollar sparked profit...",
-      "url": "https://www.barchart.com/story/news/3324108/dollar-strength-sparks-long-liquidation-in-crude-oil-futures",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-16T19:15:58Z",
+      "title": "US strikes bridges in Iran, expanding its airstrike campaign over the Strait of Hormuz",
+      "description": "United States airstrikes on bridges intensified, escalating tensions with Iran. Iran launched new missile attacks against allied nations, and the interim ceasefire collapsed. The ongoing conflict for control of the Strait of Hormuz has caused significant casualties. Iranian officials warned of widespread attacks if the US interfered in the strait. The situation has led to soaring oil prices and increased regional instability.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-strikes-bridges-in-iran-expanding-its-airstrike-campaign-over-the-strait-of-hormuz/articleshow/132450348.cms",
+      "image": "https://img.etimg.com/thumb/msid-132450353,width-1200,height-630,imgsize-135254,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-17T00:58:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Fall on a Larger-Than-Expected Inventory Build",
-      "description": "August Nymex natural gas (NGQ26 ) on Thursday closed down -0.066 (-2.26%). Nat-gas prices fell to a 2-month low on Tuesday and settled sharply lower after weekly nat-gas inventories rose more than expected. The EIA reported that nat-gas inventories...",
-      "url": "https://www.barchart.com/story/news/3324093/nat-gas-prices-fall-on-a-larger-than-expected-inventory-build",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-07-16T19:14:47Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Higher oil prices complicate Bank of Canada rate path",
-      "description": "Christine Tan explains how resilient growth and higher oil prices could shape the Bank of Canada\u2019s interest-rate decisions.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/07/16/market-outlook-bank-of-canada-could-hold-rates-through-2026/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/2J5666F5ZQECFAISX2Z4W3QU54.jpg?smart=true&auth=9be08baf202ebb33fd39cc76fa94b28749598fefbc9bbf65a01d885ac9d6b8e7&width=1200&height=630",
-      "publishedAt": "2026-07-16T19:03:44Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Oil rises on intensifying U.S.-Iran hostilities, threat of Red Sea closure",
-      "description": "NEW DELHI \u2013 Oil prices rose on Friday after the U.S. and Iran stepped up attacks across the Gulf, with their broken truce limiting oil flows out of the Strait of Hormuz and \u200bwith Tehran asking the Houthi political and military organisation to stand ready to shut the Red Sea export route.",
-      "url": "https://www.spokesman.com/stories/2026/jul/16/oil-rises-on-intensifying-us-iran-hostilities-thre/",
-      "image": "https://thumb.spokesman.com/6yh3hewUPBK36SwhZdaQBB4O9Ys=/1200x630/smart/media.spokesman.com/photos/2026/07/16/6a59af387f2af.image.jpg",
-      "publishedAt": "2026-07-16T18:31:00Z",
-      "source": {
-        "name": "Spokane Spokesman-Review"
-      }
-    },
-    {
-      "title": "Slumping AI stocks overshadow gains for the rest of Wall Street, while oil prices drift",
-      "description": "Computer chipmakers and other winners of the AI boom are slumping again and weighing on stock markets worldwide. They\u2019re helping to drown out strength for most of the rest of Wall Street on Thursday, leaving U.S. stock indexes mixed. The S&P 500 dipped 0.3%, even though most of the stocks within it rose. The Dow Jones Industrial Average fell 40 points, and the Nasdaq composite fell 0.9%. The losses were sharper in South Korea, where AI winners whipped lower. Yields rose in the bond market. Oil prices erased an early gain to dip modestly.",
-      "url": "https://www.ajc.com/news/2026/07/slumping-ai-stocks-overshadow-gains-for-the-rest-of-wall-street-while-oil-prices-drift/",
-      "image": "https://images.ajc.com/resizer/v2/7O4BE2JAH5BA7MO5RKFHCIGOOU.jpg?auth=0cf044b9732b03fff7832eb34216b0b82a014554786bc3261a600168f664f389&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-16T17:42:16Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Slumping AI stocks overshadow gains for the rest of Wall Street, while oil prices drift",
-      "description": "Several of the country\u2019s biggest companies reported better profits for the latest quarter than analysts expected.",
-      "url": "https://www.adn.com/business-economy/2026/07/16/slumping-ai-stocks-overshadow-gains-for-the-rest-of-wall-street-while-oil-prices-drift/",
-      "image": "https://www.adn.com/resizer/v2/CO4ZLEF6XGODXMN3Z45CBLHQYE.jpg?smart=true&auth=cdfaa00231e9f0879157635ad636ca64c9afbf7823bb3cd009ed04b3d15cc027&width=1200&height=630",
-      "publishedAt": "2026-07-16T17:18:33Z",
-      "source": {
-        "name": "Anchorage Daily News"
-      }
-    },
-    {
-      "title": "U.S. Retail Surge: Economists Comprehend Stronger Q2 Growth Amid Mixed Signals",
-      "description": "U.S. retail sales saw a minor increase in June, with lower gasoline prices affecting service stations but bolstered by a rise in vehicle purchases and online spending. The consistent consumer spending, augmented by robust labor market data, led economists to raise Q2 growth estimates, despite unchanged monetary policies by the Federal Reserve.",
-      "url": "https://www.devdiscourse.com/article/business/3951513-us-retail-surge-economists-comprehend-stronger-q2-growth-amid-mixed-signals",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_10_05_02_1371304.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-16T17:14:32Z",
+      "title": "Dollar's Dance: Inflation, Global Tensions, and the Fed's Next Move",
+      "description": "The dollar steadied but faces a weekly decline due to softer U.S. inflation, leading traders to adjust rate hike bets. Escalating U.S.-Iran tensions supported safe-haven bids, pushing oil prices up. Currency movements showed a struggling yen, a rising euro, and steadying sterling amidst geopolitical uncertainties.",
+      "url": "https://www.devdiscourse.com/article/business/3951618-dollars-dance-inflation-global-tensions-and-the-feds-next-move",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_09_2025_02_08_50_7856368.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-17T00:54:02Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Man seriously injured after being hit by car at Tesco petrol station",
-      "description": "The driver of the car reportedly drove off without stopping",
-      "url": "https://www.somersetlive.co.uk/news/somerset-news/man-seriously-injured-after-being-11063383",
-      "image": "https://i2-prod.somersetlive.co.uk/article11063392.ece/ALTERNATES/s1200d/0_The-incident-happened-at-the-Tesco-petrol-station-on-Ditton-Street.jpg",
-      "publishedAt": "2026-07-16T17:07:19Z",
+      "title": "Trump threatens new Iran escalation and risks repeating old mistakes",
+      "description": "President Trump has increased U.S. air strikes on Iran, but strategy shows little success. An interim ceasefire deal has collapsed, leaving the U.S. in a difficult situation. Iran has threatened to involve its allies in Yemen if strikes continue. Analysts believe escalation will not compel Iran to change its position. The crisis has driven up global oil prices and impacted financial markets.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-new-iran-escalation-and-risks-repeating-old-mistakes/articleshow/132450282.cms",
+      "image": "https://img.etimg.com/thumb/msid-132450283,width-1200,height-630,imgsize-70258,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-17T00:39:00Z",
       "source": {
-        "name": "Somerset Live"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "FCNR(B) inflows short of expectations: Barclays",
-      "description": "Global brokerage Barclays reports that FCNR-B deposit inflows are running slower than optimistic market projections, warning that rising oil prices and geopolitical risks continue to weigh on the rupee.",
-      "url": "https://www.financialexpress.com/business/banking-finance/fcnrb-inflows-short-of-expectations-barclays/4293958/",
-      "image": "https://images.financialexpressdigital.com/2026/07/yt666_20260521170956_20260602182416_20260609160429_20260611153225_20260716165123.jpg",
-      "publishedAt": "2026-07-16T16:53:03Z",
+      "title": "Iran-US war LIVE updates: US \u2018winning big in Iran\u2019 - Trump says benefits of war to be visible soon as military strikes critical infrastructure",
+      "description": "Iran war latest news on July 17 details US airstrikes on Iran, missile interceptions in Jordan and Kuwait, threats over the Strait of Hormuz, and rising global oil prices amid escalating tensions.",
+      "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-tump-naval-blockade-hormuz-oil-price-today-israel-lebanon-fight/4294111/",
+      "image": "https://images.financialexpressdigital.com/2026/07/trumponiranwar.jpg",
+      "publishedAt": "2026-07-16T23:59:19Z",
       "source": {
         "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Rs 100 for houses, Rs 5,000 for petrol pumps: Cash-strapped Bihar now lets panchayats collect holding tax",
+      "description": "With over 45,000 revenue villages in the state, govt targets revenue collection of Rs 1,300 crore from rural taxes.",
+      "url": "https://indianexpress.com/article/india/bihar-village-holding-tax-rural-property-samrat-choudhary-government-10790096/",
+      "image": "https://images.indianexpress.com/2026/07/Bihar-CM-Samrat-choudhary_20260716202514.jpg",
+      "publishedAt": "2026-07-16T23:40:49Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Gold prices face turbulence as oil, Fed risks increase",
+      "description": "Renewed hostility between the US and Iran could cause global gold prices to plunge to US$3,600-3,800 an ounce, or 60,000 baht per baht-weight for domestic gold bar, especially if oil prices rise to $90-100 a barrel and remain at that level for more than a month, according to Thailand's leading gold trader MTS Gold.",
+      "url": "https://www.bangkokpost.com/business/general/3287049/gold-prices-face-turbulence-as-oil-fed-risks-increase",
+      "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/17/6156834_700.jpg",
+      "publishedAt": "2026-07-16T23:15:00Z",
+      "source": {
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "Oil settles lower, near one-month high on US-Iran tensions",
+      "description": "Oil prices settled about 1% lower on Thursday but remained near their highest level since mid-June as the Iran war escalated, with Tehran asking Yemen's Houthi movement to be prepared to close the Red Sea oil export route.",
+      "url": "https://www.thestar.com.my/business/2026/07/17/oil-settles-lower-near-one-month-high-on-us-iran-tensions",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4014983.jpeg",
+      "publishedAt": "2026-07-16T23:08:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
+      "description": "Global oil market buffers are rapidly disappearing, with low inventories, disrupted Strait of Hormuz shipments, and dwindling excess supplies raising the risk of higher oil prices.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jcrghtuosy.jpg",
+      "publishedAt": "2026-07-16T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "From saving on fuel to free checks - three ways to put the brakes on car costs this summer",
+      "description": "MORE than 14million drivers are expected to hit the road this weekend as schools close for summer.\nBut the higher cost of petrol and potential...",
+      "url": "https://www.thesun.co.uk/money/39785163/sun-savers-car-costs-motorists/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/family-waiting-road-assistance-1095489406.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-07-16T22:39:06Z",
+      "source": {
+        "name": "The Sun"
       }
     }
   ]
