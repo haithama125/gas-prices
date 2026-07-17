@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-17T13:04:30+00:00",
+  "updated_at": "2026-07-17T18:52:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Global Market Today: Asian stocks drop after chip selloff, oil gains",
-      "description": "Asian stocks declined as chipmakers pulled down Wall Street amid valuation concerns. Oil prices climbed higher this week due to escalating Middle East hostilities. Investors are questioning the sustainability of massive artificial intelligence investments and tech valuations. Heightened geopolitical tensions fueled inflation worries and potential interest rate hikes. Consumers continue spending and the labor market shows resilience despite economic challenges.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-after-chip-selloff-oil-gains/articleshow/132450371.cms",
-      "image": "https://img.etimg.com/thumb/msid-132450367,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-17T01:01:00Z",
+      "title": "June spending falls as gas prices dip",
+      "description": "NEW YORK -- Shoppers slowed their spending in June from May, as they spent less to fill their gas tank because of falling gas prices.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/17/june-spending-falls-as-gas-prices-dip/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213258626_213255345-b8d360299ecb4d7ab288c3ef40cbd546_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-07-17T06:45:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Arkansas Online"
       }
     },
     {
-      "title": "US strikes bridges in Iran, expanding its airstrike campaign over the Strait of Hormuz",
-      "description": "United States airstrikes on bridges intensified, escalating tensions with Iran. Iran launched new missile attacks against allied nations, and the interim ceasefire collapsed. The ongoing conflict for control of the Strait of Hormuz has caused significant casualties. Iranian officials warned of widespread attacks if the US interfered in the strait. The situation has led to soaring oil prices and increased regional instability.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-strikes-bridges-in-iran-expanding-its-airstrike-campaign-over-the-strait-of-hormuz/articleshow/132450348.cms",
-      "image": "https://img.etimg.com/thumb/msid-132450353,width-1200,height-630,imgsize-135254,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-17T00:58:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Dollar's Dance: Inflation, Global Tensions, and the Fed's Next Move",
-      "description": "The dollar steadied but faces a weekly decline due to softer U.S. inflation, leading traders to adjust rate hike bets. Escalating U.S.-Iran tensions supported safe-haven bids, pushing oil prices up. Currency movements showed a struggling yen, a rising euro, and steadying sterling amidst geopolitical uncertainties.",
-      "url": "https://www.devdiscourse.com/article/business/3951618-dollars-dance-inflation-global-tensions-and-the-feds-next-move",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_09_2025_02_08_50_7856368.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-17T00:54:02Z",
+      "title": "Global Market Turmoil: AI-Driven Rally Faces Brutal Selloff",
+      "description": "A sharp selloff in chipmakers triggered significant losses across global markets, especially in Asia, as investors reassessed the sustainability of the AI-driven rally. This rapid market decline affected indices in Europe and the U.S., with fears of continued losses. Economic trade tensions and rising oil prices further complicated the financial landscape.",
+      "url": "https://www.devdiscourse.com/article/business/3951737-global-market-turmoil-ai-driven-rally-faces-brutal-selloff",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_18_39_4765366.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-17T06:39:48Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Trump threatens new Iran escalation and risks repeating old mistakes",
-      "description": "President Trump has increased U.S. air strikes on Iran, but strategy shows little success. An interim ceasefire deal has collapsed, leaving the U.S. in a difficult situation. Iran has threatened to involve its allies in Yemen if strikes continue. Analysts believe escalation will not compel Iran to change its position. The crisis has driven up global oil prices and impacted financial markets.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-new-iran-escalation-and-risks-repeating-old-mistakes/articleshow/132450282.cms",
-      "image": "https://img.etimg.com/thumb/msid-132450283,width-1200,height-630,imgsize-70258,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-17T00:39:00Z",
+      "title": "Is moisture contaminating E20 fuel? Petrol pump owners raise fresh concerns",
+      "description": "Petrol pump operators say ethanol's tendency to absorb moisture can trigger phase separation in E20 fuel during monsoons and in coastal regions if water enters underground storage tanks.",
+      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/can-ethanols-moisture-absorbing-nature-contaminate-e20-fuel-petrol-pump-owners-raise-concern-2949776-2026-07-17",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/petrol-pump-owners-raise-fresh-concerns-over-e20-17214577-16x9_0.jpeg?VersionId=tdRjAQ0uAAIWF1_MA8MYuWhM4kNy9vjS",
+      "publishedAt": "2026-07-17T06:21:55Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "India Today"
       }
     },
     {
-      "title": "Iran-US war LIVE updates: US \u2018winning big in Iran\u2019 - Trump says benefits of war to be visible soon as military strikes critical infrastructure",
-      "description": "Iran war latest news on July 17 details US airstrikes on Iran, missile interceptions in Jordan and Kuwait, threats over the Strait of Hormuz, and rising global oil prices amid escalating tensions.",
-      "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-tump-naval-blockade-hormuz-oil-price-today-israel-lebanon-fight/4294111/",
-      "image": "https://images.financialexpressdigital.com/2026/07/trumponiranwar.jpg",
-      "publishedAt": "2026-07-16T23:59:19Z",
+      "title": "Give consumers option between 100% petrol and ethanol-blended petrol, Aaditya Thackeray writes to PM Modi",
+      "description": "Aaditya Thackeray urges PM Modi to offer consumers a choice between 100% petrol and ethanol-blended fuel to address concerns.",
+      "url": "https://www.thehindu.com/news/national/maharashtra/give-consumers-option-between-100-petrol-and-ethanol-blended-petrol-aaditya-thackeray-writes-to-pm-modi/article71232715.ece",
+      "image": "https://th-i.thgim.com/public/incoming/303b6s/article71232916.ece/alternates/LANDSCAPE_1200/20260710425L.jpg",
+      "publishedAt": "2026-07-17T06:17:17Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Rs 100 for houses, Rs 5,000 for petrol pumps: Cash-strapped Bihar now lets panchayats collect holding tax",
-      "description": "With over 45,000 revenue villages in the state, govt targets revenue collection of Rs 1,300 crore from rural taxes.",
-      "url": "https://indianexpress.com/article/india/bihar-village-holding-tax-rural-property-samrat-choudhary-government-10790096/",
-      "image": "https://images.indianexpress.com/2026/07/Bihar-CM-Samrat-choudhary_20260716202514.jpg",
-      "publishedAt": "2026-07-16T23:40:49Z",
+      "title": "Why has China's oil imports fallen so sharply, and what does it mean for global markets?",
+      "description": "China's oil imports have fallen sharply. Here's why demand is weakening, how EVs and the economy are reshaping consumption, and what it means for oil prices.",
+      "url": "https://www.thehindubusinessline.com/news/world/explained-why-china-is-buying-less-oil-and-why-it-matters-to-the-world/article71232850.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/ijdhke/article71232865.ece/alternates/LANDSCAPE_1200/IMG_CHINA-ECONOMY_TRADE-_2_1_50D7TUV5.jpg",
+      "publishedAt": "2026-07-17T05:52:24Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Gold prices face turbulence as oil, Fed risks increase",
-      "description": "Renewed hostility between the US and Iran could cause global gold prices to plunge to US$3,600-3,800 an ounce, or 60,000 baht per baht-weight for domestic gold bar, especially if oil prices rise to $90-100 a barrel and remain at that level for more than a month, according to Thailand's leading gold trader MTS Gold.",
-      "url": "https://www.bangkokpost.com/business/general/3287049/gold-prices-face-turbulence-as-oil-fed-risks-increase",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/07/17/6156834_700.jpg",
-      "publishedAt": "2026-07-16T23:15:00Z",
+      "title": "Gold Faces Biggest Weekly Loss in 6 Weeks as US-Iran Clashes and Oil Spike Fuel Inflation Fears",
+      "description": "Gold is on track for its largest weekly loss in six weeks, down 3.4%, as intensifying U.S.-Iran clashes drove oil prices up by 12%. The surge in oil has reignited global inflation worries, strengthening the case for potential Federal Reserve interest rate hikes.",
+      "url": "https://www.republicworld.com/business/gold-faces-biggest-weekly-loss-in-6-weeks-us-iran-oil-inflation-2026-07-17-132587",
+      "image": "https://img.republicworld.com/all_images/gold-blasts-past-5100-to-record-high-on-safe-haven-rush-1769415808013-16_9.webp",
+      "publishedAt": "2026-07-17T05:51:31Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "Republic World"
       }
     },
     {
-      "title": "Oil settles lower, near one-month high on US-Iran tensions",
-      "description": "Oil prices settled about 1% lower on Thursday but remained near their highest level since mid-June as the Iran war escalated, with Tehran asking Yemen's Houthi movement to be prepared to close the Red Sea oil export route.",
-      "url": "https://www.thestar.com.my/business/2026/07/17/oil-settles-lower-near-one-month-high-on-us-iran-tensions",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/17/4014983.jpeg",
-      "publishedAt": "2026-07-16T23:08:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "China Could Be About to Remove Oil's Biggest Safety Net",
-      "description": "Global oil market buffers are rapidly disappearing, with low inventories, disrupted Strait of Hormuz shipments, and dwindling excess supplies raising the risk of higher oil prices.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/China-Could-Be-About-to-Remove-Oils-Biggest-Safety-Net.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_jcrghtuosy.jpg",
-      "publishedAt": "2026-07-16T23:00:00Z",
+      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
+      "description": "Oil prices are on track for their biggest weekly gain since April as renewed military conflict around Iran disrupts Middle Eastern oil exports and raises fears of broader shipping disruptions.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-07-17T05:41:26Z",
       "source": {
         "name": "OilPrice"
       }
     },
     {
-      "title": "From saving on fuel to free checks - three ways to put the brakes on car costs this summer",
-      "description": "MORE than 14million drivers are expected to hit the road this weekend as schools close for summer.\nBut the higher cost of petrol and potential...",
-      "url": "https://www.thesun.co.uk/money/39785163/sun-savers-car-costs-motorists/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/07/family-waiting-road-assistance-1095489406.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-07-16T22:39:06Z",
+      "title": "Oil Prices Rise Nearly 12% This Week As US-Iran Conflict Raises Supply Concerns",
+      "description": "Oil prices continued their weekly rally on Friday as escalating US-Iran military tensions raised concerns over disruptions to crude shipments from the Gulf and Red Sea regions. Brent and WTI gained nearly 12% this week, with markets closely watching risks around the Strait of Hormuz, a key global energy route",
+      "url": "https://www.freepressjournal.in/business/oil-prices-rise-nearly-12-this-week-as-us-iran-conflict-raises-supply-concerns",
+      "image": "https://media.assettype.com/freepressjournal/2026-05-19/sls8fmfl/Russian-Oil.jpg",
+      "publishedAt": "2026-07-17T05:20:01Z",
       "source": {
-        "name": "The Sun"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Back to square one: Five questions for the ECB",
+      "description": "The European Central Bank meets again on July 23, with oil prices back at the top of the worry list for policymakers.",
+      "url": "https://www.reuters.com/business/finance/back-square-one-five-questions-ecb-2026-07-17/",
+      "image": "https://www.reuters.com/resizer/v2/OW22BDPJVJIXDBQAMQZC5AOOSA.jpg?auth=85dde7b1e2d2760a295a81cb567f6333d3c50797d12071f59880469134043207&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-17T05:05:28Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Indian Stock Indices Surge Amid IT Rally; Oil, Gold Prices Fluctuate",
+      "description": "Friday saw Indian stock indices rise with Sensex and Nifty opening strong, driven by IT stocks. While oil prices climbed due to US-Iran tensions, gold rebounded despite weekly declines. Experts highlight Nifty's consolidation and geopolitical influences on market sentiment, urging cautious trading amid volatile conditions.",
+      "url": "https://www.devdiscourse.com/article/business/3951690-indian-stock-indices-surge-amid-it-rally-oil-gold-prices-fluctuate",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_07_2026_10_34_51_6262946.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-17T05:04:55Z",
+      "source": {
+        "name": "Devdiscourse"
       }
     }
   ]
