@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-17T01:47:00+00:00",
+  "updated_at": "2026-07-17T07:52:15+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Major private parking company under investigation for charging drivers while they queued for petrol",
-      "description": "A MAJOR private parking company is under investigation for charging drivers while they queued for petrol.\nThe Competition and Market Authority...",
-      "url": "https://www.thesun.co.uk/money/39779995/parking-firm-investigated-charging-drivers-petrol-queue/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2025/07/2017-dodge-ram-trucks-displayed-518036604.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-07-16T13:40:26Z",
+      "title": "HMRC confirms new 26p per mile rule for drivers after rule change",
+      "description": "June 2026 update, effective from 1 June 2026, increases petrol, diesel, and LPG rates across all engine bands, while electric rates remain unchanged from March 2026.",
+      "url": "https://www.birminghammail.co.uk/news/cost-of-living/hmrc-confirms-new-26p-per-34282050",
+      "image": "https://i2-prod.birminghammail.co.uk/article34282151.ece/ALTERNATES/s1200d/0_petrol3.jpg",
+      "publishedAt": "2026-07-16T19:20:00Z",
       "source": {
-        "name": "The Sun"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "AI stocks slump again, while oil prices keep climbing",
-      "description": "Computer chip makers and other winners of the artificial-intelligence boom are swinging lower again and weighing on stock markets worldwide",
-      "url": "https://www.barchart.com/story/news/3308907/ai-stocks-slump-again-while-oil-prices-keep-climbing",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/600e69ef37304799a9fc7204348a04de/600e69ef37304799a9fc7204348a04de_main_financial_markets_wall_street_78242.jpg",
-      "publishedAt": "2026-07-16T13:34:20Z",
+      "title": "Dollar Strength Sparks Long Liquidation in Crude Oil Futures",
+      "description": "August WTI crude oil (CLQ26 ) on Thursday closed down -0.65 (-0.82%), and August RBOB gasoline (RBQ26 ) closed down -0.0162 (-0.49%). Crude oil and gasoline prices gave up early gains on Thursday and settled lower, as a stronger dollar sparked profit...",
+      "url": "https://www.barchart.com/story/news/3324108/dollar-strength-sparks-long-liquidation-in-crude-oil-futures",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-16T19:15:58Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Rising Petrol Prices Make Ultraviolette's EV Shift More Compelling Than Ever",
-      "description": "With rising fuel costs, Ultraviolette is enabling this transition through its recently launched \u2018Kill the Petrol Bill\u2019 programme",
-      "url": "https://www.deccanchronicle.com/business/with-rising-petrol-costs-ultraviolette-makes-the-transition-to-evs-more-compelling-than-ever-1971426",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/07/16/2064681-untitled-design-2026-07-16t183737842.jpg",
-      "publishedAt": "2026-07-16T13:14:06Z",
+      "title": "Nat-Gas Prices Fall on a Larger-Than-Expected Inventory Build",
+      "description": "August Nymex natural gas (NGQ26 ) on Thursday closed down -0.066 (-2.26%). Nat-gas prices fell to a 2-month low on Tuesday and settled sharply lower after weekly nat-gas inventories rose more than expected. The EIA reported that nat-gas inventories...",
+      "url": "https://www.barchart.com/story/news/3324093/nat-gas-prices-fall-on-a-larger-than-expected-inventory-build",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
+      "publishedAt": "2026-07-16T19:14:47Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "Barchart"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.sandiegouniontribune.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "Higher oil prices complicate Bank of Canada rate path",
+      "description": "Christine Tan explains how resilient growth and higher oil prices could shape the Bank of Canada\u2019s interest-rate decisions.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/07/16/market-outlook-bank-of-canada-could-hold-rates-through-2026/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/2J5666F5ZQECFAISX2Z4W3QU54.jpg?smart=true&auth=9be08baf202ebb33fd39cc76fa94b28749598fefbc9bbf65a01d885ac9d6b8e7&width=1200&height=630",
+      "publishedAt": "2026-07-16T19:03:44Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.pressdemocrat.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "Oil rises on intensifying U.S.-Iran hostilities, threat of Red Sea closure",
+      "description": "NEW DELHI \u2013 Oil prices rose on Friday after the U.S. and Iran stepped up attacks across the Gulf, with their broken truce limiting oil flows out of the Strait of Hormuz and \u200bwith Tehran asking the Houthi political and military organisation to stand ready to shut the Red Sea export route.",
+      "url": "https://www.spokesman.com/stories/2026/jul/16/oil-rises-on-intensifying-us-iran-hostilities-thre/",
+      "image": "https://thumb.spokesman.com/6yh3hewUPBK36SwhZdaQBB4O9Ys=/1200x630/smart/media.spokesman.com/photos/2026/07/16/6a59af387f2af.image.jpg",
+      "publishedAt": "2026-07-16T18:31:00Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "Spokane Spokesman-Review"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.pilotonline.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "Slumping AI stocks overshadow gains for the rest of Wall Street, while oil prices drift",
+      "description": "Computer chipmakers and other winners of the AI boom are slumping again and weighing on stock markets worldwide. They\u2019re helping to drown out strength for most of the rest of Wall Street on Thursday, leaving U.S. stock indexes mixed. The S&P 500 dipped 0.3%, even though most of the stocks within it rose. The Dow Jones Industrial Average fell 40 points, and the Nasdaq composite fell 0.9%. The losses were sharper in South Korea, where AI winners whipped lower. Yields rose in the bond market. Oil prices erased an early gain to dip modestly.",
+      "url": "https://www.ajc.com/news/2026/07/slumping-ai-stocks-overshadow-gains-for-the-rest-of-wall-street-while-oil-prices-drift/",
+      "image": "https://images.ajc.com/resizer/v2/7O4BE2JAH5BA7MO5RKFHCIGOOU.jpg?auth=0cf044b9732b03fff7832eb34216b0b82a014554786bc3261a600168f664f389&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-16T17:42:16Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.twincities.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "Slumping AI stocks overshadow gains for the rest of Wall Street, while oil prices drift",
+      "description": "Several of the country\u2019s biggest companies reported better profits for the latest quarter than analysts expected.",
+      "url": "https://www.adn.com/business-economy/2026/07/16/slumping-ai-stocks-overshadow-gains-for-the-rest-of-wall-street-while-oil-prices-drift/",
+      "image": "https://www.adn.com/resizer/v2/CO4ZLEF6XGODXMN3Z45CBLHQYE.jpg?smart=true&auth=cdfaa00231e9f0879157635ad636ca64c9afbf7823bb3cd009ed04b3d15cc027&width=1200&height=630",
+      "publishedAt": "2026-07-16T17:18:33Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "Anchorage Daily News"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.ocregister.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "U.S. Retail Surge: Economists Comprehend Stronger Q2 Growth Amid Mixed Signals",
+      "description": "U.S. retail sales saw a minor increase in June, with lower gasoline prices affecting service stations but bolstered by a rise in vehicle purchases and online spending. The consistent consumer spending, augmented by robust labor market data, led economists to raise Q2 growth estimates, despite unchanged monetary policies by the Federal Reserve.",
+      "url": "https://www.devdiscourse.com/article/business/3951513-us-retail-surge-economists-comprehend-stronger-q2-growth-amid-mixed-signals",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_10_05_02_1371304.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-16T17:14:32Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.baltimoresun.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "Man seriously injured after being hit by car at Tesco petrol station",
+      "description": "The driver of the car reportedly drove off without stopping",
+      "url": "https://www.somersetlive.co.uk/news/somerset-news/man-seriously-injured-after-being-11063383",
+      "image": "https://i2-prod.somersetlive.co.uk/article11063392.ece/ALTERNATES/s1200d/0_The-incident-happened-at-the-Tesco-petrol-station-on-Ditton-Street.jpg",
+      "publishedAt": "2026-07-16T17:07:19Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "Somerset Live"
       }
     },
     {
-      "title": "World markets, Wall Street mostly decline on latest tech stock selling",
-      "description": "The technology sector was dragging markets on Wall Street mostly lower and oil prices fell despite military strikes between the US and Iran.",
-      "url": "https://www.dailycamera.com/2026/07/16/wall-street-markets/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street__264_6ecd8b.jpg?w=1024&h=683",
-      "publishedAt": "2026-07-16T13:13:38Z",
+      "title": "FCNR(B) inflows short of expectations: Barclays",
+      "description": "Global brokerage Barclays reports that FCNR-B deposit inflows are running slower than optimistic market projections, warning that rising oil prices and geopolitical risks continue to weigh on the rupee.",
+      "url": "https://www.financialexpress.com/business/banking-finance/fcnrb-inflows-short-of-expectations-barclays/4293958/",
+      "image": "https://images.financialexpressdigital.com/2026/07/yt666_20260521170956_20260602182416_20260609160429_20260611153225_20260716165123.jpg",
+      "publishedAt": "2026-07-16T16:53:03Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "The Financial Express"
       }
     }
   ]
