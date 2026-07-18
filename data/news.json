@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-17T18:52:37+00:00",
+  "updated_at": "2026-07-18T01:27:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "June spending falls as gas prices dip",
-      "description": "NEW YORK -- Shoppers slowed their spending in June from May, as they spent less to fill their gas tank because of falling gas prices.",
-      "url": "https://www.arkansasonline.com/news/2026/jul/17/june-spending-falls-as-gas-prices-dip/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213258626_213255345-b8d360299ecb4d7ab288c3ef40cbd546_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2026-07-17T06:45:00Z",
+      "title": "'Westminster Council gaslit us when we complained our water turned brown and smelled of petrol'",
+      "description": "The Central London council has apologised for how it handled the incident on a Pimlico estate and has promised a full investigation",
+      "url": "https://www.mylondon.news/news/zone-1-news/westminster-council-gaslit-complained-water-34306889",
+      "image": "https://i2-prod.mylondon.news/article31876683.ece/ALTERNATES/s1200d/0_AZR_170625_MyLondon_MORGAN.jpg",
+      "publishedAt": "2026-07-17T12:57:04Z",
       "source": {
-        "name": "Arkansas Online"
+        "name": "My London"
       }
     },
     {
-      "title": "Global Market Turmoil: AI-Driven Rally Faces Brutal Selloff",
-      "description": "A sharp selloff in chipmakers triggered significant losses across global markets, especially in Asia, as investors reassessed the sustainability of the AI-driven rally. This rapid market decline affected indices in Europe and the U.S., with fears of continued losses. Economic trade tensions and rising oil prices further complicated the financial landscape.",
-      "url": "https://www.devdiscourse.com/article/business/3951737-global-market-turmoil-ai-driven-rally-faces-brutal-selloff",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_19_18_39_4765366.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-17T06:39:48Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.readingeagle.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Reading Eagle"
       }
     },
     {
-      "title": "Is moisture contaminating E20 fuel? Petrol pump owners raise fresh concerns",
-      "description": "Petrol pump operators say ethanol's tendency to absorb moisture can trigger phase separation in E20 fuel during monsoons and in coastal regions if water enters underground storage tanks.",
-      "url": "https://www.indiatoday.in/auto/latest-auto-news/story/can-ethanols-moisture-absorbing-nature-contaminate-e20-fuel-petrol-pump-owners-raise-concern-2949776-2026-07-17",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/petrol-pump-owners-raise-fresh-concerns-over-e20-17214577-16x9_0.jpeg?VersionId=tdRjAQ0uAAIWF1_MA8MYuWhM4kNy9vjS",
-      "publishedAt": "2026-07-17T06:21:55Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.sandiegouniontribune.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "India Today"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Give consumers option between 100% petrol and ethanol-blended petrol, Aaditya Thackeray writes to PM Modi",
-      "description": "Aaditya Thackeray urges PM Modi to offer consumers a choice between 100% petrol and ethanol-blended fuel to address concerns.",
-      "url": "https://www.thehindu.com/news/national/maharashtra/give-consumers-option-between-100-petrol-and-ethanol-blended-petrol-aaditya-thackeray-writes-to-pm-modi/article71232715.ece",
-      "image": "https://th-i.thgim.com/public/incoming/303b6s/article71232916.ece/alternates/LANDSCAPE_1200/20260710425L.jpg",
-      "publishedAt": "2026-07-17T06:17:17Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.pilotonline.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "Why has China's oil imports fallen so sharply, and what does it mean for global markets?",
-      "description": "China's oil imports have fallen sharply. Here's why demand is weakening, how EVs and the economy are reshaping consumption, and what it means for oil prices.",
-      "url": "https://www.thehindubusinessline.com/news/world/explained-why-china-is-buying-less-oil-and-why-it-matters-to-the-world/article71232850.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/ijdhke/article71232865.ece/alternates/LANDSCAPE_1200/IMG_CHINA-ECONOMY_TRADE-_2_1_50D7TUV5.jpg",
-      "publishedAt": "2026-07-17T05:52:24Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.pressdemocrat.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "Gold Faces Biggest Weekly Loss in 6 Weeks as US-Iran Clashes and Oil Spike Fuel Inflation Fears",
-      "description": "Gold is on track for its largest weekly loss in six weeks, down 3.4%, as intensifying U.S.-Iran clashes drove oil prices up by 12%. The surge in oil has reignited global inflation worries, strengthening the case for potential Federal Reserve interest rate hikes.",
-      "url": "https://www.republicworld.com/business/gold-faces-biggest-weekly-loss-in-6-weeks-us-iran-oil-inflation-2026-07-17-132587",
-      "image": "https://img.republicworld.com/all_images/gold-blasts-past-5100-to-record-high-on-safe-haven-rush-1769415808013-16_9.webp",
-      "publishedAt": "2026-07-17T05:51:31Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.baltimoresun.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "Republic World"
+        "name": "Baltimore Sun"
       }
     },
     {
-      "title": "Oil Prices Set for Biggest Weekly Surge Since April as Iran War Escalates",
-      "description": "Oil prices are on track for their biggest weekly gain since April as renewed military conflict around Iran disrupts Middle Eastern oil exports and raises fears of broader shipping disruptions.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Set-for-Biggest-Weekly-Surge-Since-April-as-Iran-War-Escalates.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-07-17T05:41:26Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.bostonherald.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "Oil Prices Rise Nearly 12% This Week As US-Iran Conflict Raises Supply Concerns",
-      "description": "Oil prices continued their weekly rally on Friday as escalating US-Iran military tensions raised concerns over disruptions to crude shipments from the Gulf and Red Sea regions. Brent and WTI gained nearly 12% this week, with markets closely watching risks around the Strait of Hormuz, a key global energy route",
-      "url": "https://www.freepressjournal.in/business/oil-prices-rise-nearly-12-this-week-as-us-iran-conflict-raises-supply-concerns",
-      "image": "https://media.assettype.com/freepressjournal/2026-05-19/sls8fmfl/Russian-Oil.jpg",
-      "publishedAt": "2026-07-17T05:20:01Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.courant.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Hartford Courant"
       }
     },
     {
-      "title": "Back to square one: Five questions for the ECB",
-      "description": "The European Central Bank meets again on July 23, with oil prices back at the top of the worry list for policymakers.",
-      "url": "https://www.reuters.com/business/finance/back-square-one-five-questions-ecb-2026-07-17/",
-      "image": "https://www.reuters.com/resizer/v2/OW22BDPJVJIXDBQAMQZC5AOOSA.jpg?auth=85dde7b1e2d2760a295a81cb567f6333d3c50797d12071f59880469134043207&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-17T05:05:28Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.twincities.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.twincities.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "Reuters"
+        "name": "St. Paul Pioneer Press"
       }
     },
     {
-      "title": "Indian Stock Indices Surge Amid IT Rally; Oil, Gold Prices Fluctuate",
-      "description": "Friday saw Indian stock indices rise with Sensex and Nifty opening strong, driven by IT stocks. While oil prices climbed due to US-Iran tensions, gold rebounded despite weekly declines. Experts highlight Nifty's consolidation and geopolitical influences on market sentiment, urging cautious trading amid volatile conditions.",
-      "url": "https://www.devdiscourse.com/article/business/3951690-indian-stock-indices-surge-amid-it-rally-oil-gold-prices-fluctuate",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_07_2026_10_34_51_6262946.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-17T05:04:55Z",
+      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
+      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
+      "url": "https://www.dailycamera.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T12:47:50Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Boulder Daily Camera"
       }
     }
   ]
