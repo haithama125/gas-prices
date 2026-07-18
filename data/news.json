@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-18T01:27:59+00:00",
+  "updated_at": "2026-07-18T07:27:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "'Westminster Council gaslit us when we complained our water turned brown and smelled of petrol'",
-      "description": "The Central London council has apologised for how it handled the incident on a Pimlico estate and has promised a full investigation",
-      "url": "https://www.mylondon.news/news/zone-1-news/westminster-council-gaslit-complained-water-34306889",
-      "image": "https://i2-prod.mylondon.news/article31876683.ece/ALTERNATES/s1200d/0_AZR_170625_MyLondon_MORGAN.jpg",
-      "publishedAt": "2026-07-17T12:57:04Z",
+      "title": "RIL charts multi-year plan to offset decline in natural gas output",
+      "description": "Reliance Industries plans a multi-year campaign to boost natural gas output. This effort aims to offset declining production from existing fields. Elevated gas prices are expected due to ongoing West Asia conflict. The company anticipates better price realization for its KG-D6 gas fields. Continued investment in coal-bed methane operations will also proceed.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ril-charts-multi-year-plan-to-offset-decline-in-natural-gas-output/articleshow/132469128.cms",
+      "image": "https://img.etimg.com/thumb/msid-132469162,width-1200,height-630,imgsize-55906,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-17T19:22:00Z",
       "source": {
-        "name": "My London"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.readingeagle.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
+      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide",
+      "url": "https://www.barchart.com/story/news/3329253/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/3fd073a45a39440ba3540148a22cc05a/3fd073a45a39440ba3540148a22cc05a_main_financial_markets_wall_street_4_22_.jpg",
+      "publishedAt": "2026-07-17T19:17:28Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.sandiegouniontribune.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Escalation of US-Iran Hostilities Pushes Crude Oil Sharply Higher",
+      "description": "August WTI crude oil (CLQ26 ) on Friday closed up +3.54 (+4.48%), and August RBOB gasoline (RBQ26 ) closed up +0.1080 (+3.29%). Crude oil and gasoline prices rallied sharply on Friday, with crude posting a 5-week high and gasoline posting a 2-month h...",
+      "url": "https://www.barchart.com/story/news/3340820/escalation-of-us-iran-hostilities-pushes-crude-oil-sharply-higher",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-17T19:15:05Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.pilotonline.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Nat-Gas Prices Supported by a Surge in European Gas Prices",
+      "description": "August Nymex natural gas (NGQ26 ) on Friday closed up +0.053 (+1.85%). Nat-gas prices settled higher on Friday, garnering carry-over support from a sharp rally in European nat-gas prices to a 3.75-month high. Prices rallied on concern that escalatio...",
+      "url": "https://www.barchart.com/story/news/3340803/nat-gas-prices-supported-by-a-surge-in-european-gas-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.png",
+      "publishedAt": "2026-07-17T19:13:29Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.pressdemocrat.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Government raises petrol price by Rs5.44, diesel by Rs31.05 per litre",
+      "description": "The federal government has raised the prices of petrol and high-speed diesel, with petrol becoming Rs5.44 per litre more expensive and diesel witnessing a sharp increase",
+      "url": "https://www.nation.com.pk/18-Jul-2026/government-raises-petrol-price-rs5-44-diesel-rs31-05-per-litre",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-07-18/government-raises-petrol-price-rs5-44-diesel-rs31-05-per-litre-1784315544-6305.jpg",
+      "publishedAt": "2026-07-17T19:12:35Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.baltimoresun.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
-      "source": {
-        "name": "Baltimore Sun"
-      }
-    },
-    {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.bostonherald.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
-      "source": {
-        "name": "The Boston Herald"
-      }
-    },
-    {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.courant.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Sixth day of US, Iran counterattacks puts ceasefire out of reach",
+      "description": "The U.S. and Iran traded attacks again on Friday, pressuring oil prices and making a quick return to the fragile ceasefire deal signed last month even less likely. Nearly a week of back-and-forth strikes by both sides has expanded beyond strictly military targets to include bridges, utilities and port facilities. U.S. Central Command confirmed that it had destroyed a surveillance tower at the ...",
+      "url": "https://www.courant.com/2026/07/17/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach-2/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/07/202607171504MCT_____PHOTO____WORLD-NEWS-USISRAEL-IRAN-FILEPIC-GET.jpg?w=1024&h=682",
+      "publishedAt": "2026-07-17T19:04:00Z",
       "source": {
         "name": "Hartford Courant"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.twincities.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Petrol, diesel prices increased in nationwide fuel price revision",
+      "description": "ISLAMABAD: Federal government has announced a significant increase in petroleum prices, raising the rates of both petrol and high-speed",
+      "url": "https://www.bolnews.com/business/petrol-diesel-prices-increased-in-nationwide-fuel-price-revision/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T235952.268.webp",
+      "publishedAt": "2026-07-17T19:02:59Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "BOL News"
       }
     },
     {
-      "title": "Slumping AI stocks drag Wall Street lower, oil prices jump",
-      "description": "Wall Street was on track to close the week with losses as the sell-off of chipmakers and other AI-related shares dragged markets lower.",
-      "url": "https://www.dailycamera.com/2026/07/17/ai-stocks-oil-prices-wall-street/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_4_22_.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T12:47:50Z",
+      "title": "Top Oil Stocks Built To Withstand Energy Uncertainty",
+      "description": "Crude prices have fallen, but gasoline prices remain elevated. Explore the refining bottleneck driving today's energy market.",
+      "url": "https://seekingalpha.com/article/4923115-top-oil-stocks-built-to-withstand-energy-uncertainty",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403679150/image_1403679150.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-07-17T18:55:56Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "Seeking Alpha"
+      }
+    },
+    {
+      "title": "High gas prices and airfare are changing summer travel plans for millions of Americans",
+      "description": "A new LendingTree survey finds 75% of Americans say gas prices and airfare have changed their summer travel plans. Here's how experts say you can keep costs down.",
+      "url": "https://www.weau.com/2026/07/17/high-gas-prices-airfare-are-changing-summer-travel-plans-millions-americans/",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/NX6OHVVZMNGJ5LDD4GO7HSKLIM.jpg?auth=af776ab9ef725aad7f1c69c6a71345a56ced68fb664d61cdde2269508de8a3f6&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-17T18:53:57Z",
+      "source": {
+        "name": "WEAU"
+      }
+    },
+    {
+      "title": "High gas prices and airfare are changing summer travel plans for millions of Americans",
+      "description": "A new LendingTree survey finds 75% of Americans say gas prices and airfare have changed their summer travel plans. Here's how experts say you can keep costs down.",
+      "url": "https://www.live5news.com/2026/07/17/high-gas-prices-airfare-are-changing-summer-travel-plans-millions-americans/",
+      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/NX6OHVVZMNGJ5LDD4GO7HSKLIM.jpg?auth=af776ab9ef725aad7f1c69c6a71345a56ced68fb664d61cdde2269508de8a3f6&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-17T18:53:57Z",
+      "source": {
+        "name": "Live 5 News WCSC"
       }
     }
   ]
