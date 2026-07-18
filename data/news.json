@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-18T07:27:24+00:00",
+  "updated_at": "2026-07-18T12:52:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "RIL charts multi-year plan to offset decline in natural gas output",
-      "description": "Reliance Industries plans a multi-year campaign to boost natural gas output. This effort aims to offset declining production from existing fields. Elevated gas prices are expected due to ongoing West Asia conflict. The company anticipates better price realization for its KG-D6 gas fields. Continued investment in coal-bed methane operations will also proceed.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ril-charts-multi-year-plan-to-offset-decline-in-natural-gas-output/articleshow/132469128.cms",
-      "image": "https://img.etimg.com/thumb/msid-132469162,width-1200,height-630,imgsize-55906,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-17T19:22:00Z",
+      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 17% to 45% returns",
+      "description": "Domestic equity markets closed higher despite rising crude oil prices, with top brokerages recommending 10 key stocks including HDFC Life, Siemens Energy, Tata Power, and Bharti Airtel for strong growth potential.",
+      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-17-to-45-returns-4295182/",
+      "image": "https://images.financialexpressdigital.com/2026/07/Share-market-Canva_20260623011927_20260717184040.jpg",
+      "publishedAt": "2026-07-18T00:30:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Rising Tensions: U.S. and Iran Target Each Other's Infrastructure",
+      "description": "The United States and Iran are escalating their conflict by targeting each other's infrastructure. Recent attacks involved bridges, a power plant, and oil tankers. The tensions threaten global energy supplies and have caused a rise in crude oil prices. U.N. expresses concern over civilian infrastructure attacks.",
+      "url": "https://www.devdiscourse.com/article/politics/3952196-rising-tensions-us-and-iran-target-each-others-infrastructure",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_01_48_41_5677155.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-17T22:47:25Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "From deficit to surplus? Alberta's bleak budget outlook 'changed dramatically' as oil prices rise",
+      "description": "Alberta's financial outlook has taken a dramatic turn after the province previously forecasted a $9.4-billion shortfall. Surging oil prices could mean the province finishes the fiscal year in the black.",
+      "url": "https://www.cbc.ca/news/canada/calgary/sidhu-alberta-fiscal-outlook-2026-surplus-possible-9.7274508",
+      "image": "https://i.cbc.ca/ais/1.3523241,1784317203897/full/max/0/default.jpg?im=Crop%2Crect%3D%2862%2C166%2C1708%2C960%29%3BResize%3D620",
+      "publishedAt": "2026-07-17T22:42:17Z",
+      "source": {
+        "name": "CBC.ca"
+      }
+    },
+    {
+      "title": "US Hits Iranian Bridges And Port Tower, Tehran Fires Missiles At Qatar And Kuwait As Battle For Strait Of Hormuz Escalates",
+      "description": "The US and Iran escalated strikes, with Washington hitting Iranian bridges and a port tower while Tehran fired missiles at Qatar and Kuwait, as oil prices rose and shipping through the Strait of Hormuz fell to a 3-week low.",
+      "url": "https://www.republicworld.com/world-news/us-hits-iranian-bridges-and-port-tower-tehran-fires-missiles-at-qatar-and-kuwait-as-battle-for-strait-of-hormuz-escalates-2026-07-17-132667",
+      "image": "https://img.republicworld.com/all_images/2026/03/iran-war-live-us-to-release-172-million-barrels-of-oil-iran-allows-two-indian-tankers-to-pass-through-strait-of-hormuz-1773293257821-1280x720.webp",
+      "publishedAt": "2026-07-17T21:48:21Z",
+      "source": {
+        "name": "Republic World"
+      }
+    },
+    {
+      "title": "Escalating Tensions: U.S.-Iran Conflict Spurs Global Concerns",
+      "description": "The escalating U.S.-Iran conflict sees both nations targeting each other's infrastructure, risking greater regional chaos. With the recent strikes on Iranian bridges and a Kuwaiti desalination plant, oil prices surged, causing political and economic ripples. The UN has expressed concern over civilian targets in the ongoing military actions.",
+      "url": "https://www.devdiscourse.com/article/law-order/3952185-escalating-tensions-us-iran-conflict-spurs-global-concerns",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_05_2025_12_25_47_8835539.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-17T21:42:02Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "California policies drive up gas prices for West Coast: report",
+      "description": "California and other states under Democratic control averaged $3.69 per gallon, while Republican-controlled states averaged $3.14 per gallon, a gap of $0.55 per gallon, according to an analysis.",
+      "url": "https://nypost.com/2026/07/17/us-news/california-policies-drive-up-gas-prices-for-west-coast-report/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/07/134707175.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-07-17T21:16:51Z",
+      "source": {
+        "name": "New York Post"
       }
     },
     {
       "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
-      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide",
-      "url": "https://www.barchart.com/story/news/3329253/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/3fd073a45a39440ba3540148a22cc05a/3fd073a45a39440ba3540148a22cc05a_main_financial_markets_wall_street_4_22_.jpg",
-      "publishedAt": "2026-07-17T19:17:28Z",
+      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide. The S&P 500 fell 1% Friday to finish its first losing week in the last three and only its third since March. The Dow Jones Industrial Average dropped 0.8%, and the Nasdaq composite sank 1.4%. Nvidia was the heaviest weight on the market and briefly gave up its status as the most valuable stock on Wall Street. The worries about whether AI stocks have shot too high dragged down Asian markets even more sharply. Oil prices jumped again on worries about the war with Iran, but longer-term Treasury yields eased.",
+      "url": "https://www.ajc.com/news/2026/07/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping/",
+      "image": "https://images.ajc.com/resizer/v2/MEZYBPVKNBGW3KHLQCSR32UPEU.jpg?auth=98a687e748b390e70bcfd1b044e615314d2c6ce426d301e1e609704171321ea1&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-17T21:02:24Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Escalation of US-Iran Hostilities Pushes Crude Oil Sharply Higher",
-      "description": "August WTI crude oil (CLQ26 ) on Friday closed up +3.54 (+4.48%), and August RBOB gasoline (RBQ26 ) closed up +0.1080 (+3.29%). Crude oil and gasoline prices rallied sharply on Friday, with crude posting a 5-week high and gasoline posting a 2-month h...",
-      "url": "https://www.barchart.com/story/news/3340820/escalation-of-us-iran-hostilities-pushes-crude-oil-sharply-higher",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-17T19:15:05Z",
+      "title": "off for AI stars worsens, while oil prices keep jumping",
+      "description": "NEW YORK (AP) \u2014 The sell-off for winners of the artificial-intelligence boom deepened Friday and yanked stock markets lower worldwide. Oil prices, meanwhile\u2026",
+      "url": "https://wtop.com/world/2026/07/asian-shares-sink-with-tokyo-down-nearly-5-as-slumping-ai-stocks-drag-world-markets-lower/",
+      "image": "https://wtop.com/wp-content/uploads/2026/07/Japan_Financial_Markets_17_15-scaled.jpg",
+      "publishedAt": "2026-07-17T20:56:26Z",
       "source": {
-        "name": "Barchart"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Nat-Gas Prices Supported by a Surge in European Gas Prices",
-      "description": "August Nymex natural gas (NGQ26 ) on Friday closed up +0.053 (+1.85%). Nat-gas prices settled higher on Friday, garnering carry-over support from a sharp rally in European nat-gas prices to a 3.75-month high. Prices rallied on concern that escalatio...",
-      "url": "https://www.barchart.com/story/news/3340803/nat-gas-prices-supported-by-a-surge-in-european-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.png",
-      "publishedAt": "2026-07-17T19:13:29Z",
+      "title": "Strait of Hormuz shipping traffic slows to a trickle, US gas prices rising sharply",
+      "description": "One of the most important oil trade routes on the planet has reached a near standstill during a week of constant strikes in the Iran war.",
+      "url": "https://foxbaltimore.com/news/nation-world/strait-of-hormuz-shipping-traffic-slows-to-a-trickle-us-gas-prices-rising-sharply-united-states-war-oman-iran",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/4461/1320/0x233/90/0763d6a0-e64d-4a8a-a04f-d597f323ab94-GettyImages22760290261.jpg",
+      "publishedAt": "2026-07-17T20:53:38Z",
       "source": {
-        "name": "Barchart"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Government raises petrol price by Rs5.44, diesel by Rs31.05 per litre",
-      "description": "The federal government has raised the prices of petrol and high-speed diesel, with petrol becoming Rs5.44 per litre more expensive and diesel witnessing a sharp increase",
-      "url": "https://www.nation.com.pk/18-Jul-2026/government-raises-petrol-price-rs5-44-diesel-rs31-05-per-litre",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-07-18/government-raises-petrol-price-rs5-44-diesel-rs31-05-per-litre-1784315544-6305.jpg",
-      "publishedAt": "2026-07-17T19:12:35Z",
+      "title": "Strait of Hormuz shipping traffic slows to a trickle, US gas prices rising sharply",
+      "description": "One of the most important oil trade routes on the planet has reached a near standstill during a week of constant strikes in the Iran war.",
+      "url": "https://wjla.com/news/nation-world/strait-of-hormuz-shipping-traffic-slows-to-a-trickle-us-gas-prices-rising-sharply-united-states-war-oman-iran",
+      "image": "https://wjla.com/resources/media2/16x9/4461/1320/0x233/90/0763d6a0-e64d-4a8a-a04f-d597f323ab94-GettyImages22760290261.jpg",
+      "publishedAt": "2026-07-17T20:53:38Z",
       "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "Sixth day of US, Iran counterattacks puts ceasefire out of reach",
-      "description": "The U.S. and Iran traded attacks again on Friday, pressuring oil prices and making a quick return to the fragile ceasefire deal signed last month even less likely. Nearly a week of back-and-forth strikes by both sides has expanded beyond strictly military targets to include bridges, utilities and port facilities. U.S. Central Command confirmed that it had destroyed a surveillance tower at the ...",
-      "url": "https://www.courant.com/2026/07/17/sixth-day-of-us-iran-counterattacks-puts-ceasefire-out-of-reach-2/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/202607171504MCT_____PHOTO____WORLD-NEWS-USISRAEL-IRAN-FILEPIC-GET.jpg?w=1024&h=682",
-      "publishedAt": "2026-07-17T19:04:00Z",
-      "source": {
-        "name": "Hartford Courant"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices increased in nationwide fuel price revision",
-      "description": "ISLAMABAD: Federal government has announced a significant increase in petroleum prices, raising the rates of both petrol and high-speed",
-      "url": "https://www.bolnews.com/business/petrol-diesel-prices-increased-in-nationwide-fuel-price-revision/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-2026-07-17T235952.268.webp",
-      "publishedAt": "2026-07-17T19:02:59Z",
-      "source": {
-        "name": "BOL News"
-      }
-    },
-    {
-      "title": "Top Oil Stocks Built To Withstand Energy Uncertainty",
-      "description": "Crude prices have fallen, but gasoline prices remain elevated. Explore the refining bottleneck driving today's energy market.",
-      "url": "https://seekingalpha.com/article/4923115-top-oil-stocks-built-to-withstand-energy-uncertainty",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1403679150/image_1403679150.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-07-17T18:55:56Z",
-      "source": {
-        "name": "Seeking Alpha"
-      }
-    },
-    {
-      "title": "High gas prices and airfare are changing summer travel plans for millions of Americans",
-      "description": "A new LendingTree survey finds 75% of Americans say gas prices and airfare have changed their summer travel plans. Here's how experts say you can keep costs down.",
-      "url": "https://www.weau.com/2026/07/17/high-gas-prices-airfare-are-changing-summer-travel-plans-millions-americans/",
-      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/NX6OHVVZMNGJ5LDD4GO7HSKLIM.jpg?auth=af776ab9ef725aad7f1c69c6a71345a56ced68fb664d61cdde2269508de8a3f6&width=1200&height=600&smart=true",
-      "publishedAt": "2026-07-17T18:53:57Z",
-      "source": {
-        "name": "WEAU"
-      }
-    },
-    {
-      "title": "High gas prices and airfare are changing summer travel plans for millions of Americans",
-      "description": "A new LendingTree survey finds 75% of Americans say gas prices and airfare have changed their summer travel plans. Here's how experts say you can keep costs down.",
-      "url": "https://www.live5news.com/2026/07/17/high-gas-prices-airfare-are-changing-summer-travel-plans-millions-americans/",
-      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/NX6OHVVZMNGJ5LDD4GO7HSKLIM.jpg?auth=af776ab9ef725aad7f1c69c6a71345a56ced68fb664d61cdde2269508de8a3f6&width=1200&height=600&smart=true",
-      "publishedAt": "2026-07-17T18:53:57Z",
-      "source": {
-        "name": "Live 5 News WCSC"
+        "name": "WJLA"
       }
     }
   ]
