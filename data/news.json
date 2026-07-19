@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-19T12:54:05+00:00",
+  "updated_at": "2026-07-19T18:51:04+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
-      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide",
-      "url": "https://www.barchart.com/story/news/3329253/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/3fd073a45a39440ba3540148a22cc05a/3fd073a45a39440ba3540148a22cc05a_main_financial_markets_wall_street_4_22_.jpg",
+      "title": "I work for AA - UK drivers are ditching petrol and diesel cars for 1 reason",
+      "description": "The AA's Luke Bosdet said drivers are starting to axe their petrol and diesel vehicles to secure electric cars.",
+      "url": "https://www.express.co.uk/life-style/cars/2228556/aa-petrol-diesel-fuel-electric-cars",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7037562.jpg",
+      "publishedAt": "2026-07-19T06:29:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Markets to track Q1 earnings, West Asia developments, crude oil this week",
+      "description": "This week, markets will focus on Q1 earnings, West Asia developments, and crude oil prices' impact on trading.",
+      "url": "https://www.thehindubusinessline.com/markets/markets-to-track-q1-earnings-west-asia-developments-crude-oil-this-week/article71240779.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/sruc3a/article71240792.ece/alternates/LANDSCAPE_1200/Markets-up-1_-aGSBG90M79.3.jpg.jpg",
+      "publishedAt": "2026-07-19T06:13:38Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Boy leaves 'perfect outline' on tree after being set on fire on 8th birthday",
+      "description": "Don Collins was just 13 when he tied his neighbour Robbie Middleton to a tree, soaked him in petrol and set him alight on the youngster's eighth birthday in Texas",
+      "url": "https://www.dailystar.co.uk/news/world-news/boy-leaves-perfect-outline-tree-37443545",
+      "image": "https://i2-prod.dailystar.co.uk/article37443542.ece/ALTERNATES/s1200d/0_Robbie-Middleton-aged-eight-and-before-he-was-attacked.jpg",
+      "publishedAt": "2026-07-19T06:00:00Z",
+      "source": {
+        "name": "The daily Star"
+      }
+    },
+    {
+      "title": "Murder Attempt on Congress Leader in Warangal",
+      "description": "According to police, the attackers intercepted Mahesh on the way, poured petrol on him and set him ablaze before fleeing the scene.",
+      "url": "https://www.deccanchronicle.com/southern-states/telangana/murder-attempt-on-congress-leader-in-warangal-1972154",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/19/2065819-screenshot-2026-07-19-103803.jpg",
+      "publishedAt": "2026-07-19T05:11:35Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, July 19: Check latest prices in Delhi, Mumbai, Chennai, other cities",
+      "description": "A combination of global, economic, and domestic factors shapes fuel prices at the pump.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-july-19-check-latest-prices-in-delhi-mumbai-chennai-other-cities-543797-2026-07-19",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a5c5ad666c48-transportation-costs-and-prevailing-demand-supply-conditions-also-factor-into-the-retail-price-consu-190414852-16x9.png",
+      "publishedAt": "2026-07-19T05:07:50Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "LPG, CNG, PNG rates today (July 19): Check latest prices in Delhi, Mumbai, Chennai, Kolkata and other cities",
+      "description": "Oil prices rose for the fourth straight day on Thursday after a fresh wave of US strikes on Iranian military installations raised fears of a wider conflict and supply disruptions in the Strait of Hormuz.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-rates-today-july-19-check-latest-prices-in-delhi-mumbai-chennai-kolkata-and-other-cities-543794-2026-07-19",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a5c501af10e9-the-supply-crisis-had-hit-economies-around-the-world--especially-in-asia--which-depends-heavily-on-e-191829497-16x9.png",
+      "publishedAt": "2026-07-19T04:19:24Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Will Sensex, Nifty extend gains on Monday? Q1 earnings, global tech selloff among 6 factors to steer D-St this week",
+      "description": "Dalal Street ended the week on a strong note, with the Sensex and Nifty gaining over 1% on Friday. Investors will track six key market triggers this week, including the peak of the Q1 earnings season, the escalating Iran-US conflict, surging crude oil prices, the global tech selloff, rupee movement and FII flows. Analysts remain cautiously optimistic on market sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-sensex-nifty-extend-gains-on-monday-q1-earnings-global-tech-selloff-among-6-factors-to-steer-d-st-this-week/articleshow/132489722.cms",
+      "image": "https://img.etimg.com/thumb/msid-132489722,width-1200,height-630,imgsize-168352,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-19T04:07:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Fuel queues return in Myanmar as gasoline sells for around 10,000 kyats per litre on the black market",
+      "description": "YANGON: Long queues have reappeared at fuel stations in Taungoo, Bago Region, with residents reporting that black-market gasoline prices have climbed to around 10,000 kyats (US$4.76) per litre.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/19/fuel-queues-return-in-myanmar-as-gasoline-sells-for-around-10000-kyats-per-litre-on-the-black-market",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/19/4017550.jpg",
+      "publishedAt": "2026-07-19T03:03:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru, Kolkata on 19 July as Brent crude extends gain",
+      "description": "Petrol and diesel prices today: Fuel prices in India remained stable on 19 July despite volatility in global crude prices. Check retail petrol and diesel prices today in your city here.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-kolkata-on-19-july-as-brent-crude-extends-gain-11784424959940.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/19/1600x900/logo/INDIA-ECONOMY-INFLATION-0_1784425345112_1784425753379_4ffb1a59-4697-4b0a-8656-4ddbe32720f1.JPG",
+      "publishedAt": "2026-07-19T02:49:04Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "off for AI stars worsens, while oil prices keep jumping",
+      "description": "NEW YORK (AP) \u2014 The sell-off for winners of the artificial-intelligence boom deepened Friday and yanked stock markets lower worldwide. Oil prices, meanwhile\u2026",
+      "url": "https://wtop.com/world/2026/07/asian-shares-sink-with-tokyo-down-nearly-5-as-slumping-ai-stocks-drag-world-markets-lower/",
+      "image": "https://wtop.com/wp-content/uploads/2026/07/Japan_Financial_Markets_17_15-scaled.jpg",
       "publishedAt": "2026-07-18T18:39:24Z",
       "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "US Strikes Iran Despite Tehran Threatening Full-Scale War, Oil Prices Surge",
-      "description": "US strikes Iran for a seventh straight night despite Tehran's full-scale war threat as oil price jumped amid Strait of Hormuz blockade.",
-      "url": "https://coingape.com/us-strikes-iran-despite-tehran-threatening-full-scale-war-oil-prices-surge/",
-      "image": "https://coingape.com/wp-content/uploads/2026/04/us-iran_update_conflict_may-1.webp",
-      "publishedAt": "2026-07-18T18:26:39Z",
-      "source": {
-        "name": "CoinGape"
-      }
-    },
-    {
-      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
-      "description": "The U.S. military is reporting the first U.S. troop deaths from direct Iranian fire since the war's early days. Two were killed and one is missing after an attack on a base in Jordan on Friday. Iran's supreme leader warns of \"unforgettable lessons\" if the U.S. continues its attacks, and Tehran says it has suspended its commitments to the interim deal signed with the U.S. The intensifying exchange of fire in recent days has hit infrastructure and affected civilians. The conflict over the Strait of Hormuz is again impacting global oil prices. There is no new word on mediation efforts.",
-      "url": "https://www.ajc.com/news/2026/07/us-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan/",
-      "image": "https://images.ajc.com/resizer/v2/2AJAISP7VRDB7DX3XHZ7NAUHXA.jpg?auth=600834edc47817b84b3a85b92a7795b47e648bbaa4fd9b2f062998f1babecc35&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-18T18:11:32Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "13 claims we've investigated involving Strait of Hormuz",
-      "description": "As the Iran war disrupted global oil shipments, we examined claims involving gas prices, political threats and the use of nuclear weapons.",
-      "url": "https://www.snopes.com/collections/strait-of-hormuz-iran-war-collection/",
-      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/07/strait_of_hormuz_collection.png",
-      "publishedAt": "2026-07-18T18:00:09Z",
-      "source": {
-        "name": "Snopes.com"
-      }
-    },
-    {
-      "title": "Iran\u2019s supreme leader in a new statement warns of \u2018unforgettable lessons\u2019 if US continues attacks",
-      "description": "Iran\u2019s supreme leader is warning of \"unforgettable lessons\" if the U.S. continues its attacks on the Islamic Republic. This comes hours after Iran said it was suspending its commitments to the countries' interim deal. The conflict over the Strait of Hormuz has intensified, with both nations targeting infrastructure. U.S. strikes hit Iranian sites earlier Saturday, while Iran's attacks caused significant damage in Kuwait, including a water desalination plant. The Gulf Cooperation Council has accused Iran of war crimes. The strait remains effectively closed, impacting global oil prices and shipping.",
-      "url": "https://www.ajc.com/news/2026/07/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-us-continues-attacks/",
-      "image": "https://images.ajc.com/resizer/v2/2AJAISP7VRDB7DX3XHZ7NAUHXA.jpg?auth=600834edc47817b84b3a85b92a7795b47e648bbaa4fd9b2f062998f1babecc35&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-18T17:11:25Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Escalation in the Gulf: Iran and U.S. Exchange Strikes Amidst Rising Tensions",
-      "description": "Iran has intensified attacks on Washington's Gulf allies, including Kuwait and Jordan, after a week of U.S. military strikes on Iranian targets. This escalation threatens a return to full-scale war, with repercussions including damaged infrastructure and rising oil prices. Strikes affected vital energy and military sites.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3952457-escalation-in-the-gulf-iran-and-us-exchange-strikes-amidst-rising-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_07_2024_07_40_18_7682775.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-18T16:10:17Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Time Is Ticking For Oil Reserves",
-      "description": "Rising geopolitical tensions are driving crude oil prices higher, signaling potential shortages and market volatility ahead.",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/why-oil-inventories-matter-more-than-ever/article71234902.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/c98huf/article71235094.ece/alternates/LANDSCAPE_1200/PO19_BS_Oil_problems.jpg",
-      "publishedAt": "2026-07-18T15:46:42Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Oil and Gas Employment Hits a 2026 Low Even as Production Sets Records",
-      "description": "U.S. oil and gas jobs hit a 2026 low even as production sets records, and the reasons have little to do with falling oil prices.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-and-Gas-Employment-Hits-a-2026-Low-Even-as-Production-Sets-Records.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_nywhawpspu.jpg",
-      "publishedAt": "2026-07-18T15:00:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Crude Check: Oil Back in Bullish Territory",
-      "description": "Crude oil prices show bullish momentum, with key resistance levels indicating potential rallies for Brent and MCX futures.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-oil-back-in-bullish-territory/article71237759.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/95sdyg/article71237761.ece/alternates/LANDSCAPE_1200/PO19_BS_Oil_market_rise.jpg",
-      "publishedAt": "2026-07-18T14:29:36Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Kerosene oil prices rises in Pakistan",
-      "description": "Oil and Gas Regulatory Authority (OGRA) raised the price of kerosene by Rs. 34.33 per liter, bringing the new price to Rs. 276.66 per liter.",
-      "url": "https://www.bolnews.com/business/kerosene-oil-prices-rises-in-pakistan/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/Kerosene-1.webp",
-      "publishedAt": "2026-07-18T14:08:26Z",
-      "source": {
-        "name": "BOL News"
+        "name": "WTOP"
       }
     }
   ]
