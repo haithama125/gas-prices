@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-19T01:45:13+00:00",
+  "updated_at": "2026-07-19T07:59:02+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "run Midland petrol station after they send message over 'double whammy'",
-      "description": "D.C Edginton & Sons operate the family-run business on the Alcester Road in Studley, Warwickshire",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/good-customers-help-family-run-34312851",
-      "image": "https://i2-prod.birminghammail.co.uk/article34312901.ece/ALTERNATES/s1200d/1_DC-Edginton-Sonsjfif.jpg",
-      "publishedAt": "2026-07-18T13:02:41Z",
+      "title": "The sell-off for AI stars worsens, while oil prices keep jumping",
+      "description": "The sell-off for AI winners deepened and yanked stock markets lower worldwide",
+      "url": "https://www.barchart.com/story/news/3329253/the-sell-off-for-ai-stars-worsens-while-oil-prices-keep-jumping",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/3fd073a45a39440ba3540148a22cc05a/3fd073a45a39440ba3540148a22cc05a_main_financial_markets_wall_street_4_22_.jpg",
+      "publishedAt": "2026-07-18T18:39:24Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "Barchart"
       }
     },
     {
-      "title": "2026 Maruti Brezza facelift launching on July 24: Expected price, Boosterjet engine, panoramic sunroof, features and all you need to know",
-      "description": "Maruti Suzuki will launch the 2026 Brezza facelift on July 24. The updated SUV receives cosmetic changes and new interior features. A potential 1.0-litre Boosterjet turbo-petrol engine may also debut. Existing safety features are expected to remain strong for buyers. This facelift aims to enhance its competitive edge in the market.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/2026-maruti-brezza-facelift-launching-on-july-24-expected-price-boosterjet-engine-panoramic-sunroof-features-and-all-you-need-to-know/articleshow/132478982.cms",
-      "image": "https://img.etimg.com/thumb/msid-132479409,width-1200,height-630,imgsize-575564,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-18T11:34:00Z",
+      "title": "US Strikes Iran Despite Tehran Threatening Full-Scale War, Oil Prices Surge",
+      "description": "US strikes Iran for a seventh straight night despite Tehran's full-scale war threat as oil price jumped amid Strait of Hormuz blockade.",
+      "url": "https://coingape.com/us-strikes-iran-despite-tehran-threatening-full-scale-war-oil-prices-surge/",
+      "image": "https://coingape.com/wp-content/uploads/2026/04/us-iran_update_conflict_may-1.webp",
+      "publishedAt": "2026-07-18T18:26:39Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CoinGape"
       }
     },
     {
-      "title": "Man Sets Wife Ablaze For Refusing To Prepare Tea, Gets Life Imprisonment",
-      "description": "A Bhopal district court sentenced Pritam Meena to life imprisonment for burning his wife, Durga, alive after she refused to make tea because she was unwell. Before dying, Durga told police her husband poured petrol on her, set her ablaze, and threatened to kill her after she sought rest.",
-      "url": "https://www.freepressjournal.in/bhopal/man-sets-wife-ablaze-for-refusing-to-prepare-tea-gets-life-imprisonment",
-      "image": "https://media.assettype.com/freepressjournal/2025-11-28/v1sv9kq0/Legal-Matter-1.jpg",
-      "publishedAt": "2026-07-18T10:56:14Z",
+      "title": "US military says 2 troops are dead and 1 is missing after Iran attacks a base in Jordan",
+      "description": "The U.S. military is reporting the first U.S. troop deaths from direct Iranian fire since the war's early days. Two were killed and one is missing after an attack on a base in Jordan on Friday. Iran's supreme leader warns of \"unforgettable lessons\" if the U.S. continues its attacks, and Tehran says it has suspended its commitments to the interim deal signed with the U.S. The intensifying exchange of fire in recent days has hit infrastructure and affected civilians. The conflict over the Strait of Hormuz is again impacting global oil prices. There is no new word on mediation efforts.",
+      "url": "https://www.ajc.com/news/2026/07/us-military-says-2-troops-are-dead-and-1-is-missing-after-iran-attacks-a-base-in-jordan/",
+      "image": "https://images.ajc.com/resizer/v2/2AJAISP7VRDB7DX3XHZ7NAUHXA.jpg?auth=600834edc47817b84b3a85b92a7795b47e648bbaa4fd9b2f062998f1babecc35&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-18T18:11:32Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Pakistan's fuel pricing shake-up: Petrol pump owners threaten strike over govt's daily price revisions",
-      "description": "Pakistan had moved from fortnightly to weekly fuel price revisions following the outbreak of the US-Iran conflict in late February.",
-      "url": "https://www.moneycontrol.com/world/pakistan-s-fuel-pricing-shake-up-petrol-pump-owners-threaten-strike-over-govt-s-daily-price-revisions-article-13977413.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260512135047_Pakistan-Fuel-3.jpg",
-      "publishedAt": "2026-07-18T10:51:32Z",
+      "title": "13 claims we've investigated involving Strait of Hormuz",
+      "description": "As the Iran war disrupted global oil shipments, we examined claims involving gas prices, political threats and the use of nuclear weapons.",
+      "url": "https://www.snopes.com/collections/strait-of-hormuz-iran-war-collection/",
+      "image": "https://mediaproxy.snopes.com/width/1200/https://media.snopes.com/2026/07/strait_of_hormuz_collection.png",
+      "publishedAt": "2026-07-18T18:00:09Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Snopes.com"
       }
     },
     {
-      "title": "E20 fuel debate intensifies: Former HPCL chief says ethanol blend won\u2019t cut petrol prices",
-      "description": "Former HPCL CMD MK Surana says ethanol blending offers an important economic advantage by helping cushion fuel prices when international crude oil markets experience sharp volatility, thereby improving price stability",
-      "url": "https://www.livemint.com/industry/energy/e20-fuel-debate-intensifies-former-hpcl-chief-says-ethanol-blend-won-t-cut-petrol-prices-11784367352698.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/18/1600x900/Ethanol_1784367480221_1784367480358_ce3e1253-a365-4b81-a721-2e13dc790012.jpg",
-      "publishedAt": "2026-07-18T10:10:59Z",
+      "title": "Iran\u2019s supreme leader in a new statement warns of \u2018unforgettable lessons\u2019 if US continues attacks",
+      "description": "Iran\u2019s supreme leader is warning of \"unforgettable lessons\" if the U.S. continues its attacks on the Islamic Republic. This comes hours after Iran said it was suspending its commitments to the countries' interim deal. The conflict over the Strait of Hormuz has intensified, with both nations targeting infrastructure. U.S. strikes hit Iranian sites earlier Saturday, while Iran's attacks caused significant damage in Kuwait, including a water desalination plant. The Gulf Cooperation Council has accused Iran of war crimes. The strait remains effectively closed, impacting global oil prices and shipping.",
+      "url": "https://www.ajc.com/news/2026/07/irans-supreme-leader-in-a-new-statement-warns-of-unforgettable-lessons-if-us-continues-attacks/",
+      "image": "https://images.ajc.com/resizer/v2/2AJAISP7VRDB7DX3XHZ7NAUHXA.jpg?auth=600834edc47817b84b3a85b92a7795b47e648bbaa4fd9b2f062998f1babecc35&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-18T17:11:25Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12551282",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-7-14goodmorningnorthbaybct-6-a-walk-by-sunlight-north-bay-garrett.jpeg;w=1080;h=862;mode=crop",
-      "publishedAt": "2026-07-18T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Escalating Conflict in the Gulf: Iran Strikes at US and Allies",
-      "description": "Iran launched multiple attacks on US allies, including strikes on US facilities in Kuwait and Bahrain, following a ceasefire collapse. The conflict has raised concerns of regional destabilization, affecting global oil prices and civilian infrastructure. The potential for a full-scale war looms as both sides engage in retaliatory actions.",
-      "url": "https://www.devdiscourse.com/article/politics/3952340-escalating-conflict-in-the-gulf-iran-strikes-at-us-and-allies",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2025_06_38_27_3525827.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-18T09:57:41Z",
+      "title": "Escalation in the Gulf: Iran and U.S. Exchange Strikes Amidst Rising Tensions",
+      "description": "Iran has intensified attacks on Washington's Gulf allies, including Kuwait and Jordan, after a week of U.S. military strikes on Iranian targets. This escalation threatens a return to full-scale war, with repercussions including damaged infrastructure and rising oil prices. Strikes affected vital energy and military sites.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3952457-escalation-in-the-gulf-iran-and-us-exchange-strikes-amidst-rising-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_07_2024_07_40_18_7682775.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-18T16:10:17Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "US and Iran exchange strikes as they struggle over Strait of Hormuz",
-      "description": "The United States and Iran exchanged strikes on Saturday, intensifying their battle for the Strait of Hormuz. Kuwait intercepted Iranian missiles and drones, while Iraq and Jordan also reported downed projectiles. US airstrikes hit electricity and desalination plants in Iran's Hormozgan province. Iran effectively closed the strait to shipping traffic after the war started. The conflict has caused oil prices to surge and disrupted global trade routes.",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-and-iran-exchange-strikes-as-they-struggle-over-strait-of-hormuz/articleshow/132477414.cms",
-      "image": "https://img.etimg.com/thumb/msid-132477493,width-1200,height-630,imgsize-138224,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-07-18T09:42:00Z",
+      "title": "Time Is Ticking For Oil Reserves",
+      "description": "Rising geopolitical tensions are driving crude oil prices higher, signaling potential shortages and market volatility ahead.",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/why-oil-inventories-matter-more-than-ever/article71234902.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/c98huf/article71235094.ece/alternates/LANDSCAPE_1200/PO19_BS_Oil_problems.jpg",
+      "publishedAt": "2026-07-18T15:46:42Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Kuwait says Iran has struck a water desalination plant, the second such attack in 2 days",
-      "description": "United States and Iran exchanged strikes targeting infrastructure and military sites. Kuwait, Iraq, and Jordan reported intercepting Iranian missiles and drones. The conflict intensified over control of the vital Strait of Hormuz waterway. Oil prices rose as shipping through the strait saw a significant decline. Both nations continue their military actions with no clear end in sight.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/kuwait-says-iran-has-struck-a-water-desalination-plant-the-second-such-attack-in-2-days/articleshow/132476620.cms",
-      "image": "https://img.etimg.com/thumb/msid-132476762,width-1200,height-630,imgsize-138256,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-18T08:38:00Z",
+      "title": "Oil and Gas Employment Hits a 2026 Low Even as Production Sets Records",
+      "description": "U.S. oil and gas jobs hit a 2026 low even as production sets records, and the reasons have little to do with falling oil prices.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-and-Gas-Employment-Hits-a-2026-Low-Even-as-Production-Sets-Records.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-16_nywhawpspu.jpg",
+      "publishedAt": "2026-07-18T15:00:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Teens pour petrol on customers and set them on fire in horror UK restaurant attack",
-      "description": "Two people were left with critical burn injuries after two teenagers poured petrol over customers before setting fire to an east London restaurant",
-      "url": "https://www.mirror.co.uk/news/uk-news/teens-pour-petrol-customers-set-37447082",
-      "image": "https://i2-prod.mirror.co.uk/article37447173.ece/ALTERNATES/s1200d/0_Screenshot-2026-07-18-092951.png",
-      "publishedAt": "2026-07-18T08:31:44Z",
+      "title": "Crude Check: Oil Back in Bullish Territory",
+      "description": "Crude oil prices show bullish momentum, with key resistance levels indicating potential rallies for Brent and MCX futures.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-oil-back-in-bullish-territory/article71237759.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/95sdyg/article71237761.ece/alternates/LANDSCAPE_1200/PO19_BS_Oil_market_rise.jpg",
+      "publishedAt": "2026-07-18T14:29:36Z",
       "source": {
-        "name": "The Mirror"
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Kerosene oil prices rises in Pakistan",
+      "description": "Oil and Gas Regulatory Authority (OGRA) raised the price of kerosene by Rs. 34.33 per liter, bringing the new price to Rs. 276.66 per liter.",
+      "url": "https://www.bolnews.com/business/kerosene-oil-prices-rises-in-pakistan/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/Kerosene-1.webp",
+      "publishedAt": "2026-07-18T14:08:26Z",
+      "source": {
+        "name": "BOL News"
       }
     }
   ]
