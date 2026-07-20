@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-07-20T03:18:24+00:00",
+  "updated_at": "2026-07-20T08:40:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Congress leader doused in petrol, set ablaze by fellow workers in Warangal, succumbs on way to Hyd",
+      "description": "Congress worker A Mahesh, 52, was allegedly doused in petrol and set on fire by fellow party workers near Warangal; he died while being shifted to Hyderabad.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/congress-leader-doused-in-petrol-set-ablaze-by-fellow-workers-in-warangal-succumbs-on-way-to-hyd/articleshow/132501012.cms",
+      "image": "https://static.toiimg.com/thumb/msid-131537067,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-19T19:24:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Petrol attack at Vembayam bar leaves four with burn injuries",
+      "description": "A petrol attack at a Vembayam bar leaves four men injured, including the alleged attacker, amid dramatic scenes.",
+      "url": "https://www.thehindu.com/news/national/kerala/petrol-attack-at-vembayam-bar-leaves-four-with-burn-injuries/article71242572.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "publishedAt": "2026-07-19T18:28:19Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Three suffer burns after man sets another on fire at bar in TVM",
+      "description": "A bar brawl in Vembayam reportedly escalated when one man allegedly set another alight with petrol, causing severe burns to three individuals.bar fight Thiruvananthapuram, arson attack Vembayam, severe burns bar brawl, petrol attack incident, violent altercation hotel, Thiruvananthapuram Medical College Hospital, Venjaramoodu Police investigation, Nedumangad Fire and Rescue Services response, hotel fire incident Kerala, man set on fire bar, injuries sustained drinking, cause of altercation unknown, police at hospital, bar furniture on fire, Sunday night incident",
+      "url": "https://www.onmanorama.com/news/kerala/2026/07/19/three-suffer-burns-after-man-sets-another-on-fire-at-bar-in-thiruvananthapuram.html",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/news/india/images/2024/12/23/fire-rep.jpg",
+      "publishedAt": "2026-07-19T17:52:17Z",
+      "source": {
+        "name": "Malayala Manorama"
+      }
+    },
+    {
+      "title": "Parliament Monsoon Session begins July 20: Delimitation, NEET paper leak, TMC rebellion among key flashpoints",
+      "description": "The Parliament Monsoon Session, which will continue till August 13, is expected to be stormy, with the opposition looking to corner the government over Ram Temple donation theft case, the NEET paper leak, the CJP protests, E20 petrol, price hike and delimitation.",
+      "url": "https://www.indiatvnews.com/news/india/parliament-monsoon-session-begins-july-20-delimitation-neet-paper-leak-tmc-rebellion-among-key-flashpoints-2026-07-19-1048759",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/07/lok-sabha-1784482131.jpg",
+      "publishedAt": "2026-07-19T17:31:25Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "Dalal Street Week Ahead: West Asia conflict-led oil prices, Q1 earnings, rupee, flash PMI among 10 key factors to watch",
+      "description": "Overall, the market will remain volatile and consolidative with a positive bias and focus majorly on further June quarter earnings, and renewed West Asia tensions that impacts oil prices as well as rupee, according to experts.",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-west-asia-conflict-led-oil-prices-q1-earnings-rupee-flash-pmi-among-10-key-factors-to-watch-13977831.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260609044242_volatile-1.jpeg",
+      "publishedAt": "2026-07-19T16:37:02Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Tata Nexon Rebranded: Popular SUV Heading to South Africa as 'Osprey'",
+      "description": "Tata Motors plans to launch the Nexon in South Africa as the Osprey by the third quarter of 2026, marking its fifth product in that market. While the Osprey retains the same specifications as the Nexon, it will only offer a petrol engine option., Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/tata-nexon-rebranded-popular-suv-heading-to-south-africa-as-osprey-article-155134266",
+      "image": "https://images.timesnownews.com/thumb/msid-155134289,thumbsize-60982,width-1280,height-720,resizemode-75/155134289.jpg",
+      "publishedAt": "2026-07-19T16:13:59Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "US EV sales are down, but not out. Here\u2019s why automakers won\u2019t pull the plug",
+      "description": "By Chris Isidore, CNN (CNN) \u2014 A quick glance at US electric vehicle sales might give the impression EVs are a niche product, unable to shake Americans\u2019 love affair with gas-powered trucks and SUVs. The recent spike in gas prices did little to lift sales, and the elimination of some tax incentives last year cut",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2026/07/19/us-ev-sales-are-down-but-not-out-heres-why-automakers-wont-pull-the-plug/",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/07/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXJwNmd1MXYwMDAwM2I2cjh3MXR3NDV1-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtcnA2MmZlczAwMHkyN3A2ZHF3N2djdTI-860x595.jpg",
+      "publishedAt": "2026-07-19T16:00:26Z",
+      "source": {
+        "name": "ABC17News.com"
+      }
+    },
+    {
+      "title": "Reality check: Has the post-NEP classroom really changed?",
+      "description": "Maruti Suzuki is launching the Brezza facelift on July 24, introducing a 1.0-litre Boosterjet turbocharged petrol engine to regain segment leadership.",
+      "url": "https://www.financialexpress.com/jobs-career/education/reality-check-has-the-post-nep-classroom-really-changed/4296496/",
+      "image": "https://images.financialexpressdigital.com/2026/07/education_1_20260719151553.jpg",
+      "publishedAt": "2026-07-19T15:20:30Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
     {
       "title": "How the Strait of Hormuz could affect Social Security checks as rising oil prices may boost 2027 COLA",
       "description": "Strait of Hormuz tensions and rising oil prices could push the 2027 Social Security COLA higher, but inflation may reduce the benefit of bigger checks.",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-07-19T13:57:51Z",
       "source": {
         "name": "BreakingNews.ie"
-      }
-    },
-    {
-      "title": "Why are US gas prices rising again? Iran conflict sparks fresh fuel price fears",
-      "description": "US gas prices are rising again as the Iran conflict disrupts oil supplies. Here's why fuel prices, inflation and the Strait of Hormuz matter.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/why-are-us-gas-prices-rising-again-iran-conflict-sparks-fresh-fuel-price-fears-101784466514339.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/19/550x309/pexels-photo-12377482_1784466805556_1784466817791_0e295c1d-b983-49aa-8e16-e8d93d9f5e0f.jpeg",
-      "publishedAt": "2026-07-19T13:33:24Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "$100 oil price offers sustainable operating environment for airlines",
-      "description": "Air India Express Chairman Nipun Aggarwal discusses sustainable oil prices for airlines, targeting $90-100 per barrel amid geopolitical tensions.",
-      "url": "https://www.cnbctv18.com/business/aviation/air-india-nipun-aggarwal-says-90-100-dollar-oil-price-offers-sustainable-operating-environment-for-airlines-19948939.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/plane-flight-chatgpt-1600x900-3jul-2026-07-d6d967ab1ae18b2075a46becee557440.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-19T12:09:14Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Gold, Silver Face Another Volatile Week, West Asia Tensions & Oil Surge Cloud Bullion Outlook",
-      "description": "Gold and silver may remain under pressure as rising oil prices, the US-Iran conflict, Fed rate expectations and key global data keep bullion markets volatile.",
-      "url": "https://www.freepressjournal.in/business/gold-silver-face-another-volatile-week-west-asia-tensions-oil-surge-cloud-bullion-outlook",
-      "image": "https://media.assettype.com/freepressjournal/2025-10-09/xtnu28ya/gold-silver-rally.jpg",
-      "publishedAt": "2026-07-19T11:29:34Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Gold, silver brace for another tough week amid oil surge, US",
-      "description": "Gold and silver are expected to remain on the back foot in the next week as traders assess the impact of the escalating West Asia conflict, firm crude oil prices and key global macroeconomic data releases, analysts said.",
-      "url": "https://www.tribuneindia.com/news/business/gold-silver-brace-for-another-tough-week-amid-oil-surge-us-iran-conflict-risks-analysts/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQyNDI1YWUwLTgzNjAtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-      "publishedAt": "2026-07-19T10:54:44Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Westminster Council apologises after residents' tap water turns brown and smells like petrol",
-      "description": "Residents in Morgan House have said that they are scared to use the tap water as they don\u2019t think the council has carried out sufficient testing",
-      "url": "https://www.standard.co.uk/news/london/westminster-council-tap-water-london-pimlico-thames-b1290522.html",
-      "image": "https://static.standard.co.uk/2026/06/15/8/43/Screenshot-2021-11-17-11-23-14-(1).png?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-07-19T10:10:37Z",
-      "source": {
-        "name": "Evening Standard"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12551287",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-7-14goodmorningnorthbaybct-7-colourful-shops-on-oak-street-north-bay-arif.jpeg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-07-19T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "J.P. Morgan Says These 2 Beaten-Down IPO Stocks Could Rebound",
-      "description": "Geopolitical tensions in the Middle East have escalated in recent days, reviving concerns about oil prices, inflation, and the global economic o...",
-      "url": "https://markets.businessinsider.com/news/stocks/j-p-morgan-says-these-2-beaten-down-ipo-stocks-could-rebound-1036339001",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2026/07/image-1863-1024x547.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "publishedAt": "2026-07-19T09:57:00Z",
-      "source": {
-        "name": "Markets Insider"
-      }
-    },
-    {
-      "title": "Boris Johnson clashes with Trevor Phillips over his behaviour as PM",
-      "description": "Boris Johnson rejected the suggestion that his behaviour as prime minister contributed to a \u201ccoarsening\u201d of politics. In an exclusive interview broadcast on Sky News on Sunday (19 July), Trevor Phillips asked the former Conservative leader whether he may \"bear some responsibility for the coarsening of politics,\u201d referencing the Partygate scandal. Mr Johnson told Mr Phillips: \u201cB*****ks. \u201cI don't believe anybody would say that in their right mind [would say that].\u201d The former prime minister went on to describe the Partygate scandal as \u201cnonsense.\u201d Later in the interview, Mr Johnson praised Rachel Reeves for firing back at a heckler at a petrol station.",
-      "url": "https://www.independent.co.uk/tv/news/boris-johnson-trevor-phillips-sky-news-b3017626.html",
-      "image": "https://cdn.jwplayer.com/v2/media/3v6XhDxj/poster.jpg?width=720",
-      "publishedAt": "2026-07-19T09:39:55Z",
-      "source": {
-        "name": "The Independent"
       }
     }
   ]
