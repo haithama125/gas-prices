@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-21T01:45:27+00:00",
+  "updated_at": "2026-07-21T08:07:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Nifty Outlook for July 21: Trend remains positive till 24,000 holds; oil prices remain key",
-      "description": "After remaining under pressure through most of the first half, the Nifty recovered more than 100 points from the day's low in the second half, helping trim intraday losses.",
-      "url": "https://www.cnbctv18.com/market/nifty-outlook-for-july-21-trend-remains-positive-till-24000-holds-oil-prices-remain-key-19949874.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-f29c384f44792e744a69e8927120eff6.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-20T13:41:25Z",
+      "title": "US gas prices back up to an average of $4 a gallon again as the US and Iran launch attacks",
+      "description": "U.S. gas prices have jumped to an average of $4 a gallon again as the U.S. and Iran launch more attacks",
+      "url": "https://www.barchart.com/story/news/3370237/us-gas-prices-back-up-to-an-average-of-4-a-gallon-again-as-the-us-and-iran-launch-attacks",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/c0b69b0507714933994727f294ff5c9a/c0b69b0507714933994727f294ff5c9a_main_us_energy_crisis_61767.jpg",
+      "publishedAt": "2026-07-20T19:50:56Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Barchart"
       }
     },
     {
-      "title": "U.S. gas prices hit an average of $4 a gallon again as the U.S. and Iran launch attacks",
-      "description": "The price is a national average, meaning drivers in some states have been paying well over $4 a gallon for a while now.",
-      "url": "https://www.pbs.org/newshour/nation/u-s-gas-prices-hit-an-average-of-4-a-gallon-again-as-the-u-s-and-iran-launch-attacks",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/07/AP26177445561767-1024x683.jpg",
-      "publishedAt": "2026-07-20T13:32:47Z",
+      "title": "Iran Conflict Deepens, Raising Global Supply Concerns",
+      "description": "Renewed U.S.-Iran military escalation and mounting concerns over the Strait of Hormuz are driving oil prices higher while raising fresh questions about",
+      "url": "https://www.europesays.com/3143330/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/1784531637_kurdistan24.jpg",
+      "publishedAt": "2026-07-20T19:37:18Z",
       "source": {
-        "name": "PBS News"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Govt yet to decide on raising ethanol blending in petrol beyond 20 pc: MoS",
-      "description": "Govt yet to decide on raising ethanol blending in petrol beyond 20 pc: MoS - New Delhi, July 20 The government has not taken any decision to increase ethanol blending in petrol beyond ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/govt-yet-to-decide-on-raising-ethanol-blending-in-petrol-beyond-20-pc-mos-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607203871797_202607.jpg",
-      "publishedAt": "2026-07-20T13:18:08Z",
+      "title": "Dollar Supported by Higher T-Note Yields and Crude Prices",
+      "description": "The dollar index (DXY00 ) rose by +0.18% on Monday. The dollar strengthened on Monday as escalation of hostilities between the US and Iran is boosting crude oil prices, which raises inflation expectations that could prompt the Fed to tighten monetar...",
+      "url": "https://www.barchart.com/story/news/3369806/dollar-supported-by-higher-t-note-yields-and-crude-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Pile%20of%20money%20by%20Atlantagreg%20via%20iStock.jpg",
+      "publishedAt": "2026-07-20T19:36:03Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Govt yet to decide on raising ethanol blending in petrol beyond 20 pc: MoS",
-      "description": "Govt yet to decide on raising ethanol blending in petrol beyond 20 pc: MoS - New Delhi, July 20 The government has not taken any decision to increase ethanol blending in petrol beyond ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/govt-yet-to-decide-on-raising-ethanol-blending-in-petrol-beyond-20-pc-mos/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607203871797_202607.jpg",
-      "publishedAt": "2026-07-20T13:18:08Z",
+      "title": "Crude Prices Gain on Escalation of US-Iran Hostilities",
+      "description": "August WTI crude oil (CLQ26 ) on Monday closed up +0.74 (+0.90%), and August RBOB gasoline (RBQ26 ) closed down -0.0037 (-0.11%). Crude oil and gasoline prices settled mixed on Monday, with crude oil rallying to a 5-week high amid the escalation of h...",
+      "url": "https://www.barchart.com/story/news/3369601/crude-prices-gain-on-escalation-of-us-iran-hostilities",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-20T19:15:50Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Europe Faces Diesel Crunch as Inventories Head Toward Multi-Year Lows",
-      "description": "European diesel markets are tightening rapidly as supply disruptions, Russia's diesel export ban, and low global inventories push stocks toward multi-year lows despite weaker crude oil prices.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Faces-Diesel-Crunch-as-Inventories-Head-Toward-Multi-Year-Lows.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-20_uhmzzlwaej.jpg",
-      "publishedAt": "2026-07-20T13:15:00Z",
+      "title": "Nat-Gas Prices Weaken on Tropical Storm Risk",
+      "description": "August Nymex natural gas (NGQ26 ) on Monday closed down -0.051 (-1.75%). Nat-gas prices retreated on Monday and are just above last Thursday\u2019s 2-month low. Prices are under pressure amid concern that a tropical depression will become Tropical Storm...",
+      "url": "https://www.barchart.com/story/news/3369579/nat-gas-prices-weaken-on-tropical-storm-risk",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Weather/Extreme%20winds%20hurricane%20in%20Florida%20by%20Free%20for%20use%20via%20Pixabay.jpg",
+      "publishedAt": "2026-07-20T19:13:47Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates, AAA data shows",
-      "description": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "url": "https://www.cbsnews.com/news/gas-prices-iran-war-oil-supply/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/a96d63a1-1585-4731-8ea8-8e40f79221a7/thumbnail/1200x630/abed2c1975a3c98575829e702f4f0321/gettyimages-2286271715.jpg",
-      "publishedAt": "2026-07-20T13:13:51Z",
+      "title": "Godrej Agro to expand oil palm area to 1.4 lakh hectares, bets on rising demand",
+      "description": "Edible oil prices are expected to stay elevated for several months ahead. Geopolitical tensions and El Nino threats are tightening global supplies significantly. Indonesia's biodiesel push further reduces palm oil available for export markets. India's festive season demand will also contribute to strengthening edible oil prices. Domestic oil palm cultivation expansion aims to reduce import dependence.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/godrej-agro-to-expand-oil-palm-area-to-1-4-lakh-hectares-bets-on-rising-demand/articleshow/132523385.cms",
+      "image": "https://img.etimg.com/thumb/msid-132523400,width-1200,height-630,imgsize-1363037,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-20T19:07:00Z",
       "source": {
-        "name": "CBS News"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates, AAA data shows",
-      "description": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "url": "https://www.cbsnews.com/texas/news/gas-prices-iran-war-oil-supply/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/a96d63a1-1585-4731-8ea8-8e40f79221a7/thumbnail/1200x630/abed2c1975a3c98575829e702f4f0321/gettyimages-2286271715.jpg",
-      "publishedAt": "2026-07-20T13:13:51Z",
+      "title": "Dollar Climbs Amid Iran Tensions and UK Political Shifts",
+      "description": "The dollar rose due to escalating Iran tensions and the ascension of Andy Burnham as UK Prime Minister. Meanwhile, Houthis imposed a naval blockade on Saudi Arabia, impacting energy markets. Oil prices fluctuated amid potential diplomacy talks. The pound weakened, highlighting market caution over Burnham's economic strategies.",
+      "url": "https://www.devdiscourse.com/article/business/3953116-dollar-climbs-amid-iran-tensions-and-uk-political-shifts",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_05_20_42_6234505.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-20T18:59:56Z",
       "source": {
-        "name": "CBS News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates, AAA data shows",
-      "description": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "url": "https://www.cbsnews.com/sacramento/news/gas-prices-iran-war-oil-supply/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/a96d63a1-1585-4731-8ea8-8e40f79221a7/thumbnail/1200x630/abed2c1975a3c98575829e702f4f0321/gettyimages-2286271715.jpg",
-      "publishedAt": "2026-07-20T13:13:51Z",
+      "title": "Chip Stocks Rebound Amid Middle East Tensions and Earnings Anticipation",
+      "description": "The S&P 500 and Nasdaq rose as chip stocks recovered and investors anticipated major tech earnings, amid Middle East tensions involving a naval blockade by Yemen's Houthis. A possible US-Iran de-escalation proposal surfaced, aiming to stabilize oil prices. Investors sought bargains in the chip sector, with earnings from major companies like Tesla and Intel awaited.",
+      "url": "https://www.devdiscourse.com/article/business/3953112-chip-stocks-rebound-amid-middle-east-tensions-and-earnings-anticipation",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_11_42_28_8098805.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-20T18:54:47Z",
       "source": {
-        "name": "CBS News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates, AAA data shows",
-      "description": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "url": "https://www.cbsnews.com/detroit/news/gas-prices-iran-war-oil-supply/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/a96d63a1-1585-4731-8ea8-8e40f79221a7/thumbnail/1200x630/abed2c1975a3c98575829e702f4f0321/gettyimages-2286271715.jpg",
-      "publishedAt": "2026-07-20T13:13:51Z",
+      "title": "Tips to turn a staycation into a real vacation without blowing your budget",
+      "description": "High gas prices are keeping more Americans home this summer. A WalletHub expert shares tips on how to plan a staycation that feels like a real vacation on a budget.",
+      "url": "https://www.wistv.com/2026/07/20/tips-turn-staycation-into-real-vacation-without-blowing-your-budget/",
+      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/RGC3PAVHRJFYNLAWEZKZ6NKXHQ.jpg?auth=e04dc1712c2b1150e1dce0d534c94dd961b2c8cbae7a1510c1d791957b15a8b2&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-20T18:43:12Z",
       "source": {
-        "name": "CBS News"
+        "name": "WIS10"
       }
     },
     {
-      "title": "Gas prices top $4 a gallon again as U.S.-Iran conflict escalates, AAA data shows",
-      "description": "The national average for a gallon of gas reached $4.003 on Monday, the first time in over a month it has crossed that threshold, AAA data shows.",
-      "url": "https://www.cbsnews.com/losangeles/news/gas-prices-iran-war-oil-supply/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/20/a96d63a1-1585-4731-8ea8-8e40f79221a7/thumbnail/1200x630/abed2c1975a3c98575829e702f4f0321/gettyimages-2286271715.jpg",
-      "publishedAt": "2026-07-20T13:13:51Z",
+      "title": "Tips to turn a staycation into a real vacation without blowing your budget",
+      "description": "High gas prices are keeping more Americans home this summer. A WalletHub expert shares tips on how to plan a staycation that feels like a real vacation on a budget.",
+      "url": "https://www.weau.com/2026/07/20/tips-turn-staycation-into-real-vacation-without-blowing-your-budget/",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/RGC3PAVHRJFYNLAWEZKZ6NKXHQ.jpg?auth=e04dc1712c2b1150e1dce0d534c94dd961b2c8cbae7a1510c1d791957b15a8b2&width=1200&height=600&smart=true",
+      "publishedAt": "2026-07-20T18:43:12Z",
       "source": {
-        "name": "CBS News"
+        "name": "WEAU"
       }
     }
   ]
