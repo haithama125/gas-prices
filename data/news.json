@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-21T13:16:26+00:00",
+  "updated_at": "2026-07-21T19:02:58+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Equity markets faced pressure as Nifty declined, while broader markets showed gains. Analysts expect sideways to mixed trading due to geopolitical tensions and oil prices. The Indian rupee weakened to its lowest level in two months on Monday. India VIX, a fear index, saw a slight decrease settling at 12.98. Stock-specific action is anticipated as the Q1 earnings season progresses.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132526290.cms",
-      "image": "https://img.etimg.com/thumb/msid-132526286,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-21T01:07:00Z",
+      "title": "Oil prices to hit $120 soon? Goldman Sachs makes big prediction as Hormuz concerns loom",
+      "description": "Goldman Sachs has warned Brent crude could spike to $120 per barrel if disruptions through the Strait of Hormuz persist, though its base case assumes easing Middle East tensions and prices averaging $80 in Q4.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-to-hit-120-soon-goldman-sachs-makes-big-prediction-as-hormuz-concerns-loom/articleshow/132530153.cms",
+      "image": "https://img.etimg.com/thumb/msid-132530148,width-1200,height-630,imgsize-43944,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-21T06:59:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices dip as mediation efforts offset US-Iran strikes",
-      "description": "Oil prices softened on Tuesday, with markets weighing \u200breports of mediation efforts between the U.S. and Iran against an exchange of \u200cfresh attacks between the two and threats of a naval blockade of Saudi Arabia by Yemen's Houthis.",
-      "url": "https://www.reuters.com/business/energy/oil-prices-dip-mediation-efforts-offset-us-iran-strikes-2026-07-21/",
-      "image": "https://www.reuters.com/resizer/v2/7MTJQV4W2BMXTDZYNKN4BNRHXY.jpg?auth=11905df5297957eed6ee4a30bcb84a94379ea61720aad200b4457e2505b7cec2&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-21T01:04:22Z",
+      "title": "India's ethanol mission sees state-run fuel firms spend Rs 1.72 lakh crore",
+      "description": "Public Sector OMCs spent over Rs 48,000 crore on ethanol procurement in ESY 2023-24. They procured Rs 73,996 crore worth of ethanol during ESY 2024-25. As of July 2026, 501 ethanol manufacturing units were registered for supply. Uttar Pradesh led ethanol-blended petrol sales with 124.98 crore litres. The domestic procurement network supports the Ethanol Blended Petrol Programme nationwide.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-ethanol-mission-sees-state-run-fuel-firms-spend-rs-1-72-lakh-crore/articleshow/132530149.cms",
+      "image": "https://img.etimg.com/thumb/msid-132530233,width-1200,height-630,imgsize-92836,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-21T06:58:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "IMF says oil prices, weak monsoon pose biggest risks to India's FY27 GDP growth",
+      "description": "India's GDP growth in 2026/27 faces key downside risks from a \u200cwidening war in the Middle East that is driving up oil prices and a monsoon weakened by the El Nino weather effect, an International Monetary Fund official said.",
+      "url": "https://www.reuters.com/world/india/imf-says-oil-prices-weak-monsoon-pose-biggest-risks-indias-fy27-gdp-growth-2026-07-21/",
+      "image": "https://www.reuters.com/resizer/v2/MDF6KLXME5K5RAKOYNDKA2N7VM.jpg?auth=ace6d4d193ed1556fd56f36bc5f6cc177ae6c0edd5518617b121995dbbeb9543&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-21T06:56:59Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Oil Tensions Flare Amidst Mediation Talks",
-      "description": "Oil prices faced downward pressure due to mediation efforts between the U.S. and Iran, amidst threats from Yemen's Houthis to blockade Saudi Arabia. Brent crude futures declined slightly, while U.S. crude remained stable. Analysts cited the potential for de-escalation talks to influence oil price volatility.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3953189-oil-tensions-flare-amidst-mediation-talks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/22_08_2024_12_57_35_6430489.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-21T00:59:09Z",
+      "title": "Conflict sees gas prices rise again to $4 average",
+      "description": "After a brief respite, the price of gasoline in the United States is back on the rise.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/21/conflict-sees-gas-prices-rise-again-to-4-average/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
+      "publishedAt": "2026-07-21T06:55:00Z",
+      "source": {
+        "name": "Arkansas Online"
+      }
+    },
+    {
+      "title": "Oil prices, weak monsoon pose biggest risks to India's FY27 GDP growth, says IMF",
+      "description": "India's economic growth faces significant risks from a widening Middle East conflict. Rising oil prices and a potentially weak monsoon pose challenges for the nation. The International Monetary Fund has slightly adjusted its growth forecasts for upcoming years. The Fund will also reassess India's national accounts quality later this year. These assessments follow concerns raised about the country's statistical methods.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/oil-prices-weak-monsoon-pose-biggest-risks-to-indias-fy27-gdp-growth-says-imf/articleshow/132530097.cms",
+      "image": "https://img.etimg.com/thumb/msid-132530130,width-1200,height-630,imgsize-600136,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-21T06:55:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Rupee firms as oil retreats, traders gauge flow momentum under RBI measures",
+      "description": "The Indian rupee strengthened on Tuesday, benefiting from falling oil prices. Optimism over potential mediation in the U.S.-Iran conflict also aided sentiment. Strong inflows tied to the central bank's recent policy measures further supported the currency. These measures have attracted over twenty billion dollars in about a month. Regional Asian currencies and stocks also saw modest gains after oil prices dipped.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-firms-as-oil-retreats-traders-gauge-flow-momentum-under-rbi-measures/articleshow/132530051.cms",
+      "image": "https://img.etimg.com/thumb/msid-132530070,width-1200,height-630,imgsize-28762,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-21T06:52:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil Prices Dip Amid US-Iran Tensions and Houthi Threats",
+      "description": "Oil prices dipped on Tuesday as markets considered potential diplomacy between the U.S. and Iran amidst a new wave of conflicts, including Houthi threats to Saudi Arabia. Brent crude futures fell to $88.26 per barrel, while U.S. crude dipped to $82.50 per barrel. A 10-day ceasefire proposal is under review.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3953334-oil-prices-dip-amid-us-iran-tensions-and-houthi-threats",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2024_07_08_10_9482399.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-21T06:50:18Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Global Market Today: Asian stocks recover as chips rebound, oil dips",
-      "description": "Asian stocks advanced, recovering from recent losses as chip shares stabilized. Megacap technology earnings are anticipated this week, influencing market direction. Geopolitical tensions in the Middle East and trade concerns are creating investor caution. Elevated oil prices and escalating regional conflicts add to market uncertainty. Investors await corporate results and de-escalation for market rebounds.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-recover-as-chips-rebound-oil-dips/articleshow/132526242.cms",
-      "image": "https://img.etimg.com/thumb/msid-132526240,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-21T00:56:00Z",
+      "title": "India's Ethanol Procurement Surge: A Key Player in Blended Petrol Programme",
+      "description": "Public Sector Oil Marketing Companies (OMCs) have significantly increased their expenditure on ethanol procurement to support the Ethanol Blended Petrol Programme. By mid-2026, 501 manufacturing units were registered, contributing to the rise of domestic ethanol production and consumption, with Uttar Pradesh leading in ethanol-blended petrol sales.",
+      "url": "https://www.devdiscourse.com/article/business/3953325-indias-ethanol-procurement-surge-a-key-player-in-blended-petrol-programme",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_07_2026_12_03_13_4062199.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-21T06:33:18Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Houthi Red Sea blockade would push oil prices higher",
-      "description": "The Bab el-Mandeb connects the Red Sea with the Gulf of Aden and is a key route for crude and fuel shipments moving between the Middle East, Europe and Asia",
-      "url": "https://www.rappler.com/world/middle-east/houthi-red-sea-blockade-oil-prices/",
-      "image": "https://www.rappler.com/tachyon/2026/01/fuel-pump-price-increase-january-12-2026-002-scaled.jpg",
-      "publishedAt": "2026-07-21T00:54:38Z",
+      "title": "Goldman Warns Oil Could Hit $120 as Middle East War Drags On",
+      "description": "Crude oil prices could surge to $120 per barrel towards the end of the year if the war in the Middle East extends and the Strait of Hormuz remains closed for",
+      "url": "https://www.europesays.com/3144294/",
+      "image": "https://www.europesays.com/wp-content/uploads/2024/11/facebook-share-logo.png",
+      "publishedAt": "2026-07-21T06:29:20Z",
       "source": {
-        "name": "Rappler"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: Defiant Nifty bulls aim to protect 24,200 ahead of busy earnings day, weekly expiry",
-      "description": "Sensex Today | Stock Market LIVE Updates: The Nifty bulls enter today's weekly expiry session on the back of a defiant tone in which they intend on protecting the 24,200 - 24,000 zone on the downside, despite crude oil prices continuing to hover between $88 to $90 a barrel mark.",
-      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-expiry-today-hdfc-bank-bajaj-auto-paytm-ather-midcaps-share-price-liveblog-19950047.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-21T00:50:19Z",
+      "title": "Oil Reverses Gains on Renewed Hope of Peace in Iran",
+      "description": "Crude oil prices reversed their climb this morning, retreating on reports that efforts are being made to negotiate another ceasefire between the United States",
+      "url": "https://www.europesays.com/3144293/",
+      "image": "https://www.europesays.com/wp-content/uploads/2024/11/facebook-share-logo.png",
+      "publishedAt": "2026-07-21T06:28:19Z",
       "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Pacific Markets Mixed as S&P 500 Slips Amid Rising Oil Prices and Uncertainty",
-      "description": "Asia-Pacific equity markets traded mixed as rising oil prices and a softer S&P 500 close shaped regional sentiment. Australia's ASX 200 fell 0.53%, Japan's Nikkei 225 gained 1.28% on its return from a public holiday, and South Korea's KOSPI edged up 0.23%, reflecting divergent risk appetite across the region.",
-      "url": "https://scanx.trade/stock-market-news/global/asia-pacific-markets-start-mixed-with-u-s-futures-flat-amid-geopolitical-risks-and-fed-focus/45023779",
-      "image": "http://news-images.dhan.co/asia-pacific-markets-start-mixed-with-u-s-futures-flat-amid-geopolitical-risks-and-fed-focus.jpg",
-      "publishedAt": "2026-07-21T00:27:52Z",
-      "source": {
-        "name": "scanx.trade"
-      }
-    },
-    {
-      "title": "3 Canadian Energy Stocks to Watch as Oil Headlines Heat Up",
-      "description": "Explore the latest trends in energy as oil prices surge to US$79 per barrel amidst ongoing United States-Iran negotiations.",
-      "url": "https://www.fool.ca/2026/07/20/3-canadian-energy-stocks-to-watch-as-oil-headlines-heat-up-2/",
-      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1316669671-1200x800.jpg",
-      "publishedAt": "2026-07-21T00:15:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Rupee hits two-month low despite RBI intervention as crude oil surge weighs",
-      "description": "The Indian rupee fell to a two-month low against the dollar on Monday. This decline occurred despite significant interventions by the central bank. Rising crude oil prices are fueling inflation concerns across the economy. The market anticipates continued volatility influenced by oil and dollar strength. The Reserve Bank of India is expected to intervene further to support the rupee.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-two-month-low-despite-rbi-intervention-as-crude-oil-surge-weighs/articleshow/132526124.cms",
-      "image": "https://img.etimg.com/thumb/msid-132526120,width-1200,height-630,imgsize-34704,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-21T00:01:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Robber pointed knife at petrol station worker's chest and told him 'Open the till, give me the money'",
-      "description": "Reece Gillon has been jailed for three-and-a-half years at Newcastle Crown Court",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/robber-pointed-knife-petrol-station-34321792",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34322950.ece/ALTERNATES/s1200d/0_court.jpg",
-      "publishedAt": "2026-07-20T23:45:00Z",
-      "source": {
-        "name": "Evening Chronicle"
+        "name": "EUROPE SAYS"
       }
     }
   ]
