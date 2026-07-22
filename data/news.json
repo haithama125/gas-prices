@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-22T08:07:55+00:00",
+  "updated_at": "2026-07-22T13:21:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "AI Chip Rally Lifts Wall Street Despite Rising Oil Prices",
-      "description": "The benchmark S&P 500 rose 0.9%, while the Dow Jones Industrial Average gained 372 points, or 0.7%, with about an hour left in trading. The Nasdaq",
-      "url": "https://www.europesays.com/3145452/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/1784661749_kurdistan24.jpg",
-      "publishedAt": "2026-07-21T20:04:19Z",
+      "title": "Asian stocks extend gains as US rebounds, chipmakers lead",
+      "description": "Stocks jumped at \u200bthe start of trading in Asia on Wednesday as investors took cues from a rebound in U.S. \u200cmarkets, shrugging off climbing oil prices as Houthi rebels threatened to open a front in the widening Middle East conflict.",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-07-22/",
+      "image": "https://www.reuters.com/resizer/v2/PLBS4OHYNBLEDHCBGSE6OCTFOE.jpg?auth=18061927a34f7832bfe5d82207a8728cdcc4cde69550287255eb407b1d4516f2&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-22T01:08:14Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Cabinet nod for scooties to 50,000 graduate girls",
-      "description": "UP cabinet approves Rani Laxmibai Scooty Scheme: petrol scooties for 50,000 meritorious graduate girls in 2025-26, via GeM, with insurance and helmet.",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/cabinet-nod-for-scootiesto-50000-graduate-girls/articleshow/132546592.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-07-21T19:55:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Trump says midterms won\u2019t impact his Iran war plan",
-      "description": "Republicans are increasingly anxious over the potential ramifications of the war amid rising gas prices and the death of three troops since fighting resumed.",
-      "url": "https://www.politico.com/news/2026/07/21/donald-trump-iran-war-midterms-01006721",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F8d%2F21%2F462a6fea45b38b4dec8872e04462%2Ftrump-us-lebanon-16577.jpg",
-      "publishedAt": "2026-07-21T19:50:00Z",
-      "source": {
-        "name": "POLITICO"
-      }
-    },
-    {
-      "title": "Dollar Edges Higher as Crude Oil Prices and Bond Yields Climb",
-      "description": "The dollar index (DXY00 ) rose by +0.23% on Tuesday. The dollar moved higher on Tuesday as the escalation of hostilities between the US and Iran is boosting crude oil prices, which raises inflation expectations that could prompt the Fed to tighten m...",
-      "url": "https://www.barchart.com/story/news/3390006/dollar-edges-higher-as-crude-oil-prices-and-bond-yields-climb",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Holding%20money%20bunched%20in%20fist%20by%20Iana%20Miroshnichenko%20via%20iStock.jpg",
-      "publishedAt": "2026-07-21T19:34:04Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "US-Iran attacks enter 10th day, denting Pakistan's ceasefire push",
-      "description": "The United States and Iran exchanged fresh attacks across the Gulf as Pakistan tried to revive failed ceasefire talks. The escalation has stalled key shipping routes, lifted oil prices and hardened Washington's public stance.",
-      "url": "https://www.indiatoday.in/world/story/us-iran-attacks-strait-of-hormuz-shipping-crisis-pakistan-ceasefire-effort-ptag-2953300-2026-07-22",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_220-sixteen_nine.png?VersionId=eMDiHmHm2aoPGYHab2m40p_NAd9lDJO2",
-      "publishedAt": "2026-07-21T19:24:53Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Threats to Global Crude Supplies Push Prices Higher",
-      "description": "August WTI crude oil (CLQ26 ) on Tuesday closed up +1.68 (+2.02%), and August RBOB gasoline (RBQ26 ) closed up +0.0169 (+0.50%). Crude oil and gasoline prices settled higher on Tuesday, with crude climbing to a 5-week high. Threats to global oil sup...",
-      "url": "https://www.barchart.com/story/news/3389728/threats-to-global-crude-supplies-push-prices-higher",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
-      "publishedAt": "2026-07-21T19:15:25Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Fluctuate on Tropical Storm Risk",
-      "description": "August Nymex natural gas (NGQ26 ) on Tuesday closed up +0.005 (+0.17%). Nat-gas prices on Tuesday settled slightly higher, consolidating above last Thursday\u2019s 2.25-month low. Prices are under pressure amid concern that Tropical Storm Bertha could di...",
-      "url": "https://www.barchart.com/story/news/3389707/nat-gas-prices-fluctuate-on-tropical-storm-risk",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Jack%20up%20drilling%20rigs%20off%20coast%20by%20Elliot%20Day%20via%20Pixabay.jpg",
-      "publishedAt": "2026-07-21T19:13:25Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Geopolitics biggest threat to FMCG: Wipro Consumer MD Kumar Chander",
-      "description": "Geopolitical tensions and rising crude oil prices are the primary concerns for India's consumer goods sector. Demand is improving, supported by quick commerce and premiumization trends in urban areas. Rural demand has also strengthened over the past six to nine months. Wipro Consumer acquired S Brands, expanding its Southeast Asian presence significantly. Input costs remain elevated, impacting margins despite some easing from recent peaks.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/geopolitics-biggest-threat-to-fmcg-wipro-consumer-md-kumar-chander/articleshow/132545904.cms",
-      "image": "https://img.etimg.com/thumb/msid-132545927,width-1200,height-630,imgsize-46450,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-21T19:08:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Parliament Watch: FM on rupee, `16.1 lakh cr fuel taxes, India-US trade talks and more",
-      "description": "Rupee depreciation is influenced by rising crude oil prices and reduced capital account support. India monitors US trade policy changes and remains engaged with Washington after a recent trade deal. Single-brand retail FDI has seen a slump, while multi-brand retail FDI experienced an increase. The textile PLI scheme has attracted significant investment and generated numerous jobs. Fuel taxes have fetched the government substantial revenue over the past five years.",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/parliament-watch-fm-on-rupee-16-1-lakh-cr-fuel-taxes-india-us-trade-talks-and-more/articleshow/132545691.cms",
-      "image": "https://img.etimg.com/thumb/msid-132545790,width-1200,height-630,imgsize-75172,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-21T19:05:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Fueling Tensions: Oil Prices Surge Amid Middle East Conflict",
-      "description": "Oil prices surged by 2% reaching a five-week high amid escalating tensions in the Middle East between the U.S. and Iran. Brent and WTI futures experienced significant gains due to concerns over supply disruptions. Conflict in the region and threats to oil logistics are impacting global energy trade.",
-      "url": "https://www.devdiscourse.com/article/business/3953730-fueling-tensions-oil-prices-surge-amid-middle-east-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_08_2024_15_45_43_2030706.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-21T19:02:31Z",
+      "title": "Middle East Tensions Roil Financial Markets Amid Renewed Conflict",
+      "description": "Tensions in the Middle East, particularly due to renewed U.S-Iran conflict, have once again rattled financial markets. As both Washington and Tehran refuse to back down, investors are cautious, and economic implications are severe. Rising oil prices and stagflation risks pose major challenges for policymakers across the globe.",
+      "url": "https://www.devdiscourse.com/article/business/3953797-middle-east-tensions-roil-financial-markets-amid-renewed-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_59_5183121.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T01:00:53Z",
       "source": {
         "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Global Market Today: Asian stocks advance on tech rally, yen weakens",
+      "description": "Asian stocks climbed for a second day, led by chipmakers. The Kospi Index saw a significant jump, reflecting AI investment optimism. Crude oil prices advanced, reigniting inflation concerns and pushing Treasury yields higher. Gold and silver also advanced on dip-buying, while the yen slid past 163 per dollar. Investors now await earnings from Alphabet and Tesla for further market direction.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-on-tech-rally-yen-weakens/articleshow/132549156.cms",
+      "image": "https://img.etimg.com/thumb/msid-132549153,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-22T00:53:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Currency Crossroads: Yen Hits Four-Decade Low Amid Global Market Shifts",
+      "description": "The yen has reached an almost four-decade low against the dollar as rising oil prices and U.S. Treasury yields bolster the greenback. Speculation surrounding possible Japanese intervention grows as the yen remains weak. The Middle East conflict continues to influence global markets, adding to the currency's volatility.",
+      "url": "https://www.devdiscourse.com/article/business/3953795-currency-crossroads-yen-hits-four-decade-low-amid-global-market-shifts",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_09_2025_01_03_42_1773709.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T00:48:11Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Rupee rallies 21 paise to 96.24 against US dollar on lower oil prices and forex inflows",
+      "description": "The rupee strengthened by twenty-one paise, closing at ninety-six point twenty-four on Tuesday. Lower oil prices reduced demand for the US dollar, supporting the local currency. Dedicated programs aimed at drawing forex inflows have garnered nearly twenty-one billion dollars. State-run banks sold dollars, providing support around ninety-six point forty-two levels. The currency traded within a narrow range throughout the trading session.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/indian-rupee-rallies-21-paise-to-96-24-against-us-dollar-on-lower-oil-prices-and-forex-inflows/articleshow/132549129.cms",
+      "image": "https://img.etimg.com/thumb/msid-132549133,width-1200,height-630,imgsize-10692,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-22T00:47:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Inflation set to have cooled in June ahead of household energy squeeze",
+      "description": "Most economists think a sharp drop in petrol and diesel prices will have helped pull the overall inflation rate down.",
+      "url": "https://www.kentonline.co.uk/news/national/inflation-set-to-have-cooled-in-june-ahead-of-household-energy-squeeze-169627/",
+      "image": "https://www.kentonline.co.uk/group-logo.png",
+      "publishedAt": "2026-07-22T00:45:38Z",
+      "source": {
+        "name": "Kent Online"
+      }
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Domestic equities extended losses for a second consecutive session on Tuesday. Higher crude oil prices and geopolitical tensions pressured the market significantly. Analysts expect equities to remain range-bound amid ongoing global uncertainties. The ongoing Q1 earnings season will drive stock-specific actions and investor sentiment. The Indian rupee firmed slightly as diplomacy hopes eased oil price concerns.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132542556.cms",
+      "image": "https://img.etimg.com/thumb/msid-132542553,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-22T00:41:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Tensions in the Middle East: Oil Tankers Divert as Conflict Escalates",
+      "description": "Two Saudi oil tankers reversed course amidst threats from Yemen's Houthis as the Middle East conflict disrupts critical energy chokepoints. The U.S. continues bombing targets in Iran, with attacks spreading to Bahrain, Kuwait, and Jordan. Oil prices rise as shipping routes face potential closure.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3953792-tensions-in-the-middle-east-oil-tankers-divert-as-conflict-escalates",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_05_2024_12_02_15_5564843.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T00:27:57Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices rise slightly after US announces new round of strikes on Iran",
+      "description": "Oil prices inched higher in early trading on Wednesday as fears of further supply disruptions intensified after U.S. forces said it began striking \u200bIranian military targets for the 11th straight night and Kuwait reported \u200cattacks by Iranian drones.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-slightly-after-us-announces-new-round-strikes-iran-2026-07-22/",
+      "image": "https://www.reuters.com/resizer/v2/IKJKYEKVEVMKHA43TK6ZFARJYY.jpg?auth=945276a407804520ee95b03a2033326a6e59a0d49711d3ea6cf3f6978d9eb4a8&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-22T00:26:05Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "US strikes Iran for 11th night as Hormuz conflict derails ceasefire talks",
+      "description": "The US struck Iran for an 11th straight night as Pakistan tried to revive collapsed ceasefire talks. The fighting around the Strait of Hormuz is lifting oil prices and widening risks across the region.",
+      "url": "https://www.indiatoday.in/world/story/us-iran-conflict-strait-of-hormuz-strikes-pakistan-ceasefire-push-stalls-ptag-2953317-2026-07-22",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/pti-international-1-original_222-sixteen_nine.png?VersionId=zC01PLJ_YiK2QyJTwkxaJABY96gBWfxt",
+      "publishedAt": "2026-07-22T00:20:48Z",
+      "source": {
+        "name": "India Today"
       }
     }
   ]
