@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-23T01:51:45+00:00",
+  "updated_at": "2026-07-23T08:11:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Nifty Outlook for July 23: Oil prices continue to play bummer as supports break",
-      "description": "For now, the Nifty bulls would be hoping that with 24,000 on the verge of being decisively broken, 23,800 is a level that is now the most important support on the downside. Chartists have warned that a break of 23,800 could lead to a further fall towards 23,600 levels on the downside.",
-      "url": "https://www.cnbctv18.com/market/nifty-outlook-prediction-july-23-key-levels-sensex-expiry-q1-results-crude-oil-prices-nifty-bank-midcaps-19951711.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-0c90aa4391ddc694c2e244ba5a8d77fa.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-22T13:50:29Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Oil prices rise another 2%, while AI stocks get back to falling",
-      "description": "AI stocks are turning back lower and weighing on Wall Street",
-      "url": "https://www.barchart.com/story/news/3395790/oil-prices-rise-another-2-while-ai-stocks-get-back-to-falling",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/43236923a0454e038c2ce5206593f3a6/43236923a0454e038c2ce5206593f3a6_main_financial_markets_wall_street_49967.jpg",
-      "publishedAt": "2026-07-22T13:47:45Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Gasoline price rise: Iran war worsened the pain, but the bottleneck began years ago",
-      "description": "Gas prices may rise as Middle East hostilities resume, but the situation is complex. The widening crack spread, driven by reduced refining capacity from conflicts, impacts gasoline prices more than crude oil costs alone, potentially affecting both consumers and stock markets.",
-      "url": "https://www.livemint.com/economy/gasoline-price-rise-iran-war-worsened-the-pain-but-the-bottleneck-began-years-ago-read-here-11784722276331.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/22/1600x900/logo/Oil-Cuts-Explainer-0_1680529456417_1680529456417_1784727399280_8a686308-5261-4be3-9a58-9a8a3af79062.jpg",
-      "publishedAt": "2026-07-22T13:47:03Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Blockade of Bab el-Mandeb to push up crude oil prices, threaten product supply, lift freight rates",
-      "description": "The Houthi blockade of Bab el-Mandeb threatens crude oil supply, increases prices, and raises freight costs for Asian refiners.",
-      "url": "https://www.thehindubusinessline.com/companies/blockade-of-bab-el-mandeb-to-push-up-crude-oil-prices-threaten-product-supply-lift-freight-rates/article71253653.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/m6xq7s/article71253904.ece/alternates/LANDSCAPE_1200/1945099713.jpg",
-      "publishedAt": "2026-07-22T13:45:42Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Trump to rally in Michigan's Oakland County as early voting opens in key primary",
-      "description": "Rising gas prices, an unpopular war in Iran, and auto industry tariffs have fueled Republican concerns in Michigan ahead of the state's Aug. 4 primary.",
-      "url": "https://www.cbsnews.com/detroit/news/trump-rally-michigan-oakland-county-primary/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/07/21/13e986ae-9f34-49dc-a52d-fcdbef8eae5c/thumbnail/1200x630/95ac65b583a0b222da6f69d2f4d7e393/takeoutfull0720.jpg",
-      "publishedAt": "2026-07-22T13:40:06Z",
-      "source": {
-        "name": "CBS News"
-      }
-    },
-    {
-      "title": "RBI sold $6 billion in May to defend oil-hit Indian rupee, data shows",
-      "description": "The Reserve Bank of India sold $6.1 billion in foreign exchange during May. This intervention occurred as oil prices surged, pushing the rupee to a record low. The central bank also implemented policy measures to encourage dollar inflows into India.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-sold-6-billion-in-may-to-defend-oil-hit-indian-rupee-data-shows/articleshow/132560366.cms",
-      "image": "https://img.etimg.com/thumb/msid-132560411,width-1200,height-630,imgsize-68416,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-22T13:40:00Z",
+      "title": "US stocks today: S&P 500, Nasdaq close lower amid mixed show by tech stocks ahead of earnings",
+      "description": "U.S. markets ended mixed with Nasdaq under pressure as software stocks dragged while chip stocks gained. Investors remained cautious ahead of key earnings from Alphabet and Tesla Inc.. Rising oil prices and geopolitical tensions added inflation concerns, keeping market sentiment volatile despite ongoing AI-driven optimism.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-lower-as-investors-await-technology-earnings/articleshow/132567590.cms",
+      "image": "https://img.etimg.com/thumb/msid-132567590,width-1200,height-630,imgsize-341816,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-22T20:04:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Chip companies and other AI winners drag Wall Street lower again, while crude oil prices rise",
-      "description": "Stocks of computer chip companies and other winners of the artificial-intelligence boom are turning back lower and dragging Wall Street with them",
-      "url": "https://www.barchart.com/story/news/3395790/chip-companies-and-other-ai-winners-drag-wall-street-lower-again-while-crude-oil-prices-rise",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/43236923a0454e038c2ce5206593f3a6/43236923a0454e038c2ce5206593f3a6_main_financial_markets_wall_street_49967.jpg",
-      "publishedAt": "2026-07-22T13:35:40Z",
+      "title": "Tech Stocks Waver as Investors Eye AI Earnings Amid Geopolitical Tensions",
+      "description": "The S&P 500 and Nasdaq declined as investors anticipated earnings reports from key tech companies like Alphabet and Tesla to assess AI investments. Trading was mixed, with semiconductor stocks outperforming software stocks. Geopolitical tensions and rising crude oil prices added caution. Federal Reserve rate decisions remain a focus.",
+      "url": "https://www.devdiscourse.com/article/business/3954264-tech-stocks-waver-as-investors-eye-ai-earnings-amid-geopolitical-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_19_15_19_4397187.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T20:01:29Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Va. consumers face return of $4 gas as Iran war intensifies",
+      "description": "Gasoline prices rose above $4 a gallon in parts of Virginia on Wednesday, as the United States and Iran traded military blows over control of the Strait of Hormuz, last week ending a ceasefire that had brought consumers temporary relief at the pump.",
+      "url": "https://richmond.com/news/state-regional/business/article_c19a6f1b-5c18-4cd3-9dae-08d205069e62.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/19/c19a6f1b-5c18-4cd3-9dae-08d205069e62/6a61173ccf529.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-07-22T19:35:00Z",
+      "source": {
+        "name": "Richmond Times-Dispatch"
+      }
+    },
+    {
+      "title": "Tensions Flare: Iran-U.S. Maritime Conflict Heightens Oil Market Risks",
+      "description": "U.S. President Donald Trump intensifies tensions with Iran, threatening infrastructure strikes following Iranian Houthi allied threats on key maritime routes impacting oil exports. Amid growing regional conflict, global oil prices surged, prompting diplomatic maneuvers to negotiate a truce. Military engagements continue, escalating geopolitical instability and economic repercussions.",
+      "url": "https://www.devdiscourse.com/article/politics/3954257-tensions-flare-iran-us-maritime-conflict-heightens-oil-market-risks",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_07_2026_23_26_03_7744133.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T19:30:56Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Gas prices averaged $3.80 in Iowa the week of July 22",
+      "description": "The price of regular unleaded gasoline rose 12 cents from last week's price and is currently averaging $3.80 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
+      "url": "https://siouxcityjournal.com/news/local/business/article_50c08937-de11-4a5e-bc2c-860cd99585ac.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/5/0c/50c08937-de11-4a5e-bc2c-860cd99585ac/69d6a8bb1931b.social.jpg",
+      "publishedAt": "2026-07-22T19:30:00Z",
+      "source": {
+        "name": "Sioux City Journal"
+      }
+    },
+    {
+      "title": "Markets Stir Amid U.S.-Iran Tensions and Japanese Yen Recovery",
+      "description": "Economic tensions escalate as the dollar fluctuates following the U.S.-Iran conflict, affecting oil prices and inflation fears. The yen shows signs of recovery as Japan deliberates on potential intervention, balancing currency stabilization with inflation risks. Global financial markets remain volatile amid geopolitical uncertainties.",
+      "url": "https://www.devdiscourse.com/article/business/3954255-markets-stir-amid-us-iran-tensions-and-japanese-yen-recovery",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_32_49_4543994.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-22T19:22:17Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Escalating Global Supply Risks Underpin Crude Oil Prices",
+      "description": "September WTI crude oil (CLU26 ) on Wednesday closed up +2.49 (+2.95%), and September RBOB gasoline (RBU26 ) closed up +0.0186 (+0.58%). Crude oil and gasoline prices settled sharply higher on Wednesday, with crude posting a 6-week high and gasoline...",
+      "url": "https://www.barchart.com/story/news/3410879/escalating-global-supply-risks-underpin-crude-oil-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/The%20index%20of%20oil%20up%20by%20Pashalgnatov%20via%20istock.jpg",
+      "publishedAt": "2026-07-22T19:20:24Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "India's central bank sold $6 billion in May to defend oil-hit rupee, data shows",
-      "description": "The Reserve Bank of India sold a net $6.1 billion in the foreign exchange market in May, data released on Wednesday showed, as a sharp \u200brise in oil prices due to the Iran war pushed the rupee \u200cto an all-time low.",
-      "url": "https://www.reuters.com/world/india/indias-central-bank-sold-6-billion-may-defend-oil-hit-rupee-data-shows-2026-07-22/",
-      "image": "https://www.reuters.com/resizer/v2/YC5GTPWQZBKUPFNLQYK7H6E2PE.jpg?auth=0ab7bb396cafe858dd2b173ae09660cb7b4ca0f7466b140dc4185490a7c149dd&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-22T13:30:37Z",
+      "title": "S&P 500 Opens Lower, Falls 0.30% to 7,486.83 Amid Oil-Driven Inflation Fears",
+      "description": "The S&P 500 opened lower on Wednesday, falling 22.37 points or 0.30% to 7,486.83, following Tuesday's 0.89% close at 7,509.20. Rising oil prices with Brent crude above $92, driven by the 11th consecutive night of U.S. strikes on Iran, reignited inflation concerns. Despite nearly 88% of reporting S&P 500 companies beating profit estimates per FactSet, CME FedWatch data shows a 69% probability of at least a quarter-point rate hike by September, keeping investor sentiment cautious.",
+      "url": "https://scanx.trade/stock-market-news/global/s-p-500-set-to-open-lower-as-oil-prices-reignite-inflation-fears/46256043",
+      "image": "http://news-images.dhan.co/s-p-500-set-to-open-lower-as-oil-prices-reignite-inflation-fears.jpg",
+      "publishedAt": "2026-07-22T19:19:12Z",
       "source": {
-        "name": "Reuters"
+        "name": "scanx.trade"
       }
     },
     {
-      "title": "Will Tropical Storm Bertha Reach Texas Or Raise Gas Prices?",
-      "description": "A mid-week update on Tropical Storm Bertha, its march towards Texas, and potential impacts on gas prices.",
-      "url": "https://www.forbes.com/sites/marshallshepherd/2026/07/22/will-tropical-storm-bertha-reach-texas-or-raise-gas-prices/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a60b7a181e9963657b97727/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-07-22T13:08:22Z",
+      "title": "Hot US Weather Forecasts Boost Nat-Gas Prices",
+      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.060 (+2.09%). Nat-gas prices settled sharply higher on Wednesday amid forecasts for hotter US weather, potentially boosting nat-gas demand from electricity providers to power increased air-c...",
+      "url": "https://www.barchart.com/story/news/3410855/hot-us-weather-forecasts-boost-nat-gas-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-07-22T19:19:11Z",
       "source": {
-        "name": "Forbes"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Tech Stocks Tumble as Investors Brace for Big Earnings",
-      "description": "U.S. stocks are poised to open lower as chip stocks weaken and investors await Big Tech earnings. The focus is on Alphabet and Tesla's results for insights into AI investments. Geopolitical tensions and oil prices add to market uncertainty, while the Fed is expected to hold interest rates steady.",
-      "url": "https://www.devdiscourse.com/article/business/3954078-tech-stocks-tumble-as-investors-brace-for-big-earnings",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_04_2025_09_40_48_1706938.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-22T13:03:07Z",
+      "title": "Oil, LNG and AI drive new energy opportunities",
+      "description": "Oil prices, LNG disruptions and AI-driven power demand are reshaping opportunities across the energy sector.",
+      "url": "https://www.bnnbloomberg.ca/investing/hot-picks/2026/07/22/hot-picks-chevron-venture-global-and-vistra-target-energy-growth/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/4QT74ZXUBIFRJMBUN6P6YWJ2NI.jpg?smart=true&auth=50908d5cb483ca102166afaa920a4a5961d4538dcf05f88cb97b1adcf38337f6&width=1200&height=630",
+      "publishedAt": "2026-07-22T19:12:29Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Bnn Bloomberg"
       }
     }
   ]
