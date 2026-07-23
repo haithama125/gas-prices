@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-23T13:23:53+00:00",
+  "updated_at": "2026-07-23T18:58:58+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asia stocks gain on AI chipmaker rally as oil surges amid Red Sea tanker attacks",
-      "description": "Asian shares rally on AI spending bets, led by chipmakers. Oil prices surge on West Asia tensions, impacting US Treasuries and inflation outlook.",
-      "url": "https://www.cnbctv18.com/market/asia-stocks-ai-chipmakers-crude-oil-price-surge-west-asia-conflict-kospi-yuan-federal-reserve-yen-inflation-19951898.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/market-artificial-intelligence-geopolitical-risks-oil-west-asia-may19-2026-05-5a822230962c878fab44cd2c2a9c0971.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-23T01:23:17Z",
+      "title": "Stocks to buy: Nagaraj Shetti recommends Bajaj Auto, Epigral shares to buy in the short-term",
+      "description": "Indian benchmark indices continued to decline, impacted by rising crude oil prices due to geopolitical tensions. The Nifty 50 fell 0.27%, and the Sensex dropped 0.24%, marking a fourth consecutive session of losses amid concerns over inflation and disappointing earnings from major companies.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-bajaj-auto-epigral-shares-to-buy-in-the-shortterm-11784788202398.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/Nagaraj_Shetti_1749711299401_1784789638282_6710cd3b-f623-4121-ab4f-a63574d73c0d.jpeg",
+      "publishedAt": "2026-07-23T06:56:52Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Inflation pains may get worse this year: West Asia crisis, El Ni\u00f1o key triggers",
-      "description": "A gradual easing of oil prices can be expected if pre-war equilibrium is restored. But, the question is whether or not producers will lower their final prices.",
-      "url": "https://www.hindustantimes.com/opinion/inflation-worse-this-year-iran-us-cpi-el-nino-food-inflation-gas-lpg-gold-prices-west-asia-hormuz-101784739111930.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/ANI-20260714257-0_1784739645181_1784739662551_8cb99913-32d0-4a6b-bb66-55d97aae5f1a.jpg",
-      "publishedAt": "2026-07-23T01:22:39Z",
+      "title": "Two Saudi Oil Tankers Targeted as Houthi Blockade Disrupts Red Sea Shipping",
+      "description": "Houthi attacks on Saudi oil tankers in the Bab el-Mandeb Strait are disrupting Red Sea shipping and adding fresh upward pressure to global oil prices.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Saudi-Oil-Tankers-Targeted-as-Houthi-Blockade-Disrupts-Red-Sea-Shipping.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-23_oimvdtpmkq.jpg",
+      "publishedAt": "2026-07-23T06:30:00Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Oil prices jump after Houthis attack two Saudi Arabian tankers in the Red Sea",
-      "description": "Brent increased 1.4% above $95 a barrel post closing at a six-week high in the earlier session. Meanwhile, West Texas Intermediate was close to $88 a barrel.",
-      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-jump-after-houthis-attack-two-saudi-arabian-tankers-in-the-red-sea-19951903.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/crude-oil-2026-07-c816dc91377823ddd15a1f6f8a563351.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-23T01:02:02Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls aim to protect 23,800 on Sensex expiry amidst results, higher oil",
-      "description": "Sensex Today | Stock Market LIVE Updates: Another Sensex weekly expiry beckons today and the Nifty bulls are latching on to the 24,000 mark by a whisker. There has not been any dramatic improvement in the situation overnight and crude oil prices continue to remain higher. Brent closed above $95 a barrel overnight, while WTI is nearing $85 a barrel this morning.",
-      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-today-crude-hpcl-drl-indusind-eternal-infosys-sona-blw-share-price-liveblog-19951892.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-23T00:53:21Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "U.S.-Iran Tensions Stabilize Dollar Amid Yen's Historic Low",
-      "description": "The dollar remained stable on Thursday amid renewed U.S.-Iran tensions, while the Japanese yen hovered near historic lows. The dollar index was flat as rising oil prices due to military strikes increased inflation fears, potentially influencing Federal Reserve interest rate decisions. The yen's weakness is compounded by strong dollar trends.",
-      "url": "https://www.devdiscourse.com/article/business/3954328-us-iran-tensions-stabilize-dollar-amid-yens-historic-low",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_02_27_54_4729208.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-23T00:48:56Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Benchmark indices fall amid rising crude oil prices and West Asia conflict",
-      "description": "India's benchmark indices ended lower on Wednesday, as crude oil prices increased. The Nifty50 and Sensex experienced significant drops, falling below key levels. Midcap and smallcap stocks also saw declines, reflecting broad market weakness. Most sector indices ended in negative territory, except for FMCG and Auto. Brent crude oil prices rose, impacting investor sentiment across the market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/benchmark-indices-fall-amid-rising-crude-oil-prices-and-west-asia-conflict/articleshow/132570150.cms",
-      "image": "https://img.etimg.com/thumb/msid-132570157,width-1200,height-630,imgsize-335634,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-23T00:43:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Domestic equities declined as broad-based selling persisted across sectors. India VIX surged, reflecting heightened market volatility and investor fear. Analysts expect sideways trading with a negative bias due to global tensions. Foreign portfolio investors were net sellers, impacting market sentiment negatively. The Indian rupee fell to a two-month low as oil prices climbed.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132564232.cms",
-      "image": "https://img.etimg.com/thumb/msid-132564221,width-1200,height-630,imgsize-31848,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-23T00:41:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
-      "description": "Oil \u200bprices rose more than 1.5% to their highest in more than six weeks on Thursday, \u200cwith the United States launching a new round of strikes on Iran and Yemen's Houthis targeting oil tankers in the Red Sea.",
-      "url": "https://www.reuters.com/business/energy/oil-prices-rise-six-week-high-us-iran-tensions-escalate-2026-07-23/",
-      "image": "https://www.reuters.com/resizer/v2/3YL3KO5CWJJ43DXOE3DLWHVHUY.jpg?auth=5b6c77677e3837e602336c5dcdbb76477c93c730024c9af82a342606c984f9ba&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-23T00:40:47Z",
+      "title": "Repsol's Q2 profit more than triples on refining strength",
+      "description": "Spanish energy company Repsol said on Thursday its second-quarter adjusted net profit more than tripled from \u200bthe same period last year, helped by stronger refining margins and \u200chigher oil prices.",
+      "url": "https://www.reuters.com/business/energy/repsols-q2-adjusted-profit-more-than-triples-refining-strength-2026-07-23/",
+      "image": "https://www.reuters.com/resizer/v2/GFFC3LCMFBMSZBTQZGTBGEBINU.jpg?auth=973941defda4984e7f4e454b0af968a0418b3838b48bfeeea4b005cbdcde3d0a&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-23T06:24:10Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
-      "description": "Oil prices rose more than 1.5 per cent to their highest in more than six weeks on Thursday (Jul 23), with the United States launching a new round of strikes on Iran and Yemen's Houthis targeting oil tankers in the Red Sea. Brent crude futures rose US$1.93, or 2 per cent, to US$96 by 12.11am GMT, the high",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-rise-six-week-high-us-iran-tensions-escalate-6272231",
-      "image": "https://dam.mediacorp.sg/image/upload/s--pNnI7ouG--/c_crop,h_450,w_800,x_0,y_76/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-23T004732Z_2_LYNXMPEM6M01B_RTROPTP_3_IRAN-CRISIS-OIL-REFINERIES.JPG?itok=klNHkNcj",
-      "publishedAt": "2026-07-23T00:40:00Z",
+      "title": "Emmer Capital keeps India allocation intact despite oil price risks, backs private banks",
+      "description": "Manishi Raychaudhuri, Chief Executive Officer of Emmer Capital Partners, said the recent jump in oil prices poses a challenge for India, one of the world's largest crude importers.",
+      "url": "https://www.cnbctv18.com/market/emmer-capital-manishi-raychaudhuri-india-outlook-private-banks-oil-prices-market-strategy-19952080.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/1783678822_230pbKFjDt-market-stocks-nifty-sensex-jun04jpg-Txm3PFyuNG.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-23T06:21:24Z",
       "source": {
-        "name": "CNA"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "WTI, Brent rise as Trump threatens strikes on Iran infrastructure",
-      "description": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
-      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108334811-1784044841219-2026-07-14T101926Z_1707699432_RC2CI9AZ3FKO_RTRMADP_3_IRAN-CRISIS-SHIPPING-EMIRATES.JPG?v=1784044960&w=1920&h=1080",
-      "publishedAt": "2026-07-23T00:18:49Z",
+      "title": "Fuel for thought: Will E20 drive consumers to EVs?",
+      "description": "The government mandated E20\u2014petrol blended with 20 percent ethanol\u2014from April. The rollout has fuelled questions, and the debate has moved from energy independence to consumer rights",
+      "url": "https://www.forbesindia.com/article/newsmaker/fuel-for-thought-will-e20-drive-consumers-to-evs/2996181/1",
+      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/07/E20-2026-07-aa3875de504069804e0d165a445ee5b6.jpg?im=FitAndFill,width=1200,height=900",
+      "publishedAt": "2026-07-23T06:10:33Z",
       "source": {
-        "name": "CNBC"
+        "name": "Forbes India"
+      }
+    },
+    {
+      "title": "Fuel for thought: Will E20 drive consumers to EVs?",
+      "description": "The government mandated E20\u2014petrol blended with 20 percent ethanol\u2014from April. The rollout has fuelled questions, and the debate has moved from energy independence to consumer rights",
+      "url": "https://www.forbesindia.com/article/news/fuel-for-thought-will-e20-drive-consumers-to-evs/2996181/1",
+      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/07/E20-2026-07-aa3875de504069804e0d165a445ee5b6.jpg?im=FitAndFill,width=1200,height=900",
+      "publishedAt": "2026-07-23T06:10:33Z",
+      "source": {
+        "name": "Forbes India"
+      }
+    },
+    {
+      "title": "Rising Tensions: Houthi Strikes on Saudi Oil Tankers Escalate Middle East Conflict",
+      "description": "The Iranian-aligned Houthis have attacked Saudi oil tankers, aiming to impose a naval blockade on Saudi Arabia and create another chokepoint on global oil supplies. With ongoing confrontations between the U.S. and Iran, rising oil prices are straining economies globally. The U.S.-Iran conflict continues to intensify, affecting oil market stability.",
+      "url": "https://www.devdiscourse.com/article/business/3954412-rising-tensions-houthi-strikes-on-saudi-oil-tankers-escalate-middle-east-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2024_21_27_13_7271003.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-23T06:02:25Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Rupee rises 5 paise to 96.48 against U.S. dollar in early trade",
+      "description": "Rupee rises 5 paise to 96.48 against the dollar amid RBI intervention, despite pressure from investor outflows and oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-5-paise-to-9648-against-us-dollar-in-early-trade/article71256595.ece",
+      "image": "https://th-i.thgim.com/public/news/national/ombnzs/article71137302.ece/alternates/LANDSCAPE_1200/iStock-1063408740%202.jpg",
+      "publishedAt": "2026-07-23T05:59:33Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Sensex and Nifty decline in early trade on surging crude oil prices",
+      "description": "Sensex and Nifty drop in early trade as rising crude oil prices heighten market tensions amid geopolitical concerns.",
+      "url": "https://www.thehindu.com/business/markets/sensex-and-nifty-decline-in-early-trade-on-surging-crude-oil-prices/article71256598.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ez3elk/article71256619.ece/alternates/LANDSCAPE_1200/20260713083L.jpg",
+      "publishedAt": "2026-07-23T05:57:19Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "3 European Dividend Stocks With Up To 7.4% Yield",
+      "description": "As European markets navigate a landscape marked by volatile tech stocks and fluctuating oil prices, the pan-European STOXX Europe 600 Index has remained",
+      "url": "https://www.europesays.com/3148427/",
+      "image": "https://www.europesays.com/wp-content/uploads/2025/09/1585186744280.jpeg",
+      "publishedAt": "2026-07-23T05:42:37Z",
+      "source": {
+        "name": "EUROPE SAYS"
       }
     }
   ]
