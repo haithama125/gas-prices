@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-23T08:11:12+00:00",
+  "updated_at": "2026-07-23T13:23:53+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks today: S&P 500, Nasdaq close lower amid mixed show by tech stocks ahead of earnings",
-      "description": "U.S. markets ended mixed with Nasdaq under pressure as software stocks dragged while chip stocks gained. Investors remained cautious ahead of key earnings from Alphabet and Tesla Inc.. Rising oil prices and geopolitical tensions added inflation concerns, keeping market sentiment volatile despite ongoing AI-driven optimism.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-sp-500-nasdaq-close-lower-as-investors-await-technology-earnings/articleshow/132567590.cms",
-      "image": "https://img.etimg.com/thumb/msid-132567590,width-1200,height-630,imgsize-341816,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-22T20:04:00Z",
+      "title": "Asia stocks gain on AI chipmaker rally as oil surges amid Red Sea tanker attacks",
+      "description": "Asian shares rally on AI spending bets, led by chipmakers. Oil prices surge on West Asia tensions, impacting US Treasuries and inflation outlook.",
+      "url": "https://www.cnbctv18.com/market/asia-stocks-ai-chipmakers-crude-oil-price-surge-west-asia-conflict-kospi-yuan-federal-reserve-yen-inflation-19951898.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/market-artificial-intelligence-geopolitical-risks-oil-west-asia-may19-2026-05-5a822230962c878fab44cd2c2a9c0971.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-23T01:23:17Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Inflation pains may get worse this year: West Asia crisis, El Ni\u00f1o key triggers",
+      "description": "A gradual easing of oil prices can be expected if pre-war equilibrium is restored. But, the question is whether or not producers will lower their final prices.",
+      "url": "https://www.hindustantimes.com/opinion/inflation-worse-this-year-iran-us-cpi-el-nino-food-inflation-gas-lpg-gold-prices-west-asia-hormuz-101784739111930.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/22/550x309/ANI-20260714257-0_1784739645181_1784739662551_8cb99913-32d0-4a6b-bb66-55d97aae5f1a.jpg",
+      "publishedAt": "2026-07-23T01:22:39Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Oil prices jump after Houthis attack two Saudi Arabian tankers in the Red Sea",
+      "description": "Brent increased 1.4% above $95 a barrel post closing at a six-week high in the earlier session. Meanwhile, West Texas Intermediate was close to $88 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-jump-after-houthis-attack-two-saudi-arabian-tankers-in-the-red-sea-19951903.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/crude-oil-2026-07-c816dc91377823ddd15a1f6f8a563351.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-23T01:02:02Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls aim to protect 23,800 on Sensex expiry amidst results, higher oil",
+      "description": "Sensex Today | Stock Market LIVE Updates: Another Sensex weekly expiry beckons today and the Nifty bulls are latching on to the 24,000 mark by a whisker. There has not been any dramatic improvement in the situation overnight and crude oil prices continue to remain higher. Brent closed above $95 a barrel overnight, while WTI is nearing $85 a barrel this morning.",
+      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-today-crude-hpcl-drl-indusind-eternal-infosys-sona-blw-share-price-liveblog-19951892.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-23T00:53:21Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "U.S.-Iran Tensions Stabilize Dollar Amid Yen's Historic Low",
+      "description": "The dollar remained stable on Thursday amid renewed U.S.-Iran tensions, while the Japanese yen hovered near historic lows. The dollar index was flat as rising oil prices due to military strikes increased inflation fears, potentially influencing Federal Reserve interest rate decisions. The yen's weakness is compounded by strong dollar trends.",
+      "url": "https://www.devdiscourse.com/article/business/3954328-us-iran-tensions-stabilize-dollar-amid-yens-historic-low",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_02_27_54_4729208.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-23T00:48:56Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Benchmark indices fall amid rising crude oil prices and West Asia conflict",
+      "description": "India's benchmark indices ended lower on Wednesday, as crude oil prices increased. The Nifty50 and Sensex experienced significant drops, falling below key levels. Midcap and smallcap stocks also saw declines, reflecting broad market weakness. Most sector indices ended in negative territory, except for FMCG and Auto. Brent crude oil prices rose, impacting investor sentiment across the market.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/benchmark-indices-fall-amid-rising-crude-oil-prices-and-west-asia-conflict/articleshow/132570150.cms",
+      "image": "https://img.etimg.com/thumb/msid-132570157,width-1200,height-630,imgsize-335634,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-23T00:43:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Tech Stocks Waver as Investors Eye AI Earnings Amid Geopolitical Tensions",
-      "description": "The S&P 500 and Nasdaq declined as investors anticipated earnings reports from key tech companies like Alphabet and Tesla to assess AI investments. Trading was mixed, with semiconductor stocks outperforming software stocks. Geopolitical tensions and rising crude oil prices added caution. Federal Reserve rate decisions remain a focus.",
-      "url": "https://www.devdiscourse.com/article/business/3954264-tech-stocks-waver-as-investors-eye-ai-earnings-amid-geopolitical-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_19_15_19_4397187.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-22T20:01:29Z",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Domestic equities declined as broad-based selling persisted across sectors. India VIX surged, reflecting heightened market volatility and investor fear. Analysts expect sideways trading with a negative bias due to global tensions. Foreign portfolio investors were net sellers, impacting market sentiment negatively. The Indian rupee fell to a two-month low as oil prices climbed.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132564232.cms",
+      "image": "https://img.etimg.com/thumb/msid-132564221,width-1200,height-630,imgsize-31848,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-23T00:41:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Va. consumers face return of $4 gas as Iran war intensifies",
-      "description": "Gasoline prices rose above $4 a gallon in parts of Virginia on Wednesday, as the United States and Iran traded military blows over control of the Strait of Hormuz, last week ending a ceasefire that had brought consumers temporary relief at the pump.",
-      "url": "https://richmond.com/news/state-regional/business/article_c19a6f1b-5c18-4cd3-9dae-08d205069e62.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/c/19/c19a6f1b-5c18-4cd3-9dae-08d205069e62/6a61173ccf529.preview.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-07-22T19:35:00Z",
+      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
+      "description": "Oil \u200bprices rose more than 1.5% to their highest in more than six weeks on Thursday, \u200cwith the United States launching a new round of strikes on Iran and Yemen's Houthis targeting oil tankers in the Red Sea.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-six-week-high-us-iran-tensions-escalate-2026-07-23/",
+      "image": "https://www.reuters.com/resizer/v2/3YL3KO5CWJJ43DXOE3DLWHVHUY.jpg?auth=5b6c77677e3837e602336c5dcdbb76477c93c730024c9af82a342606c984f9ba&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-23T00:40:47Z",
       "source": {
-        "name": "Richmond Times-Dispatch"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Tensions Flare: Iran-U.S. Maritime Conflict Heightens Oil Market Risks",
-      "description": "U.S. President Donald Trump intensifies tensions with Iran, threatening infrastructure strikes following Iranian Houthi allied threats on key maritime routes impacting oil exports. Amid growing regional conflict, global oil prices surged, prompting diplomatic maneuvers to negotiate a truce. Military engagements continue, escalating geopolitical instability and economic repercussions.",
-      "url": "https://www.devdiscourse.com/article/politics/3954257-tensions-flare-iran-us-maritime-conflict-heightens-oil-market-risks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_07_2026_23_26_03_7744133.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-22T19:30:56Z",
+      "title": "Oil prices rise to six-week high as US-Iran tensions escalate",
+      "description": "Oil prices rose more than 1.5 per cent to their highest in more than six weeks on Thursday (Jul 23), with the United States launching a new round of strikes on Iran and Yemen's Houthis targeting oil tankers in the Red Sea. Brent crude futures rose US$1.93, or 2 per cent, to US$96 by 12.11am GMT, the high",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-rise-six-week-high-us-iran-tensions-escalate-6272231",
+      "image": "https://dam.mediacorp.sg/image/upload/s--pNnI7ouG--/c_crop,h_450,w_800,x_0,y_76/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-23T004732Z_2_LYNXMPEM6M01B_RTROPTP_3_IRAN-CRISIS-OIL-REFINERIES.JPG?itok=klNHkNcj",
+      "publishedAt": "2026-07-23T00:40:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNA"
       }
     },
     {
-      "title": "Gas prices averaged $3.80 in Iowa the week of July 22",
-      "description": "The price of regular unleaded gasoline rose 12 cents from last week's price and is currently averaging $3.80 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_50c08937-de11-4a5e-bc2c-860cd99585ac.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/5/0c/50c08937-de11-4a5e-bc2c-860cd99585ac/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-07-22T19:30:00Z",
+      "title": "WTI, Brent rise as Trump threatens strikes on Iran infrastructure",
+      "description": "Oil prices rose after U.S. President Donald Trump threatened to bomb Iranian infrastructure in response to any attacks on ships transiting the Strait of Hormuz.",
+      "url": "https://www.cnbc.com/2026/07/23/oil-prices-today-wti-brent-trump-iran-hormuz.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108334811-1784044841219-2026-07-14T101926Z_1707699432_RC2CI9AZ3FKO_RTRMADP_3_IRAN-CRISIS-SHIPPING-EMIRATES.JPG?v=1784044960&w=1920&h=1080",
+      "publishedAt": "2026-07-23T00:18:49Z",
       "source": {
-        "name": "Sioux City Journal"
-      }
-    },
-    {
-      "title": "Markets Stir Amid U.S.-Iran Tensions and Japanese Yen Recovery",
-      "description": "Economic tensions escalate as the dollar fluctuates following the U.S.-Iran conflict, affecting oil prices and inflation fears. The yen shows signs of recovery as Japan deliberates on potential intervention, balancing currency stabilization with inflation risks. Global financial markets remain volatile amid geopolitical uncertainties.",
-      "url": "https://www.devdiscourse.com/article/business/3954255-markets-stir-amid-us-iran-tensions-and-japanese-yen-recovery",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_32_49_4543994.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-22T19:22:17Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Escalating Global Supply Risks Underpin Crude Oil Prices",
-      "description": "September WTI crude oil (CLU26 ) on Wednesday closed up +2.49 (+2.95%), and September RBOB gasoline (RBU26 ) closed up +0.0186 (+0.58%). Crude oil and gasoline prices settled sharply higher on Wednesday, with crude posting a 6-week high and gasoline...",
-      "url": "https://www.barchart.com/story/news/3410879/escalating-global-supply-risks-underpin-crude-oil-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/The%20index%20of%20oil%20up%20by%20Pashalgnatov%20via%20istock.jpg",
-      "publishedAt": "2026-07-22T19:20:24Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "S&P 500 Opens Lower, Falls 0.30% to 7,486.83 Amid Oil-Driven Inflation Fears",
-      "description": "The S&P 500 opened lower on Wednesday, falling 22.37 points or 0.30% to 7,486.83, following Tuesday's 0.89% close at 7,509.20. Rising oil prices with Brent crude above $92, driven by the 11th consecutive night of U.S. strikes on Iran, reignited inflation concerns. Despite nearly 88% of reporting S&P 500 companies beating profit estimates per FactSet, CME FedWatch data shows a 69% probability of at least a quarter-point rate hike by September, keeping investor sentiment cautious.",
-      "url": "https://scanx.trade/stock-market-news/global/s-p-500-set-to-open-lower-as-oil-prices-reignite-inflation-fears/46256043",
-      "image": "http://news-images.dhan.co/s-p-500-set-to-open-lower-as-oil-prices-reignite-inflation-fears.jpg",
-      "publishedAt": "2026-07-22T19:19:12Z",
-      "source": {
-        "name": "scanx.trade"
-      }
-    },
-    {
-      "title": "Hot US Weather Forecasts Boost Nat-Gas Prices",
-      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.060 (+2.09%). Nat-gas prices settled sharply higher on Wednesday amid forecasts for hotter US weather, potentially boosting nat-gas demand from electricity providers to power increased air-c...",
-      "url": "https://www.barchart.com/story/news/3410855/hot-us-weather-forecasts-boost-nat-gas-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
-      "publishedAt": "2026-07-22T19:19:11Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Oil, LNG and AI drive new energy opportunities",
-      "description": "Oil prices, LNG disruptions and AI-driven power demand are reshaping opportunities across the energy sector.",
-      "url": "https://www.bnnbloomberg.ca/investing/hot-picks/2026/07/22/hot-picks-chevron-venture-global-and-vistra-target-energy-growth/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/4QT74ZXUBIFRJMBUN6P6YWJ2NI.jpg?smart=true&auth=50908d5cb483ca102166afaa920a4a5961d4538dcf05f88cb97b1adcf38337f6&width=1200&height=630",
-      "publishedAt": "2026-07-22T19:12:29Z",
-      "source": {
-        "name": "Bnn Bloomberg"
+        "name": "CNBC"
       }
     }
   ]
