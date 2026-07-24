@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-24T13:17:17+00:00",
+  "updated_at": "2026-07-24T19:11:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ringgit opens higher against major currencies, softer vs US$",
-      "description": "KUALA LUMPUR: The ringgit opened higher against most major currencies on Friday but eased against the US dollar as markets turned risk-off, with crude oil prices continuing to climb and the Trump administration stepping up its trade protectionist policies.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/07/24/ringgit-opens-higher-against-major-currencies-softer-vs-us",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4025769.jpg",
-      "publishedAt": "2026-07-24T01:15:00Z",
+      "title": "Gold Steady After Recent Swings; Rising Crude Oil on Geopolitical Risks Fuels High Inflation",
+      "description": "Escalating geopolitical tensions in the Middle East are pushing crude oil prices above $90 a barrel, fueling fears of a resurgence in\u00a0inflation.",
+      "url": "https://www.europesays.com/3150574/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/closeup-of-big-gold-nugget-511603038-5ad92a97fa6bcc00362b919b-scaled.webp",
+      "publishedAt": "2026-07-24T06:52:26Z",
       "source": {
-        "name": "The Star"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Domestic equities extended losses for a fourth consecutive session, with the Nifty declining. Investor sentiment remained fragile amid a sharp surge in Brent crude oil prices. Foreign portfolio investors net sold shares worth Rs 2,999 crore on Wednesday. The rupee traded in a narrow range, appreciating marginally by around 0.05%. Analysts suggest Indian equities are likely to remain under pressure in the near term.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132594305.cms",
-      "image": "https://img.etimg.com/thumb/msid-132594297,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-24T01:10:00Z",
+      "title": "Nasdaq Tumbles Over 2% Amid Higher Oil Prices: Investor Sentiment Weakens, Greed Index Remains In \u2018Fear\u2019",
+      "description": "Market sentiment declines, Nasdaq falls 2%, Trump warns Iran, Tesla and T-Mobile stock drops, while Dow closes lower by 507 points.",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60660103/nasdaq-tumbles-over-2-amid-higher-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/24/Fear-and-Greed.jpg",
+      "publishedAt": "2026-07-24T06:47:03Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "Oil prices surge to over $100 as Trump vows to punish Iran and Houthis",
-      "description": "Brent crude tops $100 after Houthi attacks on Saudi tankers. Trump promises \"major military punishment\" for Iran, extending Middle East conflict.",
-      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-surge-to-over-100-as-trump-vows-to-punish-iran-and-houthis-19952839.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/1784614589_HYj8hwxHBr-crudejpg-SJrtjIaYLz.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-24T01:08:40Z",
+      "title": "Middle East escalation pushes oil prices past $100 a barrel",
+      "description": "President Donald Trump has vowed to use frozen Iranian assets to pay for any damage to shipping, a move Tehran warned would set an \"incendiary precedent\".",
+      "url": "https://www.newindianexpress.com/world/2026/Jul/24/middle-east-escalation-pushes-oil-prices-past-100-a-barrel",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-24%2F62z7dwc1%2FIran-war-Oil-prices.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-24T06:21:27Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Gas, groceries and back-to-school items to spike with higher oil prices",
-      "description": "Companies that produce and sell fresh food, school supplies and anything that gets shipped using fuel reported cost impacts from an earlier spike in energy prices.",
-      "url": "https://www.chicagotribune.com/2026/07/23/retail-costs-oil-prices-spike/",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/Consumer_Confidence_23955-1.jpg?w=3946&h=2630",
-      "publishedAt": "2026-07-24T01:08:32Z",
+      "title": "Trump Says US Will Use Frozen Iranian Assets To Pay For Ship Damage As Strikes Continue",
+      "description": "The announcement came as US forces struck Iran for a 13th consecutive night, while attacks on shipping in the Red Sea and Strait of Hormuz fuelled regional tensions and pushed oil prices above $100 a barrel.",
+      "url": "https://www.outlookindia.com/international/trump-says-us-will-use-frozen-iranian-assets-to-pay-for-ship-damage-as-strikes-continue",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-06-27/ovpzhik7/Donald-Trump-Sergio-Gor.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-24T06:19:11Z",
       "source": {
-        "name": "Chicago Tribune"
+        "name": "Outlook India"
       }
     },
     {
-      "title": "Global Market Today: Asian stocks fall on tech selloff, oil trades above $100",
-      "description": "Asian stocks declined following a Wall Street tech selloff and investor doubts about artificial intelligence returns. Oil prices held their gains after closing over one hundred dollars, reaching a May high. Treasuries fell and the dollar strengthened as inflation and interest rate hike concerns grew. US President Donald Trump's threats intensified conflict worries after Houthi militants attacked oil tankers. These events fueled concerns over potential disruptions to global energy supplies.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-tech-selloff-brent-trades-above-100/articleshow/132594257.cms",
-      "image": "https://img.etimg.com/thumb/msid-132594261,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-24T01:00:00Z",
+      "title": "Bahrain Sounds Sirens as US-Iran Conflict Escalates",
+      "description": "US completes 13th night of strikes on Iran as Gulf tensions rise and oil prices surge above $100 a barrel.",
+      "url": "https://www.deccanchronicle.com/world/bahrain-sounds-sirens-as-us-iran-conflict-escalates-1973513",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/13/2063121-bahrain.jpg",
+      "publishedAt": "2026-07-24T06:13:59Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Dollar rides yield surge as Middle East and trade wars raise inflation stakes",
-      "description": "The dollar rode U.S. Treasury yields higher on Friday and hovered near a 40-year peak against the yen, as a \u200bspike in oil prices and a renewed global trade war raised the stakes for inflation.",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-rides-yield-surge-middle-east-trade-wars-raise-inflation-stakes-2026-07-24/",
-      "image": "https://www.reuters.com/resizer/v2/IJQC727TXZI3HKHS4R75A6KUSA.jpg?auth=8b826f66f54aa02264a0e2abcc6b14e602bd21be5158704b5a35ab588f6d5e87&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-24T00:52:22Z",
+      "title": "Militant arrested in connection with bomb blast at Manipur petrol pump",
+      "description": "Militant linked to Moirang petrol pump blast arrested in Manipur; police recover firearm and ammunition from his possession.",
+      "url": "https://www.thehindu.com/news/national/manipur/militant-arrested-in-connection-with-bomb-blast-at-manipur-petrol-pump/article71261004.ece",
+      "image": "https://th-i.thgim.com/public/incoming/m3strd/article71259614.ece/alternates/LANDSCAPE_1200/iStock-1135661328%201.jpg",
+      "publishedAt": "2026-07-24T06:07:09Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Resurgent Dollar Leads to Global Economic Ripples Amid Trade Tensions",
-      "description": "The dollar rose with U.S. Treasury yields, nearing a 40-year high against the yen amid climbing oil prices and trade tensions. These factors, alongside new tariffs announced by the Trump administration, heightened fears of inflation. The economic turbulence affected various currencies and central bank strategies.",
-      "url": "https://www.devdiscourse.com/article/business/3954954-resurgent-dollar-leads-to-global-economic-ripples-amid-trade-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_02_27_54_4729208.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-24T00:47:55Z",
+      "title": "Family-run Warwickshire petrol station sends 'don't come here' message after fuel drive-offs",
+      "description": "The Warwickshire petrol station was hit by two separate fuel drive-off incidents within days of each other",
+      "url": "https://www.coventrytelegraph.net/news/local-news/family-run-warwickshire-petrol-station-34342391",
+      "image": "https://i2-prod.coventrytelegraph.net/article34342390.ece/ALTERNATES/s1200d/0_DC-Edginton-Sonsjfif.jpg",
+      "publishedAt": "2026-07-24T06:00:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Coventry Telegraph"
       }
     },
     {
-      "title": "Trump threatens 'major military punishment' after Houthi strike on Saudi tankers",
-      "description": "President Trump vowed major military punishment for Iran and its Houthi allies. Houthi fighters struck two Saudi oil tankers in the Red Sea. Global oil prices surged significantly after the attacks on shipping routes. Iran also reported missile strikes on U.S. military sites in Jordan and Kuwait. These escalating events raise fears of wider economic disruption and conflict.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-major-military-punishment-after-houthi-strike-on-saudi-tankers/articleshow/132594222.cms",
-      "image": "https://img.etimg.com/thumb/msid-132594227,width-1200,height-630,imgsize-101158,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-24T00:47:00Z",
+      "title": "Weak marketing margins drag down BPCL and HPCL Q1 earnings",
+      "description": "Indian public sector oil marketing companies (OMCs) faced severe pressure during the first quarter of FY27 due to rising global crude oil prices, sharp depreciation of the Indian rupee, and escalating losses on liquefied petroleum gas (LPG) sales.",
+      "url": "https://www.tribuneindia.com/news/business/weak-marketing-margins-drag-down-bpcl-and-hpcl-q1-earnings/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwNzRlN2UwLTg3MjQtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "publishedAt": "2026-07-24T05:58:19Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls' resolve to defend 23,800 set for another test as oil crosses $100",
-      "description": "Sensex Today | Stock Market LIVE Updates: The Nifty is down nearly 500 points this week. Despite the adverse conditions globally due to rising oil prices, the bulls have somehow still managed to defend the 23,800 level on the downside. Thursday's low of 23,807 is proof of that. That resolve will be put to test yet again on the final trading day of the week, as Brent crude closed above $101 a barrel last night.",
-      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-today-brent-crude-tariffs-infosys-indigo-bob-textile-midcaps-share-price-liveblog-19952825.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-24T00:41:59Z",
+      "title": "Weak marketing margins drag down BPCL and HPCL Q1 earnings",
+      "description": "Indian public sector oil marketing companies (OMCs) faced severe pressure during the first quarter of FY27 due to rising global crude oil prices, sharp depreciation of the Indian rupee, and escalating losses on liquefied petroleum gas (LPG) sales.",
+      "url": "https://www.aninews.in/news/business/weak-marketing-margins-drag-down-bpcl-and-hpcl-q1-earnings20260724112136/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260724054941-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-24T05:51:36Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "UK petrol and diesel drivers urged to not fill up on Friday",
-      "description": "Oil markets have been turbulent after the US-Iran war broke out in February.",
-      "url": "https://www.express.co.uk/life-style/cars/2232426/uk-petrol-diesel-drivers-friday",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7058939.jpg",
-      "publishedAt": "2026-07-24T00:34:00Z",
+      "title": "Stock markets tumble in early trade as crude oil prices hit $100 per barrel mark",
+      "description": "Stock markets plunge as crude oil prices surpass $100 per barrel, with Sensex and Nifty experiencing significant declines.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-tumble-in-early-trade-as-crude-oil-prices-hit-100-per-barrel-mark/article71260991.ece",
+      "image": "https://th-i.thgim.com/public/incoming/jbv0tt/article71261002.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
+      "publishedAt": "2026-07-24T05:51:03Z",
       "source": {
-        "name": "Daily Express"
+        "name": "The Hindu"
       }
     }
   ]
