@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-24T08:07:22+00:00",
+  "updated_at": "2026-07-24T13:17:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks today: Nasdaq plunges 2% as tech earnings spark AI spending worries",
-      "description": "Wall Street closed sharply lower with Nasdaq down over 2% as weak Big Tech earnings and rising AI spending concerns hit sentiment. Surging oil prices above $100, driven by Middle East tensions, reignited inflation fears and pushed bond yields higher, overshadowing gains in defense stocks like Lockheed Martin.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-fall-as-tech-earnings-spark-ai-spending-worries-and-oil-hits-100/articleshow/132591456.cms",
-      "image": "https://img.etimg.com/thumb/msid-132591456,width-1200,height-630,imgsize-248936,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-23T20:03:00Z",
+      "title": "Ringgit opens higher against major currencies, softer vs US$",
+      "description": "KUALA LUMPUR: The ringgit opened higher against most major currencies on Friday but eased against the US dollar as markets turned risk-off, with crude oil prices continuing to climb and the Trump administration stepping up its trade protectionist policies.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/24/ringgit-opens-higher-against-major-currencies-softer-vs-us",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/24/4025769.jpg",
+      "publishedAt": "2026-07-24T01:15:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Domestic equities extended losses for a fourth consecutive session, with the Nifty declining. Investor sentiment remained fragile amid a sharp surge in Brent crude oil prices. Foreign portfolio investors net sold shares worth Rs 2,999 crore on Wednesday. The rupee traded in a narrow range, appreciating marginally by around 0.05%. Analysts suggest Indian equities are likely to remain under pressure in the near term.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132594305.cms",
+      "image": "https://img.etimg.com/thumb/msid-132594297,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-24T01:10:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Tech Stocks Tumble Amid AI Spending Concerns and Rising Oil Prices",
-      "description": "Wall Street indices ended lower with Nasdaq dropping over 2% amid concerns over heavy AI spending and inflation driven by soaring oil prices. Middle East tensions and the first reports from major tech companies contributed to market volatility. The Federal Reserve's upcoming policy meeting heightens inflation worries.",
-      "url": "https://www.devdiscourse.com/article/business/3954910-tech-stocks-tumble-amid-ai-spending-concerns-and-rising-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_20_40_15_2009644.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-23T20:01:22Z",
+      "title": "Oil prices surge to over $100 as Trump vows to punish Iran and Houthis",
+      "description": "Brent crude tops $100 after Houthi attacks on Saudi tankers. Trump promises \"major military punishment\" for Iran, extending Middle East conflict.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-surge-to-over-100-as-trump-vows-to-punish-iran-and-houthis-19952839.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/1784614589_HYj8hwxHBr-crudejpg-SJrtjIaYLz.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-24T01:08:40Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Gas, groceries and back-to-school items to spike with higher oil prices",
+      "description": "Companies that produce and sell fresh food, school supplies and anything that gets shipped using fuel reported cost impacts from an earlier spike in energy prices.",
+      "url": "https://www.chicagotribune.com/2026/07/23/retail-costs-oil-prices-spike/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/07/Consumer_Confidence_23955-1.jpg?w=3946&h=2630",
+      "publishedAt": "2026-07-24T01:08:32Z",
+      "source": {
+        "name": "Chicago Tribune"
+      }
+    },
+    {
+      "title": "Global Market Today: Asian stocks fall on tech selloff, oil trades above $100",
+      "description": "Asian stocks declined following a Wall Street tech selloff and investor doubts about artificial intelligence returns. Oil prices held their gains after closing over one hundred dollars, reaching a May high. Treasuries fell and the dollar strengthened as inflation and interest rate hike concerns grew. US President Donald Trump's threats intensified conflict worries after Houthi militants attacked oil tankers. These events fueled concerns over potential disruptions to global energy supplies.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-tech-selloff-brent-trades-above-100/articleshow/132594257.cms",
+      "image": "https://img.etimg.com/thumb/msid-132594261,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-24T01:00:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Dollar rides yield surge as Middle East and trade wars raise inflation stakes",
+      "description": "The dollar rode U.S. Treasury yields higher on Friday and hovered near a 40-year peak against the yen, as a \u200bspike in oil prices and a renewed global trade war raised the stakes for inflation.",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-rides-yield-surge-middle-east-trade-wars-raise-inflation-stakes-2026-07-24/",
+      "image": "https://www.reuters.com/resizer/v2/IJQC727TXZI3HKHS4R75A6KUSA.jpg?auth=8b826f66f54aa02264a0e2abcc6b14e602bd21be5158704b5a35ab588f6d5e87&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-24T00:52:22Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Resurgent Dollar Leads to Global Economic Ripples Amid Trade Tensions",
+      "description": "The dollar rose with U.S. Treasury yields, nearing a 40-year high against the yen amid climbing oil prices and trade tensions. These factors, alongside new tariffs announced by the Trump administration, heightened fears of inflation. The economic turbulence affected various currencies and central bank strategies.",
+      "url": "https://www.devdiscourse.com/article/business/3954954-resurgent-dollar-leads-to-global-economic-ripples-amid-trade-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_02_27_54_4729208.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-24T00:47:55Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "See how oil prices soared after attacks in Red Sea, more US strikes",
-      "description": "Fears over oil shipment constraints triggered by the US-Iran war have sent crude oil prices soaring. What will happen next?",
-      "url": "https://www.usatoday.com/story/graphics/2026/07/23/oil-prices-graph-red-sea-attacks/91022743007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/23/USAT/91025376007-usatgraphics-red-seaoil-topper.png?crop=2971,1671,x297,y320&width=2971&height=1671&format=pjpg&auto=webp",
-      "publishedAt": "2026-07-23T19:53:08Z",
+      "title": "Trump threatens 'major military punishment' after Houthi strike on Saudi tankers",
+      "description": "President Trump vowed major military punishment for Iran and its Houthi allies. Houthi fighters struck two Saudi oil tankers in the Red Sea. Global oil prices surged significantly after the attacks on shipping routes. Iran also reported missile strikes on U.S. military sites in Jordan and Kuwait. These escalating events raise fears of wider economic disruption and conflict.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-threatens-major-military-punishment-after-houthi-strike-on-saudi-tankers/articleshow/132594222.cms",
+      "image": "https://img.etimg.com/thumb/msid-132594227,width-1200,height-630,imgsize-101158,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-24T00:47:00Z",
       "source": {
-        "name": "USA TODAY"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Dollar Rises on Houthi Tanker Attack and Higher Oil Prices",
-      "description": "The dollar index (DXY00 ) on Thursday rose by +0.35%. The dollar found support from strong US interest rate differentials, as the 10-year T-note yield rose by +4 bp and posted a new 1.5-year high amid Thursday's surge in oil prices of more than +6%....",
-      "url": "https://www.barchart.com/story/news/3434249/dollar-rises-on-houthi-tanker-attack-and-higher-oil-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/British%20Pound%2C%20European%20Euro%2C%20American%20Dollar%20and%20Japanese%20Yen%20Currency%20by%20Virrage%20Images%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-23T19:41:57Z",
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty bulls' resolve to defend 23,800 set for another test as oil crosses $100",
+      "description": "Sensex Today | Stock Market LIVE Updates: The Nifty is down nearly 500 points this week. Despite the adverse conditions globally due to rising oil prices, the bulls have somehow still managed to defend the 23,800 level on the downside. Thursday's low of 23,807 is proof of that. That resolve will be put to test yet again on the final trading day of the week, as Brent crude closed above $101 a barrel last night.",
+      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-today-brent-crude-tariffs-infosys-indigo-bob-textile-midcaps-share-price-liveblog-19952825.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-24T00:41:59Z",
       "source": {
-        "name": "Barchart"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Tensions Surge: Oil Prices Break $100 Amid Global Supply Disruptions",
-      "description": "Oil prices rose above $100 for the first time since May after Yemeni Houthis attacked Saudi oil tankers, disrupting supply in the Red Sea and Strait of Hormuz. Brent crude hit its highest close since May 22, while geopolitical tensions and possible OPEC+ output increases create market uncertainties.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3954906-tensions-surge-oil-prices-break-100-amid-global-supply-disruptions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_15_43_16_7968449.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-23T19:38:20Z",
+      "title": "UK petrol and diesel drivers urged to not fill up on Friday",
+      "description": "Oil markets have been turbulent after the US-Iran war broke out in February.",
+      "url": "https://www.express.co.uk/life-style/cars/2232426/uk-petrol-diesel-drivers-friday",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7058939.jpg",
+      "publishedAt": "2026-07-24T00:34:00Z",
       "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Mortgage rate climbs above 6.50% to the highest level in months",
-      "description": "The average long-term U.S. mortgage rate climbed this week to its highest level in nearly 12 months, pushing up borrowing costs for prospective homebuyers at a time when rising oil prices are already squeezing household budgets",
-      "url": "https://www.latimes.com/business/story/2026-07-23/mortgage-rate-climbs-above-6-50-to-highest-level-in-months",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7a2326e/2147483647/strip/true/crop/3000x1575+0+213/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fff%2Fbd%2Fb04531274f79813c14cb168064a5%2F19b87fc818054239b6bc9ead93f7d79c.jpg",
-      "publishedAt": "2026-07-23T19:36:18Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Oil Prices Surge as Red Sea and Hormuz Risks Mount",
-      "description": "Oil prices surge to six-week highs as Houthi threats in the Red Sea and rising tensions in the Strait of Hormuz fuel fears of global supply disruptions.",
-      "url": "https://www.in.gr/2026/07/23/english-edition/oil-prices-surge-as-red-sea-and-hormuz-risks-mount/",
-      "image": "https://www.in.gr/wp-content/uploads/2026/07/kkk.jpg",
-      "publishedAt": "2026-07-23T19:36:15Z",
-      "source": {
-        "name": "In.gr"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Fade Mildly But See Support from Hotter US Weather Forecasts",
-      "description": "August Nymex natural gas (NGQ26 ) on Thursday closed down -0.009 (-0.31%), giving back part of Wednesday's rally of +2.09%. Nat-gas prices fell back as US natural gas inventories rose by more than the 5-year average. Also on the bearish side was con...",
-      "url": "https://www.barchart.com/story/news/3434034/nat-gas-prices-fade-mildly-but-see-support-from-hotter-us-weather-forecasts",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-07-23T19:25:12Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Tech Earnings and Oil Prices Send U.S. Stocks into Freefall",
-      "description": "U.S. stocks fell sharply with the Nasdaq down over 2% following disappointing reports from major tech firms like Alphabet and Tesla. Rising oil prices further stoked inflation fears, impacting bond yields and investors' sentiment. The market remains volatile as geopolitical tensions and economic concerns persist.",
-      "url": "https://www.devdiscourse.com/article/business/3954901-tech-earnings-and-oil-prices-send-us-stocks-into-freefall",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_03_2025_04_44_41_0420897.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-23T18:57:07Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil Prices Soar as US-Iran Conflict Expands to Red Sea",
-      "description": "September WTI crude oil (CLU26 ) on Thursday closed up +5.36 (+6.17%), and September RBOB gasoline (RBU26 ) closed up +0.0793 (+2.44%). WTI crude oil prices (CLU26 ) rallied more than +6% on Thursday after the Iran-backed Houthis launched a missile a...",
-      "url": "https://www.barchart.com/story/news/3433717/oil-prices-soar-as-us-iran-conflict-expands-to-red-sea",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20tanker%20in%20open%20sea%20by%20StockStudio%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-23T18:57:02Z",
-      "source": {
-        "name": "Barchart"
+        "name": "Daily Express"
       }
     }
   ]
