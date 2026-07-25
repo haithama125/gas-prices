@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-25T07:49:52+00:00",
+  "updated_at": "2026-07-25T13:00:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gas Prices Fade As Forecasts Turn a Bit Cooler",
-      "description": "August Nymex natural gas (NGQ26) on Friday closed down -0.045 (-1.54%), falling back towards last week\u2019s 2.25-month nearest-futures low.",
-      "url": "https://www.europesays.com/3151663/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/06/Natural20gas20burnoff20refinery20by20Leonid20Eremeychuk20via20iStock.jpg",
-      "publishedAt": "2026-07-24T19:48:32Z",
+      "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
+      "description": "The US disabled a second merchant vessel enforcing its blockade of Iranian ports as Iran targeted US-linked bases across the Gulf. Fighting intensified for a 13th consecutive night, with Saudi-Houthi clashes worsening regional tensions. Despite renewed diplomatic contacts, no breakthrough emerged, while disrupted shipping, rising oil prices and mounting casualties deepened the crisis.",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
+      "image": "https://img.etimg.com/thumb/msid-132617328,width-1200,height-630,imgsize-156022,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-07-25T00:53:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Dollar Little Changed as Oil Prices Fall Back",
-      "description": "The dollar index (DXY00 ) on Friday ended the day little changed. The dollar index was undercut as oil prices fell back by about -3%. Also, the 10-year T-note yield fell -1.8 bp after posting a new 1.5-year high earlier in the session. The dollar...",
-      "url": "https://www.barchart.com/story/news/3454155/dollar-little-changed-as-oil-prices-fall-back",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Money%20transfer%20Global%20Currency%20by%20Panuwatccn%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-24T19:48:11Z",
+      "title": "US missiles hit Iran as path towards de-escalation uncertain",
+      "description": "US missiles struck targets across Iran on Friday, escalating regional tensions. President Trump vowed major military punishment for Tehran and its Houthi allies. Iran responded by firing at US bases in neighboring Arab countries. The conflict has disrupted global oil prices and shipping routes significantly. Pakistan is exploring a path towards resuming stalled talks between the US and Iran.",
+      "url": "https://economictimes.indiatimes.com/news/defence/us-missiles-hit-iran-as-path-towards-de-escalation-uncertain/articleshow/132617297.cms",
+      "image": "https://img.etimg.com/thumb/msid-132617305,width-1200,height-630,imgsize-57130,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-07-25T00:44:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Fall Back as Red Sea Oil Shipments Continue",
-      "description": "September WTI crude oil (CLU26 ) on Friday closed down -2.88 (-3.12%), and September RBOB gasoline (RBU26 ) closed down -0.0726 (-2.18%). WTI crude oil prices (CLU26 ) on Friday fell and gave back about half of Thursday\u2019s 6% rally. Meanwhile, Sep Br...",
-      "url": "https://www.barchart.com/story/news/3453939/oil-prices-fall-back-as-red-sea-oil-shipments-continue",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Pumping%20desiel%20into%20a%20car%20by%20Supawadee56%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-24T19:33:09Z",
+      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 7% to 69% returns",
+      "description": "Domestic equity markets ended lower as crude oil prices surpassed $100 per barrel. Leading brokerages including Nomura, Jefferies, and Goldman Sachs shared strong buy recommendations on 10 key stocks across sectors.",
+      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-7-to-69-returns-4302040/",
+      "image": "https://images.financialexpressdigital.com/2026/07/ITstocks_20260722050510_20260724225409.jpg",
+      "publishedAt": "2026-07-25T00:00:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
-      "description": "Australian households face the prospect of a Reserve Bank interest rate hike and petrol prices above $2 a litre over the coming weeks, economists warn, as the",
-      "url": "https://www.europesays.com/3151625/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/6158.jpg",
-      "publishedAt": "2026-07-24T19:22:36Z",
+      "title": "Expert forecasts higher diesel and gasoline prices in Ukraine",
+      "description": "The price of diesel fuel in Ukraine could rise to UAH 90 per liter in the coming weeks, while gasoline could reach UAH 85 per liter. \u2014 Ukrinform.",
+      "url": "https://www.ukrinform.net/rubric-economy/4147488-expert-forecasts-higher-diesel-and-gasoline-prices-in-ukraine.html",
+      "image": "https://static.ukrinform.com/photos/2026_03/thumb_files/630_360_1773655948-648.jpg",
+      "publishedAt": "2026-07-24T23:25:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Ukrinform"
       }
     },
     {
-      "title": "Donald Trump Deals Republicans Double Blow in One Week",
-      "description": "Gas prices spike, new tariffs hit the same week, and Republicans are starting to worry about Trump ahead of the midterms.",
-      "url": "https://www.newsweek.com/donald-trump-deals-republicans-double-blow-in-one-week-12241344",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2286076267-7f086f.jpg?w=1200&crop=1",
-      "publishedAt": "2026-07-24T19:17:30Z",
+      "title": "2026 Lexus LX700h Sports Luxury review",
+      "description": "The new petrol-electric flagship SUV range is no fuel miser \u2013 and that could be a problem\u2026",
+      "url": "https://7news.com.au/motoring/2026-lexus-lx700h-sports-luxury-review-c-22626928",
+      "image": "https://images.7news.com.au/publication/C-22626928/d4ab54e233dfa272dd8dddcaa95c29485fe731de-16x9-x0y107w2048h1152.jpg?imwidth=1200",
+      "publishedAt": "2026-07-24T22:49:28Z",
       "source": {
-        "name": "Newsweek"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Nat-Gas Prices Fade As Forecasts Turn a Bit Cooler",
-      "description": "August Nymex natural gas (NGQ26 ) on Friday closed down -0.045 (-1.54%), falling back towards last week\u2019s 2.25-month nearest-futures low. Nat-gas prices fell back as US natural gas inventories remain well above the 5-year average and weather forecast...",
-      "url": "https://www.barchart.com/story/news/3453653/nat-gas-prices-fade-as-forecasts-turn-a-bit-cooler",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
-      "publishedAt": "2026-07-24T19:16:50Z",
+      "title": "2026 Lexus LX700h Sports Luxury review",
+      "description": "The new petrol-electric flagship SUV range is no fuel miser \u2013 and that could be a problem\u2026",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2026-lexus-lx700h-sports-luxury-review-c-22626927",
+      "image": "https://images.perthnow.com.au/publication/C-22626927/d4ab54e233dfa272dd8dddcaa95c29485fe731de-16x9-x0y107w2048h1152.jpg?imwidth=1200",
+      "publishedAt": "2026-07-24T22:49:27Z",
       "source": {
-        "name": "Barchart"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Tech Tumbles Amid AI Spending Concerns and Oil Price Impact",
-      "description": "The Nasdaq dropped as concerns over AI-related spending and skittishness around megacap earnings prompted a sell-off in chip stocks. Falling oil prices, amidst Middle East tensions, cushioned losses. Investors are cautious about massive capital outlays in the technology sector, particularly concerning chipmakers and AI.",
-      "url": "https://www.devdiscourse.com/article/business/3955377-tech-tumbles-amid-ai-spending-concerns-and-oil-price-impact",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_13_37_15_1383422.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-24T19:12:36Z",
+      "title": "US President Donald Trump strikes Iran as Red Sea attacks fuel fears of wider war",
+      "description": "Global oil prices have jumped as fears grow that key shipping routes could face further disruption.",
+      "url": "https://7news.com.au/news/conflict/us-president-donald-trump-strikes-iran-as-red-sea-attacks-fuel-fears-of-wider-war-c-22626502",
+      "image": "https://images.7news.com.au/publication/C-22626502/162640425c96f84d596815d266df266af620d0bc-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-07-24T22:32:07Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
-      "description": "Stocks are wavering on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil",
-      "url": "https://www.barchart.com/story/news/3440961/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/5ccd05ebd3604f6eafd1328fbe02a491/5ccd05ebd3604f6eafd1328fbe02a491_main_financial_markets_wall_street_24929.jpg",
-      "publishedAt": "2026-07-24T18:58:12Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Gas prices rose above $4 per gallon again. What that means for restaurants",
-      "description": "A rise in gas prices effects nearly every aspect of the economy, including traffic to restaurants as consumers cut back on dining out.",
-      "url": "https://www.oregonlive.com/business/2026/07/gas-prices-rose-above-4-per-gallon-again-what-that-means-for-restaurants.html",
-      "image": "https://www.oregonlive.com/resizer/v2/MNPGTZHKAZGLHHH6ZKJ3GRNUYI.jpg?auth=f4474e03380ade3254cc93d0469092669aa6a8c192aeae8b7a49b2c309bb060c&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-07-24T18:53:49Z",
+      "title": "Oregon gas prices are surging again - here\u2019s how much more you\u2019re paying at the pump",
+      "description": "Prices remain well above last July's $3.99 average, even as oil dipped Friday.",
+      "url": "https://www.oregonlive.com/business/2026/07/oregon-gas-prices-are-surging-again-heres-how-much-more-youre-paying-at-the-pump.html",
+      "image": "https://www.oregonlive.com/resizer/v2/C5AYDNIQGFEHZCDCMWIC5U7LUU.JPG?auth=77da680a44911d166a1c41f90545303ef9477c18db9f0d39bc2adf45e1cd9af6&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-07-24T22:23:47Z",
       "source": {
         "name": "The Oregonian"
       }
     },
     {
-      "title": "Gas prices rose above $4 per gallon again. What that means for restaurants",
-      "description": "A rise in gas prices effects nearly every aspect of the economy, including traffic to restaurants as consumers cut back on dining out.",
-      "url": "https://www.al.com/business/2026/07/gas-prices-rose-above-4-per-gallon-again-what-that-means-for-restaurants.html",
-      "image": "https://www.al.com/resizer/v2/MNPGTZHKAZGLHHH6ZKJ3GRNUYI.jpg?auth=f4474e03380ade3254cc93d0469092669aa6a8c192aeae8b7a49b2c309bb060c&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-07-24T18:53:49Z",
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
+      "description": "NEW YORK \u2014 Stocks drifted to a mixed finish on Wall Street Friday as oil prices slipped for the first time in a week.",
+      "url": "https://www.europesays.com/3151835/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/6TONYQ7LO3ENGM3X3Q3L7EYVSU.jpg",
+      "publishedAt": "2026-07-24T21:40:20Z",
       "source": {
-        "name": "AL.com"
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices to climb as Australia\u2019s fuel tax relief ends and Iran conflict escalates",
+      "description": "Rising diesel costs are expected to drive up prices across transport, farming and mining.",
+      "url": "https://www.perthnow.com.au/news/petrol-and-diesel-prices-to-climb-as-australias-fuel-tax-relief-ends-and-iran-conflict-escalates-c-22626453",
+      "image": "https://images.perthnow.com.au/publication/C-22626453/d3cde2857beba346067bc4d1b5f5e699f194dfa8-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-07-24T21:29:52Z",
+      "source": {
+        "name": "PerthNow"
       }
     }
   ]
