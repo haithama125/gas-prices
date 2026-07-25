@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-25T13:00:54+00:00",
+  "updated_at": "2026-07-25T18:52:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US military says it fired on another merchant vessel trying to breach its blockade of Iranian ports",
-      "description": "The US disabled a second merchant vessel enforcing its blockade of Iranian ports as Iran targeted US-linked bases across the Gulf. Fighting intensified for a 13th consecutive night, with Saudi-Houthi clashes worsening regional tensions. Despite renewed diplomatic contacts, no breakthrough emerged, while disrupted shipping, rising oil prices and mounting casualties deepened the crisis.",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-military-says-it-fired-on-another-merchant-vessel-trying-to-breach-its-blockade-of-iranian-ports/articleshow/132617321.cms",
-      "image": "https://img.etimg.com/thumb/msid-132617328,width-1200,height-630,imgsize-156022,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-07-25T00:53:00Z",
+      "title": "Terry Savage: Insuring your summer road trip rental",
+      "description": "Now that gas prices are starting to come down, millions of Americans will hit the roads this summer \u2014 some of them in rental cars. Whether you\u2019re traveling around\u00a0the United States\u00a0or internationally, insurance on your rental car is not a decision to be made at the last minute when you\u2019re picking up your vehicle.",
+      "url": "https://www.chicagotribune.com/2026/07/25/terry-savage-insuring-your-summer-road-trip-rental/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2024/06/202401171557TMS_____HEADSHOT_Terry-Savage_b9f1f8.jpg?w=1460&h=944",
+      "publishedAt": "2026-07-25T06:30:42Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Chicago Tribune"
       }
     },
     {
-      "title": "US missiles hit Iran as path towards de-escalation uncertain",
-      "description": "US missiles struck targets across Iran on Friday, escalating regional tensions. President Trump vowed major military punishment for Tehran and its Houthi allies. Iran responded by firing at US bases in neighboring Arab countries. The conflict has disrupted global oil prices and shipping routes significantly. Pakistan is exploring a path towards resuming stalled talks between the US and Iran.",
-      "url": "https://economictimes.indiatimes.com/news/defence/us-missiles-hit-iran-as-path-towards-de-escalation-uncertain/articleshow/132617297.cms",
-      "image": "https://img.etimg.com/thumb/msid-132617305,width-1200,height-630,imgsize-57130,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-07-25T00:44:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 7% to 69% returns",
-      "description": "Domestic equity markets ended lower as crude oil prices surpassed $100 per barrel. Leading brokerages including Nomura, Jefferies, and Goldman Sachs shared strong buy recommendations on 10 key stocks across sectors.",
-      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-7-to-69-returns-4302040/",
-      "image": "https://images.financialexpressdigital.com/2026/07/ITstocks_20260722050510_20260724225409.jpg",
-      "publishedAt": "2026-07-25T00:00:00Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Expert forecasts higher diesel and gasoline prices in Ukraine",
-      "description": "The price of diesel fuel in Ukraine could rise to UAH 90 per liter in the coming weeks, while gasoline could reach UAH 85 per liter. \u2014 Ukrinform.",
-      "url": "https://www.ukrinform.net/rubric-economy/4147488-expert-forecasts-higher-diesel-and-gasoline-prices-in-ukraine.html",
-      "image": "https://static.ukrinform.com/photos/2026_03/thumb_files/630_360_1773655948-648.jpg",
-      "publishedAt": "2026-07-24T23:25:00Z",
-      "source": {
-        "name": "Ukrinform"
-      }
-    },
-    {
-      "title": "2026 Lexus LX700h Sports Luxury review",
-      "description": "The new petrol-electric flagship SUV range is no fuel miser \u2013 and that could be a problem\u2026",
-      "url": "https://7news.com.au/motoring/2026-lexus-lx700h-sports-luxury-review-c-22626928",
-      "image": "https://images.7news.com.au/publication/C-22626928/d4ab54e233dfa272dd8dddcaa95c29485fe731de-16x9-x0y107w2048h1152.jpg?imwidth=1200",
-      "publishedAt": "2026-07-24T22:49:28Z",
-      "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "2026 Lexus LX700h Sports Luxury review",
-      "description": "The new petrol-electric flagship SUV range is no fuel miser \u2013 and that could be a problem\u2026",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/2026-lexus-lx700h-sports-luxury-review-c-22626927",
-      "image": "https://images.perthnow.com.au/publication/C-22626927/d4ab54e233dfa272dd8dddcaa95c29485fe731de-16x9-x0y107w2048h1152.jpg?imwidth=1200",
-      "publishedAt": "2026-07-24T22:49:27Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "US President Donald Trump strikes Iran as Red Sea attacks fuel fears of wider war",
-      "description": "Global oil prices have jumped as fears grow that key shipping routes could face further disruption.",
-      "url": "https://7news.com.au/news/conflict/us-president-donald-trump-strikes-iran-as-red-sea-attacks-fuel-fears-of-wider-war-c-22626502",
-      "image": "https://images.7news.com.au/publication/C-22626502/162640425c96f84d596815d266df266af620d0bc-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-07-24T22:32:07Z",
-      "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "Oregon gas prices are surging again - here\u2019s how much more you\u2019re paying at the pump",
-      "description": "Prices remain well above last July's $3.99 average, even as oil dipped Friday.",
-      "url": "https://www.oregonlive.com/business/2026/07/oregon-gas-prices-are-surging-again-heres-how-much-more-youre-paying-at-the-pump.html",
-      "image": "https://www.oregonlive.com/resizer/v2/C5AYDNIQGFEHZCDCMWIC5U7LUU.JPG?auth=77da680a44911d166a1c41f90545303ef9477c18db9f0d39bc2adf45e1cd9af6&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-07-24T22:23:47Z",
-      "source": {
-        "name": "The Oregonian"
-      }
-    },
-    {
-      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
-      "description": "NEW YORK \u2014 Stocks drifted to a mixed finish on Wall Street Friday as oil prices slipped for the first time in a week.",
-      "url": "https://www.europesays.com/3151835/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/6TONYQ7LO3ENGM3X3Q3L7EYVSU.jpg",
-      "publishedAt": "2026-07-24T21:40:20Z",
+      "title": "Geopolitics reshapes the Saudi tourism industry",
+      "description": "Saudi Arabia\u2019s tourism industry is among the sectors to feel the effects of regional conflict and low oil prices, as short-term expectations are recalibrated.",
+      "url": "https://www.europesays.com/3152537/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/215173.jpeg",
+      "publishedAt": "2026-07-25T05:29:27Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Petrol and diesel prices to climb as Australia\u2019s fuel tax relief ends and Iran conflict escalates",
-      "description": "Rising diesel costs are expected to drive up prices across transport, farming and mining.",
-      "url": "https://www.perthnow.com.au/news/petrol-and-diesel-prices-to-climb-as-australias-fuel-tax-relief-ends-and-iran-conflict-escalates-c-22626453",
-      "image": "https://images.perthnow.com.au/publication/C-22626453/d3cde2857beba346067bc4d1b5f5e699f194dfa8-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-07-24T21:29:52Z",
+      "title": "Stocks to buy under \u20b9200: Amid escalation in US-Iran war, Mehul Kothari of Anand Rathi recommends three shares to buy",
+      "description": "Geopolitical tensions and rising oil prices have unsettled investors, causing Indian equities to decline for five consecutive sessions. Both Nifty 50 and Sensex fell over 2.5%, marking the worst weekly performance in four months. Analysts suggest a 'Buy on Dips' strategy amidst ongoing volatility.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-under-rs-200-amid-escalation-in-us-iran-war-mehul-kothari-of-anand-rathi-recommends-three-shares-to-buy-11784952030260.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/25/1600x900/logo/Shares_Stocks_to_buy_today_Buy_or_sell_stock_1743839060535_1784952173610_dc0a06c7-065c-4b9d-8936-3e34ef755a88.JPG",
+      "publishedAt": "2026-07-25T05:19:21Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Market Weekly Wrap: Sensex, Nifty Slip For Fifth Straight Session As Oil Shock, FII Selling Rattle Investors",
+      "description": "Sensex and Nifty closed lower for the fifth straight session as soaring oil prices, FII selling, rupee weakness and global uncertainty rattled markets., Markets, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/markets/market-weekly-wrap-sensex-nifty-slip-for-fifth-straight-session-as-oil-shock-fii-selling-rattle-investors-article-155174838",
+      "image": "https://images.timesnownews.com/thumb/msid-155174864,thumbsize-31118,width-1280,height-720,resizemode-75/155174864.jpg",
+      "publishedAt": "2026-07-25T05:10:08Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "IEA may be forced to release more strategic oil reserves if Brent stays elevated: Sparta Commodities June Goh",
+      "description": "With global crude oil prices now having crossed the USD 100 per barrel mark amid escalating geopolitical tensions, the International Energy Agency (IEA) could release another batch of strategic petroleum reserves (SPR) if prices remain elevated, Senior Oil Market Analyst at Sparta Commodities June Goh had said in an exclusive interview with ANI.",
+      "url": "https://www.tribuneindia.com/news/business/iea-may-be-forced-to-release-more-strategic-oil-reserves-if-brent-stays-elevated-sparta-commodities-june-goh/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5MjQwM2MwLTg3ZTYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "publishedAt": "2026-07-25T05:08:11Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "IEA may be forced to release more strategic oil reserves if Brent stays elevated: Sparta Commodities June Goh",
+      "description": "With global crude oil prices now having crossed the USD 100 per barrel mark amid escalating geopolitical tensions, the International Energy Agency (IEA) could release another batch of strategic petroleum reserves (SPR) if prices remain elevated, Senior Oil Market Analyst at Sparta Commodities June Goh had said in an exclusive interview with ANI.",
+      "url": "https://www.aninews.in/news/business/iea-may-be-forced-to-release-more-strategic-oil-reserves-if-brent-stays-elevated-sparta-commodities-june-goh20260725103711/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260725050647-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-25T05:07:11Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "Sensex sinks over 2,000 points in 5 days. How scary do the charts look for next week?",
+      "description": "Indian markets enter a crucial week with Nifty testing the key 23,600 support after five straight sessions of losses. Rising crude oil prices, weak earnings and global headwinds have turned sentiment bearish, while analysts see 24,000\u201324,200 as major resistance levels.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-sinks-over-2000-points-in-5-days-how-scary-do-the-charts-look-for-next-week/articleshow/132619248.cms",
+      "image": "https://img.etimg.com/thumb/msid-132619245,width-1200,height-630,imgsize-43215,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-25T04:55:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Crude oil prices rise 10% this week but China enters fray to push for end to Iran war. What\u2019s next?",
+      "description": "Crude oil futures experienced a significant decline on Friday. This drop followed reports of China's initiative to restart stalled US-Iran peace negotiations. Despite the fall, both Brent and West Texas Intermediate crude are set for weekly gains. Geopolitical developments continue to heavily influence global oil prices and supply concerns. Experts warn of potential price surges if shipping disruptions persist in key waterways.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-prices-rise-10-this-week-but-china-enters-fray-to-push-for-end-to-iran-war-whats-next/articleshow/132619080.cms",
+      "image": "https://img.etimg.com/thumb/msid-132619073,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-25T04:35:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "European shares gain as SAP lifts tech stocks; Middle East on watch",
+      "description": "European shares saw a rise on Friday, recovering from previous losses. Investors reacted positively to select corporate earnings reports and oil price concerns. Germany's DAX index climbed as SAP's cloud backlog growth exceeded expectations. Higher oil prices did not boost energy stocks due to a drop in Neste's performance. Policymakers indicated potential interest rate hikes amid inflation risks.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-gain-as-sap-lifts-tech-stocks-middle-east-on-watch/articleshow/132618864.cms",
+      "image": "https://img.etimg.com/thumb/msid-132618871,width-1200,height-630,imgsize-40988,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-25T04:25:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
+      "description": "Stocks saw a mixed close on Wall Street as oil prices declined after a week of gains. Major indexes experienced losses for the week due to escalating U.S. conflict with Iran. Investors also faced new tariffs and persistent inflation concerns impacting the economy. Bond yields eased, providing some relief to the stock market's pressure. European markets advanced while Asian markets closed lower on Friday.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week/articleshow/132618845.cms",
+      "image": "https://img.etimg.com/thumb/msid-132618853,width-1200,height-630,imgsize-242258,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-25T04:21:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
