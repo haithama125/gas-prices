@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-25T01:47:23+00:00",
+  "updated_at": "2026-07-25T07:49:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Regional: Sticker Shock At Bay Area Gas Pumps Keeps Shocking",
-      "description": "Gas prices in the Bay Area, along with the rest of California and the nation, keep climbing, according to a weekly fuel report from AAA's regional office in Walnut Creek.",
-      "url": "https://www.sfgate.com/news/bayarea/article/regional-sticker-shock-at-bay-area-gas-pumps-22359497.php",
-      "image": "https://s.hdnux.com/photos/01/66/72/53/31173356/3/rawImage.jpg",
-      "publishedAt": "2026-07-24T13:44:02Z",
+      "title": "Gas Prices Fade As Forecasts Turn a Bit Cooler",
+      "description": "August Nymex natural gas (NGQ26) on Friday closed down -0.045 (-1.54%), falling back towards last week\u2019s 2.25-month nearest-futures low.",
+      "url": "https://www.europesays.com/3151663/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/06/Natural20gas20burnoff20refinery20by20Leonid20Eremeychuk20via20iStock.jpg",
+      "publishedAt": "2026-07-24T19:48:32Z",
       "source": {
-        "name": "SFGATE"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Stocks edge higher while crude oil prices fall for the first time in a week",
-      "description": "Stocks are edging higher on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil. The S&P 500 inched up 0.1% early Friday. The Dow Jones Industrial Average rose 62 points, and the Nasdaq composite slipped 0.1%. All three indexes are still on track to finish the week lower. After shooting to $102 per barrel a day earlier, Brent crude fell 2.6%. Treasury yields moved lower. European markets were higher and Asian markets closed lower.",
-      "url": "https://www.ajc.com/news/2026/07/wall-street-inches-higher-as-markets-absorb-war-tariffs-high-energy-costs-and-ai-anxiety/",
-      "image": "https://images.ajc.com/resizer/v2/ZIRBLGSJRZBWDJRS4576SEI5YA.jpg?auth=3b835cb983888c640e46be61f35f28a19d47e2c5ecc44b405991532229224992&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-24T13:41:39Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "US stocks today: US stocks open subdued after tech rout; Mideast, tariffs in focus",
-      "description": "Wall Street opened mixed after a sharp tech-led selloff, with the Dow inching higher while the S&P 500 and Nasdaq slipped. Investors remained cautious amid fresh earnings, renewed Trump tariffs and rising Middle East tensions, with oil prices and inflation concerns continuing to influence overall market sentiment.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms",
-      "image": "https://img.etimg.com/thumb/msid-132607371,width-1200,height-630,imgsize-129670,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-24T13:37:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Majority of Republicans consider voting against party over gas prices: Poll",
-      "description": "Gas prices remain a dollar higher than a year ago, but many voters, including Trump supporters, think prices have risen more than they actually have.",
-      "url": "https://www.washingtonexaminer.com/news/campaigns/4662011/majority-republicans-consider-voting-different-party-rising-gas-prices-poll/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26203859388923.jpg?resize=1200,683",
-      "publishedAt": "2026-07-24T13:36:03Z",
-      "source": {
-        "name": "Washington Examiner"
-      }
-    },
-    {
-      "title": "Stocks edge higher while crude oil prices fall for the first time in a week",
-      "description": "Stocks are edging higher on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil",
-      "url": "https://www.barchart.com/story/news/3440961/stocks-edge-higher-while-crude-oil-prices-fall-for-the-first-time-in-a-week",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/5ccd05ebd3604f6eafd1328fbe02a491/5ccd05ebd3604f6eafd1328fbe02a491_main_financial_markets_wall_street_24929.jpg",
-      "publishedAt": "2026-07-24T13:36:00Z",
+      "title": "Dollar Little Changed as Oil Prices Fall Back",
+      "description": "The dollar index (DXY00 ) on Friday ended the day little changed. The dollar index was undercut as oil prices fell back by about -3%. Also, the 10-year T-note yield fell -1.8 bp after posting a new 1.5-year high earlier in the session. The dollar...",
+      "url": "https://www.barchart.com/story/news/3454155/dollar-little-changed-as-oil-prices-fall-back",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Money%20transfer%20Global%20Currency%20by%20Panuwatccn%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-24T19:48:11Z",
       "source": {
         "name": "Barchart"
       }
     },
     {
-      "title": "Tensions Rise: U.S. Missile Strikes Escalate Middle East Conflict",
-      "description": "U.S. missiles hit targets throughout Iran, deepening tensions after President Trump's vow of military retribution against Iran and its Houthi allies. Iranian forces retaliated with warnings of potential strikes on U.S. bases in the region. These actions have sparked global economic concerns, increasing oil prices and affecting international trade routes.",
-      "url": "https://www.devdiscourse.com/article/politics/3955234-tensions-rise-us-missile-strikes-escalate-middle-east-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-24T13:34:53Z",
+      "title": "Oil Prices Fall Back as Red Sea Oil Shipments Continue",
+      "description": "September WTI crude oil (CLU26 ) on Friday closed down -2.88 (-3.12%), and September RBOB gasoline (RBU26 ) closed down -0.0726 (-2.18%). WTI crude oil prices (CLU26 ) on Friday fell and gave back about half of Thursday\u2019s 6% rally. Meanwhile, Sep Br...",
+      "url": "https://www.barchart.com/story/news/3453939/oil-prices-fall-back-as-red-sea-oil-shipments-continue",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Pumping%20desiel%20into%20a%20car%20by%20Supawadee56%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-24T19:33:09Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+      "description": "Australian households face the prospect of a Reserve Bank interest rate hike and petrol prices above $2 a litre over the coming weeks, economists warn, as the",
+      "url": "https://www.europesays.com/3151625/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/6158.jpg",
+      "publishedAt": "2026-07-24T19:22:36Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Donald Trump Deals Republicans Double Blow in One Week",
+      "description": "Gas prices spike, new tariffs hit the same week, and Republicans are starting to worry about Trump ahead of the midterms.",
+      "url": "https://www.newsweek.com/donald-trump-deals-republicans-double-blow-in-one-week-12241344",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/07/GettyImages-2286076267-7f086f.jpg?w=1200&crop=1",
+      "publishedAt": "2026-07-24T19:17:30Z",
+      "source": {
+        "name": "Newsweek"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Fade As Forecasts Turn a Bit Cooler",
+      "description": "August Nymex natural gas (NGQ26 ) on Friday closed down -0.045 (-1.54%), falling back towards last week\u2019s 2.25-month nearest-futures low. Nat-gas prices fell back as US natural gas inventories remain well above the 5-year average and weather forecast...",
+      "url": "https://www.barchart.com/story/news/3453653/nat-gas-prices-fade-as-forecasts-turn-a-bit-cooler",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-07-24T19:16:50Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Tech Tumbles Amid AI Spending Concerns and Oil Price Impact",
+      "description": "The Nasdaq dropped as concerns over AI-related spending and skittishness around megacap earnings prompted a sell-off in chip stocks. Falling oil prices, amidst Middle East tensions, cushioned losses. Investors are cautious about massive capital outlays in the technology sector, particularly concerning chipmakers and AI.",
+      "url": "https://www.devdiscourse.com/article/business/3955377-tech-tumbles-amid-ai-spending-concerns-and-oil-price-impact",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_13_37_15_1383422.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-24T19:12:36Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Hampton Roads consumers face return of $4 gas as Iran war intensifies",
-      "description": "Gasoline prices rose above $4 a gallon in parts of Virginia on Wednesday as the United States and Iran traded military blows over control of the Strait of Hormuz, last week ending a ceasefire that had brought consumers temporary relief at the pump.",
-      "url": "https://www.pilotonline.com/2026/07/24/gas-prices-iran-war-intensifies/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/migration/2022/03/16/VUQT66J3MFFPPNVV2XZ566QRCY.jpg?w=1200&h=785",
-      "publishedAt": "2026-07-24T13:28:01Z",
+      "title": "Stocks waver on Wall Street while crude oil prices fall for the first time in a week",
+      "description": "Stocks are wavering on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil",
+      "url": "https://www.barchart.com/story/news/3440961/stocks-waver-on-wall-street-while-crude-oil-prices-fall-for-the-first-time-in-a-week",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/5ccd05ebd3604f6eafd1328fbe02a491/5ccd05ebd3604f6eafd1328fbe02a491_main_financial_markets_wall_street_24929.jpg",
+      "publishedAt": "2026-07-24T18:58:12Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Iran war is threatening mortgage rates again",
-      "description": "Robert McLister: New round of fighting has oil prices and bond yields climbing again. Read on for more summer mortgage news. Read more here.",
-      "url": "https://financialpost.com/real-estate/iran-war-threatening-mortgage-rate-again",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/iran-war-gs0724.jpg",
-      "publishedAt": "2026-07-24T13:18:28Z",
+      "title": "Gas prices rose above $4 per gallon again. What that means for restaurants",
+      "description": "A rise in gas prices effects nearly every aspect of the economy, including traffic to restaurants as consumers cut back on dining out.",
+      "url": "https://www.oregonlive.com/business/2026/07/gas-prices-rose-above-4-per-gallon-again-what-that-means-for-restaurants.html",
+      "image": "https://www.oregonlive.com/resizer/v2/MNPGTZHKAZGLHHH6ZKJ3GRNUYI.jpg?auth=f4474e03380ade3254cc93d0469092669aa6a8c192aeae8b7a49b2c309bb060c&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-07-24T18:53:49Z",
       "source": {
-        "name": "Financial Post"
+        "name": "The Oregonian"
       }
     },
     {
-      "title": "US stock market today: Dow futures rebound over 200 points as oil prices retreat; Intel gains after earnings",
-      "description": "Dow futures climbed over 200 points on Friday as Brent crude pulled back below $100 a barrel, easing pressure on equities after Thursday's sharp decline. Investors also assessed fresh tariff announcements, West tensions and a new round of corporate earnings.",
-      "url": "https://www.cnbctv18.com/market/us-stock-market-today-dow-futures-nasdaq-oil-prices-intel-earnings-19953550.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-24T13:13:01Z",
+      "title": "Gas prices rose above $4 per gallon again. What that means for restaurants",
+      "description": "A rise in gas prices effects nearly every aspect of the economy, including traffic to restaurants as consumers cut back on dining out.",
+      "url": "https://www.al.com/business/2026/07/gas-prices-rose-above-4-per-gallon-again-what-that-means-for-restaurants.html",
+      "image": "https://www.al.com/resizer/v2/MNPGTZHKAZGLHHH6ZKJ3GRNUYI.jpg?auth=f4474e03380ade3254cc93d0469092669aa6a8c192aeae8b7a49b2c309bb060c&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-07-24T18:53:49Z",
       "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Crude oil prices shoot up after Red Sea joins Strait of Hormuz as Iran war's second choke point",
-      "description": "46 mins agoIran flew IRGC commanders, advisers and munitions to Yemen to support Houthi terrorists: report",
-      "url": "https://www.europesays.com/3151115/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/3ee2c679490bb416049b3bd389ba5f2e.jpg",
-      "publishedAt": "2026-07-24T13:11:25Z",
-      "source": {
-        "name": "EUROPE SAYS"
+        "name": "AL.com"
       }
     }
   ]
