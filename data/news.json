@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-24T19:11:54+00:00",
+  "updated_at": "2026-07-25T01:47:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold Steady After Recent Swings; Rising Crude Oil on Geopolitical Risks Fuels High Inflation",
-      "description": "Escalating geopolitical tensions in the Middle East are pushing crude oil prices above $90 a barrel, fueling fears of a resurgence in\u00a0inflation.",
-      "url": "https://www.europesays.com/3150574/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/closeup-of-big-gold-nugget-511603038-5ad92a97fa6bcc00362b919b-scaled.webp",
-      "publishedAt": "2026-07-24T06:52:26Z",
+      "title": "Regional: Sticker Shock At Bay Area Gas Pumps Keeps Shocking",
+      "description": "Gas prices in the Bay Area, along with the rest of California and the nation, keep climbing, according to a weekly fuel report from AAA's regional office in Walnut Creek.",
+      "url": "https://www.sfgate.com/news/bayarea/article/regional-sticker-shock-at-bay-area-gas-pumps-22359497.php",
+      "image": "https://s.hdnux.com/photos/01/66/72/53/31173356/3/rawImage.jpg",
+      "publishedAt": "2026-07-24T13:44:02Z",
+      "source": {
+        "name": "SFGATE"
+      }
+    },
+    {
+      "title": "Stocks edge higher while crude oil prices fall for the first time in a week",
+      "description": "Stocks are edging higher on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil. The S&P 500 inched up 0.1% early Friday. The Dow Jones Industrial Average rose 62 points, and the Nasdaq composite slipped 0.1%. All three indexes are still on track to finish the week lower. After shooting to $102 per barrel a day earlier, Brent crude fell 2.6%. Treasury yields moved lower. European markets were higher and Asian markets closed lower.",
+      "url": "https://www.ajc.com/news/2026/07/wall-street-inches-higher-as-markets-absorb-war-tariffs-high-energy-costs-and-ai-anxiety/",
+      "image": "https://images.ajc.com/resizer/v2/ZIRBLGSJRZBWDJRS4576SEI5YA.jpg?auth=3b835cb983888c640e46be61f35f28a19d47e2c5ecc44b405991532229224992&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-24T13:41:39Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "US stocks today: US stocks open subdued after tech rout; Mideast, tariffs in focus",
+      "description": "Wall Street opened mixed after a sharp tech-led selloff, with the Dow inching higher while the S&P 500 and Nasdaq slipped. Investors remained cautious amid fresh earnings, renewed Trump tariffs and rising Middle East tensions, with oil prices and inflation concerns continuing to influence overall market sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-open-subdued-after-tech-rout-mideast-tariffs-in-focus/articleshow/132607371.cms",
+      "image": "https://img.etimg.com/thumb/msid-132607371,width-1200,height-630,imgsize-129670,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-24T13:37:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Majority of Republicans consider voting against party over gas prices: Poll",
+      "description": "Gas prices remain a dollar higher than a year ago, but many voters, including Trump supporters, think prices have risen more than they actually have.",
+      "url": "https://www.washingtonexaminer.com/news/campaigns/4662011/majority-republicans-consider-voting-different-party-rising-gas-prices-poll/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/07/AP26203859388923.jpg?resize=1200,683",
+      "publishedAt": "2026-07-24T13:36:03Z",
+      "source": {
+        "name": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Stocks edge higher while crude oil prices fall for the first time in a week",
+      "description": "Stocks are edging higher on Wall Street and oil prices are falling for the first time in a week, even as heavy fighting in the Middle East again threatened to slow the global flow of oil",
+      "url": "https://www.barchart.com/story/news/3440961/stocks-edge-higher-while-crude-oil-prices-fall-for-the-first-time-in-a-week",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/5ccd05ebd3604f6eafd1328fbe02a491/5ccd05ebd3604f6eafd1328fbe02a491_main_financial_markets_wall_street_24929.jpg",
+      "publishedAt": "2026-07-24T13:36:00Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Tensions Rise: U.S. Missile Strikes Escalate Middle East Conflict",
+      "description": "U.S. missiles hit targets throughout Iran, deepening tensions after President Trump's vow of military retribution against Iran and its Houthi allies. Iranian forces retaliated with warnings of potential strikes on U.S. bases in the region. These actions have sparked global economic concerns, increasing oil prices and affecting international trade routes.",
+      "url": "https://www.devdiscourse.com/article/politics/3955234-tensions-rise-us-missile-strikes-escalate-middle-east-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_05_2019_11_50_05_8739542.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-07-24T13:34:53Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Hampton Roads consumers face return of $4 gas as Iran war intensifies",
+      "description": "Gasoline prices rose above $4 a gallon in parts of Virginia on Wednesday as the United States and Iran traded military blows over control of the Strait of Hormuz, last week ending a ceasefire that had brought consumers temporary relief at the pump.",
+      "url": "https://www.pilotonline.com/2026/07/24/gas-prices-iran-war-intensifies/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/migration/2022/03/16/VUQT66J3MFFPPNVV2XZ566QRCY.jpg?w=1200&h=785",
+      "publishedAt": "2026-07-24T13:28:01Z",
+      "source": {
+        "name": "Norfolk Virginian-Pilot"
+      }
+    },
+    {
+      "title": "Iran war is threatening mortgage rates again",
+      "description": "Robert McLister: New round of fighting has oil prices and bond yields climbing again. Read on for more summer mortgage news. Read more here.",
+      "url": "https://financialpost.com/real-estate/iran-war-threatening-mortgage-rate-again",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/07/iran-war-gs0724.jpg",
+      "publishedAt": "2026-07-24T13:18:28Z",
+      "source": {
+        "name": "Financial Post"
+      }
+    },
+    {
+      "title": "US stock market today: Dow futures rebound over 200 points as oil prices retreat; Intel gains after earnings",
+      "description": "Dow futures climbed over 200 points on Friday as Brent crude pulled back below $100 a barrel, easing pressure on equities after Thursday's sharp decline. Investors also assessed fresh tariff announcements, West tensions and a new round of corporate earnings.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-today-dow-futures-nasdaq-oil-prices-intel-earnings-19953550.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-24T13:13:01Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Crude oil prices shoot up after Red Sea joins Strait of Hormuz as Iran war's second choke point",
+      "description": "46 mins agoIran flew IRGC commanders, advisers and munitions to Yemen to support Houthi terrorists: report",
+      "url": "https://www.europesays.com/3151115/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/3ee2c679490bb416049b3bd389ba5f2e.jpg",
+      "publishedAt": "2026-07-24T13:11:25Z",
       "source": {
         "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Nasdaq Tumbles Over 2% Amid Higher Oil Prices: Investor Sentiment Weakens, Greed Index Remains In \u2018Fear\u2019",
-      "description": "Market sentiment declines, Nasdaq falls 2%, Trump warns Iran, Tesla and T-Mobile stock drops, while Dow closes lower by 507 points.",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60660103/nasdaq-tumbles-over-2-amid-higher-oil-prices-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/24/Fear-and-Greed.jpg",
-      "publishedAt": "2026-07-24T06:47:03Z",
-      "source": {
-        "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Middle East escalation pushes oil prices past $100 a barrel",
-      "description": "President Donald Trump has vowed to use frozen Iranian assets to pay for any damage to shipping, a move Tehran warned would set an \"incendiary precedent\".",
-      "url": "https://www.newindianexpress.com/world/2026/Jul/24/middle-east-escalation-pushes-oil-prices-past-100-a-barrel",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-24%2F62z7dwc1%2FIran-war-Oil-prices.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-24T06:21:27Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Trump Says US Will Use Frozen Iranian Assets To Pay For Ship Damage As Strikes Continue",
-      "description": "The announcement came as US forces struck Iran for a 13th consecutive night, while attacks on shipping in the Red Sea and Strait of Hormuz fuelled regional tensions and pushed oil prices above $100 a barrel.",
-      "url": "https://www.outlookindia.com/international/trump-says-us-will-use-frozen-iranian-assets-to-pay-for-ship-damage-as-strikes-continue",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-27/ovpzhik7/Donald-Trump-Sergio-Gor.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-24T06:19:11Z",
-      "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "Bahrain Sounds Sirens as US-Iran Conflict Escalates",
-      "description": "US completes 13th night of strikes on Iran as Gulf tensions rise and oil prices surge above $100 a barrel.",
-      "url": "https://www.deccanchronicle.com/world/bahrain-sounds-sirens-as-us-iran-conflict-escalates-1973513",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/07/13/2063121-bahrain.jpg",
-      "publishedAt": "2026-07-24T06:13:59Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Militant arrested in connection with bomb blast at Manipur petrol pump",
-      "description": "Militant linked to Moirang petrol pump blast arrested in Manipur; police recover firearm and ammunition from his possession.",
-      "url": "https://www.thehindu.com/news/national/manipur/militant-arrested-in-connection-with-bomb-blast-at-manipur-petrol-pump/article71261004.ece",
-      "image": "https://th-i.thgim.com/public/incoming/m3strd/article71259614.ece/alternates/LANDSCAPE_1200/iStock-1135661328%201.jpg",
-      "publishedAt": "2026-07-24T06:07:09Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Family-run Warwickshire petrol station sends 'don't come here' message after fuel drive-offs",
-      "description": "The Warwickshire petrol station was hit by two separate fuel drive-off incidents within days of each other",
-      "url": "https://www.coventrytelegraph.net/news/local-news/family-run-warwickshire-petrol-station-34342391",
-      "image": "https://i2-prod.coventrytelegraph.net/article34342390.ece/ALTERNATES/s1200d/0_DC-Edginton-Sonsjfif.jpg",
-      "publishedAt": "2026-07-24T06:00:00Z",
-      "source": {
-        "name": "Coventry Telegraph"
-      }
-    },
-    {
-      "title": "Weak marketing margins drag down BPCL and HPCL Q1 earnings",
-      "description": "Indian public sector oil marketing companies (OMCs) faced severe pressure during the first quarter of FY27 due to rising global crude oil prices, sharp depreciation of the Indian rupee, and escalating losses on liquefied petroleum gas (LPG) sales.",
-      "url": "https://www.tribuneindia.com/news/business/weak-marketing-margins-drag-down-bpcl-and-hpcl-q1-earnings/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIwNzRlN2UwLTg3MjQtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-      "publishedAt": "2026-07-24T05:58:19Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Weak marketing margins drag down BPCL and HPCL Q1 earnings",
-      "description": "Indian public sector oil marketing companies (OMCs) faced severe pressure during the first quarter of FY27 due to rising global crude oil prices, sharp depreciation of the Indian rupee, and escalating losses on liquefied petroleum gas (LPG) sales.",
-      "url": "https://www.aninews.in/news/business/weak-marketing-margins-drag-down-bpcl-and-hpcl-q1-earnings20260724112136/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260724054941-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-07-24T05:51:36Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Stock markets tumble in early trade as crude oil prices hit $100 per barrel mark",
-      "description": "Stock markets plunge as crude oil prices surpass $100 per barrel, with Sensex and Nifty experiencing significant declines.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-tumble-in-early-trade-as-crude-oil-prices-hit-100-per-barrel-mark/article71260991.ece",
-      "image": "https://th-i.thgim.com/public/incoming/jbv0tt/article71261002.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
-      "publishedAt": "2026-07-24T05:51:03Z",
-      "source": {
-        "name": "The Hindu"
       }
     }
   ]
