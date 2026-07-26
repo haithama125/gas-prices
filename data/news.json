@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-26T12:57:51+00:00",
+  "updated_at": "2026-07-26T18:56:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "LA County Gas Prices Increase For 11th Consecutive Day",
-      "description": "The average price of a gallon of self-serve regular gasoline in Los Angeles County rose for the 11th consecutive day Saturday, increasing 3.8 cents to $5.683.",
-      "url": "https://www.europesays.com/3154106/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/02/MNLA-Facebook.jpg",
-      "publishedAt": "2026-07-26T00:43:23Z",
+      "title": "Street: US Fed Meeting, Q1 Earnings, and Oil Prices to Impact Trade This Week",
+      "description": "Discover the key factors impacting the Indian stock market this week, from the US Fed's rate decision and Q1 earnings to triple derivatives expiry.",
+      "url": "https://www.outlookmoney.com/invest/stock-market-news-key-factors-expected-to-impact-trade-on-d-street-this-week",
+      "image": "https://media.assettype.com/outlookmoney/2026-06-03/ql07saa5/what-led-to-market-recovery-today.jpg?w=1200",
+      "publishedAt": "2026-07-26T06:54:42Z",
+      "source": {
+        "name": "Outlook Money"
+      }
+    },
+    {
+      "title": "Mandab Strait blockade \u2014 the risks to global shipping\uff5cArab News Japan",
+      "description": "Oil prices hit $100 a barrel for the first time since May following 13 days of strikes by the US and Iran",
+      "url": "https://www.europesays.com/3154583/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/4734844-392132880-658x370.jpg",
+      "publishedAt": "2026-07-26T06:16:37Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Airstrikes have paused and talks are pressing forward. But can the US and Iran take the off-ramp?",
-      "description": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing. At the same time, diplomatic efforts pushed forward to try to avert a return to all-out war. But it remains to be seen whether the U.S. and Iran are at an inflection point in a mercurial conflict that will reach the five-month point Tuesday. President Donald Trump has threatened more strikes but also said talks are pressing on. He's brushed off concerns that rising gas prices tied to the fighting could hurt Republicans in November\u2019s midterm elections. Adding to the uncertainty is Israeli Prime Minister Benjamin Netanyahu\u2019s planned visit with Trump next week. Israel has been notably absent from the renewed U.S. attacks.",
-      "url": "https://www.ajc.com/news/2026/07/airstrikes-have-paused-and-talks-are-pressing-forward-but-can-the-us-and-iran-take-the-off-ramp/",
-      "image": "https://images.ajc.com/resizer/v2/U6XWTYE6DRAKZE222IL75NGJZY.jpg?auth=117802457a7807233fda343ad694b8a629dbc8a90bf1f481e8e10435260db2ae&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-26T00:22:45Z",
+      "title": "US Fed decision, Q1 earnings, crude oil prices likely to drive D",
+      "description": "US Fed decision, Q1 earnings, crude oil prices likely to drive D-Street next week - Mumbai, July 26 The Indian stock market is expected to remain driven by global cues in the coming ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/us-fed-decision-q1-earnings-crude-oil-prices-likely-to-drive-d-street-next-week/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202607263878758_202607.jpg",
+      "publishedAt": "2026-07-26T06:09:22Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Cadillac to launch three new petrol-powered models from 2027",
-      "description": "Cadillac has abandoned plans to be an EV-only brand in the US, and will launch three new petrol-powered models starting from next year.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/cadillac-to-launch-three-new-petrol-powered-models-from-2027-c-22629610",
-      "image": "https://images.perthnow.com.au/publication/C-22629610/0f7c0ea888b124675cb8a162fa4c3846ac8afd8e-16x9-x0y216w4151h2335.jpg?imwidth=1200",
-      "publishedAt": "2026-07-25T23:52:36Z",
+      "title": "Pakistan keeps Petrol, Diesel prices unchanged until July 27",
+      "description": "Pakistan will keep petrol, diesel and kerosene prices unchanged until July 27 as the government reviews its fuel pricing policy.",
+      "url": "https://www.bolnews.com/latest-news/pakistan-keeps-petrol-diesel-prices-unchanged-until-july-27/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-3-19.webp",
+      "publishedAt": "2026-07-26T05:50:42Z",
       "source": {
-        "name": "PerthNow"
+        "name": "BOL News"
       }
     },
     {
-      "title": "Cadillac to launch three new petrol-powered models from 2027",
-      "description": "Cadillac has abandoned plans to be an EV-only brand in the US, and will launch three new petrol-powered models starting from next year.",
-      "url": "https://7news.com.au/motoring/cadillac-to-launch-three-new-petrol-powered-models-from-2027-c-22629609",
-      "image": "https://images.7news.com.au/publication/C-22629609/0f7c0ea888b124675cb8a162fa4c3846ac8afd8e-16x9-x0y216w4151h2335.jpg?imwidth=1200",
-      "publishedAt": "2026-07-25T23:52:35Z",
+      "title": "Will Indian stock market fall for 6th straight session tomorrow?",
+      "description": "Indian markets face pressure amid rising oil prices and FII outflows",
+      "url": "https://www.newsbytesapp.com/news/business/sensex-nifty-fall-for-5th-straight-session-what-s-brewing/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l53820260726103825.jpeg",
+      "publishedAt": "2026-07-26T05:34:22Z",
+      "source": {
+        "name": "NewsBytes"
+      }
+    },
+    {
+      "title": "Birmingham petrol theft crisis - and garage owners can't seem to stop it",
+      "description": "Petrol station owner Shailesh Parekh has spoken out over the rise of brazen fuel thefts.",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/birmingham-petrol-theft-crisis-garage-34324163",
+      "image": "https://i2-prod.birminghammail.co.uk/article34324167.ece/ALTERNATES/s1200d/0_esso.jpg",
+      "publishedAt": "2026-07-26T05:14:06Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel",
+      "description": "UK drivers face petrol station nightmare with soaring prices - cheapest and most expensive areas for fuel . Drivers up and down the country are facing soaring petrol and diesel prices as tensions in the Middle East force up the cost of oil",
+      "url": "https://www.gbnews.com/lifestyle/cars/uk-drivers-petrol-station-nightmare-fuel-prices",
+      "image": "https://www.gbnews.com/media-library/petrol-prices-and-a-petrol-pump.jpg?id=67536920&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
+      "publishedAt": "2026-07-26T05:00:02Z",
+      "source": {
+        "name": "GB News"
+      }
+    },
+    {
+      "title": "Midcaps, smallcaps extend losses for second straight week, but outperform benchmarks",
+      "description": "The short-term outlook remains cautious, with market direction likely to be influenced by crude oil prices, geopolitical developments in the Middle East, global market trends, FII activity, and upcoming corporate earnings.",
+      "url": "https://www.moneycontrol.com/news/business/markets/midcaps-smallcaps-extend-losses-for-second-straight-week-but-outperform-benchmarks-13983668.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260726042307_stocks5.jpg",
+      "publishedAt": "2026-07-26T04:35:26Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Fuel excise cuts to finish on August 2 with no extension yet one the cards",
+      "description": "The extension is due to lapse on August 2 and without it petrol prices could reach more than $2 a litre.",
+      "url": "https://7news.com.au/news/fuel-excise-cuts-to-finish-on-august-2-with-no-extension-yet-one-the-cards-c-22630168",
+      "image": "https://images.7news.com.au/publication/C-22630168/e832c4cefd01269a8031f1852886cd1f9010bc34-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-07-26T04:29:03Z",
       "source": {
         "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Petrol station denied extra payout over Cambodian rocket hit",
-      "description": "The Si Sa Ket petrol station hit by a Cambodian rocket last year will not receive further compensation as its losses were fully covered by insurance and its parent company, the government says.",
-      "url": "https://www.bangkokpost.com/thailand/general/3291710/petrol-station-denied-extra-payout-over-cambodian-rocket-hit",
-      "image": "https://static.bangkokpost.com/media/content/20260726/c1_3291710_260726062915_700.jpg",
-      "publishedAt": "2026-07-25T23:28:00Z",
+      "title": "Govt keeps prices of petrol, high-speed diesel unchanged",
+      "description": "ISLAMABAD\u00a0 -\u00a0 The government kept the prices of petrol and high-speed diesel (HSD) unchanged for July 26 and 27, maintaining them at Rs335.18 and Rs383.46 per",
+      "url": "https://www.nation.com.pk/26-Jul-2026/govt-keeps-prices-petrol-high-speed-diesel-unchanged",
+      "image": "https://www.nation.com.pk/print_images/large/2026-07-26/govt-keeps-prices-petrol-high-speed-diesel-unchanged-1785039214-6056.jpg",
+      "publishedAt": "2026-07-26T04:13:00Z",
       "source": {
-        "name": "Bangkok Post"
-      }
-    },
-    {
-      "title": "New York\u2019s noisy food carts go electric in clean\u2011air pilot to curb generator noise and emissions",
-      "description": "NEW YORK, July 26 \u2014 Walk around New York and you\u2019ll likely hear the chugging of petrol generators powering the city\u2019s tens of thousands of food carts. But not William...",
-      "url": "https://www.malaymail.com/news/life/2026/07/26/new-yorks-noisy-food-carts-go-electric-in-cleanair-pilot-to-curb-generator-noise-and-emissions/228920",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/07/25/353711.jpg",
-      "publishedAt": "2026-07-25T23:00:00Z",
-      "source": {
-        "name": "Malay Mail"
-      }
-    },
-    {
-      "title": "Sweet Rides on Road Get More Electrifying",
-      "description": "Electrified vehicles are on the verge of overtaking petrol and diesel models in Indias premium car market.",
-      "url": "https://economictimes.indiatimes.com/sunet-front/sweet-rides-on-road-get-more-electrifying/articleshow/132635155.cms",
-      "image": "https://img.etimg.com/thumb/msid-132635158,width-1200,height-630,imgsize-622858,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-25T22:49:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Sweet Rides on Road Get More Electrifying",
-      "description": "Electrified vehicles are on the verge of overtaking petrol and diesel models in Indias premium car market.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/jul/26/sunet-front/sweet-rides-on-road-get-more-electrifying/articleshow/132635155.cms",
-      "image": "https://img.etimg.com/thumb/msid-132635158,width-1200,height-630,imgsize-622858,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-25T22:49:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Crude Oil Trading Isn't Trading Higher Despite Iran and Ukraine Wars",
-      "description": "Crude oil prices have surged over the past three weeks, with Brent climbing from this month\u2019s low of $70 to $100 on Thursday. West Texas Intermediate (WTI)",
-      "url": "https://www.europesays.com/3153862/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/Oil-Pump-In-The-Desert-Of-Bahrain-Middl.jpg",
-      "publishedAt": "2026-07-25T21:59:14Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Tensions Escalate: Yemen's Houthi Attacks on Saudi Oil Ports",
-      "description": "Yemen's Houthi militants attacked Saudi oil ports, raising tensions in the region. The U.S. refrained from striking Iran, emphasizing diplomacy amid negotiations. Fighting continues between Houthi allies and Saudi forces, threatening regional security and impacting global oil prices. An interim ceasefire has faltered, exacerbating the ongoing conflict.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3955580-tensions-escalate-yemens-houthi-attacks-on-saudi-oil-ports",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_13_48_13_8188936.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-25T20:20:35Z",
-      "source": {
-        "name": "Devdiscourse"
+        "name": "The Nation"
       }
     }
   ]
