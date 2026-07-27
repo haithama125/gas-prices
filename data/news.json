@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-27T14:09:59+00:00",
+  "updated_at": "2026-07-27T19:12:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock Market Live Updates Today: BSE Sensex, NSE Nifty50 outlook driven by oil prices, earnings and global cues",
-      "description": "Financial markets are navigating a complex mix of global and domestic triggers, with investors balancing geopolitical developments, inflation concern",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-27-july-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/132650898.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132650898,width-1280,height-720,imgsize-2312134,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-27T02:08:12Z",
+      "title": "Global Markets: Japan's Nikkei rises as oil falls before key earnings",
+      "description": "Japan's Nikkei share average closed higher on Monday, boosted by lower oil prices. Investors remained cautious due to upcoming major earnings reports from U.S. cloud companies. Reduced concerns over crude prices supported Japanese shares, while buybacks were also anticipated. Major U.S. and Japanese companies will release their earnings this week. Chip-testing equipment maker Advantest and memory chipmaker Kioxia are among those reporting.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-oil-falls-before-key-earnings/articleshow/132654861.cms",
+      "image": "https://img.etimg.com/thumb/msid-132654879,width-1200,height-630,imgsize-255616,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-27T07:08:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Across the world, the Iran war is reshaping everyday life",
+      "description": "People share stories of spiking gas prices, goodbyes filled with fear, livelihoods pushed closer to the edge \u2014 and days that no longer looked the way they once did.",
+      "url": "https://apnews.com/projects/days-disrupted-after-iran-war/",
+      "image": "https://apnews.com/projects/days-disrupted-after-iran-war/assets/images/promo-OpenGraph.jpg",
+      "publishedAt": "2026-07-27T07:00:00Z",
+      "source": {
+        "name": "The Associated Press"
+      }
+    },
+    {
+      "title": "Petrol bomb hurled at BJP office in Punjab\u2019s Sangrur",
+      "description": "SANGRUR: A petrol bomb was allegedly hurled at the BJP office in Sangrur late on Monday night, following which police officials reached the spot and l.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/petrol-bomb-hurled-at-bjp-office-in-punjabs-sangrur-police-launch-probe/articleshow/132654439.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132654635,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-27T06:59:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Japan's Nikkei trades sideways as investors await earnings",
-      "description": "Japan's Nikkei share average saw little direction on Monday. Oil prices dropped significantly after the US suspended attacks on Iran. Investors avoided aggressive bets ahead of key corporate earnings reports this week. Major US cloud companies' earnings will be closely watched for capital spending plans. Japanese chipmakers Advantest and Kioxia are also set to report earnings soon.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/japans-nikkei-trades-sideways-as-investors-await-earnings/articleshow/132650794.cms",
-      "image": "https://img.etimg.com/thumb/msid-132650812,width-1200,height-630,imgsize-8470,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-27T01:54:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil prices fall 5%: Crude cools as US-Iran pause fuels hopes of diplomatic breakthrough",
-      "description": "International Business News: Oil prices tumbled sharply on Monday after the United States and Iran held back from launching fresh strikes over the weekend, raising hopes that dipl.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-fall-5-crude-cools-as-us-iran-pause-fuels-hopes-of-a-diplomatic-breakthrough/articleshow/132650733.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132650777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-27T01:51:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight",
-      "description": "Gift Nifty was trading around 23,934 level, a premium of nearly 127.5 points from the Nifty futures\u2019 previous close, indicating a gap-up start for the Indian stock market indices.",
-      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785114846497.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/stock_1785116494523_1785116494629_37608076-2e93-4186-8d66-b4b7249830f8.jpg",
-      "publishedAt": "2026-07-27T01:48:30Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Brent retreats after US halts strikes on Iran",
-      "description": "Petrol, diesel prices today \u2014 26 July: Fuel rates remain stable despite marginal fluctuation. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities as Brent retreats after US halts its strikes on Iran.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-retreats-after-us-halts-strikes-on-iran-11785112916380.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/3-0-66608552-AFP-1U440U-0_1679803438011_1785114539232_cdfd7de4-be3b-42ce-bf49-eecb161a8eae.jpg",
-      "publishedAt": "2026-07-27T01:46:29Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Gold gains on pause in US-Iran fighting; Fed decision looms",
-      "description": "Gold rose more than 1% on Monday as a pause in Middle East \u200chostilities sent oil prices lower, alleviating some inflation concerns, while investors awaited the U.S. Federal Reserve's policy decision.",
-      "url": "https://www.reuters.com/world/india/gold-rises-over-1-oil-tumbles-pause-us-iran-fighting-2026-07-27/",
-      "image": "https://www.reuters.com/resizer/v2/3AIXKYQRTJNOBJ7QZ7U6I6OWDA.jpg?auth=0aeab9ae8e8a62362dcc8a5265d3795a3885fe6ced27723236e3d5d5316579ff&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-27T01:44:56Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Gold rises over 1% as oil tumbles on pause in US-Iran fighting",
-      "description": "Gold prices increased over one percent on Monday. A pause in Middle East hostilities lowered oil prices and inflation worries. This development supported gold's appeal as investors anticipated stable interest rates. Other precious metals like silver and platinum also saw gains. Speculators increased their net long positions in COMEX gold.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-over-1-as-oil-tumbles-on-pause-in-us-iran-fighting/articleshow/132650713.cms",
-      "image": "https://img.etimg.com/thumb/msid-132650725,width-1200,height-630,imgsize-305066,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-27T01:40:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Dollar pulls back as US-Iran attacks pause, oil drops",
-      "description": "The dollar weakened against major currencies as the United States paused its bombing campaign in Iran. Oil prices also sank significantly after the temporary halt in military strikes. Investor confidence improved globally following reports of renewed peace talks and continued oil flows. The euro and British pound saw gains against the depreciating U.S. dollar. Bitcoin and ether experienced upward price movements in the cryptocurrency market.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-pulls-back-as-us-iran-attacks-pause-oil-drops/articleshow/132650702.cms",
-      "image": "https://img.etimg.com/thumb/msid-132650709,width-1200,height-630,imgsize-230788,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-27T01:37:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Fed faces growing pressure to hike rates as price risks rebound",
-      "description": "Renewed tensions in the Middle East have sent oil prices soaring again, overshadowing a tamer-than-expected reading on June consumer prices.",
-      "url": "https://www.japantimes.co.jp/business/2026/07/27/economy/fed-pressure-rates-price-risks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/07/27/553672.jpg?v=3.1",
-      "publishedAt": "2026-07-27T01:36:46Z",
-      "source": {
-        "name": "The Japan Times "
-      }
-    },
-    {
-      "title": "Trading Plan: Can cooling oil prices drive a rebound in Nifty 50 and Bank Nifty after last week's sharp downtrend?",
-      "description": "The Nifty 50 is likely to witness a bounce-back. However, the sustainability of the recovery will be the key factor to watch thereafter. On the upside, the index may face resistance in the 23,900-24,000 zone, and a sustained move above this range could trigger a further rally. On the downside, the crucial support is placed at 23,600, which is Friday's low.",
-      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-can-cooling-oil-prices-drive-a-rebound-in-nifty-50-and-bank-nifty-after-last-week-s-sharp-downtrend-13983970.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260624035919_bse-nsee_nifty-Sensex.jpg",
-      "publishedAt": "2026-07-27T01:35:27Z",
+      "title": "Eternal, JK Tyre, Asian Paints, other crude-sensitive stocks gain up to 5% as Brent falls below $91",
+      "description": "Paint stocks traded higher as lower crude oil prices reduce the cost of petrochemical-based raw materials used in manufacturing.",
+      "url": "https://www.moneycontrol.com/news/business/markets/eternal-jk-tyre-asian-paints-other-crude-sensitive-stocks-gain-up-to-5-as-brent-falls-below-92-13984318.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711043218_marketup_sensexup-Niftyup.jpg",
+      "publishedAt": "2026-07-27T06:48:58Z",
       "source": {
         "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "China\u2019s Crude Oil Imports Surge",
+      "description": "China's crude oil imports are rebounding sharply as refiners increase purchases from Russia and the Middle East, supporting oil prices despite a temporary pause in U.S.-Iran hostilities.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_yiswd9o2vp.jpg",
+      "publishedAt": "2026-07-27T06:45:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Central banks, big tech earnings and Middle East tensions in focus",
+      "description": "Global markets are heading into a crucial week as investors track monetary policy decisions from the U.S. Federal Reserve, Bank of England and Bank of Japan. Escalating tensions in the Middle East, rising oil prices, fresh U.S. tariffs and earnings from major technology companies are expected to shape market sentiment. (Source: Reuters) Central banks, big tech earnings and Middle East tensions in focus",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-global-events-that-could-move-markets-this-week/slideshow/132654297.cms",
+      "image": "https://img.etimg.com/thumb/msid-132654297,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-07-27T06:40:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Rupee Rises 28 Paise to 96.25 Against US Dollar in Early Trade",
+      "description": "The rupee gained 28 paise to 96.25 against the US dollar in early trade on Monday, taking cues from a sharp fall in crude oil prices and positive global sentiment after the US and Iran signalled an easing of tensions in West Asia.",
+      "url": "https://www.outlookbusiness.com/markets/rupee-rises-28-paise-to-9625-against-us-dollar-in-early-trade",
+      "image": "https://media.assettype.com/outlookbusiness/2026-07-27/01qrxjyr/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-07-27T06:32:58Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "Rupee Opens On Strong Note By 28 Paise As Crude Oil Prices Tumble 4%",
+      "description": "Crude oil prices fell by 4 percent, influenced by reduced tensions between the US and Iran. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/rupee-opens-on-strong-note-by-28-paise-as-crude-oil-prices-tumble-4-article-155185585",
+      "image": "https://images.timesnownews.com/thumb/msid-155185635,thumbsize-2130181,width-1280,height-720,resizemode-75/155185635.jpg",
+      "publishedAt": "2026-07-27T06:31:16Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "After CJP's win, the 'E20 Janta Party' demands govt address ethanol-blended petrol push",
+      "description": "A new online satirical political movement, the 'E20 Janta Party,' has rapidly gained significant traction by advocating for consumer choice regarding ethanol-blended petrol",
+      "url": "https://www.theweek.in/news/india/2026/07/27/after-cjps-win-the-e20-janta-party-demands-govt-address-ethanol-blended-petrol-push.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/7/27/e20-ethanol-blended-petrol-party.jpg",
+      "publishedAt": "2026-07-27T06:27:56Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Precious metals likely to stay volatile, range",
+      "description": "Precious metals are expected to remain volatile and trade within a range as uncertainty over the fragile US-Iran truce continues to cloud the outlook for crude oil prices, according to market and commodities experts.",
+      "url": "https://www.tribuneindia.com/news/business/precious-metals-likely-to-stay-volatile-range-bound-amid-uncertain-us-iran-truce-say-experts/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxMDM3MTgwLTg5ODMtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "publishedAt": "2026-07-27T06:18:31Z",
+      "source": {
+        "name": "The Tribune"
       }
     }
   ]
