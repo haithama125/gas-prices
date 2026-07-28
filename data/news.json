@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-27T19:12:14+00:00",
+  "updated_at": "2026-07-28T01:40:49+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Global Markets: Japan's Nikkei rises as oil falls before key earnings",
-      "description": "Japan's Nikkei share average closed higher on Monday, boosted by lower oil prices. Investors remained cautious due to upcoming major earnings reports from U.S. cloud companies. Reduced concerns over crude prices supported Japanese shares, while buybacks were also anticipated. Major U.S. and Japanese companies will release their earnings this week. Chip-testing equipment maker Advantest and memory chipmaker Kioxia are among those reporting.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-japans-nikkei-rises-as-oil-falls-before-key-earnings/articleshow/132654861.cms",
-      "image": "https://img.etimg.com/thumb/msid-132654879,width-1200,height-630,imgsize-255616,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-27T07:08:00Z",
+      "title": "Stocks open higher on Wall Street and crude oil prices drop 6% as Mideast tensions cool",
+      "description": "Stocks are opening higher on Wall Street and oil prices are down 6% after the U.S. and Iran paused their attacks while work resumed on restarting negotiations to end the war",
+      "url": "https://www.barchart.com/story/news/3473003/stocks-open-higher-on-wall-street-and-crude-oil-prices-drop-6-as-mideast-tensions-cool",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/1749cc0263804418bc911bc68358de3b/1749cc0263804418bc911bc68358de3b_main_financial_markets_wall_street__264.jpg",
+      "publishedAt": "2026-07-27T13:37:16Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Across the world, the Iran war is reshaping everyday life",
-      "description": "People share stories of spiking gas prices, goodbyes filled with fear, livelihoods pushed closer to the edge \u2014 and days that no longer looked the way they once did.",
-      "url": "https://apnews.com/projects/days-disrupted-after-iran-war/",
-      "image": "https://apnews.com/projects/days-disrupted-after-iran-war/assets/images/promo-OpenGraph.jpg",
-      "publishedAt": "2026-07-27T07:00:00Z",
+      "title": "Oil prices tumble as pause in U.S.-Iran fighting sparks market relief",
+      "description": "Stock futures rose and crude fell after U.S. Ambassador Mike Waltz told \"Face the Nation\" that a pause in U.S.-Iran fighting aims to give diplomacy time to work.",
+      "url": "https://www.cbsnews.com/news/oil-prices-tumble-us-iran-pause/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/21/f88d493b-b61c-4a75-ad4d-045131471b9f/thumbnail/1200x630/89292ff9c301b1c7a164d2e784c03702/gettyimages-2276955761.jpg",
+      "publishedAt": "2026-07-27T13:37:00Z",
       "source": {
-        "name": "The Associated Press"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Petrol bomb hurled at BJP office in Punjab\u2019s Sangrur",
-      "description": "SANGRUR: A petrol bomb was allegedly hurled at the BJP office in Sangrur late on Monday night, following which police officials reached the spot and l.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/petrol-bomb-hurled-at-bjp-office-in-punjabs-sangrur-police-launch-probe/articleshow/132654439.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132654635,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-27T06:59:00Z",
+      "title": "Oil prices tumble as pause in U.S.-Iran fighting sparks market relief",
+      "description": "Crude prices dropped as the U.S. Ambassador to the UN said suspension of attacks is aimed at finding a diplomatic solution.",
+      "url": "https://www.cbsnews.com/detroit/news/oil-prices-tumble-us-iran-pause/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/21/f88d493b-b61c-4a75-ad4d-045131471b9f/thumbnail/1200x630/89292ff9c301b1c7a164d2e784c03702/gettyimages-2276955761.jpg",
+      "publishedAt": "2026-07-27T13:37:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Eternal, JK Tyre, Asian Paints, other crude-sensitive stocks gain up to 5% as Brent falls below $91",
-      "description": "Paint stocks traded higher as lower crude oil prices reduce the cost of petrochemical-based raw materials used in manufacturing.",
-      "url": "https://www.moneycontrol.com/news/business/markets/eternal-jk-tyre-asian-paints-other-crude-sensitive-stocks-gain-up-to-5-as-brent-falls-below-92-13984318.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260711043218_marketup_sensexup-Niftyup.jpg",
-      "publishedAt": "2026-07-27T06:48:58Z",
+      "title": "Oil prices tumble as pause in U.S.-Iran fighting sparks market relief",
+      "description": "Stock futures rose and crude fell after U.S. Ambassador Mike Waltz told \"Face the Nation\" that a pause in U.S.-Iran fighting aims to give diplomacy time to work.",
+      "url": "https://www.cbsnews.com/texas/news/oil-prices-tumble-us-iran-pause/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/07/21/f88d493b-b61c-4a75-ad4d-045131471b9f/thumbnail/1200x630/89292ff9c301b1c7a164d2e784c03702/gettyimages-2276955761.jpg",
+      "publishedAt": "2026-07-27T13:37:00Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "CBS News"
       }
     },
     {
-      "title": "China\u2019s Crude Oil Imports Surge",
-      "description": "China's crude oil imports are rebounding sharply as refiners increase purchases from Russia and the Middle East, supporting oil prices despite a temporary pause in U.S.-Iran hostilities.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Oil-Imports-Surge.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-07-27_yiswd9o2vp.jpg",
-      "publishedAt": "2026-07-27T06:45:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Central banks, big tech earnings and Middle East tensions in focus",
-      "description": "Global markets are heading into a crucial week as investors track monetary policy decisions from the U.S. Federal Reserve, Bank of England and Bank of Japan. Escalating tensions in the Middle East, rising oil prices, fresh U.S. tariffs and earnings from major technology companies are expected to shape market sentiment. (Source: Reuters) Central banks, big tech earnings and Middle East tensions in focus",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/5-global-events-that-could-move-markets-this-week/slideshow/132654297.cms",
-      "image": "https://img.etimg.com/thumb/msid-132654297,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "publishedAt": "2026-07-27T06:40:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rupee Rises 28 Paise to 96.25 Against US Dollar in Early Trade",
-      "description": "The rupee gained 28 paise to 96.25 against the US dollar in early trade on Monday, taking cues from a sharp fall in crude oil prices and positive global sentiment after the US and Iran signalled an easing of tensions in West Asia.",
-      "url": "https://www.outlookbusiness.com/markets/rupee-rises-28-paise-to-9625-against-us-dollar-in-early-trade",
-      "image": "https://media.assettype.com/outlookbusiness/2026-07-27/01qrxjyr/ABC.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-27T06:32:58Z",
-      "source": {
-        "name": "Outlook Business"
-      }
-    },
-    {
-      "title": "Rupee Opens On Strong Note By 28 Paise As Crude Oil Prices Tumble 4%",
-      "description": "Crude oil prices fell by 4 percent, influenced by reduced tensions between the US and Iran. , Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/rupee-opens-on-strong-note-by-28-paise-as-crude-oil-prices-tumble-4-article-155185585",
-      "image": "https://images.timesnownews.com/thumb/msid-155185635,thumbsize-2130181,width-1280,height-720,resizemode-75/155185635.jpg",
-      "publishedAt": "2026-07-27T06:31:16Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "After CJP's win, the 'E20 Janta Party' demands govt address ethanol-blended petrol push",
-      "description": "A new online satirical political movement, the 'E20 Janta Party,' has rapidly gained significant traction by advocating for consumer choice regarding ethanol-blended petrol",
-      "url": "https://www.theweek.in/news/india/2026/07/27/after-cjps-win-the-e20-janta-party-demands-govt-address-ethanol-blended-petrol-push.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/7/27/e20-ethanol-blended-petrol-party.jpg",
-      "publishedAt": "2026-07-27T06:27:56Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "Precious metals likely to stay volatile, range",
-      "description": "Precious metals are expected to remain volatile and trade within a range as uncertainty over the fragile US-Iran truce continues to cloud the outlook for crude oil prices, according to market and commodities experts.",
-      "url": "https://www.tribuneindia.com/news/business/precious-metals-likely-to-stay-volatile-range-bound-amid-uncertain-us-iran-truce-say-experts/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxMDM3MTgwLTg5ODMtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
-      "publishedAt": "2026-07-27T06:18:31Z",
+      "title": "Govt signals roadmap beyond E20, says ethanol capacity built to support higher blends and flex",
+      "description": "The government has signalled that India's ethanol blending programme is being planned beyond the current 20 per cent blending target, saying the country's ethanol production capacity has been created not only to sustain E20 petrol but also to support higher ethanol blends, flex-fuel vehicles and other future biofuel applications.",
+      "url": "https://www.tribuneindia.com/news/business/govt-signals-roadmap-beyond-e20-says-ethanol-capacity-built-to-support-higher-blends-and-flex-fuel-vehicles/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMwMjg5NTQwLTg5YmYtMTFmMS04YWQ1LTVkY2Y0NzZmMmZlMC5qcGc=",
+      "publishedAt": "2026-07-27T13:33:20Z",
       "source": {
         "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Govt signals roadmap beyond E20, says ethanol capacity built to support higher blends and flex-fuel vehicles",
+      "description": "The government has signalled that India's ethanol blending programme is being planned beyond the current 20 per cent blending target, saying the country's ethanol production capacity has been created not only to sustain E20 petrol but also to support higher ethanol blends, flex-fuel vehicles and other future biofuel applications.",
+      "url": "https://www.aninews.in/news/business/govt-signals-roadmap-beyond-e20-says-ethanol-capacity-built-to-support-higher-blends-and-flex-fuel-vehicles20260727190302/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260727125310-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-27T13:33:02Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "AAP announces August 1 national town hall against E20, invites online and offline participation",
+      "description": "The Aam Aadmi Party (AAP) is organizing a 'National Town Hall Against E20' in Delhi on August 1, encouraging public participation to discuss grievances over E20-blended petrol.",
+      "url": "https://www.livemint.com/focus/aap-announces-august-1-national-town-hall-against-e20-invites-online-and-offline-participation-11785158797375.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/Kejriwal-2_1785158837154_1785158850371_a1ae8f01-5a49-40af-b890-cb21f26980ad.jpg",
+      "publishedAt": "2026-07-27T13:28:29Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Oil Prices Plummet Amid U.S.-Iran Tensions",
+      "description": "Following President Trump's sudden cessation of bombing campaigns against Iran, Saudi Arabia, Jordan, and Iraq reported drone attacks. The U.S. strategy led to a significant drop in oil prices. Iran maintains control over the Strait of Hormuz, while diplomacy between the U.S. and Iran remains stalled.",
+      "url": "https://www.devdiscourse.com/article/politics/3955965-oil-prices-plummet-amid-us-iran-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_08_2024_15_43_16_7968449.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-27T13:25:21Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Used EV market in California sizzles as gas prices soar",
+      "description": "Drivers who want to cut out expensive fill-ups are seeing a flood of leased EV vehicles coming available.",
+      "url": "https://www.mercurynews.com/2026/07/27/southern-californias-used-ev-market-sizzles-as-gas-prices-soar/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/07/OCR-L-USED-EVS-08xx_02.jpg?w=2000&h=1333",
+      "publishedAt": "2026-07-27T13:20:47Z",
+      "source": {
+        "name": "The Mercury News"
+      }
+    },
+    {
+      "title": "ConocoPhillips Stock Has Attractive Short-Put Yields for One Month As Oil Price Rise",
+      "description": "With elevated oil and gas prices due to the U.S.-Iran conflict, ConocoPhillips stock is up again. That has also pushed COP put premiums higher, making them attractive to put option short sellers.",
+      "url": "https://www.barchart.com/story/news/3479543/conocophillips-stock-has-attractive-short-put-yields-for-one-month-as-oil-price-rise",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Energy/Conoco%20Phillips%20HQ%20Sign%20-%20by%20MattGush%20via%20iStock.jpg",
+      "publishedAt": "2026-07-27T13:15:02Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
