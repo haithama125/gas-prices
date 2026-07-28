@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-28T08:14:28+00:00",
+  "updated_at": "2026-07-28T13:29:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "American Sentiment Divided: Trump Faces Criticism Over Iran Conflict",
-      "description": "Support for the war on Iran is fading among Americans, with only one-third backing it. President Trump's unclear objectives have fueled disapproval, impacting the Republican party ahead of midterm elections. The war has also led to rising gas prices and increased economic concerns.",
-      "url": "https://www.devdiscourse.com/article/politics/3956091-american-sentiment-divided-trump-faces-criticism-over-iran-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2025_19_13_17_3881875.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-27T20:13:11Z",
+      "title": "Oil eases further amid talks between Iran and US, Brent slumps to $88",
+      "description": "Oil prices fall as US-Iran tensions ease, Kazakhstan resumes exports. Brent drops below $88, WTI near $82.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-eases-further-amid-talks-between-iran-and-us-brent-slumps-to-88-19955225.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/1784880450_skMuBQMWVk-crude-oiljpg-pw2TWzORQi.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-28T01:26:29Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Canadian dollar hits near two-week low as oil prices drop; speculators \u2060trim bearish bets",
-      "description": "10-year yield eases 4.2 basis points to 3.564%",
-      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-hits-near-two-week-low-as-oil-prices-drop-speculators/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/UOHAY6CZSZFGZL5YABJNOXJNLE.JPG?auth=25206018b8381beb2722780b36ef87776f62df4a2e1a7dbbde17ec0260724510&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-07-27T20:10:22Z",
-      "source": {
-        "name": "The Globe and Mail"
-      }
-    },
-    {
-      "title": "US-Iran War Live: Iran is pleading US to stop its naval blockade, Trump says",
-      "description": "US-Iran War News Live Updates: US President Donald Trump on Monday said the United States was holding \"good talks\" with Iran and expressed hope that diplomacy could end the conflict, while warning that military strikes would resume if negotiations collapsed. Speaking aboard Air Force One, Trump said Tehran wanted talks because \"we've been hitting them very hard\" and added, \"I think there's a good chance that something could happen... if it doesn't, we go back to doing what we were doing two days ago.\" His remarks came two days after Washington abruptly paused its two-week bombing campaign. However, the fragile calm was tested as Saudi Arabia, Jordan and Iraq reported drone attacks, while Yemen's Iran-backed Houthis claimed strikes on Saudi oil infrastructure. Iran denied seeking negotiations, with Foreign Ministry spokesman Esmail Baghaei calling such reports \"fabricated\" and insisting, \"This is not in our DNA,\" though he confirmed indirect messages were still being exchanged through mediators. Tehran also maintained that it remained in control of the Strait of Hormuz, the crucial global oil shipping route at the centre of the crisis. Hopes that the pause could pave the way for diplomacy sent oil prices tumbling, with Brent crude plunging nearly 9% to around $88 a barrel after briefly crossing $100 last week. Reports suggested Trump halted the bombing campaign after military commanders warned of dwindling targets and concerns over ammunition supplies, claims the US president dismissed by insisting America had \"a lot of ammunition\" and was rapidly rebuilding its stockpiles. Despite the pause, uncertainty remains high as shipping through the Strait of Hormuz stays severely disrupted and both Washington and Tehran continue to disagree over future access to the strategic waterway. Follow IndiaToday.in for the latest updates.",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-news-live-updates-donald-trump-iran-talks-us-soldiers-attack-strait-of-hormuz-naval-blockade-gulf-states-oil-prices-latest-news-2957691-2026-07-28",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202607/uspresident-donald-trump-had-announced-a-10-global-tariff-on-exports-from-all-countries-under-sect-243300314-16x9.jpg?VersionId=TRxawouaDGlZ7e0t6x1K5KjYCrnXNE22",
-      "publishedAt": "2026-07-27T20:06:02Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Wall Street Awaits Tech Earnings as Oil Prices Impact Market Trends",
-      "description": "Wall Street ended Monday with mixed results as investors awaited tech earnings and worried about high oil prices impacting Fed rates. Tech giants like Microsoft and Apple are set to report. Meanwhile, a chip market selloff hints at competitive pressures from China, and geopolitical tensions influence oil market dynamics.",
-      "url": "https://www.devdiscourse.com/article/business/3956089-wall-street-awaits-tech-earnings-as-oil-prices-impact-market-trends",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2024_17_10_35_4580339.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-27T20:01:47Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "US stocks: US market ends mixed as investors focus on tech earnings",
-      "description": "Wall Street closed mixed as investors awaited tech earnings and feared rate hikes. Oil prices fell after President Trump discussed peace talks with Iran. Major technology firms like Microsoft and Apple will report their quarterly results this week. Investors are questioning the sustainability of the artificial intelligence rally. The Federal Reserve's monetary policy decision is due on Wednesday.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-mixed-as-investors-focus-on-tech-earnings/articleshow/132670435.cms",
-      "image": "https://img.etimg.com/thumb/msid-132670438,width-1200,height-630,imgsize-142758,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-27T20:01:00Z",
+      "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
+      "description": "Oil prices dropped as market participants assessed a pause in US strikes on Iran. Hopes for a diplomatic solution eased concerns about Middle East energy flows. President Trump indicated positive talks with Iran, but warned of resuming strikes if negotiations fail. Analysts noted reduced traffic through key shipping straits and demand destruction in Asia. US crude oil and gasoline stockpiles likely fell last week.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-1-as-investors-weigh-pause-in-us-strikes-on-iran/articleshow/132673143.cms",
+      "image": "https://img.etimg.com/thumb/msid-132673146,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-28T01:07:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Dollar eases as oil prices fall on pause in Middle East conflict",
-      "description": "GLOBAL-FOREX/ (UPDATE 5):FOREX-Dollar eases as oil prices fall on pause in Middle East conflict",
-      "url": "https://www.livemint.com/market/dollar-eases-as-oil-prices-fall-on-pause-in-middle-east-conflict-11785181650901.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
-      "publishedAt": "2026-07-27T19:47:30Z",
+      "title": "Crude oil prices extend losses on US-Iran peace talks; Brent below $90 per barrel",
+      "description": "US-Iran war: West Texas Intermediate (WTI) crude slipped below $82 a barrel after plunging more than 7% on Monday, while Brent crude recorded its biggest one-day decline in over three months, settling near $88 a barrel.",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-losses-on-us-iran-peace-talks-brent-below-90-per-barrel-11785199818976.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/crude_1785200370083_1785200370184_38ac387c-2f20-46ba-b1d9-b877c2e87bdd.jpg",
+      "publishedAt": "2026-07-28T01:05:17Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "U.S.-Iran Tensions: Talks, Airstrikes, and Oil Prices",
-      "description": "President Donald Trump indicated ongoing \"good talks\" with Iran may lead to a resolution in their conflict while cautioning that U.S. military action would resume should negotiations fail. Despite the optimism, tensions remain high with continued drone incidents. The suspension of U.S. airstrikes affected oil prices significantly.",
-      "url": "https://www.devdiscourse.com/article/politics/3956085-us-iran-tensions-talks-airstrikes-and-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/23_07_2026_22_15_24_2750649.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-07-27T19:43:30Z",
+      "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
+      "description": "Oil prices fell 1% on Tuesday as market participants continued to weigh a pause in U.S. strikes on Iran, which has raised hope of a diplomatic solution to their conflict and the normalisation of Middle \u200bEast energy flows.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-investors-weigh-pause-us-strikes-iran-2026-07-28/",
+      "image": "https://www.reuters.com/resizer/v2/2Z2OBJVQLZJALCYM3VBT3XY5SU.jpg?auth=242959bf9fa28fa912eeaec8a2808f5b7c50a143e8cb3aeaad124763144e3e06&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-28T01:02:58Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices fall after US, Iran pause attacks",
-      "description": "By\u00a0Aldgra\u00a0Fredly\u00a0Contributing Writer\u00a0 Oil prices dropped more than 5%\u00a0on Monday after the United States and Iran paused attacks for a second straight day following weeks of strikes that had pushed Brent [\u2026]",
-      "url": "https://signalscv.com/2026/07/oil-prices-fall-after-us-iran-pause-attacks/",
-      "image": "https://signalscv.s3.us-west-1.amazonaws.com/wp-content/uploads/2026/01/13121303/World_News_Filler_Iran-scaled.jpg",
-      "publishedAt": "2026-07-27T19:42:33Z",
-      "source": {
-        "name": "Santa Clarita Valley Signal"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Sink on Hopes for US-Iran Diplomacy",
-      "description": "September WTI crude oil (CLU26 ) on Monday closed down -6.70 (-7.50%), and September RBOB gasoline (RBU26 ) closed down -0.0820 (-2.52%). Crude oil and gasoline prices sank on Monday, with gasoline falling to a 1-week low. The easing of tensions in...",
-      "url": "https://www.barchart.com/story/news/3485371/crude-oil-prices-sink-on-hopes-for-us-iran-diplomacy",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
-      "publishedAt": "2026-07-27T19:16:05Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nitin Gadkari moves High Court against deep fake videos",
-      "description": "The Bombay High Court permitted Union minister Nitin Gadkari's application for a civil suit. This suit addresses alleged deepfake and defamatory content circulating online. The content is reportedly linked to the ethanol-blended petrol programme. Justice Abhay Ahuja orally granted permission for Gadkari's application.",
-      "url": "https://economictimes.indiatimes.com/news/india/nitin-gadkari-moves-high-court-against-deep-fake-videos/articleshow/132670046.cms",
-      "image": "https://img.etimg.com/thumb/msid-132670046,width-1200,height-630,imgsize-19742,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-27T19:16:00Z",
+      "title": "Global Market Today: Asian stocks fall on AI jitters, oil extends drop",
+      "description": "Asian equities dropped as artificial intelligence spending concerns fueled chipmaker selloffs. Crude oil extended its decline, with Brent slumping significantly on Monday. Investors await policy decisions from the Fed, Bank of Japan, and Bank of England. Earnings from megacap technology companies are also a key focus this week. Geopolitical developments and oil prices remain significant wild cards for markets.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
+      "image": "https://img.etimg.com/thumb/msid-132673126,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-28T01:02:00Z",
       "source": {
         "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures hint at a negative start on expiry day",
+      "description": "Sensex Today | Stock Market LIVE Updates: The Nifty bulls enter the monthly options expiry on an optimistic note but risks continue to persist. The focus is on the Fed policy decision, to which the market will react on Thursday, as well as the ongoing developments in West Asia. Oil prices continue to remain below the $90 mark after Monday's sell-off.",
+      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-expiry-today-oil-hdfc-bank-it-cipla-bel-tejas-hul-indus-lt-share-price-liveblog-19955200.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-28T00:51:16Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Lower crude, firmer rupee and easing volatility drive sharp rebound in Indian equities",
+      "description": "Indian stocks and currency surged significantly on Monday after crude oil prices collapsed. The BSE Sensex and NSE Nifty both saw substantial gains, reflecting renewed investor confidence. The Indian rupee climbed against the US dollar, nearing its all-time low from the previous week. Lower crude oil prices are beneficial for India, easing inflation and current account pressures.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-firmer-rupee-and-easing-volatility-drive-sharp-rebound-in-indian-equities/articleshow/132673079.cms",
+      "image": "https://img.etimg.com/thumb/msid-132673072,width-1200,height-630,imgsize-334054,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-28T00:51:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil plunges more than 8% after pause in US strikes on Iran - Brent falls below $90",
+      "description": "Oil prices dropped to their lowest levels in more than a week after the suspension of US attacks on Iran rekindled hopes for a de-escalation of the crisis",
+      "url": "https://en.protothema.gr/2026/07/28/oil-plunges-more-than-8-after-pause-in-us-strikes-on-iran-brent-falls-below-90/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/07/brent_oil-2.png-2.png",
+      "publishedAt": "2026-07-28T00:39:22Z",
+      "source": {
+        "name": "Proto Thema"
+      }
+    },
+    {
+      "title": "Dollar hits one-month high on lingering chances of Fed hike",
+      "description": "The U.S. dollar held at a one-month high on Tuesday as traders weighed a slim but lingering chance \u200cof a rate hike at the Federal Reserve's upcoming meeting, even as falling oil prices eased some concerns over inflation.",
+      "url": "https://www.reuters.com/world/china/dollar-hits-one-month-high-lingering-chances-fed-hike-2026-07-28/",
+      "image": "https://www.reuters.com/resizer/v2/IJQC727TXZI3HKHS4R75A6KUSA.jpg?auth=8b826f66f54aa02264a0e2abcc6b14e602bd21be5158704b5a35ab588f6d5e87&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-28T00:36:43Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Dollar Dominates Amid Rate Hike Speculation",
+      "description": "The U.S. dollar hit a one-month high due to speculation around a potential Federal Reserve rate hike. While oil prices dropped easing inflation concerns, Treasury yields remained stable. Market expectations suggest a 36.3% chance of a rate hike, influencing dollar strength, especially against yen and euro.",
+      "url": "https://www.devdiscourse.com/article/business/3956127-dollar-dominates-amid-rate-hike-speculation",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_32_49_4543994.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-28T00:33:50Z",
+      "source": {
+        "name": "Devdiscourse"
       }
     }
   ]
