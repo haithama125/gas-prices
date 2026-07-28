@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-28T13:29:56+00:00",
+  "updated_at": "2026-07-28T19:07:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil eases further amid talks between Iran and US, Brent slumps to $88",
-      "description": "Oil prices fall as US-Iran tensions ease, Kazakhstan resumes exports. Brent drops below $88, WTI near $82.",
-      "url": "https://www.cnbctv18.com/market/commodities/oil-eases-further-amid-talks-between-iran-and-us-brent-slumps-to-88-19955225.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/1784880450_skMuBQMWVk-crude-oiljpg-pw2TWzORQi.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-28T01:26:29Z",
+      "title": "Pakistan approves refinery policy amendments to attract investment, boost fuel output",
+      "description": "Pakistan approves amendments to its 2023 Oil Refining Policy to accelerate refinery upgrades, boost Euro-V fuel output, and attract Gulf investment. Prime Minister Shehbaz Sharif orders roadshows in Qatar and Saudi Arabia to secure billions in brownfield refinery projects, aiming to cut furnace oil production and nearly double domestic petrol output.",
+      "url": "https://www.bolnews.com/business/pakistan-approves-refinery-policy-amendments-to-attract-investment-boost-fuel-output/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2025/11/FotoJet-2025-11-19T223231.285-1.jpg",
+      "publishedAt": "2026-07-28T07:06:10Z",
+      "source": {
+        "name": "BOL News"
+      }
+    },
+    {
+      "title": "Record heat gives way to winter gas fears in Europe, Asia as Iran war rages on",
+      "description": "Natural gas prices are spiking and the cutthroat competition for cargoes is escalating.",
+      "url": "https://fortune.com/2026/07/28/record-heat-gives-way-winter-gas-fears-in-europe-asia-iran-war-rages/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2287094821-e1785190194399.jpg?resize=1200,600",
+      "publishedAt": "2026-07-28T07:06:00Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "India economic growth to slow sharply as weak investment, oil shock weigh: Reuters poll",
+      "description": "India's economic growth to slow to 6.6% in FY2027, impacted by weak private investment and higher oil prices from the Iran war.",
+      "url": "https://www.cnbctv18.com/economy/india-economic-growth-to-slow-sharply-as-weak-investment-oil-shock-weigh-reuters-poll-19955583.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/06/indian-economy-2026-06-7b01db55635f549f153c032e1b00adbe.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-28T06:54:59Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
-      "description": "Oil prices dropped as market participants assessed a pause in US strikes on Iran. Hopes for a diplomatic solution eased concerns about Middle East energy flows. President Trump indicated positive talks with Iran, but warned of resuming strikes if negotiations fail. Analysts noted reduced traffic through key shipping straits and demand destruction in Asia. US crude oil and gasoline stockpiles likely fell last week.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-1-as-investors-weigh-pause-in-us-strikes-on-iran/articleshow/132673143.cms",
-      "image": "https://img.etimg.com/thumb/msid-132673146,width-1200,height-630,imgsize-46238,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-28T01:07:00Z",
+      "title": "Oil prices fall after US halts attacks on Iran",
+      "description": "NEW YORK -- Oil prices fell Monday after the United States abruptly suspended a campaign of airstrikes against Iran over the weekend, raising hopes of a diplomatic solution that would deescalate the conflict and allow shipping to resume in the Strait of Hormuz.",
+      "url": "https://www.arkansasonline.com/news/2026/jul/28/oil-prices-fall-after-us-halts-attacks-on-iran/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213327246_2DOil0728_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-07-28T06:52:00Z",
       "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Crude oil prices extend losses on US-Iran peace talks; Brent below $90 per barrel",
-      "description": "US-Iran war: West Texas Intermediate (WTI) crude slipped below $82 a barrel after plunging more than 7% on Monday, while Brent crude recorded its biggest one-day decline in over three months, settling near $88 a barrel.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-losses-on-us-iran-peace-talks-brent-below-90-per-barrel-11785199818976.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/crude_1785200370083_1785200370184_38ac387c-2f20-46ba-b1d9-b877c2e87bdd.jpg",
-      "publishedAt": "2026-07-28T01:05:17Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Oil prices fall 1% as investors weigh pause in US strikes on Iran",
-      "description": "Oil prices fell 1% on Tuesday as market participants continued to weigh a pause in U.S. strikes on Iran, which has raised hope of a diplomatic solution to their conflict and the normalisation of Middle \u200bEast energy flows.",
-      "url": "https://www.reuters.com/business/energy/oil-prices-fall-1-investors-weigh-pause-us-strikes-iran-2026-07-28/",
-      "image": "https://www.reuters.com/resizer/v2/2Z2OBJVQLZJALCYM3VBT3XY5SU.jpg?auth=242959bf9fa28fa912eeaec8a2808f5b7c50a143e8cb3aeaad124763144e3e06&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-28T01:02:58Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Global Market Today: Asian stocks fall on AI jitters, oil extends drop",
-      "description": "Asian equities dropped as artificial intelligence spending concerns fueled chipmaker selloffs. Crude oil extended its decline, with Brent slumping significantly on Monday. Investors await policy decisions from the Fed, Bank of Japan, and Bank of England. Earnings from megacap technology companies are also a key focus this week. Geopolitical developments and oil prices remain significant wild cards for markets.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-fall-on-ai-jitters-oil-extends-drop/articleshow/132673128.cms",
-      "image": "https://img.etimg.com/thumb/msid-132673126,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-28T01:02:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Sensex Today | Stock Market LIVE Updates: Nifty futures hint at a negative start on expiry day",
-      "description": "Sensex Today | Stock Market LIVE Updates: The Nifty bulls enter the monthly options expiry on an optimistic note but risks continue to persist. The focus is on the Fed policy decision, to which the market will react on Thursday, as well as the ongoing developments in West Asia. Oil prices continue to remain below the $90 mark after Monday's sell-off.",
-      "url": "https://www.cnbctv18.com/market/stock-market-live-updates-sensex-nifty-50-expiry-today-oil-hdfc-bank-it-cipla-bel-tejas-hul-indus-lt-share-price-liveblog-19955200.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/05/market-blog-2026-05-e11a0a2d5f2248e2f97dbd37e4a7f7cb.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-28T00:51:16Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Lower crude, firmer rupee and easing volatility drive sharp rebound in Indian equities",
-      "description": "Indian stocks and currency surged significantly on Monday after crude oil prices collapsed. The BSE Sensex and NSE Nifty both saw substantial gains, reflecting renewed investor confidence. The Indian rupee climbed against the US dollar, nearing its all-time low from the previous week. Lower crude oil prices are beneficial for India, easing inflation and current account pressures.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lower-crude-firmer-rupee-and-easing-volatility-drive-sharp-rebound-in-indian-equities/articleshow/132673079.cms",
-      "image": "https://img.etimg.com/thumb/msid-132673072,width-1200,height-630,imgsize-334054,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-28T00:51:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil plunges more than 8% after pause in US strikes on Iran - Brent falls below $90",
-      "description": "Oil prices dropped to their lowest levels in more than a week after the suspension of US attacks on Iran rekindled hopes for a de-escalation of the crisis",
-      "url": "https://en.protothema.gr/2026/07/28/oil-plunges-more-than-8-after-pause-in-us-strikes-on-iran-brent-falls-below-90/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/07/brent_oil-2.png-2.png",
-      "publishedAt": "2026-07-28T00:39:22Z",
-      "source": {
-        "name": "Proto Thema"
+        "name": "Arkansas Online"
       }
     },
     {
       "title": "Dollar hits one-month high on lingering chances of Fed hike",
-      "description": "The U.S. dollar held at a one-month high on Tuesday as traders weighed a slim but lingering chance \u200cof a rate hike at the Federal Reserve's upcoming meeting, even as falling oil prices eased some concerns over inflation.",
-      "url": "https://www.reuters.com/world/china/dollar-hits-one-month-high-lingering-chances-fed-hike-2026-07-28/",
-      "image": "https://www.reuters.com/resizer/v2/IJQC727TXZI3HKHS4R75A6KUSA.jpg?auth=8b826f66f54aa02264a0e2abcc6b14e602bd21be5158704b5a35ab588f6d5e87&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-28T00:36:43Z",
+      "description": "TOKYO: The U.S. dollar held at a one-month high on Tuesday as traders weighed a slim but lingering chance of a rate hike at the Federal Reserve's upcoming meeting, even as falling oil prices eased some concerns over inflation.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/07/28/dollar-hits-one-month-high-on-lingering-chances-of-fed-hike",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/07/28/4031324.jpg",
+      "publishedAt": "2026-07-28T06:51:00Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Star"
       }
     },
     {
-      "title": "Dollar Dominates Amid Rate Hike Speculation",
-      "description": "The U.S. dollar hit a one-month high due to speculation around a potential Federal Reserve rate hike. While oil prices dropped easing inflation concerns, Treasury yields remained stable. Market expectations suggest a 36.3% chance of a rate hike, influencing dollar strength, especially against yen and euro.",
-      "url": "https://www.devdiscourse.com/article/business/3956127-dollar-dominates-amid-rate-hike-speculation",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_10_2025_00_32_49_4543994.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-28T00:33:50Z",
+      "title": "E20 Petrol Row: Government Responds To Engine Damage Claims",
+      "description": "The Ministry of Information and Broadcasting has defended E20 petrol, reporting no verified cases of engine damage or fuel pump failures in over 1.5 crore older vehicles. This follows rising public concern about ethanol-blended petrol, with a citizen movement demanding transparency., Auto, Times Now",
+      "url": "https://www.timesnownews.com/auto/e20-petrol-row-government-responds-to-engine-damage-claims-article-155190718",
+      "image": "https://images.timesnownews.com/thumb/msid-155190728,thumbsize-29462,width-1280,height-720,resizemode-75/155190728.jpg",
+      "publishedAt": "2026-07-28T06:44:35Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Australia announces potential new oil refinery for the country, first since the 1960s",
+      "description": "Prime Minister Anthony Albanese has announced a joint plan with West Australia's government to fund a new study into large-scale oil refinery. The refinery is aimed at protecting the country's economy from further global energy shocks. If the refinery goes ahead, it would be the first new large-scale petrol refinery built in Australia since the 1960s. This comes as the cut in fuel excise is due to expire by the end of the week",
+      "url": "https://www.sbs.com.au/news/podcast-episode/australia-announces-potential-new-oil-refinery-for-the-country-first-since-the-1960s/eow78smgv",
+      "image": "https://assets.sbs.com.au/dims4/default/9bed649/2147483647/strip/true/crop/1536x864+0+80/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fe7%2F60%2F5dac151049d5910a6d4b7a6104dc%2Fanthony-albanese-visiting-wa-sbs.jfif",
+      "publishedAt": "2026-07-28T06:42:51Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "US Stock Market: Wall Street divided on Fed as rising crude prices boost rate hike expectations",
+      "description": "The US Federal Reserve's policy meeting has become harder to predict as surging oil prices and renewed geopolitical tensions raise the risk of persistent inflation. While most brokerages still expect rates to remain unchanged, some now see a growing possibility of surprise hikes, with markets significantly increasing the odds of a policy move.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-wall-street-divided-on-fed-as-rising-crude-prices-boost-rate-hike-expectations/articleshow/132677158.cms",
+      "image": "https://img.etimg.com/thumb/msid-132677206,width-1200,height-630,imgsize-205968,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-28T06:36:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Chip Turbulence: Asian Markets Rattle Amid China's Competitive Rise",
+      "description": "Chip stocks experienced significant losses in Asian markets due to concerns about Chinese competition and worries over AI funding. South Korea's KOSPI dropped almost 10%, while tech giants like Samsung and SK Hynix faced substantial declines. Falling oil prices and potential U.S. rate hikes added to market jitters.",
+      "url": "https://www.devdiscourse.com/article/business/3956182-chip-turbulence-asian-markets-rattle-amid-chinas-competitive-rise",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_06_2024_10_19_49_6589943.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-28T06:14:35Z",
       "source": {
         "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Skoda Slavia Facelift Launch Date Revealed: Gets This Major Mechanical Update!",
+      "description": "Skoda is set to unveil the Slavia facelift on August 18, featuring a significant update with the 1.0-litre turbo-petrol engine receiving a new 8-speed automatic gearbox, replacing the previous 6-speed unit., Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/skoda-slavia-facelift-launch-date-revealed-gets-this-major-mechanical-update-article-155190594",
+      "image": "https://images.timesnownews.com/thumb/msid-155190597,thumbsize-65774,width-1280,height-720,resizemode-75/155190597.jpg",
+      "publishedAt": "2026-07-28T06:10:15Z",
+      "source": {
+        "name": "Times Now"
       }
     }
   ]
