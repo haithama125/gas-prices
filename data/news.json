@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-29T01:42:38+00:00",
+  "updated_at": "2026-07-29T08:19:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Drivers urged to fill up before Friday as RAC warns of 'pretty grim outlook'",
-      "description": "Experts have warned drivers to expect even higher petrol and diesel prices this week",
-      "url": "https://www.dailyrecord.co.uk/lifestyle/motoring/drivers-urged-fill-up-before-37485942",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37486084.ece/ALTERNATES/s1200d/2_petrol-2.jpg",
-      "publishedAt": "2026-07-28T13:38:27Z",
+      "title": "Most Stocks Climb Over Falling Oil And Strong Earnings. But Chipmakers Continue To Drop",
+      "description": "Most stocks climbed on Tuesday, buoyed by falling oil prices and strong corporate earnings. However, chipmakers continued to drop.",
+      "url": "https://www.ibtimes.com/most-stocks-climb-over-falling-oil-strong-earnings-chipmakers-continue-drop-3805844",
+      "image": "https://d.ibtimes.com/en/full/3810243/traders-work-nyse-floor.jpg",
+      "publishedAt": "2026-07-28T20:02:14Z",
       "source": {
-        "name": "Daily Record"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Market warning signals flare again as tech, inflation fears intensify",
-      "description": "Several crucial market warning signals are close to crisis levels as \u200binvestors grapple with high oil prices and Middle East conflict, all while the AI engine that has powered the stock market sputters.",
-      "url": "https://www.reuters.com/business/finance/global-markets-stress-graphic-2026-07-28/",
-      "image": "https://www.reuters.com/resizer/v2/XSVULVDXUJI3NFJGR3XCZFJ2SQ.jpg?auth=7c0cfdc74e17afc028b01a344841dd6bd8c971ed1516c6027be913b0be6a1e4f&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-28T13:26:07Z",
+      "title": "Renewed inflation fears complicate Fed's next rate decision",
+      "description": "The Federal Reserve is entering this week\u2019s meeting with new uncertainty over tariffs and oil prices that could reignite inflation.",
+      "url": "https://foxbaltimore.com/news/nation-world/renewed-inflation-fears-complicate-feds-next-rate-decision-federal-reserve-kevin-warsh-economy-interest-rates-oil-prices-tariffs",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/3973/1320/0x208/90/94b416df-baaf-453f-99cc-c0ccaedffd74-GettyImages2286063371.jpg",
+      "publishedAt": "2026-07-28T19:55:45Z",
       "source": {
-        "name": "Reuters"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Weekly Rupee View: Rupee faces hurdle",
-      "description": "The decline in oil prices is positive for India, a major crude importer, as it reduces pressure on both the trade deficit and the rupee.",
-      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/weekly-rupee-viewrupee-faces-hurdle/article71277105.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/oblz38/article71268659.ece/alternates/LANDSCAPE_1200/iStock-2160912846.jpg",
-      "publishedAt": "2026-07-28T13:04:16Z",
+      "title": "Renewed inflation fears complicate Fed's next rate decision",
+      "description": "The Federal Reserve is entering this week\u2019s meeting with new uncertainty over tariffs and oil prices that could reignite inflation.",
+      "url": "https://wjla.com/news/nation-world/renewed-inflation-fears-complicate-feds-next-rate-decision-federal-reserve-kevin-warsh-economy-interest-rates-oil-prices-tariffs",
+      "image": "https://wjla.com/resources/media2/16x9/3973/1320/0x208/90/94b416df-baaf-453f-99cc-c0ccaedffd74-GettyImages2286063371.jpg",
+      "publishedAt": "2026-07-28T19:55:45Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "WJLA"
       }
     },
     {
-      "title": "Who's responsible for high gas prices?",
-      "description": "President Trump occasionally rails at gas retailers about high prices, but he is simply deflecting blame from those responsible. Oil production in the U.S. is booming. Trump's war in the",
-      "url": "https://billingsgazette.com/opinion/letters/article_495b8a39-a79b-5603-9c4b-22253244ae98.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/4/95/495b8a39-a79b-5603-9c4b-22253244ae98/6a63a87f7979a.preview.jpg?crop=847%2C445%2C0%2C13",
-      "publishedAt": "2026-07-28T13:00:00Z",
+      "title": "Ethanol imbroglio : Transition must be fuelled by data",
+      "description": "THE Union government has admitted in Parliament that it has not conducted any assessment to determine the proportion of vehicles in India that are currently compatible with E20 fuel (80 per cent petrol, 20 per cent ethanol). This disclosure reveals a glaring gap between the nation\u2019s green energy ambitions and ground-level preparedness. A nationwide transition can\u2019t be expected to succeed without a comprehensive enumeration. The E20 push is aimed at reducing crude oil imports, cutting emissions and strengthening India\u2019s biofuel economy. The government insists that extensive studies and field trials have found the fuel to be safe for use under prescribed standards. Scientific testing under controlled conditions is valuable, but policymaking affecting millions of motorists requires real-world data.",
+      "url": "https://www.tribuneindia.com/news/editorials/ethanol-imbroglio-transition-must-be-fuelled-by-data/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWEwNTdmNjQwLThhYmMtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-28T19:43:35Z",
       "source": {
-        "name": "Billings Gazette"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "The Fed Is Not Going To Raise Interest Rates",
-      "description": "Oil prices plunge 10% on Iran deescalation as equities rise; big tech AI spending faces scrutiny. Disinflation may keep Fed rates steady.",
-      "url": "https://seekingalpha.com/article/4926222-fed-is-not-going-to-raise-interest-rates",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/913041536/image_913041536.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-07-28T12:49:11Z",
+      "title": "Dollar Slips as Crude Oil Prices and T-Note Yields Fall",
+      "description": "The dollar index (DXY00 ) fell from a 1-month high on Tuesday, finishing down -0.14%. The dollar gave up an early advance on Tuesday and moved lower on an unexpected decline in July consumer confidence. Also, Tuesday\u2019s -4% plunge in WTI crude oil t...",
+      "url": "https://www.barchart.com/story/news/3508566/dollar-slips-as-crude-oil-prices-and-t-note-yields-fall",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/A%20one%20dollar%20bill%20floating%20in%20water%20by%20Wirestock%20via%20iStock.jpg",
+      "publishedAt": "2026-07-28T19:34:56Z",
       "source": {
-        "name": "Seeking Alpha"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Most of Wall Street rises as oil prices ease, chip stocks drop",
-      "description": "Most U.S. stocks are rising after Coca-Cola and other companies reported stronger profits than expect, but chip stocks are dropping.",
-      "url": "https://www.nydailynews.com/2026/07/28/wall-street-chip-sell-off/",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2026/07/AP26209455372755.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-28T12:38:40Z",
+      "title": "Crude Oil Prices Sink on Renewed Hopes of a US-Iran Peace Deal",
+      "description": "September WTI crude oil (CLU26 ) on Tuesday closed down -3.35 (-4.06%), and September RBOB gasoline (RBU26 ) closed down -0.0253 (-0.80%). Crude oil and gasoline prices settled sharply lower on Tuesday for a third day, with crude falling to a 1-week...",
+      "url": "https://www.barchart.com/story/news/3508345/crude-oil-prices-sink-on-renewed-hopes-of-a-us-iran-peace-deal",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
+      "publishedAt": "2026-07-28T19:15:52Z",
       "source": {
-        "name": "New York Daily News"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Can Using E20 Petrol Lead To Insurance Claim Rejection? What Experts Say",
-      "description": "The Petroleum Ministry has confirmed that E20 usage won't lead to claim rejections and that the Ethanol Blending Programme is safe. , Personal Finance, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/personal-finance/can-using-e20-petrol-lead-to-insurance-claim-rejection-what-experts-say-article-155192360",
-      "image": "https://images.timesnownews.com/thumb/msid-155192432,thumbsize-2112085,width-1280,height-720,resizemode-75/155192432.jpg",
-      "publishedAt": "2026-07-28T12:29:44Z",
+      "title": "Cooler US Weather Forecasts Push Nat-Gas Prices Lower",
+      "description": "August Nymex natural gas (NGQ26 ) on Tuesday closed down -0.105 (-3.79%). Nat-gas prices retreated for a fourth straight session on Tuesday and posted a 3-month nearest-futures low. Prices are under pressure as weather models shifted to show a coole...",
+      "url": "https://www.barchart.com/story/news/3508331/cooler-us-weather-forecasts-push-nat-gas-prices-lower",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-07-28T19:14:20Z",
       "source": {
-        "name": "Times Now"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Police arrest two who threw petrol bomb at Sangrur BJP office, register case under UAPA",
-      "description": "The duo lit the cloth wick attached to a bottle and threw the petrol bomb over the boundary wall toward the office building before fleeing back toward Upli Road",
-      "url": "https://www.newindianexpress.com/india/2026/Jul/28/police-arrest-two-who-threw-petrol-bomb-at-sangrur-bjp-office-register-case-under-uapa",
-      "image": "https://cf-images.assettype.com/TNIE%2Fimport%2F2020%2F12%2F4%2Foriginal%2Fpolice_eps_2131dessd____.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-28T12:05:04Z",
+      "title": "Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing",
+      "description": "Most U.S. stocks are rising after Coca-Cola and other companies reported stronger profits for the spring than analysts expected. But more drops for chip stocks and other AI winners are keeping Wall Street's gains in check Tuesday, and the S&P 500 rose a relatively modest 0.3%. The Dow Jones Industrial Average jumped 595 points, while the Nasdaq composite slipped 0.1%. The slides for AI stocks were worse elsewhere in the world, and South Korea's Kospi index tumbled nearly 11%. Oil prices continued to ease, which helped to pull Treasury yields lower in the bond market. Brent crude fell toward $82 per barrel.",
+      "url": "https://www.ajc.com/news/2026/07/wall-streets-flip-from-ai-stocks-to-elsewhere-accelerates-while-oil-prices-keep-easing/",
+      "image": "https://images.ajc.com/resizer/v2/CREHA3O37VDA5ACPDLZFLANQWI.jpg?auth=6c93fb40f8739eadebbbcccabf729cf65c1370c2b8dddd288db45de9532205be&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-28T19:11:38Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Petrol bomb hurled at Sangrur BJP office",
-      "description": "A petrol bomb was thrown at BJP's Sangrur office, prompting criticism of AAP's governance. No injuries occurred; police are investigating the attack.",
-      "url": "https://www.hindustantimes.com/cities/chandigarh-news/petrol-bomb-hurled-at-sangrur-bjp-office-101785238856590.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/28/550x309/The-BJP-office-in-Sangrur---HT--_1785238854545.jpg",
-      "publishedAt": "2026-07-28T11:40:56Z",
+      "title": "Wall Street's flip from AI to less-loved stocks accelerates, while oil prices keep easing",
+      "description": "Most U.S. stocks are rising after Coca-Cola and other companies reported stronger profits for the spring than analysts expected",
+      "url": "https://www.barchart.com/story/news/3491811/wall-street-s-flip-from-ai-to-less-loved-stocks-accelerates-while-oil-prices-keep-easing",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/bed1f9a8808c4091894723038cacbf0f/bed1f9a8808c4091894723038cacbf0f_main_financial_markets_wall_street_72755.jpg",
+      "publishedAt": "2026-07-28T19:08:10Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Barchart"
       }
     },
     {
-      "title": "European natural gas prices fall over 7% amid lower market risks",
-      "description": "The decline in prices is due to a reduction in the geopolitical risk premium following indications that hostilities in the Middle East have ceased and the",
-      "url": "https://www.europesays.com/3158971/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/gaz-v-evrope.jpg",
-      "publishedAt": "2026-07-28T11:31:55Z",
+      "title": "Oil Prices Are Cratering on Renewed Optimism for a US-Iran Peace",
+      "description": "Oil prices have plunged this week, tumbling on fresh hopes that the US and Iran could soon renew talks to end the war.",
+      "url": "https://www.businessinsider.com/oil-prices-falling-us-iran-peace-deal-trump-inflation-econpmy-2026-7",
+      "image": "https://i.insider.com/6a68fa7ece52cb26b8394d76?width=1200&format=jpeg",
+      "publishedAt": "2026-07-28T18:54:22Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Business Insider"
       }
     }
   ]
