@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-30T13:26:32+00:00",
+  "updated_at": "2026-07-30T19:09:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Trump's Approval Rating Falls To Lowest Level Since Jan. 6 Insurrection, New Poll Finds",
+      "title": "Shell\u2019s profits more than double after jump in oil and gas prices",
+      "description": "Environmental groups renew calls for windfall tax to support households following Q2 earnings rise to $9.84bn",
+      "url": "https://www.theguardian.com/business/2026/jul/30/shell-profits-double-jump-oil-gas-prices",
+      "image": "https://i.guim.co.uk/img/media/377f5d0d34842f9e43249096b1b96762485a0bbe/493_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab1e8143a64a05fc06fdf5d2bfad385c",
+      "publishedAt": "2026-07-30T07:08:01Z",
+      "source": {
+        "name": "The Guardian"
+      }
+    },
+    {
+      "title": "Finance ministry calls for faster policy action to sustain growth amid global uncertainty",
+      "description": "India's finance ministry stressed faster policy responses and stronger implementation for investment. The economy shows resilience despite global challenges and mounting uncertainties. Rising crude oil prices pose a risk to fiscal and current account balances. India must strengthen its long-term resilience and strategic leverage. Domestic fundamentals and policy support continue to bolster the economic outlook.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/finance-ministry-calls-for-faster-policy-action-to-sustain-growth-amid-global-uncertainty/articleshow/132730789.cms",
+      "image": "https://img.etimg.com/thumb/msid-132730814,width-1200,height-630,imgsize-232798,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-30T06:55:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Ethanol blending rolled out through phased, scientific process: Gadkari to Lok Sabha",
+      "description": "India News: NEW DELHI: Petroleum ministry has introduced the Ethanol Blended Petrol (EBP) Programme through a \u201cphased, scientifically validated and consultative p.",
+      "url": "https://timesofindia.indiatimes.com/india/ethanol-blending-rolled-out-through-phased-scientific-process-gadkari-to-lok-sabha/articleshow/132730499.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132730513,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-30T06:46:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Stock markets trade in positive territory led by IT firms, foreign fund inflows",
+      "description": "MUMBAI, July 30: Benchmark indices Sensex and Nifty traded in positive territory during early trade on Thursday driven by a rally in IT stocks, foreign fund inflows and a drop in crude oil prices. The 30-share BSE Sensex advanced 75.71...",
+      "url": "https://www.dailyexcelsior.com/stock-markets-trade-in-positive-territory-led-by-it-firms-foreign-fund-inflows/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTYwYjcwYmEwLThiZTAtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-30T06:32:02Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Trump's Approval Rating Falls To Lowest Level Since January 6 Insurrection, New Poll Finds",
       "description": "Trump remains underwater on several issues, including the war with Iran, inflation and gas prices.",
-      "url": "https://www.huffpost.com/entry/donald-trump-approval-rating-cnn-poll_n_6a6a7d00e4b098352c30883f",
+      "url": "https://www.huffingtonpost.co.uk/entry/trump-approval-ratings-jan-6_uk_6a6aed59e4b01948ae9a04a9",
       "image": "https://img.huffingtonpost.com/asset/6a6a97ab1b00002d7f939a90.jpeg?cache=ahq19KPMbe&ops=1200_630",
-      "publishedAt": "2026-07-30T01:22:38Z",
+      "publishedAt": "2026-07-30T06:25:04Z",
       "source": {
-        "name": "HuffPost"
+        "name": "Huffpost Uk"
       }
     },
     {
-      "title": "Oil prices fall amid ongoing US-Iran war tension; Brent crude at $87 per barrel",
-      "description": "US-Iran war: Brent crude futures declined 79 cents, or 0.9%, to $87.30 per barrel, while US West Texas Intermediate (WTI) crude fell 76 cents, or 0.9%, to $83.70 per barrel.",
-      "url": "https://www.livemint.com/market/commodities/oil-prices-fall-amid-ongoing-us-iran-war-tension-brent-crude-at-87-per-barrel-11785373670182.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/07/30/1600x900/logo/crude_1785374007547_1785374007672_faa9db6a-a2b5-4e0f-b310-8c7ddd0f9ab1.jpg",
-      "publishedAt": "2026-07-30T01:20:34Z",
+      "title": "Dow Records Worst Session Since April 2025; Investor Sentiment Weakens, Greed Index Remains In \u2018Fear\u2019 Zon",
+      "description": "The CNN Money Fear and Greed index showed a sharp decline in market sentiment as stocks fell and oil prices rose due to US-Iran tensions.",
+      "url": "https://www.benzinga.com/markets/market-summary/26/07/60787300/dow-records-worst-session-since-april-2025-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/Fear-and-Greed.jpg",
+      "publishedAt": "2026-07-30T06:20:05Z",
       "source": {
-        "name": "Livemint"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "Rupee rises for the third day to a near 3-week high",
-      "description": "The rupee strengthened for a third consecutive day, reaching a near three-week high. Dollar sales by foreign and state-run banks aided the local currency's climb. Sustained buying in domestic equities and positive foreign investor sentiment supported the rupee. Crude oil prices saw a modest rebound, limiting further rupee gains. The currency is expected to trade within a specific range on Thursday.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-rises-for-the-third-day-to-a-near-3-week-high/articleshow/132724494.cms",
-      "image": "https://img.etimg.com/thumb/msid-132724498,width-1200,height-630,imgsize-139634,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-30T01:03:00Z",
+      "title": "Japan Cuts FY27 Growth Forecast to 0.9% As Oil Costs Hit Economy",
+      "description": "Japan\u2019s government lowered its economic growth forecast for fiscal 2026 after higher oil prices linked to Middle East tensions pressured household spending and corporate profits. GDP growth is now projected at 0.9%, down from 1.3% earlier. Rising energy costs have also pushed inflation estimates higher despite expectations of positive wage growth",
+      "url": "https://www.freepressjournal.in/business/japan-cuts-fy27-growth-forecast-to-09-as-oil-costs-hit-economy",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-30/bkmuefuc/HF8YPcTbwAA7NgG.jpg",
+      "publishedAt": "2026-07-30T06:17:28Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Global Market Today: Asian stocks mixed, bonds slip after Fed decision",
-      "description": "Asian stocks fluctuated on Thursday as semiconductor shares declined. Treasury yields reached multi-decade highs following the Federal Reserve's policy decision. Microsoft's cloud growth boosted its stock, while Meta's forecast caused a slide. South Korea implemented measures to stabilize its stock market after a significant rout. Oil prices edged lower amid reports of US air strikes on Iran.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-bonds-slip-after-fed-decision/articleshow/132724399.cms",
-      "image": "https://img.etimg.com/thumb/msid-132724398,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-30T00:46:00Z",
+      "title": "Japan cuts FY2026 growth forecast to 0.9 pc as higher oil prices weigh on economy",
+      "description": "The Japanese government has lowered its economic growth forecast for the current fiscal year to 0.9 per cent from the earlier estimate of 1.3 per cent, citing the impact of higher crude oil prices on the country's import-dependent economy, according to a report by Kyodo News.",
+      "url": "https://www.tribuneindia.com/news/business/japan-cuts-fy2026-growth-forecast-to-0-9-pc-as-higher-oil-prices-weigh-on-economy/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFhMWJhYTUwLThiZGQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-30T06:08:28Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Oil prices slip as tankers continue to ply Middle East conflict zones",
-      "description": "BEIJING: Oil prices gave up some of their gains on Thursday (Jul 30) as oil tankers continued to make their way out of the Middle East even as tensions there escalated, with the United States-Iran war spreading beyond its main",
-      "url": "https://www.channelnewsasia.com/business/oil-prices-down-us-iran-war-houthis-hormuz-red-sea-6287186",
-      "image": "https://dam.mediacorp.sg/image/upload/s--3FIp4eou--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Oil_Prices_43_51.jpg?itok=EH83DINm",
-      "publishedAt": "2026-07-30T00:36:00Z",
+      "title": "Japan cuts FY2026 growth forecast to 0.9 pc as higher oil prices weigh on economy",
+      "description": "The Japanese government has lowered its economic growth forecast for the current fiscal year to 0.9 per cent from the earlier estimate of 1.3 per cent, citing the impact of higher crude oil prices on the country's import-dependent economy, according to a report by Kyodo News.",
+      "url": "https://www.aninews.in/news/business/japan-cuts-fy2026-growth-forecast-to-09-pc-as-higher-oil-prices-weigh-on-economy20260730113329/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260730060319-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-30T06:03:29Z",
       "source": {
-        "name": "CNA"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Oil prices slip as tankers continue to ply Middle East conflict zones",
-      "description": "Oil prices gave up some of their gains on Thursday as oil tankers continued to make their way out of the Middle East even as tensions there escalated, with \u200bthe U.S.-Iran war spreading beyond its main fronts.",
-      "url": "https://www.reuters.com/business/energy/oil-prices-slip-tankers-continue-ply-middle-east-conflict-zones-2026-07-30/",
-      "image": "https://www.reuters.com/resizer/v2/7JJYYMTX3BMCXADG5MEMW6MGPQ.jpg?auth=d2060a1b5ea8d1bb2a9d59f4d13a862fb84fc94c437651ceec640642bc7d79d6&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-30T00:35:53Z",
+      "title": "Stock markets trade in positive territory led by IT firms, foreign fund inflows",
+      "description": "Stock markets rise as IT stocks lead gains, bolstered by foreign fund inflows and falling crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-trade-in-positive-territory-led-by-it-firms-foreign-fund-inflows/article71284480.ece",
+      "image": "https://th-i.thgim.com/public/incoming/l48ct4/article71284511.ece/alternates/LANDSCAPE_1200/India_Financial_Markets_94744.jpg",
+      "publishedAt": "2026-07-30T05:45:55Z",
       "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Sensex, Nifty rally over 1% as IT stocks drive broad-based market gains",
-      "description": "Indian stock gauges rose over one percent on Wednesday. Overseas fund flows are expected to shift into local technology companies. The Nifty and Sensex closed higher, reflecting positive investor sentiment. Declining crude oil prices and a stronger rupee also supported market gains. Foreign and domestic institutions were net buyers of shares.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-rally-over-1-as-it-stocks-drive-broad-based-market-gains/articleshow/132724366.cms",
-      "image": "https://img.etimg.com/thumb/msid-132724365,width-1200,height-630,imgsize-26662,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-30T00:34:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Iran-US war LIVE updates: Brent crude tops $90 after Trump vows to hit Iran hard, first Egypt tanker attack reported",
-      "description": "The Middle East conflict escalates as attacks hit Iraq, Jordan, and Egypt, disrupting vital shipping routes and triggering US-Saudi strikes against Iran-backed militias amid rising oil prices and missile threats.",
-      "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096/",
-      "image": "https://images.financialexpressdigital.com/2026/05/iranwarliveupdatesus.jpg",
-      "publishedAt": "2026-07-30T00:09:28Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "As Geopolitical Forces Shape Australian Markets, Mitrade Announces Bloomberg.com Partnership for a Better-Informed Financial World",
-      "description": "**media[1156878]**MELBOURNE, Australia, July 30, 2026 /PRNewswire/ -- Global broker\u00a0Mitrade today announced a partnership with Bloomberg.com\u00a0as geopolitical developments influence Australian currency, commodity and equity markets. For traders navigating these cross-border movements, timely news and broader context are becoming increasingly important. Earlier this year, conflict in the Middle East interrupted oil shipments through the Strait of Hormuz and drove sharp volatility in global oil prices. Weeks later, the Reserve Bank of Australia raised the cash rate to 4.35%, citing conflict-related fuel pressures alongside elevated domestic inflation, with implications for the Australian dollar, bond yields and equity indices. Intervals between a geopolitical event and its local market consequence keeps shortening.",
-      "url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/pr-newswire/as-geopolitical-forces-shape-australian-markets-mitrade-announces-bloombergcom-partnership-for-a-better-informed-financial-world/2394525",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/30/1156877.jpg",
-      "publishedAt": "2026-07-29T23:58:36Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
-      "description": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
-      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T164250Z_37060657_RC2GKMAKXRYH_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1785362471.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-07-29T23:34:26Z",
-      "source": {
-        "name": "Al Jazeera"
+        "name": "The Hindu"
       }
     }
   ]
