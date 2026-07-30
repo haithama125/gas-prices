@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-30T08:07:07+00:00",
+  "updated_at": "2026-07-30T13:26:32+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Escalating Tensions: Middle East Conflict Breaches Limit",
-      "description": "A drone struck a U.S.-owned gas tanker at Egypt's Damietta port, marking a potential expansion of Middle Eastern conflict. As violence escalates between Iran and the U.S.-Saudi axis, significant military exchanges continue, leading to spikes in oil prices and increased political tension across the region.",
-      "url": "https://www.devdiscourse.com/article/politics/3956915-escalating-tensions-middle-east-conflict-breaches-limit",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_09_2025_12_02_09_4333603.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-29T19:55:54Z",
+      "title": "Trump's Approval Rating Falls To Lowest Level Since Jan. 6 Insurrection, New Poll Finds",
+      "description": "Trump remains underwater on several issues, including the war with Iran, inflation and gas prices.",
+      "url": "https://www.huffpost.com/entry/donald-trump-approval-rating-cnn-poll_n_6a6a7d00e4b098352c30883f",
+      "image": "https://img.huffingtonpost.com/asset/6a6a97ab1b00002d7f939a90.jpeg?cache=ahq19KPMbe&ops=1200_630",
+      "publishedAt": "2026-07-30T01:22:38Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "HuffPost"
       }
     },
     {
-      "title": "Dollar Falls as FOMC Keeps Interest Rates Unchanged",
-      "description": "The dollar index (DXY00 ) fell to a 1-week low on Wednesday and finished down by -0.48%. The dollar tumbled on Wednesday after the FOMC kept interest rates unchanged. The dollar moved higher briefly early on Wednesday after crude oil prices surged...",
-      "url": "https://www.barchart.com/story/news/3533258/dollar-falls-as-fomc-keeps-interest-rates-unchanged",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/A%20hundred%20dollar%20bill%20being%20torn%20by%20Alona%20Siniehina%20via%20iStock.jpg",
-      "publishedAt": "2026-07-29T19:46:17Z",
+      "title": "Oil prices fall amid ongoing US-Iran war tension; Brent crude at $87 per barrel",
+      "description": "US-Iran war: Brent crude futures declined 79 cents, or 0.9%, to $87.30 per barrel, while US West Texas Intermediate (WTI) crude fell 76 cents, or 0.9%, to $83.70 per barrel.",
+      "url": "https://www.livemint.com/market/commodities/oil-prices-fall-amid-ongoing-us-iran-war-tension-brent-crude-at-87-per-barrel-11785373670182.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/07/30/1600x900/logo/crude_1785374007547_1785374007672_faa9db6a-a2b5-4e0f-b310-8c7ddd0f9ab1.jpg",
+      "publishedAt": "2026-07-30T01:20:34Z",
       "source": {
-        "name": "Barchart"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Gas Prices Rebound Ahead of August Contract Expiration",
-      "description": "Gas flame with blue reflection on dark backdrop by Bellanatella via iStock",
-      "url": "https://www.europesays.com/3161676/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/07/Gas20flame20with20blue20reflection20on20dark20backdrop20by20Bellanatella20via20iStock.jpg",
-      "publishedAt": "2026-07-29T19:36:20Z",
+      "title": "Rupee rises for the third day to a near 3-week high",
+      "description": "The rupee strengthened for a third consecutive day, reaching a near three-week high. Dollar sales by foreign and state-run banks aided the local currency's climb. Sustained buying in domestic equities and positive foreign investor sentiment supported the rupee. Crude oil prices saw a modest rebound, limiting further rupee gains. The currency is expected to trade within a specific range on Thursday.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-rises-for-the-third-day-to-a-near-3-week-high/articleshow/132724494.cms",
+      "image": "https://img.etimg.com/thumb/msid-132724498,width-1200,height-630,imgsize-139634,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-30T01:03:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "III vehicles may need minor E20 fixes, Gadkari tells Rajya Sabha",
-      "description": "The government on Wednesday said only BS-III vehicles introduced from April 1, 2005, and manufactured before 2016 might require replacement of certain rubber components and gaskets when operated on 20 per cent ethanol-blended petrol (E20).",
-      "url": "https://www.tribuneindia.com/news/top-headlines/bs-iii-vehicles-may-need-minor-e20-fixes-gadkari-tells-rajya-sabha/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmYWFlMjUwLThiODQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-      "publishedAt": "2026-07-29T19:33:53Z",
+      "title": "Global Market Today: Asian stocks mixed, bonds slip after Fed decision",
+      "description": "Asian stocks fluctuated on Thursday as semiconductor shares declined. Treasury yields reached multi-decade highs following the Federal Reserve's policy decision. Microsoft's cloud growth boosted its stock, while Meta's forecast caused a slide. South Korea implemented measures to stabilize its stock market after a significant rout. Oil prices edged lower amid reports of US air strikes on Iran.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-mixed-bonds-slip-after-fed-decision/articleshow/132724399.cms",
+      "image": "https://img.etimg.com/thumb/msid-132724398,width-1200,height-630,imgsize-37484,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-30T00:46:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Centre \u2018coercing\u2019 vehicle manufacturers into silence on E20 issue: Kejriwal",
-      "description": "Aam Aadmi Party (AAP) chief Arvind Kejriwal on Wednesday accused the Centre of \u201ccoercing\u201d automobile manufacturers into silence over the impact of E20 (petrol blended with 20% ethanol) on vehicles manufactured before 2023.",
-      "url": "https://www.thehindu.com/news/national/centre-coercing-vehicle-manufacturers-into-silence-on-e20-issue-kejriwal/article71282235.ece",
-      "image": "https://th-i.thgim.com/public/incoming/8utfd/article71282310.ece/alternates/LANDSCAPE_1200/20260729273L.jpg",
-      "publishedAt": "2026-07-29T19:31:17Z",
+      "title": "Oil prices slip as tankers continue to ply Middle East conflict zones",
+      "description": "BEIJING: Oil prices gave up some of their gains on Thursday (Jul 30) as oil tankers continued to make their way out of the Middle East even as tensions there escalated, with the United States-Iran war spreading beyond its main",
+      "url": "https://www.channelnewsasia.com/business/oil-prices-down-us-iran-war-houthis-hormuz-red-sea-6287186",
+      "image": "https://dam.mediacorp.sg/image/upload/s--3FIp4eou--/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/one-cms/core/Oil_Prices_43_51.jpg?itok=EH83DINm",
+      "publishedAt": "2026-07-30T00:36:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CNA"
       }
     },
     {
-      "title": "Crude Oil Prices Surge as US-Iran Conflict Looks to Drag On",
-      "description": "September WTI crude oil (CLU26 ) on Wednesday closed up +5.20 (+6.56%), and September RBOB gasoline (RBU26 ) closed up +0.0815 (+2.59%). Crude oil and gasoline prices rallied sharply on Wednesday amid a fresh round of hostilities in the Middle East,...",
-      "url": "https://www.barchart.com/story/news/3532990/crude-oil-prices-surge-as-us-iran-conflict-looks-to-drag-on",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-07-29T19:23:39Z",
+      "title": "Oil prices slip as tankers continue to ply Middle East conflict zones",
+      "description": "Oil prices gave up some of their gains on Thursday as oil tankers continued to make their way out of the Middle East even as tensions there escalated, with \u200bthe U.S.-Iran war spreading beyond its main fronts.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-slip-tankers-continue-ply-middle-east-conflict-zones-2026-07-30/",
+      "image": "https://www.reuters.com/resizer/v2/7JJYYMTX3BMCXADG5MEMW6MGPQ.jpg?auth=d2060a1b5ea8d1bb2a9d59f4d13a862fb84fc94c437651ceec640642bc7d79d6&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-30T00:35:53Z",
       "source": {
-        "name": "Barchart"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady",
-      "description": "Oil prices got back to jumping, while the U.S. stock market flipped between losses and small gains after the Federal Reserve opted not to raise interest rates",
-      "url": "https://www.barchart.com/story/news/3515943/oil-prices-jump-following-fighting-with-iran-wall-street-swings-after-the-fed-holds-rates-steady",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/51bc193f4ffd495f9ea6e532d1aefd07/51bc193f4ffd495f9ea6e532d1aefd07_main_financial_markets_wall_street_7_852.jpg",
-      "publishedAt": "2026-07-29T19:22:47Z",
+      "title": "Sensex, Nifty rally over 1% as IT stocks drive broad-based market gains",
+      "description": "Indian stock gauges rose over one percent on Wednesday. Overseas fund flows are expected to shift into local technology companies. The Nifty and Sensex closed higher, reflecting positive investor sentiment. Declining crude oil prices and a stronger rupee also supported market gains. Foreign and domestic institutions were net buyers of shares.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-rally-over-1-as-it-stocks-drive-broad-based-market-gains/articleshow/132724366.cms",
+      "image": "https://img.etimg.com/thumb/msid-132724365,width-1200,height-630,imgsize-26662,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-30T00:34:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Rebound Ahead of August Contract Expiration",
-      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.063 (+2.37%). Nat-gas prices rebounded from a 3-month nearest-futures low and settled higher amid fund short covering as Wednesday was the last trading day for the August Nymex natural gas f...",
-      "url": "https://www.barchart.com/story/news/3532956/nat-gas-prices-rebound-ahead-of-august-contract-expiration",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-07-29T19:22:30Z",
+      "title": "Iran-US war LIVE updates: Brent crude tops $90 after Trump vows to hit Iran hard, first Egypt tanker attack reported",
+      "description": "The Middle East conflict escalates as attacks hit Iraq, Jordan, and Egypt, disrupting vital shipping routes and triggering US-Saudi strikes against Iran-backed militias amid rising oil prices and missile threats.",
+      "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096/",
+      "image": "https://images.financialexpressdigital.com/2026/05/iranwarliveupdatesus.jpg",
+      "publishedAt": "2026-07-30T00:09:28Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Oil Prices Surge Amid Middle East Tensions and Supply Concerns",
-      "description": "Oil prices jumped by 7% as renewed Middle East conflicts raised supply concerns, with U.S. crude inventories hitting a multi-year low. This spike followed airstrikes by the U.S. and Saudi Arabia on Iran-backed groups. The ongoing tensions in strategic regions like the Strait of Hormuz could further impact oil movements.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3956901-oil-prices-surge-amid-middle-east-tensions-and-supply-concerns",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2024_06_07_52_1354695.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-29T19:12:33Z",
+      "title": "As Geopolitical Forces Shape Australian Markets, Mitrade Announces Bloomberg.com Partnership for a Better-Informed Financial World",
+      "description": "**media[1156878]**MELBOURNE, Australia, July 30, 2026 /PRNewswire/ -- Global broker\u00a0Mitrade today announced a partnership with Bloomberg.com\u00a0as geopolitical developments influence Australian currency, commodity and equity markets. For traders navigating these cross-border movements, timely news and broader context are becoming increasingly important. Earlier this year, conflict in the Middle East interrupted oil shipments through the Strait of Hormuz and drove sharp volatility in global oil prices. Weeks later, the Reserve Bank of Australia raised the cash rate to 4.35%, citing conflict-related fuel pressures alongside elevated domestic inflation, with implications for the Australian dollar, bond yields and equity indices. Intervals between a geopolitical event and its local market consequence keeps shortening.",
+      "url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/pr-newswire/as-geopolitical-forces-shape-australian-markets-mitrade-announces-bloombergcom-partnership-for-a-better-informed-financial-world/2394525",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/07/30/1156877.jpg",
+      "publishedAt": "2026-07-29T23:58:36Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Market Turbulence: Fed\u2019s Steady Rates Amid Middle East Tensions and AI Investment Scrutiny",
-      "description": "U.S. financial markets experienced volatility after the Federal Reserve held interest rates steady, causing mixed market reactions amid Middle East tensions and AI investment scrutiny. Oil prices surged, while major indices like the Dow Jones and S&P 500 fell. Investors await key earnings, focusing on AI's impact on revenue and growth.",
-      "url": "https://www.devdiscourse.com/article/business/3956898-market-turbulence-feds-steady-rates-amid-middle-east-tensions-and-ai-investment-scrutiny",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-29T18:53:52Z",
+      "title": "Saudi Arabia seeks international coalition against Houthis in Red Sea",
+      "description": "Riyadh seeks partners to safeguard shipping in Red Sea as strikes on energy tankers expand, pushing oil prices higher.",
+      "url": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-seeks-international-coalition-against-houthis-in-red-sea",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/2026-07-24T164250Z_37060657_RC2GKMAKXRYH_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHIS-1785362471.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-07-29T23:34:26Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Al Jazeera"
       }
     }
   ]
