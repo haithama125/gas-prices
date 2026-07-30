@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-29T18:57:04+00:00",
+  "updated_at": "2026-07-30T01:25:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Tehran Dismisses Oman's Strait Plan, Escalates Gulf Tensions",
-      "description": "Iran has rejected Oman's proposal for shared control of the Strait of Hormuz, derailing efforts to ease tensions in the Gulf. Tehran insists on sole control over key routes, complicating U.S.-Saudi strategies. Rising conflicts, including strikes on oil tankers and facilities, accompany surging oil prices.",
-      "url": "https://www.devdiscourse.com/article/law-order/3956620-tehran-dismisses-omans-strait-plan-escalates-gulf-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-29T06:48:48Z",
+      "title": "The world is getting riskier. Here's what the Finance Ministry says India should prepare for",
+      "description": "The Finance Ministry's July Economic Review says higher oil prices, Gulf tensions, AI and the weaponisation of supply chains could pose fresh risks to India's economy, arguing that faster policy implementation will be key to boosting resilience and attracting investment.",
+      "url": "https://www.cnbctv18.com/economy/the-world-is-getting-riskier-heres-what-the-finance-ministry-says-india-should-prepare-for-19957039.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-29t13-14-11026716-2026-07-081eaf193327cf24019e57c52e32ff68.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-29T13:19:18Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "A pound of ground beef now costs $6.82 - and that number is crushing consumer confidence",
+      "description": "Inflation has climbed to 3.5% since the Iran war began, and Trump faces midterm risk as gas prices rise again.",
+      "url": "https://fortune.com/2026/07/29/ground-beef-price-consumer-confidence-inflation/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286921398-e1785330431530.jpg?resize=1200,600",
+      "publishedAt": "2026-07-29T13:07:47Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "U.S. markets mixed ahead of Fed decision",
+      "description": "Wall Street is mixed before the opening bell Wednesday and oil prices jumped more than four per cent after Jordan and the U.S. knocked down another\u00a0Iranian missile barrage\u00a0launched against American forces in the Middle East.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/29/us-markets-mixed-ahead-of-fed-decision-and-oil-prices-jump-as-middle-east-violence-flares/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/IJ7G5HZJRXYWC2D2ER4BW4UZHM.jpg?smart=true&auth=a23d2ede30390586947e76395eb4c15d6adcd4e16746bb00f3ac43b7e7ce5d49&width=1200&height=630",
+      "publishedAt": "2026-07-29T13:02:03Z",
+      "source": {
+        "name": "Bnn Bloomberg"
+      }
+    },
+    {
+      "title": "US Treasury yields rise after three-day fall as oil jumps, Fed decision looms",
+      "description": "As oil prices surged, treasury yields took notice, raising inflation worries in the market. Traders are keeping a watchful eye on the Federal Reserve's expected decision to maintain interest rates today. Nonetheless, traders are fully anticipating a hike in September, with a solid possibility of another increase before the year's end.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-after-three-day-fall-as-oil-jumps-fed-decision-looms/articleshow/132712865.cms",
+      "image": "https://img.etimg.com/thumb/msid-132712865,width-1200,height-630,imgsize-45458,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-29T13:00:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Euro zone bonds snap three-day rally, yields rise with oil",
+      "description": "As oil prices surged on Wednesday, Euro zone government bonds experienced a decline. Heightened hostilities in the Middle East were a major factor driving Brent crude upward. Economists are keenly observing energy trends for signs of inflation that might influence monetary policy changes, contributing to traders nervousness surrounding the upcoming interest rate announcement from the US Federal Reserve.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-snap-three-day-rally-yields-rise-with-oil/articleshow/132712805.cms",
+      "image": "https://img.etimg.com/thumb/msid-132712805,width-1200,height-630,imgsize-39618,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-29T12:58:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Higher crude oil prices could hit India's fiscal health, finance ministry says",
+      "description": "India's finance ministry warns of rising crude oil prices impacting fiscal and trade balances. Persistent geopolitical tensions in West Asia present key risks to the nation's economy. The country's external sector remains resilient, supported by strong exports and services trade. Foreign exchange reserves stand at $675.2 billion, offering a significant buffer.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/higher-crude-oil-prices-could-hit-indias-fiscal-health-finance-ministry-says/articleshow/132712723.cms",
+      "image": "https://img.etimg.com/thumb/msid-132712723,width-1200,height-630,imgsize-145686,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-29T12:58:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "India bonds slip as oil prices hurt; Fed verdict in focus",
+      "description": "On Wednesday, Indian government bonds took a hit due to renewed U.S. airstrikes in the Middle East, escalating tensions in the Gulf region. This escalation has led to a spike in oil prices and increased U.S. Treasury yields. The rising crude prices pose challenges for India's inflation, fiscal health, and current account. Investors can expect high global yields to continue, limiting the potential for rallies in Indian fixed income markets.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-slip-as-oil-prices-hurt-fed-verdict-in-focus/articleshow/132712689.cms",
+      "image": "https://img.etimg.com/thumb/msid-132712689,width-1200,height-630,imgsize-459753,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-29T12:55:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Rising crude oil prices could squeeze India's fiscal deficit, current account math: Finance ministry",
+      "description": "Monthly Economic Review flags renewed West Asia tensions and firmer oil prices as a risk to government finances even as broader economy stays resilient",
+      "url": "https://www.moneycontrol.com/news/india/rising-crude-oil-prices-could-squeeze-india-s-fiscal-deficit-current-account-math-finance-ministry-13987452.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260715020244_crudeoilrtr6.png",
+      "publishedAt": "2026-07-29T12:54:57Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "U.S. and Saudi Arabia Launch Strikes on Iran-Backed Groups in Iraq",
+      "description": "The United States and Saudi Arabia jointly launched strikes against Iran-backed armed groups in Iraq following recent escalations. This marked the first U.S. military action in the Middle East since President Trump paused bombing campaigns last week. The conflict led to a significant rise in oil prices.",
+      "url": "https://www.devdiscourse.com/article/politics/3956764-us-and-saudi-arabia-launch-strikes-on-iran-backed-groups-in-iraq",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_22_22_41_5062273.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-29T12:45:01Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "40% Of New Car Buyers Are Choosing Alternatives To Petrol And Diesel. What's Driving The Shift?",
-      "description": "Alternative-fuel vehicles accounted for over 40% of India's new car sales in June 2026. Here's why buyers are shifting to CNG, hybrid and electric vehicles and what it means for the auto market.",
-      "url": "https://www.outlookindia.com/national/40-of-new-car-buyers-are-choosing-alternatives-to-petrol-and-diesel-whats-driving-the-shift",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-07-29/0gpjz8a2/Car-Insurance.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-07-29T06:48:09Z",
+      "title": "India says sustained oil price spike could strain fiscal deficit, current account balances",
+      "description": "Sustained high crude oil prices could pressure India's fiscal \u200bdeficit and current account balance again, \u200ca finance ministry report said on Wednesday.",
+      "url": "https://www.reuters.com/business/energy/india-says-sustained-oil-price-spike-could-strain-fiscal-deficit-current-account-2026-07-29/",
+      "image": "https://www.reuters.com/resizer/v2/HR64Y2HRURM77GEUHC5CAPBZTQ.jpg?auth=ef02d8dfe899b4818a87d9fbd744b30e4b79d2ae816a10cd3df6e4b2a0c5346a&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-07-29T12:31:26Z",
       "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "South Korea's Kospi share index falls 7% and other Asian shares are mixed as oil prices surge",
-      "description": "Asian shares are mixed but South Korea\u2019s Kospi share index is trading about 6% lower on prolonged selling of chipmaking shares. Oil prices jumped more than 2%. The latest rout in Seoul was led by a nearly 13% plunge for shares in chipmaker SK Hynix after its profit in the last quarter fell short of analysts' forecasts even though it soared sixfold. Shares in its bigger rival Samsung Electronics dropped almost 8%. On Tuesday, shares were mixed on Wall Street. The S&P 500 added 0.2% and the Dow Jones Industrial Average jumped 1%. The Nasdaq composite slipped 0.2%.",
-      "url": "https://www.ajc.com/news/2026/07/south-koreas-kospi-share-index-falls-7-and-other-asian-shares-are-mixed-as-oil-prices-surge/",
-      "image": "https://images.ajc.com/resizer/v2/EY7JNHOOJFEYVLNDLNSTUSIXZU.jpg?auth=59ff23f7cb05e847a3ee7a4d1bb2b73a79688aef35e3955a84a82fe9e4100fd6&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-29T06:42:16Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "India bonds tiptoe along ahead of Fed meet; oil prices weigh",
-      "description": "Indian government bonds traded range-bound early Wednesday as investors awaited the Fed's rate decision. Oil prices climbed, reviving concerns about the Gulf conflict and global economic impact. The Reserve Bank of India's policy decision is due next week, with rates expected to remain unchanged. India's financial conditions have tightened recently due to oil price surges. Economic growth is expected to slow while inflation surpasses the central bank's target.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tiptoe-along-ahead-of-fed-meet-oil-prices-weigh/articleshow/132703905.cms",
-      "image": "https://img.etimg.com/thumb/msid-132703938,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-29T06:40:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Banking beats, SK Hynix sinks, surprise attack rattles oil",
-      "description": "Big banks in Europe beat expectations, but tech stays in the doldrums and oil prices surge after a surprise strike against U.S. forces.",
-      "url": "https://www.cnbc.com/2026/07/29/daily-open-bank-earnings-ubs-sk-hynix.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108273552-1772641307274-gettyimages-2264182952-AFP_99XG2WE.jpeg?v=1772641394&w=1920&h=1080",
-      "publishedAt": "2026-07-29T06:36:49Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "India bonds tiptoe along ahead of Fed meet; oil prices weigh",
-      "description": "The benchmark 6.94% 2036 \u200bbond yield was at 6.7872% after ending Tuesday at 6.7774%; bond yields move inversely to prices",
-      "url": "https://www.thehindubusinessline.com/markets/india-bonds-tiptoe-along-ahead-of-fed-meet-oil-prices-weigh/article71280056.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/yex96e/article71275678.ece/alternates/LANDSCAPE_1200/No-blanket-exemGCTG35ND5.6.jpg.jpg",
-      "publishedAt": "2026-07-29T06:29:50Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "What's Driving the Sharp Rally in Brent Crude?",
-      "description": "Oil prices today surged nearly 4% as renewed Middle East tensions, falling US crude inventories and OPEC+ supply outlook boosted Brent and WTI crude.",
-      "url": "https://www.newsx.com/business/oil-prices-today-surge-nearly-4-whats-driving-the-sharp-rally-in-brent-crude-253931/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/07/oil-prices-2907.jpg",
-      "publishedAt": "2026-07-29T06:07:47Z",
-      "source": {
-        "name": "NewsX"
-      }
-    },
-    {
-      "title": "Rupee cushioned by state-run bank dollar offers as futures expiry bites",
-      "description": "The Indian rupee strengthened on Wednesday as banks sold dollars. Dollar demand from futures expiry exerted some pressure on the currency. Oil prices climbed nearly four percent after recent sharp declines. Traders watched for the US Federal Reserve's monetary policy decision. Markets anticipate the Fed will likely keep interest rates unchanged.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-cushioned-by-state-run-bank-dollar-offers-as-futures-expiry-bites/articleshow/132702708.cms",
-      "image": "https://img.etimg.com/thumb/msid-132702755,width-1200,height-630,imgsize-38656,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-29T06:06:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil prices surge after Iranian missile attack on US forces and Saudi strikes on Iraq",
-      "description": "Iran's IRGC says its naval forces hit three oil tankers in Strait of Hormuz",
-      "url": "https://www.thenationalnews.com/business/energy/2026/07/29/oil-prices-surge-after-iranian-missile-attack-on-us-forces-and-saudi-strikes-on-iraq/",
-      "image": "https://www.thenationalnews.com/resizer/v2/XLZA7Z2XZRE4JLURPBP7WPCF2M?smart=true&auth=7fd1bd823a9bb62e2f0a53fa07c3980f7ec0e9aa19ee724c3132761cdc4597eb&width=1200&height=630",
-      "publishedAt": "2026-07-29T06:03:56Z",
-      "source": {
-        "name": "The National"
-      }
-    },
-    {
-      "title": "Fuel prices to rise when excise cut ends within days",
-      "description": "Aussie motorists will soon pay more for petrol and diesel, with the federal government confirming its fuel excise discount will end this weekend.",
-      "url": "https://7news.com.au/motoring/fuel-prices-to-rise-when-excise-cut-ends-within-days-c-22646781",
-      "image": "https://images.7news.com.au/publication/C-22646781/90cdcf00e55d7615b0f702ce91fb77710833d7ae-16x9-x0y290w5568h3132.jpg?imwidth=1200",
-      "publishedAt": "2026-07-29T06:02:42Z",
-      "source": {
-        "name": "7NEWS Australia"
+        "name": "Reuters"
       }
     }
   ]
