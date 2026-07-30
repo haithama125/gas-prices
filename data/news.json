@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-30T01:25:20+00:00",
+  "updated_at": "2026-07-30T08:07:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The world is getting riskier. Here's what the Finance Ministry says India should prepare for",
-      "description": "The Finance Ministry's July Economic Review says higher oil prices, Gulf tensions, AI and the weaponisation of supply chains could pose fresh risks to India's economy, arguing that faster policy implementation will be key to boosting resilience and attracting investment.",
-      "url": "https://www.cnbctv18.com/economy/the-world-is-getting-riskier-heres-what-the-finance-ministry-says-india-should-prepare-for-19957039.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/modified-infographic-img-0-2026-07-29t13-14-11026716-2026-07-081eaf193327cf24019e57c52e32ff68.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-07-29T13:19:18Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "A pound of ground beef now costs $6.82 - and that number is crushing consumer confidence",
-      "description": "Inflation has climbed to 3.5% since the Iran war began, and Trump faces midterm risk as gas prices rise again.",
-      "url": "https://fortune.com/2026/07/29/ground-beef-price-consumer-confidence-inflation/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/07/GettyImages-2286921398-e1785330431530.jpg?resize=1200,600",
-      "publishedAt": "2026-07-29T13:07:47Z",
-      "source": {
-        "name": "Fortune"
-      }
-    },
-    {
-      "title": "U.S. markets mixed ahead of Fed decision",
-      "description": "Wall Street is mixed before the opening bell Wednesday and oil prices jumped more than four per cent after Jordan and the U.S. knocked down another\u00a0Iranian missile barrage\u00a0launched against American forces in the Middle East.",
-      "url": "https://www.bnnbloomberg.ca/business/economics/2026/07/29/us-markets-mixed-ahead-of-fed-decision-and-oil-prices-jump-as-middle-east-violence-flares/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/IJ7G5HZJRXYWC2D2ER4BW4UZHM.jpg?smart=true&auth=a23d2ede30390586947e76395eb4c15d6adcd4e16746bb00f3ac43b7e7ce5d49&width=1200&height=630",
-      "publishedAt": "2026-07-29T13:02:03Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "US Treasury yields rise after three-day fall as oil jumps, Fed decision looms",
-      "description": "As oil prices surged, treasury yields took notice, raising inflation worries in the market. Traders are keeping a watchful eye on the Federal Reserve's expected decision to maintain interest rates today. Nonetheless, traders are fully anticipating a hike in September, with a solid possibility of another increase before the year's end.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yields-rise-after-three-day-fall-as-oil-jumps-fed-decision-looms/articleshow/132712865.cms",
-      "image": "https://img.etimg.com/thumb/msid-132712865,width-1200,height-630,imgsize-45458,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-29T13:00:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Euro zone bonds snap three-day rally, yields rise with oil",
-      "description": "As oil prices surged on Wednesday, Euro zone government bonds experienced a decline. Heightened hostilities in the Middle East were a major factor driving Brent crude upward. Economists are keenly observing energy trends for signs of inflation that might influence monetary policy changes, contributing to traders nervousness surrounding the upcoming interest rate announcement from the US Federal Reserve.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-snap-three-day-rally-yields-rise-with-oil/articleshow/132712805.cms",
-      "image": "https://img.etimg.com/thumb/msid-132712805,width-1200,height-630,imgsize-39618,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-29T12:58:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Higher crude oil prices could hit India's fiscal health, finance ministry says",
-      "description": "India's finance ministry warns of rising crude oil prices impacting fiscal and trade balances. Persistent geopolitical tensions in West Asia present key risks to the nation's economy. The country's external sector remains resilient, supported by strong exports and services trade. Foreign exchange reserves stand at $675.2 billion, offering a significant buffer.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/higher-crude-oil-prices-could-hit-indias-fiscal-health-finance-ministry-says/articleshow/132712723.cms",
-      "image": "https://img.etimg.com/thumb/msid-132712723,width-1200,height-630,imgsize-145686,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-29T12:58:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "India bonds slip as oil prices hurt; Fed verdict in focus",
-      "description": "On Wednesday, Indian government bonds took a hit due to renewed U.S. airstrikes in the Middle East, escalating tensions in the Gulf region. This escalation has led to a spike in oil prices and increased U.S. Treasury yields. The rising crude prices pose challenges for India's inflation, fiscal health, and current account. Investors can expect high global yields to continue, limiting the potential for rallies in Indian fixed income markets.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-india-bonds-slip-as-oil-prices-hurt-fed-verdict-in-focus/articleshow/132712689.cms",
-      "image": "https://img.etimg.com/thumb/msid-132712689,width-1200,height-630,imgsize-459753,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-29T12:55:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rising crude oil prices could squeeze India's fiscal deficit, current account math: Finance ministry",
-      "description": "Monthly Economic Review flags renewed West Asia tensions and firmer oil prices as a risk to government finances even as broader economy stays resilient",
-      "url": "https://www.moneycontrol.com/news/india/rising-crude-oil-prices-could-squeeze-india-s-fiscal-deficit-current-account-math-finance-ministry-13987452.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260715020244_crudeoilrtr6.png",
-      "publishedAt": "2026-07-29T12:54:57Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "U.S. and Saudi Arabia Launch Strikes on Iran-Backed Groups in Iraq",
-      "description": "The United States and Saudi Arabia jointly launched strikes against Iran-backed armed groups in Iraq following recent escalations. This marked the first U.S. military action in the Middle East since President Trump paused bombing campaigns last week. The conflict led to a significant rise in oil prices.",
-      "url": "https://www.devdiscourse.com/article/politics/3956764-us-and-saudi-arabia-launch-strikes-on-iran-backed-groups-in-iraq",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_22_22_41_5062273.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-29T12:45:01Z",
+      "title": "Escalating Tensions: Middle East Conflict Breaches Limit",
+      "description": "A drone struck a U.S.-owned gas tanker at Egypt's Damietta port, marking a potential expansion of Middle Eastern conflict. As violence escalates between Iran and the U.S.-Saudi axis, significant military exchanges continue, leading to spikes in oil prices and increased political tension across the region.",
+      "url": "https://www.devdiscourse.com/article/politics/3956915-escalating-tensions-middle-east-conflict-breaches-limit",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_09_2025_12_02_09_4333603.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-29T19:55:54Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "India says sustained oil price spike could strain fiscal deficit, current account balances",
-      "description": "Sustained high crude oil prices could pressure India's fiscal \u200bdeficit and current account balance again, \u200ca finance ministry report said on Wednesday.",
-      "url": "https://www.reuters.com/business/energy/india-says-sustained-oil-price-spike-could-strain-fiscal-deficit-current-account-2026-07-29/",
-      "image": "https://www.reuters.com/resizer/v2/HR64Y2HRURM77GEUHC5CAPBZTQ.jpg?auth=ef02d8dfe899b4818a87d9fbd744b30e4b79d2ae816a10cd3df6e4b2a0c5346a&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-07-29T12:31:26Z",
+      "title": "Dollar Falls as FOMC Keeps Interest Rates Unchanged",
+      "description": "The dollar index (DXY00 ) fell to a 1-week low on Wednesday and finished down by -0.48%. The dollar tumbled on Wednesday after the FOMC kept interest rates unchanged. The dollar moved higher briefly early on Wednesday after crude oil prices surged...",
+      "url": "https://www.barchart.com/story/news/3533258/dollar-falls-as-fomc-keeps-interest-rates-unchanged",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/A%20hundred%20dollar%20bill%20being%20torn%20by%20Alona%20Siniehina%20via%20iStock.jpg",
+      "publishedAt": "2026-07-29T19:46:17Z",
       "source": {
-        "name": "Reuters"
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Gas Prices Rebound Ahead of August Contract Expiration",
+      "description": "Gas flame with blue reflection on dark backdrop by Bellanatella via iStock",
+      "url": "https://www.europesays.com/3161676/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/Gas20flame20with20blue20reflection20on20dark20backdrop20by20Bellanatella20via20iStock.jpg",
+      "publishedAt": "2026-07-29T19:36:20Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "III vehicles may need minor E20 fixes, Gadkari tells Rajya Sabha",
+      "description": "The government on Wednesday said only BS-III vehicles introduced from April 1, 2005, and manufactured before 2016 might require replacement of certain rubber components and gaskets when operated on 20 per cent ethanol-blended petrol (E20).",
+      "url": "https://www.tribuneindia.com/news/top-headlines/bs-iii-vehicles-may-need-minor-e20-fixes-gadkari-tells-rajya-sabha/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmYWFlMjUwLThiODQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-29T19:33:53Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Centre \u2018coercing\u2019 vehicle manufacturers into silence on E20 issue: Kejriwal",
+      "description": "Aam Aadmi Party (AAP) chief Arvind Kejriwal on Wednesday accused the Centre of \u201ccoercing\u201d automobile manufacturers into silence over the impact of E20 (petrol blended with 20% ethanol) on vehicles manufactured before 2023.",
+      "url": "https://www.thehindu.com/news/national/centre-coercing-vehicle-manufacturers-into-silence-on-e20-issue-kejriwal/article71282235.ece",
+      "image": "https://th-i.thgim.com/public/incoming/8utfd/article71282310.ece/alternates/LANDSCAPE_1200/20260729273L.jpg",
+      "publishedAt": "2026-07-29T19:31:17Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Surge as US-Iran Conflict Looks to Drag On",
+      "description": "September WTI crude oil (CLU26 ) on Wednesday closed up +5.20 (+6.56%), and September RBOB gasoline (RBU26 ) closed up +0.0815 (+2.59%). Crude oil and gasoline prices rallied sharply on Wednesday amid a fresh round of hostilities in the Middle East,...",
+      "url": "https://www.barchart.com/story/news/3532990/crude-oil-prices-surge-as-us-iran-conflict-looks-to-drag-on",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-29T19:23:39Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Oil prices jump following fighting with Iran, Wall Street swings after the Fed holds rates steady",
+      "description": "Oil prices got back to jumping, while the U.S. stock market flipped between losses and small gains after the Federal Reserve opted not to raise interest rates",
+      "url": "https://www.barchart.com/story/news/3515943/oil-prices-jump-following-fighting-with-iran-wall-street-swings-after-the-fed-holds-rates-steady",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/51bc193f4ffd495f9ea6e532d1aefd07/51bc193f4ffd495f9ea6e532d1aefd07_main_financial_markets_wall_street_7_852.jpg",
+      "publishedAt": "2026-07-29T19:22:47Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Rebound Ahead of August Contract Expiration",
+      "description": "August Nymex natural gas (NGQ26 ) on Wednesday closed up +0.063 (+2.37%). Nat-gas prices rebounded from a 3-month nearest-futures low and settled higher amid fund short covering as Wednesday was the last trading day for the August Nymex natural gas f...",
+      "url": "https://www.barchart.com/story/news/3532956/nat-gas-prices-rebound-ahead-of-august-contract-expiration",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
+      "publishedAt": "2026-07-29T19:22:30Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Oil Prices Surge Amid Middle East Tensions and Supply Concerns",
+      "description": "Oil prices jumped by 7% as renewed Middle East conflicts raised supply concerns, with U.S. crude inventories hitting a multi-year low. This spike followed airstrikes by the U.S. and Saudi Arabia on Iran-backed groups. The ongoing tensions in strategic regions like the Strait of Hormuz could further impact oil movements.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3956901-oil-prices-surge-amid-middle-east-tensions-and-supply-concerns",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2024_06_07_52_1354695.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-29T19:12:33Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Market Turbulence: Fed\u2019s Steady Rates Amid Middle East Tensions and AI Investment Scrutiny",
+      "description": "U.S. financial markets experienced volatility after the Federal Reserve held interest rates steady, causing mixed market reactions amid Middle East tensions and AI investment scrutiny. Oil prices surged, while major indices like the Dow Jones and S&P 500 fell. Investors await key earnings, focusing on AI's impact on revenue and growth.",
+      "url": "https://www.devdiscourse.com/article/business/3956898-market-turbulence-feds-steady-rates-amid-middle-east-tensions-and-ai-investment-scrutiny",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_01_33_21_6692796.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-29T18:53:52Z",
+      "source": {
+        "name": "Devdiscourse"
       }
     }
   ]
