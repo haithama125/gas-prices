@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-31T01:51:52+00:00",
+  "updated_at": "2026-07-31T08:33:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Better ride quality, lower average: Nitin Gadkari to Parliament on E20 petrol",
-      "description": "Opposition parties and some consumer groups have criticised the rollout of E20 fuel, alleging that it can cause engine damage.\u00a0 | India News",
-      "url": "https://www.hindustantimes.com/india-news/nitin-gadkari-e20-blended-petrol-mileage-average-parliament-response-arvind-kejriwal-townhall-e20-janta-party-101785417770368.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/30/1600x900/logo/ANI-20260728248-0_1785417932458_1785417946367_31a80baa-77a7-43ae-8a3b-4b6290eae442.jpg",
-      "publishedAt": "2026-07-30T13:39:12Z",
+      "title": "Tesla and BYD Ride Global EV Boom - Five Countries See Growth More Than Double as Gas Prices Spike",
+      "description": "Global EV sales were up big in the second quarter. Tesla and BYD appear to the be the big winners based on the regions seeing the biggest growth.",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60820068/tesla-and-byd-ride-global-ev-boom-five-countries-see-growth-more-than-double-as-gas-prices-spike",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/BYD-Tesla-Shutterstock.png",
+      "publishedAt": "2026-07-30T20:03:29Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Benzinga"
       }
     },
     {
-      "title": "E20 petrol mileage drops 2-6%, no engine failures in tests, says Gadkari",
-      "description": "Nitin Gadkari told Parliament that E20 petrol may cut fuel efficiency by 2 to 6 per cent but has not caused engine failures in testing. The replies seek to address compatibility concerns, though some older BS-III vehicles may need rubber parts replaced during servicing.",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-mileage-drops-2-6-percent-no-engine-failures-tests-nitin-gadkari-parliament-ethanol-2959961-2026-07-30",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/nitin-gadkari-303221135-16x9_0.jpg?VersionId=IABXteRJ2x74EqL4MVqgdNOU.ABjFgkD",
-      "publishedAt": "2026-07-30T13:37:18Z",
+      "title": "Tesco announces \u00a360 fuel deal at over 500 petrol stations",
+      "description": "Tesco is offering drivers 8p off per litre of fuel at more than 500 petrol stations this summer",
+      "url": "https://www.birminghammail.co.uk/whats-on/shopping/tesco-announces-60-fuel-deal-34380759",
+      "image": "https://i2-prod.birminghammail.co.uk/article34349519.ece/ALTERNATES/s1200d/0_Tesco-financials.jpg",
+      "publishedAt": "2026-07-30T20:01:15Z",
       "source": {
-        "name": "India Today"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "European fuel prices rise again as new Hormuz Strait tensions push Brent above 90 dollars",
-      "description": "US Central Command confirmed strikes on dozens of Iranian military targets today, including missile and drone facilities and Revolutionary Guard naval assets, as tanker attacks in the Hormuz Strait send oil prices climbing sharply again",
-      "url": "https://en.protothema.gr/2026/07/30/european-fuel-prices-rise-again-as-new-hormuz-strait-tensions-push-brent-above-90-dollars/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/07/260505115133_antlia-kausimou-fuel-venzini-pratirio-1.jpeg-2.jpg",
-      "publishedAt": "2026-07-30T13:26:41Z",
+      "title": "West Bank fuel shortage strands Palestinians at pump with economy running on empty",
+      "description": "Cash liquidity crunch and fiscal strains, some stemming from PA's reliance on Israeli shekel, seen as driving petrol scarcity, leading to long lines at the pump and illicit 'black gold' sales",
+      "url": "https://www.timesofisrael.com/west-bank-fuel-shortage-strands-palestinians-at-pump-with-economy-running-on-empty/",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26204525683066.jpg",
+      "publishedAt": "2026-07-30T19:51:49Z",
       "source": {
-        "name": "Proto Thema"
+        "name": "The Times of Israel"
       }
     },
     {
-      "title": "How rising oil prices can boost the cost of some medicines",
-      "description": "In an interview, Julien Pouille of Unitaid explains why he believes it's time for the industry to lower its reliance on fossil fuels.",
-      "url": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/",
-      "image": "https://www.statnews.com/wp-content/uploads/2026/05/AdobeStock_423451426-1024x576.jpeg",
-      "publishedAt": "2026-07-30T13:22:30Z",
+      "title": "blended fuel, but admits to 2",
+      "description": "The government on Thursday defended the Ethanol Blended Petrol (EBP) programme, saying it played a crucial role in shielding consumers from a steep surge in petrol prices, even as it acknowledged that ethanol-blended fuel could reduce mileage by 2 to 6 per cent, depending on the vehicle category.",
+      "url": "https://www.tribuneindia.com/news/india/gadkari-defends-ethanol-blended-fuel-but-admits-to-2-6-mileage-dip/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjNzFjNTAwLThjNGUtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-30T19:40:19Z",
       "source": {
-        "name": "STAT"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Govt defends E20 in Parliament, says it shielded Indians from Rs 125/litre petrol during West Asia war",
-      "description": "Centre tells Lok Sabha that \u2018legacy vehicles\u2019 face no significant impact from E20, says biofuel helped cushion consumers from global oil price spike.",
-      "url": "https://theprint.in/economy/govt-defends-e20-in-parliament-says-it-shielded-indians-from-rs-125-litre-petrol-during-west-asia-war/3001264/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/Untitled-design-2026-07-30T182437.950.png",
-      "publishedAt": "2026-07-30T13:20:19Z",
+      "title": "Oil industry sees war windfall but girds for political blowback",
+      "description": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald",
+      "url": "https://www.breitbart.com/news/oil-industry-sees-war-windfall-but-girds-for-political-blowback/",
+      "image": "https://media.breitbart.com/media/2026/07/wi/afp/us-oil-giants-set-report-huge-profits-gasoline-prices-gallon-testing-publics-patience-us-640x335.jpg",
+      "publishedAt": "2026-07-30T19:19:18Z",
       "source": {
-        "name": "ThePrint"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Govt. Defends Ethanol Blending Programme, E20 Can Reduce Fuel Economy",
-      "description": "At the same time, Gadkari also said that petrol blended with 20 percent ethanol (E20) can reduce fuel economy by 2 to 6 per cent depending on the vehicle category and vintage, arguing that tests for engine durability on a dynamometer and on-road vehicle tests have not shown any failures due to E20 fuel",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/govt-defends-ethanol-blending-programme-e20-can-reduce-fuel-economy-1975229",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/07/30/2070343-suresh.jpg",
-      "publishedAt": "2026-07-30T13:04:14Z",
+      "title": "India to buck APAC slowdown despite oil, trade and El Nino risks: Moody's Analytics",
+      "description": "India's economy is projected to grow strongly in the Asia-Pacific region. Higher oil prices and global slowdown pose significant risks to this outlook. El Nino presents a dual threat of food and energy vulnerability for the nation. AI-driven investments will support regional growth before gradually weakening. Policymakers must balance inflation risks with sustaining economic activity.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-buck-apac-slowdown-despite-oil-trade-and-el-nino-risks-moodys-analytics/articleshow/132749534.cms",
+      "image": "https://img.etimg.com/thumb/msid-132749628,width-1200,height-630,imgsize-49336,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-30T19:19:00Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "The Latest: US and Iran trade strikes as hopes dim for a quick resolution",
-      "description": "Back-and-and-forth missile strikes between the U.S. and Iran are dimming hopes for a deal to end the war as more countries are drawn in. Jordan, Kuwait, Egypt, Saudi Arabia and Iraq have reported strikes. President Donald Trump's move to install his lawyer Todd Blanche as attorney general is stalled as Republicans object to the Trump tax amnesty deal Blanche engineered. And Trump's approval rating has dropped, with most Americans saying the Iran war isn't worth fighting, according to a new AP-NORC poll. More than 70% say it's highly important to reach a ceasefire and prevent oil and gas prices from rising.",
-      "url": "https://www.ajc.com/news/2026/07/the-latest-us-and-iran-trade-strikes-as-hopes-dim-for-a-quick-resolution/",
-      "image": "https://images.ajc.com/resizer/v2/4CY7H4XQOVAVFEJHCD3TNGKB4U.jpg?auth=681c98b3ee21abce32c3c308798e6ae6445bdc5032d84b62fd2bbac0c9ac4269&width=1200&height=630&smart=true",
-      "publishedAt": "2026-07-30T13:01:29Z",
+      "title": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz",
+      "description": "September WTI crude oil (CLU26 ) closed down -0.87 (-1.03%) on Thursday, and September RBOB gasoline (RBU26 ) closed down -0.0945 (-2.93%). Crude oil and gasoline prices gave up an overnight advance and settled lower on Thursday in hopes of a diploma...",
+      "url": "https://www.barchart.com/story/news/3559937/crude-oil-prices-drop-on-increased-traffic-through-strait-of-hormuz",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/An%20oil%20tanker%20out%20at%20sea%20by%20Gerhard%20Traschutz%20via%20Pixabay.jpg",
+      "publishedAt": "2026-07-30T19:14:09Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Truck hits another vehicle, driver injured",
-      "description": "Mini truck hits truck after brake failure near Chordaha Indian Oil petrol pump in Hazaribag; helper Lakhan Kumar seriously hurt, rescued and hospitalized.",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/truck-hits-another-vehicle-driver-injured/articleshow/132740714.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132740713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-30T12:51:00Z",
+      "title": "Nat-Gas Prices Climb on Smaller-Than-Expected Storage Increase",
+      "description": "September Nymex natural gas (NGU26 ) on Thursday closed up +0.036 (+1.32%). Nat-gas prices settled higher on Thursday on a smaller-than-expected storage increase. Weekly EIA nat-gas inventories rose +28 bcf in the week ended July 24, below expectatio...",
+      "url": "https://www.barchart.com/story/news/3559913/nat-gas-prices-climb-on-smaller-than-expected-storage-increase",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
+      "publishedAt": "2026-07-30T19:13:08Z",
       "source": {
-        "name": "Times of India"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Oil prices fall, markets rebound on mixed earnings from US tech giants",
-      "description": "Wall Street was poised for a rebound and oil prices fell modestly even as the US said it conducted a \u201cheavy wave\u201d of strikes against Iran.",
-      "url": "https://www.ocregister.com/2026/07/30/oil-prices-tech-earnings-financial-markets/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_7_852_f6faec.jpg?w=2000&h=1333",
-      "publishedAt": "2026-07-30T12:25:51Z",
+      "title": "British man blew up childhood home in mistaken belief he had been disinherited",
+      "description": "A man in the UK blew up his childhood home in the mistaken belief he had been cut out of his family inheritance. Darren Davies, 55, poured petrol in the...",
+      "url": "https://www.nzherald.co.nz/world/man-blew-up-childhood-home-in-mistaken-belief-he-had-been-disinherited/FRYHQK7EAJA3BJ2ZYO5KKLBZ7U/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/BFCG6OJMK5EBDGJV4KDOT6HEFI.jpg?auth=a9d050ac5158020b21cd42cc7f02480d361d12731c6e89aa552c0e4e75c630ab&width=1200&height=675&quality=70&focal=194%2C155&smart=false",
+      "publishedAt": "2026-07-30T19:02:02Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "Oil prices fall, markets rebound on mixed earnings from US tech giants",
-      "description": "Wall Street was poised for a rebound and oil prices fell modestly even as the US said it conducted a \u201cheavy wave\u201d of strikes against Iran.",
-      "url": "https://www.sandiegouniontribune.com/2026/07/30/oil-prices-tech-earnings-financial-markets/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_7_852_f6faec.jpg?w=2000&h=1333",
-      "publishedAt": "2026-07-30T12:25:51Z",
+      "title": "U.S. Economic Growth Faces Hurdles Amid AI Boom and Trade Deficit",
+      "description": "U.S. economic growth slowed in the second quarter due to a rising trade deficit, though strong consumer spending and business investment in AI infrastructure highlighted robust domestic demand. A fading boost from tax refunds, increasing gas prices, and low savings rates present vulnerabilities for sustained growth.",
+      "url": "https://www.devdiscourse.com/article/business/3957391-us-economic-growth-faces-hurdles-amid-ai-boom-and-trade-deficit",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2024_04_00_48_3921854.png&width=920&format=jpeg",
+      "publishedAt": "2026-07-30T18:35:46Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Devdiscourse"
       }
     }
   ]
