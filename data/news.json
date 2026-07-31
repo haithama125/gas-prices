@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-07-30T19:09:17+00:00",
+  "updated_at": "2026-07-31T01:51:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Shell\u2019s profits more than double after jump in oil and gas prices",
-      "description": "Environmental groups renew calls for windfall tax to support households following Q2 earnings rise to $9.84bn",
-      "url": "https://www.theguardian.com/business/2026/jul/30/shell-profits-double-jump-oil-gas-prices",
-      "image": "https://i.guim.co.uk/img/media/377f5d0d34842f9e43249096b1b96762485a0bbe/493_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab1e8143a64a05fc06fdf5d2bfad385c",
-      "publishedAt": "2026-07-30T07:08:01Z",
+      "title": "Better ride quality, lower average: Nitin Gadkari to Parliament on E20 petrol",
+      "description": "Opposition parties and some consumer groups have criticised the rollout of E20 fuel, alleging that it can cause engine damage.\u00a0 | India News",
+      "url": "https://www.hindustantimes.com/india-news/nitin-gadkari-e20-blended-petrol-mileage-average-parliament-response-arvind-kejriwal-townhall-e20-janta-party-101785417770368.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/07/30/1600x900/logo/ANI-20260728248-0_1785417932458_1785417946367_31a80baa-77a7-43ae-8a3b-4b6290eae442.jpg",
+      "publishedAt": "2026-07-30T13:39:12Z",
       "source": {
-        "name": "The Guardian"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Finance ministry calls for faster policy action to sustain growth amid global uncertainty",
-      "description": "India's finance ministry stressed faster policy responses and stronger implementation for investment. The economy shows resilience despite global challenges and mounting uncertainties. Rising crude oil prices pose a risk to fiscal and current account balances. India must strengthen its long-term resilience and strategic leverage. Domestic fundamentals and policy support continue to bolster the economic outlook.",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/finance-ministry-calls-for-faster-policy-action-to-sustain-growth-amid-global-uncertainty/articleshow/132730789.cms",
-      "image": "https://img.etimg.com/thumb/msid-132730814,width-1200,height-630,imgsize-232798,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-30T06:55:00Z",
+      "title": "E20 petrol mileage drops 2-6%, no engine failures in tests, says Gadkari",
+      "description": "Nitin Gadkari told Parliament that E20 petrol may cut fuel efficiency by 2 to 6 per cent but has not caused engine failures in testing. The replies seek to address compatibility concerns, though some older BS-III vehicles may need rubber parts replaced during servicing.",
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-mileage-drops-2-6-percent-no-engine-failures-tests-nitin-gadkari-parliament-ethanol-2959961-2026-07-30",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202607/nitin-gadkari-303221135-16x9_0.jpg?VersionId=IABXteRJ2x74EqL4MVqgdNOU.ABjFgkD",
+      "publishedAt": "2026-07-30T13:37:18Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "India Today"
       }
     },
     {
-      "title": "Ethanol blending rolled out through phased, scientific process: Gadkari to Lok Sabha",
-      "description": "India News: NEW DELHI: Petroleum ministry has introduced the Ethanol Blended Petrol (EBP) Programme through a \u201cphased, scientifically validated and consultative p.",
-      "url": "https://timesofindia.indiatimes.com/india/ethanol-blending-rolled-out-through-phased-scientific-process-gadkari-to-lok-sabha/articleshow/132730499.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132730513,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-07-30T06:46:00Z",
+      "title": "European fuel prices rise again as new Hormuz Strait tensions push Brent above 90 dollars",
+      "description": "US Central Command confirmed strikes on dozens of Iranian military targets today, including missile and drone facilities and Revolutionary Guard naval assets, as tanker attacks in the Hormuz Strait send oil prices climbing sharply again",
+      "url": "https://en.protothema.gr/2026/07/30/european-fuel-prices-rise-again-as-new-hormuz-strait-tensions-push-brent-above-90-dollars/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/07/260505115133_antlia-kausimou-fuel-venzini-pratirio-1.jpeg-2.jpg",
+      "publishedAt": "2026-07-30T13:26:41Z",
+      "source": {
+        "name": "Proto Thema"
+      }
+    },
+    {
+      "title": "How rising oil prices can boost the cost of some medicines",
+      "description": "In an interview, Julien Pouille of Unitaid explains why he believes it's time for the industry to lower its reliance on fossil fuels.",
+      "url": "https://www.statnews.com/pharmalot/2026/07/30/rising-oil-prices-cost-of-medicines-fosil-fuels/",
+      "image": "https://www.statnews.com/wp-content/uploads/2026/05/AdobeStock_423451426-1024x576.jpeg",
+      "publishedAt": "2026-07-30T13:22:30Z",
+      "source": {
+        "name": "STAT"
+      }
+    },
+    {
+      "title": "Govt defends E20 in Parliament, says it shielded Indians from Rs 125/litre petrol during West Asia war",
+      "description": "Centre tells Lok Sabha that \u2018legacy vehicles\u2019 face no significant impact from E20, says biofuel helped cushion consumers from global oil price spike.",
+      "url": "https://theprint.in/economy/govt-defends-e20-in-parliament-says-it-shielded-indians-from-rs-125-litre-petrol-during-west-asia-war/3001264/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/Untitled-design-2026-07-30T182437.950.png",
+      "publishedAt": "2026-07-30T13:20:19Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Govt. Defends Ethanol Blending Programme, E20 Can Reduce Fuel Economy",
+      "description": "At the same time, Gadkari also said that petrol blended with 20 percent ethanol (E20) can reduce fuel economy by 2 to 6 per cent depending on the vehicle category and vintage, arguing that tests for engine durability on a dynamometer and on-road vehicle tests have not shown any failures due to E20 fuel",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/govt-defends-ethanol-blending-programme-e20-can-reduce-fuel-economy-1975229",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/30/2070343-suresh.jpg",
+      "publishedAt": "2026-07-30T13:04:14Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "The Latest: US and Iran trade strikes as hopes dim for a quick resolution",
+      "description": "Back-and-and-forth missile strikes between the U.S. and Iran are dimming hopes for a deal to end the war as more countries are drawn in. Jordan, Kuwait, Egypt, Saudi Arabia and Iraq have reported strikes. President Donald Trump's move to install his lawyer Todd Blanche as attorney general is stalled as Republicans object to the Trump tax amnesty deal Blanche engineered. And Trump's approval rating has dropped, with most Americans saying the Iran war isn't worth fighting, according to a new AP-NORC poll. More than 70% say it's highly important to reach a ceasefire and prevent oil and gas prices from rising.",
+      "url": "https://www.ajc.com/news/2026/07/the-latest-us-and-iran-trade-strikes-as-hopes-dim-for-a-quick-resolution/",
+      "image": "https://images.ajc.com/resizer/v2/4CY7H4XQOVAVFEJHCD3TNGKB4U.jpg?auth=681c98b3ee21abce32c3c308798e6ae6445bdc5032d84b62fd2bbac0c9ac4269&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-30T13:01:29Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Truck hits another vehicle, driver injured",
+      "description": "Mini truck hits truck after brake failure near Chordaha Indian Oil petrol pump in Hazaribag; helper Lakhan Kumar seriously hurt, rescued and hospitalized.",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/truck-hits-another-vehicle-driver-injured/articleshow/132740714.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132740713,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-07-30T12:51:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Stock markets trade in positive territory led by IT firms, foreign fund inflows",
-      "description": "MUMBAI, July 30: Benchmark indices Sensex and Nifty traded in positive territory during early trade on Thursday driven by a rally in IT stocks, foreign fund inflows and a drop in crude oil prices. The 30-share BSE Sensex advanced 75.71...",
-      "url": "https://www.dailyexcelsior.com/stock-markets-trade-in-positive-territory-led-by-it-firms-foreign-fund-inflows/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTYwYjcwYmEwLThiZTAtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-      "publishedAt": "2026-07-30T06:32:02Z",
+      "title": "Oil prices fall, markets rebound on mixed earnings from US tech giants",
+      "description": "Wall Street was poised for a rebound and oil prices fell modestly even as the US said it conducted a \u201cheavy wave\u201d of strikes against Iran.",
+      "url": "https://www.ocregister.com/2026/07/30/oil-prices-tech-earnings-financial-markets/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_7_852_f6faec.jpg?w=2000&h=1333",
+      "publishedAt": "2026-07-30T12:25:51Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "Trump's Approval Rating Falls To Lowest Level Since January 6 Insurrection, New Poll Finds",
-      "description": "Trump remains underwater on several issues, including the war with Iran, inflation and gas prices.",
-      "url": "https://www.huffingtonpost.co.uk/entry/trump-approval-ratings-jan-6_uk_6a6aed59e4b01948ae9a04a9",
-      "image": "https://img.huffingtonpost.com/asset/6a6a97ab1b00002d7f939a90.jpeg?cache=ahq19KPMbe&ops=1200_630",
-      "publishedAt": "2026-07-30T06:25:04Z",
+      "title": "Oil prices fall, markets rebound on mixed earnings from US tech giants",
+      "description": "Wall Street was poised for a rebound and oil prices fell modestly even as the US said it conducted a \u201cheavy wave\u201d of strikes against Iran.",
+      "url": "https://www.sandiegouniontribune.com/2026/07/30/oil-prices-tech-earnings-financial-markets/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_7_852_f6faec.jpg?w=2000&h=1333",
+      "publishedAt": "2026-07-30T12:25:51Z",
       "source": {
-        "name": "Huffpost Uk"
-      }
-    },
-    {
-      "title": "Dow Records Worst Session Since April 2025; Investor Sentiment Weakens, Greed Index Remains In \u2018Fear\u2019 Zon",
-      "description": "The CNN Money Fear and Greed index showed a sharp decline in market sentiment as stocks fell and oil prices rose due to US-Iran tensions.",
-      "url": "https://www.benzinga.com/markets/market-summary/26/07/60787300/dow-records-worst-session-since-april-2025-investor-sentiment-weakens-greed-index-remains-in-fear-zone",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/07/30/Fear-and-Greed.jpg",
-      "publishedAt": "2026-07-30T06:20:05Z",
-      "source": {
-        "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Japan Cuts FY27 Growth Forecast to 0.9% As Oil Costs Hit Economy",
-      "description": "Japan\u2019s government lowered its economic growth forecast for fiscal 2026 after higher oil prices linked to Middle East tensions pressured household spending and corporate profits. GDP growth is now projected at 0.9%, down from 1.3% earlier. Rising energy costs have also pushed inflation estimates higher despite expectations of positive wage growth",
-      "url": "https://www.freepressjournal.in/business/japan-cuts-fy27-growth-forecast-to-09-as-oil-costs-hit-economy",
-      "image": "https://media.assettype.com/freepressjournal/2026-07-30/bkmuefuc/HF8YPcTbwAA7NgG.jpg",
-      "publishedAt": "2026-07-30T06:17:28Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Japan cuts FY2026 growth forecast to 0.9 pc as higher oil prices weigh on economy",
-      "description": "The Japanese government has lowered its economic growth forecast for the current fiscal year to 0.9 per cent from the earlier estimate of 1.3 per cent, citing the impact of higher crude oil prices on the country's import-dependent economy, according to a report by Kyodo News.",
-      "url": "https://www.tribuneindia.com/news/business/japan-cuts-fy2026-growth-forecast-to-0-9-pc-as-higher-oil-prices-weigh-on-economy/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFhMWJhYTUwLThiZGQtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-      "publishedAt": "2026-07-30T06:08:28Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Japan cuts FY2026 growth forecast to 0.9 pc as higher oil prices weigh on economy",
-      "description": "The Japanese government has lowered its economic growth forecast for the current fiscal year to 0.9 per cent from the earlier estimate of 1.3 per cent, citing the impact of higher crude oil prices on the country's import-dependent economy, according to a report by Kyodo News.",
-      "url": "https://www.aninews.in/news/business/japan-cuts-fy2026-growth-forecast-to-09-pc-as-higher-oil-prices-weigh-on-economy20260730113329/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260730060319-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-07-30T06:03:29Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Stock markets trade in positive territory led by IT firms, foreign fund inflows",
-      "description": "Stock markets rise as IT stocks lead gains, bolstered by foreign fund inflows and falling crude oil prices.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-trade-in-positive-territory-led-by-it-firms-foreign-fund-inflows/article71284480.ece",
-      "image": "https://th-i.thgim.com/public/incoming/l48ct4/article71284511.ece/alternates/LANDSCAPE_1200/India_Financial_Markets_94744.jpg",
-      "publishedAt": "2026-07-30T05:45:55Z",
-      "source": {
-        "name": "The Hindu"
+        "name": "San Diego Union-Tribune"
       }
     }
   ]
