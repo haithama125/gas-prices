@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-07-31T08:33:40+00:00",
+  "updated_at": "2026-07-31T13:39:41+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "South Korea\u2019s Kospi index jumps more than 16% on a surge of chipmaking stocks",
+      "description": "South Korea\u2019s Kospi index has jumped more than 16% as artificial intelligence-related stocks bounced back after losses this week. Shares of South Korean technology giant Samsung Electronics surged over 22%, while memory chipmaker SK Hynix soared nearly 28%. The Kospi index had plummeted more than 16% on Tuesday and Wednesday on a sell-off of technology stocks in part over worries about an AI bubble and rising competition from chipmaking rivals in China. Tokyo\u2019s Nikkei 225 also climbed more than 5% in early Friday trading. Oil prices have fallen, with Brent crude, the international standard, trading at around $86 a barrel. On Thursday, Wall Street\u2019s benchmark S&P 500 was up 1.7%. The Dow Jones Industrial Average added 1.2%. The technology-heavy Nasdaq composite rose 2.8%.",
+      "url": "https://www.ajc.com/news/2026/07/south-koreas-kospi-index-jumps-more-than-15-on-a-surge-of-chipmaking-stocks/",
+      "image": "https://images.ajc.com/resizer/v2/MKV7QK5FHBEHBJ6NP5XYH2ZDZY.jpg?auth=903d21082f8d5479bee6dd6ea674d3b176f19a04dbe4b2c74762b59b51fa8e90&width=1200&height=630&smart=true",
+      "publishedAt": "2026-07-31T01:32:26Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Sensex, Nifty Today: GIFT Nifty signals steady start; Kospi jumps 14%, Crude below $90",
+      "description": "Share market today, July 31: Global markets surged with chip stocks leading gains, Asian indices rallying, crude oil prices below $90, and positive cues for Indian markets as Nifty and Sensex close higher on July 31, 2026.",
+      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-31july2026-4307029/",
+      "image": "https://images.financialexpressdigital.com/2026/07/Share-Market-1-Reuters_20260407010633_20260421011552_20260422175736_20260526012219_20260618012636_20260623135042_20260623152338_20260731012023.jpg",
+      "publishedAt": "2026-07-31T01:31:46Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Indian benchmark indices opened flat and traded in a choppy, volatile range. Analysts suggest the index may head towards resistance at 24,500-24,600 levels. The India VIX, measuring market fear, rose 1.2% to settle at 12.16. Foreign portfolio investors and domestic institutions were net buyers of shares on Thursday. The Indian rupee closed nearly flat, blunting pressure from oil prices and corporate demand.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/132752586.cms",
+      "image": "https://img.etimg.com/thumb/msid-132752596,width-1200,height-630,imgsize-110060,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-30T23:44:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "How China Became the Ultimate Swing Oil Buyer",
+      "description": "China's future buying will be critical for oil prices, with imports rebounding recently but renewed tensions in Hormuz and the Red Sea\u2014and higher oil prices\u2014likely to determine whether demand strengthens or weakens in the months ahead.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/How-China-Became-the-Ultimate-Swing-Oil-Buyer.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-07-30_t3dugkbcbh.jpg",
+      "publishedAt": "2026-07-30T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Modi reviews safety of seafarers, supply chain constraints in extended CCS meet",
+      "description": "Availability of adequate crude oil has enabled Central Public Sector Enterprise (CPSE) refineries to operate at utilisation levels exceeding 100 per cent, ensuring continued production of petrol, diesel and other petroleum products.",
+      "url": "https://indianexpress.com/article/india/modi-reviews-safety-of-seafarers-supply-chain-constraints-in-extended-ccs-meet-10811271/",
+      "image": "https://images.indianexpress.com/2026/07/modi-vid_20260728071943_20260730222755.jpg",
+      "publishedAt": "2026-07-30T22:29:36Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Narendra Modi reviews safety of seafarers, supply chain constraints in extended CCS meet",
+      "description": "Availability of adequate crude oil has enabled Central Public Sector Enterprise (CPSE) refineries to operate at utilisation levels exceeding 100 per cent, ensuring continued production of petrol, diesel and other petroleum products.",
+      "url": "https://indianexpress.com/article/india/narendra-modi-reviews-safety-of-seafarers-supply-chain-constraints-in-extended-ccs-meet-10811271/",
+      "image": "https://images.indianexpress.com/2026/07/modi-vid_20260728071943_20260730222755.jpg",
+      "publishedAt": "2026-07-30T22:29:36Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+      "description": "Saudi Arabia and 13 other nations have formed a defensive maritime coalition to protect shipping across the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden. The Riyadh-headquartered alliance aims to safeguard global energy routes amid Houthi blockades and Hormuz disruptions, which have pushed oil prices near USD 90.",
+      "url": "https://www.tribuneindia.com/news/world/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTMxODFmZjEwLThjNjMtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
+      "publishedAt": "2026-07-30T22:08:19Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Saudi Arabia announces maritime defence alliance to secure vital waterways",
+      "description": "Saudi Arabia and 13 other nations have formed a defensive maritime coalition to protect shipping across the Red Sea, Bab el-Mandeb Strait, and Gulf of Aden. The Riyadh-headquartered alliance aims to safeguard global energy routes amid Houthi blockades and Hormuz disruptions, which have pushed oil prices near USD 90.",
+      "url": "https://www.aninews.in/news/world/middle-east/saudi-arabia-announces-maritime-defence-alliance-to-secure-vital-waterways20260731033518/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260730220507-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-07-30T22:05:18Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "Blowout Microsoft results lift US stocks as oil retreats",
+      "description": "NEW YORK: Wall Street stocks rebounded on Thursday (Jul 30) as blowout Microsoft results and moderating oil prices blunted worries about higher US Treasury yields.Shares of Microsoft surged more than 15 per cent following strong results driven by its cloud and artificial intelligence divis",
+      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-market-microsoft-oil-6289546",
+      "image": "https://dam.mediacorp.sg/image/upload/s--Nw_7ZKsH--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/07/31/ap26211629408811.jpg?itok=F3qMfOcs",
+      "publishedAt": "2026-07-30T21:19:00Z",
+      "source": {
+        "name": "CNA"
+      }
+    },
     {
       "title": "Tesla and BYD Ride Global EV Boom - Five Countries See Growth More Than Double as Gas Prices Spike",
       "description": "Global EV sales were up big in the second quarter. Tesla and BYD appear to the be the big winners based on the regions seeing the biggest growth.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-07-30T20:03:29Z",
       "source": {
         "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Tesco announces \u00a360 fuel deal at over 500 petrol stations",
-      "description": "Tesco is offering drivers 8p off per litre of fuel at more than 500 petrol stations this summer",
-      "url": "https://www.birminghammail.co.uk/whats-on/shopping/tesco-announces-60-fuel-deal-34380759",
-      "image": "https://i2-prod.birminghammail.co.uk/article34349519.ece/ALTERNATES/s1200d/0_Tesco-financials.jpg",
-      "publishedAt": "2026-07-30T20:01:15Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "West Bank fuel shortage strands Palestinians at pump with economy running on empty",
-      "description": "Cash liquidity crunch and fiscal strains, some stemming from PA's reliance on Israeli shekel, seen as driving petrol scarcity, leading to long lines at the pump and illicit 'black gold' sales",
-      "url": "https://www.timesofisrael.com/west-bank-fuel-shortage-strands-palestinians-at-pump-with-economy-running-on-empty/",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/07/AP26204525683066.jpg",
-      "publishedAt": "2026-07-30T19:51:49Z",
-      "source": {
-        "name": "The Times of Israel"
-      }
-    },
-    {
-      "title": "blended fuel, but admits to 2",
-      "description": "The government on Thursday defended the Ethanol Blended Petrol (EBP) programme, saying it played a crucial role in shielding consumers from a steep surge in petrol prices, even as it acknowledged that ethanol-blended fuel could reduce mileage by 2 to 6 per cent, depending on the vehicle category.",
-      "url": "https://www.tribuneindia.com/news/india/gadkari-defends-ethanol-blended-fuel-but-admits-to-2-6-mileage-dip/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjNzFjNTAwLThjNGUtMTFmMS1iM2M4LTBmNWEyOThmZjA3MC5qcGc=",
-      "publishedAt": "2026-07-30T19:40:19Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Oil industry sees war windfall but girds for political blowback",
-      "description": "US oil giants are set to report blowout profits Friday at a time when lofty gasoline prices are stressing consumers and exacerbating President Donald",
-      "url": "https://www.breitbart.com/news/oil-industry-sees-war-windfall-but-girds-for-political-blowback/",
-      "image": "https://media.breitbart.com/media/2026/07/wi/afp/us-oil-giants-set-report-huge-profits-gasoline-prices-gallon-testing-publics-patience-us-640x335.jpg",
-      "publishedAt": "2026-07-30T19:19:18Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "India to buck APAC slowdown despite oil, trade and El Nino risks: Moody's Analytics",
-      "description": "India's economy is projected to grow strongly in the Asia-Pacific region. Higher oil prices and global slowdown pose significant risks to this outlook. El Nino presents a dual threat of food and energy vulnerability for the nation. AI-driven investments will support regional growth before gradually weakening. Policymakers must balance inflation risks with sustaining economic activity.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-to-buck-apac-slowdown-despite-oil-trade-and-el-nino-risks-moodys-analytics/articleshow/132749534.cms",
-      "image": "https://img.etimg.com/thumb/msid-132749628,width-1200,height-630,imgsize-49336,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-30T19:19:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Drop on Increased Traffic Through Strait of Hormuz",
-      "description": "September WTI crude oil (CLU26 ) closed down -0.87 (-1.03%) on Thursday, and September RBOB gasoline (RBU26 ) closed down -0.0945 (-2.93%). Crude oil and gasoline prices gave up an overnight advance and settled lower on Thursday in hopes of a diploma...",
-      "url": "https://www.barchart.com/story/news/3559937/crude-oil-prices-drop-on-increased-traffic-through-strait-of-hormuz",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/An%20oil%20tanker%20out%20at%20sea%20by%20Gerhard%20Traschutz%20via%20Pixabay.jpg",
-      "publishedAt": "2026-07-30T19:14:09Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Climb on Smaller-Than-Expected Storage Increase",
-      "description": "September Nymex natural gas (NGU26 ) on Thursday closed up +0.036 (+1.32%). Nat-gas prices settled higher on Thursday on a smaller-than-expected storage increase. Weekly EIA nat-gas inventories rose +28 bcf in the week ended July 24, below expectatio...",
-      "url": "https://www.barchart.com/story/news/3559913/nat-gas-prices-climb-on-smaller-than-expected-storage-increase",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-07-30T19:13:08Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "British man blew up childhood home in mistaken belief he had been disinherited",
-      "description": "A man in the UK blew up his childhood home in the mistaken belief he had been cut out of his family inheritance. Darren Davies, 55, poured petrol in the...",
-      "url": "https://www.nzherald.co.nz/world/man-blew-up-childhood-home-in-mistaken-belief-he-had-been-disinherited/FRYHQK7EAJA3BJ2ZYO5KKLBZ7U/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/BFCG6OJMK5EBDGJV4KDOT6HEFI.jpg?auth=a9d050ac5158020b21cd42cc7f02480d361d12731c6e89aa552c0e4e75c630ab&width=1200&height=675&quality=70&focal=194%2C155&smart=false",
-      "publishedAt": "2026-07-30T19:02:02Z",
-      "source": {
-        "name": "The New Zealand Herald"
-      }
-    },
-    {
-      "title": "U.S. Economic Growth Faces Hurdles Amid AI Boom and Trade Deficit",
-      "description": "U.S. economic growth slowed in the second quarter due to a rising trade deficit, though strong consumer spending and business investment in AI infrastructure highlighted robust domestic demand. A fading boost from tax refunds, increasing gas prices, and low savings rates present vulnerabilities for sustained growth.",
-      "url": "https://www.devdiscourse.com/article/business/3957391-us-economic-growth-faces-hurdles-amid-ai-boom-and-trade-deficit",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2024_04_00_48_3921854.png&width=920&format=jpeg",
-      "publishedAt": "2026-07-30T18:35:46Z",
-      "source": {
-        "name": "Devdiscourse"
       }
     }
   ]
