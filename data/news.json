@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-01T01:53:06+00:00",
+  "updated_at": "2026-08-01T08:03:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.readingeagle.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Kerala bar petrol attack toll rises to four as burn victim dies after 12",
+      "description": "Vembayam Junction tragedy: Alcohol-fueled brawl leads to petrol attack, 4 dead including attacker and suicide.",
+      "url": "https://www.cnbctv18.com/india/kerala-bar-petrol-attack-toll-rises-to-four-as-burn-victim-dies-after-12-day-battle-19959219.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-c66792a9ab8bcd24666563effdeaee24.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-07-31T19:30:54Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.bostonherald.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Supply Disruptions Underpin Crude Oil Prices",
+      "description": "September WTI crude oil (CLU26 ) on Friday closed up +1.08 (+1.29%), and September RBOB gasoline (RBU26 ) closed down -0.0171 (-0.55%). Crude oil and gasoline prices settled mixed on Friday. Crude oil rose sharply due to threats to global supplies w...",
+      "url": "https://www.barchart.com/story/news/3583214/supply-disruptions-underpin-crude-oil-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Crude%20oil%20unloading%20dock%20by%20Surapol%20Usanakul%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-07-31T19:16:27Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.twincities.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Wall Street's wild July is ending with more swings as Amazon leaps, Apple sinks and oil prices rise",
+      "description": "Wall Street\u2019s wild July is ending with more swings as Amazon\u2019s stock leaps, Apple sinks and rising oil prices worsen worries about inflation already squeezing the bond market",
+      "url": "https://www.barchart.com/story/news/3566310/wall-street-s-wild-july-is-ending-with-more-swings-as-amazon-leaps-apple-sinks-and-oil-prices-rise",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/89e9530bf4954b6abdacdedf55bad953/89e9530bf4954b6abdacdedf55bad953_main_south_korea_financial_markets_39816.jpg",
+      "publishedAt": "2026-07-31T19:14:30Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.baltimoresun.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Abundant US Nat-Gas Inventories Weigh on Prices",
+      "description": "September Nymex natural gas (NGU26 ) on Friday closed down -0.011 (-0.40%). Nat-gas prices posted modest losses on Friday amid signs of adequate US supplies. As of July 24, EIA nat-gas inventories were +6.4% above their 5-year seasonal average, sign...",
+      "url": "https://www.barchart.com/story/news/3583160/abundant-us-nat-gas-inventories-weigh-on-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-07-31T19:13:37Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.sandiegouniontribune.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Govt cuts petrol, diesel prices for three-day period",
+      "description": "The federal government has announced a slight reduction in petroleum prices, lowering the rates of petrol and high-speed diesel (HSD) for a three-day period starting",
+      "url": "https://www.nation.com.pk/31-Jul-2026/govt-cuts-petrol-diesel-prices-three-day-period",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-07-31/govt-cuts-petrol-diesel-prices-three-day-period-1785523519-4151.jpg",
+      "publishedAt": "2026-07-31T18:45:34Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.pilotonline.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Indian Oil Posts \u20b92,661 Crore Q1 Loss As West Asia Conflict Drives Up Crude Costs; Revenue Jumps 26 Per Cent",
+      "description": "Indian Oil reported a standalone net loss of \u20b92,661 crore in Q1 FY27 as rising crude oil prices amid the West Asia conflict hurt margins. Despite the loss, revenue rose 26% to \u20b92.76 lakh crore, supported by record refinery throughput, strong fuel sales and higher domestic market share.",
+      "url": "https://www.freepressjournal.in/business/indian-oil-posts-2661-crore-q1-loss-as-west-asia-conflict-drives-up-crude-costs-revenue-jumps-26-per-cent",
+      "image": "https://media.assettype.com/freepressjournal/2026-07-31/rbtma36m/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-07-31T234559.231.jpg",
+      "publishedAt": "2026-07-31T18:16:26Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.ocregister.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Iran War Day 154: Iran Strikes Kuwait, Claims Hormuz Strait is Closed",
+      "description": "State of the Union: President Trump met with his cabinet as oil prices stayed elevated.",
+      "url": "https://www.theamericanconservative.com/iran-war-day-154-iran-strikes-kuwait-claims-hormuz-strait-is-closed/",
+      "image": "https://www.theamericanconservative.com/wp-content/uploads/2026/06/21mideast-hormuz-hcfp-superJumbo.jpg.webp",
+      "publishedAt": "2026-07-31T17:59:00Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "The American Conservative"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.dailycamera.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Q1 fiscal deficit at 18.2% of annualtarget, capex grows 24%",
+      "description": "Driven by a 24% surge in capital expenditure, India\u2019s Q1 FY27 fiscal deficit reached 18.2% of the full-year target, though June spending slowed amid rising crude oil prices and West Asia uncertainties.",
+      "url": "https://www.financialexpress.com/policy/economy/q1-fiscal-deficit-at-18-2-ofnbspannualtarget-capex-grows-24/4307826/",
+      "image": "https://images.financialexpressdigital.com/2026/07/Fiscal-deficit_20260216191731_20260226192314_20260329163858_20260502183326_20260514183223_20260731113046_20260731174559.jpg",
+      "publishedAt": "2026-07-31T17:52:41Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.pressdemocrat.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "As gas prices and airfare soar, is it cheaper to fly or drive when traveling on a budget?",
+      "description": "If you're traveling domestically in the U.S. and trying to save money, deciding whether to drive or fly can be an important decision.You may assume",
+      "url": "https://krdo.com/stacker-travel/2026/07/31/as-gas-prices-and-airfare-soar-is-it-cheaper-to-fly-or-drive-when-traveling-on-a-budget/",
+      "image": "https://krdo.b-cdn.net/2026/07/the-points-guy-as-gas-prices-and-airfare-soar.jpg",
+      "publishedAt": "2026-07-31T17:49:42Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "KRDO"
       }
     },
     {
-      "title": "Wall Street rises as Amazon and chip stocks jump, as oil prices jump",
-      "description": "Amazon and resurgent stocks of computer chipmakers are leading Wall Street higher even as oil prices add to worries about inflation.",
-      "url": "https://www.courant.com/2026/07/31/wall-street-rises-amazon-chip-stocks-oil-prices/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/07/Financial_Markets_Wall_Street_88555-1.jpg?w=1999&h=1333",
-      "publishedAt": "2026-07-31T13:44:59Z",
+      "title": "Imperial Oil beats quarterly estimates as surge in crude prices lifts profits",
+      "description": "Canadian oil producer Imperial Oil announced Friday that it more than doubled its second-quarter profit amidst a surge \u200cin world oil prices.",
+      "url": "https://globalnews.ca/news/12004929/imperial-oil-second-quearter-profit-double-crude-prices-surge/",
+      "image": "https://globalnews.ca/wp-content/uploads/2023/12/CP28413617.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-07-31T17:44:36Z",
       "source": {
-        "name": "Hartford Courant"
+        "name": "Global News"
       }
     }
   ]
