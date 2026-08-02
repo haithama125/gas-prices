@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-08-02T08:04:56+00:00",
+  "updated_at": "2026-08-02T12:58:06+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Iran warns US against 'adventurous action'; threatens retaliation as Gulf tensions deepen",
+      "description": "Iran has warned it will respond decisively to any new U.S. or Israeli attacks, as President Donald Trump renewed threats against Tehran. Rising tensions have disrupted shipping through the Strait of Hormuz, pushed oil prices higher, and heightened fears of wider regional conflict affecting global energy supplies and maritime security.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-warns-us-against-adventurous-action-threatens-retaliation-as-gulf-tensions-deepen/articleshow/132798880.cms",
+      "image": "https://img.etimg.com/thumb/msid-132798891,width-1200,height-630,imgsize-63316,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-02T00:38:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Charting the Global Economy: Central banks hold the line",
+      "description": "Global central banks maintained interest rates this week due to rising energy costs. The Federal Reserve and Bank of England saw some officials push for hikes. Inflation accelerated in Germany and France, impacting consumer prices while Japan lowered its economic growth forecast amid higher oil prices.",
+      "url": "https://economictimes.indiatimes.com/small-biz/trade/exports/insights/charting-the-global-economy-central-banks-hold-the-line/articleshow/132798841.cms",
+      "image": "https://img.etimg.com/thumb/msid-132798839,width-1200,height-630,imgsize-234289,overlay-etrise/articleshow.jpg",
+      "publishedAt": "2026-08-02T00:33:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Fuel excise relief ends as Jane Hume warns Australians will \u2018feel the pain\u2019 at the petrol bowser",
+      "description": "Australians are being warned to brace for higher fuel prices as temporary fuel excise relief comes to an end.",
+      "url": "https://www.perthnow.com.au/news/politics/federal-politics/fuel-excise-relief-ends-as-jane-hume-warns-australians-will-feel-the-pain-at-the-petrol-bowser-c-22663401",
+      "image": "https://images.perthnow.com.au/publication/C-22663401/a911d9613e60e3b61c99b6d56c80b5cea81868b3-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-08-01T23:42:20Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "Give pure petrol option: Kejriwal calls march to PM\u2019s residence on Aug 4",
+      "description": "Aam Aadmi Party (AAP) national convener Arvind Kejriwal on Saturday intensified his campaign against the Centre\u2019s E20 fuel policy, demanding that consumers be given the option to choose between pure petrol and E20 at fuel stations. He also announced that he would march to Prime Minister Narendra Modi\u2019s residence on August 4 to submit over two lakh petitions opposing the move.",
+      "url": "https://www.tribuneindia.com/news/india/give-pure-petrol-option-kejriwal-calls-march-to-pms-residence-on-aug-4/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI2ZTkzZjkwLThkZTYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-01T20:22:24Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Column: Virginia moves forward in race for clean, affordable energy - Daily Press",
+      "description": "Virginians are feeling the squeeze. Groceries cost more, gas prices remain unpredictable, and for too many families, the electric bill has become one more",
+      "url": "https://www.europesays.com/3168118/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/Trump_Offshore_Wind_66934_17094a-768x432.jpg",
+      "publishedAt": "2026-08-01T20:16:16Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
     {
       "title": "Kolhapur\u2019s Keshavrao Bhosale Natyagruha fire investigation to be reopened",
       "description": "Kolhapur police to reopen Keshavrao Bhosale Natyagruha fire probe after 2025 forensic report found petrol traces; digital evidence to be re-examined.",
@@ -52,56 +102,6 @@
       "publishedAt": "2026-08-01T15:43:27Z",
       "source": {
         "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Brazil's Lula govt plans over 50% cut in industrial natural gas prices: Report",
-      "description": "The Brazilian government has announced a major policy shift aimed at reducing natural gas prices for domestic industry by over 50 per cent, driving a wave of reindustrialisation across key commercial sectors.",
-      "url": "https://www.aninews.in/news/world/asia/brazils-lula-govt-plans-over-50-cut-in-industrial-natural-gas-prices-report20260801210848/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260801151539-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-01T15:38:48Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Rs 1.97 lakh cr in forex savings, cheaper petrol: Govt lays out the ethanol balance sheet",
-      "description": "Citing a study by ARAI, SIAM and Indian Oil Corporation, road ministry said vehicles designed for E10 fuel may see efficiency fall by 2-6% when run on E20.",
-      "url": "https://www.financialexpress.com/policy/economy/rs-1-97-lakh-cr-in-forex-savings-cheaper-petrol-govt-lays-out-the-ethanol-balance-sheet/4308308/",
-      "image": "https://images.financialexpressdigital.com/2026/08/E20ChatGPT.jpg",
-      "publishedAt": "2026-08-01T15:20:19Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Hoping for Lower Prices at the Gas Pump? After Exxon Doubles Profits, CEO Darren Woods Says \u2018I Wouldn\u2019t Hold My Breath.\u2019",
-      "description": "In a CNBC interview, the oil executive explained the disconnect between crude oil and gasoline prices.",
-      "url": "https://www.barchart.com/story/news/3595009/hoping-for-lower-prices-at-the-gas-pump-after-exxon-doubles-profits-ceo-darren-woods-says-i-wouldnt-hold-my-breath",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Famous%20People/Darren%20Woods%20at%20the%20World%20Economic%20Forum%20captured%20on%20YouTube%20and%20downloaded%20via%20Wikimedia%20Commons.png",
-      "publishedAt": "2026-08-01T15:15:02Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Exxon, Chevron warn fuel prices to endure as war knocks refining",
-      "description": "Retail gasoline prices are just 10% below this year\u2019s peak in May, even though West Texas Intermediate is down 26%.",
-      "url": "https://fortune.com/2026/08/01/exxon-chevron-fuel-prices-diesel-gasoline-refining-capacity/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2276970130-e1785596831550.jpg?resize=1200,600",
-      "publishedAt": "2026-08-01T15:12:44Z",
-      "source": {
-        "name": "Fortune"
-      }
-    },
-    {
-      "title": "Kejriwal Demands Choice Between E20 and Pure Petrol, Plans PM House March",
-      "description": "The former Delhi chief minister also urged the government to make public the report that it cited to claim that E20 does not damage vehicles.",
-      "url": "https://www.deccanchronicle.com/nation/kejriwal-demands-choice-between-e20-and-pure-petrol-plans-pm-house-march-1975819",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/08/01/2071207-aa-7870017.jpg",
-      "publishedAt": "2026-08-01T14:34:30Z",
-      "source": {
-        "name": "Deccan Chronicle"
       }
     }
   ]
