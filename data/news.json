@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-08-03T01:52:03+00:00",
+  "updated_at": "2026-08-03T09:21:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol drivers face new HMRC per mile charges rate from September",
+      "description": "A new rate is set to be confirmed in the coming weeks, set to take effect from September 1.",
+      "url": "https://www.express.co.uk/life-style/cars/2235339/petrol-drivers-face-new-hmrc",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7074999.jpg",
+      "publishedAt": "2026-08-02T19:34:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
+      "description": "Oil prices fell sharply Sunday after President Donald Trump said he would order U.S. forces to hold off on new strikes against Iran. NEW YORK (AP) \u2014",
+      "url": "https://www.breitbart.com/news/oil-prices-drop-after-trump-orders-us-forces-to-hold-off-on-new-strikes-against-iran/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/strait-of-hormuz-48934-strait-of-hormuz-cargo-ships-at-sea-strait-of-hormuz-viewed-rocky-sho-640x335.jpg",
+      "publishedAt": "2026-08-02T17:34:24Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Dalal Street Week Ahead: RBI policy, Q1 earnings, FII flow, geopolitical tensions, oil prices among 10 key factors to watch",
+      "description": "In the week starting August 3, the market sentiment is expected to remain positive, with investors focusing on the RBI's monetary policy decision, US-Iran commentary, geopolitical tensions, movements in oil prices, the next set of corporate earnings, FII flows, US jobs data, and Manufacturing and Services Purchasing Managers' Index (PMI) readings.",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-rbi-policy-q1-earnings-fii-flow-geopolitical-tensions-oil-prices-among-10-key-factors-to-watch-13991321.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260701081922_up.jpeg",
+      "publishedAt": "2026-08-02T16:47:43Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Crude Oil Price Dives as OPEC+ Agrees to Another Supply Hike",
+      "description": "Crude oil prices plunged in the perpetual futures market after President Trump eased fears of an imminent escalation with Iran.",
+      "url": "https://www.benzinga.com/markets/commodities/26/08/60862086/crude-oil-price-dives-as-opec-agrees-to-another-supply-hike",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/02/Oil-Pump-In-The-Desert-Of-Bahrain--Middl.jpg",
+      "publishedAt": "2026-08-02T16:31:38Z",
+      "source": {
+        "name": "Benzinga"
+      }
+    },
+    {
+      "title": "Piped gas demand rises as India's LPG sales fall; petrol, diesel consumption jumps in July",
+      "description": "Combined petrol sales by Indian Oil Corp, Bharat Petroleum Corp and Hindustan Petroleum Corp rose 9.7 per cent to 3.45 million tonnes in July",
+      "url": "https://www.livemint.com/news/india/piped-gas-demand-rises-as-indias-lpg-sales-fall-petrol-diesel-consumption-jumps-in-july-11785683699938.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/ANI-20260709069-0_1783731518086_1783731542748_b195b34c-92bd-4db9-893a-73d90f2bf071_1785683909117_da7992dd-9108-4800-b5c3-2d933fa0c0d0.jpg",
+      "publishedAt": "2026-08-02T16:23:16Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "E20 petrol should be banned until technology improves: Prakash Ambedkar",
+      "description": "Mumbai, Aug 2 (PTI) Vanchit Bahujan Aghadi chief Prakash Ambedkar on Sunday demanded an immediate review of the Centre\u2019s ethanol-blended petrol policy, saying the use of E20 petrol should be banned until appropriate technology for the fuel was available. Talking to reporters here, Ambedkar said his party is opposed to ethanol-blended petrol and claimed that [\u2026]",
+      "url": "https://theprint.in/india/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/3003713/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-08-02T16:18:35Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "The noise of oil prices",
+      "description": "Oil prices have become hostage to headlines. Traditionally driven by supply and demand fundamentals, oil markets today find themselves at the mercy of geopolitical developments.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/08/03/the-noise-of-oil-prices",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4038167.jpg",
+      "publishedAt": "2026-08-02T16:00:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Did Iran agree to open the Strait of Hormuz? State media clears air on \u2018compromise proposal\u2019",
+      "description": "While a US-Qatari mediated proposal suggests Iran could collect transit fees, Iran's Revolutionary Guards deny any agreement, raising concerns for global energy routes and oil prices",
+      "url": "https://www.theweek.in/news/middle-east/2026/08/02/did-iran-agree-to-open-the-strait-of-hormuz-state-media-clears-air-on-compromise-proposal.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/middle-east/images/2026/7/14/uae-iran-strait-of-hormuz-afp.jpg",
+      "publishedAt": "2026-08-02T14:44:20Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Tripp Skipper: Wars don\u2019t decide midterm elections. Gas prices do.",
+      "description": "Americans aren\u2019t grading President Trump on military strategy. They\u2019re grading him every time they stop at the gas pump, walk through the grocery store, or open their monthly credit card statement.",
+      "url": "https://www.al.com/politics/2026/08/tripp-skipper-wars-dont-decide-midterm-elections-gas-prices-do.html",
+      "image": "https://www.al.com/resizer/v2/ZQ5WHA66MNHI3P77EDL7BXJWIE.jpg?auth=506a1959ba91a5a71140ae80220370c18382f1878ab967fdb0d5305784e62d09&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-08-02T14:28:29Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
     {
       "title": "Petrol, Diesel Sales Surge As Agriculture Activity Picks Up In July",
       "description": "The data showed that diesel sales, a key indicator of economic activity in India, also rose 10.7 per cent year-on-year to 7.12 million tonnes in July from 6.43 million tonnes a year earlier",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-08-02T13:28:08Z",
       "source": {
         "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "See the States Where Gas Prices Rose the Most in July",
-      "description": "Gas prices have dropped after spiking in May, but the national average is still over $4 per gallon. See where prices rose the most in July.",
-      "url": "https://www.businessinsider.com/states-where-gas-prices-are-rising-most-iran-war-2026-3",
-      "image": "https://i.insider.com/6a6cf4c087737bff3ebda255?width=1200&format=jpeg",
-      "publishedAt": "2026-08-02T13:18:01Z",
-      "source": {
-        "name": "Business Insider"
-      }
-    },
-    {
-      "title": "Kejriwal demands choice between pure petrol and E20, seeks lower fuel prices at town hall",
-      "description": "In an impactful town hall, Arvind Kejriwal demands that consumers should have the choice between pure petrol and E20-blended fuel.",
-      "url": "https://www.hindustantimes.com/genesis/kejriwal-demands-choice-between-pure-petrol-and-e20-seeks-lower-fuel-prices-at-town-hall-101785675764394.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/02/1600x900/logo/E20-Townhall-9_1785675819651_1785675840047_6e815e08-8a8f-4f63-918e-80825f2051fe.jpg",
-      "publishedAt": "2026-08-02T13:06:20Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Road-fuel demand accelerates in July; LPG consumption plunges 17.4%",
-      "description": "India\u2019s petroleum demand saw stark divergence in July 2026, with strong road-fuel consumption lifting petrol and diesel sales by nearly 9%, while LPG and aviation turbine fuel (ATF) use witnessed significant declines.",
-      "url": "https://www.financialexpress.com/policy/economy/road-fuel-demand-accelerates-in-july-lpg-consumption-plunges-17-4/4308872/",
-      "image": "https://images.financialexpressdigital.com/2026/08/Fuel-Reuters-1_20251226163452_20260523130449_20260531131432_20260616114256_20260702164612_20260721141139_20260802125359.jpg",
-      "publishedAt": "2026-08-02T13:01:14Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Burnham pledges more cost of living support as chancellor says public being \u2018taken for a ride\u2019 on food and petrol prices",
-      "description": "The prime minister vowed to do \u2018whatever I can\u2019 to \u2018take a little bit of pressure down\u2019",
-      "url": "https://www.independent.co.uk/news/uk/politics/andy-burnham-cost-of-living-chancellor-john-healey-b3025963.html",
-      "image": "https://static.independent.co.uk/2026/08/01/05/Britain_Politics_18_76.jpg?width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-08-02T12:32:42Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Petrol sales rise 9.7%, diesel jumps 10.7% in July as delayed monsoon boosts demand: Report",
-      "description": "India\u2019s state-run fuel retailers saw strong year-on-year growth in petrol and diesel sales in July due to delayed monsoons boosting demand from motorists and agriculture, while LPG sales declined amid shifting consumer preferences.",
-      "url": "https://www.financialexpress.com/policy/economy/petrol-sales-rise-9-7-diesel-jumps-107-in-july-as-delayed-monsoon-boosts-demand-report/4308847/",
-      "image": "https://images.financialexpressdigital.com/2026/06/FUEL-PRICE.jpg",
-      "publishedAt": "2026-08-02T12:27:09Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Stock Market Watch: RBI MPC Decision, Q1 Results To Drive Markets This Week",
-      "description": "Key quarterly results from major companies will be released, amidst rising crude oil prices and heightened tensions in the Middle East., Markets, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-watch-rbi-mpc-decision-q1-results-to-drive-markets-this-week-article-155232094",
-      "image": "https://images.timesnownews.com/thumb/msid-155232096,thumbsize-490693,width-1280,height-720,resizemode-75/155232096.jpg",
-      "publishedAt": "2026-08-02T11:31:19Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "She attends college by day, works till 10 pm at a petrol pump to fund her studies",
-      "description": "A customer's brief exchange with a young petrol pump attendant revealed how she balances college by day and shifts by night to pay her fees. The account struck a chord online, prompting praise for her determination and wider discussion on student jobs.",
-      "url": "https://www.indiatoday.in/jobs/story/college-student-attends-classes-by-day-works-nights-at-petrol-pump-to-fund-her-studies-educ-2961708-2026-08-02",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/she-attends-college-by-day--works-till-10-pm-at-a-petrol-pump-to-fund-her-studies-image-source-x-02533288-16x9_0.jpg?VersionId=NdjZ3WKEjIu8Op7yWhvmLuzoSA790ulq",
-      "publishedAt": "2026-08-02T10:56:37Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Petrol, diesel consumption surge in July amid lower-than-usual monsoons",
-      "description": "July witnessed a surge in petrol and diesel consumption due to lower monsoon rains, while LPG use declined significantly.",
-      "url": "https://www.thehindu.com/business/Economy/petrol-diesel-consumption-surge-in-july-amid-lower-than-usual-monsoons/article71297521.ece",
-      "image": "https://th-i.thgim.com/public/incoming/lt2t5e/article71297542.ece/alternates/LANDSCAPE_1200/PETROL%20PRICE%20HIKE%20DELHI%202026_26_05_11.jpg",
-      "publishedAt": "2026-08-02T10:40:20Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "NGT impleads HPCL, fuel outlet dealer in Kovilambakkam groundwater contamination case",
-      "description": "NGT includes HPCL and a BPCL dealer in Kovilambakkam groundwater contamination case amid residents' concerns over petrol leaks.",
-      "url": "https://www.thehindu.com/news/cities/chennai/ngt-impleads-hpcl-fuel-outlet-dealer-in-kovilambakkam-groundwater-contamination-case/article71297473.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-08-02T10:36:02Z",
-      "source": {
-        "name": "The Hindu"
       }
     }
   ]
