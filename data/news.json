@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-03T14:15:12+00:00",
+  "updated_at": "2026-08-03T19:18:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
-      "description": "International Business News: Oil prices tumbled more than 6% on Monday as hopes of a diplomatic breakthrough between the United States and Iran erased part of last month's rally. .",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132816367,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-03T02:03:00Z",
+      "title": "Kejriwal to march to PM residence over E20 petrol, alleges Centre 'yielded' to Trump",
+      "description": "New Delhi, Aug 3 (PTI) AAP national convenor Arvind Kejriwal on Monday said he will march to Prime Minister Narendra Modi\u2019s residence Tuesday with 100 people to submit petitions against E20 fuel, alleging the Centre is pushing it under pressure from US President Donald Trump. Kejriwal alleged that India has \u201cyielded\u201d to Trump to buy [\u2026]",
+      "url": "https://theprint.in/india/kejriwal-to-march-to-pm-residence-over-e20-petrol-alleges-centre-yielded-to-trump/3003949/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-08-03T07:18:39Z",
       "source": {
-        "name": "Times of India"
+        "name": "ThePrint"
       }
     },
     {
-      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 August",
-      "description": "The Indian stock market is set to open positively on 3 August, bolstered by easing crude oil prices. The Sensex and Nifty 50 both closed higher on Friday, with expectations of further gains if key resistance levels are surpassed.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-3-august-11785720777778.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1785722154197_b718d214-e76d-4a66-8366-c66e92f7a09f.JPG",
-      "publishedAt": "2026-08-03T02:00:41Z",
+      "title": "Gold firms as oil prices slump after Trump holds off on Iran attack",
+      "description": "GOLD rose on Monday as oil prices fell after U.S. President Donald Trump held off on fresh attacks on Iran in hopes of a swift deal, slightly easing concerns over inflation and higher interest rates.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/08/03/gold-firms-as-oil-prices-slump-after-trump-holds-off-on-iran-attack",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/03/4041207.jpg",
+      "publishedAt": "2026-08-03T07:16:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Star"
       }
     },
     {
-      "title": "Gold gains as oil slumps after Trump holds off on Iran attack",
-      "description": "Gold prices saw an increase on Monday as oil prices declined. This shift occurred after President Donald Trump delayed further action against Iran. Eased concerns about inflation and interest rates influenced the precious metal's movement. Other precious metals like silver and platinum also experienced gains. Investors now await upcoming United States jobs reports for further market direction.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-as-oil-slumps-after-trump-holds-off-on-iran-attack/articleshow/132816408.cms",
-      "image": "https://img.etimg.com/thumb/msid-132816415,width-1200,height-630,imgsize-17746,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-03T01:58:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Yen leaps after intervention, leaving the dollar bruised",
-      "description": "The yen surged significantly after authorities intervened in foreign exchange markets. This intervention followed a substantial yen-buying operation by Japan last week. Other currencies like the euro and sterling also saw gains against the dollar. Oil prices fell after President Trump called off an attack on Iran. Investors now await US nonfarm payrolls data for economic clues.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-leaps-after-intervention-leaving-the-dollar-bruised/articleshow/132816394.cms",
-      "image": "https://img.etimg.com/thumb/msid-132816402,width-1200,height-630,imgsize-141180,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-03T01:56:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal",
-      "description": "Oil prices dropped significantly on Monday after President Trump paused new Iran attacks. He seeks a swift agreement to halt Tehran's nuclear program and reopen the Strait of Hormuz. This move follows a month of over twenty percent price jumps due to renewed conflict. OPEC+ approved an oil production increase, but market impact remains limited. Shipping data shows reduced traffic in the Strait of Hormuz after recent incidents.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-tumbles-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/articleshow/132816370.cms",
-      "image": "https://img.etimg.com/thumb/msid-132816382,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-03T01:53:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today - 3 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent falls on US-Iran deal optimism",
-      "description": "Petrol, diesel prices today \u2014 3 Aug: Retail fuel rates held steady on 3 August, despite a drop in Brent crude caused by news of renewed US-Iran talks. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-3-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-falls-on-us-iran-deal-optimism-11785717815445.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1785718657361_ca598e0e-094c-4331-9777-8f96ceb05a56.jpg",
-      "publishedAt": "2026-08-03T01:46:30Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Crude oil slumps 6% to $82 on hopes of Iran deal",
-      "description": "Oil prices \u200cskidded and stocks wobbled on Monday as hopes of peace in \u200bthe Middle East grew, while the yen jumped suddenly \u2060after the U.S. and Japan confirmed joint intervention to prop up the frail currency.",
-      "url": "https://www.thehindubusinessline.com/markets/crude-oil-slumps-6-to-82-on-hopes-of-iran-deal/article71299737.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/7yadkv/article71299740.ece/alternates/LANDSCAPE_1200/IMG_Falling_crude_oil_pr_2_1_F5DV53S2.jpg",
-      "publishedAt": "2026-08-03T01:43:58Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Sensex, Nifty Today: GIFT Nifty signals positive start as Crude slides below $85",
-      "description": "Share market today, August 03: The global markets trade mixed with Asian peers in the red while falling crude oil prices boost Indian investor sentiment. Nifty 50 and Sensex close higher as US and oil markets react to geopolitical shifts.",
-      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-03august2026-4309148/",
-      "image": "https://images.financialexpressdigital.com/2026/08/stockmarket_20260512131928_20260622010457_20260702013144_20260803012724.jpg",
-      "publishedAt": "2026-08-03T01:39:53Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Trading Plan: Will easing oil prices and falling VIX push the Nifty 50 above its July high and Bank Nifty toward 58,000?",
-      "description": "The Nifty 50 is expected to extend its rally towards the 24,500-24,600 zone, which is a crucial resistance area. A sustained move above this zone could open the door for 24,800-25,000, the next levels to watch. However, the 24,200-24,000 zone is expected to act as immediate support.",
-      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-easing-oil-prices-and-falling-vix-push-the-nifty-50-above-its-july-high-and-bank-nifty-toward-58-000-13991388.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718025230_sensex_nifty-marketup_sensexup-Niftyup.jpg",
-      "publishedAt": "2026-08-03T01:36:27Z",
+      "title": "'Will march to PM Modi's residence with 100 people tomorrow': Arvind Kejriwal doubles down on E20 petrol issue",
+      "description": "Kejriwal announced a 'National Town Hall' on Saturday to mobilise public support and declared his intent to hand over more than two lakh petitions to Prime Minister Narendra Modi this week.",
+      "url": "https://www.moneycontrol.com/news/india/i-ll-go-to-pm-modi-s-residence-with-100-people-tomorrow-arvind-kejriwal-doubles-down-on-e20-petrol-issue-13991959.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/01/20250130061736_Arvind-Kejriwal-Delhi-Election-2025.jpg",
+      "publishedAt": "2026-08-03T07:13:55Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "Traffic, fuel and an unexpected life lesson: Customer's encounter with a college student working at a petrol pump goes viral",
-      "description": "After noticing a young petrol pump attendant speaking in Hindi, a customer struck up a conversation that uncovered her relentless efforts to balance college and work. Her story is now inspiring social media.",
-      "url": "https://www.businesstoday.in/latest/trends/story/traffic-fuel-and-an-unexpected-life-lesson-customers-encounter-with-a-college-student-working-at-a-petrol-pump-goes-viral-546719-2026-08-03",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a6f3710c8335-wanting-to-know-more--vineeth-asked-how-she-had-ended-up-working-at-the-petrol-pump-022443555-16x9.png",
-      "publishedAt": "2026-08-03T01:30:03Z",
+      "title": "Drivers stealing almost \u00a3200k worth of fuel every day since start of Middle East crisis, report reveals",
+      "description": "An increase in the levels of abuse and aggression towards petrol station workers has also been reported",
+      "url": "https://www.lbc.co.uk/article/drivers-stealing-almost-200k-worth-of-fuel-5HjdfSd_2/",
+      "image": "https://images.globalplayer.com/images/832452?crop=16_9&width=1200&signature=ZlvNx8jLGpC35fiU4Nut8NR-IpE=",
+      "publishedAt": "2026-08-03T06:54:44Z",
       "source": {
-        "name": "Business Today"
+        "name": "LBC"
+      }
+    },
+    {
+      "title": "Centre fact checks myths around petrol prices - Lists 6 factors that decide retail rates",
+      "description": "The Union government clarified that petrol prices are influenced by multiple factors, not just crude oil rates. With recent oil price fluctuations, the Ministry of Petroleum blamed state governments for higher retail prices due to VAT.",
+      "url": "https://www.livemint.com/news/india/centre-fact-checks-myths-around-petrol-prices-lists-6-factors-that-decide-retail-rates-11785734064781.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/mm_1785738797406_1785738797608_bc2febdb-c8fc-4af7-9cf1-cfa8f7fbbdd7.jpg",
+      "publishedAt": "2026-08-03T06:40:32Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Decline Over 6% As Trump Hints Another Round Of Talks",
+      "description": "The volatility is linked to tensions surrounding the Iran conflict and the closure of the Strait of Hormuz. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-prices-decline-over-6-as-trump-hints-another-round-of-talks-article-155235373",
+      "image": "https://images.timesnownews.com/thumb/msid-155235420,thumbsize-3281321,width-1280,height-720,resizemode-75/155235420.jpg",
+      "publishedAt": "2026-08-03T06:34:28Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Asian stocks are mixed as yen jumps against the dollar, while oil prices slip",
+      "description": "Asian shares are mixed after the U.S. and Japan confirmed they had acted to prop up the value of the Japanese yen against the U.S. dollar. Oil prices fell sharply after U.S. President Donald Trump said he would order U.S. forces to refrain from attacks against Iran, claiming a deal to end the fighting in the Middle East was close. The dollar fell as low as 155.22 against the yen after Trump and Japanese officials confirmed they had intervened last week to curb the U.S. currency's rise to 40-year highs against the yen. Recently it traded near 164 yen. On Friday, the S&P 500 climbed 0.7% and the Dow added 0.5%. The Nasdaq composite jumped 1%.",
+      "url": "https://www.ajc.com/news/2026/08/asian-stocks-are-mixed-as-yen-jumps-against-the-dollar-while-oil-prices-slip/",
+      "image": "https://images.ajc.com/resizer/v2/627JP6ZQT5BXZPZEZXIOIS7P5I.jpg?auth=1b5164d42a2425fd547d76e8225137eaa43db234972527f48514811ccb37d5a4&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-03T06:22:33Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Asian stocks mixed as yen jumps against dollar, while oil prices fall",
+      "description": "BANGKOK, Aug 3: \u00a0Asian shares were mixed Monday after the US and Japan confirmed they had acted to prop up the value of the Japanese yen against the US dollar, causing the yen to rise to its highest level since...",
+      "url": "https://www.dailyexcelsior.com/asian-stocks-mixed-as-yen-jumps-against-dollar-while-oil-prices-fall/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTBhOTI3NDAwLThmMDMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-03T06:17:43Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Top News: Petrol prices expected to rise as fuel excise cut expires",
+      "description": "Listen to the Top News of 03/08/2026 in Hindi.",
+      "url": "https://www.sbs.com.au/language/hindi/en/podcast-episode/top-news-petrol-prices-expected-to-rise-as-fuel-excise-cut-expires/ys02438ur",
+      "image": "https://assets.sbs.com.au/dims4/default/4593fe9/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Fdrupal%2Fyourlanguage%2Fpublic%2Ffuel.jpg",
+      "publishedAt": "2026-08-03T06:16:10Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "Asian stocks mixed as yen jumps against dollar, while oil prices fall",
+      "description": "Asian stocks show mixed results as the yen strengthens against the dollar, while oil prices decline amid geopolitical tensions.",
+      "url": "https://www.thehindubusinessline.com/markets/asian-stocks-mixed-as-yen-jumps-against-dollar-while-oil-prices-fall/article71300032.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/wumi42/article71300041.ece/alternates/LANDSCAPE_1200/IMG_po02_demat_2_1_9JCSDK0L.jpg",
+      "publishedAt": "2026-08-03T06:00:48Z",
+      "source": {
+        "name": "The Hindu Business Line"
       }
     }
   ]
