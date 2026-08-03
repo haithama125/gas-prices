@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-03T09:21:21+00:00",
+  "updated_at": "2026-08-03T14:15:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol drivers face new HMRC per mile charges rate from September",
-      "description": "A new rate is set to be confirmed in the coming weeks, set to take effect from September 1.",
-      "url": "https://www.express.co.uk/life-style/cars/2235339/petrol-drivers-face-new-hmrc",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7074999.jpg",
-      "publishedAt": "2026-08-02T19:34:00Z",
+      "title": "Oil tumbles over 6% as Trump's Iran talks revive hopes of easing Middle East tensions",
+      "description": "International Business News: Oil prices tumbled more than 6% on Monday as hopes of a diplomatic breakthrough between the United States and Iran erased part of last month's rally. .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-tumbles-over-6-as-trumps-iran-talks-revive-hopes-of-easing-middle-east-tensions/articleshow/132816341.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132816367,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-03T02:03:00Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Oil prices drop after Trump orders US forces to hold off on new strikes against Iran",
-      "description": "Oil prices fell sharply Sunday after President Donald Trump said he would order U.S. forces to hold off on new strikes against Iran. NEW YORK (AP) \u2014",
-      "url": "https://www.breitbart.com/news/oil-prices-drop-after-trump-orders-us-forces-to-hold-off-on-new-strikes-against-iran/",
-      "image": "https://media.breitbart.com/media/2026/08/wi/ap/strait-of-hormuz-48934-strait-of-hormuz-cargo-ships-at-sea-strait-of-hormuz-viewed-rocky-sho-640x335.jpg",
-      "publishedAt": "2026-08-02T17:34:24Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Dalal Street Week Ahead: RBI policy, Q1 earnings, FII flow, geopolitical tensions, oil prices among 10 key factors to watch",
-      "description": "In the week starting August 3, the market sentiment is expected to remain positive, with investors focusing on the RBI's monetary policy decision, US-Iran commentary, geopolitical tensions, movements in oil prices, the next set of corporate earnings, FII flows, US jobs data, and Manufacturing and Services Purchasing Managers' Index (PMI) readings.",
-      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-rbi-policy-q1-earnings-fii-flow-geopolitical-tensions-oil-prices-among-10-key-factors-to-watch-13991321.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260701081922_up.jpeg",
-      "publishedAt": "2026-08-02T16:47:43Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Crude Oil Price Dives as OPEC+ Agrees to Another Supply Hike",
-      "description": "Crude oil prices plunged in the perpetual futures market after President Trump eased fears of an imminent escalation with Iran.",
-      "url": "https://www.benzinga.com/markets/commodities/26/08/60862086/crude-oil-price-dives-as-opec-agrees-to-another-supply-hike",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/02/Oil-Pump-In-The-Desert-Of-Bahrain--Middl.jpg",
-      "publishedAt": "2026-08-02T16:31:38Z",
-      "source": {
-        "name": "Benzinga"
-      }
-    },
-    {
-      "title": "Piped gas demand rises as India's LPG sales fall; petrol, diesel consumption jumps in July",
-      "description": "Combined petrol sales by Indian Oil Corp, Bharat Petroleum Corp and Hindustan Petroleum Corp rose 9.7 per cent to 3.45 million tonnes in July",
-      "url": "https://www.livemint.com/news/india/piped-gas-demand-rises-as-indias-lpg-sales-fall-petrol-diesel-consumption-jumps-in-july-11785683699938.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/02/1600x900/ANI-20260709069-0_1783731518086_1783731542748_b195b34c-92bd-4db9-893a-73d90f2bf071_1785683909117_da7992dd-9108-4800-b5c3-2d933fa0c0d0.jpg",
-      "publishedAt": "2026-08-02T16:23:16Z",
+      "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 3 August",
+      "description": "The Indian stock market is set to open positively on 3 August, bolstered by easing crude oil prices. The Sensex and Nifty 50 both closed higher on Friday, with expectations of further gains if key resistance levels are surpassed.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-3-august-11785720777778.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/INDIA-FUNDS-ABSL-AMC-0_1742379066038_1785722154197_b718d214-e76d-4a66-8366-c66e92f7a09f.JPG",
+      "publishedAt": "2026-08-03T02:00:41Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "E20 petrol should be banned until technology improves: Prakash Ambedkar",
-      "description": "Mumbai, Aug 2 (PTI) Vanchit Bahujan Aghadi chief Prakash Ambedkar on Sunday demanded an immediate review of the Centre\u2019s ethanol-blended petrol policy, saying the use of E20 petrol should be banned until appropriate technology for the fuel was available. Talking to reporters here, Ambedkar said his party is opposed to ethanol-blended petrol and claimed that [\u2026]",
-      "url": "https://theprint.in/india/e20-petrol-should-be-banned-until-technology-improves-prakash-ambedkar/3003713/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-08-02T16:18:35Z",
+      "title": "Gold gains as oil slumps after Trump holds off on Iran attack",
+      "description": "Gold prices saw an increase on Monday as oil prices declined. This shift occurred after President Donald Trump delayed further action against Iran. Eased concerns about inflation and interest rates influenced the precious metal's movement. Other precious metals like silver and platinum also experienced gains. Investors now await upcoming United States jobs reports for further market direction.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-as-oil-slumps-after-trump-holds-off-on-iran-attack/articleshow/132816408.cms",
+      "image": "https://img.etimg.com/thumb/msid-132816415,width-1200,height-630,imgsize-17746,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-03T01:58:00Z",
       "source": {
-        "name": "ThePrint"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "The noise of oil prices",
-      "description": "Oil prices have become hostage to headlines. Traditionally driven by supply and demand fundamentals, oil markets today find themselves at the mercy of geopolitical developments.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/08/03/the-noise-of-oil-prices",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/01/4038167.jpg",
-      "publishedAt": "2026-08-02T16:00:00Z",
+      "title": "Yen leaps after intervention, leaving the dollar bruised",
+      "description": "The yen surged significantly after authorities intervened in foreign exchange markets. This intervention followed a substantial yen-buying operation by Japan last week. Other currencies like the euro and sterling also saw gains against the dollar. Oil prices fell after President Trump called off an attack on Iran. Investors now await US nonfarm payrolls data for economic clues.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-leaps-after-intervention-leaving-the-dollar-bruised/articleshow/132816394.cms",
+      "image": "https://img.etimg.com/thumb/msid-132816402,width-1200,height-630,imgsize-141180,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-03T01:56:00Z",
       "source": {
-        "name": "The Star"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Did Iran agree to open the Strait of Hormuz? State media clears air on \u2018compromise proposal\u2019",
-      "description": "While a US-Qatari mediated proposal suggests Iran could collect transit fees, Iran's Revolutionary Guards deny any agreement, raising concerns for global energy routes and oil prices",
-      "url": "https://www.theweek.in/news/middle-east/2026/08/02/did-iran-agree-to-open-the-strait-of-hormuz-state-media-clears-air-on-compromise-proposal.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/middle-east/images/2026/7/14/uae-iran-strait-of-hormuz-afp.jpg",
-      "publishedAt": "2026-08-02T14:44:20Z",
+      "title": "Oil tumbles as Trump cancels attack on Iran to reach nuclear deal",
+      "description": "Oil prices dropped significantly on Monday after President Trump paused new Iran attacks. He seeks a swift agreement to halt Tehran's nuclear program and reopen the Strait of Hormuz. This move follows a month of over twenty percent price jumps due to renewed conflict. OPEC+ approved an oil production increase, but market impact remains limited. Shipping data shows reduced traffic in the Strait of Hormuz after recent incidents.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-tumbles-as-trump-cancels-attack-on-iran-to-reach-nuclear-deal/articleshow/132816370.cms",
+      "image": "https://img.etimg.com/thumb/msid-132816382,width-1200,height-630,imgsize-83072,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-03T01:53:00Z",
       "source": {
-        "name": "THE WEEK"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Tripp Skipper: Wars don\u2019t decide midterm elections. Gas prices do.",
-      "description": "Americans aren\u2019t grading President Trump on military strategy. They\u2019re grading him every time they stop at the gas pump, walk through the grocery store, or open their monthly credit card statement.",
-      "url": "https://www.al.com/politics/2026/08/tripp-skipper-wars-dont-decide-midterm-elections-gas-prices-do.html",
-      "image": "https://www.al.com/resizer/v2/ZQ5WHA66MNHI3P77EDL7BXJWIE.jpg?auth=506a1959ba91a5a71140ae80220370c18382f1878ab967fdb0d5305784e62d09&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-02T14:28:29Z",
+      "title": "Petrol, diesel prices today - 3 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Brent falls on US-Iran deal optimism",
+      "description": "Petrol, diesel prices today \u2014 3 Aug: Retail fuel rates held steady on 3 August, despite a drop in Brent crude caused by news of renewed US-Iran talks. Check fuel rates in Delhi, Mumbai, Bengaluru, Kolkata and other cities.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-3-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-falls-on-us-iran-deal-optimism-11785717815445.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/03/1600x900/logo/2-0-1242954145-Petrol-pump-5-0_1679616097740_1785718657361_ca598e0e-094c-4331-9777-8f96ceb05a56.jpg",
+      "publishedAt": "2026-08-03T01:46:30Z",
       "source": {
-        "name": "AL.com"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Petrol, Diesel Sales Surge As Agriculture Activity Picks Up In July",
-      "description": "The data showed that diesel sales, a key indicator of economic activity in India, also rose 10.7 per cent year-on-year to 7.12 million tonnes in July from 6.43 million tonnes a year earlier",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/petrol-diesel-sales-surge-as-agriculture-activity-picks-up-in-july-1976007",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/08/02/2071478-petrol.jpg",
-      "publishedAt": "2026-08-02T13:28:08Z",
+      "title": "Crude oil slumps 6% to $82 on hopes of Iran deal",
+      "description": "Oil prices \u200cskidded and stocks wobbled on Monday as hopes of peace in \u200bthe Middle East grew, while the yen jumped suddenly \u2060after the U.S. and Japan confirmed joint intervention to prop up the frail currency.",
+      "url": "https://www.thehindubusinessline.com/markets/crude-oil-slumps-6-to-82-on-hopes-of-iran-deal/article71299737.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/7yadkv/article71299740.ece/alternates/LANDSCAPE_1200/IMG_Falling_crude_oil_pr_2_1_F5DV53S2.jpg",
+      "publishedAt": "2026-08-03T01:43:58Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Sensex, Nifty Today: GIFT Nifty signals positive start as Crude slides below $85",
+      "description": "Share market today, August 03: The global markets trade mixed with Asian peers in the red while falling crude oil prices boost Indian investor sentiment. Nifty 50 and Sensex close higher as US and oil markets react to geopolitical shifts.",
+      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-03august2026-4309148/",
+      "image": "https://images.financialexpressdigital.com/2026/08/stockmarket_20260512131928_20260622010457_20260702013144_20260803012724.jpg",
+      "publishedAt": "2026-08-03T01:39:53Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Trading Plan: Will easing oil prices and falling VIX push the Nifty 50 above its July high and Bank Nifty toward 58,000?",
+      "description": "The Nifty 50 is expected to extend its rally towards the 24,500-24,600 zone, which is a crucial resistance area. A sustained move above this zone could open the door for 24,800-25,000, the next levels to watch. However, the 24,200-24,000 zone is expected to act as immediate support.",
+      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-easing-oil-prices-and-falling-vix-push-the-nifty-50-above-its-july-high-and-bank-nifty-toward-58-000-13991388.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718025230_sensex_nifty-marketup_sensexup-Niftyup.jpg",
+      "publishedAt": "2026-08-03T01:36:27Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Traffic, fuel and an unexpected life lesson: Customer's encounter with a college student working at a petrol pump goes viral",
+      "description": "After noticing a young petrol pump attendant speaking in Hindi, a customer struck up a conversation that uncovered her relentless efforts to balance college and work. Her story is now inspiring social media.",
+      "url": "https://www.businesstoday.in/latest/trends/story/traffic-fuel-and-an-unexpected-life-lesson-customers-encounter-with-a-college-student-working-at-a-petrol-pump-goes-viral-546719-2026-08-03",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a6f3710c8335-wanting-to-know-more--vineeth-asked-how-she-had-ended-up-working-at-the-petrol-pump-022443555-16x9.png",
+      "publishedAt": "2026-08-03T01:30:03Z",
+      "source": {
+        "name": "Business Today"
       }
     }
   ]
