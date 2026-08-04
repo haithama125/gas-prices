@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-04T13:47:17+00:00",
+  "updated_at": "2026-08-04T19:18:03+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Yen clings to intervention gains as traders stay alert to more",
-      "description": "The yen maintained intervention-driven gains after joint Tokyo and Washington action. Speculators are wary of rebuilding bearish positions, which supports the currency. The dollar is nursing losses following the yen intervention and falling oil prices. Investors sold the dollar after the Federal Reserve kept interest rates on hold. This week's jobs report is a key input for the eventual tightening cycle.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-clings-to-intervention-gains-as-traders-stay-alert-to-more/articleshow/132843980.cms",
-      "image": "https://img.etimg.com/thumb/msid-132843987,width-1200,height-630,imgsize-141670,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-04T01:45:00Z",
+      "title": "Aramco's Q2 profit jumps 33% as Iran war boosts oil prices",
+      "description": "Saudi Aramco's Q2 profit surged 33% to $33.4B, fueled by high oil prices and Red Sea exports bypassing the Strait of Hormuz.",
+      "url": "https://www.cnbctv18.com/market/aramcos-q2-profit-jumps-33-iran-war-boosts-oil-prices-19961204.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/saudi-aramco-crude-oil-2026-07-296b380c19d8b3d1e0b730bc45e00714.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-04T07:07:52Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Explained: Why Dow Jones closed at lifetime high despite caution over AI frenzy",
+      "description": "Wall Street rallied sharply on Monday, with the Dow hitting a record high as easing oil prices and strong tech earnings lifted investor sentiment. The Dow gained over 1%, while the Nasdaq surged more than 2% and the S&P 500 rose 1.5%, nearing its record high.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-dow-jones-closed-at-lifetime-high-despite-caution-over-ai-frenzy/articleshow/132850484.cms",
+      "image": "https://img.etimg.com/thumb/msid-132850767,width-1200,height-630,imgsize-71528,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-04T06:59:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Dow hits fresh record as oil prices tumble",
-      "description": "NEW YORK, Aug 4 \u2014 Oil prices slumped and stocks mostly rose yesterday after US President Donald Trump insisted negotiations with Iran were ongoing despite Tehran's...",
-      "url": "https://www.malaymail.com/news/money/2026/08/04/dow-hits-fresh-record-as-oil-prices-tumble/230148",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/04/355397.jpg",
-      "publishedAt": "2026-08-04T01:44:34Z",
+      "title": "Oil Prices Tumble After Trump Pauses Iran Strikes; Is The Hormuz Risk Really Over?",
+      "description": "Oil prices tumble after Trump\u2019s Iran comments ease conflict fears. Traders cut the war premium, but Hormuz risks and supply uncertainty remain.",
+      "url": "https://www.newsx.com/business/oil-prices-tumble-after-trump-pauses-iran-strikes-is-the-hormuz-risk-really-over-256494/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/08/trump-oil-0408.jpg",
+      "publishedAt": "2026-08-04T06:54:33Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "NewsX"
       }
     },
     {
-      "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
-      "description": "Oil prices saw a slight rebound on Tuesday after earlier declines. Concerns over Middle Eastern supply remain high due to U.S.-Iran tensions. Diplomatic resolution to the conflict appears unlikely at this time. Shipments through the Strait of Hormuz continue to face risks. Market analysts note the fragility of current price stability.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-up-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain/articleshow/132843973.cms",
-      "image": "https://img.etimg.com/thumb/msid-132843976,width-1200,height-630,imgsize-43944,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-04T01:42:00Z",
+      "title": "BP profits more than double as Iran war sends oil prices soaring",
+      "description": "Energy company\u2019s $5.73bn quarterly profits come after Shell posted second highest quarterly earnings on record",
+      "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
+      "image": "https://i.guim.co.uk/img/media/6f72596ac717ce7fbeb0e21056e95b484829e050/752_1202_2653_2122/master/2653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd6806f7863be49ddfe67cde66e2ba29",
+      "publishedAt": "2026-08-04T06:54:30Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "From Gift Nifty to RBI MPC meeting, crude oil prices: 8 key things that changed for Indian stock market overnight",
-      "description": "Gift Nifty was trading around the 24,628 level, a discount of nearly 21.40 points from the Nifty futures\u2019 previous close, indicating a gap-up start for the Indian stock market indices.",
-      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785805530627.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/stock_1785807158910_1785807159082_d37fa567-3f70-4c55-aeb2-9475e0cad01f.JPG",
-      "publishedAt": "2026-08-04T01:39:28Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Sensex, Nifty Today: GIFT Nifty signals cautious start despite rally in US; crude continues below $85",
-      "description": "Share market today, August 04: Global markets show mixed trends with Asian peers cautious and Indian markets signaling a negative start. Oil prices fall and gold trades higher amid shifting investor sentiment on August 4, 2026.",
-      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-04august2026-4309858/",
-      "image": "https://images.financialexpressdigital.com/2026/08/ShareMarket3Reuters_20260619011207_20260629012156_20260703145046_20260804012331.jpg",
-      "publishedAt": "2026-08-04T01:36:03Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Kejriwal E20 protest Live: Kejriwal to march to PM's residence against E20; cops deny permission",
-      "description": "Arvind Kejriwal E20 march live: Arvind Kejriwal on Monday announced that he would lead a march of 100 people to Prime Minister Narendra Modi's residence on Tuesday to submit public petitions opposing E20 petrol. The AAP national convener alleged that the Centre was promoting ethanol-blended fuel under pressure from US President Donald Trump, claiming India had \"yielded\" to buy ethanol from the United States. Addressing a press conference, Kejriwal questioned why the government continued to push E20 despite complaints from vehicle owners, alleging there was a \"hidden agenda\" behind the policy. He said the delegation would personally hand over the petitions to the Prime Minister and seek a discussion on the concerns surrounding ethanol-blended petrol. Follow this space for all the live updates.",
-      "url": "https://www.indiatoday.in/india/story/aap-arvind-kejriwal-e20-petrol-nitin-gadkari-protest-pm-modi-residence-2962860-2026-08-04",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202608/kejriwal-said-the-ethanol-townhall-organised-by-the-aap-last-week-was-a-huge-success-043212597-16x9_0.png?VersionId=JDcKSWvfc7Tc30fDkeIhZX4b.rnBHh80",
-      "publishedAt": "2026-08-04T01:32:56Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Asia stocks move higher on Wall Street lead, oil steady",
-      "description": "SINGAPORE: Asian markets made cautious gains at the start of trading as investors followed a global rally, with oil prices holding near the lowest levels in weeks as the U.S.-Iran conflict remained at a stalemate.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/08/04/asia-stocks-move-higher-on-wall-street-lead-oil-steady",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042431.jpg",
-      "publishedAt": "2026-08-04T01:26:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Bursa Malaysia holds steady after Wall St rally, crude oil price tumbles",
-      "description": "KUALA LUMPUR: Optimism is building on the domestic market after Wall Street's overnight rally, as investors cheered on the decline in oil prices amid the US' and Iran's efforts to hammer out a lasting peace deal.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/08/04/bursa-malaysia-holds-steady-after-wall-st-rally-crude-oil-price-tumbles",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042428.jpg",
-      "publishedAt": "2026-08-04T01:16:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
-      "description": "Oil prices rebounded 1 per cent on Tuesday (Aug 4) from a plunge in the previous session, fuelled by concerns that Middle East supply remains at risk as a diplomatic resolution to the US-Iran war that has disrupted shipm",
-      "url": "https://www.channelnewsasia.com/world/oil-price-iran-war-us-talks-uncertain-6296486",
-      "image": "https://dam.mediacorp.sg/image/upload/s--R8IOIumP--/c_crop,h_450,w_800,x_0,y_43/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-28T170242Z_1_LYNXMPEM6R1IE_RTROPTP_3_USA-OIL-PERMIAN.JPG?itok=Xr5oA8L9",
-      "publishedAt": "2026-08-04T01:02:00Z",
-      "source": {
-        "name": "CNA"
-      }
-    },
-    {
-      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
-      "description": "United States President Donald Trump has lambasted the nation\u2019s biggest oil and gas giants as Houston, Texas-based Chevron reported record earnings while",
-      "url": "https://www.europesays.com/3172724/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/afp_6a70f2cbc203-1785787083.jpg",
-      "publishedAt": "2026-08-04T00:56:30Z",
+      "title": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
+      "description": "A sign at BP Plc petrol station in London, UK, on Monday, Aug. 4, 2025.",
+      "url": "https://www.europesays.com/3173199/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/108289673-1775815842478-gettyimages-2227922173-UK_BP.jpeg",
+      "publishedAt": "2026-08-04T06:43:15Z",
       "source": {
         "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Quant MF ups IT exposure as sector enters \u2018neglected territory\u2019; sees crude correction",
+      "description": "Quant Mutual Fund has raised its exposure to IT services over the past two months, viewing the sector as increasingly \u201cneglected\u201d and offering attractive opportunities. Its predictive analytics model also expects crude oil prices to gradually decline over the coming months, which the fund house believes could support Indian equities.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/quant-mf-ups-it-exposure-as-sector-enters-neglected-territory-sees-crude-correction/articleshow/132848986.cms",
+      "image": "https://img.etimg.com/thumb/msid-132849442,width-1200,height-630,imgsize-111676,overlay-etwealthmutualfunds/articleshow.jpg",
+      "publishedAt": "2026-08-04T06:28:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil rebounds as markets trade mixed following Wall Street rally",
+      "description": "Asian shares were mixed on Tuesday morning, while European pre-market data pointed to a slightly higher open following a Wall Street rally supported by easing oil prices.",
+      "url": "https://www.euronews.com/business/2026/08/04/oil-rebounds-as-markets-trade-mixed-following-wall-street-rally",
+      "image": "https://images.euronews.com/articles/stories/09/86/13/62/1200x675_cmsv2_4148aab2-5a83-5b2c-9535-6778e81b348d-9861362.jpg",
+      "publishedAt": "2026-08-04T06:09:40Z",
+      "source": {
+        "name": "Euronews"
+      }
+    },
+    {
+      "title": "Video: Malaika Arora Buys New Mahindra Thar Roxx Worth Nearly \u20b928 Lakh, Performs Puja Outside Mumbai Residence",
+      "description": "Actress Malaika Arora has purchased a new Mahindra Thar Roxx worth nearly \u20b928 lakh. A viral video shows her performing a traditional puja while taking delivery of the SUV at her residence. The five-door off-roader, launched in 2024, is available with petrol and diesel engines and has become a popular choice among celebrities and adventure enthusiasts",
+      "url": "https://www.freepressjournal.in/entertainment/video-malaika-arora-buys-new-mahindra-thar-roxx-worth-nearly-28-lakh-performs-puja-outside-mumbai-residence",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-04/nvlz8j05/Untitled-design-2026-08-04T112913.725.jpg",
+      "publishedAt": "2026-08-04T06:00:59Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Oil prices gain, Asian shares are mixed after rally on Wall Street",
+      "description": "TOKYO,\u00a0 Aug 4: \u00a0Asian shares were mixed on Tuesday following a rally on Wall Street that was helped by easing oil prices. Regional investors were still weighing the impact from last week's joint US-Japan currency intervention, analysts said. Japan's benchmark...",
+      "url": "https://www.dailyexcelsior.com/oil-prices-gain-asian-shares-are-mixed-after-rally-on-wall-street/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTZiYTRhNzIwLThmYzgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-04T05:50:37Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Oil Prices Rebound After Sharp Fall As US-Iran Tensions Keep Supply Risks Alive",
+      "description": "Oil prices recovered slightly on Tuesday after a steep decline in the previous session, as markets remained cautious over possible disruptions to Middle East crude supplies amid the US-Iran conflict. Brent and WTI gained over 1% each, while uncertainty over the Strait of Hormuz and stalled diplomatic efforts continued to weigh on sentiment",
+      "url": "https://www.freepressjournal.in/business/oil-prices-rebound-after-sharp-fall-as-us-iran-tensions-keep-supply-risks-alive",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-03/h8cndckb/Untitled-design-2026-08-03T153037.788.jpg",
+      "publishedAt": "2026-08-04T05:36:28Z",
+      "source": {
+        "name": "Free Press Journal"
       }
     }
   ]
