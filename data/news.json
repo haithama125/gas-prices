@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-04T01:26:57+00:00",
+  "updated_at": "2026-08-04T08:19:38+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil price falls but Trump and Iran clash on negotiations claim",
-      "description": "Oil prices drifted lower after Donald Trump called off strikes on Iran but progress to a fully-fledged peace deal continues to stall.",
-      "url": "https://www.cityam.com/oil-price-falls-but-trump-and-iran-clash-on-negotiations-claim/",
-      "image": "https://www.cityam.com/wp-content/uploads/2026/08/01KYWGQHBYY4W07K1R8JFRHP8H.jpeg",
-      "publishedAt": "2026-08-03T13:21:31Z",
+      "title": "Housing downturn accelerates, oil prices fall",
+      "description": "Australia's property downturn is accelerating - and widening - as higher interest rates and unease over tax changes continue to impact buyer activity. The latest data from Cotality shows national property prices fell 0.7 per cent in July. For more, Jasmine Kassis spoke with Cotality Head of Research Gerard Burg. Also, the Australian share market reversed earlier losses to finish higher, helped by oil prices falling more than five per cent as Donald Trump called off planned strikes on Iran. For more, Rena Sarumpaet spoke with Sarto Advisory analyst David Walsh.",
+      "url": "https://www.sbs.com.au/news/podcast-episode/housing-downturn-accelerates-oil-prices-fall/ynljbk9dq",
+      "image": "https://assets.sbs.com.au/dims4/default/b90f529/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8a%2F8b%2F031adf254ba3a6df1581a3248cf4%2Fotm-real-estate-aap.jpg",
+      "publishedAt": "2026-08-03T20:17:58Z",
       "source": {
-        "name": "City A.M."
+        "name": "SBS Australia"
       }
     },
     {
-      "title": "Woman's fury as neighbour mows her lawn without permission - then asks to be paid",
-      "description": "A woman has been left fuming after her neighbour ignored her request to stop mowing her lawn - and has now dropped hints that she should chip in for the petrol costs",
-      "url": "https://www.walesonline.co.uk/news/real-life/womans-fury-neighbour-mows-lawn-34396000",
-      "image": "https://i2-prod.walesonline.co.uk/article34395999.ece/ALTERNATES/s1200d/0_Mature-man-listening-to-music-while-mowing-lawn.jpg",
-      "publishedAt": "2026-08-03T13:17:20Z",
+      "title": "US stocks rally near a record as falling oil prices ease Wall Street's worries about inflation",
+      "description": "U.S. stocks rallied to the edge of their all-time high after easing oil prices helped calm Wall Street\u2019s worries that inflation could get even worse. The S&P 500 jumped 1.5% Monday and is just 0.1% below its record set earlier this summer. The Dow Jones Industrial Average added 1.3%, and the Nasdaq composite climbed 2.1%. Brent crude's price fell 4.7% after President Donald Trump said he would hold off on ordering new strikes against Iran. That helped Treasury yields to fall in the bond market. Stocks of airlines and other companies with big fuel bills rallied.",
+      "url": "https://www.ajc.com/news/2026/08/us-stocks-rally-near-a-record-as-falling-oil-prices-ease-wall-streets-worries-about-inflation/",
+      "image": "https://images.ajc.com/resizer/v2/NC6F3YHMJNCK5OBY2J6MT3QOEM.jpg?auth=d4422d1d6a31cdbfe2ae87ab55fd9901a9ca07ff8145c1dadd7b1b6ed6a0e042&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-03T20:11:51Z",
       "source": {
-        "name": "South Wales Echo"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Chevron Stock Moves Higher Strong Results -Shorting CVX Puts and Calls Works Here",
-      "description": "Chevron stock rose Friday on strong Q2 results. If oil and gas prices stay elevated, CVX stock could be undervalued. Shorting out-of-the-money CVX puts and calls is an attractive play here.",
-      "url": "https://www.barchart.com/story/news/3612630/chevron-stock-moves-higher-strong-results-shorting-cvx-puts-and-calls-works-here",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Energy/Chevron%20Corp_%20gas%20station-%20by%20MattGush%20via%20iStock.jpg",
-      "publishedAt": "2026-08-03T13:15:01Z",
+      "title": "Stock Market Today: Dow Surges to Record Close As Tech Rallies, Oil Falls",
+      "description": "The Dow notched a record on Monday as traders cheered lower oil prices and a fresh rally in tech stocks following a week of strong volatility.",
+      "url": "https://www.businessinsider.com/stock-market-today-dow-sp500-nasdaq-record-highs-026-8",
+      "image": "https://i.insider.com/6a70f2ac97a2276a3423cb08?width=1200&format=jpeg",
+      "publishedAt": "2026-08-03T20:11:49Z",
       "source": {
-        "name": "Barchart"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6%",
-      "description": "Stock markets rise for the fourth day as crude oil prices fall sharply; Nifty gains 1.6% amid foreign fund inflows.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-take-winning-run-to-4th-day-as-crude-oil-prices-drop-sharply-nifty-surges-16/article71301115.ece",
-      "image": "https://th-i.thgim.com/public/incoming/doa7ks/article71301176.ece/alternates/LANDSCAPE_1200/20260713083L.jpg",
-      "publishedAt": "2026-08-03T12:39:39Z",
+      "title": "Trump Says Exxon and Chevron Profited Too Much During Iran War Oil Spike",
+      "description": "Trump says Exxon and Chevron profited too much as Iran war lifted oil prices, after Q2 earnings hit $14.5B and $12B.",
+      "url": "https://coingape.com/trump-says-exxon-and-chevron-profited-too-much-during-iran-war-oil-spike/",
+      "image": "https://coingape.com/wp-content/uploads/2026/03/Breaking-Trump-Declares-Victory.webp",
+      "publishedAt": "2026-08-03T20:04:54Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CoinGape"
       }
     },
     {
-      "title": "Dow futures jump over 500 points after Trump cancels planned Iran strikes",
-      "description": "US stock futures rose at the start of the week after President Donald Trump said planned strikes against Iran had been halted and talks between the two countries would resume. The easing geopolitical tensions sent oil prices sharply lower.",
-      "url": "https://www.cnbctv18.com/market/us-stock-markets-today-dow-jones-nasdaq-futures-trump-iran-19960672.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-22t170621073-2026-07-510eed23a4cf3322eda291581f8a042a.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-03T12:33:14Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Market wrap: TCS, IndiGo, Sun Pharma among top gainers and losers on Nifty and Sensex on Monday",
-      "description": "Indian benchmark indices surged on Monday after easing crude oil prices, sparked by renewed US-Iran talks, boosted investor sentiment. The Sensex jumped 544 points and the Nifty climbed 1.6%, adding nearly Rs 5 lakh crore to BSE market capitalisation. TCS, IndiGo and Infosys led gains, while Sun Pharma and Apollo Hospitals lagged.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-indigo-sun-pharma-among-top-gainers-and-losers-on-nifty-and-sensex-on-monday/articleshow/132831712.cms",
-      "image": "https://img.etimg.com/thumb/msid-132831712,width-1200,height-630,imgsize-146002,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-03T12:30:00Z",
+      "title": "US stocks: Dow closes at record high on Iran talks optimism",
+      "description": "US stocks opened August with strong gains, pushing the Dow Industrials to a record closing high. Easing oil prices and Treasury yields supported the market's upward movement. Communication services sector led gains, while energy experienced a decline. Amazon's market value surpassed three trillion dollars for the first time. Investors are now focused on upcoming economic data and corporate earnings reports.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
+      "image": "https://img.etimg.com/thumb/msid-132841052,width-1200,height-630,imgsize-17582,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-03T20:02:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Wall Street gains, oil prices tumble after Trump eases on Iran attacks",
-      "description": "Markets were poised to open with gains and oil prices fell sharply after Trump said he'd order US forces to refrain from attacking Iran.",
-      "url": "https://www.nydailynews.com/2026/08/03/wall-street-oil-prices-trump/",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street_98385.jpg?w=2000&h=1333",
-      "publishedAt": "2026-08-03T12:29:35Z",
+      "title": "US STOCKS-Wall Street rallies, Dow closes at record on Iran talks optimism",
+      "description": "U.S. stocks surged to a record high, driven by lower oil prices and Treasury yields, as de-escalating U.S.-Iran tensions eased investor concerns and boosted market sentiment.",
+      "url": "https://www.devdiscourse.com/article/business/3959090-us-stocks-wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-03T20:01:50Z",
       "source": {
-        "name": "New York Daily News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Wall Street gains, oil prices tumble after Trump eases on Iran attacks",
-      "description": "Markets were poised to open with gains and oil prices fell sharply after Trump said he'd order US forces to refrain from attacking Iran.",
-      "url": "https://www.pilotonline.com/2026/08/03/wall-street-oil-prices-trump/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street_98385.jpg?w=2000&h=1333",
-      "publishedAt": "2026-08-03T12:29:35Z",
+      "title": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
+      "description": "US President Donald Trump has accused ExxonMobil and Chevron of making excessive profits from high fuel prices, urging them to \"give some of that back to the public\".",
+      "url": "https://www.devdiscourse.com/article/business/3959085-trump-blasts-exxon-chevron-for-making-too-much-money-demands-lower-gasoline-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-03T19:45:01Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Wall Street gains, oil prices tumble after Trump eases on Iran attacks",
-      "description": "Markets were poised to open with gains and oil prices fell sharply after Trump said he'd order US forces to refrain from attacking Iran.",
-      "url": "https://www.sandiegouniontribune.com/2026/08/03/wall-street-oil-prices-trump/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street_98385.jpg?w=2000&h=1333",
-      "publishedAt": "2026-08-03T12:29:35Z",
+      "title": "Crude Oil Prices Sink as Talks Signal Progress on Reopening Strait of Hormuz",
+      "description": "September WTI crude oil (CLU26 ) closed down -4.33 (-5.11%) on Monday, and September RBOB gasoline (RBU26 ) closed down -0.1475 (-4.74%). Crude oil and gasoline prices settled sharply lower on Monday, with gasoline falling to a 3-week low. Easing te...",
+      "url": "https://www.barchart.com/story/news/3618738/crude-oil-prices-sink-as-talks-signal-progress-on-reopening-strait-of-hormuz",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
+      "publishedAt": "2026-08-03T19:14:52Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Wall Street gains, oil prices tumble after Trump eases on Iran attacks",
-      "description": "Markets were poised to open with gains and oil prices fell sharply after Trump said he'd order US forces to refrain from attacking Iran.",
-      "url": "https://www.pressdemocrat.com/2026/08/03/wall-street-oil-prices-trump/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street_98385.jpg?w=2000&h=1333",
-      "publishedAt": "2026-08-03T12:29:35Z",
+      "title": "Nat-Gas Prices Gain on Higher US LNG Exports",
+      "description": "September Nymex natural gas (NGU26 ) closed up +0.034 (+1.24%) on Monday. Nat-gas prices settled higher on Monday as increased flows to liquefied natural gas export terminals reduced US domestic supplies. Estimated LNG net flows to US LNG export ter...",
+      "url": "https://www.barchart.com/story/news/3618727/nat-gas-prices-gain-on-higher-us-lng-exports",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
+      "publishedAt": "2026-08-03T19:13:49Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Trump Hits Exxon, Chevron for Profits Amid Iran War He Launched",
+      "description": "President Donald Trump scolded ExxonMobil Holdings Corp. and Chevron Corp. for their soaring profits, as oil prices surged amid the war in Iran he launched in Febru\u2026",
+      "url": "https://financialpost.com/pmn/business-pmn/trump-hits-exxon-chevron-for-profits-amid-iran-war-he-launched",
+      "image": "https://dcs-static.gprod.postmedia.digital/21.7.0/websites/images/postmedia-image-fallback.png",
+      "publishedAt": "2026-08-03T19:03:25Z",
+      "source": {
+        "name": "Financial Post"
       }
     }
   ]
