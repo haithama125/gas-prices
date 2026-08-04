@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-04T08:19:38+00:00",
+  "updated_at": "2026-08-04T13:47:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Housing downturn accelerates, oil prices fall",
-      "description": "Australia's property downturn is accelerating - and widening - as higher interest rates and unease over tax changes continue to impact buyer activity. The latest data from Cotality shows national property prices fell 0.7 per cent in July. For more, Jasmine Kassis spoke with Cotality Head of Research Gerard Burg. Also, the Australian share market reversed earlier losses to finish higher, helped by oil prices falling more than five per cent as Donald Trump called off planned strikes on Iran. For more, Rena Sarumpaet spoke with Sarto Advisory analyst David Walsh.",
-      "url": "https://www.sbs.com.au/news/podcast-episode/housing-downturn-accelerates-oil-prices-fall/ynljbk9dq",
-      "image": "https://assets.sbs.com.au/dims4/default/b90f529/2147483647/strip/true/crop/1800x1013+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F8a%2F8b%2F031adf254ba3a6df1581a3248cf4%2Fotm-real-estate-aap.jpg",
-      "publishedAt": "2026-08-03T20:17:58Z",
-      "source": {
-        "name": "SBS Australia"
-      }
-    },
-    {
-      "title": "US stocks rally near a record as falling oil prices ease Wall Street's worries about inflation",
-      "description": "U.S. stocks rallied to the edge of their all-time high after easing oil prices helped calm Wall Street\u2019s worries that inflation could get even worse. The S&P 500 jumped 1.5% Monday and is just 0.1% below its record set earlier this summer. The Dow Jones Industrial Average added 1.3%, and the Nasdaq composite climbed 2.1%. Brent crude's price fell 4.7% after President Donald Trump said he would hold off on ordering new strikes against Iran. That helped Treasury yields to fall in the bond market. Stocks of airlines and other companies with big fuel bills rallied.",
-      "url": "https://www.ajc.com/news/2026/08/us-stocks-rally-near-a-record-as-falling-oil-prices-ease-wall-streets-worries-about-inflation/",
-      "image": "https://images.ajc.com/resizer/v2/NC6F3YHMJNCK5OBY2J6MT3QOEM.jpg?auth=d4422d1d6a31cdbfe2ae87ab55fd9901a9ca07ff8145c1dadd7b1b6ed6a0e042&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-03T20:11:51Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Stock Market Today: Dow Surges to Record Close As Tech Rallies, Oil Falls",
-      "description": "The Dow notched a record on Monday as traders cheered lower oil prices and a fresh rally in tech stocks following a week of strong volatility.",
-      "url": "https://www.businessinsider.com/stock-market-today-dow-sp500-nasdaq-record-highs-026-8",
-      "image": "https://i.insider.com/6a70f2ac97a2276a3423cb08?width=1200&format=jpeg",
-      "publishedAt": "2026-08-03T20:11:49Z",
-      "source": {
-        "name": "Business Insider"
-      }
-    },
-    {
-      "title": "Trump Says Exxon and Chevron Profited Too Much During Iran War Oil Spike",
-      "description": "Trump says Exxon and Chevron profited too much as Iran war lifted oil prices, after Q2 earnings hit $14.5B and $12B.",
-      "url": "https://coingape.com/trump-says-exxon-and-chevron-profited-too-much-during-iran-war-oil-spike/",
-      "image": "https://coingape.com/wp-content/uploads/2026/03/Breaking-Trump-Declares-Victory.webp",
-      "publishedAt": "2026-08-03T20:04:54Z",
-      "source": {
-        "name": "CoinGape"
-      }
-    },
-    {
-      "title": "US stocks: Dow closes at record high on Iran talks optimism",
-      "description": "US stocks opened August with strong gains, pushing the Dow Industrials to a record closing high. Easing oil prices and Treasury yields supported the market's upward movement. Communication services sector led gains, while energy experienced a decline. Amazon's market value surpassed three trillion dollars for the first time. Investors are now focused on upcoming economic data and corporate earnings reports.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-dow-closes-at-record-high-on-iran-talks-optimism/articleshow/132841035.cms",
-      "image": "https://img.etimg.com/thumb/msid-132841052,width-1200,height-630,imgsize-17582,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-03T20:02:00Z",
+      "title": "Yen clings to intervention gains as traders stay alert to more",
+      "description": "The yen maintained intervention-driven gains after joint Tokyo and Washington action. Speculators are wary of rebuilding bearish positions, which supports the currency. The dollar is nursing losses following the yen intervention and falling oil prices. Investors sold the dollar after the Federal Reserve kept interest rates on hold. This week's jobs report is a key input for the eventual tightening cycle.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-clings-to-intervention-gains-as-traders-stay-alert-to-more/articleshow/132843980.cms",
+      "image": "https://img.etimg.com/thumb/msid-132843987,width-1200,height-630,imgsize-141670,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-04T01:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "US STOCKS-Wall Street rallies, Dow closes at record on Iran talks optimism",
-      "description": "U.S. stocks surged to a record high, driven by lower oil prices and Treasury yields, as de-escalating U.S.-Iran tensions eased investor concerns and boosted market sentiment.",
-      "url": "https://www.devdiscourse.com/article/business/3959090-us-stocks-wall-street-rallies-dow-closes-at-record-on-iran-talks-optimism",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-03T20:01:50Z",
+      "title": "Dow hits fresh record as oil prices tumble",
+      "description": "NEW YORK, Aug 4 \u2014 Oil prices slumped and stocks mostly rose yesterday after US President Donald Trump insisted negotiations with Iran were ongoing despite Tehran's...",
+      "url": "https://www.malaymail.com/news/money/2026/08/04/dow-hits-fresh-record-as-oil-prices-tumble/230148",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/04/355397.jpg",
+      "publishedAt": "2026-08-04T01:44:34Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "Trump blasts Exxon, Chevron for making 'too much money,' demands lower gasoline prices",
-      "description": "US President Donald Trump has accused ExxonMobil and Chevron of making excessive profits from high fuel prices, urging them to \"give some of that back to the public\".",
-      "url": "https://www.devdiscourse.com/article/business/3959085-trump-blasts-exxon-chevron-for-making-too-much-money-demands-lower-gasoline-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-03T19:45:01Z",
+      "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+      "description": "Oil prices saw a slight rebound on Tuesday after earlier declines. Concerns over Middle Eastern supply remain high due to U.S.-Iran tensions. Diplomatic resolution to the conflict appears unlikely at this time. Shipments through the Strait of Hormuz continue to face risks. Market analysts note the fragility of current price stability.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-ticks-up-after-selloff-as-talks-to-end-us-iran-war-remain-uncertain/articleshow/132843973.cms",
+      "image": "https://img.etimg.com/thumb/msid-132843976,width-1200,height-630,imgsize-43944,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-04T01:42:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Oil Prices Sink as Talks Signal Progress on Reopening Strait of Hormuz",
-      "description": "September WTI crude oil (CLU26 ) closed down -4.33 (-5.11%) on Monday, and September RBOB gasoline (RBU26 ) closed down -0.1475 (-4.74%). Crude oil and gasoline prices settled sharply lower on Monday, with gasoline falling to a 3-week low. Easing te...",
-      "url": "https://www.barchart.com/story/news/3618738/crude-oil-prices-sink-as-talks-signal-progress-on-reopening-strait-of-hormuz",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
-      "publishedAt": "2026-08-03T19:14:52Z",
+      "title": "From Gift Nifty to RBI MPC meeting, crude oil prices: 8 key things that changed for Indian stock market overnight",
+      "description": "Gift Nifty was trading around the 24,628 level, a discount of nearly 21.40 points from the Nifty futures\u2019 previous close, indicating a gap-up start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-rbi-mpc-meeting-crude-oil-prices-8-key-things-that-changed-for-indian-stock-market-overnight-11785805530627.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/04/1600x900/logo/stock_1785807158910_1785807159082_d37fa567-3f70-4c55-aeb2-9475e0cad01f.JPG",
+      "publishedAt": "2026-08-04T01:39:28Z",
       "source": {
-        "name": "Barchart"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Nat-Gas Prices Gain on Higher US LNG Exports",
-      "description": "September Nymex natural gas (NGU26 ) closed up +0.034 (+1.24%) on Monday. Nat-gas prices settled higher on Monday as increased flows to liquefied natural gas export terminals reduced US domestic supplies. Estimated LNG net flows to US LNG export ter...",
-      "url": "https://www.barchart.com/story/news/3618727/nat-gas-prices-gain-on-higher-us-lng-exports",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-08-03T19:13:49Z",
+      "title": "Sensex, Nifty Today: GIFT Nifty signals cautious start despite rally in US; crude continues below $85",
+      "description": "Share market today, August 04: Global markets show mixed trends with Asian peers cautious and Indian markets signaling a negative start. Oil prices fall and gold trades higher amid shifting investor sentiment on August 4, 2026.",
+      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-04august2026-4309858/",
+      "image": "https://images.financialexpressdigital.com/2026/08/ShareMarket3Reuters_20260619011207_20260629012156_20260703145046_20260804012331.jpg",
+      "publishedAt": "2026-08-04T01:36:03Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Trump Hits Exxon, Chevron for Profits Amid Iran War He Launched",
-      "description": "President Donald Trump scolded ExxonMobil Holdings Corp. and Chevron Corp. for their soaring profits, as oil prices surged amid the war in Iran he launched in Febru\u2026",
-      "url": "https://financialpost.com/pmn/business-pmn/trump-hits-exxon-chevron-for-profits-amid-iran-war-he-launched",
-      "image": "https://dcs-static.gprod.postmedia.digital/21.7.0/websites/images/postmedia-image-fallback.png",
-      "publishedAt": "2026-08-03T19:03:25Z",
+      "title": "Kejriwal E20 protest Live: Kejriwal to march to PM's residence against E20; cops deny permission",
+      "description": "Arvind Kejriwal E20 march live: Arvind Kejriwal on Monday announced that he would lead a march of 100 people to Prime Minister Narendra Modi's residence on Tuesday to submit public petitions opposing E20 petrol. The AAP national convener alleged that the Centre was promoting ethanol-blended fuel under pressure from US President Donald Trump, claiming India had \"yielded\" to buy ethanol from the United States. Addressing a press conference, Kejriwal questioned why the government continued to push E20 despite complaints from vehicle owners, alleging there was a \"hidden agenda\" behind the policy. He said the delegation would personally hand over the petitions to the Prime Minister and seek a discussion on the concerns surrounding ethanol-blended petrol. Follow this space for all the live updates.",
+      "url": "https://www.indiatoday.in/india/story/aap-arvind-kejriwal-e20-petrol-nitin-gadkari-protest-pm-modi-residence-2962860-2026-08-04",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202608/kejriwal-said-the-ethanol-townhall-organised-by-the-aap-last-week-was-a-huge-success-043212597-16x9_0.png?VersionId=JDcKSWvfc7Tc30fDkeIhZX4b.rnBHh80",
+      "publishedAt": "2026-08-04T01:32:56Z",
       "source": {
-        "name": "Financial Post"
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "Asia stocks move higher on Wall Street lead, oil steady",
+      "description": "SINGAPORE: Asian markets made cautious gains at the start of trading as investors followed a global rally, with oil prices holding near the lowest levels in weeks as the U.S.-Iran conflict remained at a stalemate.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/08/04/asia-stocks-move-higher-on-wall-street-lead-oil-steady",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042431.jpg",
+      "publishedAt": "2026-08-04T01:26:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Bursa Malaysia holds steady after Wall St rally, crude oil price tumbles",
+      "description": "KUALA LUMPUR: Optimism is building on the domestic market after Wall Street's overnight rally, as investors cheered on the decline in oil prices amid the US' and Iran's efforts to hammer out a lasting peace deal.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/08/04/bursa-malaysia-holds-steady-after-wall-st-rally-crude-oil-price-tumbles",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/04/4042428.jpg",
+      "publishedAt": "2026-08-04T01:16:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Oil ticks up after selloff as talks to end US-Iran war remain uncertain",
+      "description": "Oil prices rebounded 1 per cent on Tuesday (Aug 4) from a plunge in the previous session, fuelled by concerns that Middle East supply remains at risk as a diplomatic resolution to the US-Iran war that has disrupted shipm",
+      "url": "https://www.channelnewsasia.com/world/oil-price-iran-war-us-talks-uncertain-6296486",
+      "image": "https://dam.mediacorp.sg/image/upload/s--R8IOIumP--/c_crop,h_450,w_800,x_0,y_43/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-07-28T170242Z_1_LYNXMPEM6R1IE_RTROPTP_3_USA-OIL-PERMIAN.JPG?itok=Xr5oA8L9",
+      "publishedAt": "2026-08-04T01:02:00Z",
+      "source": {
+        "name": "CNA"
+      }
+    },
+    {
+      "title": "Petrol prices strain US households as oil giants Chevron, Exxon profits soar",
+      "description": "United States President Donald Trump has lambasted the nation\u2019s biggest oil and gas giants as Houston, Texas-based Chevron reported record earnings while",
+      "url": "https://www.europesays.com/3172724/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/afp_6a70f2cbc203-1785787083.jpg",
+      "publishedAt": "2026-08-04T00:56:30Z",
+      "source": {
+        "name": "EUROPE SAYS"
       }
     }
   ]
