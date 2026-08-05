@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-05T08:16:41+00:00",
+  "updated_at": "2026-08-05T13:42:32+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble",
-      "description": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favorable backdrop for continued growth. Moreover, the possibility of a peaceful resolution in the Iran conflict greatly enhanced investor optimism. Overall, corporate earnings have been significantly exceeding forecasts this reporting period.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
-      "image": "https://img.etimg.com/thumb/msid-132872240,width-1200,height-630,imgsize-184100,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-04T20:09:00Z",
+      "title": "Asia shares surge on tech mood swing, oil retreats",
+      "description": "Asian stock markets jumped on Wednesday as strong earnings and a resurgence \u200bof demand for tech lifted Wall Street to record peaks, while hopes for progress on opening the \u200cStrait of Hormuz dragged on oil prices and bond yields.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-05/",
+      "image": "https://www.reuters.com/resizer/v2/HUVK42AVJJJMLFE3C2C2H74D3E.jpg?auth=d53a172376b0230230b36fd537c4f16c6c420ad075e7ab8372875daee339eca2&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-05T01:37:04Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Sensex, Nifty Today: GIFT Nifty signals rally after Crude tumbles to $80 on hopes of Hormuz deal this week",
+      "description": "Share market today, August 05: Global markets rise with Asian peers gaining after US announces Hormuz Strait reopening. Indian markets show positive indicators as crude oil prices drop and gold prices fluctuate on August 5, 2026.",
+      "url": "https://www.financialexpress.com/market/sensex-nifty-50-stock-market-today-live-updates-india-us-iran-isreal-war-asia-nikkei-gold-silver-rate-crude-oil-05august2026-4310656/",
+      "image": "https://images.financialexpressdigital.com/2026/08/Share-Market-1-Reuters_20260407010633_20260609005802_20260710011857_20260713180151_20260805011837.jpg",
+      "publishedAt": "2026-08-05T01:36:47Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Asia shares climb as tech mood swings, oil retreats",
+      "description": "SYDNEY: Asian stock markets jumped on Wednesday (Aug 5) as robust earnings and renewed appetite for tech propelled Wall Street to record highs, while hopes for progress on opening the Strait of Hormuz pushed down on oil prices and bond yields.Japan's Nikkei climbed 3.0 per cent and South Korea added 4.1 per c",
+      "url": "https://www.channelnewsasia.com/business/asia-shares-climb-tech-mood-swings-oil-retreats-6299561",
+      "image": "https://dam.mediacorp.sg/image/upload/s--rpoi6PWm--/c_crop,h_449,w_799,x_1,y_1/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/v1/one-cms/core/2026-08-05T014132Z_2_LYNXMPEM74030_RTROPTP_3_GLOBAL-MARKETS.JPG?itok=N4JC6je5",
+      "publishedAt": "2026-08-05T01:36:00Z",
+      "source": {
+        "name": "CNA"
+      }
+    },
+    {
+      "title": "Oil prices fall further on hopes of Strait of Hormuz deal, Brent near $79",
+      "description": "Oil prices extended their decline as hopes grew for a deal to reopen the Strait of Hormuz, with Brent near $79 and WTI slipping to $75.06 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-fall-brent-crude-wti-strait-of-hormuz-deal-us-iran-talks-qatar-trump-19961886.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/1785305167_28etf27Uer-crude-oiljpg-UVIEE1GApi.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-05T01:26:09Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Trading Plan: Will Nifty 50 reclaim Monday's high and Bank Nifty climb towards 58,500 amid easing oil prices?",
+      "description": "In the event of a rebound, the Nifty 50 may first target the 24,700 hurdle (Tuesday's high), followed by 24,774 (Monday's high). A sustained move above these levels could pave the way for a rally towards the 25,000 mark. On the downside, immediate support is placed in the 24,500-24,400 zone.",
+      "url": "https://www.moneycontrol.com/news/business/markets/trading-plan-will-nifty-50-reclaim-monday-s-high-and-bank-nifty-climb-towards-58-500-amid-easing-oil-prices-13994477.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260701081922_up.jpeg",
+      "publishedAt": "2026-08-05T01:22:59Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Aussie shares pip intraday peak but face resistance",
+      "description": "Easing oil prices and improving confidence have catapulted the local exchange to a new record, but profit-taking at the peak has subdued momentum.",
+      "url": "https://www.perthnow.com.au/news/business/aussie-shares-pip-intraday-peak-but-face-resistance-c-22678717",
+      "image": "https://images.perthnow.com.au/publication/C-22678717/a6fa80fd515f2fc7f76c182b5efadf9fb3cad21f-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-08-05T01:22:14Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "Why an Iran deal might happen this time despite mixed signals",
+      "description": "A new report raises questions about the U.S.\u2019s munitions supply. Oil prices were falling on Tuesday.",
+      "url": "https://www.livemint.com/global/why-an-iran-deal-might-happen-this-time-despite-mixed-signals-11785892349645.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/05/1600x900/logo/im-38313566_1785892353423_1785892374665_620ec3fe-2c40-48f5-9c45-3280467f81e3.jpg",
+      "publishedAt": "2026-08-05T01:15:14Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Treasuries rise as falling oil eases pressure on Fed",
+      "description": "Treasury yields declined on Tuesday as oil prices dropped significantly. This decrease followed reports of progress toward resolving the Iran conflict. Lower oil prices reduced inflation expectations and Fed rate hike forecasts. The two-year note yield reached its lowest point since late July. The benchmark ten-year yield settled at 4.62 percent.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/treasuries-rise-as-falling-oil-eases-pressure-on-fed/articleshow/132883302.cms",
+      "image": "https://img.etimg.com/thumb/msid-132883299,width-1200,height-630,imgsize-55556,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-05T01:14:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Punjab assembly passes resolution asking Centre to suspend mandatory E20 petrol rollout",
-      "description": "Punjab Assembly passes resolution urging Centre to suspend mandatory E20 petrol rollout for non-compatible vehicles, seek choice of fuels, studies, and fair pricing.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-assembly-passes-resolution-asking-centre-to-suspend-mandatory-e20-petrol-rollout/articleshow/132872569.cms",
-      "image": "https://static.toiimg.com/thumb/msid-132872567,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-04T20:07:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "US hopeful Hormuz strait deal will be done \u2018today or tomorrow\u2019",
-      "description": "The United States was hopeful that a deal to reopen the Strait of Hormuz would be done \u201ctoday or tomorrow\u201d, a top official said, sending oil prices tumbling...",
-      "url": "https://www.nzherald.co.nz/world/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/F52RRPW7CREZHEDYG4QRDHMP44/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/KTZZZLL3ENHWFP7X2PDFF2I5EM.jpg?auth=b6524527abb4d45cf413c6af54817e4472b39b0c4804e72291c62dc780f1402c&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-08-04T20:04:15Z",
-      "source": {
-        "name": "The New Zealand Herald"
-      }
-    },
-    {
-      "title": "backed terror modules busted; four juveniles among 9 arrested",
-      "description": "With the arrest of nine persons, including four juveniles, the Amritsar Commissionerate Police claimed to have busted two alleged ISI-backed cross-border terror modules and recovered three illegal pistols, nine live cartridges and four petrol bombs.",
-      "url": "https://www.tribuneindia.com/news/amritsar/isi-backed-terror-modules-busted-four-juveniles-among-9-arrested/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBkYzFhNTUwLTkwM2YtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-04T19:59:49Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "WRAPUP 6-Qatar says mediators make progress in efforts to end US-Iran war",
-      "description": "Qatar's comments on progress in US-Iran talks led to a 5% drop in oil prices, despite Tehran's denial of ongoing negotiations and ongoing blockades in the Strait of Hormuz.",
-      "url": "https://www.devdiscourse.com/article/politics/3959606-wrapup-6-qatar-says-mediators-make-progress-in-efforts-to-end-us-iran-war",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-04T19:35:28Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Qatar says mediators make progress in efforts to end US-Iran war",
-      "description": "By Tala Ramadan, Parisa Hafezi, Doina Chiacu and Simon LewisDUBAI/WASHINGTON, Aug 4 (Reuters) - Qatar said on Tuesday mediators were making progress in efforts to end the U.S.-Iran war, driving oil prices lower, although Tehran has denied President Donald Trump's assertion that talks are already under way.",
-      "url": "https://www.al-monitor.com/originals/2026/08/qatar-says-mediators-make-progress-efforts-end-us-iran-war",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-04T034317Z_2_LYNXMPEM7306T_RTROPTP_4_IRAN-CRISIS.JPG?h=0b08cf95&itok=Nw2crqya",
-      "publishedAt": "2026-08-04T19:34:53Z",
-      "source": {
-        "name": "Al-Monitor"
-      }
-    },
-    {
-      "title": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar",
-      "description": "The dollar index (DXY00 ) fell by -0.03% on Tuesday. The dollar was under pressure Tuesday as hopes for a deal to reopen the Strait of Hormuz have boosted stocks and knocked crude oil prices sharply lower. The slide in crude oil prices lowers infla...",
-      "url": "https://www.barchart.com/story/news/3644555/strength-in-stocks-and-lower-crude-prices-weigh-on-the-dollar",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Puzzle%20of%20money%20by%20TPopova%20via%20iStock.jpg",
-      "publishedAt": "2026-08-04T19:33:13Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "in after march to PM residence against E20 petrol halted",
-      "description": "AAP national convener Arvind Kejriwal and party workers were stopped by the police while they were marching towards the Prime Minister\u2019s residence to submit petitions signed by people against the E20 blended fuel.",
-      "url": "https://www.tribuneindia.com/news/india/kejriwal-holds-sit-in-after-march-to-pm-residence-against-e20-petrol-halted/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4YmVkZTUwLTkwM2ItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-04T19:33:09Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "'Hormuz deal with Iran today' Oil slips below $80 on truce hope",
-      "description": "Oil prices experienced a significant decline on Tuesday, falling over five percent. Hopes for a diplomatic resolution to the West Asia conflict emerged. This potential resolution could improve oil flows through the Strait of Hormuz. Talks are underway with Iran to reopen the vital shipping lane. Regional officials also discussed a potential deal with Oman for passage.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-deal-with-iran-today-oil-slips-below-80-on-truce-hope/articleshow/132871598.cms",
-      "image": "https://img.etimg.com/thumb/msid-132871665,width-1200,height-630,imgsize-208626,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-04T19:26:00Z",
+      "title": "Global Market Today: Asian stocks advance on Hormuz deal hopes",
+      "description": "Asian stocks are set to track Wall Street higher as optimism grows. Prospects for an interim deal with Iran eased energy supply concerns significantly. This development has led to a slide in oil prices and reduced inflation pressures. Investors are now watching for further progress on reopening the Strait of Hormuz. This situation may strengthen the case for the Federal Reserve to keep interest rates unchanged.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-advance-on-hormuz-deal-hopes/articleshow/132883101.cms",
+      "image": "https://img.etimg.com/thumb/msid-132883083,width-1200,height-630,imgsize-28316,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-05T01:04:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Optimism of Reopening Strait of Hormuz Knocks Crude Prices Lower",
-      "description": "September WTI crude oil (CLU26 ) on Tuesday closed down -4.57 (-5.69%), and September RBOB gasoline (RBU26 ) closed down -0.1145 (-3.86%). Crude oil and gasoline prices sold off sharply on Tuesday for a second day, with crude falling to a 3-week low...",
-      "url": "https://www.barchart.com/story/news/3644324/optimism-of-reopening-strait-of-hormuz-knocks-crude-prices-lower",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-04T19:15:26Z",
+      "title": "US eyes Hormuz deal \u2018today or tomorrow\u2019 as ship sinks in Red Sea",
+      "description": "DUBAI, Aug 5 \u2014\u00a0A top US official said yesterday that a deal with Iran to reopen the Strait of Hormuz could be struck \u201ctoday or tomorrow\u201d, sending oil prices tumbling on...",
+      "url": "https://www.malaymail.com/news/world/2026/08/05/us-eyes-hormuz-deal-today-or-tomorrow-as-ship-sinks-in-red-sea/230241",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/05/355535.jpg",
+      "publishedAt": "2026-08-05T00:56:41Z",
       "source": {
-        "name": "Barchart"
+        "name": "Malay Mail"
       }
     }
   ]
