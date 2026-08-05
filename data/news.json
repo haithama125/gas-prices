@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-04T19:18:03+00:00",
+  "updated_at": "2026-08-05T01:41:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Aramco's Q2 profit jumps 33% as Iran war boosts oil prices",
-      "description": "Saudi Aramco's Q2 profit surged 33% to $33.4B, fueled by high oil prices and Red Sea exports bypassing the Strait of Hormuz.",
-      "url": "https://www.cnbctv18.com/market/aramcos-q2-profit-jumps-33-iran-war-boosts-oil-prices-19961204.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/saudi-aramco-crude-oil-2026-07-296b380c19d8b3d1e0b730bc45e00714.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-04T07:07:52Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Explained: Why Dow Jones closed at lifetime high despite caution over AI frenzy",
-      "description": "Wall Street rallied sharply on Monday, with the Dow hitting a record high as easing oil prices and strong tech earnings lifted investor sentiment. The Dow gained over 1%, while the Nasdaq surged more than 2% and the S&P 500 rose 1.5%, nearing its record high.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/explained-why-dow-jones-closed-at-lifetime-high-despite-caution-over-ai-frenzy/articleshow/132850484.cms",
-      "image": "https://img.etimg.com/thumb/msid-132850767,width-1200,height-630,imgsize-71528,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-04T06:59:00Z",
+      "title": "Government to consider farmers' views on ethanol policy: Shivraj Singh Chouhan",
+      "description": "Union Agriculture Minister Shivraj Singh Chouhan met farmers regarding the ethanol blending petrol policy. The government aims for farmers to receive the largest share of ethanol program benefits. Discussions focused on ensuring fair prices and demand for various crop feedstocks. Farmers expressed support for the ethanol program and clarified misconceptions about its impact. Both sides agreed to collaborate on strengthening the policy-making process for farmers' interests.",
+      "url": "https://economictimes.indiatimes.com/news/india/government-to-consider-farmers-views-on-ethanol-policy-shivraj-singh-chouhan/articleshow/132862506.cms",
+      "image": "https://img.etimg.com/thumb/msid-132862566,width-1200,height-630,imgsize-212148,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-04T13:36:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Tumble After Trump Pauses Iran Strikes; Is The Hormuz Risk Really Over?",
-      "description": "Oil prices tumble after Trump\u2019s Iran comments ease conflict fears. Traders cut the war premium, but Hormuz risks and supply uncertainty remain.",
-      "url": "https://www.newsx.com/business/oil-prices-tumble-after-trump-pauses-iran-strikes-is-the-hormuz-risk-really-over-256494/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/08/trump-oil-0408.jpg",
-      "publishedAt": "2026-08-04T06:54:33Z",
+      "title": "US stocks climb toward a record as companies keep piling up profits and oil prices ease",
+      "description": "The U.S. stock market is rising toward a record as big companies keep piling up profits and oil prices ease",
+      "url": "https://www.barchart.com/story/news/3625178/us-stocks-climb-toward-a-record-as-companies-keep-piling-up-profits-and-oil-prices-ease",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/6f6a6df5f7a74c0e8a867bce576e3aae/6f6a6df5f7a74c0e8a867bce576e3aae_main_financial_markets_wall_street_69795.jpg",
+      "publishedAt": "2026-08-04T13:35:11Z",
       "source": {
-        "name": "NewsX"
+        "name": "Barchart"
       }
     },
     {
-      "title": "BP profits more than double as Iran war sends oil prices soaring",
-      "description": "Energy company\u2019s $5.73bn quarterly profits come after Shell posted second highest quarterly earnings on record",
-      "url": "https://www.theguardian.com/business/2026/aug/04/bp-profits-iran-war-oil-prices-shell",
-      "image": "https://i.guim.co.uk/img/media/6f72596ac717ce7fbeb0e21056e95b484829e050/752_1202_2653_2122/master/2653.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd6806f7863be49ddfe67cde66e2ba29",
-      "publishedAt": "2026-08-04T06:54:30Z",
+      "title": "Arvind Kejriwal's E20 protest stopped en route to PM residence in Delhi",
+      "description": "Arvind Kejriwal led an AAP march to the Prime Minister's residence over E20 petrol petitions. The standoff sharpened the party's demand for consumer choice and a review of the blended fuel policy.",
+      "url": "https://www.indiatoday.in/india/story/kejriwal-aap-e20-petrol-protest-pm-residence-delhi-police-stop-march-ptag-2963373-2026-08-04",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/kejriwal-said-aap-had-sought-an-appointment-with-the-prime-minister-a-month-ago-but-received-no-resp-043147351-16x9_0.jpg?VersionId=0xO9PiE1YSOFR.Zf2HURLPFcJOxiRBJS",
+      "publishedAt": "2026-08-04T13:31:57Z",
       "source": {
-        "name": "The Guardian"
+        "name": "India Today"
       }
     },
     {
-      "title": "BP profit more than doubles as Trump blasts Big Oil for \u2018making too much money\u2019",
-      "description": "A sign at BP Plc petrol station in London, UK, on Monday, Aug. 4, 2025.",
-      "url": "https://www.europesays.com/3173199/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/108289673-1775815842478-gettyimages-2227922173-UK_BP.jpeg",
-      "publishedAt": "2026-08-04T06:43:15Z",
+      "title": "High energy prices fuel surge in Canadian exports in second quarter",
+      "description": "Canadian exports grew faster than imports in the second quarter of 2026 as higher oil prices lead to a large increase. Read more.",
+      "url": "https://financialpost.com/news/economy/energy-prices-fuel-surge-canadian-exports-second-quarter",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0805-bc-trade--1.jpg",
+      "publishedAt": "2026-08-04T13:31:55Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Financial Post"
       }
     },
     {
-      "title": "Quant MF ups IT exposure as sector enters \u2018neglected territory\u2019; sees crude correction",
-      "description": "Quant Mutual Fund has raised its exposure to IT services over the past two months, viewing the sector as increasingly \u201cneglected\u201d and offering attractive opportunities. Its predictive analytics model also expects crude oil prices to gradually decline over the coming months, which the fund house believes could support Indian equities.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/quant-mf-ups-it-exposure-as-sector-enters-neglected-territory-sees-crude-correction/articleshow/132848986.cms",
-      "image": "https://img.etimg.com/thumb/msid-132849442,width-1200,height-630,imgsize-111676,overlay-etwealthmutualfunds/articleshow.jpg",
-      "publishedAt": "2026-08-04T06:28:00Z",
+      "title": "High energy prices fuel surge in Canadian exports in second quarter",
+      "description": "Canadian exports grew faster than imports in the second quarter of 2026 as higher oil prices lead to a large increase. Read more.",
+      "url": "https://calgaryherald.com/news/economy/energy-prices-fuel-surge-canadian-exports-second-quarter/wcm/9e441e59-f9cf-481c-b9b2-bc8d98a11ae6",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/0805-bc-trade-1.jpg",
+      "publishedAt": "2026-08-04T13:31:55Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Calgary Herald"
       }
     },
     {
-      "title": "Oil rebounds as markets trade mixed following Wall Street rally",
-      "description": "Asian shares were mixed on Tuesday morning, while European pre-market data pointed to a slightly higher open following a Wall Street rally supported by easing oil prices.",
-      "url": "https://www.euronews.com/business/2026/08/04/oil-rebounds-as-markets-trade-mixed-following-wall-street-rally",
-      "image": "https://images.euronews.com/articles/stories/09/86/13/62/1200x675_cmsv2_4148aab2-5a83-5b2c-9535-6778e81b348d-9861362.jpg",
-      "publishedAt": "2026-08-04T06:09:40Z",
+      "title": "WRAPUP 3-Qatar says progress made toward US-Iran talks",
+      "description": "Oil prices fell over 2% after Qatar reported progress in US-Iran talks, despite Iran denying negotiations, with the Strait of Hormuz remaining largely blocked.",
+      "url": "https://www.devdiscourse.com/article/politics/3959439-wrapup-3-qatar-says-progress-made-toward-us-iran-talks",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-04T13:26:44Z",
       "source": {
-        "name": "Euronews"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Video: Malaika Arora Buys New Mahindra Thar Roxx Worth Nearly \u20b928 Lakh, Performs Puja Outside Mumbai Residence",
-      "description": "Actress Malaika Arora has purchased a new Mahindra Thar Roxx worth nearly \u20b928 lakh. A viral video shows her performing a traditional puja while taking delivery of the SUV at her residence. The five-door off-roader, launched in 2024, is available with petrol and diesel engines and has become a popular choice among celebrities and adventure enthusiasts",
-      "url": "https://www.freepressjournal.in/entertainment/video-malaika-arora-buys-new-mahindra-thar-roxx-worth-nearly-28-lakh-performs-puja-outside-mumbai-residence",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-04/nvlz8j05/Untitled-design-2026-08-04T112913.725.jpg",
-      "publishedAt": "2026-08-04T06:00:59Z",
+      "title": "SIAM flags fuel contamination at petrol pumps, govt says stringent checks underway",
+      "description": "SIAM has raised concerns with the petroleum ministry over chloride contamination and excess moisture in E20 petrol. The Centre says contamination cases are rare but has intensified checks across fuel outlets.",
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-contamination-siam-flags-fuel-quality-issues-govt-checks-2963359-2026-08-04",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/petrol-pump-india-e20-rollout-042653700-16x9_0.png?VersionId=9pkF4t3gXcOwCIvkHcd3PMmOzHMDUYze",
+      "publishedAt": "2026-08-04T13:19:56Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "As the midterms loom, is Donald Trump\u2019s love-in with Big Oil going up in smoke?",
+      "description": "The president\u2019s sudden \u2013 and surprising \u2013 turn on the energy giants he loves so dearly shows how much pressure he is under to ease the pain for Americans at the petrol pumps, says James Moore",
+      "url": "https://www.independent.co.uk/voices/donald-trump-midterms-big-oil-exxonmobil-chevron-iran-b3027165.html",
+      "image": "https://static.independent.co.uk/2026/04/30/2/40/GettyImages-2272812005.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-08-04T13:19:26Z",
+      "source": {
+        "name": "The Independent"
+      }
+    },
+    {
+      "title": "Two Workers Collapse Inside Diesel Tank Locked Since 20 Years In MP's Satna; Mayor Rewards \u20b95,100 For Rescue Team",
+      "description": "Two workers fell unconscious while cleaning a diesel tank that had remained closed for nearly 20 years at a petrol pump in Satna. They had reportedly entered the underground tank without oxygen masks or gas checks. After SDRF could not respond, the Municipal Corporation",
+      "url": "https://www.freepressjournal.in/bhopal/two-workers-collapse-inside-diesel-tank-locked-since-20-years-in-mps-satna-mayor-rewards-5100-for-rescue-team",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-04/dhu1vslw/367b29d9-382c-4c80-bdaa-ae56a26c3ae5.jpg",
+      "publishedAt": "2026-08-04T13:18:57Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "Oil prices gain, Asian shares are mixed after rally on Wall Street",
-      "description": "TOKYO,\u00a0 Aug 4: \u00a0Asian shares were mixed on Tuesday following a rally on Wall Street that was helped by easing oil prices. Regional investors were still weighing the impact from last week's joint US-Japan currency intervention, analysts said. Japan's benchmark...",
-      "url": "https://www.dailyexcelsior.com/oil-prices-gain-asian-shares-are-mixed-after-rally-on-wall-street/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTZiYTRhNzIwLThmYzgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-04T05:50:37Z",
+      "title": "Why India's Petrol Shift Has Motorists Fuming",
+      "description": "India's auto industry has largely supported the government.",
+      "url": "https://www.deccanchronicle.com/nation/current-affairs/why-indias-petrol-shift-has-motorists-fuming-1976544",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/04/2072421-e20.jpg",
+      "publishedAt": "2026-08-04T13:16:44Z",
       "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Oil Prices Rebound After Sharp Fall As US-Iran Tensions Keep Supply Risks Alive",
-      "description": "Oil prices recovered slightly on Tuesday after a steep decline in the previous session, as markets remained cautious over possible disruptions to Middle East crude supplies amid the US-Iran conflict. Brent and WTI gained over 1% each, while uncertainty over the Strait of Hormuz and stalled diplomatic efforts continued to weigh on sentiment",
-      "url": "https://www.freepressjournal.in/business/oil-prices-rebound-after-sharp-fall-as-us-iran-tensions-keep-supply-risks-alive",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-03/h8cndckb/Untitled-design-2026-08-03T153037.788.jpg",
-      "publishedAt": "2026-08-04T05:36:28Z",
-      "source": {
-        "name": "Free Press Journal"
+        "name": "Deccan Chronicle"
       }
     }
   ]
