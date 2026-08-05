@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-05T01:41:31+00:00",
+  "updated_at": "2026-08-05T08:16:41+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Government to consider farmers' views on ethanol policy: Shivraj Singh Chouhan",
-      "description": "Union Agriculture Minister Shivraj Singh Chouhan met farmers regarding the ethanol blending petrol policy. The government aims for farmers to receive the largest share of ethanol program benefits. Discussions focused on ensuring fair prices and demand for various crop feedstocks. Farmers expressed support for the ethanol program and clarified misconceptions about its impact. Both sides agreed to collaborate on strengthening the policy-making process for farmers' interests.",
-      "url": "https://economictimes.indiatimes.com/news/india/government-to-consider-farmers-views-on-ethanol-policy-shivraj-singh-chouhan/articleshow/132862506.cms",
-      "image": "https://img.etimg.com/thumb/msid-132862566,width-1200,height-630,imgsize-212148,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-04T13:36:00Z",
+      "title": "US stocks: Dow, S&P 500 close at record highs as AI earnings impress, oil prices tumble",
+      "description": "Stock markets soared to all-time highs on Tuesday, fueled by stellar earnings from corporations. AI-focused entities like Palantir and the esteemed Caterpillar delivered eye-popping results. The drop in oil prices and Treasury yields created a favorable backdrop for continued growth. Moreover, the possibility of a peaceful resolution in the Iran conflict greatly enhanced investor optimism. Overall, corporate earnings have been significantly exceeding forecasts this reporting period.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-dow-sp-500-close-at-record-highs-as-ai-earnings-impress-oil-prices-tumble/articleshow/132872181.cms",
+      "image": "https://img.etimg.com/thumb/msid-132872240,width-1200,height-630,imgsize-184100,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-04T20:09:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "US stocks climb toward a record as companies keep piling up profits and oil prices ease",
-      "description": "The U.S. stock market is rising toward a record as big companies keep piling up profits and oil prices ease",
-      "url": "https://www.barchart.com/story/news/3625178/us-stocks-climb-toward-a-record-as-companies-keep-piling-up-profits-and-oil-prices-ease",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/6f6a6df5f7a74c0e8a867bce576e3aae/6f6a6df5f7a74c0e8a867bce576e3aae_main_financial_markets_wall_street_69795.jpg",
-      "publishedAt": "2026-08-04T13:35:11Z",
+      "title": "Punjab assembly passes resolution asking Centre to suspend mandatory E20 petrol rollout",
+      "description": "Punjab Assembly passes resolution urging Centre to suspend mandatory E20 petrol rollout for non-compatible vehicles, seek choice of fuels, studies, and fair pricing.",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/punjab-assembly-passes-resolution-asking-centre-to-suspend-mandatory-e20-petrol-rollout/articleshow/132872569.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132872567,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-04T20:07:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Arvind Kejriwal's E20 protest stopped en route to PM residence in Delhi",
-      "description": "Arvind Kejriwal led an AAP march to the Prime Minister's residence over E20 petrol petitions. The standoff sharpened the party's demand for consumer choice and a review of the blended fuel policy.",
-      "url": "https://www.indiatoday.in/india/story/kejriwal-aap-e20-petrol-protest-pm-residence-delhi-police-stop-march-ptag-2963373-2026-08-04",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/kejriwal-said-aap-had-sought-an-appointment-with-the-prime-minister-a-month-ago-but-received-no-resp-043147351-16x9_0.jpg?VersionId=0xO9PiE1YSOFR.Zf2HURLPFcJOxiRBJS",
-      "publishedAt": "2026-08-04T13:31:57Z",
+      "title": "US hopeful Hormuz strait deal will be done \u2018today or tomorrow\u2019",
+      "description": "The United States was hopeful that a deal to reopen the Strait of Hormuz would be done \u201ctoday or tomorrow\u201d, a top official said, sending oil prices tumbling...",
+      "url": "https://www.nzherald.co.nz/world/us-hopeful-hormuz-strait-deal-will-be-done-today-or-tomorrow/F52RRPW7CREZHEDYG4QRDHMP44/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/KTZZZLL3ENHWFP7X2PDFF2I5EM.jpg?auth=b6524527abb4d45cf413c6af54817e4472b39b0c4804e72291c62dc780f1402c&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-08-04T20:04:15Z",
       "source": {
-        "name": "India Today"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "High energy prices fuel surge in Canadian exports in second quarter",
-      "description": "Canadian exports grew faster than imports in the second quarter of 2026 as higher oil prices lead to a large increase. Read more.",
-      "url": "https://financialpost.com/news/economy/energy-prices-fuel-surge-canadian-exports-second-quarter",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/0805-bc-trade--1.jpg",
-      "publishedAt": "2026-08-04T13:31:55Z",
+      "title": "backed terror modules busted; four juveniles among 9 arrested",
+      "description": "With the arrest of nine persons, including four juveniles, the Amritsar Commissionerate Police claimed to have busted two alleged ISI-backed cross-border terror modules and recovered three illegal pistols, nine live cartridges and four petrol bombs.",
+      "url": "https://www.tribuneindia.com/news/amritsar/isi-backed-terror-modules-busted-four-juveniles-among-9-arrested/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBkYzFhNTUwLTkwM2YtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-04T19:59:49Z",
       "source": {
-        "name": "Financial Post"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "High energy prices fuel surge in Canadian exports in second quarter",
-      "description": "Canadian exports grew faster than imports in the second quarter of 2026 as higher oil prices lead to a large increase. Read more.",
-      "url": "https://calgaryherald.com/news/economy/energy-prices-fuel-surge-canadian-exports-second-quarter/wcm/9e441e59-f9cf-481c-b9b2-bc8d98a11ae6",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/0805-bc-trade-1.jpg",
-      "publishedAt": "2026-08-04T13:31:55Z",
-      "source": {
-        "name": "Calgary Herald"
-      }
-    },
-    {
-      "title": "WRAPUP 3-Qatar says progress made toward US-Iran talks",
-      "description": "Oil prices fell over 2% after Qatar reported progress in US-Iran talks, despite Iran denying negotiations, with the Strait of Hormuz remaining largely blocked.",
-      "url": "https://www.devdiscourse.com/article/politics/3959439-wrapup-3-qatar-says-progress-made-toward-us-iran-talks",
+      "title": "WRAPUP 6-Qatar says mediators make progress in efforts to end US-Iran war",
+      "description": "Qatar's comments on progress in US-Iran talks led to a 5% drop in oil prices, despite Tehran's denial of ongoing negotiations and ongoing blockades in the Strait of Hormuz.",
+      "url": "https://www.devdiscourse.com/article/politics/3959606-wrapup-6-qatar-says-mediators-make-progress-in-efforts-to-end-us-iran-war",
       "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_08_2026_16_27_17_5480699.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-04T13:26:44Z",
+      "publishedAt": "2026-08-04T19:35:28Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "SIAM flags fuel contamination at petrol pumps, govt says stringent checks underway",
-      "description": "SIAM has raised concerns with the petroleum ministry over chloride contamination and excess moisture in E20 petrol. The Centre says contamination cases are rare but has intensified checks across fuel outlets.",
-      "url": "https://www.indiatoday.in/india/story/e20-petrol-contamination-siam-flags-fuel-quality-issues-govt-checks-2963359-2026-08-04",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/petrol-pump-india-e20-rollout-042653700-16x9_0.png?VersionId=9pkF4t3gXcOwCIvkHcd3PMmOzHMDUYze",
-      "publishedAt": "2026-08-04T13:19:56Z",
+      "title": "Qatar says mediators make progress in efforts to end US-Iran war",
+      "description": "By Tala Ramadan, Parisa Hafezi, Doina Chiacu and Simon LewisDUBAI/WASHINGTON, Aug 4 (Reuters) - Qatar said on Tuesday mediators were making progress in efforts to end the U.S.-Iran war, driving oil prices lower, although Tehran has denied President Donald Trump's assertion that talks are already under way.",
+      "url": "https://www.al-monitor.com/originals/2026/08/qatar-says-mediators-make-progress-efforts-end-us-iran-war",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-04T034317Z_2_LYNXMPEM7306T_RTROPTP_4_IRAN-CRISIS.JPG?h=0b08cf95&itok=Nw2crqya",
+      "publishedAt": "2026-08-04T19:34:53Z",
       "source": {
-        "name": "India Today"
+        "name": "Al-Monitor"
       }
     },
     {
-      "title": "As the midterms loom, is Donald Trump\u2019s love-in with Big Oil going up in smoke?",
-      "description": "The president\u2019s sudden \u2013 and surprising \u2013 turn on the energy giants he loves so dearly shows how much pressure he is under to ease the pain for Americans at the petrol pumps, says James Moore",
-      "url": "https://www.independent.co.uk/voices/donald-trump-midterms-big-oil-exxonmobil-chevron-iran-b3027165.html",
-      "image": "https://static.independent.co.uk/2026/04/30/2/40/GettyImages-2272812005.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-08-04T13:19:26Z",
+      "title": "Strength in Stocks and Lower Crude Prices Weigh on the Dollar",
+      "description": "The dollar index (DXY00 ) fell by -0.03% on Tuesday. The dollar was under pressure Tuesday as hopes for a deal to reopen the Strait of Hormuz have boosted stocks and knocked crude oil prices sharply lower. The slide in crude oil prices lowers infla...",
+      "url": "https://www.barchart.com/story/news/3644555/strength-in-stocks-and-lower-crude-prices-weigh-on-the-dollar",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Dollars%20and%20Wallets/Puzzle%20of%20money%20by%20TPopova%20via%20iStock.jpg",
+      "publishedAt": "2026-08-04T19:33:13Z",
       "source": {
-        "name": "The Independent"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Two Workers Collapse Inside Diesel Tank Locked Since 20 Years In MP's Satna; Mayor Rewards \u20b95,100 For Rescue Team",
-      "description": "Two workers fell unconscious while cleaning a diesel tank that had remained closed for nearly 20 years at a petrol pump in Satna. They had reportedly entered the underground tank without oxygen masks or gas checks. After SDRF could not respond, the Municipal Corporation",
-      "url": "https://www.freepressjournal.in/bhopal/two-workers-collapse-inside-diesel-tank-locked-since-20-years-in-mps-satna-mayor-rewards-5100-for-rescue-team",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-04/dhu1vslw/367b29d9-382c-4c80-bdaa-ae56a26c3ae5.jpg",
-      "publishedAt": "2026-08-04T13:18:57Z",
+      "title": "in after march to PM residence against E20 petrol halted",
+      "description": "AAP national convener Arvind Kejriwal and party workers were stopped by the police while they were marching towards the Prime Minister\u2019s residence to submit petitions signed by people against the E20 blended fuel.",
+      "url": "https://www.tribuneindia.com/news/india/kejriwal-holds-sit-in-after-march-to-pm-residence-against-e20-petrol-halted/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4YmVkZTUwLTkwM2ItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-04T19:33:09Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Why India's Petrol Shift Has Motorists Fuming",
-      "description": "India's auto industry has largely supported the government.",
-      "url": "https://www.deccanchronicle.com/nation/current-affairs/why-indias-petrol-shift-has-motorists-fuming-1976544",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/08/04/2072421-e20.jpg",
-      "publishedAt": "2026-08-04T13:16:44Z",
+      "title": "'Hormuz deal with Iran today' Oil slips below $80 on truce hope",
+      "description": "Oil prices experienced a significant decline on Tuesday, falling over five percent. Hopes for a diplomatic resolution to the West Asia conflict emerged. This potential resolution could improve oil flows through the Strait of Hormuz. Talks are underway with Iran to reopen the vital shipping lane. Regional officials also discussed a potential deal with Oman for passage.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/hormuz-deal-with-iran-today-oil-slips-below-80-on-truce-hope/articleshow/132871598.cms",
+      "image": "https://img.etimg.com/thumb/msid-132871665,width-1200,height-630,imgsize-208626,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-04T19:26:00Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Optimism of Reopening Strait of Hormuz Knocks Crude Prices Lower",
+      "description": "September WTI crude oil (CLU26 ) on Tuesday closed down -4.57 (-5.69%), and September RBOB gasoline (RBU26 ) closed down -0.1145 (-3.86%). Crude oil and gasoline prices sold off sharply on Tuesday for a second day, with crude falling to a 3-week low...",
+      "url": "https://www.barchart.com/story/news/3644324/optimism-of-reopening-strait-of-hormuz-knocks-crude-prices-lower",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-08-04T19:15:26Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
