@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-06T08:14:38+00:00",
+  "updated_at": "2026-08-06T13:40:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks hold near records on hopes of an agreement with Iran",
-      "description": "Stocks held close to their records on Wall Street, while oil prices held steady. The S&P 500 slipped 0.2% Wednesday from the all-time high it set a day earlier. The Dow Jones Industrial Average rose 0.5%, and the Nasdaq composite lost 0.8%. SpaceX sank after increasing its spending on artificial intelligence. The Walt Disney Co. rose after reporting results that beat analysts\u2019 forecasts, helped by \u201cToy Story 5.\u201d European markets were mixed and Asian markets closed higher. Treasury yields slipped in the bond market. The price of Brent crude was little changed at about $79 a barrel.",
-      "url": "https://www.ajc.com/news/2026/08/stocks-hover-near-record-highs-and-oil-prices-stabilize-with-talk-of-a-deal-to-open-strait-of-hormuz/",
-      "image": "https://images.ajc.com/resizer/v2/26OOH7W4RBFE5B522Q3EYQA6T4.jpg?auth=0086c2b179072ab52438a2a9b7c2027f9bfe3ad13c6f8a713ad62725738df29c&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-05T20:11:15Z",
+      "title": "From Gift Nifty to crude oil prices: 7 key things that changed for Indian stock market overnight",
+      "description": "Gift Nifty was trading around the 24,652 level, a premium of nearly 4 points from the Nifty futures\u2019 previous close, indicating a gap-up start for the Indian stock market indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-to-crude-oil-prices-7-key-things-that-changed-for-indian-stock-market-overnight-11785978096248.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/06/1600x900/logo/stock_1785980176222_1785980176356_26c24c87-8478-43dc-87ed-0c74b463ccd7.jpg",
+      "publishedAt": "2026-08-06T01:39:13Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Livemint"
       }
     },
     {
-      "title": "US-Iran War Live: Iran rejects foreign mediation on Hormuz, no new US talks despite outreach",
-      "description": "US-Iran War News Live Updates: Iran has stepped up diplomatic efforts to avert another round of US strikes, warning Gulf states that any attack on its territory would trigger retaliation against energy infrastructure, oil facilities and US-linked assets across the region, reported Reuters. Foreign Minister Abbas Araqchi urged Saudi Arabia, Qatar and other regional partners to press Washington towards diplomacy, while Saudi Crown Prince Mohammed bin Salman reportedly asked US President Donald Trump to delay military action and revive negotiations. Trump later said talks were \"moving along nicely\" but warned Iran would be hit \"really hard\" if diplomacy failed. Even as Tehran denied formal peace talks, it confirmed progress with Oman on a proposed framework to manage shipping through the Strait of Hormuz, one of the world's most critical oil chokepoints. The proposed arrangement could give Iran greater oversight of ships entering the Gulf, although key disagreements remain. Markets reacted cautiously, with hopes of de-escalation weighing on oil prices, while continued shipping risks kept traders on edge. Tensions remained high after Yemen's Iran-backed Houthis claimed fresh attacks on Saudi oil tankers in the Red Sea and Gulf of Aden, adding to concerns over global energy supplies and regional stability. Follow IndiaToday.in for live updates.",
-      "url": "https://www.indiatoday.in/world/story/us-iran-war-news-live-updates-trump-iran-oman-gulf-states-hormuz-blockade-middle-east-conflict-oil-prices-latest-news-2964679-2026-08-06",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/breaking_news/202608/notably--the-vessel-was-among-those-stranded-west-of-the-strait-of-hormuz-at-the-onset-of-the-confl-090720879-16x9.jpg?VersionId=qDpc_oNfBaXcoN4oDLQsBcDwbcBih7Ul",
-      "publishedAt": "2026-08-05T20:10:11Z",
+      "title": "Rupee gains 26 paise to close at 95.11 against the US dollar",
+      "description": "The Indian rupee gained twenty-six paise on Wednesday, ending the session at ninety-five point eleven per dollar. This positive movement was aided by a decrease in oil prices. In addition, the Reserve Bank of India opted to keep its key interest rates unchanged while awaiting more definitive inflation data, as the situation around oil prices remains unpredictable.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-26-paise-to-close-at-95-11-against-the-us-dollar/articleshow/132978987.cms",
+      "image": "https://img.etimg.com/thumb/msid-132979038,width-1200,height-630,imgsize-10692,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-06T01:36:00Z",
       "source": {
-        "name": "India Today"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "US stocks hold near records on hopes of an agreement with Iran",
-      "description": "Stocks held close to their records on Wall Street, while oil prices held steady",
-      "url": "https://www.barchart.com/story/news/3653738/us-stocks-hold-near-records-on-hopes-of-an-agreement-with-iran",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/a4abb093d8034f85a881fe8c8d0e3f61/a4abb093d8034f85a881fe8c8d0e3f61_main_financial_markets_wall_street_724_8.jpg",
-      "publishedAt": "2026-08-05T20:06:47Z",
+      "title": "Oil remains low as truce between US and Iran hold amid dialogues",
+      "description": "Oil prices fall as Iran-Oman Strait of Hormuz shipping deal emerges. Brent crude near $79, WTI at $75. US crude stockpiles rebound.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-remains-low-as-truce-between-us-and-iran-hold-amid-dialogues-19962860.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/1783317280_vb9miukhpx-oil-pricesjpg-opraGWkhQs.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-06T01:29:35Z",
       "source": {
-        "name": "Barchart"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Mahindra launches 2026 Scorpio N at Rs 13,69,000 with panoramic sunroof, interior upgrades",
-      "description": "The updated Scorpio N continues to be offered with Mahindra's existing\u00a02.0-litre turbo-petrol\u00a0and\u00a02.2-litre diesel\u00a0engines paired with manual and automatic transmission options, along with rear-wheel-drive and four-wheel-drive configurations on select variants.",
-      "url": "https://www.financialexpress.com/auto/car-news/mahindra-launches-2026-scorpio-n-at-rs-1369000-with-panoramic-sunroof-interior-upgrades/4311544/",
-      "image": "https://images.financialexpressdigital.com/2026/08/ghggggggggggYYY3321ooo66555500oo.jpg",
-      "publishedAt": "2026-08-05T19:52:46Z",
+      "title": "Asia shares ease on tech pullback, oil stable as Iran talks stay in focus",
+      "description": "Asian shares took a \u200bbreather on Thursday after an AI-driven surge the previous day, while oil prices traded in a tight range \u200cas markets assessed prospects for an Iran peace deal.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-06/",
+      "image": "https://www.reuters.com/resizer/v2/4WJZSSV3ZFLDPKZ24LXGE2PFWA.jpg?auth=ff90cdae990d786450e06d470fbe4467598993642eb7ec06b10eba5941ef9cd0&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-06T01:27:37Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Gas prices averaged $3.79 in Iowa the week of Aug. 5",
-      "description": "The price of regular unleaded gasoline rose 4 cents from last week's price and is currently averaging $3.79 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_38dea013-537c-4cc1-bf42-d0df4d8c4cf7.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/3/8d/38dea013-537c-4cc1-bf42-d0df4d8c4cf7/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-08-05T19:45:00Z",
+      "title": "Oil prices slip as Iran-Oman talks fuel hopes for US-Iran peace deal",
+      "description": "Oil prices slipped on Thursday as investors assessed whether progress in Iran-Oman talks could pave the way for a U.S.-Iran peace deal to end the five-month war \u200band reopen the Strait of Hormuz.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-slip-iran-oman-talks-fuel-hopes-us-iran-peace-deal-2026-08-06/",
+      "image": "https://www.reuters.com/resizer/v2/N6XGKOR2IFMPRKGIOH6VSCTLRA.jpg?auth=eddbe310c6b7317b159d8f5c690f597aaa811b590d47f216d0e5788840c4b5f3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-06T01:07:27Z",
       "source": {
-        "name": "Sioux City Journal"
+        "name": "Reuters"
       }
     },
     {
-      "title": "linked proposal is well worth a try",
-      "description": "IT\u2019s an alarming paradox: in a country which records over 500 road mishap deaths every day, about 56 per cent of the registered motor vehicles are operating without mandatory insurance. The scale of non-compliance points to major lapses in enforcing the Motor Vehicles Act. No wonder the Supreme Court has taken a serious note of the matter. It has asked the Centre to try out a pilot project under which fuel can be denied at petrol pumps in the absence of valid insurance.",
-      "url": "https://www.tribuneindia.com/news/editorials/insurance-gaps-scs-fuel-linked-proposal-is-well-worth-a-try/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA2MDkyNTUwLTkxMDYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-05T19:43:52Z",
+      "title": "Global Market Today: Asian stocks drop as AI rally pauses, oil dips",
+      "description": "Asian markets experienced a dip on Thursday as Wall Street's recent tech surge showed signs of slowing down. Crude oil prices also fell slightly after Iran and Oman reached a new agreement regarding the Strait of Hormuz. Meanwhile, Sandisk and Western Digital faced significant declines following disappointing earnings reports. As investors reassess stock valuations, the geopolitical context in the Middle East is increasingly influencing oil price trends.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asian-stocks-drop-as-ai-rally-pauses-oil-dips/articleshow/132978857.cms",
+      "image": "https://img.etimg.com/thumb/msid-132978873,width-1200,height-630,imgsize-89208,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-06T01:00:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Iran says Oman transit route viable for 2-4 months; US MOU return required",
-      "description": "Iran conditions the viability of an Oman-proposed Strait of Hormuz transit route on US adherence to the Islamabad MOU, estimating a 2-4 month window. This adds complexity to US efforts to reopen the waterway without fees, amidst volatile oil prices and divergent diplomatic stances.",
-      "url": "https://scanx.trade/stock-market-news/global/mitsui-osk-warns-hormuz-traffic-may-take-weeks-to-normalize/43158853",
-      "image": "http://news-images.dhan.co/mitsui-osk-warns-hormuz-traffic-may-take-weeks-to-normalize.jpg",
-      "publishedAt": "2026-08-05T19:24:35Z",
+      "title": "RON97, unsubsidised RON95 and diesel prices down five sen this week",
+      "description": "KUALA LUMPUR, Aug 6 \u2014 The retail prices of RON97 petrol, unsubsidised RON95 and unsubsidised diesel have each decreased by five sen per litre from Aug 6 to Aug 12, 2026.\u00a0In a...",
+      "url": "https://www.malaymail.com/news/malaysia/2026/08/06/ron97-unsubsidised-ron95-and-diesel-prices-down-five-sen-this-week/230352",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/06/355678.jpg",
+      "publishedAt": "2026-08-06T00:52:51Z",
       "source": {
-        "name": "scanx.trade"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "Progress Toward Reopening the Strait of Hormuz Weighs on Oil Prices",
-      "description": "September WTI crude oil (CLU26 ) closed down -0.55 (-0.73%) on Wednesday, and September RBOB gasoline (RBU26 ) closed down -0.0134 (-0.47%). Crude oil and gasoline prices added to this week's sharp losses on Wednesday, with crude falling to a 3-week...",
-      "url": "https://www.barchart.com/story/news/3671765/progress-toward-reopening-the-strait-of-hormuz-weighs-on-oil-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-05T19:16:55Z",
+      "title": "Gold touches seven-week peak on Strait of Hormuz reopening hopes",
+      "description": "Gold advanced for a fourth straight session on Thursday and touched its highest level \u200cin seven weeks, helped by weaker oil prices, a softer dollar and lower Treasury yields, on growing hopes over the Strait of Hormuz reopening.",
+      "url": "https://www.reuters.com/world/india/gold-touches-seven-week-high-strait-hormuz-reopening-hopes-2026-08-06/",
+      "image": "https://www.reuters.com/resizer/v2/GV5E2ZCNLBMD5AW2PI6CTIY4HY.jpg?auth=7e2d7f40543ba6ffc7491a644a3adcd8387b6e7f31be6e7d50fb6cb341594d44&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-06T00:51:20Z",
       "source": {
-        "name": "Barchart"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Govt raises petrol price by Rs4.45, drops diesel by Rs2 per liter",
-      "description": "The government has increased the price of petrol while slightly reducing the price of high-speed diesel for August 6.",
-      "url": "https://www.bolnews.com/business/govt-raises-petrol-price-by-rs4-45-drops-diesel-by-rs2-per-liter/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/petrol-1.webp",
-      "publishedAt": "2026-08-05T19:13:37Z",
+      "title": "Iran and the US say a Strait of Hormuz deal is close, but one or both would have to back down",
+      "description": "Iran and Oman are finalizing an agreement concerning the Strait of Hormuz. This potential deal could reopen the vital waterway and ease global economic pressures. U.S. President Donald Trump indicated a deal might be announced this week. Attacks on regional shipping continue, impacting oil prices and trade routes. Meanwhile, a ceasefire between Israel and Hezbollah shows increasing volatility.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/iran-and-the-us-say-a-strait-of-hormuz-deal-is-close-but-one-or-both-would-have-to-back-down/articleshow/132978792.cms",
+      "image": "https://img.etimg.com/thumb/msid-132978796,width-1200,height-630,imgsize-61504,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-06T00:44:00Z",
       "source": {
-        "name": "BOL News"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Edge Higher on Warmer US Weather Forecasts",
-      "description": "September Nymex natural gas (NGU26 ) closed up +0.006 (+0.22%) on Wednesday. Nat-gas prices settled slightly higher on Wednesday amid forecasts for warmer US weather, potentially boosting nat-gas demand from electricity providers to power an expected...",
-      "url": "https://www.barchart.com/story/news/3671721/nat-gas-prices-edge-higher-on-warmer-us-weather-forecasts",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-08-05T19:13:08Z",
+      "title": "RBI needs to keep a steady hand amid uncertainty",
+      "description": "There is considerable uncertainty over the monsoon and El Nino. This could have implications for both kharif as well as rabi crops. Oil prices also remain volatile\n.",
+      "url": "https://indianexpress.com/article/opinion/editorials/rbi-monetary-policy-repo-rate-august-10819793/",
+      "image": "https://images.indianexpress.com/2026/08/Express-view-Copy-2-2.jpeg",
+      "publishedAt": "2026-08-06T00:30:40Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Indian Express"
       }
     }
   ]
