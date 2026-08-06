@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-05T19:14:00+00:00",
+  "updated_at": "2026-08-06T01:29:57+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Dow Jumps Over 900 Points As Crude Oil Falls: Investor Sentiment Improves Further, Fear Index Moves To \u2018G",
-      "description": "Market sentiment improves, Dow Jones jumps 900 points to record high. Crude oil prices fall on potential deal to reopen Strait of Hormuz.",
-      "url": "https://www.benzinga.com/markets/market-summary/26/08/60938156/dow-jumps-over-900-points-as-crude-oil-falls-investor-sentiment-improves-further-fear-index-moves-to-greed-zone",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/08/05/Fear-and-Greed.jpg",
-      "publishedAt": "2026-08-05T07:02:11Z",
+      "title": "Trump says Strait of Hormuz deal could come Wednesday as gas prices stay high",
+      "description": "2 hours agoIran shifts to political warfare, 'playing to the edge' to test Trump, expert warns",
+      "url": "https://www.europesays.com/3175932/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/1f841fef00c57683084a8600a4e75bf4.png",
+      "publishedAt": "2026-08-05T13:19:19Z",
       "source": {
-        "name": "Benzinga"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Tullow Oil raises annual cash flow view on strong Ghana output, higher oil prices",
-      "description": "West Africa-focused Tullow Oil forecast annual \u200bproduction at the higher end of its forecast \u200crange on Wednesday and raised its free cash flow projection, encouraged by strong performance at its \u200bGhana fields and better-than-expected oil price \u200brealisations.",
-      "url": "https://www.reuters.com/world/africa/tullow-oil-raises-annual-cash-flow-view-strong-ghana-output-higher-oil-prices-2026-08-05/",
-      "image": "https://www.reuters.com/resizer/v2/QMHMTYDHDZNRVJUBW2R3IPUD2M.jpg?auth=0d1f684eb8c244c7177ff16e517bc0ca537eaa69ed32054a29fed2f636cd35bc&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-05T06:59:07Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal, as companies report strong profits",
-      "description": "Asian shares have surged and oil prices slipped after the U.S. stock market rallied to records. Benchmarks jumped more than 3% in Tokyo and Seoul as shares in computer chipmakers and other AI-related...",
-      "url": "https://www.sfgate.com/news/world/article/oil-prices-ease-and-asian-shares-gain-on-hopes-22374776.php",
-      "image": "https://s.hdnux.com/photos/01/66/77/71/31194740/3/rawImage.jpg",
-      "publishedAt": "2026-08-05T06:57:14Z",
-      "source": {
-        "name": "SFGATE"
-      }
-    },
-    {
-      "title": "India bonds jump as oil crashes, dovish RBI may further boost rally",
-      "description": "Indian government bonds saw a notable rise on Wednesday morning, propelled by falling oil prices that created a favorable outlook for inflation prior to the upcoming RBI policy announcement. The Reserve Bank of India is anticipated to hold steady on key interest rates. Inflation projections will significantly inform the central bank's advice, while overnight index swap rates dipped sharply in the initial trading session.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-jump-as-oil-crashes-dovish-rbi-may-further-boost-rally/articleshow/132899559.cms",
-      "image": "https://img.etimg.com/thumb/msid-132899754,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-05T06:52:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "TVS hikes scooter prices: iQube, Orbiter, Jupiter and Ntorq get costlier",
-      "description": "TVS Motor has revised scooter prices across its range, with hikes of up to \u20b911,000 on the electric iQube and Orbiter, and increases on the petrol Jupiter and Ntorq models as well.",
-      "url": "https://www.cnbctv18.com/auto/tvs-hikes-scooter-prices-iqube-orbiter-jupiter-ntorq-electric-petrol-price-list-india-19962199.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-99ad5d4e41a12fe50d6b7b992870b81d.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-05T06:39:08Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Gold prices rise Rs 3,000/ 10 grams, silver jumps Rs 8,400/kg in 2 days on Iran peace deal hopes. What should you do?",
-      "description": "Gold and silver prices extended gains for a second straight session as easing oil prices and hopes of a U.S.-Iran peace deal lifted sentiment. Gold has risen Rs 3,000 per 10 grams and silver Rs 8,400 per kg in two days. Here's what experts recommend for traders.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-3000/-10-grams-silver-jumps-rs-8400/kg-in-2-days-on-iran-peace-deal-hopes-what-should-you-do/articleshow/132897729.cms",
-      "image": "https://img.etimg.com/thumb/msid-132898000,width-1200,height-630,imgsize-72888,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-05T06:34:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
-      "description": "Oil prices eased on hopes of progress for a deal that would allow oil tankers to exit the Persian Gulf again and deliver crude around the world.",
-      "url": "https://www.breakingnews.ie/world/trump-says-deal-to-reopen-strait-of-hormuz-could-come-as-early-as-wednesday-1936258.html",
-      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMDUwNzMzMTZcXFwvOTNlNmEyODA5OTI4NGI5ZGFmY2FkODY1ZDE2Mjc5NmQuanBnXCIsXCJ3aWR0aFwiOjEyMDAsXCJoZWlnaHRcIjo2MjcsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5icmVha2luZ25ld3MuaWVcXFwvaVxcXC9ibi1ub2ltYWdlLnBuZ1wiLFwib3B0aW9uc1wiOltdfSIsImhhc2giOiI1NDBlZTEyY2FhZTc1Zjc1YmVlMWNmOThmM2U5NDU5NDllOTc3YWY5In0=/trump-says-deal-to-reopen-strait-of-hormuz-could-come-as-early-as-wednesday.jpg",
-      "publishedAt": "2026-08-05T06:31:20Z",
-      "source": {
-        "name": "BreakingNews.ie"
-      }
-    },
-    {
-      "title": "Trump says Strait of Hormuz deal could come as Iran, Oman near reopening",
-      "description": "Trump said a deal to reopen the Strait of Hormuz could be announced within days as Iran and Oman advanced talks. The outcome could revive Gulf shipping, ease oil prices and shape efforts to end the war.",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-deal-trump-iran-oman-reopening-talks-ptag-2963902-2026-08-05",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pti-international-3-original_37-sixteen_nine.png?VersionId=Fs4JTK3Z7uT4LuITSJob2K.9m4DsEzui",
-      "publishedAt": "2026-08-05T06:14:49Z",
+      "title": "No abnormal wear or tear: E20 petrol safe for pre-2017 vehicles says Nitin Gadkari",
+      "description": "Nitin Gadkari acknowledged that the studies had indicated a 2 to 6 per cent decline in fuel efficiency. However, he said mileage was influenced by several factors beyond fuel type, including driving habits etc.",
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-safe-for-older-vehicles-says-nitin-gadkari-fuel-efficiency-may-dip-2964354-2026-08-05",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/nitin-gadkari-143940570-16x9.jpg?VersionId=2c87SORbNCkqw7hyxJQrbpOfMWmcw32L",
+      "publishedAt": "2026-08-05T13:10:00Z",
       "source": {
         "name": "India Today"
       }
     },
     {
-      "title": "Oil prices ease and Asian shares gain on hopes for Mideast deal, as companies report strong profits",
-      "description": "BANGKOK, Aug 5: \u00a0Asian shares surged, and oil prices slipped Wednesday after the US stock market rallied to records, helped by strong corporate earnings reports and hopes for a deal setting the stage for talks that might eventually lead to...",
-      "url": "https://www.dailyexcelsior.com/oil-prices-ease-and-asian-shares-gain-on-hopes-for-mideast-deal-as-companies-report-strong-profits/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTIzYmUxMjAwLTkwOTItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-05T05:54:35Z",
+      "title": "US and Iran having 'very good discussions', Trump says",
+      "description": "US President Donald Trump reported very good discussions with Iran on Tuesday. Hopes for reopening the Strait of Hormuz boosted Asian markets and oil prices. An interim agreement to reopen the waterway with Oman's agreement is reportedly nearing. Iran stated talks with Oman on safe shipping lanes were positive and continuing. The conflict has resulted in significant casualties and restricted global oil export routes.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-optimistic-on-us-iran-talks-as-oil-prices-drop-and-stocks-rise/articleshow/132929149.cms",
+      "image": "https://img.etimg.com/thumb/msid-132929512,width-1200,height-630,imgsize-68518,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-05T12:55:00Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "US and Iran having 'very good discussions', Trump says",
-      "description": "By Tala Ramadan and Kanishka SinghDUBAI/WASHINGTON, Aug 5 (Reuters) - U.S. President Donald Trump said his administration had \"very good discussions\" with Iran during all-day negotiations on Tuesday, fuelling expectations of an imminent end to the five-month conflict.Oil prices fell and stocks jumped in Asian trade on Wednesday after Wall Street hit record highs on hopes that a deal could soon be reached to restore traffic through the blockaded Strait of Hormuz.",
-      "url": "https://www.al-monitor.com/originals/2026/08/us-and-iran-having-very-good-discussions-trump-says",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-05T051956Z_1_LYNXMPEM740CB_RTROPTP_4_IRAN-CRISIS.JPG?h=0b08cf95&itok=cfYqRPdj",
-      "publishedAt": "2026-08-05T05:39:35Z",
+      "title": "2p per mile confirmed for 500,000 households with driveways",
+      "description": "500,000 customers have ditched petrol and combustible",
+      "url": "https://www.birminghammail.co.uk/news/cost-of-living/2p-per-mile-confirmed-500000-34408770",
+      "image": "https://i2-prod.birminghammail.co.uk/article34408909.ece/ALTERNATES/s1200d/0_drivers.jpg",
+      "publishedAt": "2026-08-05T12:43:34Z",
       "source": {
-        "name": "Al-Monitor"
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "DMK MP questions E20 policy, flags \u2018glaring regional imbalance\u2019 in ethanol production",
+      "description": "Questioning the Union government\u2019s ethanol-blending programme, DMK Rajya Sabha MP P Wilson said its reply leaves key concerns over consumer expenditure and regional disparities unanswered despite defending the nationwide rollout of E20 petrol.",
+      "url": "https://www.thenewsminute.com/tamil-nadu/dmk-mp-questions-e20-policy-flags-glaring-regional-imbalance-in-ethanol-production",
+      "image": "https://cf-images.assettype.com/tnm%2Fimport%2Fsites%2Fdefault%2Ffiles%2FDMK_MP_PWilson_290322_1200-2.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-05T12:43:18Z",
+      "source": {
+        "name": "The News Minute"
+      }
+    },
+    {
+      "title": "India bonds rally on 'dovish' RBI hold, lower oil prices",
+      "description": "Indian government bonds surged on Wednesday, with yields falling below important levels. The Reserve Bank of India decided to keep the repo rate steady, in line with anticipated market outcomes. A drop in oil prices helped ease inflation fears, supporting the economy. This favorable policy not only uplifted bond markets but also stimulated capital inflows, resulting in reduced overnight index swap rates.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rally-on-dovish-rbi-hold-lower-oil-prices/articleshow/132927259.cms",
+      "image": "https://img.etimg.com/thumb/msid-132927499,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-05T12:31:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel warning as cost of filling typical family car hits \u00a3100",
+      "description": "The average price of a litre of diesel has gone up by 17p a litre to 181.5p, up from a low point of 164.5p on July 9.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-diesel-warning-cost-filling-34408578",
+      "image": "https://i2-prod.birminghammail.co.uk/article34408612.ece/ALTERNATES/s1200d/0_diesel.jpg",
+      "publishedAt": "2026-08-05T12:22:17Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "BP Is Selling Another Green Energy Business. Strong Oil Prices Help Drive Best Profit Since 2022",
+      "description": "In its earnings statement, CEO Meg O'Neill said BP is taking a fresh look at the business to improve performance, reduce complexity and strengthen areas that generate stronger financial returns,",
+      "url": "https://www.ibtimes.com/bp-selling-another-green-energy-business-strong-oil-prices-help-drive-best-profit-since-2022-3806077",
+      "image": "https://d.ibtimes.com/en/full/4651885/bp-energy.jpg",
+      "publishedAt": "2026-08-05T12:00:52Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "People told Tesco fuel change in 600 stores",
+      "description": "Tesco is offering customers 5p off per litre of fuel when they spend \u00a360 or more in store which comes as UK petrol prices have soared to the highest level since the Iran war started",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/motoring/people-told-tesco-fuel-change-37516347",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37516346.ece/ALTERNATES/s1200d/0_Tesco-Extra-Petrol-Station.jpg",
+      "publishedAt": "2026-08-05T11:46:20Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Trump says deal to reopen Strait of Hormuz could come as early as Wednesday",
+      "description": "President Trump indicated a deal to reopen the Strait of Hormuz could happen soon. Hopes for a deal eased oil prices as shipping hopes increased. Attacks on shipping in the Red Sea and Strait of Hormuz continued. Iran and Oman are reportedly discussing routes for safe shipping lanes. Progress has been made in talks, but a final agreement is not yet reached.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-hints-at-deal-to-reopen-strait-of-hormuz-as-attacks-on-shipping-continue/articleshow/132923103.cms",
+      "image": "https://img.etimg.com/thumb/msid-132923231,width-1200,height-630,imgsize-35790,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-05T11:43:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
