@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-08T06:34:04+00:00",
+  "updated_at": "2026-08-08T12:25:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Kejriwal asks Goans to vote out BJP to \u2018save vehicles\u2019",
-      "description": "AAP leader Arvind Kejriwal says Goa will be among worst hit by E20 petrol rollout, citing high vehicle ownership, mileage loss, and engine damage concerns.",
-      "url": "https://timesofindia.indiatimes.com/city/goa/kejriwal-asks-goans-to-vote-out-bjp-to-save-vehicles/articleshow/133040765.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133040763,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-07T18:24:00Z",
+      "title": "New LPG subsidy strains fuel fund",
+      "description": "The Energy Ministry has announced an increase in the subsidy for liquefied petroleum gas (LPG) to keep domestic cooking gas prices unchanged, though the move adds financial pressure on the state Oil Fuel Fund.",
+      "url": "https://www.bangkokpost.com/business/general/3298304/new-lpg-subsidy-strains-fuel-fund",
+      "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/08/6181369_700.jpg",
+      "publishedAt": "2026-08-07T22:10:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Extend gas tax cut or make it permanent",
-      "description": "Carney announced in April that the government would pause collection of the federal fuel excise tax on gasoline and diesel until Labour Day, as a way to counteract rising gas prices.",
-      "url": "https://www.bnnbloomberg.ca/business/politics/2026/08/07/ford-asks-carney-to-make-federal-gas-tax-suspension-permanent/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/JSY7ROCX3WT7TZTGYXQG4YTDFA.jpg?smart=true&auth=483caa368fb114842224a6d77ba38035935eeafff73463133dac74de4fdaa1ad&width=1200&height=630",
-      "publishedAt": "2026-08-07T18:16:16Z",
+      "title": "Fuel rationing fears sparked after John Healey petrol price warning",
+      "description": "Businesses are growing increasingly concerned about rising fuel costs as petrol prices continue to climb.",
+      "url": "https://www.express.co.uk/life-style/cars/2237207/drivers-fear-fuel-rationing-john",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7084112.jpg",
+      "publishedAt": "2026-08-07T21:27:00Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Extend gas tax cut or make it permanent",
-      "description": "Carney announced in April that the government would pause collection of the federal fuel excise tax on gasoline and diesel until Labour Day, as a way to counteract rising gas prices.",
-      "url": "https://www.cp24.com/news/canada/2026/08/07/ford-asks-carney-to-make-federal-gas-tax-suspension-permanent/",
-      "image": "https://www.cp24.com/resizer/v2/JSY7ROCX3WT7TZTGYXQG4YTDFA.jpg?smart=true&auth=483caa368fb114842224a6d77ba38035935eeafff73463133dac74de4fdaa1ad&width=1200&height=630",
-      "publishedAt": "2026-08-07T18:16:16Z",
+      "title": "Tech Surge Faces Inflation Test: Fed's Next Move in Focus",
+      "description": "The recent technology-driven rally in U.S. stocks reaches record highs but faces upcoming challenges with new inflation data. Analysts are concerned about potential impacts on Federal Reserve interest rates. With treasury yields rising and oil prices fluctuating, investors keenly await next week's CPI report for further direction.",
+      "url": "https://www.devdiscourse.com/article/business/3961342-tech-surge-faces-inflation-test-feds-next-move-in-focus",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/20_08_2024_11_16_03_7279987.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-07T20:44:01Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "OMCs say E20 petrol quality within prescribed limits after nationwide tests",
-      "description": "According to press note, issued by petroleum ministry, the showed no evidence of widespread fuel contamination and there was \"no cause for alarm",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/07/omcs-say-e20-petrol-quality-within-prescribed-limits-after-nationwide-tests",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-04%2Fscfa44zz%2F202608043891326.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-07T18:09:56Z",
+      "title": "US stocks: S&P closes at record high as soft jobs report eases rate-hike concerns",
+      "description": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
+      "image": "https://img.etimg.com/thumb/msid-133041951,width-1200,height-630,imgsize-13832,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-07T20:08:00Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Markets take a breather as Oil rises on geopolitical risks",
-      "description": "Stocks took a breather on Thursday, nothing dramatic\u2014just a market repricing the geopolitical risk premium as higher oil prices and rising Treasury yields",
-      "url": "https://www.europesays.com/3180633/",
-      "image": "https://www.europesays.com/wp-content/uploads/2025/11/Commodities_Oil-2_Medium.jpg",
-      "publishedAt": "2026-08-07T18:06:49Z",
+      "title": "Birchington man arrested after armed police swoop on petrol station in Essex",
+      "description": "A 24-year-old man from Kent has been arrested after a suspected kidnapping.",
+      "url": "https://www.kentonline.co.uk/thanet/news/armed-police-swoop-on-petrol-station-and-six-arrested-after-343692/",
+      "image": "https://www.kentonline.co.uk/_media/img/Q9UCX065PBAOWAYOU40H.jpg",
+      "publishedAt": "2026-08-07T19:35:23Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Kent Online"
       }
     },
     {
-      "title": "Oil cos say nationwide tests find E20 petrol meets quality norms, reject contamination claims",
-      "description": "OMCs confirm E20 petrol quality, refuting contamination claims. Extensive testing found no high moisture or chloride, ensuring fuel safety.",
-      "url": "https://www.cnbctv18.com/auto/oil-cos-say-nationwide-tests-find-e20-petrol-meets-quality-norms-reject-contamination-claims-19964619.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-06t163920894-2026-07-0e5344325c5ab726d02f281d38215074.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-07T17:56:40Z",
+      "title": "Major DfT update on 2030 UK petrol and diesel car ban under Andy Burnham",
+      "description": "Officials at the Department for Transport have issued a new update around the UK's Zero Emissions Vehicle (ZEV) Mandate rules.",
+      "url": "https://www.express.co.uk/life-style/cars/2237192/dft-petrol-diesel-car-ban",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7084027.jpg",
+      "publishedAt": "2026-08-07T19:19:00Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "E20 petrol meets quality standards, say OMCs citing new tests",
-      "description": "OMCs say they have further strengthened surveillance by conducting water ingress and density tests 8\u201312 times daily at every retail outlet.",
-      "url": "https://www.livemint.com/news/india/e20-petrol-meets-quality-standards-say-omcs-citing-new-tests-11786119807934.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/07/1600x900/logo/Ethanol_petrol_vehicles_1780663578590_178066357870_1786121788966_1786121789120_bf2a48a1-94ec-4de6-b445-a371b474ce6a.jpg",
-      "publishedAt": "2026-08-07T17:04:34Z",
+      "title": "Uncertainty Over Reopening of Strait of Hormuz Lifts Crude Prices",
+      "description": "September WTI crude oil (CLU26 ) closed up +0.89 (+1.15%) on Friday, and September RBOB gasoline (RBU26 ) closed up +0.0468 (+1.59%). Crude oil and gasoline prices settled higher on Friday, supported by a decline in the dollar ($DXY ) to a 7-week low...",
+      "url": "https://www.barchart.com/story/news/3725306/uncertainty-over-reopening-of-strait-of-hormuz-lifts-crude-prices",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-08-07T19:13:36Z",
       "source": {
-        "name": "Livemint"
+        "name": "Barchart"
       }
     },
     {
-      "title": "'Stop buying petrol, diesel vehicles until govt clarifies stand': Arvind Kejriwal over E20 fuel concerns",
-      "description": "India News: Aam Aadmi Party (AAP) national convenor Arvind Kejriwal on Friday appealed to people to stop buying petrol and diesel vehicles until the government ma.",
-      "url": "https://timesofindia.indiatimes.com/india/stop-buying-petrol-diesel-vehicles-until-govt-clarifies-stand-arvind-kejriwal-over-e20-fuel-concerns/articleshow/133038569.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133038600,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-07T16:42:00Z",
+      "title": "Godrej Consumer margins hit hard by oil prices",
+      "description": "Godrej Consumer Products said surging LPG, kerosene and LABSA costs hit its India margins in the June quarter despite healthy volumes. Consolidated revenue rose 18.3% and profit 11.5%, while the company expects commodity pressures to ease in the second half.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-margins-hit-hard-by-oil-prices/articleshow/133041584.cms",
+      "image": "https://img.etimg.com/thumb/msid-133041594,width-1200,height-630,imgsize-119226,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-07T19:13:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "No cause for alarm: Oil firms reject chloride, moisture contamination claims in E20",
-      "description": "Indian Oil, BPCL and HPCL said nationwide tests found E20 petrol met prescribed quality norms. The companies said the results counter contamination concerns and support continued consumer confidence.",
-      "url": "https://www.indiatoday.in/business/story/e20-petrol-quality-reject-chloride-moisture-contamination-claims-oil-companies-ethanol-2966123-2026-08-07",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/e20-fuel-ethanol-in-petrol-073527643-16x9_0.jpg?VersionId=ZDSKNLe6E2qD_3RwhJedlD8P8ai0rTNw",
-      "publishedAt": "2026-08-07T16:39:43Z",
+      "title": "Nat-Gas Prices Supported by Stronger US LNG Exports",
+      "description": "September Nymex natural gas (NGU26 ) closed up +0.022 (+0.83%) on Friday. Nat-gas prices settled higher on Friday as stronger US nat-gas exports draw domestic supplies down. Estimated LNG net flows to US LNG export terminals on Friday were 18.6 bcf/d...",
+      "url": "https://www.barchart.com/story/news/3725295/nat-gas-prices-supported-by-stronger-us-lng-exports",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
+      "publishedAt": "2026-08-07T19:12:20Z",
       "source": {
-        "name": "India Today"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
-      "description": "The S&P 500 and Dow Jones hit highs while the Nasdaq raced above key levels as oil prices and yields fell. Palantir, SpaceX were big movers.",
-      "url": "https://www.investors.com/news/stock-market-rally-powers-ahead-spacex-palantir-sandisk-are-key-earnings-movers-weekly-review/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/08/Stock-Bull-GrnMrkt-Adobe.jpg",
-      "publishedAt": "2026-08-07T16:35:07Z",
+      "title": "Oil minister Hardeep Singh Puri dismisses concerns about fuel adulteration",
+      "description": "Hardeep Singh Puri addressed the issue of fuel adulteration, asserting that concerns over it are baseless. A nationwide investigation uncovered only four instances at various petrol stations. He emphasized that oil marketing firms implement strict testing protocols. Analysis results indicate that chloride levels remain safe and do not support allegations of excessive chloride presence.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-minister-hardeep-singh-puri-dismisses-concerns-about-fuel-adulteration/articleshow/133041535.cms",
+      "image": "https://img.etimg.com/thumb/msid-133041568,width-1200,height-630,imgsize-66694,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-07T19:11:00Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "The Economic Times"
       }
     }
   ]
