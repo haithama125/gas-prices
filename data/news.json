@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-08T12:25:56+00:00",
+  "updated_at": "2026-08-08T18:21:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "New LPG subsidy strains fuel fund",
-      "description": "The Energy Ministry has announced an increase in the subsidy for liquefied petroleum gas (LPG) to keep domestic cooking gas prices unchanged, though the move adds financial pressure on the state Oil Fuel Fund.",
-      "url": "https://www.bangkokpost.com/business/general/3298304/new-lpg-subsidy-strains-fuel-fund",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/08/6181369_700.jpg",
-      "publishedAt": "2026-08-07T22:10:00Z",
+      "title": "Why petrol car sales in India are going down",
+      "description": "Petrol car sales declined in July as diesel vehicles gained traction, driven by concerns over E20 ethanol compatibility, alongside rising adoption of CNG, hybrids, and EVs.",
+      "url": "https://www.newsbytesapp.com/news/auto/petrol-ethanol-losing-ground-as-e20-concerns-grow-fada/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l94920260808112907.jpeg",
+      "publishedAt": "2026-08-08T06:00:13Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Fuel rationing fears sparked after John Healey petrol price warning",
-      "description": "Businesses are growing increasingly concerned about rising fuel costs as petrol prices continue to climb.",
-      "url": "https://www.express.co.uk/life-style/cars/2237207/drivers-fear-fuel-rationing-john",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7084112.jpg",
-      "publishedAt": "2026-08-07T21:27:00Z",
+      "title": "9 Million Indians in the Firing Line: The Gulf Danger No One Is Talking About",
+      "description": "Since the onset of the Iran war, India's focus has primarily been on rising oil prices, but a more pressing issue lies with the 9.6 million Indians residing in the Gulf states, where escalating tensions have created risks. , India News, Times Now",
+      "url": "https://www.timesnownews.com/india/9-million-indians-in-the-firing-line-the-gulf-danger-no-one-is-talking-about-article-155384784",
+      "image": "https://images.timesnownews.com/thumb/msid-155384801,thumbsize-1466397,width-1280,height-720,resizemode-75/155384801.jpg",
+      "publishedAt": "2026-08-08T05:41:50Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Tech Surge Faces Inflation Test: Fed's Next Move in Focus",
-      "description": "The recent technology-driven rally in U.S. stocks reaches record highs but faces upcoming challenges with new inflation data. Analysts are concerned about potential impacts on Federal Reserve interest rates. With treasury yields rising and oil prices fluctuating, investors keenly await next week's CPI report for further direction.",
-      "url": "https://www.devdiscourse.com/article/business/3961342-tech-surge-faces-inflation-test-feds-next-move-in-focus",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/20_08_2024_11_16_03_7279987.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-07T20:44:01Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "US stocks: S&P closes at record high as soft jobs report eases rate-hike concerns",
-      "description": "The US stock market enjoyed a significant boost on Friday as the S&P closed at an all-time high. The unexpected rise in job losses led to reduced expectations for a Federal Reserve interest rate hike in September. Strong earnings from corporations further propelled market indices upward. Meanwhile, a dip in oil prices, influenced by advancing peace talks, helped to soothe inflation fears.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-sp-closes-at-record-high-as-soft-jobs-report-eases-rate-hike-concerns/articleshow/133041941.cms",
-      "image": "https://img.etimg.com/thumb/msid-133041951,width-1200,height-630,imgsize-13832,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-07T20:08:00Z",
+      "title": "Rupee steady as oil firms buy dollars",
+      "description": "The Indian rupee showed minimal movement against the dollar on Friday, closing nearly unchanged. Oil companies actively bought dollars to restrict any considerable appreciation of the rupee. State-run banks also contributed to dollar selling in the market. The rupee fluctuated within a narrow scope, revealing a slightly negative trend, while Brent crude oil prices stabilized around eighty-three to eighty-four dollars per barrel.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-steady-as-oil-firms-buy-dollars/articleshow/133046429.cms",
+      "image": "https://img.etimg.com/thumb/msid-133046598,width-1200,height-630,imgsize-10692,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-08T04:42:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Birchington man arrested after armed police swoop on petrol station in Essex",
-      "description": "A 24-year-old man from Kent has been arrested after a suspected kidnapping.",
-      "url": "https://www.kentonline.co.uk/thanet/news/armed-police-swoop-on-petrol-station-and-six-arrested-after-343692/",
-      "image": "https://www.kentonline.co.uk/_media/img/Q9UCX065PBAOWAYOU40H.jpg",
-      "publishedAt": "2026-08-07T19:35:23Z",
-      "source": {
-        "name": "Kent Online"
-      }
-    },
-    {
-      "title": "Major DfT update on 2030 UK petrol and diesel car ban under Andy Burnham",
-      "description": "Officials at the Department for Transport have issued a new update around the UK's Zero Emissions Vehicle (ZEV) Mandate rules.",
-      "url": "https://www.express.co.uk/life-style/cars/2237192/dft-petrol-diesel-car-ban",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7084027.jpg",
-      "publishedAt": "2026-08-07T19:19:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Uncertainty Over Reopening of Strait of Hormuz Lifts Crude Prices",
-      "description": "September WTI crude oil (CLU26 ) closed up +0.89 (+1.15%) on Friday, and September RBOB gasoline (RBU26 ) closed up +0.0468 (+1.59%). Crude oil and gasoline prices settled higher on Friday, supported by a decline in the dollar ($DXY ) to a 7-week low...",
-      "url": "https://www.barchart.com/story/news/3725306/uncertainty-over-reopening-of-strait-of-hormuz-lifts-crude-prices",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-07T19:13:36Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Godrej Consumer margins hit hard by oil prices",
-      "description": "Godrej Consumer Products said surging LPG, kerosene and LABSA costs hit its India margins in the June quarter despite healthy volumes. Consolidated revenue rose 18.3% and profit 11.5%, while the company expects commodity pressures to ease in the second half.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/godrej-consumer-margins-hit-hard-by-oil-prices/articleshow/133041584.cms",
-      "image": "https://img.etimg.com/thumb/msid-133041594,width-1200,height-630,imgsize-119226,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-07T19:13:00Z",
+      "title": "Wall Street Week Ahead: Inflation data to test record-setting US stocks, Fed rate views",
+      "description": "Upcoming inflation data poses a challenge to the stock market's recent technology-driven surge. Analysts predict a rise in consumer prices, which might sway the Federal Reserves monetary policy. Meanwhile, easing geopolitical concerns and dipping oil prices have provided some reprieve to investors. Strong corporate earnings are exceeding forecasts, fostering a positive outlook for stocks, while fluctuations in yields and oil prices are being meticulously observed.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views/articleshow/133046458.cms",
+      "image": "https://img.etimg.com/thumb/msid-133046467,width-1200,height-630,imgsize-189688,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-08T04:26:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Nat-Gas Prices Supported by Stronger US LNG Exports",
-      "description": "September Nymex natural gas (NGU26 ) closed up +0.022 (+0.83%) on Friday. Nat-gas prices settled higher on Friday as stronger US nat-gas exports draw domestic supplies down. Estimated LNG net flows to US LNG export terminals on Friday were 18.6 bcf/d...",
-      "url": "https://www.barchart.com/story/news/3725295/nat-gas-prices-supported-by-stronger-us-lng-exports",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20storage%20facility%20by%20roibu%20via%20Adobe%20Stock.jpeg",
-      "publishedAt": "2026-08-07T19:12:20Z",
+      "title": "Prices of Petrol and High Speed Diesel slashed by Rs2.20 per litre and Rs1.50 per litre respectively",
+      "description": "ISLAMABAD\u00a0 -\u00a0 \u00a0The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively,",
+      "url": "https://www.nation.com.pk/08-Aug-2026/prices-petrol-high-speed-diesel-slashed-rs2-20-per-litre-rs1-50-per-litre-respectively",
+      "image": "https://www.nation.com.pk/print_images/large/2026-08-08/prices-petrol-high-speed-diesel-slashed-rs2-20-per-litre-rs1-50-per-litre-respectively-1786162282-8746.jpg",
+      "publishedAt": "2026-08-08T04:11:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Oil minister Hardeep Singh Puri dismisses concerns about fuel adulteration",
-      "description": "Hardeep Singh Puri addressed the issue of fuel adulteration, asserting that concerns over it are baseless. A nationwide investigation uncovered only four instances at various petrol stations. He emphasized that oil marketing firms implement strict testing protocols. Analysis results indicate that chloride levels remain safe and do not support allegations of excessive chloride presence.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/oil-minister-hardeep-singh-puri-dismisses-concerns-about-fuel-adulteration/articleshow/133041535.cms",
-      "image": "https://img.etimg.com/thumb/msid-133041568,width-1200,height-630,imgsize-66694,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-07T19:11:00Z",
+      "title": "Labor backs 'strong' fuel supply as petrol prices bite",
+      "description": "Drivers continue to feel the pinch at the bowser despite strong national fuel supplies, as the ongoing volatile...",
+      "url": "https://www.canberratimes.com.au/story/9326264/labor-backs-strong-fuel-supply-as-petrol-prices-bite/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d6eb64e1-c5a2-4a8b-837b-ab898031d77a.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-08-08T04:00:02Z",
+      "source": {
+        "name": "The Canberra Times"
+      }
+    },
+    {
+      "title": "D-Street overcomes CAS pain to post weekly gains",
+      "description": "In a week marked by volatility, Indian equity indices ended on a positive note, showcasing their ability to bounce back. The initial worries prompted by the closing auction system quickly faded, as diminishing global oil prices and easing geopolitical conflicts uplifted investor sentiment. Mid and small-cap sectors demonstrated significant strength, with institutional investors, both domestic and foreign, snapping up Indian equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
+      "image": "https://img.etimg.com/thumb/msid-133046074,width-1200,height-630,imgsize-2153013,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-08T03:49:00Z",
       "source": {
         "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "D-Street overcomes CAS pain to post weekly gains",
+      "description": "In a week marked by volatility, Indian equity indices ended on a positive note, showcasing their ability to bounce back. The initial worries prompted by the closing auction system quickly faded, as diminishing global oil prices and easing geopolitical conflicts uplifted investor sentiment. Mid and small-cap sectors demonstrated significant strength, with institutional investors, both domestic and foreign, snapping up Indian equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
+      "image": "https://img.etimg.com/thumb/msid-133046074,width-1200,height-630,imgsize-2153013,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-08T03:49:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Amritsar CP Gurpreet Bhullar Removed After Jantar Mantar Remarks; BJP Alleges Kejriwal Role",
+      "description": "BJP leaders criticized the timing, alleging Bhullar was removed due to his remarks. They claim he thwarted a terror plot involving petrol bombs. The AAP has not linked his transfer to the case, amidst ongoing political controversies in Punjab. Bittu also criticized local governance issues.",
+      "url": "https://www.republicworld.com/india/amritsar-cp-gurpreet-bhullar-removed-after-jantar-mantar-remarks-bjp-alleges-kejriwal-role-2026-08-08-134269",
+      "image": "https://img.republicworld.com/all_images/2026/08/amritsar-cp-gurpreet-bhullar-removed-after-jantar-mantar-remarks-bjp-alleges-kejriwal-role-1786159321305-1280x720.webp",
+      "publishedAt": "2026-08-08T03:22:06Z",
+      "source": {
+        "name": "Republic World"
+      }
+    },
+    {
+      "title": "US markets close higher; S&P 500 has best week since April",
+      "description": "US job market slows, boosting S&P 500 to new highs. Fed rate hike speculation cools, oil prices soften.",
+      "url": "https://www.cnbctv18.com/market/us-markets-close-higher-sp-500-has-best-week-since-april-19964686.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/playsimple-1-2026-08-b3bde16b12659e6b731c62329dfd16e2.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-08T03:13:14Z",
+      "source": {
+        "name": "CNBC TV18"
       }
     }
   ]
