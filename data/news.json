@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-08T18:21:36+00:00",
+  "updated_at": "2026-08-09T00:55:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why petrol car sales in India are going down",
-      "description": "Petrol car sales declined in July as diesel vehicles gained traction, driven by concerns over E20 ethanol compatibility, alongside rising adoption of CNG, hybrids, and EVs.",
-      "url": "https://www.newsbytesapp.com/news/auto/petrol-ethanol-losing-ground-as-e20-concerns-grow-fada/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l94920260808112907.jpeg",
-      "publishedAt": "2026-08-08T06:00:13Z",
-      "source": {
-        "name": "NewsBytes"
-      }
-    },
-    {
-      "title": "9 Million Indians in the Firing Line: The Gulf Danger No One Is Talking About",
-      "description": "Since the onset of the Iran war, India's focus has primarily been on rising oil prices, but a more pressing issue lies with the 9.6 million Indians residing in the Gulf states, where escalating tensions have created risks. , India News, Times Now",
-      "url": "https://www.timesnownews.com/india/9-million-indians-in-the-firing-line-the-gulf-danger-no-one-is-talking-about-article-155384784",
-      "image": "https://images.timesnownews.com/thumb/msid-155384801,thumbsize-1466397,width-1280,height-720,resizemode-75/155384801.jpg",
-      "publishedAt": "2026-08-08T05:41:50Z",
+      "title": "Indian Markets Have A Strong Shield, But SEBI Flags 3 Risks That Could Shake Them In 2026-27",
+      "description": "SEBI sees Indian markets supported by strong domestic fundamentals, but warns that oil prices, geopolitics and volatile FPI flows could drive risks., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/indian-markets-have-a-strong-shield-but-sebi-flags-3-risks-that-could-shake-them-in-2026-27-article-155386125",
+      "image": "https://images.timesnownews.com/thumb/msid-155386201,thumbsize-24434,width-1280,height-720,resizemode-75/155386201.jpg",
+      "publishedAt": "2026-08-08T11:18:28Z",
       "source": {
         "name": "Times Now"
       }
     },
     {
-      "title": "Rupee steady as oil firms buy dollars",
-      "description": "The Indian rupee showed minimal movement against the dollar on Friday, closing nearly unchanged. Oil companies actively bought dollars to restrict any considerable appreciation of the rupee. State-run banks also contributed to dollar selling in the market. The rupee fluctuated within a narrow scope, revealing a slightly negative trend, while Brent crude oil prices stabilized around eighty-three to eighty-four dollars per barrel.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-steady-as-oil-firms-buy-dollars/articleshow/133046429.cms",
-      "image": "https://img.etimg.com/thumb/msid-133046598,width-1200,height-630,imgsize-10692,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-08T04:42:00Z",
+      "title": "No moisture or high chloride contamination in E20 petrol: OMCs",
+      "description": "State-run oil marketing companies affirmed that nationwide tests of E20 petrol showed no chloride contamination or moisture, ensuring fuel quality remains within prescribed limits.",
+      "url": "https://www.newsbytesapp.com/news/auto/no-high-chloride-contamination-or-moisture-found-in-e20-tests/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l271_5271786186324.jpg",
+      "publishedAt": "2026-08-08T11:09:09Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Wall Street Week Ahead: Inflation data to test record-setting US stocks, Fed rate views",
-      "description": "Upcoming inflation data poses a challenge to the stock market's recent technology-driven surge. Analysts predict a rise in consumer prices, which might sway the Federal Reserves monetary policy. Meanwhile, easing geopolitical concerns and dipping oil prices have provided some reprieve to investors. Strong corporate earnings are exceeding forecasts, fostering a positive outlook for stocks, while fluctuations in yields and oil prices are being meticulously observed.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/wall-street-week-ahead-inflation-data-to-test-record-setting-us-stocks-fed-rate-views/articleshow/133046458.cms",
-      "image": "https://img.etimg.com/thumb/msid-133046467,width-1200,height-630,imgsize-189688,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-08T04:26:00Z",
+      "title": "E20 petrol \u2018well within\u2019 quality limits, oil companies dismiss contamination concerns after nationwide tests",
+      "description": "Nationwide testing of E20 discovered no evidence to support claims of high moisture or chloride contamination in ethanol, as per the companies' statement. | India News",
+      "url": "https://www.hindustantimes.com/india-news/e20-ethanol-fuel-blending-centre-policy-petrol-diesel-hardeep-singh-puri-mileage-vehicle-manufacturing-companies-101786179237001.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/08/1600x900/logo/PTI08-04-2026-000174A-0_1786187008825_1786187025418_b80bb370-8334-4048-a91f-1b40e1358cbe.jpg",
+      "publishedAt": "2026-08-08T11:04:15Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Prices of Petrol and High Speed Diesel slashed by Rs2.20 per litre and Rs1.50 per litre respectively",
-      "description": "ISLAMABAD\u00a0 -\u00a0 \u00a0The Federal Government has slashed the prices of Petrol and High Speed Diesel by Rs2.20 per litre and Rs1. 50 per litre, respectively,",
-      "url": "https://www.nation.com.pk/08-Aug-2026/prices-petrol-high-speed-diesel-slashed-rs2-20-per-litre-rs1-50-per-litre-respectively",
-      "image": "https://www.nation.com.pk/print_images/large/2026-08-08/prices-petrol-high-speed-diesel-slashed-rs2-20-per-litre-rs1-50-per-litre-respectively-1786162282-8746.jpg",
-      "publishedAt": "2026-08-08T04:11:00Z",
+      "title": "Donald Trump has a gas problem",
+      "description": "With the 2026 midterm elections quickly approaching, President Donald Trump\u2019s war with Iran is ongoing and gas prices remain high. Americans are taking not",
+      "url": "https://www.newsbreak.com/news/4817656432060-donald-trump-has-a-gas-problem",
+      "image": "https://img.particlenews.com/img/id/2ZwnFw_1E3NSXUq00",
+      "publishedAt": "2026-08-08T11:00:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "NewsBreak"
       }
     },
     {
-      "title": "Labor backs 'strong' fuel supply as petrol prices bite",
-      "description": "Drivers continue to feel the pinch at the bowser despite strong national fuel supplies, as the ongoing volatile...",
-      "url": "https://www.canberratimes.com.au/story/9326264/labor-backs-strong-fuel-supply-as-petrol-prices-bite/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/d6eb64e1-c5a2-4a8b-837b-ab898031d77a.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-08-08T04:00:02Z",
+      "title": "Pakistan's inflation crisis deepens as petrol hikes trigger protests, highway blockades",
+      "description": "Public anger over rising petrol prices, inflation and heavy taxation triggered protests in Rawalpindi and neighbouring districts. Jamaat-e-Islami leaders and citizens demanded relief, withdrawal of petroleum levies and taxes, and release of detained protesters. Demonstrations also spread to Hazara, with the Karakoram Highway blocked at five points.",
+      "url": "https://www.aninews.in/news/world/asia/pakistans-inflation-crisis-deepens-as-petrol-hikes-trigger-protests-highway-blockades20260808162623/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260808104952-thumbnail-320x180.png",
+      "publishedAt": "2026-08-08T10:56:23Z",
       "source": {
-        "name": "The Canberra Times"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "D-Street overcomes CAS pain to post weekly gains",
-      "description": "In a week marked by volatility, Indian equity indices ended on a positive note, showcasing their ability to bounce back. The initial worries prompted by the closing auction system quickly faded, as diminishing global oil prices and easing geopolitical conflicts uplifted investor sentiment. Mid and small-cap sectors demonstrated significant strength, with institutional investors, both domestic and foreign, snapping up Indian equities.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
-      "image": "https://img.etimg.com/thumb/msid-133046074,width-1200,height-630,imgsize-2153013,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-08T03:49:00Z",
+      "title": "Gold price jumps as reopening of Strait of Hormuz buzz dents US Fed rate-hike hopes. Is it the right time to buy gold?",
+      "description": "Gold rate today: Gold price registered 8% weekly gain, as easing tension in the Middle East and falling oil prices have cooled down inflation concerns",
+      "url": "https://www.livemint.com/market/commodities/gold-rate-today-jumps-as-strait-of-hormuz-reopening-buzz-dents-us-fed-rate-hike-hopes-is-it-the-right-time-to-buy-gold-11786181435240.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/08/1600x900/logo/Gold_rate_today_Gold_Price_US_dollar_Fed_rate_1786182795787_1786182795945_d448f9d0-b4aa-423a-a418-98e47448cae7.png",
+      "publishedAt": "2026-08-08T10:43:06Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "D-Street overcomes CAS pain to post weekly gains",
-      "description": "In a week marked by volatility, Indian equity indices ended on a positive note, showcasing their ability to bounce back. The initial worries prompted by the closing auction system quickly faded, as diminishing global oil prices and easing geopolitical conflicts uplifted investor sentiment. Mid and small-cap sectors demonstrated significant strength, with institutional investors, both domestic and foreign, snapping up Indian equities.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-overcomes-cas-pain-to-post-weekly-gains/articleshow/133046028.cms",
-      "image": "https://img.etimg.com/thumb/msid-133046074,width-1200,height-630,imgsize-2153013,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-08T03:49:00Z",
+      "title": "Crude oil prices may stay volatile as Hormuz tensions persist",
+      "description": "Crude oil prices may remain volatile next week as markets monitor developments around the Strait of Hormuz. Experts said the Indian rupee could strengthen",
+      "url": "https://www.europesays.com/3182094/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/crude-oil-1-1-1.jpg",
+      "publishedAt": "2026-08-08T10:34:24Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Amritsar CP Gurpreet Bhullar Removed After Jantar Mantar Remarks; BJP Alleges Kejriwal Role",
-      "description": "BJP leaders criticized the timing, alleging Bhullar was removed due to his remarks. They claim he thwarted a terror plot involving petrol bombs. The AAP has not linked his transfer to the case, amidst ongoing political controversies in Punjab. Bittu also criticized local governance issues.",
-      "url": "https://www.republicworld.com/india/amritsar-cp-gurpreet-bhullar-removed-after-jantar-mantar-remarks-bjp-alleges-kejriwal-role-2026-08-08-134269",
-      "image": "https://img.republicworld.com/all_images/2026/08/amritsar-cp-gurpreet-bhullar-removed-after-jantar-mantar-remarks-bjp-alleges-kejriwal-role-1786159321305-1280x720.webp",
-      "publishedAt": "2026-08-08T03:22:06Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12630883",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-4goodmorningnorthbaybct-4-homegrown-earlton-tanya-inglis.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-08T10:00:00Z",
       "source": {
-        "name": "Republic World"
+        "name": "BayToday"
       }
     },
     {
-      "title": "US markets close higher; S&P 500 has best week since April",
-      "description": "US job market slows, boosting S&P 500 to new highs. Fed rate hike speculation cools, oil prices soften.",
-      "url": "https://www.cnbctv18.com/market/us-markets-close-higher-sp-500-has-best-week-since-april-19964686.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/playsimple-1-2026-08-b3bde16b12659e6b731c62329dfd16e2.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-08T03:13:14Z",
+      "title": "Natural gas prices facing downward trend: Is recovery possible?",
+      "description": "Natural gas prices have declined despite Middle East geopolitical risks, with NYMEX hovering near $2.68/MMBtu and MCX below \u20b9260/MMBtu, driven by supply-demand fundamentals.",
+      "url": "https://www.newsbytesapp.com/news/business/natural-gas-prices-continue-to-decline-despite-geopolitical-tensions/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l85320260808133823.jpeg",
+      "publishedAt": "2026-08-08T09:49:27Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "NewsBytes"
+      }
+    },
+    {
+      "title": "Social welfare Ireland: Key payment dates and changes for September you need to know",
+      "description": "There are some key dates and changes to note for September, including the Fuel Allowance return date, Back to School Allowance deadline and petrol and diesel price rises",
+      "url": "https://www.irishmirror.ie/news/irish-news/social-welfare-ireland-key-payment-37528034",
+      "image": "https://i2-prod.irishmirror.ie/article37246597.ece/ALTERNATES/s1200d/1_GettyImages-1209037033.jpg",
+      "publishedAt": "2026-08-08T09:39:57Z",
+      "source": {
+        "name": "Irish Mirror"
       }
     }
   ]
