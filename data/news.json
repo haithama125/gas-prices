@@ -1,9 +1,29 @@
 {
-  "updated_at": "2026-08-09T06:37:38+00:00",
+  "updated_at": "2026-08-09T12:28:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "\u2018Kitna deti hai?\u2019 is no longer enough as Indian car buyers start doing the maths beyond mileage and EMI",
+      "description": "Indian car buyers are increasingly looking beyond purchase price and mileage to assess total ownership costs, including fuel or electricity, maintenance, insurance, financing and resale value. The shift is gaining pace as petrol, CNG, hybrid and electric vehicles compete for buyers.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/kitna-deti-hai-is-no-longer-enough-as-indian-car-buyers-start-doing-the-maths-beyond-mileage-and-emi/articleshow/133056667.cms",
+      "image": "https://img.etimg.com/thumb/msid-133056973,width-1200,height-630,imgsize-61652,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-09T00:00:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Volatile oil prices deliver windfall to energy-producing states",
+      "description": "Elevated oil prices are driving up tax collections in states such as Alaska, New Mexico and Texas, delivering a windfall that will help lawmakers fund state services.",
+      "url": "https://azcapitoltimes.com/news/2026/08/08/volatile-oil-prices-deliver-windfall-to-energy-producing-states/",
+      "image": "https://azcapitoltimes.com/files/2025/04/FOCUS-Grounwater-scaled-e1745608801418.jpg",
+      "publishedAt": "2026-08-08T22:33:05Z",
+      "source": {
+        "name": "Arizona Capitol Times"
+      }
+    },
     {
       "title": "Make E20 fuel optional, demand motorists",
       "description": "Kolkata townhall protest urges Centre to make E20 ethanol-blended petrol optional, citing mileage drops and vehicle damage; oil dealers say fuel is safe.",
@@ -82,26 +102,6 @@
       "publishedAt": "2026-08-08T14:13:26Z",
       "source": {
         "name": "scanx.trade"
-      }
-    },
-    {
-      "title": "Ethanol vs EVs: Technology has moved on, and so should govt policy",
-      "description": "Business & Economy News: Former Delhi chief minister Arvind Kejriwal and Congress leader Rahul Gandhi have seized on growing public resentment against E20 petrol. Many motoris.",
-      "url": "https://timesofindia.indiatimes.com/toi-plus/business-economy/ethanol-vs-evs-technology-has-moved-on-and-so-should-govt-policy/articleshow/133048485.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133053623,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-08T13:22:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Oil companies say E20 is safe after nationwide testing, rules out contamination",
-      "description": "Amid recent media reports on moisture and chloride in EBMS (E20 Petrol), Oil Marketing Companies carried out a nationwide additional intensive testing covering the entire EBMS supply chain.",
-      "url": "https://www.greaterkashmir.com/national/oil-companies-say-e20-is-safe-after-nationwide-testing-rules-out-contamination-12242719",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2023/08/fuel_shortage.jpg",
-      "publishedAt": "2026-08-08T13:08:55Z",
-      "source": {
-        "name": "Greater Kashmir"
       }
     }
   ]
