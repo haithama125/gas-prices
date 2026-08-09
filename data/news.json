@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-08-09T12:28:34+00:00",
+  "updated_at": "2026-08-09T18:24:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol, diesel prices today, August 9: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "In other major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above \u20b9110 per litre.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-9-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548160-2026-08-09",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a78083686e2a-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-095512739-16x9.jpg",
+      "publishedAt": "2026-08-09T05:00:57Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Unlicensed driver allegedly reverses into Singapore petrol station attendant, killing him",
+      "description": "SINGAPORE, Aug 9 \u2014 A 69-year-old petrol station attendant was killed after he was struck by a car said to be driven in reverse by an unlicensed 22-year-old man at a Singapore...",
+      "url": "https://www.malaymail.com/news/singapore/2026/08/09/unlicensed-driver-allegedly-reverses-into-singapore-petrol-station-attendant-killing-him/230666",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/09/356134.jpg",
+      "publishedAt": "2026-08-09T03:03:57Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today - 9 Aug: Fuel rates in Delhi, Gurugram, Jaipur as Iran sets new terms to end war with US",
+      "description": "Petrol, diesel prices today \u2014 9 Aug: Petrol and diesel prices in India remained on Sunday as Iran put forth new terms to end war with US. Check fuel rates in Delhi, Gurugram, Jaipur and other cities.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-9-aug-fuel-rates-in-delhi-gurugram-jaipur-as-iran-sets-new-terms-to-end-war-with-us-11786236508468.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/hh_1786236501969_1786236502103_2ea2f83d-0562-4cfb-910b-233ba2e11e9e.jpg",
+      "publishedAt": "2026-08-09T01:56:47Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
     {
       "title": "\u2018Kitna deti hai?\u2019 is no longer enough as Indian car buyers start doing the maths beyond mileage and EMI",
       "description": "Indian car buyers are increasingly looking beyond purchase price and mileage to assess total ownership costs, including fuel or electricity, maintenance, insurance, financing and resale value. The shift is gaining pace as petrol, CNG, hybrid and electric vehicles compete for buyers.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-08-08T16:40:19Z",
       "source": {
         "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Gas prices drop in Sun City West",
-      "description": "A drop in crude oil prices and optimism that the Strait of Hormuz will resume normal operations brought gas prices down in the Valley, as prices fell 7 cents",
-      "url": "https://www.europesays.com/3182582/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/20260807-091536-c97-PXL_20260807_153007174.jpg",
-      "publishedAt": "2026-08-08T16:14:22Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Yields Poised To Rise More",
-      "description": "US Treasury yields are set to rise due to high oil prices and interest rate hikes, impacting various assets and currencies.",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/yields-poised-to-rise-more/article71316655.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/n7qel0/article71318643.ece/alternates/LANDSCAPE_1200/PO09_BS_Dollar_rupee_gold_oil_web.jpg",
-      "publishedAt": "2026-08-08T14:57:42Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Commercial Syn Bags Q1 Results: Net profit surges 91% YoY to \u20b996.8 lakh",
-      "description": "Commercial Syn Bags reported Q1FY27 standalone net profit of \u20b9968.17 lakh, up 91% YoY, driven by higher crude oil prices and improved realisations. Consolidated net profit rose 61% to \u20b9893.31 lakh. Revenue grew 21% to \u20b910,830.19 lakh (standalone). The company commenced operations at its expanded Techtex Unit and continues legal proceedings regarding land acquisition for NHAI projects.",
-      "url": "https://scanx.trade/stock-market-news/companies/commercial-syn-bags-q1-results-net-profit-surges-91-yoy-to-96-8-lakh/47743996",
-      "image": "http://news-images.dhan.co/commercial-syn-bags-q1-results-net-profit-surges-91-yoy-to-96-8-lakh.jpg",
-      "publishedAt": "2026-08-08T14:13:26Z",
-      "source": {
-        "name": "scanx.trade"
       }
     }
   ]
