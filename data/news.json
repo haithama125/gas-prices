@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-08-10T07:10:01+00:00",
+  "updated_at": "2026-08-10T12:43:45+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Global Market Today: Asia stocks edge higher, oil up amid Gulf confusion",
+      "description": "Asian share markets followed Wall Street higher after a soft US jobs report. Oil prices increased slightly due to stalled Gulf peace talks and shipping lane concerns. Investors anticipate US inflation data, which could influence Federal Reserve interest rate decisions. Strong corporate earnings, particularly in AI, boosted Nasdaq futures last week. Bond yields saw a slight rise as markets prepared for new debt issuance.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms",
+      "image": "https://img.etimg.com/thumb/msid-133077041,width-1200,height-630,imgsize-183352,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-10T00:42:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Asia stocks edge higher, oil up amid Gulf confusion",
+      "description": "Asian share markets tracked Wall Street higher on Monday after a soft U.S. jobs report pared the risk of \u200ba near-term rise in borrowing costs, though a lack of progress in Gulf peace talks saw oil prices \u200ccreep higher.",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-10/",
+      "image": "https://www.reuters.com/resizer/v2/M3GAC7AHI5ISNGPA52NBJ4UFYQ.jpg?auth=4b9ffbf6fc28d59aafe365f888ea38b1e802b77b528db017a0b4ffaeb9549fbe&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-10T00:25:46Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Asian Markets Surge as Oil Prices and U.S. Job Report Influence Global Economy",
+      "description": "Asian share markets surged following Wall Street's lead after a softer-than-expected U.S. jobs report reduced the risk of imminent interest rate hikes. Meanwhile, ongoing Middle East tensions contributed to rising oil prices. Analysts anticipate crucial U.S. inflation data, which could impact Federal Reserve policies.",
+      "url": "https://www.devdiscourse.com/article/business/3961718-asian-markets-surge-as-oil-prices-and-us-job-report-influence-global-economy",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_06_2024_04_59_49_3495879.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-10T00:22:51Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Why Trump\u2019s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
+      "description": "Trump is considering extending the Jones Act waiver as gasoline prices above $4 per gallon become a growing political risk ahead of the midterms.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Trumps-Waiver-of-the-Jones-Act-Is-Unlikely-To-Lower-Gas-Prices.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-09_3zdnclvofu.jpg",
+      "publishedAt": "2026-08-09T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
+      "description": "Hopes were dashed over the weekend for a breakthrough on the Strait of Hormuz.",
+      "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
+      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-facebookJumbo.jpg",
+      "publishedAt": "2026-08-09T22:19:18Z",
+      "source": {
+        "name": "The New York Times"
+      }
+    },
+    {
+      "title": "Oil rises on uncertainty over reopening of Hormuz",
+      "description": "Oil prices rose on Monday on uncertainty over the reopening of the Strait of Hormuz anytime soon, as \u200bIran said a deal with Oman defining new shipping lanes was \u200cin its final stages but insisted the U.S. must still meet other conditions.",
+      "url": "https://www.reuters.com/business/energy/oil-rises-uncertainty-continues-over-reopening-strait-2026-08-09/",
+      "image": "https://www.reuters.com/resizer/v2/B6V7LFTQQZOAFEZEKAV4FWOYMM.jpg?auth=717c17a376234ad1dcbfed6bc2f2cd48fb4807804d03308004fe71ad74215b72&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-09T22:17:35Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Markets live updates: ASX set to lift after Wall St's record close, oil prices edge higher",
+      "description": "The ASX is expected to hit a fresh record high after Wall Street's S&P 500 also closed at a record. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-08-09T20:40:01Z",
+      "source": {
+        "name": "ABC (Australian Broadcasting Corporation)"
+      }
+    },
     {
       "title": "Troubles Keep Cracking Morbi\u2019s Ceramics Hub",
       "description": "Morbi ceramic exports fell 70% in Apr\u2013Jun 2026 on gas supply disruption, higher gas prices, container shortages and 200\u2013300% freight hikes, plus duties.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-08-09T17:09:11Z",
       "source": {
         "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Criticism of E20 policy baseless, no evidence of vehicles developing problems: Fadnavis",
-      "description": "Pune, Aug 9 (PTI) Maharashtra Chief Minister Devendra Fadnavis on Sunday defended the ethanol blending policy, saying the criticism is based on insufficient evidence. \u201cAutomobile companies have invited consumers to provide evidence if vehicles develop problems because of ethanol-blended petrol, but no one has come forward with such evidence so far,\u201d Fadnavis said in Kolhapur. [\u2026]",
-      "url": "https://theprint.in/india/criticism-of-e20-policy-baseless-no-evidence-of-vehicles-developing-problems-fadnavis/3010058/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-08-09T16:18:15Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "'Will pure petrol come from your father\u2019s house?': BJP MP courts controversy over ethanol blending",
-      "description": "Defending ethanol blending, Janardan Mishra cited Brazil as an example and termed the criticism as \"unnecessary.\"",
-      "url": "https://www.newindianexpress.com/states/madhya-pradesh/2026/Aug/09/will-pure-petrol-come-from-your-fathers-house-bjp-mp-courts-controversy-over-ethanol-blending",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-09%2Fuef04l39%2FHPRdKmJa0AA1igD.jfif?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-09T15:35:12Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Andy Burnham told to make \u2018urgent\u2019 rule change for petrol and diesel cars",
-      "description": "Andy Burnham is being encouraged to make a major change which could affect petrol and diesel cars on UK roads.",
-      "url": "https://www.express.co.uk/life-style/cars/2237490/andy-burnham-petrol-diesel-car-ban-zev-mandate",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7085525.jpg",
-      "publishedAt": "2026-08-09T15:09:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Police hunting down man who doused woman with petrol and set her on fire in Kepong",
-      "description": "KUALA LUMPUR: Police have launched a special operation to track down a man who doused an elderly woman with petrol and set her on fire in Taman Pusat Kepong here.",
-      "url": "https://www.thestar.com.my/news/nation/2026/08/09/police-hunting-down-man-who-doused-woman-with-petrol-and-set-her-on-fire-in-kepong",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/09/4051621.jpeg",
-      "publishedAt": "2026-08-09T13:59:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Sunday August 9",
-      "description": "Use our interactive widget to fill your car for less",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34428306",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article33708745.ece/ALTERNATES/s1200d/0_010426fuelprices6.jpg",
-      "publishedAt": "2026-08-09T11:08:35Z",
-      "source": {
-        "name": "Manchester Evening News"
-      }
-    },
-    {
-      "title": "Fuel prices may come down if global oil rates remain stable",
-      "description": "Federal Minister for Petroleum Ali Pervaiz Malik on Sunday said consumers could receive \u201cgood news\u201d on fuel prices if international oil prices remain stable",
-      "url": "https://www.nation.com.pk/09-Aug-2026/fuel-prices-may-come-global-oil-rates-remain-stable",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-08-09/petrol-relief-likely-oil-prices-stay-firm-says-petroleum-minister-1786270845-7375.jpg",
-      "publishedAt": "2026-08-09T10:21:00Z",
-      "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "After ethanol in petrol, it\u2019s now Bio-CNG\u2019s turn: Govt\u2019s Rs 23,731 crore push could change what powers your CNG car in the years ahead",
-      "description": "India is set to unveil the GOBARdhan scheme, targeting a significant rise in Compressed Biogas production. By transforming agricultural waste into clean fuel, this initiative promises to enhance domestic CBG production in the coming decade. Besides assisting farmers, it fosters a circular economy in waste management and seamlessly integrates into the gas infrastructure, providing benefits for CNG vehicle users.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/after-ethanol-in-petrol-its-now-bio-cngs-turn-govts-rs-23731-crore-push-could-change-what-powers-your-cng-car-in-the-years-ahead/articleshow/133065262.cms",
-      "image": "https://img.etimg.com/thumb/msid-133065707,width-1200,height-630,imgsize-81586,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-09T10:09:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
