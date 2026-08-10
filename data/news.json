@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-09T18:24:24+00:00",
+  "updated_at": "2026-08-10T00:58:05+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol, diesel prices today, August 9: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "In other major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above \u20b9110 per litre.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-9-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-548160-2026-08-09",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a78083686e2a-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-095512739-16x9.jpg",
-      "publishedAt": "2026-08-09T05:00:57Z",
+      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Sunday August 9",
+      "description": "Use our interactive widget to fill your car for less",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34428306",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article33708745.ece/ALTERNATES/s1200d/0_010426fuelprices6.jpg",
+      "publishedAt": "2026-08-09T11:08:35Z",
       "source": {
-        "name": "Business Today"
+        "name": "Manchester Evening News"
       }
     },
     {
-      "title": "Unlicensed driver allegedly reverses into Singapore petrol station attendant, killing him",
-      "description": "SINGAPORE, Aug 9 \u2014 A 69-year-old petrol station attendant was killed after he was struck by a car said to be driven in reverse by an unlicensed 22-year-old man at a Singapore...",
-      "url": "https://www.malaymail.com/news/singapore/2026/08/09/unlicensed-driver-allegedly-reverses-into-singapore-petrol-station-attendant-killing-him/230666",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/09/356134.jpg",
-      "publishedAt": "2026-08-09T03:03:57Z",
+      "title": "Fuel prices may come down if global oil rates remain stable",
+      "description": "Federal Minister for Petroleum Ali Pervaiz Malik on Sunday said consumers could receive \u201cgood news\u201d on fuel prices if international oil prices remain stable",
+      "url": "https://www.nation.com.pk/09-Aug-2026/fuel-prices-may-come-global-oil-rates-remain-stable",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-08-09/petrol-relief-likely-oil-prices-stay-firm-says-petroleum-minister-1786270845-7375.jpg",
+      "publishedAt": "2026-08-09T10:21:00Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Petrol, diesel prices today - 9 Aug: Fuel rates in Delhi, Gurugram, Jaipur as Iran sets new terms to end war with US",
-      "description": "Petrol, diesel prices today \u2014 9 Aug: Petrol and diesel prices in India remained on Sunday as Iran put forth new terms to end war with US. Check fuel rates in Delhi, Gurugram, Jaipur and other cities.",
-      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-9-aug-fuel-rates-in-delhi-gurugram-jaipur-as-iran-sets-new-terms-to-end-war-with-us-11786236508468.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/hh_1786236501969_1786236502103_2ea2f83d-0562-4cfb-910b-233ba2e11e9e.jpg",
-      "publishedAt": "2026-08-09T01:56:47Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "\u2018Kitna deti hai?\u2019 is no longer enough as Indian car buyers start doing the maths beyond mileage and EMI",
-      "description": "Indian car buyers are increasingly looking beyond purchase price and mileage to assess total ownership costs, including fuel or electricity, maintenance, insurance, financing and resale value. The shift is gaining pace as petrol, CNG, hybrid and electric vehicles compete for buyers.",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/kitna-deti-hai-is-no-longer-enough-as-indian-car-buyers-start-doing-the-maths-beyond-mileage-and-emi/articleshow/133056667.cms",
-      "image": "https://img.etimg.com/thumb/msid-133056973,width-1200,height-630,imgsize-61652,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-09T00:00:00Z",
+      "title": "After ethanol in petrol, it\u2019s now Bio-CNG\u2019s turn: Govt\u2019s Rs 23,731 crore push could change what powers your CNG car in the years ahead",
+      "description": "India is set to unveil the GOBARdhan scheme, targeting a significant rise in Compressed Biogas production. By transforming agricultural waste into clean fuel, this initiative promises to enhance domestic CBG production in the coming decade. Besides assisting farmers, it fosters a circular economy in waste management and seamlessly integrates into the gas infrastructure, providing benefits for CNG vehicle users.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/after-ethanol-in-petrol-its-now-bio-cngs-turn-govts-rs-23731-crore-push-could-change-what-powers-your-cng-car-in-the-years-ahead/articleshow/133065262.cms",
+      "image": "https://img.etimg.com/thumb/msid-133065707,width-1200,height-630,imgsize-81586,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-09T10:09:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Volatile oil prices deliver windfall to energy-producing states",
-      "description": "Elevated oil prices are driving up tax collections in states such as Alaska, New Mexico and Texas, delivering a windfall that will help lawmakers fund state services.",
-      "url": "https://azcapitoltimes.com/news/2026/08/08/volatile-oil-prices-deliver-windfall-to-energy-producing-states/",
-      "image": "https://azcapitoltimes.com/files/2025/04/FOCUS-Grounwater-scaled-e1745608801418.jpg",
-      "publishedAt": "2026-08-08T22:33:05Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12630889",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-4goodmorningnorthbaybct-5-voyageur-days-booths-mattawa-arif.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-09T10:00:00Z",
       "source": {
-        "name": "Arizona Capitol Times"
+        "name": "BayToday"
       }
     },
     {
-      "title": "Make E20 fuel optional, demand motorists",
-      "description": "Kolkata townhall protest urges Centre to make E20 ethanol-blended petrol optional, citing mileage drops and vehicle damage; oil dealers say fuel is safe.",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/make-e20-fuel-optional-demand-motorists/articleshow/133058118.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133058117,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-08T18:22:00Z",
+      "title": "Market Trading Guide: Jindal Saw among 2 stock recommendations for Monday",
+      "description": "Market sentiment remains measured as the absence of a definitive geopolitical resolution in the Middle East continues to keep crude oil prices volatile. Domestically, analysts say earnings from several industry bellwethers have been in line with or ahead of expectations, providing a constructive backdrop for sector-specific optimism and investment opportunities.2 stock recommendations for Monday Stock Ideas",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jindal-saw-among-2-stock-recommendations-for-monday/slideshow/133065621.cms",
+      "image": "https://img.etimg.com/thumb/msid-133065621,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-08-09T09:54:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Pakistan highways blockaded by Jamaat-e-Islami over steep petrol levy, crippling inflation: 'Just a trailer...'",
-      "description": "Severe disruptions engulfed transport and commercial hubs as rallies, sit-ins and blockades erupted at more than 500 points on Friday, choking vital arteries and inter-city expressways in Karachi, Lahore, Peshawar, Quetta, Islamabad, Rawalpindi and Abbottabad.",
-      "url": "https://www.moneycontrol.com/world/pakistan-highways-blockaded-by-jamaat-e-islami-over-steep-petrol-levy-crippling-inflation-just-a-trailer-article-13998845.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/03/20260309133314_Pakistan-Fuel-1.jpg",
-      "publishedAt": "2026-08-08T17:28:50Z",
+      "title": "Market Trading Guide: Jindal Saw among 2 stock recommendations for Monday",
+      "description": "Market sentiment remains measured as the absence of a definitive geopolitical resolution in the Middle East continues to keep crude oil prices volatile. Domestically, analysts say earnings from several industry bellwethers have been in line with or ahead of expectations, providing a constructive backdrop for sector-specific optimism and investment opportunities.2 stock recommendations for Monday Stock Ideas",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-jindal-saw-among-2-stock-recommendations-for-monday/stock-ideas/slideshow/133065621.cms",
+      "image": "https://img.etimg.com/thumb/msid-133065621,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-08-09T09:54:00Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Petrol and diesel drivers urged to fill up before Thursday",
-      "description": "Drivers are being told about a mistake during the current sweltering conditions which could prove costly.",
-      "url": "https://www.express.co.uk/life-style/cars/2237328/petrol-diesel-drivers-fill-thursday",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7084720.jpg",
-      "publishedAt": "2026-08-08T16:54:00Z",
+      "title": "HMRC confirms VAT rates for drivers of older petrol and diesel cars until April",
+      "description": "The charges apply to vehicles based on CO2 emissions.",
+      "url": "https://www.express.co.uk/life-style/cars/2237399/hmrc-new-vat-rates-drivers",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7085102.jpg",
+      "publishedAt": "2026-08-09T09:29:00Z",
       "source": {
         "name": "Daily Express"
       }
     },
     {
-      "title": "Islami cadres paralyse Pakistan highways over steep petrol levy, crippling inflation",
-      "description": "Thousands of people across major Pakistani cities staged nationwide protests against skyrocketing fuel prices, new petroleum levies, and rampant inflation. Organised by Jamaat-e-Islami, the demonstrations blocked key highways in over 500 locations, with party leadership threatening intensified sit-ins outside government headquarters if demands are not met.",
-      "url": "https://www.tribuneindia.com/news/world/jamaat-e-islami-cadres-paralyse-pakistan-highways-over-steep-petrol-levy-crippling-inflation/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZjZmMyZjMwLTkzNDgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-08T16:48:22Z",
+      "title": "E20 will hurt India's economy: Arvind Kejriwal intensifies attack on govt",
+      "description": "His remarks came days after AAP intensified its campaign against E20 petrol, with Kejriwal leading a march towards the Prime Minister\u2019s residence on Tuesday carrying 2.38 lakh petitions collected from across the country.",
+      "url": "https://www.indiatoday.in/india/story/e20-petrol-policy-kejriwal-says-buyers-avoiding-petrol-cars-seeks-review-2967037-2026-08-09",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/arvind-kejriwal-305640164-16x9.jpg?VersionId=0tSGZZAFK8FvwO_BU0RVfYGK2lqaAzHo",
+      "publishedAt": "2026-08-09T08:58:37Z",
       "source": {
-        "name": "The Tribune"
+        "name": "India Today"
       }
     },
     {
-      "title": "Jamaat-e-Islami cadres paralyse Pakistan highways over steep petrol levy, crippling inflation",
-      "description": "Thousands of people across major Pakistani cities staged nationwide protests against skyrocketing fuel prices, new petroleum levies, and rampant inflation. Organised by Jamaat-e-Islami, the demonstrations blocked key highways in over 500 locations, with party leadership threatening intensified sit-ins outside government headquarters if demands are not met.",
-      "url": "https://www.aninews.in/news/world/asia/jamaat-e-islami-cadres-paralyse-pakistan-highways-over-steep-petrol-levy-crippling-inflation20260808221019/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260808163942-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-08T16:40:19Z",
+      "title": "Newly Hired Petrol Pump Employee Flees With \u20b990k Collection On First Day In Indore",
+      "description": "An employee allegedly fled with \u20b990,000 from an Indore petrol pump after working his first day on July 21. Vijay Singh, hired after submitting his Aadhaar and completing training, disappeared when staff were depositing the day\u2019s collection at 11 pm. Annapurna police registered a theft case on Saturday and launched a search after his phone was found switched off.",
+      "url": "https://www.freepressjournal.in/indore/newly-hired-petrol-pump-employee-flees-with-90k-collection-on-first-day-in-indore",
+      "image": "https://media.assettype.com/freepressjournal/2024-02/2d7a56dc-29c7-4a5d-aa9f-928a5ede3435/petrol_pump_getty.jpg",
+      "publishedAt": "2026-08-09T07:42:27Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "E20 petrol damaging vehicles? Govt issues fact-check amid concerns over chloride, moisture contamination",
+      "description": "Intense debate continues over ethanol-blended petrol in India amid allegations of moisture contamination and high chloride levels. Government and industry reject claims, emphasizing rigorous testing and safety assurances.",
+      "url": "https://www.financialexpress.com/business/news/e20-petrol-damaging-vehicles-govt-issues-fact-check-amid-concerns-over-chloride-moisture-contamination/4313851/",
+      "image": "https://images.financialexpressdigital.com/2026/08/E20-petrol.jpg",
+      "publishedAt": "2026-08-09T07:26:47Z",
+      "source": {
+        "name": "The Financial Express"
       }
     }
   ]
