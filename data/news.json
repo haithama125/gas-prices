@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-10T12:43:45+00:00",
+  "updated_at": "2026-08-10T18:41:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Global Market Today: Asia stocks edge higher, oil up amid Gulf confusion",
-      "description": "Asian share markets followed Wall Street higher after a soft US jobs report. Oil prices increased slightly due to stalled Gulf peace talks and shipping lane concerns. Investors anticipate US inflation data, which could influence Federal Reserve interest rate decisions. Strong corporate earnings, particularly in AI, boosted Nasdaq futures last week. Bond yields saw a slight rise as markets prepared for new debt issuance.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-asia-stocks-edge-higher-oil-up-amid-gulf-confusion/articleshow/133077033.cms",
-      "image": "https://img.etimg.com/thumb/msid-133077041,width-1200,height-630,imgsize-183352,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-10T00:42:00Z",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "description": "BANGKOK (AP) \u2014 Shares were mixed in Asia on Monday, with Japan\u2019s Nikkei 225 leading advances after stocks rose on Wall Street, ending last week with gains.",
+      "url": "https://wtop.com/asia/2026/08/asian-shares-are-mixed-after-gains-on-wall-street-while-oil-prices-climb/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/South_Korea_Financial_Markets_5_438-scaled.jpg",
+      "publishedAt": "2026-08-10T06:32:22Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Asia stocks edge higher, oil up amid Gulf confusion",
-      "description": "Asian share markets tracked Wall Street higher on Monday after a soft U.S. jobs report pared the risk of \u200ba near-term rise in borrowing costs, though a lack of progress in Gulf peace talks saw oil prices \u200ccreep higher.",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-08-10/",
-      "image": "https://www.reuters.com/resizer/v2/M3GAC7AHI5ISNGPA52NBJ4UFYQ.jpg?auth=4b9ffbf6fc28d59aafe365f888ea38b1e802b77b528db017a0b4ffaeb9549fbe&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-10T00:25:46Z",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "description": "Shares are mixed in Asia, with Japan's Nikkei 225 leading advances after U.S. stocks ended last week with gains. Oil prices rose and U.S. futures were little changed on Monday. South Korea's Kospi logged only moderate gains as investors sold computer chipmakers Samsung Electronics and SK Hynix to lock in profits from recent surges in their share prices. On Friday, the S&P 500 rose 0.6%, topping the all-time high it set on Tuesday. The Dow Jones Industrial Average rose 0.3%, and the Nasdaq composite added 1.3%. A report said U.S. employers unexpectedly cut 23,000 jobs last month. That raised hopes the Federal Reserve might wait longer before raising interest rates to fight inflation.",
+      "url": "https://www.ajc.com/news/2026/08/asian-shares-are-mixed-after-gains-on-wall-street-while-oil-prices-climb/",
+      "image": "https://images.ajc.com/resizer/v2/WGKLTFV6LJFYRMCIGVS4RF7ACM.jpg?auth=f2f20bef41929981ac860e479e8649808aa54fdb9ee112b3e5e769283a426e29&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-10T06:31:34Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Asian Markets Surge as Oil Prices and U.S. Job Report Influence Global Economy",
-      "description": "Asian share markets surged following Wall Street's lead after a softer-than-expected U.S. jobs report reduced the risk of imminent interest rate hikes. Meanwhile, ongoing Middle East tensions contributed to rising oil prices. Analysts anticipate crucial U.S. inflation data, which could impact Federal Reserve policies.",
-      "url": "https://www.devdiscourse.com/article/business/3961718-asian-markets-surge-as-oil-prices-and-us-job-report-influence-global-economy",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_06_2024_04_59_49_3495879.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-10T00:22:51Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Why Trump\u2019s Waiver of the Jones Act Is Unlikely To Lower Gas Prices",
-      "description": "Trump is considering extending the Jones Act waiver as gasoline prices above $4 per gallon become a growing political risk ahead of the midterms.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Why-Trumps-Waiver-of-the-Jones-Act-Is-Unlikely-To-Lower-Gas-Prices.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-09_3zdnclvofu.jpg",
-      "publishedAt": "2026-08-09T23:00:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Oil Prices Climb and Stocks Dip on Stalemate in Iran War",
-      "description": "Hopes were dashed over the weekend for a breakthrough on the Strait of Hormuz.",
-      "url": "https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html",
-      "image": "https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-facebookJumbo.jpg",
-      "publishedAt": "2026-08-09T22:19:18Z",
-      "source": {
-        "name": "The New York Times"
-      }
-    },
-    {
-      "title": "Oil rises on uncertainty over reopening of Hormuz",
-      "description": "Oil prices rose on Monday on uncertainty over the reopening of the Strait of Hormuz anytime soon, as \u200bIran said a deal with Oman defining new shipping lanes was \u200cin its final stages but insisted the U.S. must still meet other conditions.",
-      "url": "https://www.reuters.com/business/energy/oil-rises-uncertainty-continues-over-reopening-strait-2026-08-09/",
-      "image": "https://www.reuters.com/resizer/v2/B6V7LFTQQZOAFEZEKAV4FWOYMM.jpg?auth=717c17a376234ad1dcbfed6bc2f2cd48fb4807804d03308004fe71ad74215b72&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-09T22:17:35Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Markets live updates: ASX set to lift after Wall St's record close, oil prices edge higher",
-      "description": "The ASX is expected to hit a fresh record high after Wall Street's S&P 500 also closed at a record. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-08-10/asx-markets-business-live-news/107014540",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-08-09T20:40:01Z",
-      "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
-      }
-    },
-    {
-      "title": "Troubles Keep Cracking Morbi\u2019s Ceramics Hub",
-      "description": "Morbi ceramic exports fell 70% in Apr\u2013Jun 2026 on gas supply disruption, higher gas prices, container shortages and 200\u2013300% freight hikes, plus duties.",
-      "url": "https://timesofindia.indiatimes.com/city/ahmedabad/troubles-keep-cracking-morbis-ceramics-hub/articleshow/133074498.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133074496,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-09T18:56:00Z",
+      "title": "\u2018Will pure petrol come from your father's house?\u2019: BJP MP on ethanol blending",
+      "description": "BHOPAL: BJP MP from Rewa, Janardan Mishra, has defended the Centre\u2019s ethanol-blending policy amid the ongoing controversy over the use of ethanol in p.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/will-pure-petrol-come-from-your-fathers-house-bjp-mp-on-ethanol-blending/articleshow/133087682.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133087777,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-10T06:28:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "BJP MP\u2019s snub to ethanol-opposing people sparks row",
-      "description": "Rewa BJP MP Janardan Mishra\u2019s remark on ethanol-blended petrol triggers controversy as he defends the policy, citing oil import reliance and Brazil example.",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/bjp-mps-snub-to-ethanol-opposing-people-sparks-row/articleshow/133072603.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133072602,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-09T17:40:00Z",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "description": "Shares are mixed in Asia, with Japan's Nikkei 225 leading advances after U.S. stocks ended last week with gains",
+      "url": "https://www.barchart.com/story/news/3749408/asian-shares-are-mixed-after-gains-on-wall-street-while-oil-prices-climb",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/e62cff0d687a48139e11241b43bb8f52/e62cff0d687a48139e11241b43bb8f52_main_financial_markets_wall_street_6932_.jpg",
+      "publishedAt": "2026-08-10T06:26:49Z",
       "source": {
-        "name": "Times of India"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Dalal Street Week Ahead: India, US inflation; US-Iran negotiations, oil prices movement, Q1 earnings among 10 key factors to watch",
-      "description": "Going ahead, the market is expected to maintain a positive bias amid consolidation, with focus on CPI inflation, the final set of quarterly earnings, developments in the US-Iran negotiations and their influence on crude oil prices, as well as US inflation and jobs data.",
-      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-india-us-inflation-us-iran-negotiations-oil-prices-movement-q1-earnings-among-10-key-factors-to-watch-13999116.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2022/01/Dalal-Street-AFP.jpg",
-      "publishedAt": "2026-08-09T17:09:11Z",
+      "title": "Asian shares are mixed after gains on Wall Street, while oil prices climb",
+      "description": "Shares are mixed in Asia, with Japan's Nikkei 225 leading advances after U.S. stocks ended last week with gains.",
+      "url": "https://www.clickondetroit.com/business/2026/08/10/asian-shares-are-mixed-after-gains-on-wall-street-while-oil-prices-climb/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/SN2MJ2JDDJBPLOCI6OLUQP7B6U.jpg?_a=DATAg1kSZAA0",
+      "publishedAt": "2026-08-10T06:26:49Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "WDIV ClickOnDetroit"
+      }
+    },
+    {
+      "title": "S&P 500, Hang Seng, Shanghai Composite, TOPIX stocks extend gains; Oil rises on Iran",
+      "description": "Global stocks near record highs as oil prices rise amidst geopolitical tensions and easing Fed rate hike concerns.",
+      "url": "https://www.thehindubusinessline.com/markets/global-stock-rally-extends-oil-advances-on-iran-markets-wrap/article71327182.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/vfrfv0/article71324446.ece/alternates/LANDSCAPE_1200/iStock-924697738.jpg",
+      "publishedAt": "2026-08-10T06:22:33Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Stock markets decline in early trade on spike in crude oil prices",
+      "description": "Stock markets open lower as crude oil prices rise, affecting India's Sensex and Nifty indices amid geopolitical tensions.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-on-spike-in-crude-oil-prices/article71327146.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ckq454/article71116509.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
+      "publishedAt": "2026-08-10T06:04:20Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Stock markets decline in early trade on spike in crude oil prices",
+      "description": "Market benchmark indices Sensex and Nifty drifted lower in early trade on Monday amid a spike in crude oil prices due to geopolitical uncertainties.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-decline-in-early-trade-on-spike-in-crude-oil-prices/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY1YmM4OTQwLTk0N2UtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-10T05:47:19Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal",
+      "description": "Crude gains as traders watch for progress in US-Iran talks that could pave the way for a deal to secure passage through the Strait of Hormuz.",
+      "url": "https://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal",
+      "image": "https://images.euronews.com/articles/stories/09/86/77/14/1200x675_cmsv2_e8cfdf20-ad74-5ed1-bb17-995cab5f2d2b-9867714.jpg",
+      "publishedAt": "2026-08-10T05:43:49Z",
+      "source": {
+        "name": "Euronews"
+      }
+    },
+    {
+      "title": "\u2018Will pure petrol come from your father\u2019s house\u2019: BJP MP Janardan Mishra defends ethanol policy",
+      "description": "BJP MP Janardan Mishra defends ethanol policy, questioning critics of blending ethanol in petrol amid India's oil import challenges.",
+      "url": "https://www.thehindu.com/news/national/will-pure-petrol-come-from-your-fathers-house-bjp-mp-janardan-mishra-defends-ethanol-policy/article71327064.ece",
+      "image": "https://th-i.thgim.com/public/incoming/e80y7k/article71327084.ece/alternates/LANDSCAPE_1200/PTI4_1_2014_000239A.JPEG-0e826.jpg",
+      "publishedAt": "2026-08-10T05:30:57Z",
+      "source": {
+        "name": "The Hindu"
       }
     }
   ]
