@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-11T06:47:36+00:00",
+  "updated_at": "2026-08-11T12:40:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Markets Brace for U.S.-Iran Deals and Fed Interest Rate Decisions",
-      "description": "Markets experienced volatility on Monday with Wall Street indexes retreating and oil prices rallying over 4%, mainly due to focus on Federal Reserve interest rates and a potential U.S.-Iran deal on the Strait of Hormuz. Inflation data looms as Iran demands adjustments before reopening vital waterways.",
-      "url": "https://www.devdiscourse.com/article/business/3962157-markets-brace-for-us-iran-deals-and-fed-interest-rate-decisions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_20_40_15_2009644.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-10T18:26:15Z",
+      "title": "Stocks in news: Wipro, BSE, Vodafone Idea, Hyundai India and Airtel",
+      "description": "The markets experienced fluctuations as they weighed the prospects of interest rates against concerns over oil prices and geopolitical issues. In notable changes, Wipro will exit the Nifty index, making way for BSE Ltd's entry. Vodafone Idea reported a reduction in first-quarter losses, while Bharti Airtel formed a partnership to enhance digital offerings.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-bse-vodafone-idea-hyundai-india-and-airtel/articleshow/133122847.cms",
+      "image": "https://img.etimg.com/thumb/msid-133123883,width-1200,height-630,imgsize-129532,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-11T00:30:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Trade Setup for August 11: Top 15 things to know before the opening bell",
-      "description": "A strong move above 24,500-24,700 range could take the Nifty 50 towards the 24,800-25,000 zone, while a break below it could bring the 24,400-24,300 levels into focus. According to experts, market participants should also closely monitor developments in the Middle East and movements in oil prices.",
-      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-august-11-top-15-things-to-know-before-the-opening-bell-14000694.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260404040240_stock-market.jpg",
-      "publishedAt": "2026-08-10T17:45:50Z",
+      "title": "Oil prices hold steady after jumping 5%, while Asian shares are mixed",
+      "description": "Shares are mixed in Asia, while oil prices are holding steady after gaining 5% due to questions over when the Strait of Hormuz could reopen and get the",
+      "url": "https://www.breitbart.com/news/oil-prices-hold-steady-after-jumping-5-while-asian-shares-are-mixed/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-1775-south-korea-financial-markets-an-employee-walks-screen-kore-640x335.jpg",
+      "publishedAt": "2026-08-11T00:20:02Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Trump Extends Jones Act Waiver with New Limitations",
-      "description": "U.S. President Donald Trump has approved a limited extension of a waiver to the Jones Act. The waiver, intended to reduce transport bottlenecks and lower gas prices, allows non-U.S. ships to transport goods between U.S. ports under certain restrictions. This decision aims to increase shipping flexibility.",
-      "url": "https://www.devdiscourse.com/article/politics/3962131-trump-extends-jones-act-waiver-with-new-limitations",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_08_2026_10_50_28_8171101.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-10T17:13:35Z",
+      "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus",
+      "description": "NEW YORK/LONDON: Wall Street indexes retreated and oil prices rallied 5% on Monday, with markets focused on the outlook for Federal Reserve interest rates and on a potential deal between the U.S. and Iran to reopen the Strait of Hormuz.",
+      "url": "https://www.thestar.com.my/business/2026/08/11/oil-prices-rally-wall-street-retreats-with-hormuz-inflation-in-focus",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/11/4053656.jpeg",
+      "publishedAt": "2026-08-11T00:15:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Star"
       }
     },
     {
-      "title": "Five trucks gutted in blaze at workshop near petrol bunk",
-      "description": "Fire at Poonamallee heavy vehicle repair centre near petrol bunk damages five tipper trucks; firefighters contain blaze in over an hour, police probe cause.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/five-trucks-gutted-in-blaze-at-workshop-near-petrol-bunk/articleshow/133121167.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133121163,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-10T16:50:00Z",
+      "title": "US-Iran war LIVE: Oil prices extend gains for third day as Trump lashes out at Iran, makes new demands",
+      "description": "US-Iran war LIVE: Oil prices on Monday held a three-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the Strait of Hormuz. Tune in to Live Mint to catch all the latest US-Iran war-related updates.",
+      "url": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-strait-of-hormuz-oil-prices-gold-abbas-araghchi-irgc-oman-deal-11786405189478.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/US_Iran_war_news_1779970851088_1779970855304_9fc8862e-df4e-40f3-b35e-984b9eee3b3d_1786405459473_20afa4a1-df9b-418d-adff-9f7a90890e51.png",
+      "publishedAt": "2026-08-11T00:03:31Z",
       "source": {
-        "name": "Times of India"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Record Highs and Strategic Maneuvers: Europe's Markets Steady Amid Global Uncertainty",
-      "description": "Europe's STOXX 600 stock index remains steady near record highs amid global economic data anticipation and Middle East tensions affecting oil prices. The energy sector saw growth alongside heightened oil prices. Investors await euro zone employment and U.S. consumer data for future interest rate insights.",
-      "url": "https://www.devdiscourse.com/article/business/3962103-record-highs-and-strategic-maneuvers-europes-markets-steady-amid-global-uncertainty",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2025_12_31_45_3290716.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-10T16:22:09Z",
+      "title": "Cheating case accused dies after consuming poison while being taken into police custody",
+      "description": "a man wanted in a cheating case in yavatmal district died after consuming rat poison while police were picking him up from a petrol pump in nagpur on monday evening. the deceased has been identified as anand bhagat (30). he was wanted by the kalamb police in connection with a cheating case of around rs 5 lakh. according to police, bhagat was working as a manager at a petrol pump when he allegedly committed the fraud. the kalamb police had been searching for him after registering the case.",
+      "url": "https://www.thehitavada.com/Encyc/2026/8/11/cheating-case-accused-dies-after-consuming-poison-while-being-taken-into-police-custody.html",
+      "image": "https://www.thehitavada.com/Encyc/2026/8/11/Cheating-case-accused-dies-after-consuming_202608111141229147_H@@IGHT_291_W@@IDTH_392.jpg",
+      "publishedAt": "2026-08-11T00:00:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Hitavada"
       }
     },
     {
-      "title": "Toyota's 2026 Sienna Is The Hybrid Minivan To Beat (And This Could Be The Best Trim)",
-      "description": "Families wanting flexibility and space without sky-high gas prices should skip the SUV.",
-      "url": "https://www.slashgear.com/2221178/2026-toyota-sienna-hybrid-minivan-review-best-trim/",
-      "image": "https://www.slashgear.com/img/gallery/toyotas-2026-sienna-is-the-hybrid-minivan-to-beat-and-this-could-be-the-best-trim/l-intro-1784748993.jpg",
-      "publishedAt": "2026-08-10T16:00:00Z",
+      "title": "Cheating case accused dies after consuming poison while being taken into police custody",
+      "description": "a man wanted in a cheating case in yavatmal district died after consuming rat poison while police were picking him up from a petrol pump in nagpur on monday evening. the deceased has been identified as anand bhagat (30). he was wanted by the kalamb police in connection with a cheating case of around rs 5 lakh. according to police, bhagat was working as a manager at a petrol pump when he allegedly committed the fraud. the kalamb police had been searching for him after registering the case.",
+      "url": "https://www.thehitavada.com//Encyc/2026/8/11/cheating-case-accused-dies-after-consuming-poison-while-being-taken-into-police-custody.html",
+      "image": "https://www.thehitavada.com/Encyc/2026/8/11/Cheating-case-accused-dies-after-consuming_202608111141229147_H@@IGHT_291_W@@IDTH_392.jpg",
+      "publishedAt": "2026-08-11T00:00:00Z",
       "source": {
-        "name": "SlashGear"
+        "name": "The Hitavada"
       }
     },
     {
-      "title": "Gas prices down in the Quad-Cities and Iowa",
-      "description": "Prices in Iowa are 0.5 cents per gallon lower than a month ago and stand 83.3 cents per gallon higher than a year ago.",
-      "url": "https://qctimes.com/news/local/business/article_7223572d-9089-4852-bc8a-edcdcec36752.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/22/7223572d-9089-4852-bc8a-edcdcec36752/6a79dc6394e29.preview.jpg?crop=1761%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-08-10T16:00:00Z",
+      "title": "Crude oil prices extend gains, Brent nears $90 a barrel as deal hopes fade on Trump demands",
+      "description": "Both Brent Crude and West Texas Intermediate (WTI) surged 5% each overnight, with WTI holding on to the $82 a barrel level this morning. Brent moved towards the $90 a barrel mark, having closed above $87 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-today-brent-wti-trump-iran-demands-us-oman-strait-of-hormuz-traffic-talks-19966125.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/crude-oil-ship-tanker-hormuz-chatgpt-1600x900-06jul-2026-07-9397098af53609288a942659370fcbea.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-10T23:43:11Z",
       "source": {
-        "name": "Davenport Quad-City Times"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil prices, stocks surge as Hormuz closure drags on",
-      "description": "US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.",
-      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a79e2313cd0-1786372657.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-10T15:45:39Z",
+      "title": "Emmerdale stars reveal their funniest fan encounters",
+      "description": "Emmerdale Stars Chris Coghill and Will Ash have shared their funny fan encounters - from being shouted at in the petrol station to being hit with a handbag in Selfridges",
+      "url": "https://www.dailystar.co.uk/tv/emmerdale-stars-reveal-funniest-fan-37499462",
+      "image": "https://i2-prod.dailystar.co.uk/article37499440.ece/ALTERNATES/s1200d/31_09_emm_man_02.jpg",
+      "publishedAt": "2026-08-10T23:01:00Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "The daily Star"
       }
     },
     {
-      "title": "Man injured as emergency services called to Derbyshire petrol station",
-      "description": "Several fire crews attended and he was left in the care of EMAS",
-      "url": "https://www.derbytelegraph.co.uk/news/local-news/man-injured-emergency-services-called-11102749",
-      "image": "https://i2-prod.derbytelegraph.co.uk/article11102751.ece/ALTERNATES/s1200d/0_roof.jpg",
-      "publishedAt": "2026-08-10T15:35:17Z",
+      "title": "What\u2019s likely to move the market",
+      "description": "Uncertainty around Iran lifted oil prices, dragging down the major averages Monday. Tune in to CNBC to see Ravi Ahuja, CEO of Sony Pictures Entertainment.",
+      "url": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108146132-1747323612154-gettyimages-2214589738-ETORO_IPO.jpeg?v=1786402448&w=1920&h=1080",
+      "publishedAt": "2026-08-10T22:54:50Z",
       "source": {
-        "name": "Derby Telegraph"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Crude Prices Soar as Middle East Tensions Curb Global Oil Supplies",
-      "description": "September WTI crude oil (CLU26 ) is up +2.76 (+3.53%) on Friday, and September RBOB gasoline (RBU26 ) is up +0.1203 (+4.03%). Crude oil and gasoline prices are sharply higher today, with gasoline climbing to a 1-week high. The lack of an agreement b...",
-      "url": "https://www.barchart.com/story/news/3758309/crude-prices-soar-as-middle-east-tensions-curb-global-oil-supplies",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
-      "publishedAt": "2026-08-10T15:35:12Z",
+      "title": "US stocks marginally declined, while oil prices and and yields gained amid geopolitical uncertainty - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-marginally-declined-while-oil-prices-and-and-yields-gained-amid-geopolitical",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_5.png?itok=22TBW8cW",
+      "publishedAt": "2026-08-10T22:14:37Z",
       "source": {
-        "name": "Barchart"
+        "name": "ZeroHedge"
       }
     }
   ]
