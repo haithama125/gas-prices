@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-11T00:57:32+00:00",
+  "updated_at": "2026-08-11T06:47:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices rise and analysts see Big Tech selloff linked to traders locking in gains",
-      "description": "Shares were mixed Monday in Europe and Asia, with Japan\u2019s Nikkei 225 leading advances after stocks rose on Wall Street.",
-      "url": "https://fortune.com/2026/08/10/oil-prices-rise-and-analysts-see-big-tech-selloff-linked-to-traders-locking-in-gains/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26222060550438-e1786365992509.jpg?resize=1200,600",
-      "publishedAt": "2026-08-10T12:50:50Z",
+      "title": "Markets Brace for U.S.-Iran Deals and Fed Interest Rate Decisions",
+      "description": "Markets experienced volatility on Monday with Wall Street indexes retreating and oil prices rallying over 4%, mainly due to focus on Federal Reserve interest rates and a potential U.S.-Iran deal on the Strait of Hormuz. Inflation data looms as Iran demands adjustments before reopening vital waterways.",
+      "url": "https://www.devdiscourse.com/article/business/3962157-markets-brace-for-us-iran-deals-and-fed-interest-rate-decisions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_05_2025_20_40_15_2009644.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-10T18:26:15Z",
       "source": {
-        "name": "Fortune"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "US markets point to a mixed open and oil prices tick higher over Hormuz stalemate",
-      "description": "U.S. markets are pointing to a mixed open as oil prices climb due to a seeming stalemate over the Strait of Hormuz",
-      "url": "https://www.barchart.com/story/news/3749408/us-markets-point-to-a-mixed-open-and-oil-prices-tick-higher-over-hormuz-stalemate",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/aa701cd8e47e478b937505c27418d29e/aa701cd8e47e478b937505c27418d29e_main_south_korea_financial_markets_5_438.jpg",
-      "publishedAt": "2026-08-10T12:46:52Z",
+      "title": "Trade Setup for August 11: Top 15 things to know before the opening bell",
+      "description": "A strong move above 24,500-24,700 range could take the Nifty 50 towards the 24,800-25,000 zone, while a break below it could bring the 24,400-24,300 levels into focus. According to experts, market participants should also closely monitor developments in the Middle East and movements in oil prices.",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-setup-for-august-11-top-15-things-to-know-before-the-opening-bell-14000694.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260404040240_stock-market.jpg",
+      "publishedAt": "2026-08-10T17:45:50Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Trump Extends Jones Act Waiver with New Limitations",
+      "description": "U.S. President Donald Trump has approved a limited extension of a waiver to the Jones Act. The waiver, intended to reduce transport bottlenecks and lower gas prices, allows non-U.S. ships to transport goods between U.S. ports under certain restrictions. This decision aims to increase shipping flexibility.",
+      "url": "https://www.devdiscourse.com/article/politics/3962131-trump-extends-jones-act-waiver-with-new-limitations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_08_2026_10_50_28_8171101.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-10T17:13:35Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Five trucks gutted in blaze at workshop near petrol bunk",
+      "description": "Fire at Poonamallee heavy vehicle repair centre near petrol bunk damages five tipper trucks; firefighters contain blaze in over an hour, police probe cause.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/five-trucks-gutted-in-blaze-at-workshop-near-petrol-bunk/articleshow/133121167.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133121163,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-10T16:50:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Record Highs and Strategic Maneuvers: Europe's Markets Steady Amid Global Uncertainty",
+      "description": "Europe's STOXX 600 stock index remains steady near record highs amid global economic data anticipation and Middle East tensions affecting oil prices. The energy sector saw growth alongside heightened oil prices. Investors await euro zone employment and U.S. consumer data for future interest rate insights.",
+      "url": "https://www.devdiscourse.com/article/business/3962103-record-highs-and-strategic-maneuvers-europes-markets-steady-amid-global-uncertainty",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2025_12_31_45_3290716.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-10T16:22:09Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Toyota's 2026 Sienna Is The Hybrid Minivan To Beat (And This Could Be The Best Trim)",
+      "description": "Families wanting flexibility and space without sky-high gas prices should skip the SUV.",
+      "url": "https://www.slashgear.com/2221178/2026-toyota-sienna-hybrid-minivan-review-best-trim/",
+      "image": "https://www.slashgear.com/img/gallery/toyotas-2026-sienna-is-the-hybrid-minivan-to-beat-and-this-could-be-the-best-trim/l-intro-1784748993.jpg",
+      "publishedAt": "2026-08-10T16:00:00Z",
+      "source": {
+        "name": "SlashGear"
+      }
+    },
+    {
+      "title": "Gas prices down in the Quad-Cities and Iowa",
+      "description": "Prices in Iowa are 0.5 cents per gallon lower than a month ago and stand 83.3 cents per gallon higher than a year ago.",
+      "url": "https://qctimes.com/news/local/business/article_7223572d-9089-4852-bc8a-edcdcec36752.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qctimes.com/content/tncms/assets/v3/editorial/7/22/7223572d-9089-4852-bc8a-edcdcec36752/6a79dc6394e29.preview.jpg?crop=1761%2C925%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-08-10T16:00:00Z",
+      "source": {
+        "name": "Davenport Quad-City Times"
+      }
+    },
+    {
+      "title": "Oil prices, stocks surge as Hormuz closure drags on",
+      "description": "US petrol prices dropped nine cents last week but could again surge if the strait closure continues, analysts warn.",
+      "url": "https://www.aljazeera.com/economy/2026/8/10/oil-prices-stocks-surge-as-hormuz-closure-drags-on",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a79e2313cd0-1786372657.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-10T15:45:39Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "Man injured as emergency services called to Derbyshire petrol station",
+      "description": "Several fire crews attended and he was left in the care of EMAS",
+      "url": "https://www.derbytelegraph.co.uk/news/local-news/man-injured-emergency-services-called-11102749",
+      "image": "https://i2-prod.derbytelegraph.co.uk/article11102751.ece/ALTERNATES/s1200d/0_roof.jpg",
+      "publishedAt": "2026-08-10T15:35:17Z",
+      "source": {
+        "name": "Derby Telegraph"
+      }
+    },
+    {
+      "title": "Crude Prices Soar as Middle East Tensions Curb Global Oil Supplies",
+      "description": "September WTI crude oil (CLU26 ) is up +2.76 (+3.53%) on Friday, and September RBOB gasoline (RBU26 ) is up +0.1203 (+4.03%). Crude oil and gasoline prices are sharply higher today, with gasoline climbing to a 1-week high. The lack of an agreement b...",
+      "url": "https://www.barchart.com/story/news/3758309/crude-prices-soar-as-middle-east-tensions-curb-global-oil-supplies",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
+      "publishedAt": "2026-08-10T15:35:12Z",
       "source": {
         "name": "Barchart"
-      }
-    },
-    {
-      "title": "US markets point to a mixed open and oil prices tick higher over Hormuz stalemate",
-      "description": "U.S. markets are pointing to a mixed open as oil prices climb due to a seeming stalemate over the Strait of Hormuz",
-      "url": "https://www.barchart.com/story/news/3749408/us-stock-market-holds-near-its-all-time-high-and-crude-oil-prices-rise",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/aa701cd8e47e478b937505c27418d29e/aa701cd8e47e478b937505c27418d29e_main_south_korea_financial_markets_5_438.jpg",
-      "publishedAt": "2026-08-10T12:46:52Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "India bonds tread water ahead of US, local inflation prints",
-      "description": "On Monday, Indian government bonds remained stable following last week's increases. The rise in oil prices countered some support from softer economic data from the United States. Traders are eagerly awaiting inflation reports from both India and the U.S., which will significantly influence bond market trends this week. Notably, ultra-long bonds saw a rise, likely driven by value purchases from insurers.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tread-water-ahead-of-us-local-inflation-prints/articleshow/133106277.cms",
-      "image": "https://img.etimg.com/thumb/msid-133106377,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-10T12:37:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Stock markets end marginally higher on spike in crude oil prices",
-      "description": "MUMBAI, Aug 10: \u00a0Market benchmark indices ended marginally higher on Monday, with the Sensex climbing over 43 points and the Nifty ending flat, amid a spike in crude oil prices due to geopolitical uncertainties. The 30-share BSE Sensex was up...",
-      "url": "https://www.dailyexcelsior.com/stock-markets-end-marginally-higher-on-spike-in-crude-oil-prices/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTc1NDNhZTcwLTk0YjQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-10T12:10:19Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Stock Market Today: Dow Falls As Oil Prices Climb; SpaceX Stock Extends Gains (Live Coverage)",
-      "description": "Stock Market Today: The Dow Jones index falls Monday as oil prices climb amid a lack of progress in U.S.-Iran talks. SpaceX stock rallies.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/01/stock-wall-street-building-adobe.jpg",
-      "publishedAt": "2026-08-10T12:09:52Z",
-      "source": {
-        "name": "Investor's Business Daily"
-      }
-    },
-    {
-      "title": "Drought and the war in Ukraine changed what families in Kenya could afford to eat",
-      "description": "Russia's invasion of Ukraine in February 2022 had an almost immediate impact on global energy markets and the movement of food around the world. During the first year of the conflict, international crude oil and natural gas prices rose sharply. Disruptions to exports of wheat, maize, sunflower oil and fertilizers from Russia and Ukraine contributed to record global food prices.",
-      "url": "https://phys.org/news/2026-08-drought-war-ukraine-families-kenya.html",
-      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/kenyan-market.jpg",
-      "publishedAt": "2026-08-10T12:00:03Z",
-      "source": {
-        "name": "Phys.org"
-      }
-    },
-    {
-      "title": "Why Trump is \u2018low-keying\u2019 talks with Iran as Hormuz crisis drives oil higher",
-      "description": "Trump says the US is \u201clow-keying\u201d talks with Iran as economic pressure mounts, oil prices rise and the Strait of Hormuz remains uncertain.",
-      "url": "https://indianexpress.com/article/world/us-iran-conflict-donald-trump-low-keying-talks-strait-of-hormuz-oil-prices-10826411/",
-      "image": "https://images.indianexpress.com/2026/06/Trump-and-Hegseth-photo.jpg",
-      "publishedAt": "2026-08-10T11:58:31Z",
-      "source": {
-        "name": "The Indian Express"
-      }
-    },
-    {
-      "title": "Graham Nordone Says Gas Prices a 'Little High,' Predicts Trump Will 'Get Us Through This'",
-      "description": "Monday, during an appearance on FNC's \"Fox & Friends,\" Sen. Darline Graham Nordone (R-SC), a candidate in tomorrow's Republican U.S. Senate primary in South Carolina, said affordability remains a concern for her state's voters. | Clips",
-      "url": "https://www.breitbart.com/clips/2026/08/10/graham-nordone-says-gas-prices-a-little-high-predicts-trump-will-get-us-through-this/",
-      "image": "https://media.breitbart.com/media/2026/08/GrahamNordone8102026-640x335.jpg",
-      "publishedAt": "2026-08-10T11:48:23Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Graham Nordone Says Gas Prices a 'Little High,' Predicts Trump Will 'Get Us Through This'",
-      "description": "Monday, during an appearance on FNC's \"Fox & Friends,\" Sen. Darline Graham Nordone (R-SC), a candidate in tomorrow's Republican U.S. Senate primary in South Carolina, said affordability remains a concern for her state's voters. | Clips",
-      "url": "https://www.breitbart.com/politics/2026/08/10/graham-nordone-says-gas-prices-a-little-high-predicts-trump-will-get-us-through-this/",
-      "image": "https://media.breitbart.com/media/2026/08/GrahamNordone8102026-640x335.jpg",
-      "publishedAt": "2026-08-10T11:48:23Z",
-      "source": {
-        "name": "Breitbart News Network"
       }
     }
   ]
