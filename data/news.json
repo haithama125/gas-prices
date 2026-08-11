@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-11T12:40:36+00:00",
+  "updated_at": "2026-08-11T18:46:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stocks in news: Wipro, BSE, Vodafone Idea, Hyundai India and Airtel",
-      "description": "The markets experienced fluctuations as they weighed the prospects of interest rates against concerns over oil prices and geopolitical issues. In notable changes, Wipro will exit the Nifty index, making way for BSE Ltd's entry. Vodafone Idea reported a reduction in first-quarter losses, while Bharti Airtel formed a partnership to enhance digital offerings.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-wipro-bse-vodafone-idea-hyundai-india-and-airtel/articleshow/133122847.cms",
-      "image": "https://img.etimg.com/thumb/msid-133123883,width-1200,height-630,imgsize-129532,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-11T00:30:00Z",
+      "title": "Oil prices hold steady after jumping 5 per cent, while Asian shares are mixed",
+      "description": "BANGKOK, Aug 11: \u00a0Shares were mixed in Asia, while oil prices were holding steady Tuesday after jumping the day before as uncertainty persisted over when the Strait of Hormuz could reopen and get the global flow of crude going again....",
+      "url": "https://www.dailyexcelsior.com/oil-prices-hold-steady-after-jumping-5-per-cent-while-asian-shares-are-mixed/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWExZjAyMTYwLTk1NGYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-11T06:41:06Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Stock markets decline in early trade as elevated crude oil prices weigh on sentiment",
+      "description": "Benchmark indices Sensex and Nifty declined in early trade on Tuesday amid elevated crude oil prices due to geopolitical uncertainties.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-decline-in-early-trade-as-elevated-crude-oil-prices-weigh-on-sentiment/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVhNDU3ZDgwLTk1NGQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-11T06:24:44Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "\u2018Go back to E10 petrol\u2019: Experts warn E20 fuel is increasing household expenditure, reducing food security",
+      "description": "Experts have raised significant concerns about India's E20 fuel rollout during an Indian Women's Press Corps event, demanding transparency and highlighting potential negative impacts on household finances, food security, and the environment. They argue that consumers face increased vehicle repair costs due to the mildly corrosive nature of E20, adding to their financial burden. The experts also questioned the government's claims of farmer benefits, seeking evidence and suggesting profits primarily favor distilleries. Furthermore, the environmental advantages are debated, with concerns about water usage for rice cultivation for ethanol production and a shift in agricultural focus from food to fuel. Comparisons to Brazil's gradual adoption of ethanol blending were made, suggesting India's rapid implementation is problematic. Ultimately, a return to the E10 fuel blend is recommended for its compatibility with existing vehicles and its perceived broader benefits for consumers and the environment.",
+      "url": "https://www.theweek.in/news/biz-tech/2026/08/11/go-back-to-e10-petrol-experts-warn-e20-fuel-is-increasing-household-expenditure-reducing-food-security.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2025/9/1/e20-petrol.jpg",
+      "publishedAt": "2026-08-11T06:18:43Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+      "description": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hormuz disruptions, fuelling concerns over global supplies and inflation.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+      "image": "https://img.etimg.com/thumb/msid-133143848,width-1200,height-630,imgsize-2537083,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-11T06:05:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
+      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
+      "description": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hormuz disruptions, fuelling concerns over global supplies and inflation.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
+      "image": "https://img.etimg.com/thumb/msid-133143848,width-1200,height-630,imgsize-2537083,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-11T06:05:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Sensex at risk of slipping below 78,000 as rising crude prices rattle Indian markets",
+      "description": "Indian equity benchmarks slid further into the red on Tuesday morning, with the Sensex sinking towards the psychologically important 78,000 mark as crude oil prices climbed to a one-week high on renewed West Asia tensions",
+      "url": "https://www.theweek.in/news/biz-tech/2026/08/11/market-update-sensex-nifty-crude-oil-impact.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/4/30/sensex-nifty-india-stock-market-shutterstock.jpg",
+      "publishedAt": "2026-08-11T05:57:09Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Singapore stocks hit record high; Asian FX subdued",
+      "description": "SINGAPORE \u2014 Singapore stocks raced to \u200ba record high on Tuesday after the city-state \u200clifted its annual growth forecast on an AI-powered boost, while rising oil prices and fading peace-deal hopes kept Southeast Asian currencies under pressure.",
+      "url": "https://www.bangkokpost.com/business/investment/3299960/singapore-stocks-hit-record-high-on-strong-gross-domestic-product-gdp-outlook-while-foreign-exchange-in-asia-is-subdued",
+      "image": "https://static.bangkokpost.com/media/content/20260811/c1_3299960_700.jpg",
+      "publishedAt": "2026-08-11T05:46:00Z",
+      "source": {
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "Oil Prices Stay Elevated As US-Iran Deal Hopes Fade",
+      "description": "Oil prices remained near their highest level in over a week as uncertainty grew over a possible US-Iran agreement to reopen the Strait of Hormuz. Brent crude traded near $87.80 a barrel, while WTI stayed above $82. Markets are watching diplomatic developments as supply concerns continue amid Middle East tensions",
+      "url": "https://www.freepressjournal.in/business/oil-prices-stay-elevated-as-us-iran-deal-hopes-fade",
+      "image": "https://media.assettype.com/freepressjournal/2026-04-02/rrtggjxx/Russian-Oil.jpg",
+      "publishedAt": "2026-08-11T05:45:35Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
       "title": "Oil prices hold steady after jumping 5%, while Asian shares are mixed",
-      "description": "Shares are mixed in Asia, while oil prices are holding steady after gaining 5% due to questions over when the Strait of Hormuz could reopen and get the",
-      "url": "https://www.breitbart.com/news/oil-prices-hold-steady-after-jumping-5-while-asian-shares-are-mixed/",
-      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-1775-south-korea-financial-markets-an-employee-walks-screen-kore-640x335.jpg",
-      "publishedAt": "2026-08-11T00:20:02Z",
+      "description": "Shares are mixed in Asia, while oil prices are holding steady after gaining 5% due to questions over when the Strait of Hormuz could reopen\u00a0and get the global flow of crude going again. On Monday, the S&P 500 slipped 0.1%. The Dow Jones Industrial Average dipped 0.1%, and the Nasdaq composite fell 0.3%. Intel weighed on the market after saying it may sell $15 billion of its stock to raise cash to take advantage of the AI frenzy. That helped offset Berkshire Hathaway's gain after it became one of the latest U.S. companies to deliver a better profit for the spring than expected. Brent crude rose 5%.",
+      "url": "https://www.ajc.com/news/2026/08/oil-prices-hold-steady-after-jumping-5-while-asian-shares-are-mixed/",
+      "image": "https://images.ajc.com/resizer/v2/AYFJVJDUHBFZVJVMI6MHG6TQKU.jpg?auth=4ca1833ddc061202425d00b36c232bbcfcfcf025f31ebe7907ee408546a7af7c&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-11T05:33:12Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Oil prices rally, Wall Street retreats with Hormuz, inflation in focus",
-      "description": "NEW YORK/LONDON: Wall Street indexes retreated and oil prices rallied 5% on Monday, with markets focused on the outlook for Federal Reserve interest rates and on a potential deal between the U.S. and Iran to reopen the Strait of Hormuz.",
-      "url": "https://www.thestar.com.my/business/2026/08/11/oil-prices-rally-wall-street-retreats-with-hormuz-inflation-in-focus",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/11/4053656.jpeg",
-      "publishedAt": "2026-08-11T00:15:00Z",
+      "title": "Oil Prices Rise as US-Iran Talks Stall Over Strait of Hormuz",
+      "description": "Oil prices rose on Tuesday as negotiations between the United States and Iran over a peace deal and the reopening of the Strait of Hormuz reached an impasse, while Asian stocks moved cautiously amid persistent uncertainty over global inflation.",
+      "url": "https://moderndiplomacy.eu/2026/08/11/oil-prices-rise-as-us-iran-talks-stall-over-strait-of-hormuz/",
+      "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/02/oman-talks.jpg",
+      "publishedAt": "2026-08-11T05:29:30Z",
       "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "US-Iran war LIVE: Oil prices extend gains for third day as Trump lashes out at Iran, makes new demands",
-      "description": "US-Iran war LIVE: Oil prices on Monday held a three-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the Strait of Hormuz. Tune in to Live Mint to catch all the latest US-Iran war-related updates.",
-      "url": "https://www.livemint.com/news/us-news/us-iran-war-latest-news-live-updates-donald-trump-strait-of-hormuz-oil-prices-gold-abbas-araghchi-irgc-oman-deal-11786405189478.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/10/1600x900/logo/US_Iran_war_news_1779970851088_1779970855304_9fc8862e-df4e-40f3-b35e-984b9eee3b3d_1786405459473_20afa4a1-df9b-418d-adff-9f7a90890e51.png",
-      "publishedAt": "2026-08-11T00:03:31Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Cheating case accused dies after consuming poison while being taken into police custody",
-      "description": "a man wanted in a cheating case in yavatmal district died after consuming rat poison while police were picking him up from a petrol pump in nagpur on monday evening. the deceased has been identified as anand bhagat (30). he was wanted by the kalamb police in connection with a cheating case of around rs 5 lakh. according to police, bhagat was working as a manager at a petrol pump when he allegedly committed the fraud. the kalamb police had been searching for him after registering the case.",
-      "url": "https://www.thehitavada.com/Encyc/2026/8/11/cheating-case-accused-dies-after-consuming-poison-while-being-taken-into-police-custody.html",
-      "image": "https://www.thehitavada.com/Encyc/2026/8/11/Cheating-case-accused-dies-after-consuming_202608111141229147_H@@IGHT_291_W@@IDTH_392.jpg",
-      "publishedAt": "2026-08-11T00:00:00Z",
-      "source": {
-        "name": "The Hitavada"
-      }
-    },
-    {
-      "title": "Cheating case accused dies after consuming poison while being taken into police custody",
-      "description": "a man wanted in a cheating case in yavatmal district died after consuming rat poison while police were picking him up from a petrol pump in nagpur on monday evening. the deceased has been identified as anand bhagat (30). he was wanted by the kalamb police in connection with a cheating case of around rs 5 lakh. according to police, bhagat was working as a manager at a petrol pump when he allegedly committed the fraud. the kalamb police had been searching for him after registering the case.",
-      "url": "https://www.thehitavada.com//Encyc/2026/8/11/cheating-case-accused-dies-after-consuming-poison-while-being-taken-into-police-custody.html",
-      "image": "https://www.thehitavada.com/Encyc/2026/8/11/Cheating-case-accused-dies-after-consuming_202608111141229147_H@@IGHT_291_W@@IDTH_392.jpg",
-      "publishedAt": "2026-08-11T00:00:00Z",
-      "source": {
-        "name": "The Hitavada"
-      }
-    },
-    {
-      "title": "Crude oil prices extend gains, Brent nears $90 a barrel as deal hopes fade on Trump demands",
-      "description": "Both Brent Crude and West Texas Intermediate (WTI) surged 5% each overnight, with WTI holding on to the $82 a barrel level this morning. Brent moved towards the $90 a barrel mark, having closed above $87 a barrel.",
-      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-today-brent-wti-trump-iran-demands-us-oman-strait-of-hormuz-traffic-talks-19966125.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/crude-oil-ship-tanker-hormuz-chatgpt-1600x900-06jul-2026-07-9397098af53609288a942659370fcbea.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-10T23:43:11Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Emmerdale stars reveal their funniest fan encounters",
-      "description": "Emmerdale Stars Chris Coghill and Will Ash have shared their funny fan encounters - from being shouted at in the petrol station to being hit with a handbag in Selfridges",
-      "url": "https://www.dailystar.co.uk/tv/emmerdale-stars-reveal-funniest-fan-37499462",
-      "image": "https://i2-prod.dailystar.co.uk/article37499440.ece/ALTERNATES/s1200d/31_09_emm_man_02.jpg",
-      "publishedAt": "2026-08-10T23:01:00Z",
-      "source": {
-        "name": "The daily Star"
-      }
-    },
-    {
-      "title": "What\u2019s likely to move the market",
-      "description": "Uncertainty around Iran lifted oil prices, dragging down the major averages Monday. Tune in to CNBC to see Ravi Ahuja, CEO of Sony Pictures Entertainment.",
-      "url": "https://www.cnbc.com/2026/08/10/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108146132-1747323612154-gettyimages-2214589738-ETORO_IPO.jpeg?v=1786402448&w=1920&h=1080",
-      "publishedAt": "2026-08-10T22:54:50Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "US stocks marginally declined, while oil prices and and yields gained amid geopolitical uncertainty - Newsquawk Daily Asia-Pac Market Open",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/markets/us-stocks-marginally-declined-while-oil-prices-and-and-yields-gained-amid-geopolitical",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_5.png?itok=22TBW8cW",
-      "publishedAt": "2026-08-10T22:14:37Z",
-      "source": {
-        "name": "ZeroHedge"
+        "name": "Modern Diplomacy"
       }
     }
   ]
