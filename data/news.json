@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-12T01:04:19+00:00",
+  "updated_at": "2026-08-12T07:07:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stock market today: Wall Street futures flat as Hormuz uncertainty fuels inflation fears",
-      "description": "US stock futures were flat amid Middle East uncertainty and rising oil prices, with S&P 500 futures up 0.1%. President Trump set new demands on Iran, complicating negotiations regarding the Strait of Hormuz, while inflation concerns grow ahead of key consumer price index data.",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-flat-as-hormuz-uncertainty-fuels-inflation-fears-11786451402700.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/US-ECONOMY-MARKETS-NYSE-4_1750940643064_1786451476290_f61e110b-4dc7-47a1-87c6-e465489ca368.jpg",
-      "publishedAt": "2026-08-11T13:01:10Z",
+      "title": "US stocks edge further from their records as oil prices keep swinging",
+      "description": "U.S. stocks slipped a bit further from their records, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again",
+      "url": "https://www.barchart.com/story/news/3769010/us-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/e62cff0d687a48139e11241b43bb8f52/e62cff0d687a48139e11241b43bb8f52_main_financial_markets_wall_street_6932_.jpg",
+      "publishedAt": "2026-08-11T19:07:23Z",
       "source": {
-        "name": "Livemint"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Timing The AI Boom To Bust",
-      "description": "Oil prices are rising amid geopolitical tensions, low reserves, and approaching U.S. elections, creating economic headwinds. Read what investors need to know.",
-      "url": "https://seekingalpha.com/article/4934626-timing-ai-boom-to-bust",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247174983/image_2247174983.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-08-11T12:54:02Z",
-      "source": {
-        "name": "Seeking Alpha"
-      }
-    },
-    {
-      "title": "Global Tensions and Market Uncertainty Drive Oil Prices Near $90",
-      "description": "Oil prices are climbing toward $90 amid stalled U.S.-Iran negotiations and global inflation concerns. President Trump demands compensation from Iran, complicating peace talks. The rise in Brent crude futures affects stock markets and interest rate expectations, adding to investor nervousness. Meanwhile, Nvidia's partnership on AI funding stirs past crisis memories.",
-      "url": "https://www.devdiscourse.com/article/business/3962415-global-tensions-and-market-uncertainty-drive-oil-prices-near-90",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_05_2025_15_00_05_9228999.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T12:31:55Z",
+      "title": "Global Markets React to Tensions Over Hormuz Strait: Oil Prices Surge",
+      "description": "Oil prices rose and global markets retreated amid uncertainty over U.S.-Iran tensions and the closure of the Strait of Hormuz. Discussions over reopening the strait were met with geopolitical risks that impacted shares and market expectations. Other key market indicators were influenced by anticipated U.S. inflation data and tech stock activity.",
+      "url": "https://www.devdiscourse.com/article/business/3962538-global-markets-react-to-tensions-over-hormuz-strait-oil-prices-surge",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T19:07:07Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gold Hits Two-Month High Of \u20b91.57 Lakh Per 10 Grams As Bullion Rally Defies Oil Price Surge",
-      "description": "Gold prices rose for the sixth straight session, climbing Rs 1,200 to a two-month high of Rs 1.57 lakh per 10 grams in Delhi, while silver touched Rs 2.42 lakh per kg. Strong investment and safe-haven demand ahead of key US inflation data helped bullion remain firm despite rising crude oil prices linked to Strait of Hormuz tensions.",
-      "url": "https://www.freepressjournal.in/business/gold-hits-two-month-high-of-157-lakh-per-10-grams-as-bullion-rally-defies-oil-price-surge",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-11/idbqcnyq/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-11T180105.368.jpg",
-      "publishedAt": "2026-08-11T12:31:23Z",
+      "title": "Iran Deal Fades. What Happens Next.",
+      "description": "An economist said this week that the decline in US oil reserves could cause oil prices to skyrocket and rapidly bring on a recession.",
+      "url": "https://www.businessinsider.com/oil-price-today-brent-wti-outlook-us-iran-war-deal-hormuz-2026-8",
+      "image": "https://i.insider.com/6a7b4c76c78818eff7d2bb44?width=1200&format=jpeg",
+      "publishedAt": "2026-08-11T18:31:07Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "Pakistan sees US-Iran deal close as Hormuz standoff drags on, Trump toughens stance",
-      "description": "Pakistan's defense minister indicated a potential US-Iran arrangement regarding the Strait of Hormuz. Oil prices reacted to these conflicting statements about ongoing negotiations. US President Donald Trump toughened his stance on reparations and future talks. Regional incidents and attacks on energy infrastructure continue to tighten markets. The effective closure of Hormuz significantly impacts global trade and economies.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-sees-us-iran-deal-close-as-hormuz-standoff-drags-on-trump-toughens-stance/articleshow/133154163.cms",
-      "image": "https://img.etimg.com/thumb/msid-133154373,width-1200,height-630,imgsize-176872,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-11T12:29:00Z",
+      "title": "Iran deal fade. Here's what energy experts say will happen next.",
+      "description": "An economist said this week that the decline in US oil reserves could cause oil prices to skyrocket and rapidly bring on a recession.",
+      "url": "https://www.newsbreak.com/markets-insider-562170/4823202894415-oil-prices-are-rising-again-as-hopes-for-a-us-iran-deal-fade-here-s-what-energy-experts-say-will-happen-next",
+      "image": "https://img.particlenews.com/img/id/2AQIhi_1E8yYDHq00",
+      "publishedAt": "2026-08-11T18:31:07Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "NewsBreak"
       }
     },
     {
-      "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
-      "description": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7afd91-1786445201.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-11T12:27:15Z",
+      "title": "Canadian dollar hits two-month high as oil prices rise",
+      "description": "10-year bond yield eases",
+      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-hits-two-month-high-as-oil-prices-rise/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/FC5JQ3I5EZFVZOSGC3TD76RCME.JPG?auth=1648fee7c9f0967d93b4c10717bceb3377f72197ffd63f495980330b9488f659&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-08-11T18:28:55Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "The Globe and Mail"
       }
     },
     {
-      "title": "Indian bonds slip as crude hovers near $90",
-      "description": "Indian government bonds declined on Tuesday as oil prices briefly surged past ninety dollars. Traders awaited inflation data for clues on the Reserve Bank of India's interest rate path. Elevated oil prices could potentially fuel inflation and strain India's fiscal balance. Ample banking system liquidity supported demand, especially for short-term debt instruments. Foreign investors also purchased longer-dated bonds as the yield curve steepened.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-crude-hovers-near-90/articleshow/133154375.cms",
-      "image": "https://img.etimg.com/thumb/msid-133154385,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-11T12:24:00Z",
+      "title": "Are gas prices headed to an all-time high?",
+      "description": "Costs on the rise again as a Middle East peace deal remains elusive",
+      "url": "https://www.deseret.com/business/2026/08/11/us-gas-prices-iran-war-strait-of-hormuz-inflation-household-budgets-peace-deal/",
+      "image": "https://www.deseret.com/resizer/v2/IBFQL36LJ5HMZJ5VWCD3NIDNWI.jpeg?focal=0%2C0&auth=2c48f3330bbc70bb40c3fd0bde3d9c0b9f8c4e71aeef2824566add5f210e02bb&width=630&height=331",
+      "publishedAt": "2026-08-11T18:01:50Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Salt Lake City Deseret News"
       }
     },
     {
-      "title": "Stock Markets Decline As Elevated Crude Oil Prices Weigh On Sentiment; Sensex Drops 388 Points",
-      "description": "From the Sensex pack, UltraTech Cement, Axis Bank, InterGlobe Aviation, Bharti Airtel, Bajaj Finance and Power Grid were among the major laggards",
-      "url": "https://www.outlookbusiness.com/markets/stock-markets-decline-as-elevated-crude-oil-prices-weigh-on-sentiment-sensex-drops-388-points",
-      "image": "https://media.assettype.com/outlookbusiness/2026-08-11/lsi15op2/525393ee9a446b98c8db85cb48d327bc.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-11T12:13:19Z",
+      "title": "U.S. stocks edge further from their records as oil prices keep swinging",
+      "description": "U.S. stocks slipped a bit further from their records Tuesday, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again.",
+      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-04T215641Z_1243249967_RC2IYJATZLED_RTRMADP_3_USA-TRUMP-JONES-ACT-1024x684.jpg",
+      "publishedAt": "2026-08-11T17:59:54Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "PBS News"
       }
     },
     {
-      "title": "Oil prices settle, Wall Street inches higher ahead of new inflation numbers due this week",
-      "description": "Wall Street was modestly lower in premarket trading and oil prices settled despite lingering uncertainty about when the Strait of Hormuz will reopen to the global flow of oil again. Futures for the S&P 500 ticked up 0.1% before the opening bell Tuesday, while futures for the Dow Jones Industrial Average nudged down 0.1%. Nasdaq futures rose 0.3%. Oil prices were on their way up again before suddenly reversing course early Tuesday. After being up about 2.5% early, Brent crude oil was down a few pennies at $87.61 a barrel, while U.S. benchmark crude ticked up a couple cents to $82.19 a barrel.",
-      "url": "https://www.ajc.com/news/2026/08/oil-prices-add-more-than-2-while-world-shares-are-mostly-lower/",
-      "image": "https://images.ajc.com/resizer/v2/YPBFEA2XDZBE5GRNUWILYTEBDA.jpg?auth=24b87b4da31c58b0f1ef85f875dc5cd0643b3f6dc815e233e515e6b4d9559646&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-11T12:12:38Z",
+      "title": "An Electric Motorcycle Revolution",
+      "description": "With gas prices high, people in developing countries are lining up to buy battery-powered bikes. We took a spin around Lahore, Pakistan, on a small-but-mighty one.",
+      "url": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html",
+      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11cli-newsletter-electric-motorcycles-01-kgjl/11cli-newsletter-electric-motorcycles-01-kgjl-facebookJumbo.jpg",
+      "publishedAt": "2026-08-11T17:47:26Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "The New York Times"
       }
     },
     {
-      "title": "Strait of Hormuz Talks Edge Closer to Resolution Amid Stock Market Fluctuations",
-      "description": "U.S. stock futures rose slightly as discussions between Oman and Iran on the Strait of Hormuz's reopening advanced, affecting oil prices and causing Brent crude to turn negative. Inflation concerns focus on upcoming consumer and producer price readings, which may influence Federal Reserve's interest rate decisions despite strong quarterly earnings reports.",
-      "url": "https://www.devdiscourse.com/article/business/3962404-strait-of-hormuz-talks-edge-closer-to-resolution-amid-stock-market-fluctuations",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_05_2026_18_34_32_5332185.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T12:06:29Z",
+      "title": "Good policy needs good process: Lessons for Modi government's reforms",
+      "description": "Lessons from ethanol blending in petrol and levying a fee on digital payments should not be ignored",
+      "url": "https://www.business-standard.com/opinion/columns/good-policy-needs-good-process-lessons-for-modi-government-s-reforms-126081102025_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/fitandfill/1200X628/1786467122-9032.jpg",
+      "publishedAt": "2026-08-11T17:47:23Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Wall Street drifts below its all-time high as oil prices keep swinging",
+      "description": "U.S. stocks are drifting below recent records, while oil prices keep swinging on uncertainty about when the war with Iran will allow crude to flow freely again",
+      "url": "https://www.barchart.com/story/news/3769010/wall-street-drifts-below-its-all-time-high-as-oil-prices-keep-swinging",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/e62cff0d687a48139e11241b43bb8f52/e62cff0d687a48139e11241b43bb8f52_main_financial_markets_wall_street_6932_.jpg",
+      "publishedAt": "2026-08-11T17:41:17Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
