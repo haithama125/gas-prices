@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-11T18:46:22+00:00",
+  "updated_at": "2026-08-12T01:04:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices hold steady after jumping 5 per cent, while Asian shares are mixed",
-      "description": "BANGKOK, Aug 11: \u00a0Shares were mixed in Asia, while oil prices were holding steady Tuesday after jumping the day before as uncertainty persisted over when the Strait of Hormuz could reopen and get the global flow of crude going again....",
-      "url": "https://www.dailyexcelsior.com/oil-prices-hold-steady-after-jumping-5-per-cent-while-asian-shares-are-mixed/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWExZjAyMTYwLTk1NGYtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-11T06:41:06Z",
+      "title": "US stock market today: Wall Street futures flat as Hormuz uncertainty fuels inflation fears",
+      "description": "US stock futures were flat amid Middle East uncertainty and rising oil prices, with S&P 500 futures up 0.1%. President Trump set new demands on Iran, complicating negotiations regarding the Strait of Hormuz, while inflation concerns grow ahead of key consumer price index data.",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-wall-street-futures-flat-as-hormuz-uncertainty-fuels-inflation-fears-11786451402700.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/US-ECONOMY-MARKETS-NYSE-4_1750940643064_1786451476290_f61e110b-4dc7-47a1-87c6-e465489ca368.jpg",
+      "publishedAt": "2026-08-11T13:01:10Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Stock markets decline in early trade as elevated crude oil prices weigh on sentiment",
-      "description": "Benchmark indices Sensex and Nifty declined in early trade on Tuesday amid elevated crude oil prices due to geopolitical uncertainties.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-decline-in-early-trade-as-elevated-crude-oil-prices-weigh-on-sentiment/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVhNDU3ZDgwLTk1NGQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-11T06:24:44Z",
+      "title": "Timing The AI Boom To Bust",
+      "description": "Oil prices are rising amid geopolitical tensions, low reserves, and approaching U.S. elections, creating economic headwinds. Read what investors need to know.",
+      "url": "https://seekingalpha.com/article/4934626-timing-ai-boom-to-bust",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2247174983/image_2247174983.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-08-11T12:54:02Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Seeking Alpha"
       }
     },
     {
-      "title": "\u2018Go back to E10 petrol\u2019: Experts warn E20 fuel is increasing household expenditure, reducing food security",
-      "description": "Experts have raised significant concerns about India's E20 fuel rollout during an Indian Women's Press Corps event, demanding transparency and highlighting potential negative impacts on household finances, food security, and the environment. They argue that consumers face increased vehicle repair costs due to the mildly corrosive nature of E20, adding to their financial burden. The experts also questioned the government's claims of farmer benefits, seeking evidence and suggesting profits primarily favor distilleries. Furthermore, the environmental advantages are debated, with concerns about water usage for rice cultivation for ethanol production and a shift in agricultural focus from food to fuel. Comparisons to Brazil's gradual adoption of ethanol blending were made, suggesting India's rapid implementation is problematic. Ultimately, a return to the E10 fuel blend is recommended for its compatibility with existing vehicles and its perceived broader benefits for consumers and the environment.",
-      "url": "https://www.theweek.in/news/biz-tech/2026/08/11/go-back-to-e10-petrol-experts-warn-e20-fuel-is-increasing-household-expenditure-reducing-food-security.html",
-      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2025/9/1/e20-petrol.jpg",
-      "publishedAt": "2026-08-11T06:18:43Z",
+      "title": "Global Tensions and Market Uncertainty Drive Oil Prices Near $90",
+      "description": "Oil prices are climbing toward $90 amid stalled U.S.-Iran negotiations and global inflation concerns. President Trump demands compensation from Iran, complicating peace talks. The rise in Brent crude futures affects stock markets and interest rate expectations, adding to investor nervousness. Meanwhile, Nvidia's partnership on AI funding stirs past crisis memories.",
+      "url": "https://www.devdiscourse.com/article/business/3962415-global-tensions-and-market-uncertainty-drive-oil-prices-near-90",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_05_2025_15_00_05_9228999.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T12:31:55Z",
       "source": {
-        "name": "THE WEEK"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
-      "description": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hormuz disruptions, fuelling concerns over global supplies and inflation.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
-      "image": "https://img.etimg.com/thumb/msid-133143848,width-1200,height-630,imgsize-2537083,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-11T06:05:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Global Market: Mainland Chinese stocks mixed, Hong Kong shares slip as Iran conflict weighs on sentiment",
-      "description": "Chinese stocks traded mixed and Hong Kong shares edged lower as investors weighed fading hopes of a US-Iran peace deal and its impact on oil prices. Crude stayed near one-week highs amid Strait of Hormuz disruptions, fuelling concerns over global supplies and inflation.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-mainland-chinese-stocks-mixed-hong-kong-shares-slip-as-iran-conflict-weighs-on-sentiment/articleshow/133143659.cms",
-      "image": "https://img.etimg.com/thumb/msid-133143848,width-1200,height-630,imgsize-2537083,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-11T06:05:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Sensex at risk of slipping below 78,000 as rising crude prices rattle Indian markets",
-      "description": "Indian equity benchmarks slid further into the red on Tuesday morning, with the Sensex sinking towards the psychologically important 78,000 mark as crude oil prices climbed to a one-week high on renewed West Asia tensions",
-      "url": "https://www.theweek.in/news/biz-tech/2026/08/11/market-update-sensex-nifty-crude-oil-impact.html",
-      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/4/30/sensex-nifty-india-stock-market-shutterstock.jpg",
-      "publishedAt": "2026-08-11T05:57:09Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "Singapore stocks hit record high; Asian FX subdued",
-      "description": "SINGAPORE \u2014 Singapore stocks raced to \u200ba record high on Tuesday after the city-state \u200clifted its annual growth forecast on an AI-powered boost, while rising oil prices and fading peace-deal hopes kept Southeast Asian currencies under pressure.",
-      "url": "https://www.bangkokpost.com/business/investment/3299960/singapore-stocks-hit-record-high-on-strong-gross-domestic-product-gdp-outlook-while-foreign-exchange-in-asia-is-subdued",
-      "image": "https://static.bangkokpost.com/media/content/20260811/c1_3299960_700.jpg",
-      "publishedAt": "2026-08-11T05:46:00Z",
-      "source": {
-        "name": "Bangkok Post"
-      }
-    },
-    {
-      "title": "Oil Prices Stay Elevated As US-Iran Deal Hopes Fade",
-      "description": "Oil prices remained near their highest level in over a week as uncertainty grew over a possible US-Iran agreement to reopen the Strait of Hormuz. Brent crude traded near $87.80 a barrel, while WTI stayed above $82. Markets are watching diplomatic developments as supply concerns continue amid Middle East tensions",
-      "url": "https://www.freepressjournal.in/business/oil-prices-stay-elevated-as-us-iran-deal-hopes-fade",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-02/rrtggjxx/Russian-Oil.jpg",
-      "publishedAt": "2026-08-11T05:45:35Z",
+      "title": "Gold Hits Two-Month High Of \u20b91.57 Lakh Per 10 Grams As Bullion Rally Defies Oil Price Surge",
+      "description": "Gold prices rose for the sixth straight session, climbing Rs 1,200 to a two-month high of Rs 1.57 lakh per 10 grams in Delhi, while silver touched Rs 2.42 lakh per kg. Strong investment and safe-haven demand ahead of key US inflation data helped bullion remain firm despite rising crude oil prices linked to Strait of Hormuz tensions.",
+      "url": "https://www.freepressjournal.in/business/gold-hits-two-month-high-of-157-lakh-per-10-grams-as-bullion-rally-defies-oil-price-surge",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-11/idbqcnyq/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-11T180105.368.jpg",
+      "publishedAt": "2026-08-11T12:31:23Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "Oil prices hold steady after jumping 5%, while Asian shares are mixed",
-      "description": "Shares are mixed in Asia, while oil prices are holding steady after gaining 5% due to questions over when the Strait of Hormuz could reopen\u00a0and get the global flow of crude going again. On Monday, the S&P 500 slipped 0.1%. The Dow Jones Industrial Average dipped 0.1%, and the Nasdaq composite fell 0.3%. Intel weighed on the market after saying it may sell $15 billion of its stock to raise cash to take advantage of the AI frenzy. That helped offset Berkshire Hathaway's gain after it became one of the latest U.S. companies to deliver a better profit for the spring than expected. Brent crude rose 5%.",
-      "url": "https://www.ajc.com/news/2026/08/oil-prices-hold-steady-after-jumping-5-while-asian-shares-are-mixed/",
-      "image": "https://images.ajc.com/resizer/v2/AYFJVJDUHBFZVJVMI6MHG6TQKU.jpg?auth=4ca1833ddc061202425d00b36c232bbcfcfcf025f31ebe7907ee408546a7af7c&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-11T05:33:12Z",
+      "title": "Pakistan sees US-Iran deal close as Hormuz standoff drags on, Trump toughens stance",
+      "description": "Pakistan's defense minister indicated a potential US-Iran arrangement regarding the Strait of Hormuz. Oil prices reacted to these conflicting statements about ongoing negotiations. US President Donald Trump toughened his stance on reparations and future talks. Regional incidents and attacks on energy infrastructure continue to tighten markets. The effective closure of Hormuz significantly impacts global trade and economies.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/pakistan-sees-us-iran-deal-close-as-hormuz-standoff-drags-on-trump-toughens-stance/articleshow/133154163.cms",
+      "image": "https://img.etimg.com/thumb/msid-133154373,width-1200,height-630,imgsize-176872,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-11T12:29:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Iran, US set new conditions during Hormuz talks: What does this mean?",
+      "description": "Oil prices surge as talks stall over competing demands, hampering prospects for reopening crucial strait.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/iran-us-set-new-conditions-during-hormuz-talks-what-does-this-mean",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a7afd91-1786445201.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-11T12:27:15Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "Indian bonds slip as crude hovers near $90",
+      "description": "Indian government bonds declined on Tuesday as oil prices briefly surged past ninety dollars. Traders awaited inflation data for clues on the Reserve Bank of India's interest rate path. Elevated oil prices could potentially fuel inflation and strain India's fiscal balance. Ample banking system liquidity supported demand, especially for short-term debt instruments. Foreign investors also purchased longer-dated bonds as the yield curve steepened.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-slip-as-crude-hovers-near-90/articleshow/133154375.cms",
+      "image": "https://img.etimg.com/thumb/msid-133154385,width-1200,height-630,imgsize-125370,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-11T12:24:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Stock Markets Decline As Elevated Crude Oil Prices Weigh On Sentiment; Sensex Drops 388 Points",
+      "description": "From the Sensex pack, UltraTech Cement, Axis Bank, InterGlobe Aviation, Bharti Airtel, Bajaj Finance and Power Grid were among the major laggards",
+      "url": "https://www.outlookbusiness.com/markets/stock-markets-decline-as-elevated-crude-oil-prices-weigh-on-sentiment-sensex-drops-388-points",
+      "image": "https://media.assettype.com/outlookbusiness/2026-08-11/lsi15op2/525393ee9a446b98c8db85cb48d327bc.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-11T12:13:19Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "Oil prices settle, Wall Street inches higher ahead of new inflation numbers due this week",
+      "description": "Wall Street was modestly lower in premarket trading and oil prices settled despite lingering uncertainty about when the Strait of Hormuz will reopen to the global flow of oil again. Futures for the S&P 500 ticked up 0.1% before the opening bell Tuesday, while futures for the Dow Jones Industrial Average nudged down 0.1%. Nasdaq futures rose 0.3%. Oil prices were on their way up again before suddenly reversing course early Tuesday. After being up about 2.5% early, Brent crude oil was down a few pennies at $87.61 a barrel, while U.S. benchmark crude ticked up a couple cents to $82.19 a barrel.",
+      "url": "https://www.ajc.com/news/2026/08/oil-prices-add-more-than-2-while-world-shares-are-mostly-lower/",
+      "image": "https://images.ajc.com/resizer/v2/YPBFEA2XDZBE5GRNUWILYTEBDA.jpg?auth=24b87b4da31c58b0f1ef85f875dc5cd0643b3f6dc815e233e515e6b4d9559646&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-11T12:12:38Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Oil Prices Rise as US-Iran Talks Stall Over Strait of Hormuz",
-      "description": "Oil prices rose on Tuesday as negotiations between the United States and Iran over a peace deal and the reopening of the Strait of Hormuz reached an impasse, while Asian stocks moved cautiously amid persistent uncertainty over global inflation.",
-      "url": "https://moderndiplomacy.eu/2026/08/11/oil-prices-rise-as-us-iran-talks-stall-over-strait-of-hormuz/",
-      "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/02/oman-talks.jpg",
-      "publishedAt": "2026-08-11T05:29:30Z",
+      "title": "Strait of Hormuz Talks Edge Closer to Resolution Amid Stock Market Fluctuations",
+      "description": "U.S. stock futures rose slightly as discussions between Oman and Iran on the Strait of Hormuz's reopening advanced, affecting oil prices and causing Brent crude to turn negative. Inflation concerns focus on upcoming consumer and producer price readings, which may influence Federal Reserve's interest rate decisions despite strong quarterly earnings reports.",
+      "url": "https://www.devdiscourse.com/article/business/3962404-strait-of-hormuz-talks-edge-closer-to-resolution-amid-stock-market-fluctuations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_05_2026_18_34_32_5332185.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T12:06:29Z",
       "source": {
-        "name": "Modern Diplomacy"
+        "name": "Devdiscourse"
       }
     }
   ]
