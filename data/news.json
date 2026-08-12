@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-12T07:07:56+00:00",
+  "updated_at": "2026-08-12T12:43:46+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks edge further from their records as oil prices keep swinging",
-      "description": "U.S. stocks slipped a bit further from their records, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again",
-      "url": "https://www.barchart.com/story/news/3769010/us-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/e62cff0d687a48139e11241b43bb8f52/e62cff0d687a48139e11241b43bb8f52_main_financial_markets_wall_street_6932_.jpg",
-      "publishedAt": "2026-08-11T19:07:23Z",
+      "title": "Stocks in news: L&T, Tata Motors, HAL, Grasim, NBCC and IRCTC",
+      "description": "The Indian equity markets concluded the trading session on a low note, as escalating crude oil prices weighed heavily on worldwide market sentiment. Notable developments included Larsen & Toubro's announcement of a strategic business transfer for its data center services. Focus will also be on firms like Tata Motors and Hindustan Aeronautics.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms",
+      "image": "https://img.etimg.com/thumb/msid-133162164,width-1200,height-630,imgsize-170024,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-12T00:30:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Global Markets React to Tensions Over Hormuz Strait: Oil Prices Surge",
-      "description": "Oil prices rose and global markets retreated amid uncertainty over U.S.-Iran tensions and the closure of the Strait of Hormuz. Discussions over reopening the strait were met with geopolitical risks that impacted shares and market expectations. Other key market indicators were influenced by anticipated U.S. inflation data and tech stock activity.",
-      "url": "https://www.devdiscourse.com/article/business/3962538-global-markets-react-to-tensions-over-hormuz-strait-oil-prices-surge",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_06_2025_07_58_57_1791246.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T19:07:07Z",
+      "title": "Tensions Flare: Strait of Hormuz and the Unyielding U.S.-Iran Standoff",
+      "description": "The U.S. and Yemen's Houthis reported attacks on shipping as tensions around the Iran war escalated, amid Tehran's demands to keep the Strait of Hormuz closed until the U.S. meets its conditions. Amidst escalated rhetoric, oil prices rose due to global concerns over the crucial maritime routes.",
+      "url": "https://www.devdiscourse.com/article/law-order/3962589-tensions-flare-strait-of-hormuz-and-the-unyielding-us-iran-standoff",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_08_2025_16_40_45_3599666.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-12T00:12:08Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Iran Deal Fades. What Happens Next.",
-      "description": "An economist said this week that the decline in US oil reserves could cause oil prices to skyrocket and rapidly bring on a recession.",
-      "url": "https://www.businessinsider.com/oil-price-today-brent-wti-outlook-us-iran-war-deal-hormuz-2026-8",
-      "image": "https://i.insider.com/6a7b4c76c78818eff7d2bb44?width=1200&format=jpeg",
-      "publishedAt": "2026-08-11T18:31:07Z",
+      "title": "Oil climbs as Iran keeps Hormuz shut",
+      "description": "Oil prices edged up to a one-week high on Tuesday as doubts about a potential US-Iran peace deal fuelled concerns that Middle East supply disruptions would persist.",
+      "url": "https://www.thestar.com.my/business/2026/08/12/oil-climbs-as-iran-keeps-hormuz-shut",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055208.jpeg",
+      "publishedAt": "2026-08-11T22:51:00Z",
       "source": {
-        "name": "Business Insider"
+        "name": "The Star"
       }
     },
     {
-      "title": "Iran deal fade. Here's what energy experts say will happen next.",
-      "description": "An economist said this week that the decline in US oil reserves could cause oil prices to skyrocket and rapidly bring on a recession.",
-      "url": "https://www.newsbreak.com/markets-insider-562170/4823202894415-oil-prices-are-rising-again-as-hopes-for-a-us-iran-deal-fade-here-s-what-energy-experts-say-will-happen-next",
-      "image": "https://img.particlenews.com/img/id/2AQIhi_1E8yYDHq00",
-      "publishedAt": "2026-08-11T18:31:07Z",
+      "title": "Stocks edge further from their records as oil prices keep swinging",
+      "description": "Higher oil prices make inflation worse, and they\u2019ve sent the average cost for a gallon of regular gasoline to $4.01, according to AAA.",
+      "url": "https://www.latimes.com/business/story/2026-08-11/stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/7c2278a/2147483647/strip/true/crop/2439x1280+0+173/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa1%2F3588644442e88fa5d2daa5d1f1b3%2Fd4b50e9d4b604c6aa401a63321f31865.jpg",
+      "publishedAt": "2026-08-11T22:29:46Z",
       "source": {
-        "name": "NewsBreak"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Canadian dollar hits two-month high as oil prices rise",
-      "description": "10-year bond yield eases",
-      "url": "https://www.theglobeandmail.com/investing/article-canadian-dollar-hits-two-month-high-as-oil-prices-rise/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/FC5JQ3I5EZFVZOSGC3TD76RCME.JPG?auth=1648fee7c9f0967d93b4c10717bceb3377f72197ffd63f495980330b9488f659&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-08-11T18:28:55Z",
+      "title": "New attacks on shipping as Iran war talks hit fresh impasse",
+      "description": "By Elwely Elwelly and Parisa HafeziDUBAI, Aug 11 (Reuters) - The United States and Yemen's Iran-aligned Houthis reported separate attacks on shipping on Tuesday as prospects for ending the five-month-old Iran war appeared to dim, with Tehran saying the Strait of Hormuz would remain closed unless Washington accepts its conditions.Oil prices gained and global shares retreated amid renewed pessimism about a quick end to the conflict. Brent crude futures climbed 1.4% to settle at $88.91 per barrel and U.S. crude rose 1.3% to $83.20.",
+      "url": "https://www.al-monitor.com/originals/2026/08/new-attacks-shipping-iran-war-talks-hit-fresh-impasse",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-11T152628Z_2_LYNXMPEM7A15L_RTROPTP_4_IRAN-CRISIS.JPG?h=6eb9173e&itok=wOTXhU6l",
+      "publishedAt": "2026-08-11T22:03:00Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "Al-Monitor"
       }
     },
     {
-      "title": "Are gas prices headed to an all-time high?",
-      "description": "Costs on the rise again as a Middle East peace deal remains elusive",
-      "url": "https://www.deseret.com/business/2026/08/11/us-gas-prices-iran-war-strait-of-hormuz-inflation-household-budgets-peace-deal/",
-      "image": "https://www.deseret.com/resizer/v2/IBFQL36LJ5HMZJ5VWCD3NIDNWI.jpeg?focal=0%2C0&auth=2c48f3330bbc70bb40c3fd0bde3d9c0b9f8c4e71aeef2824566add5f210e02bb&width=630&height=331",
-      "publishedAt": "2026-08-11T18:01:50Z",
+      "title": "Strait of Hormuz Tensions: Pivotal Shipping Lane at the Heart of Global Conflict",
+      "description": "The conflict extends as the U.S. and Yemeni Houthis report attacks on shipping. Iran emphasizes the Strait of Hormuz will stay shut unless the U.S. agrees to its conditions. Oil prices rise amid fears of prolonged conflict, with fatalities reported in a Houthi attack at Bab el-Mandeb Strait.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3962570-strait-of-hormuz-tensions-pivotal-shipping-lane-at-the-heart-of-global-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_12_32_09_1437056.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T21:58:03Z",
       "source": {
-        "name": "Salt Lake City Deseret News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "U.S. stocks edge further from their records as oil prices keep swinging",
-      "description": "U.S. stocks slipped a bit further from their records Tuesday, while oil prices kept swinging on uncertainty about when the war with Iran will allow crude to flow freely again.",
-      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-08-04T215641Z_1243249967_RC2IYJATZLED_RTRMADP_3_USA-TRUMP-JONES-ACT-1024x684.jpg",
-      "publishedAt": "2026-08-11T17:59:54Z",
+      "title": "California energy regulator says he\u2019s open to working with Trump on oil refineries",
+      "description": "The chair of the California Energy Commission acknowledged some \u201ccommon cause\u201d with the federal government on gas prices while calling its coastal energy policy \u201creckless.\u201d",
+      "url": "https://www.politico.com/news/2026/08/11/california-energy-regulator-trump-oil-refineries-01033796",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F40%2F2d%2F0b4c38254cfab95ec00ea43dbd7a%2Fsmj0221.jpeg",
+      "publishedAt": "2026-08-11T21:47:00Z",
       "source": {
-        "name": "PBS News"
+        "name": "POLITICO"
       }
     },
     {
-      "title": "An Electric Motorcycle Revolution",
-      "description": "With gas prices high, people in developing countries are lining up to buy battery-powered bikes. We took a spin around Lahore, Pakistan, on a small-but-mighty one.",
-      "url": "https://www.nytimes.com/2026/08/11/climate/electric-motorcycle-boom-developing-countries.html",
-      "image": "https://static01.nyt.com/images/2026/08/11/multimedia/11cli-newsletter-electric-motorcycles-01-kgjl/11cli-newsletter-electric-motorcycles-01-kgjl-facebookJumbo.jpg",
-      "publishedAt": "2026-08-11T17:47:26Z",
+      "title": "Oil Price Surge Highlights Global Tensions in the Middle East",
+      "description": "Oil prices rose to a one-week high amid doubts about achieving stability in the Middle East and reopening the Strait of Hormuz, impacting Wall Street. Global inflation concerns persist, and geopolitical tensions have resulted in fluctuating energy costs and uncertain financial markets as investors remain on edge.",
+      "url": "https://www.devdiscourse.com/article/business/3962564-oil-price-surge-highlights-global-tensions-in-the-middle-east",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2025_06_03_09_1816292.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T21:29:36Z",
       "source": {
-        "name": "The New York Times"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Good policy needs good process: Lessons for Modi government's reforms",
-      "description": "Lessons from ethanol blending in petrol and levying a fee on digital payments should not be ignored",
-      "url": "https://www.business-standard.com/opinion/columns/good-policy-needs-good-process-lessons-for-modi-government-s-reforms-126081102025_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/11/thumb/fitandfill/1200X628/1786467122-9032.jpg",
-      "publishedAt": "2026-08-11T17:47:23Z",
+      "title": "Himachal govt imposes \u20b90.60 per litre widow, orphan cess on petrol, diesel",
+      "description": "The Himachal Pradesh government officially imposed a Widow and Orphan Cess of 60 paise per litre on petrol and high-speed diesel, with the levy coming into force from midnight on August 11.",
+      "url": "https://www.aninews.in/news/national/general-news/himachal-govt-imposes-8377060-per-litre-widow-orphan-cess-on-petrol-diesel20260812022805/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811202518-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-08-11T20:58:05Z",
       "source": {
-        "name": "Business Standard"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Wall Street drifts below its all-time high as oil prices keep swinging",
-      "description": "U.S. stocks are drifting below recent records, while oil prices keep swinging on uncertainty about when the war with Iran will allow crude to flow freely again",
-      "url": "https://www.barchart.com/story/news/3769010/wall-street-drifts-below-its-all-time-high-as-oil-prices-keep-swinging",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/e62cff0d687a48139e11241b43bb8f52/e62cff0d687a48139e11241b43bb8f52_main_financial_markets_wall_street_6932_.jpg",
-      "publishedAt": "2026-08-11T17:41:17Z",
+      "title": "Wall Street Dips Amid Middle East Uncertainty; Tech and Energy Sectors Sway",
+      "description": "Wall Street closed lower with tech giants Amazon and Alphabet pulling down the S&P 500 and Nasdaq due to intensifying tension in the Middle East. The closed Strait of Hormuz and oil price fluctuations added to market anxiety. Despite the tech dip, the energy sector managed to see gains amid rising oil prices.",
+      "url": "https://www.devdiscourse.com/article/business/3962551-wall-street-dips-amid-middle-east-uncertainty-tech-and-energy-sectors-sway",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2024_18_25_37_4520582.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-11T20:15:08Z",
       "source": {
-        "name": "Barchart"
+        "name": "Devdiscourse"
       }
     }
   ]
