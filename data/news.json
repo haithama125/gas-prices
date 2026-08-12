@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-12T12:43:46+00:00",
+  "updated_at": "2026-08-12T18:47:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stocks in news: L&T, Tata Motors, HAL, Grasim, NBCC and IRCTC",
-      "description": "The Indian equity markets concluded the trading session on a low note, as escalating crude oil prices weighed heavily on worldwide market sentiment. Notable developments included Larsen & Toubro's announcement of a strategic business transfer for its data center services. Focus will also be on firms like Tata Motors and Hindustan Aeronautics.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-lt-tata-motors-hal-grasim-nbcc-and-irctc/articleshow/133161713.cms",
-      "image": "https://img.etimg.com/thumb/msid-133162164,width-1200,height-630,imgsize-170024,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-12T00:30:00Z",
+      "title": "Himachal Pradesh adds 60-paise fuel cess to fund widows and orphans",
+      "description": "Himachal Pradesh has imposed a 60-paise-per-litre cess on petrol and diesel from August 12 to fund welfare measures for widows and orphans. The levy, notified under the state's VAT law, can rise to Rs 5 a litre and will be borne across fuel purchases.",
+      "url": "https://www.indiatoday.in/business/story/himachal-pradesh-fuel-petrol-diesel-oil-price-cess-hike-widow-orphan-levy-2969172-2026-08-12",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/petro-diesel-price-hike-1258443-16x9_0.jpg?VersionId=hENr4NBJ6DBCXfmWbfBWw9LkMA_Zc0MY",
+      "publishedAt": "2026-08-12T06:38:42Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "India Today"
       }
     },
     {
-      "title": "Tensions Flare: Strait of Hormuz and the Unyielding U.S.-Iran Standoff",
-      "description": "The U.S. and Yemen's Houthis reported attacks on shipping as tensions around the Iran war escalated, amid Tehran's demands to keep the Strait of Hormuz closed until the U.S. meets its conditions. Amidst escalated rhetoric, oil prices rose due to global concerns over the crucial maritime routes.",
-      "url": "https://www.devdiscourse.com/article/law-order/3962589-tensions-flare-strait-of-hormuz-and-the-unyielding-us-iran-standoff",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_08_2025_16_40_45_3599666.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-12T00:12:08Z",
+      "title": "World markets mixed as oil and gold rise ahead of US inflation data",
+      "description": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation reading.",
+      "url": "https://www.euronews.com/business/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data",
+      "image": "https://images.euronews.com/articles/stories/09/87/11/87/1200x675_cmsv2_23433fb7-bd77-5732-a9d2-53a778a7090f-9871187.jpg",
+      "publishedAt": "2026-08-12T06:34:38Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Euronews"
       }
     },
     {
-      "title": "Oil climbs as Iran keeps Hormuz shut",
-      "description": "Oil prices edged up to a one-week high on Tuesday as doubts about a potential US-Iran peace deal fuelled concerns that Middle East supply disruptions would persist.",
-      "url": "https://www.thestar.com.my/business/2026/08/12/oil-climbs-as-iran-keeps-hormuz-shut",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/12/4055208.jpeg",
-      "publishedAt": "2026-08-11T22:51:00Z",
+      "title": "Nigeria's EV ambitions run into reality of weak electricity supply",
+      "description": "Dealers, chargers and battery-swapping operators use diesel and \u200cpetrol generators during outages",
+      "url": "https://www.breakingnews.ie/world/nigerias-ev-ambitions-run-into-reality-of-weak-electricity-supply-1939034.html",
+      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMTIwNzE4MjBcXFwvR2V0dHlJbWFnZXMtMjI3OTc5OTQyMS1lMTc4NjUxNTUxNjE5My5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImYxOGY0ZjdlNzQwMjQzZWU5NTg3MTE1NzM3MTM5NjI1MmNmYzQ4ZjgifQ==/nigeria-s-ev-ambitions-run-into-reality-of-weak-electricity-supply.jpg",
+      "publishedAt": "2026-08-12T06:22:19Z",
       "source": {
-        "name": "The Star"
+        "name": "BreakingNews.ie"
       }
     },
     {
-      "title": "Stocks edge further from their records as oil prices keep swinging",
-      "description": "Higher oil prices make inflation worse, and they\u2019ve sent the average cost for a gallon of regular gasoline to $4.01, according to AAA.",
-      "url": "https://www.latimes.com/business/story/2026-08-11/stocks-edge-further-from-their-records-as-oil-prices-keep-swinging",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/7c2278a/2147483647/strip/true/crop/2439x1280+0+173/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F13%2Fa1%2F3588644442e88fa5d2daa5d1f1b3%2Fd4b50e9d4b604c6aa401a63321f31865.jpg",
-      "publishedAt": "2026-08-11T22:29:46Z",
+      "title": "What the Rs 60 \u2018Widow and Orphan\u2019 cess in Himachal means",
+      "description": "Himachal Pradesh has implemented a new cess of Rs 0.60 per litre on petrol and high-speed diesel, with the funds earmarked for welfare measures benefiting widows and orphaned children",
+      "url": "https://www.theweek.in/news/biz-tech/2026/08/12/what-the-rs-60-widow-and-orphan-cess-in-himachal-means.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/5/23/petrol-diesel230526.jpg",
+      "publishedAt": "2026-08-12T06:15:33Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "THE WEEK"
       }
     },
     {
-      "title": "New attacks on shipping as Iran war talks hit fresh impasse",
-      "description": "By Elwely Elwelly and Parisa HafeziDUBAI, Aug 11 (Reuters) - The United States and Yemen's Iran-aligned Houthis reported separate attacks on shipping on Tuesday as prospects for ending the five-month-old Iran war appeared to dim, with Tehran saying the Strait of Hormuz would remain closed unless Washington accepts its conditions.Oil prices gained and global shares retreated amid renewed pessimism about a quick end to the conflict. Brent crude futures climbed 1.4% to settle at $88.91 per barrel and U.S. crude rose 1.3% to $83.20.",
-      "url": "https://www.al-monitor.com/originals/2026/08/new-attacks-shipping-iran-war-talks-hit-fresh-impasse",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/2026-08-11T152628Z_2_LYNXMPEM7A15L_RTROPTP_4_IRAN-CRISIS.JPG?h=6eb9173e&itok=wOTXhU6l",
-      "publishedAt": "2026-08-11T22:03:00Z",
+      "title": "Shares are mostly higher in Asia, with Kospi up 4%, while oil prices gain",
+      "description": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will allow crude to flow freely again.",
+      "url": "https://www.newindianexpress.com/business/2026/Aug/12/shares-are-mostly-higher-in-asia-with-kospi-up-4-while-oil-prices-gain-2",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-12%2F2uo72xsk%2FAP26224079271797.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-12T06:10:12Z",
       "source": {
-        "name": "Al-Monitor"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Strait of Hormuz Tensions: Pivotal Shipping Lane at the Heart of Global Conflict",
-      "description": "The conflict extends as the U.S. and Yemeni Houthis report attacks on shipping. Iran emphasizes the Strait of Hormuz will stay shut unless the U.S. agrees to its conditions. Oil prices rise amid fears of prolonged conflict, with fatalities reported in a Houthi attack at Bab el-Mandeb Strait.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3962570-strait-of-hormuz-tensions-pivotal-shipping-lane-at-the-heart-of-global-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_12_32_09_1437056.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T21:58:03Z",
+      "title": "Tata Group Stocks Fall After N Chandrasekaran Resigns As Tata Sons Chairman; TCS Leads Decline",
+      "description": "Tata Group stocks faced selling pressure on Wednesday after Tata Sons Chairman N Chandrasekaran resigned from the holding company. TCS declined nearly 5%, while Titan, Tata Consumer Products and Tata Steel also fell. The market reaction came amid broader weakness due to rising crude oil prices and uncertainty over Tata Sons leadership",
+      "url": "https://www.freepressjournal.in/business/tata-group-stocks-fall-after-n-chandrasekaran-resigns-as-tata-sons-chairman-tcs-leads-decline",
+      "image": "https://media.assettype.com/freepressjournal/2019-12/604e84c3-f6a7-4337-99fc-9b4d3213fd97/Tata_group_stocks.jpg",
+      "publishedAt": "2026-08-12T06:07:05Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "California energy regulator says he\u2019s open to working with Trump on oil refineries",
-      "description": "The chair of the California Energy Commission acknowledged some \u201ccommon cause\u201d with the federal government on gas prices while calling its coastal energy policy \u201creckless.\u201d",
-      "url": "https://www.politico.com/news/2026/08/11/california-energy-regulator-trump-oil-refineries-01033796",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2F40%2F2d%2F0b4c38254cfab95ec00ea43dbd7a%2Fsmj0221.jpeg",
-      "publishedAt": "2026-08-11T21:47:00Z",
+      "title": "Himachal government imposes widow and orphan cess on fuel; what it means",
+      "description": "Following the imposition of cess, the price of petrol in the capital Shimla has been increased from Rs 102.45 to Rs 103.05 per litre. The petrol prices in Dharamshala have been increased by upto 71 paise per litre, while 69 paise per litre for diesel.",
+      "url": "https://www.indiatvnews.com/news/india/himachal-government-imposes-widow-and-orphan-cess-on-fuel-what-it-means-2026-08-12-1051108",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/himachal-fuel-1786513430.jpg",
+      "publishedAt": "2026-08-12T05:44:23Z",
       "source": {
-        "name": "POLITICO"
+        "name": "India TV News"
       }
     },
     {
-      "title": "Oil Price Surge Highlights Global Tensions in the Middle East",
-      "description": "Oil prices rose to a one-week high amid doubts about achieving stability in the Middle East and reopening the Strait of Hormuz, impacting Wall Street. Global inflation concerns persist, and geopolitical tensions have resulted in fluctuating energy costs and uncertain financial markets as investors remain on edge.",
-      "url": "https://www.devdiscourse.com/article/business/3962564-oil-price-surge-highlights-global-tensions-in-the-middle-east",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2025_06_03_09_1816292.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T21:29:36Z",
+      "title": "Shares are mostly higher in Asia, with Kospi up 4%, while oil prices gain",
+      "description": "Shares are mostly higher in Asia and U.S. futures have edged higher, while oil prices advanced. South Korea's Kospi index jumped 4% on a rebound for computer chipmakers. Samsung Electronics gained 7.7% and memory chipmaker SK Hynix was up 7.1%. On Tuesday, the S&P 500 fell 0.3% and the Dow Jones Industrial Average dipped 0.3%. The Nasdaq composite sank 0.6%. The price for a barrel of Brent crude was about $89, up nearly 1%. Higher oil prices make inflation worse. That has investors focused on Wednesday's release of the latest monthly reading on inflation in the U.S. Economists expect it to show inflation slipped to 3.4% in July from 3.5% in June.",
+      "url": "https://www.ajc.com/news/2026/08/shares-are-mostly-higher-in-asia-with-kospi-up-4-while-oil-prices-gain/",
+      "image": "https://images.ajc.com/resizer/v2/W4YDDRWP6NFLPMMDFKNA77WFRY.jpg?auth=167cdec26671db081a01e68c20fd4e5c68fbd27f79dfa830d35f7247da6176a3&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-12T05:32:58Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Himachal govt imposes \u20b90.60 per litre widow, orphan cess on petrol, diesel",
-      "description": "The Himachal Pradesh government officially imposed a Widow and Orphan Cess of 60 paise per litre on petrol and high-speed diesel, with the levy coming into force from midnight on August 11.",
-      "url": "https://www.aninews.in/news/national/general-news/himachal-govt-imposes-8377060-per-litre-widow-orphan-cess-on-petrol-diesel20260812022805/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260811202518-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-11T20:58:05Z",
+      "title": "Siemens to Shriram Finance - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "description": "Indian equities fell in morning trading on Wednesday, with the Nifty 50 down 0.42% and BSE Sensex down 0.44%. Investors are cautious ahead of key inflation data from India and the US, while elevated crude oil prices add to concerns about inflation and import costs.",
+      "url": "https://www.livemint.com/market/stock-market-news/siemens-to-shriram-finance-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11786510798921.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/DSC02469_1737528551670_1786511891392_1412b219-59c0-4cde-852a-7d42c2c4762f.jpg",
+      "publishedAt": "2026-08-12T05:22:29Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Wall Street Dips Amid Middle East Uncertainty; Tech and Energy Sectors Sway",
-      "description": "Wall Street closed lower with tech giants Amazon and Alphabet pulling down the S&P 500 and Nasdaq due to intensifying tension in the Middle East. The closed Strait of Hormuz and oil price fluctuations added to market anxiety. Despite the tech dip, the energy sector managed to see gains amid rising oil prices.",
-      "url": "https://www.devdiscourse.com/article/business/3962551-wall-street-dips-amid-middle-east-uncertainty-tech-and-energy-sectors-sway",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_08_2024_18_25_37_4520582.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-11T20:15:08Z",
+      "title": "Asian shares are mostly higher and oil prices advance",
+      "description": "Shares are mostly higher in Asia and U.S. futures have edged higher, while oil prices advanced. South Korea's Kospi index jumped 4% on a rebound for computer chipmakers.",
+      "url": "https://apnews.com/article/stocks-markets-rates-trump-iran-chips-db541ced9f928f993bd3a17958a3deaa",
+      "image": "https://dims.apnews.com/dims4/default/e51cdf4/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fa8%2F40ea80bfd1074aab8cd4d94d2778%2F548fcb672d1e4a80bfddf1cc64ae53c2",
+      "publishedAt": "2026-08-12T05:20:57Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Associated Press"
       }
     }
   ]
