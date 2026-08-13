@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-08-13T07:12:10+00:00",
+  "updated_at": "2026-08-13T12:44:55+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Stocks in news: UltraTech Cement, Tata Motors PV, Axis Bank, Apollo Hospitals and Ircon",
+      "description": "Indian equity markets saw a decline on Wednesday, influenced by Middle East tensions and rising oil prices. Several companies will be in focus today due to corporate developments and first-quarter earnings reports. UltraTech Cement shares are set for a block deal, while Apollo Hospitals reported strong profit growth. Lenskart Solutions and Astral also announced significant profit increases for the first quarter.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stocks-in-news-ultratech-cement-tata-motors-pv-axis-bank-apollo-hospitals-and-ircon/articleshow/133189372.cms",
+      "image": "https://img.etimg.com/thumb/msid-133189555,width-1200,height-630,imgsize-209024,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-13T00:30:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Rupee ends modestly higher on RBI intervention",
+      "description": "On Wednesday, the Indian rupee experienced a modest increase, managing to withstand the upward pressure of crude oil prices. Support from the Reserve Bank of India's dollar sales played a crucial role in maintaining a stable trading environment, with the rupee fluctuating between 95.25 and 95.44. Traders are optimistic, anticipating an even stronger performance for the rupee on Thursday, bolstered by the recent ceasefire agreement that eased Brent crude futures.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-higher-on-rbi-intervention/articleshow/133195393.cms",
+      "image": "https://img.etimg.com/thumb/msid-133195395,width-1200,height-630,imgsize-335156,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-13T00:13:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil prices edge up amid US-Iran deadlock",
+      "description": "Oil prices rose slightly on Wednesday as attacks on ships in the Middle East continued and talks to end the Iran war hit an impasse. However, the gains were limited after forecasters cut global oil demand projections for 2026.",
+      "url": "https://www.thestar.com.my/business/2026/08/13/oil-prices-edge-up-amid-us-iran-deadlock",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/13/4057027.jpeg",
+      "publishedAt": "2026-08-12T23:22:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Himachal govt levies 60 paise/ litre 'Orphan and Widow Cess' on petrol, high speed diesel",
+      "description": "SHIMLA, Aug 12: The Himachal Pradesh government has levied an 'Orphan and Widow Cess' at the rate of 60 paise per litre on petrol and high speed diesel at the point of first sale in the state. The state government...",
+      "url": "https://www.dailyexcelsior.com/himachal-govt-levies-60-paise-litre-orphan-and-widow-cess-on-petrol-high-speed-diesel/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTQzOTAxMDMwLTk2OWUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-12T22:36:22Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Michele Tafoya on How Voters Can Deal With Gas Prices: Less Starbucks",
+      "description": "Minnesota Senate candidate Michele Tafoya advised voters to buy less Starbucks as a way to deal with high gas prices resulting from the Iran war.",
+      "url": "https://www.rollingstone.com/politics/politics-news/michele-tafoya-votrs-gas-prices-starbucks-1235607788/",
+      "image": "https://www.rollingstone.com/wp-content/uploads/2026/08/Michelle-Tafoya-gas-prices.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2026-08-12T21:33:57Z",
+      "source": {
+        "name": "Rolling Stone"
+      }
+    },
+    {
+      "title": "Global Equities Rise Amid Stable Interest Rates and Oil Price Fluctuations",
+      "description": "Global equity markets saw gains following mild U.S. inflation data, which reinforced expectations that the Federal Reserve would hold interest rates steady. Oil prices saw slight increases, but market focus remained on geopolitical tensions and central bank rate decisions. The Dow fell slightly, while AI-sector stocks rallied.",
+      "url": "https://www.devdiscourse.com/article/business/3963181-global-equities-rise-amid-stable-interest-rates-and-oil-price-fluctuations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_09_2025_20_58_27_9344326.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-12T21:33:13Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "North Texans see bigger inflation rate in July, but it could be worse",
+      "description": "Gas prices aren't helping as costs rise, report from U.S. Bureau of Labor Statistics shows.",
+      "url": "https://www.dallasnews.com/business/retail/article/north-texans-see-bigger-inflation-rate-july-worse-22381640.php",
+      "image": "https://s.hdnux.com/photos/01/66/15/15/30987103/3/rawImage.jpg",
+      "publishedAt": "2026-08-12T20:18:55Z",
+      "source": {
+        "name": "The Dallas Morning News"
+      }
+    },
+    {
+      "title": "Where are the cheapest gas prices on Staten Island this week?",
+      "description": "The average price for gas in New York state is $4.15 this week, according to AAA.",
+      "url": "https://www.silive.com/transportation/2026/08/where-are-the-cheapest-gas-prices-on-staten-island-this-week.html-2",
+      "image": "https://www.silive.com/resizer/v2/YTIATM4IENBRPEC3557VVTII5U.jpg?auth=f589e4e3927f0aca36c88e49d5b5d2e52a91d45079241d011c6a57028bf5deff&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-08-12T19:40:58Z",
+      "source": {
+        "name": "Staten Island Advance"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Close Higher on Warm Forecasts",
+      "description": "September Nymex natural gas (NGU26 ) on Wednesday closed up +0.037 (+1.34%). Nat-gas prices closed higher on Wednesday as forecasts remain warm. Vaisala forecasts continued hotter-than-average temperatures for the Midwest and South for Aug 17-21, an...",
+      "url": "https://www.barchart.com/story/news/3811969/nat-gas-prices-close-higher-on-warm-forecasts",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Natural%20gas%20burnoff%20refinery%20by%20Leonid%20Eremeychuk%20via%20iStock.jpg",
+      "publishedAt": "2026-08-12T19:38:55Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
     {
       "title": "Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
       "description": "GLOBAL-OIL:Oil prices edge up as investors weigh US-Iran talks deadlock against lower demand",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-08-12T19:09:59Z",
       "source": {
         "name": "Livemint"
-      }
-    },
-    {
-      "title": "Crude Prices Close Higher as IEA Forecasts Tightening Inventories in Q3",
-      "description": "September WTI crude oil (CLU26) on Wednesday closed up +0.07 (+0.08%), and September RBOB gasoline (RBU26) closed up +0.0171 (+0.55%). Crude oil and gasoline prices closed higher on Wednesday as the International Energy Agency (IEA) said in its month...",
-      "url": "https://www.barchart.com/story/news/3811525/crude-prices-close-higher-as-iea-forecasts-tightening-inventories-in-q3",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/An%20oil%20tanker%20out%20at%20sea%20by%20Gerhard%20Traschutz%20via%20Pixabay.jpg",
-      "publishedAt": "2026-08-12T19:01:57Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Dollar Rallies Post CPI Data Amid Fed Rate Hike Uncertainties",
-      "description": "The U.S. dollar rose after consumer price inflation met economists' expectations in July, despite mixed signals about a Federal Reserve rate hike. Traders adjusted bets following weak job data, with the dollar aided by higher oil prices. Future Fed policy and economic projections remain focal points.",
-      "url": "https://www.devdiscourse.com/article/business/3963146-dollar-rallies-post-cpi-data-amid-fed-rate-hike-uncertainties",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_09_2025_01_36_49_1003283.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-12T19:00:32Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Gas prices averaged $3.79 in Iowa the week of Aug. 12",
-      "description": "The price of regular unleaded gasoline remained unchanged from last week's price and is currently averaging $3.79 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_cbf23fa1-257f-42a3-85d2-c4946a450f2d.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/c/bf/cbf23fa1-257f-42a3-85d2-c4946a450f2d/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-08-12T18:30:00Z",
-      "source": {
-        "name": "Sioux City Journal"
-      }
-    },
-    {
-      "title": "Oil prices drop as investors weigh lower demand forecasts against US-Iran talks deadlock",
-      "description": "Oil prices fell \u200cin volatile trading on Wednesday, having earlier traded $1 higher, after forecasters cut projections for 2026 global oil demand, while attacks on ships in the Middle East continued as talks to end the\u00a0Iran \u200bwar\u00a0hit an impasse.",
-      "url": "https://nypost.com/2026/08/12/business/oil-prices-drop-as-investors-weigh-lower-demand-forecasts-against-us-iran-talks-deadlock/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/137183135.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-12T18:19:15Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Govt cuts petrol price by Rs0.94, raises diesel by Rs0.54",
-      "description": "The government has reduced the price of petrol by 94 paisa per liter while increasing the price of diesel by 54 paisa per liter.",
-      "url": "https://www.bolnews.com/business/govt-cuts-petrol-price-by-rs0-94-raises-diesel-by-rs0-54/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/petrol-3.webp",
-      "publishedAt": "2026-08-12T18:15:22Z",
-      "source": {
-        "name": "BOL News"
-      }
-    },
-    {
-      "title": "Global Equities Climb Amid Mild Inflation and Oil Price Dips",
-      "description": "Global equities rose following mild U.S. inflation data that suggests the Federal Reserve may hold interest rates stable. Oil prices dipped amid lower demand forecasts, despite tensions between the U.S. and Iran impacting the Strait of Hormuz. Stock markets saw gains, driven by upbeat AI results in the U.S.",
-      "url": "https://www.devdiscourse.com/article/business/3963130-global-equities-climb-amid-mild-inflation-and-oil-price-dips",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_06_2024_08_30_04_0980574.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-12T17:49:52Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Why The Fed Will Raise Rates In September Despite Cooler CPI",
-      "description": "Core inflation held at 2.5%, and that underlying pressure, not tariffs or oil prices, is why the Fed hikes interest rates in September",
-      "url": "https://www.forbes.com/sites/billconerly/2026/08/12/why-the-fed-will-raise-rates-in-september-despite-cooler-cpi/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a7ca8c570d6accac0464d7f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-12T17:19:42Z",
-      "source": {
-        "name": "Forbes"
-      }
-    },
-    {
-      "title": "Inflation cooled last month as gas prices fell, though costs remain elevated",
-      "description": "U.S. inflation slowed last month and a measure of underlying price pressures also cooled, suggesting higher oil and gas prices from the Iran war are only having a limited impact on broader costs in the economy.",
-      "url": "https://www.wistv.com/2026/08/12/inflation-cooled-last-month-gas-prices-fell-though-costs-remain-elevated/",
-      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/5XUCBJUTZRF2JERAVDA7CYR7XY.jpg?auth=4cd294fd2185d8aa1267bcb70b77e1ecc09a6e63715d95f9e89af006b58cc8c7&width=1200&height=600&smart=true",
-      "publishedAt": "2026-08-12T17:11:02Z",
-      "source": {
-        "name": "WIS10"
-      }
-    },
-    {
-      "title": "Inflation cooled last month as gas prices fell, though costs remain elevated",
-      "description": "U.S. inflation slowed last month and a measure of underlying price pressures also cooled, suggesting higher oil and gas prices from the Iran war are only having a limited impact on broader costs in the economy.",
-      "url": "https://www.live5news.com/2026/08/12/inflation-cooled-last-month-gas-prices-fell-though-costs-remain-elevated/",
-      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/5XUCBJUTZRF2JERAVDA7CYR7XY.jpg?auth=4cd294fd2185d8aa1267bcb70b77e1ecc09a6e63715d95f9e89af006b58cc8c7&width=1200&height=600&smart=true",
-      "publishedAt": "2026-08-12T17:11:02Z",
-      "source": {
-        "name": "Live 5 News WCSC"
       }
     }
   ]
