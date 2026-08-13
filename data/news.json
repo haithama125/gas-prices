@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-12T18:47:33+00:00",
+  "updated_at": "2026-08-13T01:05:32+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Himachal Pradesh adds 60-paise fuel cess to fund widows and orphans",
-      "description": "Himachal Pradesh has imposed a 60-paise-per-litre cess on petrol and diesel from August 12 to fund welfare measures for widows and orphans. The levy, notified under the state's VAT law, can rise to Rs 5 a litre and will be borne across fuel purchases.",
-      "url": "https://www.indiatoday.in/business/story/himachal-pradesh-fuel-petrol-diesel-oil-price-cess-hike-widow-orphan-levy-2969172-2026-08-12",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/petro-diesel-price-hike-1258443-16x9_0.jpg?VersionId=hENr4NBJ6DBCXfmWbfBWw9LkMA_Zc0MY",
-      "publishedAt": "2026-08-12T06:38:42Z",
+      "title": "Global Stocks Rally Amid Stable US Inflation and Rising Oil Prices",
+      "description": "Global stocks rose after US inflation data met expectations, influencing traders to maintain their bets on the Federal Reserve's interest rate hold. Oil prices climbed due to the lack of new ceasefire agreements between Iran and the US. Investors remained calm as markets hit near-record highs.",
+      "url": "https://www.devdiscourse.com/article/business/3962973-global-stocks-rally-amid-stable-us-inflation-and-rising-oil-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_07_2024_10_22_37_0214292.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-12T13:02:24Z",
       "source": {
-        "name": "India Today"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "World markets mixed as oil and gold rise ahead of US inflation data",
-      "description": "Oil prices climbed and Wall Street pulled back from record highs, while South Korea's Kospi surged more than 4% on renewed chip-buying, as markets brace for a crucial US inflation reading.",
-      "url": "https://www.euronews.com/business/2026/08/12/world-markets-mixed-as-oil-and-gold-rise-ahead-of-us-inflation-data",
-      "image": "https://images.euronews.com/articles/stories/09/87/11/87/1200x675_cmsv2_23433fb7-bd77-5732-a9d2-53a778a7090f-9871187.jpg",
-      "publishedAt": "2026-08-12T06:34:38Z",
-      "source": {
-        "name": "Euronews"
-      }
-    },
-    {
-      "title": "Nigeria's EV ambitions run into reality of weak electricity supply",
-      "description": "Dealers, chargers and battery-swapping operators use diesel and \u200cpetrol generators during outages",
-      "url": "https://www.breakingnews.ie/world/nigerias-ev-ambitions-run-into-reality-of-weak-electricity-supply-1939034.html",
-      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMTIwNzE4MjBcXFwvR2V0dHlJbWFnZXMtMjI3OTc5OTQyMS1lMTc4NjUxNTUxNjE5My5qcGdcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6ImYxOGY0ZjdlNzQwMjQzZWU5NTg3MTE1NzM3MTM5NjI1MmNmYzQ4ZjgifQ==/nigeria-s-ev-ambitions-run-into-reality-of-weak-electricity-supply.jpg",
-      "publishedAt": "2026-08-12T06:22:19Z",
-      "source": {
-        "name": "BreakingNews.ie"
-      }
-    },
-    {
-      "title": "What the Rs 60 \u2018Widow and Orphan\u2019 cess in Himachal means",
-      "description": "Himachal Pradesh has implemented a new cess of Rs 0.60 per litre on petrol and high-speed diesel, with the funds earmarked for welfare measures benefiting widows and orphaned children",
-      "url": "https://www.theweek.in/news/biz-tech/2026/08/12/what-the-rs-60-widow-and-orphan-cess-in-himachal-means.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/5/23/petrol-diesel230526.jpg",
-      "publishedAt": "2026-08-12T06:15:33Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "Shares are mostly higher in Asia, with Kospi up 4%, while oil prices gain",
-      "description": "Asian shares were mostly higher Wednesday after U.S. stocks slipped a bit further from their records, while oil prices advanced as doubts persisted over when the war with Iran will allow crude to flow freely again.",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/12/shares-are-mostly-higher-in-asia-with-kospi-up-4-while-oil-prices-gain-2",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-12%2F2uo72xsk%2FAP26224079271797.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-12T06:10:12Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Tata Group Stocks Fall After N Chandrasekaran Resigns As Tata Sons Chairman; TCS Leads Decline",
-      "description": "Tata Group stocks faced selling pressure on Wednesday after Tata Sons Chairman N Chandrasekaran resigned from the holding company. TCS declined nearly 5%, while Titan, Tata Consumer Products and Tata Steel also fell. The market reaction came amid broader weakness due to rising crude oil prices and uncertainty over Tata Sons leadership",
-      "url": "https://www.freepressjournal.in/business/tata-group-stocks-fall-after-n-chandrasekaran-resigns-as-tata-sons-chairman-tcs-leads-decline",
-      "image": "https://media.assettype.com/freepressjournal/2019-12/604e84c3-f6a7-4337-99fc-9b4d3213fd97/Tata_group_stocks.jpg",
-      "publishedAt": "2026-08-12T06:07:05Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Himachal government imposes widow and orphan cess on fuel; what it means",
-      "description": "Following the imposition of cess, the price of petrol in the capital Shimla has been increased from Rs 102.45 to Rs 103.05 per litre. The petrol prices in Dharamshala have been increased by upto 71 paise per litre, while 69 paise per litre for diesel.",
-      "url": "https://www.indiatvnews.com/news/india/himachal-government-imposes-widow-and-orphan-cess-on-fuel-what-it-means-2026-08-12-1051108",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/himachal-fuel-1786513430.jpg",
-      "publishedAt": "2026-08-12T05:44:23Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "Shares are mostly higher in Asia, with Kospi up 4%, while oil prices gain",
-      "description": "Shares are mostly higher in Asia and U.S. futures have edged higher, while oil prices advanced. South Korea's Kospi index jumped 4% on a rebound for computer chipmakers. Samsung Electronics gained 7.7% and memory chipmaker SK Hynix was up 7.1%. On Tuesday, the S&P 500 fell 0.3% and the Dow Jones Industrial Average dipped 0.3%. The Nasdaq composite sank 0.6%. The price for a barrel of Brent crude was about $89, up nearly 1%. Higher oil prices make inflation worse. That has investors focused on Wednesday's release of the latest monthly reading on inflation in the U.S. Economists expect it to show inflation slipped to 3.4% in July from 3.5% in June.",
-      "url": "https://www.ajc.com/news/2026/08/shares-are-mostly-higher-in-asia-with-kospi-up-4-while-oil-prices-gain/",
-      "image": "https://images.ajc.com/resizer/v2/W4YDDRWP6NFLPMMDFKNA77WFRY.jpg?auth=167cdec26671db081a01e68c20fd4e5c68fbd27f79dfa830d35f7247da6176a3&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-12T05:32:58Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Siemens to Shriram Finance - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
-      "description": "Indian equities fell in morning trading on Wednesday, with the Nifty 50 down 0.42% and BSE Sensex down 0.44%. Investors are cautious ahead of key inflation data from India and the US, while elevated crude oil prices add to concerns about inflation and import costs.",
-      "url": "https://www.livemint.com/market/stock-market-news/siemens-to-shriram-finance-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11786510798921.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/DSC02469_1737528551670_1786511891392_1412b219-59c0-4cde-852a-7d42c2c4762f.jpg",
-      "publishedAt": "2026-08-12T05:22:29Z",
+      "title": "US consumer inflation falls to 3.4% year-on-year in July: Govt",
+      "description": "US consumer inflation eased to 3.4% in July amidst volatile oil prices, according to government data. The consumer price index rose 0.1% month-over-month but decreased year-on-year, aligning with analyst expectations and potentially giving the Federal Reserve more flexibility on interest rates.",
+      "url": "https://www.livemint.com/economy/us-consumer-inflation-falls-to-3-4-year-on-year-in-july-govt-11786539378118.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/12/1600x900/logo/inflation_1786539505854_1786539506193_273db84f-79eb-4c96-8035-ff1b0f604ecc.jpg",
+      "publishedAt": "2026-08-12T12:59:22Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Asian shares are mostly higher and oil prices advance",
-      "description": "Shares are mostly higher in Asia and U.S. futures have edged higher, while oil prices advanced. South Korea's Kospi index jumped 4% on a rebound for computer chipmakers.",
-      "url": "https://apnews.com/article/stocks-markets-rates-trump-iran-chips-db541ced9f928f993bd3a17958a3deaa",
-      "image": "https://dims.apnews.com/dims4/default/e51cdf4/2147483647/strip/true/crop/6000x3998+0+1/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa5%2Fa8%2F40ea80bfd1074aab8cd4d94d2778%2F548fcb672d1e4a80bfddf1cc64ae53c2",
-      "publishedAt": "2026-08-12T05:20:57Z",
+      "title": "Inflation cooled last month as gas prices fell, though costs remain elevated",
+      "description": "U.S. inflation slowed last month and a measure of underlying price pressures also cooled, suggesting higher oil and gas prices from the Iran war are only having a limited impact on broader costs in...",
+      "url": "https://www.sfgate.com/news/politics/article/july-inflation-report-to-provide-crucial-signs-of-22384576.php",
+      "image": "https://s.hdnux.com/photos/01/67/03/50/31209987/3/rawImage.jpg",
+      "publishedAt": "2026-08-12T12:58:02Z",
       "source": {
-        "name": "The Associated Press"
+        "name": "SFGATE"
+      }
+    },
+    {
+      "title": "Inflation cooled last month as gas prices fell, though costs remain elevated",
+      "description": "U.S. inflation slowed last month and a measure of underlying price pressures also cooled, suggesting higher oil and gas prices from the Iran war are only having a limited impact on broader costs in the economy",
+      "url": "https://www.barchart.com/story/news/3798957/inflation-cooled-last-month-as-gas-prices-fell-though-costs-remain-elevated",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/9dc245bbb19a4ee08850ed7fb527c622/9dc245bbb19a4ee08850ed7fb527c622_main_gaoline_prices_colorado_895_4.jpg",
+      "publishedAt": "2026-08-12T12:42:32Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Stock markets decline for 2nd day amid rising crude oil prices; Tata Group stocks under pressure",
+      "description": "MUMBAI, Aug 12: \u00a0Benchmark equity indices Sensex and Nifty ended lower for the second day on Wednesday as elevated crude oil prices and selling in Tata Group stocks after Tata Sons Chairman N Chandrasekaran said he will not seek reappointment...",
+      "url": "https://www.dailyexcelsior.com/stock-markets-decline-for-2nd-day-amid-rising-crude-oil-prices-tata-group-stocks-under-pressure/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWVlOGQ4NWUwLTk2NDgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-12T12:25:39Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Sensex falls 188 points amid elevated crude oil prices; Tata Group stocks decline after N. Chandra\u2019s exit",
+      "description": "Sensex falls 188 points as elevated crude prices and Tata Group stock decline follow N. Chandrasekaran's announcement of stepping down.",
+      "url": "https://www.thehindu.com/business/markets/sensex-falls-188-points-amid-elevated-crude-oil-prices-tata-group-stocks-decline-after-n-chandras-exit/article71336404.ece",
+      "image": "https://th-i.thgim.com/public/news/national/8y5v0f/article71336482.ece/alternates/LANDSCAPE_1200/iStock-1487894859%201.jpg",
+      "publishedAt": "2026-08-12T12:18:22Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "India bonds flat, major move likely only after US inflation data",
+      "description": "Indian government bonds remained mostly stable on Wednesday, with traders eyeing important US inflation statistics expected later that day. The local retail inflation for July edged up to 4.45 percent, while oil prices declined slightly following news of a ceasefire extension. Overnight index swap rates showed little change, reflecting expectations surrounding the upcoming US economic data.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-flat-major-move-likely-only-after-us-inflation-data/articleshow/133182539.cms",
+      "image": "https://img.etimg.com/thumb/msid-133182557,width-1200,height-630,imgsize-121028,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-12T12:14:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "How America\u2019s culture wars took over everyday life",
+      "description": "Even with the war in Iran, gas prices and more, the most political topic seems to be the culture war. The Gaggle looks at how we got to this place.",
+      "url": "https://www.azcentral.com/story/news/politics/arizona/2026/08/12/culture-wars-dividing-american-politics/91264400007/",
+      "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2026/07/08/PPHX/90849387007-uscp-86-mouu-95-urta-8-tflmc-6-original.jpg?crop=7430,4182,x4,y291&width=3200&height=1802&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-12T12:02:56Z",
+      "source": {
+        "name": "The Arizona Republic"
+      }
+    },
+    {
+      "title": "Stock Markets Decline For 2nd Day Amid Rising Crude Oil Prices; Tata Group Stocks Under Pressure",
+      "description": "The 30-share BSE Sensex declined 187.90 points, or 0.24%, to settle at 77,966.35. During the day, it tumbled 656.32 points, or 0.83%, to 77,497.93",
+      "url": "https://www.outlookbusiness.com/markets/stock-markets-decline-for-2nd-day-amid-rising-crude-oil-prices-tata-group-stocks-under-pressure",
+      "image": "https://media.assettype.com/outlookbusiness/2025-08-17/pvxthhxr/Stock-market?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-12T12:01:35Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "Russia pummels Ukraine's petrol stations",
+      "description": "Since July, Moscow has hit more than 200 petrol stations across, according to Ukrainian media.",
+      "url": "https://torontosun.com/news/world/to-make-the-civilians-leave-russia-pummels-ukraines-petrol-stations",
+      "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/08/a26ba8a57605c57bc0409e0e25ff40f0fe0d924a-e1786535770785.jpg",
+      "publishedAt": "2026-08-12T11:56:57Z",
+      "source": {
+        "name": "Toronto Sun"
       }
     }
   ]
