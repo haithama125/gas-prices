@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-13T18:47:51+00:00",
+  "updated_at": "2026-08-14T01:04:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asian Markets Rally as Inflation Trends Shape Global Economic Outlook",
-      "description": "Asian stocks rose amid easing inflation concerns in the U.S., reducing expectations of a Federal Reserve rate hike. Meanwhile, oil prices slipped due to demand worries. The U.S. and Iran remain tense, impacting economic forecasts. The dollar and yen experience fluctuation, and gold prices also dipped.",
-      "url": "https://www.devdiscourse.com/article/business/3963288-asian-markets-rally-as-inflation-trends-shape-global-economic-outlook",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/03_10_2025_01_19_36_8785275.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-13T06:33:46Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/08/13/us-wholesale-price-inflation-slows-last-month-as-gas-food-costs-fall/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/7KIJILZX6PCHLFPJGGDLCK46WI.jpg?smart=true&auth=5b85383190168f4640b468b77b4c70a433e535f12221690b943c82149c2af0cb&width=1200&height=630",
+      "publishedAt": "2026-08-13T13:03:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "CNBC Daily Open: Middle East tensions send oil higher while Iran-U.S. tensions escalate",
-      "description": "Concerns over supply disruptions pushed oil prices higher, amid news of recent deadly attacks on vessels in the Gulf of Oman and the Red Sea, and as a spill near Oman worsens.",
-      "url": "https://www.cnbc.com/2026/08/13/cnbc-daily-open-middle-east-tensions-send-oil-higher-while-iran-us-tensions-escalate-.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108299077-1777468837386-gettyimages-2273021577-img_8826.jpeg?v=1777468973&w=1920&h=1080",
-      "publishedAt": "2026-08-13T06:28:03Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead. The Labor Department\u2019s producer price index \u2014 which captures inflation before it reaches consumers \u2014 rose 4.7% in July from a year ago, down from a much larger 5.5% increase in June. On a monthly basis, wholesale prices were unchanged from June to July, after they ticked down 0.1% the previous month.",
+      "url": "https://www.ajc.com/news/2026/08/wholesale-price-inflation-slows-last-month-as-gas-food-costs-fall/",
+      "image": "https://images.ajc.com/resizer/v2/YONZEAV4FFHOHDYJCS4NDMENSU.jpg?auth=b7ae1b9ded7c2f5909c52b7684b207e3195315a310ff78d23de8cb363a8fdd85&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-13T13:01:36Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Americans have continued traveling despite higher prices this year",
+      "description": "High gas prices and airfares on top of more expensive groceries have made it more difficult for Americans to have fun this summer. But they're finding a way.",
+      "url": "https://www.cnbc.com/2026/08/13/higher-prices-summer-travel.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108328345-1782762370393-gettyimages-2283006964-20090101260627-99-879612.jpeg?v=1783019122&w=1920&h=1080",
+      "publishedAt": "2026-08-13T13:00:01Z",
       "source": {
         "name": "CNBC"
       }
     },
     {
-      "title": "UAE Reportedly Released Iran's Frozen Assets Worth Billions of Dollars, Bitcoin Rebounds",
-      "description": "The UAE has reportedly released Iran's frozen assets worth billions of dollars, including gold. Bitcoin rebounds as oil prices plunge to $82.",
-      "url": "https://coingape.com/uae-released-iran-frozen-assets-worth-billions-dollars-bitcoin-rebounds/",
-      "image": "https://coingape.com/wp-content/uploads/2026/02/UAEs-Second-Largest-Bank.webp",
-      "publishedAt": "2026-08-13T06:17:29Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped last month as gas prices reversed some of their Iran war spike and other costs also cooled, a sign that consumer inflation could grind lower in the months ahead",
+      "url": "https://www.barchart.com/story/news/3828896/wholesale-price-inflation-slows-last-month-as-gas-food-costs-fall",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/b462235dbc1244428b0b08eadeac9354/b462235dbc1244428b0b08eadeac9354_main_us_producer_prices__3595.jpg",
+      "publishedAt": "2026-08-13T12:59:14Z",
       "source": {
-        "name": "CoinGape"
+        "name": "Barchart"
       }
     },
     {
-      "title": "E20 petrol: Maruti, Tata, Mahindra flagged fuel contamination worries before public retreat",
-      "description": "The carmakers\u2019 emails show for the first time how they are privately worried about contaminants in E20, like chloride and moisture, which they say are hurting vehicles, even as they publicly back the government\u2019s rollout of the \u200cfuel.",
-      "url": "https://www.thehindubusinessline.com/companies/e20-petrol-maruti-tata-mahindra-flagged-fuel-contamination-worries-before-public-retreat/article71339722.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/m0uva7/article71339771.ece/alternates/LANDSCAPE_1200/2026-08-03T130446Z_684335273_RC2ZQMAIAK9F_RTRMADP_3_INDIA-OIL-ETHANOL.JPG",
-      "publishedAt": "2026-08-13T06:15:33Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.sandiegouniontribune.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Emails reveal Indian carmakers' fuel contamination worries before public retreat",
-      "description": "NEW DELHI, Aug 13 - Hours after India made public assurances last week that its ethanol-blended petrol was safe, the country's main auto lobby withdrew a complaint about fuel contamination it had sent to the government a week earlier. The group said some figures needed more checks. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/emails-reveal-indian-carmakers-fuel-contamination-worries-before-public-retreat",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bd94834f18270fec2741ad3e2708a09662f8ce9e9ad729c64031aed3a5ea590c",
-      "publishedAt": "2026-08-13T06:05:06Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.bostonherald.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "Dangerous concrete divider on NH at Chathannoor turns accident spot",
-      "description": "A new concrete divider at a highway entry has narrowed the road, causing multiple collisions and hindering emergency services, with locals demanding.concrete divider accident, highway entry hazard, Chathannoor Spinning Mill, KSRTC bus crash, service road bottleneck, traffic safety concerns, NHAI barrier placement, emergency service access, petrol pump traffic, spinning mill logistics, motorist danger, car collision, narrow road accident, traffic management issue, road safety improvements",
-      "url": "https://www.onmanorama.com/news/kerala/2026/08/13/chathannoor-highway-divider-accident.html",
-      "image": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/district-news/kollam/images/2026/8/13/ksrtc-kollam-devider.jpg",
-      "publishedAt": "2026-08-13T06:00:15Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.dailycamera.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "Malayala Manorama"
+        "name": "Boulder Daily Camera"
       }
     },
     {
-      "title": "Stock markets down in early trade amid geopolitical uncertainty",
-      "description": "Benchmark indices Sensex and Nifty declined in early trade on Thursday as crude oil prices remained elevated amid the unresolved situation in the Strait of Hormuz.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-down-in-early-trade-amid-geopolitical-uncertainty/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZiYmJhZDAwLTk2ZDgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-13T05:32:41Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.pressdemocrat.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "Oil Prices Fall as OPEC and IEA Slash 2026 Demand Outlooks",
-      "description": "Oil prices fell as sharply weaker 2026 demand forecasts and a huge U.S. inventory build outweighed persistent geopolitical risks around the Strait of Hormuz.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Fall-as-OPEC-and-IEA-Slash-2026-Demand-Outlooks.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-13_ar84ps6wkj.jpg",
-      "publishedAt": "2026-08-13T05:25:00Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.courant.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Hartford Courant"
       }
     },
     {
-      "title": "Oil Prices Fall Over $1 As Demand Forecasts Cut Even As US-Iran Deadlock Keeps Supply Risks Elevated",
-      "description": "Oil prices declined on Thursday after analysts lowered global demand forecasts for 2026 due to disruptions from the US-Israel conflict with Iran. Brent and WTI crude fell over 1%, though concerns over Middle East supply disruptions limited losses. Uncertainty over Strait of Hormuz reopening and stalled negotiations kept markets cautious",
-      "url": "https://www.freepressjournal.in/business/oil-prices-fall-over-1-as-demand-forecasts-cut-even-as-us-iran-deadlock-keeps-supply-risks-elevated",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-18/t63mh297/Russian-Oil.jpg",
-      "publishedAt": "2026-08-13T05:23:25Z",
+      "title": "Wholesale price inflation slows last month as gas, food costs fall",
+      "description": "Wholesale inflation dropped in July as gas prices reversed some of their Iran war spike and other costs like food also cooled.",
+      "url": "https://www.baltimoresun.com/2026/08/13/wholesale-price-inflation-july/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/08/US_Producer_Prices__3595.jpg?w=2000&h=1275",
+      "publishedAt": "2026-08-13T12:48:26Z",
       "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Stock markets down in early trade amid geopolitical uncertainty",
-      "description": "Stock markets open lower as geopolitical tensions and high crude oil prices weigh on investor sentiment in early trade.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-down-in-early-trade-amid-geopolitical-uncertainty/article71339656.ece",
-      "image": "https://th-i.thgim.com/public/incoming/uswyyn/article71339662.ece/alternates/LANDSCAPE_1200/iStock-2260474979.jpg",
-      "publishedAt": "2026-08-13T05:22:06Z",
-      "source": {
-        "name": "The Hindu"
+        "name": "Baltimore Sun"
       }
     }
   ]
