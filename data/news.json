@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-14T07:08:32+00:00",
+  "updated_at": "2026-08-14T12:41:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Issue With Gas Prices Is More Refining Than Oil Supply, Attacks on Russian Refining Taking 'Massive Tolls' on Russia Are Factor",
-      "description": "On Thursday's broadcast of the Fox News Channel's \"Special Report,\" Energy Secretary Chris Wright discussed gas prices and said that \"We've got to get the | Clips",
-      "url": "https://www.breitbart.com/clips/2026/08/13/energy-secy-wright-issue-with-gas-prices-is-more-refining-than-oil-supply-attacks-on-russian-refining-taking-massive-tolls-on-russia-are-factor/",
-      "image": "https://media.breitbart.com/media/2025/06/Chris-Wright-1-640x335.jpg",
-      "publishedAt": "2026-08-13T18:57:16Z",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Indian equity markets experienced a slight decline on Thursday, influenced by elevated crude oil prices. Investors remained cautious due to positioning ahead of the weekly Sensex expiry, despite a supportive global outlook. The Nifty50 and Sensex both closed marginally lower, reflecting a market lacking strong directional triggers. Elevated crude prices and geopolitical uncertainty kept domestic investors hesitant, suggesting a range-bound market.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133218802.cms",
+      "image": "https://img.etimg.com/thumb/msid-133219060,width-1200,height-630,imgsize-62754,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-14T00:30:00Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude Prices Fall as Persian Gulf Tensions Ease Slightly",
-      "description": "September WTI crude oil (CLU26) on Thursday closed down -2.02 (-2.43%), and September RBOB gasoline (RBU26) closed down -0.0257 (-0.81%). Crude oil and gasoline prices fell on Thursday, with no overnight reports of new military attacks by the US or I...",
-      "url": "https://www.barchart.com/story/news/3836805/crude-prices-fall-as-persian-gulf-tensions-ease-slightly",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Petroleum%20oil%20and%20gas%20process%20offshore%20field%20by%20Saknarong%20Butsabong%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-13T18:51:50Z",
+      "title": "Pakistan government hikes petrol, high",
+      "description": "Petrol prices have been raised by Rs 0.45 per litre to Rs 325.43 per litre, while HSD prices have gone up by Rs 1.16 per litre to Rs 383.95 per litre.",
+      "url": "https://www.tribuneindia.com/news/world/pakistan-government-hikes-petrol-high-speed-diesel-prices/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE0ZjhlOWEwLTk3NzUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5wbmc=",
+      "publishedAt": "2026-08-14T00:18:09Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Global Markets Surge Amid Shift in U.S. Interest Rate Expectations",
-      "description": "Global equities experienced a rise as investors adjusted their expectations regarding U.S. interest rate hikes. Meanwhile, oil prices declined due to increased inventories and reduced demand forecasts, despite geopolitical tensions. U.S. producer price data stayed flat, reducing Federal Reserve rate hike expectations next month and boosting tech stocks in the S&P 500.",
-      "url": "https://www.devdiscourse.com/article/business/3963562-global-markets-surge-amid-shift-in-us-interest-rate-expectations",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/08_07_2024_17_46_52_0961914.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-13T18:08:07Z",
+      "title": "Pakistan government hikes petrol, high-speed diesel prices",
+      "description": "Petrol prices have been raised by Rs 0.45 per litre to Rs 325.43 per litre, while HSD prices have gone up by Rs 1.16 per litre to Rs 383.95 per litre.",
+      "url": "https://www.aninews.in/news/world/asia/pakistan-government-hikes-petrol-high-speed-diesel-prices20260814054223/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260813232304-thumbnail-320x180.png",
+      "publishedAt": "2026-08-14T00:12:23Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "An oil company that left Calif. is betting billions to sell fuel there",
+      "description": "Phillips 66 shut down its California oil refinery in 2025. It now plans to build a pipeline to supply fuel to the market, which could mean lower gas prices.",
+      "url": "https://www.sfgate.com/bayarea/article/oil-company-california-pipeline-22387701.php",
+      "image": "https://s.hdnux.com/photos/01/67/04/71/31215170/3/rawImage.jpg",
+      "publishedAt": "2026-08-14T00:02:20Z",
+      "source": {
+        "name": "SFGATE"
+      }
+    },
+    {
+      "title": "Vance says low oil prices are top US goal in Iran conflict",
+      "description": "WASHINGTON (UNITED STATES) - Vice President JD Vance said Thursday that the top US priority in the Iran war was keeping oil and gasoline prices low for Americans, with preventing Tehran from acquiring a nuclear weapon ranking second.",
+      "url": "https://www.bangkokpost.com/world/3301557/vance-says-low-oil-prices-are-top-us-goal-in-iran-conflict",
+      "image": "https://static.bangkokpost.com/media/content/20260814/c1_6188002_700.jpg",
+      "publishedAt": "2026-08-13T23:45:00Z",
+      "source": {
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "China's Electric Trucks: A Surge Fueled by War and Oil Prices",
+      "description": "China's exports of electric trucks to Asian countries have surged, driven by higher fuel costs due to the Iran war, prompting rapid regional electrification. This trend has opened markets in South and Southeast Asia, as Chinese e-trucks offer cost-efficient alternatives amidst rising diesel prices.",
+      "url": "https://www.devdiscourse.com/article/business/3963616-chinas-electric-trucks-a-surge-fueled-by-war-and-oil-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_04_16_57_4386839.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-13T23:00:35Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "As e-KYC deadline nears, consumers line up at cooking gas agencies",
-      "description": "As the e-KYC deadline approaches, Chennai consumers rush to LPG agencies, fearing higher gas prices without completion.",
-      "url": "https://www.thehindu.com/news/cities/chennai/as-e-kyc-deadline-nears-consumers-line-up-at-cooking-gas-agencies/article71341946.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-08-13T18:03:32Z",
+      "title": "What\u2019s likely to move the market",
+      "description": "The S&P 500 closed at a record on Thursday, aided by cooling oil prices and tame inflation reports. Tune in to CNBC Friday morning for Disney CEO Josh D'Amaro.",
+      "url": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108260244-1770052587895-gettyimages-2259048430-US_STOCKS.jpeg?v=1776173571&w=1920&h=1080",
+      "publishedAt": "2026-08-13T22:56:04Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Traders Pare Bets on Fed Rate Hikes on Inflation Outlook (1)",
-      "description": "Bond traders stopped fully pricing in a Federal Reserve interest-rate increase this year amid a retreat in oil prices that reinforced positive sentiment on the inflation outlook.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/traders-pare-bets-on-fed-rate-hikes-on-inflation-outlook-1",
-      "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-      "publishedAt": "2026-08-13T17:43:34Z",
+      "title": "Vance says low oil prices are top US goal in Iran conflict",
+      "description": "Vice President JD Vance said Thursday that the top US priority in the Iran war was keeping oil and gasoline prices low for Americans, with preventing Tehran from acquiring a nuclear weapon ranking second. The remarks constrasted with President Donald Trump's repeated framing of the fight: that entering the war had the sole objective of preventing Iran from acquiring a nuclear weapon, even if that meant short-term economic sacrifices for Americans.",
+      "url": "https://www.al-monitor.com/originals/2026/08/vance-says-low-oil-prices-are-top-us-goal-iran-conflict",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/000_c4283kq.jpg?h=69f2b9d0&itok=IQTA4DUy",
+      "publishedAt": "2026-08-13T22:50:02Z",
       "source": {
-        "name": "Bloomberg Tax News"
+        "name": "Al-Monitor"
       }
     },
     {
-      "title": "I'm Bullish On Energy Without Relying On Oil Prices",
-      "description": "Energy sector returns have been driven by supply disruptions, but future demand from AI-driven data centers supports sustained infrastructure volume growth. Read what investors need to know.",
-      "url": "https://seekingalpha.com/article/4936217-im-bullish-on-energy-without-relying-on-oil-prices",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265953707/image_2265953707.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-08-13T17:22:49Z",
+      "title": "Gold rally faces test from inflation, oil prices",
+      "description": "Gold prices face renewed pressure as rising oil prices and persistent tensions in the Middle East revive inflation concerns, increasing the likelihood that the US Federal Reserve may delay monetary easing despite continued demand for the precious metal.",
+      "url": "https://www.bangkokpost.com/business/general/3301442/gold-rally-faces-test-from-inflation-oil-prices",
+      "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/14/6187762_700.jpg",
+      "publishedAt": "2026-08-13T22:28:00Z",
       "source": {
-        "name": "Seeking Alpha"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Sean Duffy gets backlash for comparing gas prices under Trump to Biden",
-      "description": "Social media users criticized Transportation Secretary Sean Duffy for comparing gas prices under Trump to those under former President Joe Biden.",
-      "url": "https://www.washingtonexaminer.com/policy/finance-and-economy/4686293/sean-duffy-backlash-high-gas-prices-trump-biden/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/05/052126_DEAN_DUFFY-17-e1786640653118.jpg?resize=1200,683",
-      "publishedAt": "2026-08-13T17:19:33Z",
+      "title": "Sick of high gas prices? Ethanol blend fuel is lower-priced, but there\u2019s a catch",
+      "description": "There is cheaper fuel sold at most gas stations. But most cars can't use it. Why not?",
+      "url": "https://www.ocregister.com/2026/08/13/sick-of-high-gas-prices-ethanol-blend-fuel-is-lower-priced-but-theres-a-catch/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/08/LDN-L-E85FUEL-0810-DK-01.jpg?w=2000&h=1333",
+      "publishedAt": "2026-08-13T22:27:58Z",
       "source": {
-        "name": "Washington Examiner"
-      }
-    },
-    {
-      "title": "Americans are paying the highest gas prices ever recorded for August",
-      "description": "AAA says the average price of a gallon of gas is at $4.071 as of Aug. 13, 2026.",
-      "url": "https://www.al.com/news/2026/08/gas-prices-jump-again-national-average-is-highest-price-ever-for-month-of-august.html",
-      "image": "https://www.al.com/resizer/v2/NMD3A5HRGRAELLKZBNSJ5PN3XA.JPG?auth=cde445e3ff770392ea8a6336dfd608f46bb5176269911e1c2c1e85ce6f9c1d3c&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-13T16:45:29Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "Americans are paying the highest gas prices ever recorded for August",
-      "description": "AAA says the average price of a gallon of gas is at $4.071 as of Aug. 13, 2026.",
-      "url": "https://www.mlive.com/news/2026/08/gas-prices-jump-again-national-average-is-highest-price-ever-for-month-of-august.html",
-      "image": "https://www.mlive.com/resizer/v2/NMD3A5HRGRAELLKZBNSJ5PN3XA.JPG?auth=cde445e3ff770392ea8a6336dfd608f46bb5176269911e1c2c1e85ce6f9c1d3c&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-13T16:45:29Z",
-      "source": {
-        "name": "M Live Michigan "
-      }
-    },
-    {
-      "title": "Americans are paying the highest gas prices ever recorded for August",
-      "description": "AAA says the average price of a gallon of gas is at $4.071 as of Aug. 13, 2026.",
-      "url": "https://www.silive.com/nation/2026/08/gas-prices-jump-again-national-average-is-highest-price-ever-for-month-of-august.html",
-      "image": "https://www.silive.com/resizer/v2/NMD3A5HRGRAELLKZBNSJ5PN3XA.JPG?auth=cde445e3ff770392ea8a6336dfd608f46bb5176269911e1c2c1e85ce6f9c1d3c&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-13T16:45:29Z",
-      "source": {
-        "name": "Staten Island Advance"
+        "name": "Santa Ana Orange County Register"
       }
     }
   ]
