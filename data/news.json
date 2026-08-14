@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-14T12:41:01+00:00",
+  "updated_at": "2026-08-14T18:40:13+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Indian equity markets experienced a slight decline on Thursday, influenced by elevated crude oil prices. Investors remained cautious due to positioning ahead of the weekly Sensex expiry, despite a supportive global outlook. The Nifty50 and Sensex both closed marginally lower, reflecting a market lacking strong directional triggers. Elevated crude prices and geopolitical uncertainty kept domestic investors hesitant, suggesting a range-bound market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/133218802.cms",
-      "image": "https://img.etimg.com/thumb/msid-133219060,width-1200,height-630,imgsize-62754,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-14T00:30:00Z",
+      "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
+      "description": "Shares are mostly lower in Asia and U.S. futures are little changed after U.S. inflation data showed an improvement in July. U.S. stocks rose to a record. Oil prices were holding steady early Friday after slipping 2% on Thursday. On Wall Street, the S&P 500 climbed 0.7% and topped its prior all-time high set last week. The Dow Jones Industrial Average added 0.1%, and the Nasdaq composite gained 0.8%. Treasury yields eased after a report showed inflation at the U.S. wholesale level was lower in July, at 4.7%. That was better than economists had expected and than the 5.5% rate for June.",
+      "url": "https://www.ajc.com/news/2026/08/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
+      "image": "https://images.ajc.com/resizer/v2/5GAHUEXLTNGXHEKRKBULJOUZVY.jpg?auth=6ec0a4c3eded8366a5434bfca5500bf163cd3a198157d302d74f91589ff5b7f3&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-14T06:02:34Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Pakistan government hikes petrol, high",
-      "description": "Petrol prices have been raised by Rs 0.45 per litre to Rs 325.43 per litre, while HSD prices have gone up by Rs 1.16 per litre to Rs 383.95 per litre.",
-      "url": "https://www.tribuneindia.com/news/world/pakistan-government-hikes-petrol-high-speed-diesel-prices/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE0ZjhlOWEwLTk3NzUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5wbmc=",
-      "publishedAt": "2026-08-14T00:18:09Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Pakistan government hikes petrol, high-speed diesel prices",
-      "description": "Petrol prices have been raised by Rs 0.45 per litre to Rs 325.43 per litre, while HSD prices have gone up by Rs 1.16 per litre to Rs 383.95 per litre.",
-      "url": "https://www.aninews.in/news/world/asia/pakistan-government-hikes-petrol-high-speed-diesel-prices20260814054223/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260813232304-thumbnail-320x180.png",
-      "publishedAt": "2026-08-14T00:12:23Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "An oil company that left Calif. is betting billions to sell fuel there",
-      "description": "Phillips 66 shut down its California oil refinery in 2025. It now plans to build a pipeline to supply fuel to the market, which could mean lower gas prices.",
-      "url": "https://www.sfgate.com/bayarea/article/oil-company-california-pipeline-22387701.php",
-      "image": "https://s.hdnux.com/photos/01/67/04/71/31215170/3/rawImage.jpg",
-      "publishedAt": "2026-08-14T00:02:20Z",
+      "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
+      "description": "Shares are mostly lower in Asia and U.S. futures are little changed after U.S. inflation data showed an improvement in July. U.S. stocks rose to a record. Oil prices were holding steady early Friday...",
+      "url": "https://www.sfgate.com/news/world/article/asian-shares-mostly-fall-and-us-futures-are-22387996.php",
+      "image": "https://s.hdnux.com/photos/01/67/05/02/31215754/3/rawImage.jpg",
+      "publishedAt": "2026-08-14T05:58:47Z",
       "source": {
         "name": "SFGATE"
       }
     },
     {
-      "title": "Vance says low oil prices are top US goal in Iran conflict",
-      "description": "WASHINGTON (UNITED STATES) - Vice President JD Vance said Thursday that the top US priority in the Iran war was keeping oil and gasoline prices low for Americans, with preventing Tehran from acquiring a nuclear weapon ranking second.",
-      "url": "https://www.bangkokpost.com/world/3301557/vance-says-low-oil-prices-are-top-us-goal-in-iran-conflict",
-      "image": "https://static.bangkokpost.com/media/content/20260814/c1_6188002_700.jpg",
-      "publishedAt": "2026-08-13T23:45:00Z",
+      "title": "Diesel, gasoline prices to go up next week",
+      "description": "MANILA, Philippines \u2014 Pump prices are expected to increase next week due to developments in the Middle East conflict, a local industry source said on Friday.",
+      "url": "https://www.manilatimes.net/2026/08/14/business/diesel-gasoline-prices-to-go-up-next-week/2405530",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/14/1176857.jpg",
+      "publishedAt": "2026-08-14T05:51:00Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "China's Electric Trucks: A Surge Fueled by War and Oil Prices",
-      "description": "China's exports of electric trucks to Asian countries have surged, driven by higher fuel costs due to the Iran war, prompting rapid regional electrification. This trend has opened markets in South and Southeast Asia, as Chinese e-trucks offer cost-efficient alternatives amidst rising diesel prices.",
-      "url": "https://www.devdiscourse.com/article/business/3963616-chinas-electric-trucks-a-surge-fueled-by-war-and-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_04_16_57_4386839.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-13T23:00:35Z",
+      "title": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
+      "description": "Oil prices are heading for a roughly 4% weekly gain as prolonged U.S.-Iran tensions and restricted Hormuz traffic outweigh bearish demand forecasts and a sharp rise in U.S. crude inventories.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-4-Weekly-Gain-as-US-Iran-Deadlock-Drags-On.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_stfni28q0f.jpg",
+      "publishedAt": "2026-08-14T05:40:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "What\u2019s likely to move the market",
-      "description": "The S&P 500 closed at a record on Thursday, aided by cooling oil prices and tame inflation reports. Tune in to CNBC Friday morning for Disney CEO Josh D'Amaro.",
-      "url": "https://www.cnbc.com/2026/08/13/fridays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108260244-1770052587895-gettyimages-2259048430-US_STOCKS.jpeg?v=1776173571&w=1920&h=1080",
-      "publishedAt": "2026-08-13T22:56:04Z",
+      "title": "US says lower oil prices, not Iran's nuclear program, are now top priority in war",
+      "description": "The top US priority now in the Iran war is no longer its nuclear program but to bring gasoline prices down for American consumers, the vice president said",
+      "url": "https://www.europesays.com/3192709/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/j_5.jpg",
+      "publishedAt": "2026-08-14T05:30:30Z",
       "source": {
-        "name": "CNBC"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Vance says low oil prices are top US goal in Iran conflict",
-      "description": "Vice President JD Vance said Thursday that the top US priority in the Iran war was keeping oil and gasoline prices low for Americans, with preventing Tehran from acquiring a nuclear weapon ranking second. The remarks constrasted with President Donald Trump's repeated framing of the fight: that entering the war had the sole objective of preventing Iran from acquiring a nuclear weapon, even if that meant short-term economic sacrifices for Americans.",
-      "url": "https://www.al-monitor.com/originals/2026/08/vance-says-low-oil-prices-are-top-us-goal-iran-conflict",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-08/000_c4283kq.jpg?h=69f2b9d0&itok=IQTA4DUy",
-      "publishedAt": "2026-08-13T22:50:02Z",
+      "title": "Rupee gains 2 paise to 95.43 against US dollar in early trade",
+      "description": "The rupee gained two paise against the US dollar in the early market hours, driven by a softening dollar internationally. Nonetheless, the outflow of foreign investments from Indian equities is weighing on the rupee's performance. Compounding this issue, rising crude oil prices linked to geopolitical conflicts further affected market sentiments, resulting in declines for the Sensex and Nifty in morning trading.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-gains-2-paise-to-95-43-against-us-dollar-in-early-trade/articleshow/133229791.cms",
+      "image": "https://img.etimg.com/thumb/msid-133229798,width-1200,height-630,imgsize-9926,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-14T05:21:00Z",
       "source": {
-        "name": "Al-Monitor"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Gold rally faces test from inflation, oil prices",
-      "description": "Gold prices face renewed pressure as rising oil prices and persistent tensions in the Middle East revive inflation concerns, increasing the likelihood that the US Federal Reserve may delay monetary easing despite continued demand for the precious metal.",
-      "url": "https://www.bangkokpost.com/business/general/3301442/gold-rally-faces-test-from-inflation-oil-prices",
-      "image": "https://static.bangkokpost.com/media/content/dcx/2026/08/14/6187762_700.jpg",
-      "publishedAt": "2026-08-13T22:28:00Z",
+      "title": "Indian bond bias stays positive, debt auction demand in focus",
+      "description": "Indian government bonds remained firm in early trade on Friday. The benchmark 10-year bond yield held above the key 6.75% level. Investors awaited a weekly debt auction for fresh market cues. Lower oil prices and U.S. Treasury yields offered some support. India's overnight index swap rates dipped without strong trends.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bond-bias-stays-positive-debt-auction-demand-in-focus/articleshow/133229673.cms",
+      "image": "https://img.etimg.com/thumb/msid-133229697,width-1200,height-630,imgsize-22206,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-14T05:16:00Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Sick of high gas prices? Ethanol blend fuel is lower-priced, but there\u2019s a catch",
-      "description": "There is cheaper fuel sold at most gas stations. But most cars can't use it. Why not?",
-      "url": "https://www.ocregister.com/2026/08/13/sick-of-high-gas-prices-ethanol-blend-fuel-is-lower-priced-but-theres-a-catch/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/08/LDN-L-E85FUEL-0810-DK-01.jpg?w=2000&h=1333",
-      "publishedAt": "2026-08-13T22:27:58Z",
+      "title": "Sensex Down 350 Points, Nifty Slips 0.37% As US-Iran Standoff Weighs On Investor Sentiment",
+      "description": "Indian benchmark indices Sensex and Nifty declined in early trade on Friday as the prolonged US-Iran standoff kept investors cautious. Rising crude oil prices added to concerns over inflation and currency volatility. Sensex fell nearly 299 points, while Nifty dropped over 74 points amid mixed global market cues",
+      "url": "https://www.freepressjournal.in/business/sensex-down-350-points-nifty-slips-037-as-us-iran-standoff-weighs-on-investor-sentiment",
+      "image": "https://media.assettype.com/freepressjournal/2026-04-01/zmwa3c97/Share-Market-Open-Close-3-1.jpg",
+      "publishedAt": "2026-08-14T05:02:41Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Indian government bonds hold firm as investors eye debt auction demand",
+      "description": "Indian government bonds show positive bias as investors eye upcoming debt auction amidst stable yields and easing oil prices.",
+      "url": "https://www.thehindubusinessline.com/markets/indian-government-bonds-hold-firm-as-investors-eye-debt-auction-demand/article71344106.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/nhakbh/article71344126.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U5Q2R76OC_R1510403330_5_25796d05-4186-449e-9ca6-75f530d64025.jpg",
+      "publishedAt": "2026-08-14T04:55:12Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Most Asian stocks track Wall Street record as US data ease rate fears",
+      "description": "Most Asian stocks rose Friday as another soft US inflation reading solidified expectations the Federal Reserve will hold off hiking interest rates, while a further drop in oil prices added to the upbeat mood.",
+      "url": "https://www.newindianexpress.com/business/2026/Aug/14/most-asian-stocks-track-wall-street-record-as-us-data-ease-rate-fears",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-22%2F2y5d0afi%2F202605223797130.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-14T04:35:43Z",
+      "source": {
+        "name": "The New Indian Express"
       }
     }
   ]
