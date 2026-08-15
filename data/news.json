@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-15T00:39:04+00:00",
+  "updated_at": "2026-08-15T06:19:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Retail Reverberations: The July Sales Dip",
-      "description": "U.S. retail sales fell by 0.6% in July despite past gains driven by large tax refunds. The decline, due in part to the rescheduling of Amazon's Prime Day and reduced gasoline prices, points to consumers' growing sensitivity to costs. However, rising stock market-driven household wealth offers spending support.",
-      "url": "https://www.devdiscourse.com/article/business/3963936-retail-reverberations-the-july-sales-dip",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_10_05_02_1371304.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-14T12:35:58Z",
+      "title": "Gas prices set to change when excise tax pause expires - what to know",
+      "description": "Some temporarily relief at the gas pump for Canadian consumers is set to end next month when the fuel excise tax pause is scheduled to expire.",
+      "url": "https://globalnews.ca/news/12021613/gas-prices-excise-tax-pause/",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/08/gas-excise-tax.jpg-e1786727650516.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-08-14T18:00:54Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Global News"
       }
     },
     {
-      "title": "VinFast Highlights the EV Equation That's Often Overlooked",
-      "description": "Gurugram (Haryana) [India], August 14: Electric vehicles are increasingly beating petrol and diesel cars on lifetime ownership costs, yet many buyers continue to judge them by sticker price. Research suggests the industry's next challenge is not improving EV economics but making them easier for consumers to understand.",
-      "url": "https://www.aninews.in/news/business/vinfast-highlights-the-ev-equation-thats-often-overlooked20260814173854/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260814120844-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-14T12:08:54Z",
+      "title": "There Is No End To The U.S.-Iran War In Sight. Just Two Ships Made It Through The Hormuz Strait On Friday.",
+      "description": "Oil prices are increasing after the UAE accused Iran of targeting two other ships.",
+      "url": "https://www.ibtimes.com/there-no-end-us-iran-war-sight-just-two-ships-made-it-through-hormuz-strait-friday-3806438",
+      "image": "https://d.ibtimes.com/en/full/4648606/strait-hormuz.jpg",
+      "publishedAt": "2026-08-14T17:53:36Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Oil Traders Reprice Hormuz Risk as Demand Outlook Deteriorates",
-      "description": "Oil prices rebounded this week as stalled U.S.-Iran negotiations restored the Hormuz risk premium, although swelling U.S. inventories and weaker demand forecasts limited the rally.",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Traders-Reprice-Hormuz-Risk-as-Demand-Outlook-Deteriorates.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_yc8piaxlw7.jpg",
-      "publishedAt": "2026-08-14T12:00:00Z",
+      "title": "Inflation seen rising in July as gas prices rebounded",
+      "description": "Economists expect Canada\u2019s annual inflation rate climbed to 2.9% when Statscan reports the figures next week",
+      "url": "https://www.theglobeandmail.com/business/economy/article-canada-inflation-expectations-july-2026-preview/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/JU7I7F2NHBG6FPTHI5H6FNT3BE.jpg?auth=248f105e69e723e1a8fe1e07028b7b740a0a2bca1fa4b553a2f68cc9ad49e759&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-08-14T17:38:16Z",
+      "source": {
+        "name": "The Globe and Mail"
+      }
+    },
+    {
+      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-14_pwu3hbrplj.jpg",
+      "publishedAt": "2026-08-14T17:07:38Z",
       "source": {
         "name": "OilPrice"
       }
     },
     {
-      "title": "India bonds end week flat, but demand for long notes firms",
-      "description": "Indian government bonds traded within a narrow range this past week. Fading inflation and rate-hike concerns left traders seeking market direction. Buyers entered long bonds as the yield curve steepened, attracting value. Rising oil prices exerted some pressure, but liquidity and softer inflation eased worries. Expectations now suggest neither the RBI nor the Federal Reserve will raise rates soon.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-week-flat-but-demand-for-long-notes-firms/articleshow/133240625.cms",
-      "image": "https://img.etimg.com/thumb/msid-133240659,width-1200,height-630,imgsize-121028,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-14T11:57:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "India LPG Consumption Falls 17% To 8.8 Million Tonnes In April-July Amid Hormuz Disruption",
-      "description": "India\u2019s LPG consumption declined 17% to 8.8 million tonnes during April-July amid supply disruptions linked to the Strait of Hormuz blockade and restrictions on commercial LPG sales. Meanwhile, petrol and diesel demand increased. US LPG supplies surged as Gulf shipments weakened, prompting India to diversify its import sources",
-      "url": "https://www.freepressjournal.in/business/india-lpg-consumption-falls-17-to-88-million-tonnes-in-april-july-amid-hormuz-disruption",
-      "image": "https://media.assettype.com/freepressjournal/2026-06-07/qtojtfnq/gas-cyliner-cost.jpg",
-      "publishedAt": "2026-08-14T11:54:49Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Global Stocks Soar Amidst Oil Price Surge and Geopolitical Tensions",
-      "description": "Global stocks are trading at record highs in the face of benign inflation data tamping down US rate hike expectations. Meanwhile, oil prices surge due to stalled Iran peace talks. Investors remain calm despite geopolitical tensions, with a major focus on AI and strong earnings reports.",
-      "url": "https://www.devdiscourse.com/article/business/3963909-global-stocks-soar-amidst-oil-price-surge-and-geopolitical-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_12_43_28_8461063.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-14T11:43:55Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Forex reserves up by $14.1 billion to $707 billion",
-      "description": "India's foreign exchange reserves saw a jump of over fourteen billion dollars. Foreign currency assets and gold reserves contributed substantially to this overall increase. The Indian Rupee also appreciated slightly against the US dollar on Friday. Forex traders noted pressure on the rupee due to fund outflows and oil prices. Overall reserves have risen considerably since March and over the past year.",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/forex-reserves-up-by-14-136-billion-to-707-002-billion/articleshow/133240225.cms",
-      "image": "https://img.etimg.com/thumb/msid-133240298,width-1200,height-630,imgsize-123458,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-14T11:43:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "US markets strive for a positive week ahead of retail sales data and signs of cooling inflation",
-      "description": "U.S. futures are mixed as Wall Street looks to advance for the week ahead of new retail sales data. The future for the S&P 500 edged 0.1% higher Friday while Dow Jones Industrial Average slipped 0.1%. Nasdaq futures rose 0.1%. The U.S. stock market hit all-time highs Thursday on new data that\u00a0showed inflation cooled in July, as well as a decline in oil prices. However, oil is rebounding to end the week after two United Arab Emirates tankers were attacked while trying to cross the Strait of Hormuz.",
-      "url": "https://www.ajc.com/news/2026/08/world-shares-mostly-fall-and-us-futures-are-mixed-after-us-inflation-data-improves/",
-      "image": "https://images.ajc.com/resizer/v2/JCTHM3GBNRCL5IFX6R4TW6MTM4.jpg?auth=b35092c72207729722a4430fe1305fc8b9cd1f1b754dadedc93526b8f5e600ee&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-14T11:42:13Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Stock markets end lower amid geopolitical uncertainty; Nifty down for fourth day",
-      "description": "Indian stock markets decline as geopolitical tensions and rising oil prices weigh on investor sentiment, with Nifty down for fourth consecutive day.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-end-lower-amid-geopolitical-uncertainty-nifty-down-for-fourth-day/article71345345.ece",
-      "image": "https://th-i.thgim.com/public/incoming/vjfqba/article71345367.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
-      "publishedAt": "2026-08-14T11:41:50Z",
+      "title": "Lower oil prices, not Iran\u2019s nuclear programme, now top priority: U.S.",
+      "description": "U.S. priorities shift from Iran's nuclear threat to lowering oil prices for Americans, amid upcoming economic sanctions on Tehran.",
+      "url": "https://www.thehindu.com/news/international/lower-oil-prices-not-irans-nuclear-programme-now-top-priority-us/article71347037.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vxc3kl/article71347042.ece/alternates/LANDSCAPE_1200/AFP_C4ME3ZR.jpg",
+      "publishedAt": "2026-08-14T16:56:46Z",
       "source": {
         "name": "The Hindu"
       }
     },
     {
-      "title": "Electric cars can drive 30km/h faster than petrol cars in this European country",
-      "description": "A motorway rule in Austria means electric car drivers can legally travel 30km/h faster than petrol and diesel cars when pollution restrictions are activated",
-      "url": "https://euroweeklynews.com/2026/08/14/electric-cars-can-legally-drive-30km-h-faster-than-petrol-cars-in-one-european-country-will-spain-be-next/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/08/shutterstock_2474906141-2.jpg",
-      "publishedAt": "2026-08-14T11:35:04Z",
+      "title": "CNN Data Guru Stunned by Trump\u2019s \u2018Atrocious\u2019 Polling",
+      "description": "\u201cNo president has been hated more when it comes to gas prices,\u201d Harry Enten said.",
+      "url": "https://www.thedailybeast.com/cnn-data-guru-stunned-by-trumps-atrocious-polling/",
+      "image": "https://www.thedailybeast.com/resizer/v2/QAQQTQTUAFGWPHLRPONZXQLLYU.png?smart=true&auth=82f4b413072661fa79a35c569da3ea1e128cf5d15088907f2b3e9d78a75b381a&width=1200&height=630",
+      "publishedAt": "2026-08-14T16:27:43Z",
       "source": {
-        "name": "Euro Weekly News"
+        "name": "The Daily Beast"
+      }
+    },
+    {
+      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+      "description": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-08-14T16:21:21Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Market Turmoil: Geopolitical Strains and Economic Shifts Shake Investors",
+      "description": "Global markets face turbulence as geopolitical tensions between the U.S. and Iran escalate, impacting oil prices and influencing Federal Reserve rate hike expectations. Stock markets in the U.S. and Europe slide, consumer sentiment declines, and reactions to retail sales data contribute to economic uncertainty and mixed investor sentiment.",
+      "url": "https://www.devdiscourse.com/article/business/3964043-market-turmoil-geopolitical-strains-and-economic-shifts-shake-investors",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_06_2025_11_09_18_2580608.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-14T15:52:02Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Indices snap two-week winning streak",
+      "description": "Indian equity benchmarks ended slightly lower on Friday, snapping a two-week winning streak due to surging crude oil prices and Middle East geopolitical tensions, even as strong institutional buying and consumer durables helped limit losses.",
+      "url": "https://www.financialexpress.com/market/indices-snap-two-week-winning-streak-2-4318143/",
+      "image": "https://images.financialexpressdigital.com/2026/08/ShareMarket3Reuters_20260807002329_20260814013406_20260814152902.jpg",
+      "publishedAt": "2026-08-14T15:33:59Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Labour refuses to scrap ban on petrol and diesel cars despite review",
+      "description": "A Department for Transport review will only consider changes to the way the ban is introduced",
+      "url": "https://www.express.co.uk/news/politics/2239303/labour-refuses-scrap-ban-petrol",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/7094810.jpg",
+      "publishedAt": "2026-08-14T14:59:00Z",
+      "source": {
+        "name": "Daily Express"
       }
     }
   ]
