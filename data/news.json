@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-15T12:17:19+00:00",
+  "updated_at": "2026-08-15T18:13:49+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Jake Tapper rolls clip of 'pooh-poohing' Trump tailor-made for Dem attack ad",
-      "description": "CNN anchor Jake Tapper highlighted a moment from President Donald Trump's speech on Friday that could serve as an attack ad for Democrats ahead of the midterms.Trump said he would \"never apologize\" for higher gas prices even though Americans are struggling to pay for rising costs at the pump during ...",
-      "url": "https://www.rawstory.com/jake-tapper-rolls-clip-of-trump-ripe-for-dem-ad/",
-      "image": "https://www.rawstory.com/media-library/cnn-s-jake-tapper-pointed-out-how-president-donald-trump-s-message-for-americans-on-friday-could-serve-democrats-as-the-midterm.png?id=67626338&width=1200&height=600&coordinates=0%2C65%2C0%2C66",
-      "publishedAt": "2026-08-14T23:54:13Z",
+      "title": "Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15",
+      "description": "India Business News: The government has scrapped the export levy on petrol for the next fortnight while continuing to charge duties on diesel and aviation turbine fuel (AT.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-export-levy-cut-to-nil-diesel-and-atf-duties-retained-what-changes-from-august-15/articleshow/133256557.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133256915,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-15T05:51:00Z",
       "source": {
-        "name": "Raw Story"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Resident bags \u00a3500 council payout for 'distress' over petrol station planning report blunder",
-      "description": "A Middlesbrough Council spokesman said: 'We accept the Ombudsman\u2019s recommendations and have offered a formal apology to the complainant'",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/middlesbrough-council-ombudsman-500-resident-34460632",
-      "image": "https://i2-prod.gazettelive.co.uk/article32728348.ece/ALTERNATES/s1200d/0_JS385364865.jpg",
-      "publishedAt": "2026-08-14T23:01:00Z",
+      "title": "Government reduces export duty on petrol to nil; diesel and ATF duty also reduced",
+      "description": "Government eliminates petrol export duty and reduces diesel and ATF duties to ensure fuel availability for domestic consumption.",
+      "url": "https://www.thehindu.com/business/Industry/government-reduces-export-duty-on-petrol-to-nil-diesel-and-atf-duty-also-reduced/article71348603.ece",
+      "image": "https://th-i.thgim.com/public/incoming/eyaiud/article71348643.ece/alternates/LANDSCAPE_1200/2026-08-13T054807Z_481266005_RC2ZQMAJPHJU_RTRMADP_3_INDIA-FUEL-ETHANOL-AUTOS.JPG",
+      "publishedAt": "2026-08-15T05:50:02Z",
       "source": {
-        "name": "Teessidelive"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Trump says he'll hit Iran hard economically, will soon declare Hormuz 'US territory'",
-      "description": "US president urges Americans to accept slightly higher gas prices for the 'great service' of preventing Iran from obtaining nuclear bomb, dismisses concerns about conditions aboard aircraft carrier",
-      "url": "https://www.timesofisrael.com/trump-says-hell-hit-iran-hard-economically-will-soon-declare-hormuz-us-territory/",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26226689055746-1.jpg",
-      "publishedAt": "2026-08-14T22:26:15Z",
+      "title": "India cuts windfall tax on diesel, ATF exports; petrol duty set at zero",
+      "description": "The revised duties are applicable to petroleum products exported from India, rather than fuel sold in the domestic market. The notification does not change the excise duty on petrol or diesel for domestic consumers, so the latest revision by itself should not result in a change in pump prices.",
+      "url": "https://www.cnbctv18.com/economy/india-cuts-windfall-tax-on-diesel-atf-exports-petrol-duty-set-at-zero-19970162.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/windfall-tax-cut-generic-ai-generated-2026-08-9930ca2b2c18913712cd8050c3d5a8b6.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-15T05:39:38Z",
       "source": {
-        "name": "The Times of Israel"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Stocks slip in cautious trading after weak US retail sales data",
-      "description": "NEW YORK: Stock markets retreated in sparse summer trading Friday (Aug 14), with the uncertain outlook for the Middle East war and the US economy prompting investor caution ahead of the weekend.Oil prices turned higher and investors braced for further volatility as US and Iranian officials",
-      "url": "https://www.channelnewsasia.com/world/stocks-market-us-wall-street-retail-hormuz-6320691",
-      "image": "https://dam.mediacorp.sg/image/upload/s--UmA2EvZE--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/15/ap26217524267114_1.jpg?itok=_Sl0A4-B",
-      "publishedAt": "2026-08-14T21:42:07Z",
+      "title": "Iran defiant as Trump tells US to accept dearer petrol",
+      "description": "The Strait of Hormuz stays closed until the US admits defeat, Iran says, while Donald Trump urges Americans...",
+      "url": "https://www.canberratimes.com.au/story/9330863/iran-defiant-as-trump-tells-us-to-accept-dearer-petrol/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/bb7be3fd-3e79-4a16-94aa-7382d4e46a08.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-08-15T05:36:03Z",
       "source": {
-        "name": "CNA"
+        "name": "The Canberra Times"
       }
     },
     {
-      "title": "Trump suggests in speech that 'pretty soon I'll be declaring' Hormuz strait a U.S. territory",
-      "description": "U.S. President Donald Trump on Friday urged Americans to accept slightly higher gasoline prices as \u200cthe cost of preventing Iran from obtaining a nuclear weapon and said he would soon declare the Strait of Hormuz a U.S territory.",
-      "url": "https://www.cbc.ca/news/world/trump-iran-strait-hormuz-us-territory-9.7307977",
-      "image": "https://i.cbc.ca/ais/167602d6-e416-4f01-9c21-ead4c5e06383,1786740532566/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1402%2C7255%2C4080%29%3BResize%3D620",
-      "publishedAt": "2026-08-14T21:30:00Z",
+      "title": "Govt cuts windfall gains tax on petrol, diesel, ATF exports",
+      "description": "The rate of special additional excise duty (SAED) on the export of diesel is now Rs 24 per litre, down from Rs 25.5 a litre.",
+      "url": "https://www.newindianexpress.com/business/2026/Aug/15/govt-cuts-windfall-gains-tax-on-petrol-diesel-atf-exports-3",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-01%2Fto3f7xb2%2F202607013846970.jpg?rect=0%2C22%2C450%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-15T05:30:44Z",
       "source": {
-        "name": "CBC.ca"
-      }
-    },
-    {
-      "title": "Oil prices rally, US data dents chances of Fed rate hike",
-      "description": "GLOBAL-MARKETS:Oil prices rally, US data dents chances of Fed rate hike",
-      "url": "https://www.livemint.com/market/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-11786742025245.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
-      "publishedAt": "2026-08-14T21:13:44Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Pretty soon, Hormuz will be US territory: Trump amid oil price surge",
-      "description": "US President Donald Trump said he would soon declare the Strait of Hormuz a US territory, escalating tensions with Iran. He also vowed harsh economic measures against Tehran and urged Americans to accept higher gasoline prices amid rising oil prices and global energy concerns.",
-      "url": "https://www.indiatoday.in/world/story/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-us-territory-2971633-2026-08-15",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/us-president-donald-trump-140835335-16x9_0.jpg?VersionId=gFAxHcTOrsvUXflrbud1sYHT6hKLSGaB",
-      "publishedAt": "2026-08-14T21:07:06Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "US stocks slip as weak retail sales deepen slowdown worries amid oil spike",
-      "description": "US stocks fell after weak retail sales and higher oil prices unsettled investors. The move highlighted markets' tug of war between easing inflation hopes and slowdown fears.",
-      "url": "https://www.indiatoday.in/world/story/us-stocks-slip-weak-retail-sales-oil-prices-slowdown-worries-ptag-2971630-2026-08-15",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pti-international-1-original_154-sixteen_nine.png?VersionId=JQ6lpmn6Yy7zw0rThW8BPMq8r0r.D6ob",
-      "publishedAt": "2026-08-14T20:36:37Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
-      "description": "President Donald Trump on Friday urged Americans \u200bto accept slightly higher gasoline prices as the cost \u200cof preventing Iran from obtaining a nuclear weapon and said he would soon declare the Strait of Hormuz a U.S territory.",
-      "url": "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
-      "image": "https://www.reuters.com/resizer/v2/GDG6U523ARMAPEIOFDORZVZVSM.jpg?auth=1c0483c1f6b0fad814237d8250b4822bee872d74c1ac855a2388b66fbac61a48&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-14T20:35:54Z",
-      "source": {
-        "name": "Reuters"
+        "name": "The New Indian Express"
       }
     },
     {
       "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "description": "Iran called on the U.S. to accept defeat while President Donald Trump blasted Iran as \"evil\" \u200band urged Americans to brace for continued high fuel prices.",
-      "url": "https://www.reuters.com/3fec1b0a85a0/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
-      "image": "https://www.reuters.com/resizer/v2/GDG6U523ARMAPEIOFDORZVZVSM.jpg?auth=1c0483c1f6b0fad814237d8250b4822bee872d74c1ac855a2388b66fbac61a48&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-14T20:35:54Z",
+      "description": "Iran urges the US to accept defeat as Trump warns of high fuel prices amid ongoing conflict, with peace talks stalled and Strait of Hormuz traffic severely impacted",
+      "url": "https://www.rappler.com/world/middle-east/iran-defiant-hormuz-strait-trump-high-gas-prices/",
+      "image": "https://www.rappler.com/tachyon/2026/08/iran-crisis-reuters-august-2026-scaled.jpg",
+      "publishedAt": "2026-08-15T05:30:00Z",
       "source": {
-        "name": "Reuters"
+        "name": "Rappler"
+      }
+    },
+    {
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "description": "Iran has rejected US claims of control over the Strait of Hormuz and demanded Washington accept its conditions before shipping resumes. The conflict continues to disrupt oil traffic, push up US fuel prices and raise concerns about wider regional escalation.",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
+      "image": "https://img.etimg.com/thumb/msid-133256546,width-1200,height-630,imgsize-90676,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-15T05:20:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
+      "description": "On Friday, gold prices moved upward, signaling a positive outlook for the week. The precious metal received a boost from a weaker dollar and stable inflation figures, reducing the likelihood of an upcoming interest rate hike by the Federal Reserve. Meanwhile, oil prices also showed weekly gains, influenced by escalating tensions in the Strait of Hormuz. Precious metals such as silver and platinum followed suit, while palladium experienced a decline.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms",
+      "image": "https://img.etimg.com/thumb/msid-133256553,width-1200,height-630,imgsize-8256,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-15T05:19:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "India Cuts Petrol, Diesel And ATF Export Duties In Fresh Fuel Levy Reset",
+      "description": "India cuts export duties on petrol, diesel and ATF from August 15, partly reversing the fuel levy hike announced earlier this month., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/india-cuts-petrol-diesel-and-atf-export-duties-in-fresh-fuel-levy-reset-article-155656481",
+      "image": "https://images.timesnownews.com/thumb/msid-155657287,thumbsize-30966,width-1280,height-720,resizemode-75/155657287.jpg",
+      "publishedAt": "2026-08-15T05:16:14Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "European shares snap 4-week rally as higher oil prices temper strong earnings",
+      "description": "European stock markets closed in the red on Friday, breaking a four-week winning streak. The rise in crude oil prices and escalating geopolitical tensions overshadowed robust corporate earnings. Although the STOXX 600 index experienced a weekly decline, it remained close to record levels, buoyed by strong economic growth and profits across sectors. Investors began reallocating their portfolios, moving away from stocks related to artificial intelligence.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-snap-4-week-rally-as-higher-oil-prices-temper-strong-earnings/articleshow/133256204.cms",
+      "image": "https://img.etimg.com/thumb/msid-133256387,width-1200,height-630,imgsize-2346629,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-15T05:08:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
