@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-15T06:19:59+00:00",
+  "updated_at": "2026-08-15T12:17:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gas prices set to change when excise tax pause expires - what to know",
-      "description": "Some temporarily relief at the gas pump for Canadian consumers is set to end next month when the fuel excise tax pause is scheduled to expire.",
-      "url": "https://globalnews.ca/news/12021613/gas-prices-excise-tax-pause/",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/08/gas-excise-tax.jpg-e1786727650516.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-08-14T18:00:54Z",
+      "title": "Jake Tapper rolls clip of 'pooh-poohing' Trump tailor-made for Dem attack ad",
+      "description": "CNN anchor Jake Tapper highlighted a moment from President Donald Trump's speech on Friday that could serve as an attack ad for Democrats ahead of the midterms.Trump said he would \"never apologize\" for higher gas prices even though Americans are struggling to pay for rising costs at the pump during ...",
+      "url": "https://www.rawstory.com/jake-tapper-rolls-clip-of-trump-ripe-for-dem-ad/",
+      "image": "https://www.rawstory.com/media-library/cnn-s-jake-tapper-pointed-out-how-president-donald-trump-s-message-for-americans-on-friday-could-serve-democrats-as-the-midterm.png?id=67626338&width=1200&height=600&coordinates=0%2C65%2C0%2C66",
+      "publishedAt": "2026-08-14T23:54:13Z",
       "source": {
-        "name": "Global News"
+        "name": "Raw Story"
       }
     },
     {
-      "title": "There Is No End To The U.S.-Iran War In Sight. Just Two Ships Made It Through The Hormuz Strait On Friday.",
-      "description": "Oil prices are increasing after the UAE accused Iran of targeting two other ships.",
-      "url": "https://www.ibtimes.com/there-no-end-us-iran-war-sight-just-two-ships-made-it-through-hormuz-strait-friday-3806438",
-      "image": "https://d.ibtimes.com/en/full/4648606/strait-hormuz.jpg",
-      "publishedAt": "2026-08-14T17:53:36Z",
+      "title": "Resident bags \u00a3500 council payout for 'distress' over petrol station planning report blunder",
+      "description": "A Middlesbrough Council spokesman said: 'We accept the Ombudsman\u2019s recommendations and have offered a formal apology to the complainant'",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/middlesbrough-council-ombudsman-500-resident-34460632",
+      "image": "https://i2-prod.gazettelive.co.uk/article32728348.ece/ALTERNATES/s1200d/0_JS385364865.jpg",
+      "publishedAt": "2026-08-14T23:01:00Z",
       "source": {
-        "name": "International Business Times"
+        "name": "Teessidelive"
       }
     },
     {
-      "title": "Inflation seen rising in July as gas prices rebounded",
-      "description": "Economists expect Canada\u2019s annual inflation rate climbed to 2.9% when Statscan reports the figures next week",
-      "url": "https://www.theglobeandmail.com/business/economy/article-canada-inflation-expectations-july-2026-preview/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/JU7I7F2NHBG6FPTHI5H6FNT3BE.jpg?auth=248f105e69e723e1a8fe1e07028b7b740a0a2bca1fa4b553a2f68cc9ad49e759&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-08-14T17:38:16Z",
+      "title": "Trump says he'll hit Iran hard economically, will soon declare Hormuz 'US territory'",
+      "description": "US president urges Americans to accept slightly higher gas prices for the 'great service' of preventing Iran from obtaining nuclear bomb, dismisses concerns about conditions aboard aircraft carrier",
+      "url": "https://www.timesofisrael.com/trump-says-hell-hit-iran-hard-economically-will-soon-declare-hormuz-us-territory/",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26226689055746-1.jpg",
+      "publishedAt": "2026-08-14T22:26:15Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "The Times of Israel"
       }
     },
     {
-      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-14_pwu3hbrplj.jpg",
-      "publishedAt": "2026-08-14T17:07:38Z",
+      "title": "Stocks slip in cautious trading after weak US retail sales data",
+      "description": "NEW YORK: Stock markets retreated in sparse summer trading Friday (Aug 14), with the uncertain outlook for the Middle East war and the US economy prompting investor caution ahead of the weekend.Oil prices turned higher and investors braced for further volatility as US and Iranian officials",
+      "url": "https://www.channelnewsasia.com/world/stocks-market-us-wall-street-retail-hormuz-6320691",
+      "image": "https://dam.mediacorp.sg/image/upload/s--UmA2EvZE--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/15/ap26217524267114_1.jpg?itok=_Sl0A4-B",
+      "publishedAt": "2026-08-14T21:42:07Z",
       "source": {
-        "name": "OilPrice"
+        "name": "CNA"
       }
     },
     {
-      "title": "Lower oil prices, not Iran\u2019s nuclear programme, now top priority: U.S.",
-      "description": "U.S. priorities shift from Iran's nuclear threat to lowering oil prices for Americans, amid upcoming economic sanctions on Tehran.",
-      "url": "https://www.thehindu.com/news/international/lower-oil-prices-not-irans-nuclear-programme-now-top-priority-us/article71347037.ece",
-      "image": "https://th-i.thgim.com/public/incoming/vxc3kl/article71347042.ece/alternates/LANDSCAPE_1200/AFP_C4ME3ZR.jpg",
-      "publishedAt": "2026-08-14T16:56:46Z",
+      "title": "Trump suggests in speech that 'pretty soon I'll be declaring' Hormuz strait a U.S. territory",
+      "description": "U.S. President Donald Trump on Friday urged Americans to accept slightly higher gasoline prices as \u200cthe cost of preventing Iran from obtaining a nuclear weapon and said he would soon declare the Strait of Hormuz a U.S territory.",
+      "url": "https://www.cbc.ca/news/world/trump-iran-strait-hormuz-us-territory-9.7307977",
+      "image": "https://i.cbc.ca/ais/167602d6-e416-4f01-9c21-ead4c5e06383,1786740532566/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1402%2C7255%2C4080%29%3BResize%3D620",
+      "publishedAt": "2026-08-14T21:30:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CBC.ca"
       }
     },
     {
-      "title": "CNN Data Guru Stunned by Trump\u2019s \u2018Atrocious\u2019 Polling",
-      "description": "\u201cNo president has been hated more when it comes to gas prices,\u201d Harry Enten said.",
-      "url": "https://www.thedailybeast.com/cnn-data-guru-stunned-by-trumps-atrocious-polling/",
-      "image": "https://www.thedailybeast.com/resizer/v2/QAQQTQTUAFGWPHLRPONZXQLLYU.png?smart=true&auth=82f4b413072661fa79a35c569da3ea1e128cf5d15088907f2b3e9d78a75b381a&width=1200&height=630",
-      "publishedAt": "2026-08-14T16:27:43Z",
+      "title": "Oil prices rally, US data dents chances of Fed rate hike",
+      "description": "GLOBAL-MARKETS:Oil prices rally, US data dents chances of Fed rate hike",
+      "url": "https://www.livemint.com/market/oil-prices-rally-us-data-dents-chances-of-fed-rate-hike-11786742025245.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "publishedAt": "2026-08-14T21:13:44Z",
       "source": {
-        "name": "The Daily Beast"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-      "description": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-08-14T16:21:21Z",
+      "title": "Pretty soon, Hormuz will be US territory: Trump amid oil price surge",
+      "description": "US President Donald Trump said he would soon declare the Strait of Hormuz a US territory, escalating tensions with Iran. He also vowed harsh economic measures against Tehran and urged Americans to accept higher gasoline prices amid rising oil prices and global energy concerns.",
+      "url": "https://www.indiatoday.in/world/story/trump-says-he-will-soon-declare-the-strait-of-hormuz-a-us-territory-2971633-2026-08-15",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/us-president-donald-trump-140835335-16x9_0.jpg?VersionId=gFAxHcTOrsvUXflrbud1sYHT6hKLSGaB",
+      "publishedAt": "2026-08-14T21:07:06Z",
       "source": {
-        "name": "OilPrice"
+        "name": "India Today"
       }
     },
     {
-      "title": "Market Turmoil: Geopolitical Strains and Economic Shifts Shake Investors",
-      "description": "Global markets face turbulence as geopolitical tensions between the U.S. and Iran escalate, impacting oil prices and influencing Federal Reserve rate hike expectations. Stock markets in the U.S. and Europe slide, consumer sentiment declines, and reactions to retail sales data contribute to economic uncertainty and mixed investor sentiment.",
-      "url": "https://www.devdiscourse.com/article/business/3964043-market-turmoil-geopolitical-strains-and-economic-shifts-shake-investors",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_06_2025_11_09_18_2580608.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-14T15:52:02Z",
+      "title": "US stocks slip as weak retail sales deepen slowdown worries amid oil spike",
+      "description": "US stocks fell after weak retail sales and higher oil prices unsettled investors. The move highlighted markets' tug of war between easing inflation hopes and slowdown fears.",
+      "url": "https://www.indiatoday.in/world/story/us-stocks-slip-weak-retail-sales-oil-prices-slowdown-worries-ptag-2971630-2026-08-15",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pti-international-1-original_154-sixteen_nine.png?VersionId=JQ6lpmn6Yy7zw0rThW8BPMq8r0r.D6ob",
+      "publishedAt": "2026-08-14T20:36:37Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "India Today"
       }
     },
     {
-      "title": "Indices snap two-week winning streak",
-      "description": "Indian equity benchmarks ended slightly lower on Friday, snapping a two-week winning streak due to surging crude oil prices and Middle East geopolitical tensions, even as strong institutional buying and consumer durables helped limit losses.",
-      "url": "https://www.financialexpress.com/market/indices-snap-two-week-winning-streak-2-4318143/",
-      "image": "https://images.financialexpressdigital.com/2026/08/ShareMarket3Reuters_20260807002329_20260814013406_20260814152902.jpg",
-      "publishedAt": "2026-08-14T15:33:59Z",
+      "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric",
+      "description": "President Donald Trump on Friday urged Americans \u200bto accept slightly higher gasoline prices as the cost \u200cof preventing Iran from obtaining a nuclear weapon and said he would soon declare the Strait of Hormuz a U.S territory.",
+      "url": "https://www.reuters.com/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
+      "image": "https://www.reuters.com/resizer/v2/GDG6U523ARMAPEIOFDORZVZVSM.jpg?auth=1c0483c1f6b0fad814237d8250b4822bee872d74c1ac855a2388b66fbac61a48&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-14T20:35:54Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Labour refuses to scrap ban on petrol and diesel cars despite review",
-      "description": "A Department for Transport review will only consider changes to the way the ban is introduced",
-      "url": "https://www.express.co.uk/news/politics/2239303/labour-refuses-scrap-ban-petrol",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/139/1200x630/7094810.jpg",
-      "publishedAt": "2026-08-14T14:59:00Z",
+      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
+      "description": "Iran called on the U.S. to accept defeat while President Donald Trump blasted Iran as \"evil\" \u200band urged Americans to brace for continued high fuel prices.",
+      "url": "https://www.reuters.com/3fec1b0a85a0/world/us/trump-urges-americans-accept-higher-gas-prices-he-escalates-iran-rhetoric-2026-08-14/",
+      "image": "https://www.reuters.com/resizer/v2/GDG6U523ARMAPEIOFDORZVZVSM.jpg?auth=1c0483c1f6b0fad814237d8250b4822bee872d74c1ac855a2388b66fbac61a48&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-14T20:35:54Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Reuters"
       }
     }
   ]
