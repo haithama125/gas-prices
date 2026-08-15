@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T10:28:28+00:00",
+  "updated_at": "2026-08-15T10:18:43+00:00",
   "source": "GlobalPetrolPrices.com (gasoline_prices)",
   "source_url": "https://www.globalpetrolprices.com/gasoline_prices/",
   "currency": "USD",
@@ -23,7 +23,7 @@
     },
     "KW": {
       "name": "Kuwait",
-      "gasoline_usd_per_l": 0.339
+      "gasoline_usd_per_l": 0.34
     },
     "DZ": {
       "name": "Algeria",
@@ -37,20 +37,20 @@
       "name": "Egypt",
       "gasoline_usd_per_l": 0.478
     },
-    "BO": {
-      "name": "Bolivia",
-      "gasoline_usd_per_l": 0.573
-    },
     "QA": {
       "name": "Qatar",
       "gasoline_usd_per_l": 0.576
     },
-    "OM": {
-      "name": "Oman",
-      "gasoline_usd_per_l": 0.622
+    "BO": {
+      "name": "Bolivia",
+      "gasoline_usd_per_l": 0.586
     },
     "SA": {
       "name": "Saudi Arabia",
+      "gasoline_usd_per_l": 0.622
+    },
+    "OM": {
+      "name": "Oman",
       "gasoline_usd_per_l": 0.622
     },
     "IQ": {
@@ -67,7 +67,7 @@
     },
     "KZ": {
       "name": "Kazakhstan",
-      "gasoline_usd_per_l": 0.684
+      "gasoline_usd_per_l": 0.691
     },
     "SD": {
       "name": "Sudan",
@@ -75,7 +75,7 @@
     },
     "TN": {
       "name": "Tunisia",
-      "gasoline_usd_per_l": 0.859
+      "gasoline_usd_per_l": 0.862
     },
     "EC": {
       "name": "Ecuador",
@@ -83,31 +83,31 @@
     },
     "NE": {
       "name": "Niger",
-      "gasoline_usd_per_l": 0.879
-    },
-    "VN": {
-      "name": "Vietnam",
-      "gasoline_usd_per_l": 0.906
-    },
-    "RU": {
-      "name": "Russia",
-      "gasoline_usd_per_l": 0.908
-    },
-    "BY": {
-      "name": "Belarus",
-      "gasoline_usd_per_l": 0.916
-    },
-    "ID": {
-      "name": "Indonesia",
-      "gasoline_usd_per_l": 0.924
+      "gasoline_usd_per_l": 0.878
     },
     "NG": {
       "name": "Nigeria",
-      "gasoline_usd_per_l": 0.931
+      "gasoline_usd_per_l": 0.882
+    },
+    "VN": {
+      "name": "Vietnam",
+      "gasoline_usd_per_l": 0.889
+    },
+    "RU": {
+      "name": "Russia",
+      "gasoline_usd_per_l": 0.899
+    },
+    "BY": {
+      "name": "Belarus",
+      "gasoline_usd_per_l": 0.911
     },
     "MY": {
       "name": "Malaysia",
-      "gasoline_usd_per_l": 0.932
+      "gasoline_usd_per_l": 0.921
+    },
+    "ID": {
+      "name": "Indonesia",
+      "gasoline_usd_per_l": 0.931
     },
     "AE": {
       "name": "UAE",
@@ -115,27 +115,27 @@
     },
     "TW": {
       "name": "Taiwan",
-      "gasoline_usd_per_l": 0.987
-    },
-    "BT": {
-      "name": "Bhutan",
-      "gasoline_usd_per_l": 1.024
+      "gasoline_usd_per_l": 0.992
     },
     "MV": {
       "name": "Maldives",
       "gasoline_usd_per_l": 1.036
     },
-    "GA": {
-      "name": "Gabon",
-      "gasoline_usd_per_l": 1.046
+    "BT": {
+      "name": "Bhutan",
+      "gasoline_usd_per_l": 1.038
     },
     "ET": {
       "name": "Ethiopia",
+      "gasoline_usd_per_l": 1.047
+    },
+    "GA": {
+      "name": "Gabon",
       "gasoline_usd_per_l": 1.048
     },
     "JP": {
       "name": "Japan",
-      "gasoline_usd_per_l": 1.078
+      "gasoline_usd_per_l": 1.068
     },
     "GY": {
       "name": "Guyana",
@@ -143,99 +143,99 @@
     },
     "LR": {
       "name": "Liberia",
-      "gasoline_usd_per_l": 1.098
-    },
-    "PR": {
-      "name": "Puerto Rico",
-      "gasoline_usd_per_l": 1.129
-    },
-    "TT": {
-      "name": "Trinidad & Tobago",
-      "gasoline_usd_per_l": 1.142
+      "gasoline_usd_per_l": 1.102
     },
     "IN": {
       "name": "India",
-      "gasoline_usd_per_l": 1.143
+      "gasoline_usd_per_l": 1.142
+    },
+    "TT": {
+      "name": "Trinidad & Tobago",
+      "gasoline_usd_per_l": 1.145
     },
     "US": {
       "name": "USA",
+      "gasoline_usd_per_l": 1.153
+    },
+    "CD": {
+      "name": "DR Congo",
       "gasoline_usd_per_l": 1.165
     },
     "BD": {
       "name": "Bangladesh",
-      "gasoline_usd_per_l": 1.172
+      "gasoline_usd_per_l": 1.175
     },
-    "CD": {
-      "name": "DR Congo",
-      "gasoline_usd_per_l": 1.173
-    },
-    "MM": {
-      "name": "Burma",
-      "gasoline_usd_per_l": 1.176
+    "PR": {
+      "name": "Puerto Rico",
+      "gasoline_usd_per_l": 1.178
     },
     "PK": {
       "name": "Pakistan",
-      "gasoline_usd_per_l": 1.183
+      "gasoline_usd_per_l": 1.179
     },
     "MG": {
       "name": "Madagascar",
-      "gasoline_usd_per_l": 1.187
-    },
-    "AF": {
-      "name": "Afghanistan",
-      "gasoline_usd_per_l": 1.193
+      "gasoline_usd_per_l": 1.185
     },
     "PY": {
       "name": "Paraguay",
-      "gasoline_usd_per_l": 1.207
+      "gasoline_usd_per_l": 1.208
+    },
+    "AF": {
+      "name": "Afghanistan",
+      "gasoline_usd_per_l": 1.222
     },
     "LB": {
       "name": "Lebanon",
-      "gasoline_usd_per_l": 1.241
+      "gasoline_usd_per_l": 1.246
     },
     "KG": {
       "name": "Kyrgyzstan",
-      "gasoline_usd_per_l": 1.243
+      "gasoline_usd_per_l": 1.249
     },
     "SY": {
       "name": "Syria",
       "gasoline_usd_per_l": 1.256
     },
-    "PA": {
-      "name": "Panama",
-      "gasoline_usd_per_l": 1.258
+    "MM": {
+      "name": "Burma",
+      "gasoline_usd_per_l": 1.257
     },
     "CN": {
       "name": "China",
-      "gasoline_usd_per_l": 1.267
+      "gasoline_usd_per_l": 1.269
     },
     "SR": {
       "name": "Suriname",
+      "gasoline_usd_per_l": 1.273
+    },
+    "PA": {
+      "name": "Panama",
+      "gasoline_usd_per_l": 1.274
+    },
+    "BJ": {
+      "name": "Benin",
       "gasoline_usd_per_l": 1.275
     },
     "TG": {
       "name": "Togo",
-      "gasoline_usd_per_l": 1.278
+      "gasoline_usd_per_l": 1.275
     },
-    "BJ": {
-      "name": "Benin",
-      "gasoline_usd_per_l": 1.278
+    "PH": {
+      "name": "Philippines",
+      "gasoline_usd_per_l": 1.287
     },
     "BR": {
       "name": "Brazil",
-      "gasoline_usd_per_l": 1.29
-    },
-    "NP": {
-      "name": "Nepal",
-      "gasoline_usd_per_l": 1.291
-    },
-    "CO": {
-      "name": "Colombia",
-      "gasoline_usd_per_l": 1.298
+      "gasoline_usd_per_l": 1.288
     },
     "SV": {
       "name": "El Salvador",
       "gasoline_usd_per_l": 1.299
+    },
+    "NP": {
+      "name": "Nepal",
+      "gasoline_usd_per_l": 1.311
     },
     "HT": {
       "name": "Haiti",
@@ -245,240 +245,240 @@
       "name": "Nicaragua",
       "gasoline_usd_per_l": 1.332
     },
+    "CO": {
+      "name": "Colombia",
+      "gasoline_usd_per_l": 1.335
+    },
     "BI": {
       "name": "Burundi",
-      "gasoline_usd_per_l": 1.336
-    },
-    "ZM": {
-      "name": "Zambia",
       "gasoline_usd_per_l": 1.337
-    },
-    "BW": {
-      "name": "Botswana",
-      "gasoline_usd_per_l": 1.34
     },
     "HN": {
       "name": "Honduras",
-      "gasoline_usd_per_l": 1.344
+      "gasoline_usd_per_l": 1.347
     },
-    "AR": {
-      "name": "Argentina",
+    "ZM": {
+      "name": "Zambia",
+      "gasoline_usd_per_l": 1.349
+    },
+    "BW": {
+      "name": "Botswana",
+      "gasoline_usd_per_l": 1.35
+    },
+    "KH": {
+      "name": "Cambodia",
       "gasoline_usd_per_l": 1.356
     },
     "LC": {
       "name": "Saint Lucia",
       "gasoline_usd_per_l": 1.364
     },
-    "GN": {
-      "name": "Guinea",
-      "gasoline_usd_per_l": 1.366
-    },
-    "FJ": {
-      "name": "Fiji",
-      "gasoline_usd_per_l": 1.371
-    },
     "MU": {
       "name": "Mauritius",
-      "gasoline_usd_per_l": 1.382
+      "gasoline_usd_per_l": 1.367
+    },
+    "GN": {
+      "name": "Guinea",
+      "gasoline_usd_per_l": 1.368
+    },
+    "AR": {
+      "name": "Argentina",
+      "gasoline_usd_per_l": 1.378
+    },
+    "TH": {
+      "name": "Thailand",
+      "gasoline_usd_per_l": 1.383
     },
     "GD": {
       "name": "Grenada",
       "gasoline_usd_per_l": 1.384
     },
-    "TH": {
-      "name": "Thailand",
-      "gasoline_usd_per_l": 1.395
+    "FJ": {
+      "name": "Fiji",
+      "gasoline_usd_per_l": 1.384
     },
-    "AU": {
-      "name": "Australia",
-      "gasoline_usd_per_l": 1.402
-    },
-    "UZ": {
-      "name": "Uzbekistan",
-      "gasoline_usd_per_l": 1.406
-    },
-    "TR": {
-      "name": "Turkey",
-      "gasoline_usd_per_l": 1.415
-    },
-    "KH": {
-      "name": "Cambodia",
-      "gasoline_usd_per_l": 1.42
+    "GT": {
+      "name": "Guatemala",
+      "gasoline_usd_per_l": 1.399
     },
     "KR": {
       "name": "South Korea",
-      "gasoline_usd_per_l": 1.421
+      "gasoline_usd_per_l": 1.418
+    },
+    "UZ": {
+      "name": "Uzbekistan",
+      "gasoline_usd_per_l": 1.418
+    },
+    "AU": {
+      "name": "Australia",
+      "gasoline_usd_per_l": 1.427
     },
     "CW": {
       "name": "Curacao",
       "gasoline_usd_per_l": 1.428
     },
-    "GE": {
-      "name": "Georgia",
-      "gasoline_usd_per_l": 1.438
-    },
     "CA": {
       "name": "Canada",
-      "gasoline_usd_per_l": 1.439
+      "gasoline_usd_per_l": 1.453
     },
-    "LS": {
-      "name": "Lesotho",
-      "gasoline_usd_per_l": 1.455
+    "GE": {
+      "name": "Georgia",
+      "gasoline_usd_per_l": 1.461
     },
-    "GT": {
-      "name": "Guatemala",
-      "gasoline_usd_per_l": 1.459
+    "TR": {
+      "name": "Turkey",
+      "gasoline_usd_per_l": 1.465
     },
     "MZ": {
       "name": "Mozambique",
       "gasoline_usd_per_l": 1.466
     },
-    "CM": {
-      "name": "Cameroon",
-      "gasoline_usd_per_l": 1.476
-    },
-    "LK": {
-      "name": "Sri Lanka",
-      "gasoline_usd_per_l": 1.476
+    "TZ": {
+      "name": "Tanzania",
+      "gasoline_usd_per_l": 1.468
     },
     "AW": {
       "name": "Aruba",
-      "gasoline_usd_per_l": 1.477
+      "gasoline_usd_per_l": 1.475
     },
-    "NA": {
-      "name": "Namibia",
-      "gasoline_usd_per_l": 1.481
+    "CM": {
+      "name": "Cameroon",
+      "gasoline_usd_per_l": 1.479
     },
-    "PH": {
-      "name": "Philippines",
-      "gasoline_usd_per_l": 1.485
+    "LK": {
+      "name": "Sri Lanka",
+      "gasoline_usd_per_l": 1.482
     },
-    "SZ": {
-      "name": "Swaziland",
-      "gasoline_usd_per_l": 1.492
+    "LS": {
+      "name": "Lesotho",
+      "gasoline_usd_per_l": 1.484
     },
     "BF": {
       "name": "Burkina Faso",
-      "gasoline_usd_per_l": 1.498
+      "gasoline_usd_per_l": 1.495
     },
-    "TZ": {
-      "name": "Tanzania",
-      "gasoline_usd_per_l": 1.503
+    "NA": {
+      "name": "Namibia",
+      "gasoline_usd_per_l": 1.513
+    },
+    "SZ": {
+      "name": "Swaziland",
+      "gasoline_usd_per_l": 1.522
     },
     "GH": {
       "name": "Ghana",
-      "gasoline_usd_per_l": 1.517
-    },
-    "AM": {
-      "name": "Armenia",
-      "gasoline_usd_per_l": 1.526
-    },
-    "DO": {
-      "name": "Dom. Rep.",
-      "gasoline_usd_per_l": 1.529
-    },
-    "ZA": {
-      "name": "South Africa",
-      "gasoline_usd_per_l": 1.535
-    },
-    "LA": {
-      "name": "Laos",
-      "gasoline_usd_per_l": 1.536
+      "gasoline_usd_per_l": 1.532
     },
     "ML": {
       "name": "Mali",
-      "gasoline_usd_per_l": 1.542
+      "gasoline_usd_per_l": 1.539
+    },
+    "DO": {
+      "name": "Dom. Rep.",
+      "gasoline_usd_per_l": 1.544
     },
     "MT": {
       "name": "Malta",
-      "gasoline_usd_per_l": 1.545
+      "gasoline_usd_per_l": 1.547
     },
     "DM": {
       "name": "Dominica",
       "gasoline_usd_per_l": 1.551
     },
+    "ZA": {
+      "name": "South Africa",
+      "gasoline_usd_per_l": 1.552
+    },
+    "CR": {
+      "name": "Costa Rica",
+      "gasoline_usd_per_l": 1.554
+    },
+    "AM": {
+      "name": "Armenia",
+      "gasoline_usd_per_l": 1.557
+    },
     "PE": {
       "name": "Peru",
-      "gasoline_usd_per_l": 1.576
+      "gasoline_usd_per_l": 1.583
     },
     "CL": {
       "name": "Chile",
-      "gasoline_usd_per_l": 1.588
-    },
-    "SE": {
-      "name": "Sweden",
       "gasoline_usd_per_l": 1.589
     },
     "CI": {
       "name": "Ivory Coast",
-      "gasoline_usd_per_l": 1.595
+      "gasoline_usd_per_l": 1.592
     },
     "JM": {
       "name": "Jamaica",
-      "gasoline_usd_per_l": 1.609
+      "gasoline_usd_per_l": 1.606
     },
-    "KY": {
-      "name": "Cayman Islands",
-      "gasoline_usd_per_l": 1.609
+    "SE": {
+      "name": "Sweden",
+      "gasoline_usd_per_l": 1.606
     },
     "SN": {
       "name": "Senegal",
-      "gasoline_usd_per_l": 1.621
+      "gasoline_usd_per_l": 1.618
+    },
+    "KY": {
+      "name": "Cayman Islands",
+      "gasoline_usd_per_l": 1.625
+    },
+    "MK": {
+      "name": "N. Maced.",
+      "gasoline_usd_per_l": 1.633
     },
     "MA": {
       "name": "Morocco",
-      "gasoline_usd_per_l": 1.635
-    },
-    "MX": {
-      "name": "Mexico",
-      "gasoline_usd_per_l": 1.639
+      "gasoline_usd_per_l": 1.636
     },
     "KE": {
       "name": "Kenya",
-      "gasoline_usd_per_l": 1.643
+      "gasoline_usd_per_l": 1.644
     },
-    "CR": {
-      "name": "Costa Rica",
-      "gasoline_usd_per_l": 1.669
+    "MX": {
+      "name": "Mexico",
+      "gasoline_usd_per_l": 1.656
+    },
+    "LA": {
+      "name": "Laos",
+      "gasoline_usd_per_l": 1.659
     },
     "MN": {
       "name": "Mongolia",
       "gasoline_usd_per_l": 1.67
     },
-    "MK": {
-      "name": "N. Maced.",
-      "gasoline_usd_per_l": 1.705
-    },
-    "BA": {
-      "name": "Bosnia & Herz.",
-      "gasoline_usd_per_l": 1.715
-    },
     "AD": {
       "name": "Andorra",
-      "gasoline_usd_per_l": 1.734
-    },
-    "BG": {
-      "name": "Bulgaria",
-      "gasoline_usd_per_l": 1.747
-    },
-    "UG": {
-      "name": "Uganda",
-      "gasoline_usd_per_l": 1.747
-    },
-    "CV": {
-      "name": "Cape Verde",
-      "gasoline_usd_per_l": 1.748
+      "gasoline_usd_per_l": 1.72
     },
     "MD": {
       "name": "Moldova",
-      "gasoline_usd_per_l": 1.761
+      "gasoline_usd_per_l": 1.735
+    },
+    "BA": {
+      "name": "Bosnia & Herz.",
+      "gasoline_usd_per_l": 1.748
+    },
+    "SI": {
+      "name": "Slovenia",
+      "gasoline_usd_per_l": 1.753
+    },
+    "CV": {
+      "name": "Cape Verde",
+      "gasoline_usd_per_l": 1.754
+    },
+    "UG": {
+      "name": "Uganda",
+      "gasoline_usd_per_l": 1.758
+    },
+    "BG": {
+      "name": "Bulgaria",
+      "gasoline_usd_per_l": 1.77
     },
     "IS": {
       "name": "Iceland",
-      "gasoline_usd_per_l": 1.763
-    },
-    "SC": {
-      "name": "Seychelles",
       "gasoline_usd_per_l": 1.778
     },
     "SL": {
@@ -489,201 +489,201 @@
       "name": "Bahamas",
       "gasoline_usd_per_l": 1.781
     },
+    "SC": {
+      "name": "Seychelles",
+      "gasoline_usd_per_l": 1.809
+    },
+    "UA": {
+      "name": "Ukraine",
+      "gasoline_usd_per_l": 1.836
+    },
     "CY": {
       "name": "Cyprus",
-      "gasoline_usd_per_l": 1.811
+      "gasoline_usd_per_l": 1.84
     },
     "NZ": {
       "name": "New Zealand",
-      "gasoline_usd_per_l": 1.813
-    },
-    "SI": {
-      "name": "Slovenia",
-      "gasoline_usd_per_l": 1.826
-    },
-    "CF": {
-      "name": "C. Afr. Rep.",
-      "gasoline_usd_per_l": 1.845
+      "gasoline_usd_per_l": 1.848
     },
     "JO": {
       "name": "Jordan",
       "gasoline_usd_per_l": 1.848
     },
-    "UA": {
-      "name": "Ukraine",
-      "gasoline_usd_per_l": 1.851
+    "CF": {
+      "name": "C. Afr. Rep.",
+      "gasoline_usd_per_l": 1.849
     },
-    "HR": {
-      "name": "Croatia",
-      "gasoline_usd_per_l": 1.864
+    "LU": {
+      "name": "Luxembourg",
+      "gasoline_usd_per_l": 1.869
     },
     "SM": {
       "name": "San Marino",
-      "gasoline_usd_per_l": 1.875
+      "gasoline_usd_per_l": 1.89
+    },
+    "LT": {
+      "name": "Lithuania",
+      "gasoline_usd_per_l": 1.892
     },
     "HU": {
       "name": "Hungary",
-      "gasoline_usd_per_l": 1.902
+      "gasoline_usd_per_l": 1.896
+    },
+    "BZ": {
+      "name": "Belize",
+      "gasoline_usd_per_l": 1.922
     },
     "ZW": {
       "name": "Zimbabwe",
       "gasoline_usd_per_l": 1.93
     },
-    "LT": {
-      "name": "Lithuania",
-      "gasoline_usd_per_l": 1.948
-    },
     "CU": {
       "name": "Cuba",
       "gasoline_usd_per_l": 1.95
     },
-    "LU": {
-      "name": "Luxembourg",
-      "gasoline_usd_per_l": 1.97
+    "ME": {
+      "name": "Montenegro",
+      "gasoline_usd_per_l": 1.951
+    },
+    "HR": {
+      "name": "Croatia",
+      "gasoline_usd_per_l": 1.952
     },
     "ES": {
       "name": "Spain",
-      "gasoline_usd_per_l": 1.976
-    },
-    "RS": {
-      "name": "Serbia",
-      "gasoline_usd_per_l": 1.985
-    },
-    "EE": {
-      "name": "Estonia",
-      "gasoline_usd_per_l": 1.986
-    },
-    "BB": {
-      "name": "Barbados",
-      "gasoline_usd_per_l": 1.993
-    },
-    "PL": {
-      "name": "Poland",
-      "gasoline_usd_per_l": 1.994
-    },
-    "RW": {
-      "name": "Rwanda",
-      "gasoline_usd_per_l": 2.001
-    },
-    "CZ": {
-      "name": "Czech Republic",
-      "gasoline_usd_per_l": 2.012
-    },
-    "ME": {
-      "name": "Montenegro",
-      "gasoline_usd_per_l": 2.018
-    },
-    "IE": {
-      "name": "Ireland",
-      "gasoline_usd_per_l": 2.027
-    },
-    "BZ": {
-      "name": "Belize",
-      "gasoline_usd_per_l": 2.032
-    },
-    "SK": {
-      "name": "Slovakia",
-      "gasoline_usd_per_l": 2.035
-    },
-    "BE": {
-      "name": "Belgium",
-      "gasoline_usd_per_l": 2.065
-    },
-    "RO": {
-      "name": "Romania",
-      "gasoline_usd_per_l": 2.096
+      "gasoline_usd_per_l": 1.955
     },
     "AT": {
       "name": "Austria",
-      "gasoline_usd_per_l": 2.12
+      "gasoline_usd_per_l": 1.986
+    },
+    "EE": {
+      "name": "Estonia",
+      "gasoline_usd_per_l": 1.987
+    },
+    "RS": {
+      "name": "Serbia",
+      "gasoline_usd_per_l": 1.987
+    },
+    "BB": {
+      "name": "Barbados",
+      "gasoline_usd_per_l": 1.992
+    },
+    "RW": {
+      "name": "Rwanda",
+      "gasoline_usd_per_l": 2.0
+    },
+    "CZ": {
+      "name": "Czech Republic",
+      "gasoline_usd_per_l": 2.01
+    },
+    "PL": {
+      "name": "Poland",
+      "gasoline_usd_per_l": 2.027
+    },
+    "SK": {
+      "name": "Slovakia",
+      "gasoline_usd_per_l": 2.032
+    },
+    "BE": {
+      "name": "Belgium",
+      "gasoline_usd_per_l": 2.067
     },
     "LV": {
       "name": "Latvia",
-      "gasoline_usd_per_l": 2.145
+      "gasoline_usd_per_l": 2.075
     },
-    "GB": {
-      "name": "UK",
-      "gasoline_usd_per_l": 2.151
+    "RO": {
+      "name": "Romania",
+      "gasoline_usd_per_l": 2.092
+    },
+    "IE": {
+      "name": "Ireland",
+      "gasoline_usd_per_l": 2.097
     },
     "WF": {
       "name": "Wallis and Futuna",
       "gasoline_usd_per_l": 2.17
     },
-    "UY": {
-      "name": "Uruguay",
-      "gasoline_usd_per_l": 2.205
-    },
-    "NO": {
-      "name": "Norway",
-      "gasoline_usd_per_l": 2.236
-    },
-    "MC": {
-      "name": "Monaco",
-      "gasoline_usd_per_l": 2.283
-    },
     "PT": {
       "name": "Portugal",
-      "gasoline_usd_per_l": 2.285
+      "gasoline_usd_per_l": 2.188
     },
-    "YT": {
-      "name": "Mayotte",
-      "gasoline_usd_per_l": 2.295
+    "GB": {
+      "name": "UK",
+      "gasoline_usd_per_l": 2.19
     },
-    "IT": {
-      "name": "Italy",
-      "gasoline_usd_per_l": 2.311
-    },
-    "AL": {
-      "name": "Albania",
-      "gasoline_usd_per_l": 2.33
-    },
-    "GR": {
-      "name": "Greece",
-      "gasoline_usd_per_l": 2.33
+    "UY": {
+      "name": "Uruguay",
+      "gasoline_usd_per_l": 2.203
     },
     "FR": {
       "name": "France",
-      "gasoline_usd_per_l": 2.334
+      "gasoline_usd_per_l": 2.281
     },
-    "LI": {
-      "name": "Liechtenstein",
-      "gasoline_usd_per_l": 2.336
+    "MC": {
+      "name": "Monaco",
+      "gasoline_usd_per_l": 2.285
+    },
+    "GR": {
+      "name": "Greece",
+      "gasoline_usd_per_l": 2.285
+    },
+    "AL": {
+      "name": "Albania",
+      "gasoline_usd_per_l": 2.291
+    },
+    "NO": {
+      "name": "Norway",
+      "gasoline_usd_per_l": 2.294
+    },
+    "YT": {
+      "name": "Mayotte",
+      "gasoline_usd_per_l": 2.297
+    },
+    "IT": {
+      "name": "Italy",
+      "gasoline_usd_per_l": 2.298
     },
     "SG": {
       "name": "Singapore",
-      "gasoline_usd_per_l": 2.341
+      "gasoline_usd_per_l": 2.345
     },
     "CH": {
       "name": "Switzerland",
-      "gasoline_usd_per_l": 2.427
+      "gasoline_usd_per_l": 2.376
     },
     "DE": {
       "name": "Germany",
-      "gasoline_usd_per_l": 2.432
+      "gasoline_usd_per_l": 2.428
+    },
+    "LI": {
+      "name": "Liechtenstein",
+      "gasoline_usd_per_l": 2.454
     },
     "FI": {
       "name": "Finland",
-      "gasoline_usd_per_l": 2.497
+      "gasoline_usd_per_l": 2.517
     },
     "DK": {
       "name": "Denmark",
-      "gasoline_usd_per_l": 2.678
+      "gasoline_usd_per_l": 2.695
     },
     "NL": {
       "name": "Netherlands",
-      "gasoline_usd_per_l": 2.739
+      "gasoline_usd_per_l": 2.746
     },
     "IL": {
       "name": "Israel",
-      "gasoline_usd_per_l": 2.769
+      "gasoline_usd_per_l": 2.783
     },
     "MW": {
       "name": "Malawi",
-      "gasoline_usd_per_l": 3.235
+      "gasoline_usd_per_l": 3.237
     },
     "HK": {
       "name": "Hong Kong",
-      "gasoline_usd_per_l": 4.166
+      "gasoline_usd_per_l": 4.163
     }
   }
 }
