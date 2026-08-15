@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-14T18:40:13+00:00",
+  "updated_at": "2026-08-15T00:39:04+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
-      "description": "Shares are mostly lower in Asia and U.S. futures are little changed after U.S. inflation data showed an improvement in July. U.S. stocks rose to a record. Oil prices were holding steady early Friday after slipping 2% on Thursday. On Wall Street, the S&P 500 climbed 0.7% and topped its prior all-time high set last week. The Dow Jones Industrial Average added 0.1%, and the Nasdaq composite gained 0.8%. Treasury yields eased after a report showed inflation at the U.S. wholesale level was lower in July, at 4.7%. That was better than economists had expected and than the 5.5% rate for June.",
-      "url": "https://www.ajc.com/news/2026/08/asian-shares-mostly-fall-and-us-futures-are-little-changed-after-us-inflation-data-improves/",
-      "image": "https://images.ajc.com/resizer/v2/5GAHUEXLTNGXHEKRKBULJOUZVY.jpg?auth=6ec0a4c3eded8366a5434bfca5500bf163cd3a198157d302d74f91589ff5b7f3&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-14T06:02:34Z",
+      "title": "Retail Reverberations: The July Sales Dip",
+      "description": "U.S. retail sales fell by 0.6% in July despite past gains driven by large tax refunds. The decline, due in part to the rescheduling of Amazon's Prime Day and reduced gasoline prices, points to consumers' growing sensitivity to costs. However, rising stock market-driven household wealth offers spending support.",
+      "url": "https://www.devdiscourse.com/article/business/3963936-retail-reverberations-the-july-sales-dip",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_10_05_02_1371304.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-14T12:35:58Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Asian shares mostly fall and US futures are little changed after US inflation data improves",
-      "description": "Shares are mostly lower in Asia and U.S. futures are little changed after U.S. inflation data showed an improvement in July. U.S. stocks rose to a record. Oil prices were holding steady early Friday...",
-      "url": "https://www.sfgate.com/news/world/article/asian-shares-mostly-fall-and-us-futures-are-22387996.php",
-      "image": "https://s.hdnux.com/photos/01/67/05/02/31215754/3/rawImage.jpg",
-      "publishedAt": "2026-08-14T05:58:47Z",
+      "title": "VinFast Highlights the EV Equation That's Often Overlooked",
+      "description": "Gurugram (Haryana) [India], August 14: Electric vehicles are increasingly beating petrol and diesel cars on lifetime ownership costs, yet many buyers continue to judge them by sticker price. Research suggests the industry's next challenge is not improving EV economics but making them easier for consumers to understand.",
+      "url": "https://www.aninews.in/news/business/vinfast-highlights-the-ev-equation-thats-often-overlooked20260814173854/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260814120844-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-08-14T12:08:54Z",
       "source": {
-        "name": "SFGATE"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Diesel, gasoline prices to go up next week",
-      "description": "MANILA, Philippines \u2014 Pump prices are expected to increase next week due to developments in the Middle East conflict, a local industry source said on Friday.",
-      "url": "https://www.manilatimes.net/2026/08/14/business/diesel-gasoline-prices-to-go-up-next-week/2405530",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/14/1176857.jpg",
-      "publishedAt": "2026-08-14T05:51:00Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
-      "description": "Oil prices are heading for a roughly 4% weekly gain as prolonged U.S.-Iran tensions and restricted Hormuz traffic outweigh bearish demand forecasts and a sharp rise in U.S. crude inventories.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-4-Weekly-Gain-as-US-Iran-Deadlock-Drags-On.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-14_stfni28q0f.jpg",
-      "publishedAt": "2026-08-14T05:40:00Z",
+      "title": "Oil Traders Reprice Hormuz Risk as Demand Outlook Deteriorates",
+      "description": "Oil prices rebounded this week as stalled U.S.-Iran negotiations restored the Hormuz risk premium, although swelling U.S. inventories and weaker demand forecasts limited the rally.",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Traders-Reprice-Hormuz-Risk-as-Demand-Outlook-Deteriorates.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-13_yc8piaxlw7.jpg",
+      "publishedAt": "2026-08-14T12:00:00Z",
       "source": {
         "name": "OilPrice"
       }
     },
     {
-      "title": "US says lower oil prices, not Iran's nuclear program, are now top priority in war",
-      "description": "The top US priority now in the Iran war is no longer its nuclear program but to bring gasoline prices down for American consumers, the vice president said",
-      "url": "https://www.europesays.com/3192709/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/j_5.jpg",
-      "publishedAt": "2026-08-14T05:30:30Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Rupee gains 2 paise to 95.43 against US dollar in early trade",
-      "description": "The rupee gained two paise against the US dollar in the early market hours, driven by a softening dollar internationally. Nonetheless, the outflow of foreign investments from Indian equities is weighing on the rupee's performance. Compounding this issue, rising crude oil prices linked to geopolitical conflicts further affected market sentiments, resulting in declines for the Sensex and Nifty in morning trading.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-gains-2-paise-to-95-43-against-us-dollar-in-early-trade/articleshow/133229791.cms",
-      "image": "https://img.etimg.com/thumb/msid-133229798,width-1200,height-630,imgsize-9926,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-14T05:21:00Z",
+      "title": "India bonds end week flat, but demand for long notes firms",
+      "description": "Indian government bonds traded within a narrow range this past week. Fading inflation and rate-hike concerns left traders seeking market direction. Buyers entered long bonds as the yield curve steepened, attracting value. Rising oil prices exerted some pressure, but liquidity and softer inflation eased worries. Expectations now suggest neither the RBI nor the Federal Reserve will raise rates soon.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-end-week-flat-but-demand-for-long-notes-firms/articleshow/133240625.cms",
+      "image": "https://img.etimg.com/thumb/msid-133240659,width-1200,height-630,imgsize-121028,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-14T11:57:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Indian bond bias stays positive, debt auction demand in focus",
-      "description": "Indian government bonds remained firm in early trade on Friday. The benchmark 10-year bond yield held above the key 6.75% level. Investors awaited a weekly debt auction for fresh market cues. Lower oil prices and U.S. Treasury yields offered some support. India's overnight index swap rates dipped without strong trends.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bond-bias-stays-positive-debt-auction-demand-in-focus/articleshow/133229673.cms",
-      "image": "https://img.etimg.com/thumb/msid-133229697,width-1200,height-630,imgsize-22206,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-14T05:16:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Sensex Down 350 Points, Nifty Slips 0.37% As US-Iran Standoff Weighs On Investor Sentiment",
-      "description": "Indian benchmark indices Sensex and Nifty declined in early trade on Friday as the prolonged US-Iran standoff kept investors cautious. Rising crude oil prices added to concerns over inflation and currency volatility. Sensex fell nearly 299 points, while Nifty dropped over 74 points amid mixed global market cues",
-      "url": "https://www.freepressjournal.in/business/sensex-down-350-points-nifty-slips-037-as-us-iran-standoff-weighs-on-investor-sentiment",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-01/zmwa3c97/Share-Market-Open-Close-3-1.jpg",
-      "publishedAt": "2026-08-14T05:02:41Z",
+      "title": "India LPG Consumption Falls 17% To 8.8 Million Tonnes In April-July Amid Hormuz Disruption",
+      "description": "India\u2019s LPG consumption declined 17% to 8.8 million tonnes during April-July amid supply disruptions linked to the Strait of Hormuz blockade and restrictions on commercial LPG sales. Meanwhile, petrol and diesel demand increased. US LPG supplies surged as Gulf shipments weakened, prompting India to diversify its import sources",
+      "url": "https://www.freepressjournal.in/business/india-lpg-consumption-falls-17-to-88-million-tonnes-in-april-july-amid-hormuz-disruption",
+      "image": "https://media.assettype.com/freepressjournal/2026-06-07/qtojtfnq/gas-cyliner-cost.jpg",
+      "publishedAt": "2026-08-14T11:54:49Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "Indian government bonds hold firm as investors eye debt auction demand",
-      "description": "Indian government bonds show positive bias as investors eye upcoming debt auction amidst stable yields and easing oil prices.",
-      "url": "https://www.thehindubusinessline.com/markets/indian-government-bonds-hold-firm-as-investors-eye-debt-auction-demand/article71344106.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/nhakbh/article71344126.ece/alternates/LANDSCAPE_1200/CCI_UDHindu_KSL_U5Q2R76OC_R1510403330_5_25796d05-4186-449e-9ca6-75f530d64025.jpg",
-      "publishedAt": "2026-08-14T04:55:12Z",
+      "title": "Global Stocks Soar Amidst Oil Price Surge and Geopolitical Tensions",
+      "description": "Global stocks are trading at record highs in the face of benign inflation data tamping down US rate hike expectations. Meanwhile, oil prices surge due to stalled Iran peace talks. Investors remain calm despite geopolitical tensions, with a major focus on AI and strong earnings reports.",
+      "url": "https://www.devdiscourse.com/article/business/3963909-global-stocks-soar-amidst-oil-price-surge-and-geopolitical-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/14_05_2025_12_43_28_8461063.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-14T11:43:55Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Most Asian stocks track Wall Street record as US data ease rate fears",
-      "description": "Most Asian stocks rose Friday as another soft US inflation reading solidified expectations the Federal Reserve will hold off hiking interest rates, while a further drop in oil prices added to the upbeat mood.",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/14/most-asian-stocks-track-wall-street-record-as-us-data-ease-rate-fears",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-22%2F2y5d0afi%2F202605223797130.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-14T04:35:43Z",
+      "title": "Forex reserves up by $14.1 billion to $707 billion",
+      "description": "India's foreign exchange reserves saw a jump of over fourteen billion dollars. Foreign currency assets and gold reserves contributed substantially to this overall increase. The Indian Rupee also appreciated slightly against the US dollar on Friday. Forex traders noted pressure on the rupee due to fund outflows and oil prices. Overall reserves have risen considerably since March and over the past year.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/forex-reserves-up-by-14-136-billion-to-707-002-billion/articleshow/133240225.cms",
+      "image": "https://img.etimg.com/thumb/msid-133240298,width-1200,height-630,imgsize-123458,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-14T11:43:00Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "US markets strive for a positive week ahead of retail sales data and signs of cooling inflation",
+      "description": "U.S. futures are mixed as Wall Street looks to advance for the week ahead of new retail sales data. The future for the S&P 500 edged 0.1% higher Friday while Dow Jones Industrial Average slipped 0.1%. Nasdaq futures rose 0.1%. The U.S. stock market hit all-time highs Thursday on new data that\u00a0showed inflation cooled in July, as well as a decline in oil prices. However, oil is rebounding to end the week after two United Arab Emirates tankers were attacked while trying to cross the Strait of Hormuz.",
+      "url": "https://www.ajc.com/news/2026/08/world-shares-mostly-fall-and-us-futures-are-mixed-after-us-inflation-data-improves/",
+      "image": "https://images.ajc.com/resizer/v2/JCTHM3GBNRCL5IFX6R4TW6MTM4.jpg?auth=b35092c72207729722a4430fe1305fc8b9cd1f1b754dadedc93526b8f5e600ee&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-14T11:42:13Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Stock markets end lower amid geopolitical uncertainty; Nifty down for fourth day",
+      "description": "Indian stock markets decline as geopolitical tensions and rising oil prices weigh on investor sentiment, with Nifty down for fourth consecutive day.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-end-lower-amid-geopolitical-uncertainty-nifty-down-for-fourth-day/article71345345.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vjfqba/article71345367.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
+      "publishedAt": "2026-08-14T11:41:50Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Electric cars can drive 30km/h faster than petrol cars in this European country",
+      "description": "A motorway rule in Austria means electric car drivers can legally travel 30km/h faster than petrol and diesel cars when pollution restrictions are activated",
+      "url": "https://euroweeklynews.com/2026/08/14/electric-cars-can-legally-drive-30km-h-faster-than-petrol-cars-in-one-european-country-will-spain-be-next/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/08/shutterstock_2474906141-2.jpg",
+      "publishedAt": "2026-08-14T11:35:04Z",
+      "source": {
+        "name": "Euro Weekly News"
       }
     }
   ]
