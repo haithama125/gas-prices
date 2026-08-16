@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-15T18:13:49+00:00",
+  "updated_at": "2026-08-16T00:40:36+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol export levy cut to nil, diesel and ATF duties retained: What changes from August 15",
-      "description": "India Business News: The government has scrapped the export levy on petrol for the next fortnight while continuing to charge duties on diesel and aviation turbine fuel (AT.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/petrol-export-levy-cut-to-nil-diesel-and-atf-duties-retained-what-changes-from-august-15/articleshow/133256557.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133256915,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-15T05:51:00Z",
+      "title": "Government cuts windfall tax on petrol, diesel and aviation fuel",
+      "description": "The special duty on diesel exports has been cut to Rs 24 from Rs 25.5, on aviation fuel to Rs 19.5 from Rs 22 and on petrol to zero from Rs 3.5.",
+      "url": "https://scroll.in/latest/1095055/government-cuts-windfall-tax-on-petrol-diesel-and-aviation-fuel",
+      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/176552-jevjsboouz-1656674035.jpg",
+      "publishedAt": "2026-08-15T12:32:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "Scroll.in"
       }
     },
     {
-      "title": "Government reduces export duty on petrol to nil; diesel and ATF duty also reduced",
-      "description": "Government eliminates petrol export duty and reduces diesel and ATF duties to ensure fuel availability for domestic consumption.",
-      "url": "https://www.thehindu.com/business/Industry/government-reduces-export-duty-on-petrol-to-nil-diesel-and-atf-duty-also-reduced/article71348603.ece",
-      "image": "https://th-i.thgim.com/public/incoming/eyaiud/article71348643.ece/alternates/LANDSCAPE_1200/2026-08-13T054807Z_481266005_RC2ZQMAJPHJU_RTRMADP_3_INDIA-FUEL-ETHANOL-AUTOS.JPG",
-      "publishedAt": "2026-08-15T05:50:02Z",
+      "title": "Centre cuts windfall tax on exports of petrol, diesel, ATF",
+      "description": "The Indian government has reduced the windfall gains tax on exports of petrol, diesel, and aviation turbine fuel (ATF) following its fortnightly review.",
+      "url": "https://www.financialexpress.com/policy/economy/centre-cuts-windfall-tax-on-exports-of-petrol-diesel-atf/4318607/",
+      "image": "https://images.financialexpressdigital.com/2026/08/crude-oil_20260326171956_20260330163503_20260401152641_20260415122631_20260422120734_20260426122938_20260427143213_20260507182838_20260710145056_20260724143828_20260815115254.jpg",
+      "publishedAt": "2026-08-15T11:55:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "India cuts windfall tax on diesel, ATF exports; petrol duty set at zero",
-      "description": "The revised duties are applicable to petroleum products exported from India, rather than fuel sold in the domestic market. The notification does not change the excise duty on petrol or diesel for domestic consumers, so the latest revision by itself should not result in a change in pump prices.",
-      "url": "https://www.cnbctv18.com/economy/india-cuts-windfall-tax-on-diesel-atf-exports-petrol-duty-set-at-zero-19970162.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/windfall-tax-cut-generic-ai-generated-2026-08-9930ca2b2c18913712cd8050c3d5a8b6.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-15T05:39:38Z",
+      "title": "Government keeps petrol and diesel prices unchanged for three days",
+      "description": "The federal government has decided to maintain the existing prices of petrol and high-speed diesel for the next three days, keeping the rates unchanged until Monday.",
+      "url": "https://www.nation.com.pk/15-Aug-2026/government-keeps-petrol-diesel-prices-unchanged-three-days",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-08-15/government-keeps-petrol-diesel-prices-unchanged-three-days-1786794544-2082.jpg",
+      "publishedAt": "2026-08-15T11:49:10Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Iran defiant as Trump tells US to accept dearer petrol",
-      "description": "The Strait of Hormuz stays closed until the US admits defeat, Iran says, while Donald Trump urges Americans...",
-      "url": "https://www.canberratimes.com.au/story/9330863/iran-defiant-as-trump-tells-us-to-accept-dearer-petrol/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/bb7be3fd-3e79-4a16-94aa-7382d4e46a08.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-08-15T05:36:03Z",
+      "title": "Fuel protests threat looms again as petrol and diesel prices set to spike above \u20ac2 next month",
+      "description": "The average cost of a litre of diesel has jumped to \u20ac1.92 while petrol now sits at \u20ac1.84 - with diesel set to exceed \u20ac2 per litre from September as excise duty relief is phased out",
+      "url": "https://www.irishmirror.ie/news/irish-news/fuel-protests-threat-looms-again-37555321",
+      "image": "https://i2-prod.irishmirror.ie/article36999208.ece/ALTERNATES/s1200d/0_PA-84222488.jpg",
+      "publishedAt": "2026-08-15T11:03:15Z",
       "source": {
-        "name": "The Canberra Times"
+        "name": "Irish Mirror"
       }
     },
     {
-      "title": "Govt cuts windfall gains tax on petrol, diesel, ATF exports",
-      "description": "The rate of special additional excise duty (SAED) on the export of diesel is now Rs 24 per litre, down from Rs 25.5 a litre.",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/15/govt-cuts-windfall-gains-tax-on-petrol-diesel-atf-exports-3",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-07-01%2Fto3f7xb2%2F202607013846970.jpg?rect=0%2C22%2C450%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-15T05:30:44Z",
+      "title": "UK\u2019s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
+      "description": "Chinese-owned AESC has pushed back plans in sign of slowing transition from petrol and diesel to electric cars",
+      "url": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
+      "image": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=835b915d20f1dda72e814f9896ea2167",
+      "publishedAt": "2026-08-15T11:00:54Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "description": "Iran urges the US to accept defeat as Trump warns of high fuel prices amid ongoing conflict, with peace talks stalled and Strait of Hormuz traffic severely impacted",
-      "url": "https://www.rappler.com/world/middle-east/iran-defiant-hormuz-strait-trump-high-gas-prices/",
-      "image": "https://www.rappler.com/tachyon/2026/08/iran-crisis-reuters-august-2026-scaled.jpg",
-      "publishedAt": "2026-08-15T05:30:00Z",
+      "title": "No progress on peace at the Strait of Hormuz; oil prices keep climbing again",
+      "description": "US says it can maintain naval blockade on Iran indefinitely as Strait of Hormuz shipping traffic capped as US, Iran make rival claims",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/15/no-progress-on-peace-at-the-strait-of-hormuz-oil-prices-keep-climbing-again",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/15/4061199.jpg",
+      "publishedAt": "2026-08-15T10:16:00Z",
       "source": {
-        "name": "Rappler"
+        "name": "The Star"
       }
     },
     {
-      "title": "Iran defiant on strait as Trump tells Americans to accept high gas prices",
-      "description": "Iran has rejected US claims of control over the Strait of Hormuz and demanded Washington accept its conditions before shipping resumes. The conflict continues to disrupt oil traffic, push up US fuel prices and raise concerns about wider regional escalation.",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/iran-defiant-on-strait-as-trump-tells-americans-to-accept-high-gas-prices/articleshow/133256504.cms",
-      "image": "https://img.etimg.com/thumb/msid-133256546,width-1200,height-630,imgsize-90676,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-15T05:20:00Z",
+      "title": "Inflation Pains: Trump's Promise Unfulfilled as Costs Rise",
+      "description": "Despite Donald Trump's promise to reduce inflation, grocery and gasoline prices continue to surge, creating challenges for Republicans ahead of the midterm elections. Polls indicate Democrats now have a slight edge over Republicans as voters express disillusionment with rising costs, impacting their enthusiasm for the elections.",
+      "url": "https://www.devdiscourse.com/article/politics/3964234-inflation-pains-trumps-promise-unfulfilled-as-costs-rise",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_09_2025_11_18_28_5778243.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-15T10:00:37Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Gold rises on weaker dollar as inflation data cements rate-hold bets",
-      "description": "On Friday, gold prices moved upward, signaling a positive outlook for the week. The precious metal received a boost from a weaker dollar and stable inflation figures, reducing the likelihood of an upcoming interest rate hike by the Federal Reserve. Meanwhile, oil prices also showed weekly gains, influenced by escalating tensions in the Strait of Hormuz. Precious metals such as silver and platinum followed suit, while palladium experienced a decline.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-on-weaker-dollar-as-inflation-data-cements-rate-hold-bets/articleshow/133256537.cms",
-      "image": "https://img.etimg.com/thumb/msid-133256553,width-1200,height-630,imgsize-8256,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-15T05:19:00Z",
+      "title": "With gas prices high again, some Chicagoans reconsider travel",
+      "description": "Gas prices have surged since late February at the start of the war in Iran. Following a brief reprieve in June and July, gas prices in Illinois are climbing once again.",
+      "url": "https://www.chicagotribune.com/2026/08/15/chicago-gas-prices-travel-iran/",
+      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/08/CTC-L-gas-prices002_265575941.jpg?w=5472&h=3648",
+      "publishedAt": "2026-08-15T10:00:14Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Chicago Tribune"
       }
     },
     {
-      "title": "India Cuts Petrol, Diesel And ATF Export Duties In Fresh Fuel Levy Reset",
-      "description": "India cuts export duties on petrol, diesel and ATF from August 15, partly reversing the fuel levy hike announced earlier this month., Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/india-cuts-petrol-diesel-and-atf-export-duties-in-fresh-fuel-levy-reset-article-155656481",
-      "image": "https://images.timesnownews.com/thumb/msid-155657287,thumbsize-30966,width-1280,height-720,resizemode-75/155657287.jpg",
-      "publishedAt": "2026-08-15T05:16:14Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12652481",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-11goodmorningnorthbaybct-5-paddlers-on-brandy-lake-chris-mayne.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-15T10:00:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "BayToday"
       }
     },
     {
-      "title": "European shares snap 4-week rally as higher oil prices temper strong earnings",
-      "description": "European stock markets closed in the red on Friday, breaking a four-week winning streak. The rise in crude oil prices and escalating geopolitical tensions overshadowed robust corporate earnings. Although the STOXX 600 index experienced a weekly decline, it remained close to record levels, buoyed by strong economic growth and profits across sectors. Investors began reallocating their portfolios, moving away from stocks related to artificial intelligence.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/european-shares-snap-4-week-rally-as-higher-oil-prices-temper-strong-earnings/articleshow/133256204.cms",
-      "image": "https://img.etimg.com/thumb/msid-133256387,width-1200,height-630,imgsize-2346629,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-15T05:08:00Z",
+      "title": "Windfall tax on petrol exports cut to 0 after early August hike; diesel duty down \u20b91.5/litre, ATF by \u20b92.5/litre",
+      "description": "The Centre has slashed windfall gains tax on petrol, diesel and ATF exports starting today, weeks after hiking rates amid rising tensions due to the war in West Asia. Here's how much the prices change\u2026",
+      "url": "https://www.livemint.com/news/india/windfall-tax-export-cut-petrol-0-jet-fuel-hike-from-august-prices-change-diesel-duty-cut-1-5-atf-rate-down-2-5-per-litre-11786784148492.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/15/1600x900/logo/Hospital-administrators-said-they-have-been-unable_1786787226727_1786787226852_692437d3-994e-4c4d-9954-6725523ca493.jpg",
+      "publishedAt": "2026-08-15T09:49:28Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Livemint"
       }
     }
   ]
