@@ -1,17 +1,97 @@
 {
-  "updated_at": "2026-08-16T12:18:40+00:00",
+  "updated_at": "2026-08-16T18:13:47+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "This hidden energy indicator has climbed to about twice its normal level",
-      "description": "Discover why the 3-2-1 crack spread is hitting record highs, how refining bottlenecks and SPR releases distort oil prices, and what it means for India's economy.",
-      "url": "https://www.financialexpress.com/market/global-market-pulse/this-hidden-energy-indicator-has-climbed-to-about-twice-its-normal-level/4318670/",
-      "image": "https://images.financialexpressdigital.com/2026/08/crude-oil.jpg",
-      "publishedAt": "2026-08-16T00:00:00Z",
+      "title": "Daily Voice: Jainam CIO sees better Q2 margins and broader growth, but flags crude and monsoon risks",
+      "description": "Ankit Tikmany of Jainam believes the market could hit a new record high after Diwali, provided crude oil prices come off, banks get their margins back on track, and foreign money starts flowing in.",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-jainam-cio-sees-better-q2-margins-and-broader-growth-but-flags-crude-and-monsoon-risks-14006565.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260816053312_Ankit_Tikmany.jpg",
+      "publishedAt": "2026-08-16T06:02:39Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Man smashes Smethwick petrol station chip",
+      "description": "Adrian-Costinel Rotaru said he'd been using Texaco Garage in Smethwick for around 16 years prior to the incident on November 15, 2025",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/man-smashes-smethwick-petrol-station-34446711",
+      "image": "https://i2-prod.birminghammail.co.uk/article34446710.ece/ALTERNATES/s1200d/0_KA_BEM_280626_courtjpeg.jpg",
+      "publishedAt": "2026-08-16T05:24:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Geopolitical developments, crude oil major driving factors for market movement this week: Analysts",
+      "description": "Indian equities are likely to remain volatile this week as the Strait of Hormuz crisis, US-Iran tensions and crude oil prices take centre stage, while investors await the US Fed\u2019s July meeting minutes for clues on interest rates.",
+      "url": "https://www.outlookbusiness.com/news/geopolitical-developments-crude-oil-major-driving-factors-for-market-movement-this-week-analysts",
+      "image": "https://media.assettype.com/outlookbusiness/2025-06-12/hsgrrjbw/ChatGPT-Image-Jun-12-2025-043214-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-16T05:00:23Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "Geopolitical developments, crude oil major driving factors for market movement this week: Analysts",
+      "description": "Analysts predict market movements this week will hinge on crude oil prices and geopolitical tensions, especially in the US-Iran context.",
+      "url": "https://www.thehindubusinessline.com/markets/geopolitical-developments-crude-oil-major-driving-factors-for-market-movement-this-week-analysts/article71352010.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/7wk36r/article66304040.ece/alternates/LANDSCAPE_1200/IMG_PO25_stock_market_2_1_2AALTEPA.jpg",
+      "publishedAt": "2026-08-16T04:51:05Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-16-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549445-2026-08-16",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a813694e95a5-in-other-major-cities--including-bengaluru--hyderabad-and-kolkata--petrol-prices-remain-above-110-p-160327595-16x9.png",
+      "publishedAt": "2026-08-16T04:05:50Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
+      "description": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-aug-16-latest-fuel-rates-in-delhi-mumbai-bengaluru-amid-us-iran-deadlock-on-hormuz-11786843963540.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/logo/INDIA-FUEL-ETHANOL-0_1786847167100_1786847180614_566c6375-a97f-4434-b642-61228def6e94.JPG",
+      "publishedAt": "2026-08-16T03:05:43Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "US-Iran war to crude oil prices: Top five triggers that may dictate the Indian stock market this week",
+      "description": "Indian stock market: For the week, the Sensex fell 0.62% to 78,009.25, while the Nifty declined 0.83% to 24,366. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for this week.",
+      "url": "https://www.livemint.com/market/stock-market-news/usiran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786846871492.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/Indian_stock_market_1786848791034_1786848791304_751f7b8b-24af-41fe-9e37-f6e4130be78c.jpg",
+      "publishedAt": "2026-08-16T02:53:35Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+      "description": "Riders say the switch is helping them cut fuel and maintenance costs.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/E-bike-used-for-commercial-rides-in-Gombe-1786772372.jpg?resize=1200%2C675",
+      "publishedAt": "2026-08-16T01:43:57Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "Has India ever faced bankruptcy? How gold & reforms saved the economy during 1991 crisis",
+      "description": "The crisis peaked in 1991, when a combination of dwindling foreign exchange reserves, rising oil prices, external debt, political instability and falling investor confidence pushed the economy to the brink.",
+      "url": "https://www.businesstoday.in/india/story/has-india-ever-faced-bankruptcy-how-gold-reforms-saved-the-economy-during-1991-crisis-549436-2026-08-16",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a808d433281c-the-new-government-led-by-prime-minister-p-v-narasimha-rao--with-manmohan-singh-as-finance-minister-150101578-16x9.jpg",
+      "publishedAt": "2026-08-16T01:30:05Z",
+      "source": {
+        "name": "Business Today"
       }
     },
     {
@@ -22,86 +102,6 @@
       "publishedAt": "2026-08-16T00:00:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Violent brawls erupt in Russian petrol queues over fuel shortages as Putin hides crisis",
-      "description": "RUSSIANS are pummelling each other at petrol pumps as the nation's fuel crisis deepens amid targeted Ukrainian strikes.\nWild footage shows two...",
-      "url": "https://www.thesun.co.uk/news/40071961/violent-brawls-erupt-russian-petrol/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/newspress-collage-cklwwkvf6-1786830016147.jpg?quality=90&strip=all&1786833631&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-08-15T21:52:50Z",
-      "source": {
-        "name": "The Sun"
-      }
-    },
-    {
-      "title": "Violent brawls erupt in Russian petrol queues over fuel shortages as Putin hides crisis",
-      "description": "RUSSIANS are pummelling each other at petrol pumps as the nation's fuel crisis deepens amid targeted Ukrainian strikes.\nWild footage shows two...",
-      "url": "https://www.the-sun.com/news/16848658/violent-brawls-erupt-russian-petrol/",
-      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/08/newspress-collage-cklwwkvf6-1786830016147.jpg?quality=90&strip=all&1786816439&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-08-15T21:52:50Z",
-      "source": {
-        "name": "The Sun U.S Edition"
-      }
-    },
-    {
-      "title": "EastEnders star Shane Richie and wife Christie 'divorce' after 19 years of marriage",
-      "description": "EastEnders star Shane Richie has reportedly divorced his wife of 19 years, Christine Goddard. The soap star then arrested days later following an argument at a petrol station in Essex.",
-      "url": "https://www.mirror.co.uk/3am/celebrity-news/eastenders-shane-richie-divorced-christine-37556587",
-      "image": "https://i2-prod.mirror.co.uk/article37556606.ece/ALTERNATES/s1200d/0_The-British-Soap-Awards-Manchester.jpg",
-      "publishedAt": "2026-08-15T21:49:14Z",
-      "source": {
-        "name": "The Mirror"
-      }
-    },
-    {
-      "title": "'I\u2019ll never apologize' - Trump brushes off Iran war's impact on oil prices",
-      "description": "Trump acknowledged that he's used the U.S. military \u201ca little bit more than I wanted to,\" while asserting anew that the U.S. operation against Iran is going well.",
-      "url": "https://fortune.com/2026/08/15/trump-iran-war-oil-prices-abraham-lincoln-aircraft-carriers-record-time-sea/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26226626090930-e1786822447473.jpg?resize=1200,600",
-      "publishedAt": "2026-08-15T19:41:48Z",
-      "source": {
-        "name": "Fortune"
-      }
-    },
-    {
-      "title": "Emission testing charges up: Two-wheelers Rs 80, diesel vehicles Rs 200",
-      "description": "Karnataka hikes PUCC emission test fees: two-wheelers Rs 80, autos Rs 80, petrol/CNG cars Rs 150, diesel vehicles Rs 200; new rules for testing centres.",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/emission-testing-charges-up-two-wheelers-rs-80-diesel-vehicles-rs-200/articleshow/133267146.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133267145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-15T18:34:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "DJ Vance outlines Washington\u2019s priorities in Iran conflict",
-      "description": "WASHINGTON: US Vice President JD Vance said that Washington\u2019s top priority amid its ongoing conflict with Iran is to keep oil and gas prices",
-      "url": "https://www.bolnews.com/world/dj-vance-outlines-washingtons-priorities-in-iran-conflict/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/FotoJet-96-converted-from-jpg.webp",
-      "publishedAt": "2026-08-15T18:28:58Z",
-      "source": {
-        "name": "BOL News"
-      }
-    },
-    {
-      "title": "Drivers hit with 1p per mile increase in August",
-      "description": "Drivers are paying 1p per mile more to use the roads this August after another increase to petrol fuel bills.",
-      "url": "https://www.express.co.uk/life-style/cars/2239075/driving-petrol-fuel-costs-mile",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7093539.jpg",
-      "publishedAt": "2026-08-15T18:16:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019",
-      "description": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war.",
-      "url": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a80a72f59a30fa5a9531572/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-15T17:57:39Z",
-      "source": {
-        "name": "Forbes"
       }
     }
   ]
