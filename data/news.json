@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-16T00:40:36+00:00",
+  "updated_at": "2026-08-16T06:21:55+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Government cuts windfall tax on petrol, diesel and aviation fuel",
-      "description": "The special duty on diesel exports has been cut to Rs 24 from Rs 25.5, on aviation fuel to Rs 19.5 from Rs 22 and on petrol to zero from Rs 3.5.",
-      "url": "https://scroll.in/latest/1095055/government-cuts-windfall-tax-on-petrol-diesel-and-aviation-fuel",
-      "image": "https://sc0.blr1.cdn.digitaloceanspaces.com/book/176552-jevjsboouz-1656674035.jpg",
-      "publishedAt": "2026-08-15T12:32:00Z",
+      "title": "Drivers hit with 1p per mile increase in August",
+      "description": "Drivers are paying 1p per mile more to use the roads this August after another increase to petrol fuel bills.",
+      "url": "https://www.express.co.uk/life-style/cars/2239075/driving-petrol-fuel-costs-mile",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7093539.jpg",
+      "publishedAt": "2026-08-15T18:16:00Z",
       "source": {
-        "name": "Scroll.in"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Centre cuts windfall tax on exports of petrol, diesel, ATF",
-      "description": "The Indian government has reduced the windfall gains tax on exports of petrol, diesel, and aviation turbine fuel (ATF) following its fortnightly review.",
-      "url": "https://www.financialexpress.com/policy/economy/centre-cuts-windfall-tax-on-exports-of-petrol-diesel-atf/4318607/",
-      "image": "https://images.financialexpressdigital.com/2026/08/crude-oil_20260326171956_20260330163503_20260401152641_20260415122631_20260422120734_20260426122938_20260427143213_20260507182838_20260710145056_20260724143828_20260815115254.jpg",
-      "publishedAt": "2026-08-15T11:55:00Z",
+      "title": "Iran Accuses Trump Of \u2018Fanciful Delusions,\u2019 Says Strait Of Hormuz \u2018Cannot Be Seized By Tweet\u2019",
+      "description": "Trump urged Americans on Friday to accept higher gasoline prices as a result of the war.",
+      "url": "https://www.forbes.com/sites/saradorn/2026/08/15/iran-tells-trump-accept-the-reality-he-cant-make-strait-of-hormuz-us-territory/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a80a72f59a30fa5a9531572/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-15T17:57:39Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Forbes"
       }
     },
     {
-      "title": "Government keeps petrol and diesel prices unchanged for three days",
-      "description": "The federal government has decided to maintain the existing prices of petrol and high-speed diesel for the next three days, keeping the rates unchanged until Monday.",
-      "url": "https://www.nation.com.pk/15-Aug-2026/government-keeps-petrol-diesel-prices-unchanged-three-days",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-08-15/government-keeps-petrol-diesel-prices-unchanged-three-days-1786794544-2082.jpg",
-      "publishedAt": "2026-08-15T11:49:10Z",
+      "title": "Iran fires back at Trump's threat to declare Hormuz a U.S. territory",
+      "description": "Iran asserts control over the Strait of Hormuz, rejecting US President Donald Trump's claims. Trump stated he would declare the strait US territory after defeating Iran. An unnamed White House official later clarified Trump was joking about the declaration. Attacks in the strait continue, impacting regional shipping and oil prices significantly. Iran and Oman are finalizing arrangements to jointly manage the waterway.",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-u-s-territory/articleshow/133266564.cms",
+      "image": "https://img.etimg.com/thumb/msid-133266622,width-1200,height-630,imgsize-137458,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-08-15T17:55:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Fuel protests threat looms again as petrol and diesel prices set to spike above \u20ac2 next month",
-      "description": "The average cost of a litre of diesel has jumped to \u20ac1.92 while petrol now sits at \u20ac1.84 - with diesel set to exceed \u20ac2 per litre from September as excise duty relief is phased out",
-      "url": "https://www.irishmirror.ie/news/irish-news/fuel-protests-threat-looms-again-37555321",
-      "image": "https://i2-prod.irishmirror.ie/article36999208.ece/ALTERNATES/s1200d/0_PA-84222488.jpg",
-      "publishedAt": "2026-08-15T11:03:15Z",
+      "title": "E20 mileage row: Govt says fuel alone cannot be blamed; cites driving, traffic, maintenance",
+      "description": "India Business News: NEW DELHI: The government on Saturday said E20 petrol alone cannot be blamed for changes in vehicle mileage, stressing that real-world fuel economy de.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/e20-mileage-row-govt-says-fuel-alone-cannot-be-blamed-cites-driving-traffic-maintenance/articleshow/133266020.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133266070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-15T17:06:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Iran stands firm on Hormuz as Trump asks Americans to brace for higher gas prices",
+      "description": "Iran told the United States to accept defeat as it asserted control over the Strait of Hormuz. The standoff has kept shipping severely disrupted, lifted oil prices and left diplomacy stalled.",
+      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-blockade-iran-us-conflict-trump-fuel-prices-2972200-2026-08-15",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/trump-strait-of-hormuz-deepens-150006276-16x9_0.jpg?VersionId=NUzdlhNOFyDBDlRg4BEnvKDz6.jDOzCG",
+      "publishedAt": "2026-08-15T17:05:22Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
+      "description": "\u201cThe Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,\u201d said Iran\u2019s Deputy Foreign Minister Kazem Gharibabadi.",
+      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
+      "image": "https://img.huffingtonpost.com/asset/6a809bc9230000861a7c96fc.jpeg?cache=EmE02ZxzXn&ops=1200_630",
+      "publishedAt": "2026-08-15T17:04:42Z",
+      "source": {
+        "name": "HuffPost"
+      }
+    },
+    {
+      "title": "Petrol cars will just be for the rich",
+      "description": "Are we headed for a world where petrol is only the fuel of the rich, powering their hypercars...",
+      "url": "https://www.canberratimes.com.au/story/9330952/petrol-cars-will-just-be-for-the-rich/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b7ffb385-deef-4737-972a-aa3ef9f068d3.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-08-15T17:00:00Z",
+      "source": {
+        "name": "The Canberra Times"
+      }
+    },
+    {
+      "title": "Trump warns Americans of higher gas prices as Iran standoff over Strait of Hormuz escalates",
+      "description": "US President Donald Trump has urged Americans to accept higher gasoline prices as the Iran conflict continues, while Tehran has rejected his threat to claim the Strait of Hormuz and said the waterway will open only under its command.",
+      "url": "https://www.moneycontrol.com/world/trump-warns-americans-of-higher-gas-prices-as-iran-standoff-over-strait-of-hormuz-escalates-article-14006506.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260808022535_Trump-crypto.jpg",
+      "publishedAt": "2026-08-15T16:53:00Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "E20 petrol not sole reason for lower mileage, Centre says",
+      "description": "The government clarified that vehicle mileage depends on many factors, not just fuel. Extensive testing confirms E20 petrol meets quality standards and is not contaminated. Motorists' concerns about fuel economy are being addressed by the ministry. Oil companies conducted inspections at numerous fuel stations nationwide. Real-world fuel consumption results from fuel, vehicle, and driving conditions.",
+      "url": "https://economictimes.indiatimes.com/news/india/e20-petrol-not-sole-reason-for-lower-mileage-centre-says/articleshow/133265865.cms",
+      "image": "https://img.etimg.com/thumb/msid-133265895,width-1200,height-630,imgsize-107866,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-15T16:46:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Multiple people were inside property during petrol bomb attack",
+      "description": "Police are investigating the incident at a residential premises in the early hours of Saturday",
+      "url": "https://www.irishmirror.ie/news/irish-news/multiple-people-were-inside-property-37555836",
+      "image": "https://i2-prod.irishmirror.ie/article35314903.ece/ALTERNATES/s1200d/0_Police.jpg",
+      "publishedAt": "2026-08-15T14:36:57Z",
       "source": {
         "name": "Irish Mirror"
-      }
-    },
-    {
-      "title": "UK\u2019s biggest EV battery gigafactory shelves expansion as Jaguar Land Rover talks stall",
-      "description": "Chinese-owned AESC has pushed back plans in sign of slowing transition from petrol and diesel to electric cars",
-      "url": "https://www.theguardian.com/business/2026/aug/15/uk-ev-battery-gigafactory-aesc-jaguar-land-rover-nissan",
-      "image": "https://i.guim.co.uk/img/media/1ebc842f555e9a252aa9f08271d730845eed33e1/881_0_4800_3840/master/4800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=835b915d20f1dda72e814f9896ea2167",
-      "publishedAt": "2026-08-15T11:00:54Z",
-      "source": {
-        "name": "The Guardian"
-      }
-    },
-    {
-      "title": "No progress on peace at the Strait of Hormuz; oil prices keep climbing again",
-      "description": "US says it can maintain naval blockade on Iran indefinitely as Strait of Hormuz shipping traffic capped as US, Iran make rival claims",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/15/no-progress-on-peace-at-the-strait-of-hormuz-oil-prices-keep-climbing-again",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/15/4061199.jpg",
-      "publishedAt": "2026-08-15T10:16:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Inflation Pains: Trump's Promise Unfulfilled as Costs Rise",
-      "description": "Despite Donald Trump's promise to reduce inflation, grocery and gasoline prices continue to surge, creating challenges for Republicans ahead of the midterm elections. Polls indicate Democrats now have a slight edge over Republicans as voters express disillusionment with rising costs, impacting their enthusiasm for the elections.",
-      "url": "https://www.devdiscourse.com/article/politics/3964234-inflation-pains-trumps-promise-unfulfilled-as-costs-rise",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_09_2025_11_18_28_5778243.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-15T10:00:37Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "With gas prices high again, some Chicagoans reconsider travel",
-      "description": "Gas prices have surged since late February at the start of the war in Iran. Following a brief reprieve in June and July, gas prices in Illinois are climbing once again.",
-      "url": "https://www.chicagotribune.com/2026/08/15/chicago-gas-prices-travel-iran/",
-      "image": "https://www.chicagotribune.com/wp-content/uploads/2026/08/CTC-L-gas-prices002_265575941.jpg?w=5472&h=3648",
-      "publishedAt": "2026-08-15T10:00:14Z",
-      "source": {
-        "name": "Chicago Tribune"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12652481",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-11goodmorningnorthbaybct-5-paddlers-on-brandy-lake-chris-mayne.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-08-15T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Windfall tax on petrol exports cut to 0 after early August hike; diesel duty down \u20b91.5/litre, ATF by \u20b92.5/litre",
-      "description": "The Centre has slashed windfall gains tax on petrol, diesel and ATF exports starting today, weeks after hiking rates amid rising tensions due to the war in West Asia. Here's how much the prices change\u2026",
-      "url": "https://www.livemint.com/news/india/windfall-tax-export-cut-petrol-0-jet-fuel-hike-from-august-prices-change-diesel-duty-cut-1-5-atf-rate-down-2-5-per-litre-11786784148492.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/15/1600x900/logo/Hospital-administrators-said-they-have-been-unable_1786787226727_1786787226852_692437d3-994e-4c4d-9954-6725523ca493.jpg",
-      "publishedAt": "2026-08-15T09:49:28Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
