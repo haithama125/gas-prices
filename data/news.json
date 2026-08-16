@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-08-16T06:21:55+00:00",
+  "updated_at": "2026-08-16T12:18:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "This hidden energy indicator has climbed to about twice its normal level",
+      "description": "Discover why the 3-2-1 crack spread is hitting record highs, how refining bottlenecks and SPR releases distort oil prices, and what it means for India's economy.",
+      "url": "https://www.financialexpress.com/market/global-market-pulse/this-hidden-energy-indicator-has-climbed-to-about-twice-its-normal-level/4318670/",
+      "image": "https://images.financialexpressdigital.com/2026/08/crude-oil.jpg",
+      "publishedAt": "2026-08-16T00:00:00Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Choices aplenty for car buyers; petrol moves to slow lane as CNG, hybrids, EVs chip away at its share",
+      "description": "In major Indian cities, the popularity of petrol cars is waning as consumers turn to CNG, hybrid, and electric vehicles. This is largely influenced by the allure of lower operational costs and superior fuel efficiency. To keep pace with this transformation, automobile manufacturers are diversifying their offerings to include various powertrain types, signaling a significant shift.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/choices-aplenty-for-car-buyers-petrol-moves-to-slow-lane-as-cng-hybrids-evs-chip-away-at-its-share/articleshow/133267101.cms",
+      "image": "https://img.etimg.com/thumb/msid-133267128,width-1200,height-630,imgsize-332130,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-16T00:00:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Violent brawls erupt in Russian petrol queues over fuel shortages as Putin hides crisis",
+      "description": "RUSSIANS are pummelling each other at petrol pumps as the nation's fuel crisis deepens amid targeted Ukrainian strikes.\nWild footage shows two...",
+      "url": "https://www.thesun.co.uk/news/40071961/violent-brawls-erupt-russian-petrol/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/08/newspress-collage-cklwwkvf6-1786830016147.jpg?quality=90&strip=all&1786833631&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-08-15T21:52:50Z",
+      "source": {
+        "name": "The Sun"
+      }
+    },
+    {
+      "title": "Violent brawls erupt in Russian petrol queues over fuel shortages as Putin hides crisis",
+      "description": "RUSSIANS are pummelling each other at petrol pumps as the nation's fuel crisis deepens amid targeted Ukrainian strikes.\nWild footage shows two...",
+      "url": "https://www.the-sun.com/news/16848658/violent-brawls-erupt-russian-petrol/",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/08/newspress-collage-cklwwkvf6-1786830016147.jpg?quality=90&strip=all&1786816439&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-08-15T21:52:50Z",
+      "source": {
+        "name": "The Sun U.S Edition"
+      }
+    },
+    {
+      "title": "EastEnders star Shane Richie and wife Christie 'divorce' after 19 years of marriage",
+      "description": "EastEnders star Shane Richie has reportedly divorced his wife of 19 years, Christine Goddard. The soap star then arrested days later following an argument at a petrol station in Essex.",
+      "url": "https://www.mirror.co.uk/3am/celebrity-news/eastenders-shane-richie-divorced-christine-37556587",
+      "image": "https://i2-prod.mirror.co.uk/article37556606.ece/ALTERNATES/s1200d/0_The-British-Soap-Awards-Manchester.jpg",
+      "publishedAt": "2026-08-15T21:49:14Z",
+      "source": {
+        "name": "The Mirror"
+      }
+    },
+    {
+      "title": "'I\u2019ll never apologize' - Trump brushes off Iran war's impact on oil prices",
+      "description": "Trump acknowledged that he's used the U.S. military \u201ca little bit more than I wanted to,\" while asserting anew that the U.S. operation against Iran is going well.",
+      "url": "https://fortune.com/2026/08/15/trump-iran-war-oil-prices-abraham-lincoln-aircraft-carriers-record-time-sea/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/AP26226626090930-e1786822447473.jpg?resize=1200,600",
+      "publishedAt": "2026-08-15T19:41:48Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "Emission testing charges up: Two-wheelers Rs 80, diesel vehicles Rs 200",
+      "description": "Karnataka hikes PUCC emission test fees: two-wheelers Rs 80, autos Rs 80, petrol/CNG cars Rs 150, diesel vehicles Rs 200; new rules for testing centres.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/emission-testing-charges-up-two-wheelers-rs-80-diesel-vehicles-rs-200/articleshow/133267146.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133267145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-15T18:34:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "DJ Vance outlines Washington\u2019s priorities in Iran conflict",
+      "description": "WASHINGTON: US Vice President JD Vance said that Washington\u2019s top priority amid its ongoing conflict with Iran is to keep oil and gas prices",
+      "url": "https://www.bolnews.com/world/dj-vance-outlines-washingtons-priorities-in-iran-conflict/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/FotoJet-96-converted-from-jpg.webp",
+      "publishedAt": "2026-08-15T18:28:58Z",
+      "source": {
+        "name": "BOL News"
+      }
+    },
     {
       "title": "Drivers hit with 1p per mile increase in August",
       "description": "Drivers are paying 1p per mile more to use the roads this August after another increase to petrol fuel bills.",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-08-15T17:57:39Z",
       "source": {
         "name": "Forbes"
-      }
-    },
-    {
-      "title": "Iran fires back at Trump's threat to declare Hormuz a U.S. territory",
-      "description": "Iran asserts control over the Strait of Hormuz, rejecting US President Donald Trump's claims. Trump stated he would declare the strait US territory after defeating Iran. An unnamed White House official later clarified Trump was joking about the declaration. Attacks in the strait continue, impacting regional shipping and oil prices significantly. Iran and Oman are finalizing arrangements to jointly manage the waterway.",
-      "url": "https://economictimes.indiatimes.com/news/defence/iran-fires-back-at-trumps-threat-to-declare-hormuz-a-u-s-territory/articleshow/133266564.cms",
-      "image": "https://img.etimg.com/thumb/msid-133266622,width-1200,height-630,imgsize-137458,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-08-15T17:55:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "E20 mileage row: Govt says fuel alone cannot be blamed; cites driving, traffic, maintenance",
-      "description": "India Business News: NEW DELHI: The government on Saturday said E20 petrol alone cannot be blamed for changes in vehicle mileage, stressing that real-world fuel economy de.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/e20-mileage-row-govt-says-fuel-alone-cannot-be-blamed-cites-driving-traffic-maintenance/articleshow/133266020.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133266070,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-15T17:06:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Iran stands firm on Hormuz as Trump asks Americans to brace for higher gas prices",
-      "description": "Iran told the United States to accept defeat as it asserted control over the Strait of Hormuz. The standoff has kept shipping severely disrupted, lifted oil prices and left diplomacy stalled.",
-      "url": "https://www.indiatoday.in/world/story/strait-of-hormuz-blockade-iran-us-conflict-trump-fuel-prices-2972200-2026-08-15",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/trump-strait-of-hormuz-deepens-150006276-16x9_0.jpg?VersionId=NUzdlhNOFyDBDlRg4BEnvKDz6.jDOzCG",
-      "publishedAt": "2026-08-15T17:05:22Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Trump Tells Americans To Accept High Gas Prices As Iran Remains Defiant On Strait Of Hormuz",
-      "description": "\u201cThe Strait of Hormuz cannot be seized by a tweet or an aircraft carrier, by issuing an order or by delivering an election speech,\u201d said Iran\u2019s Deputy Foreign Minister Kazem Gharibabadi.",
-      "url": "https://www.huffpost.com/entry/trump-tells-americans-to-accept-high-gas-prices-as-iran-remains-defiant-on-strait-of-hormuz_n_6a8099aee4b05886dff51fac",
-      "image": "https://img.huffingtonpost.com/asset/6a809bc9230000861a7c96fc.jpeg?cache=EmE02ZxzXn&ops=1200_630",
-      "publishedAt": "2026-08-15T17:04:42Z",
-      "source": {
-        "name": "HuffPost"
-      }
-    },
-    {
-      "title": "Petrol cars will just be for the rich",
-      "description": "Are we headed for a world where petrol is only the fuel of the rich, powering their hypercars...",
-      "url": "https://www.canberratimes.com.au/story/9330952/petrol-cars-will-just-be-for-the-rich/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/b7ffb385-deef-4737-972a-aa3ef9f068d3.jpg/r0_4_1490_786_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-08-15T17:00:00Z",
-      "source": {
-        "name": "The Canberra Times"
-      }
-    },
-    {
-      "title": "Trump warns Americans of higher gas prices as Iran standoff over Strait of Hormuz escalates",
-      "description": "US President Donald Trump has urged Americans to accept higher gasoline prices as the Iran conflict continues, while Tehran has rejected his threat to claim the Strait of Hormuz and said the waterway will open only under its command.",
-      "url": "https://www.moneycontrol.com/world/trump-warns-americans-of-higher-gas-prices-as-iran-standoff-over-strait-of-hormuz-escalates-article-14006506.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260808022535_Trump-crypto.jpg",
-      "publishedAt": "2026-08-15T16:53:00Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "E20 petrol not sole reason for lower mileage, Centre says",
-      "description": "The government clarified that vehicle mileage depends on many factors, not just fuel. Extensive testing confirms E20 petrol meets quality standards and is not contaminated. Motorists' concerns about fuel economy are being addressed by the ministry. Oil companies conducted inspections at numerous fuel stations nationwide. Real-world fuel consumption results from fuel, vehicle, and driving conditions.",
-      "url": "https://economictimes.indiatimes.com/news/india/e20-petrol-not-sole-reason-for-lower-mileage-centre-says/articleshow/133265865.cms",
-      "image": "https://img.etimg.com/thumb/msid-133265895,width-1200,height-630,imgsize-107866,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-15T16:46:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Multiple people were inside property during petrol bomb attack",
-      "description": "Police are investigating the incident at a residential premises in the early hours of Saturday",
-      "url": "https://www.irishmirror.ie/news/irish-news/multiple-people-were-inside-property-37555836",
-      "image": "https://i2-prod.irishmirror.ie/article35314903.ece/ALTERNATES/s1200d/0_Police.jpg",
-      "publishedAt": "2026-08-15T14:36:57Z",
-      "source": {
-        "name": "Irish Mirror"
       }
     }
   ]
