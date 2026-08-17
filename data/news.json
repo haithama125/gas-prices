@@ -1,9 +1,29 @@
 {
-  "updated_at": "2026-08-17T06:33:22+00:00",
+  "updated_at": "2026-08-17T12:21:50+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Asian shares are mostly higher while US futures and oil prices hold steady",
+      "description": "Shares are mostly higher in Asia after U.S. stocks edged back from their all-time high following a weaker than expected report on the U.S. economy.",
+      "url": "https://www.breitbart.com/news/asian-shares-are-mostly-higher-while-us-futures-and-oil-prices-hold-steady/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/japan-financial-markets-38719-japan-financial-markets-person-walk-front-of-an-electronic-stock-640x335.jpg",
+      "publishedAt": "2026-08-16T23:19:15Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Govt approves electric auto conversion scheme",
+      "description": "Telangana cabinet approves 2026 scheme to convert or replace 18,766 petrol/diesel autos in Hyderabad CURE area with EVs, offering up to Rs 1.5 lakh subsidy.",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/govt-approves-electric-auto-conversion-scheme/articleshow/133281272.cms",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-08-16T18:42:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
     {
       "title": "Dalal Street Week Ahead: Strait of Hormuz crisis, oil prices, FOMC minutes, flash PMIs among 10 key factors to watch",
       "description": "In the week starting August 17, the market is expected to remain consolidative and range-bound, with the focus primarily on developments surrounding the Strait of Hormuz, the direction of oil prices, the FOMC minutes, US weekly jobs data, Chinese economic releases, and flash PMIs.",
@@ -82,26 +102,6 @@
       "publishedAt": "2026-08-16T10:00:00Z",
       "source": {
         "name": "BayToday"
-      }
-    },
-    {
-      "title": "Davao del Sur Logs Lowest Gas Prices in Davao Region",
-      "description": "Davao del Sur posted the lowest gasoline prices in Davao Region, while Davao Occidental recorded the highest fuel rates.",
-      "url": "https://www.sunstar.com.ph/davao/davao-del-sur-logs-lowest-prices-for-premium-regular-gasoline",
-      "image": "https://cf-images.assettype.com/sunstar%2F2026-07-21%2F19yiriqv%2Fbiz2.png?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-16T10:00:00Z",
-      "source": {
-        "name": "SunStar Philippines"
-      }
-    },
-    {
-      "title": "WATCH: Mercedes Car Catches Fire Near Petrol Pump In Pimpri-Chinchwad\u2019s Chikhali",
-      "description": "A luxury Mercedes car caught fire near an Indian Oil petrol pump on Shiv Road in Chikhali, Pimpri-Chinchwad, on Sunday, August 16. The incident took place during the wee hours of Sunday and caused concern as the vehicle caught fire close to a petrol pump",
-      "url": "https://www.freepressjournal.in/pune/watch-mercedes-car-catches-fire-near-petrol-pump-in-pimpri-chinchwads-chikhali",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-16/1do6v1rm/1000984533.jpg",
-      "publishedAt": "2026-08-16T09:56:30Z",
-      "source": {
-        "name": "Free Press Journal"
       }
     }
   ]
