@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-08-17T00:39:20+00:00",
+  "updated_at": "2026-08-17T06:33:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Dalal Street Week Ahead: Strait of Hormuz crisis, oil prices, FOMC minutes, flash PMIs among 10 key factors to watch",
+      "description": "In the week starting August 17, the market is expected to remain consolidative and range-bound, with the focus primarily on developments surrounding the Strait of Hormuz, the direction of oil prices, the FOMC minutes, US weekly jobs data, Chinese economic releases, and flash PMIs.",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-strait-of-hormuz-crisis-oil-prices-fomc-minutes-flash-pmis-among-10-key-factors-to-watch-14006963.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260609044242_volatile-1.jpeg",
+      "publishedAt": "2026-08-16T17:30:44Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Syd Te Rata gang insignia charge withdrawn over rugby league jersey",
+      "description": "Five months after gang member Syd Te Rata got his Mongrel Mob patch back from police, he was captured on CCTV at a Wellington petrol station wearing a rugby...",
+      "url": "https://www.nzherald.co.nz/nz/crime/syd-te-rata-gang-insignia-charge-withdrawn-over-rugby-league-jersey/UPJMZM2Z7JH6PLWRCWXGXPKITE/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/UCYTD6DULBGI5J3TIN2XHHEGWM.jpg?auth=31feac96bb3ef68cf30e570f6835bdd2578f8940dbaa2ebb6a5ee618cefe3c1f&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-08-16T17:00:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Drivers in flats with no driveway face paying 'three times more'",
+      "description": "He warned that some electric car drivers are paying as much as petrol vehicles due to high charging costs.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-flats-no-driveway-face-34431070",
+      "image": "https://i2-prod.birminghammail.co.uk/article34431098.ece/ALTERNATES/s1200d/1_cars3.jpg",
+      "publishedAt": "2026-08-16T16:59:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Interest rate dilemma for central banks as inflation rises but growth slows",
+      "description": "Inflation rates have been falling across the industrialised world, but fears that the Middle East war will raise oil prices means central banks are sitting on",
+      "url": "https://www.europesays.com/3197531/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/6418.jpg",
+      "publishedAt": "2026-08-16T14:57:27Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "SP President Akhilesh Yadav Targets BJP Over Border Security, Inflation, Fuel Prices And School Closures",
+      "description": "Samajwadi Party chief Akhilesh Yadav said India needed greater focus on border security than delimitation, while attacking the BJP government over inflation, fuel prices and education. Speaking in Lucknow, he questioned the country\u2019s territorial security, raised concerns over E20 petrol and fertiliser shortages, and alleged that 500 primary schools had been closed in Gorakhpur.",
+      "url": "https://www.freepressjournal.in/india/sp-president-akhilesh-yadav-targets-bjp-over-border-security-inflation-fuel-prices-and-school-closures",
+      "image": "https://media.assettype.com/freepressjournal/2019-07/3f70afbf-c509-448c-a006-55639bc881e5/Akhilesh_Yadav_.jpg",
+      "publishedAt": "2026-08-16T13:36:47Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
     {
       "title": "E20 petrol isn't the only factor affecting vehicle mileage: Centre",
       "description": "The government addressed concerns over ethanol-blended petrol, emphasizing that vehicle mileage is influenced by driving habits, maintenance, traffic conditions, and AC usage.",
@@ -52,56 +102,6 @@
       "publishedAt": "2026-08-16T09:56:30Z",
       "source": {
         "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "'Mileage depends on more than fuel': Govt allays E20 concerns; cites 'driving habits', 'AC usage' amid intense debate",
-      "description": "The government has sought to allay concerns over E20 petrol and mileage, saying fuel economy depends on driving, traffic, maintenance, tyre pressure and AC use. It said E20 has undergone extensive testing and validation.",
-      "url": "https://www.livemint.com/news/india/mileage-depends-on-more-than-fuel-govt-allays-e20-concerns-cites-driving-habits-ac-usage-amid-intense-debate-11786871863116.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/logo/Ethanol_petrol_vehicles_1786872301099_1786872301319_42323139-bc86-4273-a1d7-ee678aafcb36.jpg",
-      "publishedAt": "2026-08-16T09:25:48Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Former pubs and petrol stations - how are Middlesbrough's 'blight sites' doing six years on?",
-      "description": "A Middlesbrough Council spokesman said: 'Abandoned and derelict buildings can adversely affect a whole area, and all too often attract crime and antisocial behaviour'",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/middlesbrough-council-eyesore-hit-list-34463667",
-      "image": "https://i2-prod.gazettelive.co.uk/article34466294.ece/ALTERNATES/s1200d/0_middlesbrough-sites-social.jpg",
-      "publishedAt": "2026-08-16T09:18:34Z",
-      "source": {
-        "name": "Teessidelive"
-      }
-    },
-    {
-      "title": "Daily Voice: Jainam CIO sees better Q2 margins and broader growth, but flags crude and monsoon risks",
-      "description": "Ankit Tikmany of Jainam believes the market could hit a new record high after Diwali, provided crude oil prices come off, banks get their margins back on track, and foreign money starts flowing in.",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-jainam-cio-sees-better-q2-margins-and-broader-growth-but-flags-crude-and-monsoon-risks-14006565.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260816053312_Ankit_Tikmany.jpg",
-      "publishedAt": "2026-08-16T06:02:39Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Man smashes Smethwick petrol station chip",
-      "description": "Adrian-Costinel Rotaru said he'd been using Texaco Garage in Smethwick for around 16 years prior to the incident on November 15, 2025",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/man-smashes-smethwick-petrol-station-34446711",
-      "image": "https://i2-prod.birminghammail.co.uk/article34446710.ece/ALTERNATES/s1200d/0_KA_BEM_280626_courtjpeg.jpg",
-      "publishedAt": "2026-08-16T05:24:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Geopolitical developments, crude oil major driving factors for market movement this week: Analysts",
-      "description": "Indian equities are likely to remain volatile this week as the Strait of Hormuz crisis, US-Iran tensions and crude oil prices take centre stage, while investors await the US Fed\u2019s July meeting minutes for clues on interest rates.",
-      "url": "https://www.outlookbusiness.com/news/geopolitical-developments-crude-oil-major-driving-factors-for-market-movement-this-week-analysts",
-      "image": "https://media.assettype.com/outlookbusiness/2025-06-12/hsgrrjbw/ChatGPT-Image-Jun-12-2025-043214-PM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-16T05:00:23Z",
-      "source": {
-        "name": "Outlook Business"
       }
     }
   ]
