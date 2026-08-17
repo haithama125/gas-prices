@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-08-16T18:13:47+00:00",
+  "updated_at": "2026-08-17T00:39:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "E20 petrol isn't the only factor affecting vehicle mileage: Centre",
+      "description": "The government addressed concerns over ethanol-blended petrol, emphasizing that vehicle mileage is influenced by driving habits, maintenance, traffic conditions, and AC usage.",
+      "url": "https://www.newsbytesapp.com/news/auto/factors-affecting-vehicle-mileage-apart-from-fuel-petroleum-ministry/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l271_41431786876783.jpg",
+      "publishedAt": "2026-08-16T12:10:19Z",
+      "source": {
+        "name": "NewsBytes"
+      }
+    },
+    {
+      "title": "Trump Asks Voters To Accept $4 Gas Prices for War They\u2019re Not Behind",
+      "description": "Trump said he\u2019ll \u201cnever apologize\u201d for higher gas prices, as he did \u201cthe right thing\u201d striking Iran. Americans aren\u2019t so sure.",
+      "url": "https://www.newsweek.com/trump-asks-voters-to-accept-4-gas-prices-for-war-theyre-not-behind-12328595",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-2290507402.jpg?w=1200&crop=1",
+      "publishedAt": "2026-08-16T12:06:55Z",
+      "source": {
+        "name": "Newsweek"
+      }
+    },
+    {
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12652486",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-11goodmorningnorthbaybct-6-unset-on-lake-nosbonsing-tammy-labelle-martel.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-16T10:00:00Z",
+      "source": {
+        "name": "BayToday"
+      }
+    },
+    {
+      "title": "Davao del Sur Logs Lowest Gas Prices in Davao Region",
+      "description": "Davao del Sur posted the lowest gasoline prices in Davao Region, while Davao Occidental recorded the highest fuel rates.",
+      "url": "https://www.sunstar.com.ph/davao/davao-del-sur-logs-lowest-prices-for-premium-regular-gasoline",
+      "image": "https://cf-images.assettype.com/sunstar%2F2026-07-21%2F19yiriqv%2Fbiz2.png?rect=0%2C28%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-16T10:00:00Z",
+      "source": {
+        "name": "SunStar Philippines"
+      }
+    },
+    {
+      "title": "WATCH: Mercedes Car Catches Fire Near Petrol Pump In Pimpri-Chinchwad\u2019s Chikhali",
+      "description": "A luxury Mercedes car caught fire near an Indian Oil petrol pump on Shiv Road in Chikhali, Pimpri-Chinchwad, on Sunday, August 16. The incident took place during the wee hours of Sunday and caused concern as the vehicle caught fire close to a petrol pump",
+      "url": "https://www.freepressjournal.in/pune/watch-mercedes-car-catches-fire-near-petrol-pump-in-pimpri-chinchwads-chikhali",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-16/1do6v1rm/1000984533.jpg",
+      "publishedAt": "2026-08-16T09:56:30Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "'Mileage depends on more than fuel': Govt allays E20 concerns; cites 'driving habits', 'AC usage' amid intense debate",
+      "description": "The government has sought to allay concerns over E20 petrol and mileage, saying fuel economy depends on driving, traffic, maintenance, tyre pressure and AC use. It said E20 has undergone extensive testing and validation.",
+      "url": "https://www.livemint.com/news/india/mileage-depends-on-more-than-fuel-govt-allays-e20-concerns-cites-driving-habits-ac-usage-amid-intense-debate-11786871863116.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/logo/Ethanol_petrol_vehicles_1786872301099_1786872301319_42323139-bc86-4273-a1d7-ee678aafcb36.jpg",
+      "publishedAt": "2026-08-16T09:25:48Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Former pubs and petrol stations - how are Middlesbrough's 'blight sites' doing six years on?",
+      "description": "A Middlesbrough Council spokesman said: 'Abandoned and derelict buildings can adversely affect a whole area, and all too often attract crime and antisocial behaviour'",
+      "url": "https://www.gazettelive.co.uk/news/teesside-news/middlesbrough-council-eyesore-hit-list-34463667",
+      "image": "https://i2-prod.gazettelive.co.uk/article34466294.ece/ALTERNATES/s1200d/0_middlesbrough-sites-social.jpg",
+      "publishedAt": "2026-08-16T09:18:34Z",
+      "source": {
+        "name": "Teessidelive"
+      }
+    },
     {
       "title": "Daily Voice: Jainam CIO sees better Q2 margins and broader growth, but flags crude and monsoon risks",
       "description": "Ankit Tikmany of Jainam believes the market could hit a new record high after Diwali, provided crude oil prices come off, banks get their margins back on track, and foreign money starts flowing in.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-08-16T05:00:23Z",
       "source": {
         "name": "Outlook Business"
-      }
-    },
-    {
-      "title": "Geopolitical developments, crude oil major driving factors for market movement this week: Analysts",
-      "description": "Analysts predict market movements this week will hinge on crude oil prices and geopolitical tensions, especially in the US-Iran context.",
-      "url": "https://www.thehindubusinessline.com/markets/geopolitical-developments-crude-oil-major-driving-factors-for-market-movement-this-week-analysts/article71352010.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/7wk36r/article66304040.ece/alternates/LANDSCAPE_1200/IMG_PO25_stock_market_2_1_2AALTEPA.jpg",
-      "publishedAt": "2026-08-16T04:51:05Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today, August 16 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "When the rupee weakens against the dollar, the cost of procuring crude rises, which can feed directly into higher retail fuel prices.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-16-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-549445-2026-08-16",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a813694e95a5-in-other-major-cities--including-bengaluru--hyderabad-and-kolkata--petrol-prices-remain-above-110-p-160327595-16x9.png",
-      "publishedAt": "2026-08-16T04:05:50Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Petrol and diesel prices today - Aug 16: Latest fuel rates in Delhi, Mumbai, Bengaluru amid US-Iran deadlock on Hormuz",
-      "description": "Petrol and diesel prices today, 16 August: Fuel rates remained stable across major Indian cities on Sunday. Check rates in Delhi, Kolkata, Mumbai, Chennai, Bengaluru and other cities.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-aug-16-latest-fuel-rates-in-delhi-mumbai-bengaluru-amid-us-iran-deadlock-on-hormuz-11786843963540.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/logo/INDIA-FUEL-ETHANOL-0_1786847167100_1786847180614_566c6375-a97f-4434-b642-61228def6e94.JPG",
-      "publishedAt": "2026-08-16T03:05:43Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "US-Iran war to crude oil prices: Top five triggers that may dictate the Indian stock market this week",
-      "description": "Indian stock market: For the week, the Sensex fell 0.62% to 78,009.25, while the Nifty declined 0.83% to 24,366. While some of the global triggers continue this week, read on to know what are the fresh factors to watch out for this week.",
-      "url": "https://www.livemint.com/market/stock-market-news/usiran-war-to-crude-oil-prices-top-five-triggers-that-may-dictate-the-indian-stock-market-this-week-11786846871492.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/16/1600x900/Indian_stock_market_1786848791034_1786848791304_751f7b8b-24af-41fe-9e37-f6e4130be78c.jpg",
-      "publishedAt": "2026-08-16T02:53:35Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
-      "description": "Riders say the switch is helping them cut fuel and maintenance costs.",
-      "url": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/E-bike-used-for-commercial-rides-in-Gombe-1786772372.jpg?resize=1200%2C675",
-      "publishedAt": "2026-08-16T01:43:57Z",
-      "source": {
-        "name": "Al Jazeera"
-      }
-    },
-    {
-      "title": "Has India ever faced bankruptcy? How gold & reforms saved the economy during 1991 crisis",
-      "description": "The crisis peaked in 1991, when a combination of dwindling foreign exchange reserves, rising oil prices, external debt, political instability and falling investor confidence pushed the economy to the brink.",
-      "url": "https://www.businesstoday.in/india/story/has-india-ever-faced-bankruptcy-how-gold-reforms-saved-the-economy-during-1991-crisis-549436-2026-08-16",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a808d433281c-the-new-government-led-by-prime-minister-p-v-narasimha-rao--with-manmohan-singh-as-finance-minister-150101578-16x9.jpg",
-      "publishedAt": "2026-08-16T01:30:05Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Choices aplenty for car buyers; petrol moves to slow lane as CNG, hybrids, EVs chip away at its share",
-      "description": "In major Indian cities, the popularity of petrol cars is waning as consumers turn to CNG, hybrid, and electric vehicles. This is largely influenced by the allure of lower operational costs and superior fuel efficiency. To keep pace with this transformation, automobile manufacturers are diversifying their offerings to include various powertrain types, signaling a significant shift.",
-      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/choices-aplenty-for-car-buyers-petrol-moves-to-slow-lane-as-cng-hybrids-evs-chip-away-at-its-share/articleshow/133267101.cms",
-      "image": "https://img.etimg.com/thumb/msid-133267128,width-1200,height-630,imgsize-332130,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-16T00:00:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
