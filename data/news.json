@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-18T12:23:52+00:00",
+  "updated_at": "2026-08-18T18:21:57+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil: 2.5% surge with Brent above $90, US",
-      "description": "Escalating tensions between the US and Iran and the near-paralysis of shipping through the Strait of Hormuz are intensifying concerns over supply, pushing oil prices higher",
-      "url": "https://en.protothema.gr/2026/08/18/oil-2-5-surge-with-brent-above-90-us-iran-standoff-fuels-100-scenarios/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.51.20-AM.png",
-      "publishedAt": "2026-08-17T23:52:05Z",
+      "title": "Rupee falls 7 paise to 95.68 against US dollar in early trade",
+      "description": "In early trading, the rupee slipped by seven paise, settling at 95.68 against the US dollar. Factors such as soaring crude oil prices and heightened demand for dollars pressured the currency. Forex analysts noted that Brent crude's price hovering around USD 91 per barrel has led to a surge in dollar demand linked to oil.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-7-paise-to-95-68-against-us-dollar-in-early-trade/articleshow/133313508.cms",
+      "image": "https://img.etimg.com/thumb/msid-133313525,width-1200,height-630,imgsize-11168,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-18T06:20:00Z",
       "source": {
-        "name": "Proto Thema"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "What\u2019s likely to move the market",
-      "description": "The Dow Industrials dropped more than 270 points on Monday as oil prices rose and Treasury yields climbed. The three major averages posted back-to-back losses.",
-      "url": "https://www.cnbc.com/2026/08/17/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108305557-1778590911098-gettyimages-2267652248-260318_hd_signs_147.jpeg?v=1779125458&w=1920&h=1080",
-      "publishedAt": "2026-08-17T23:48:03Z",
+      "title": "Stock markets decline in early trade as crude oil jumps to USD 91 per barrel",
+      "description": "Market benchmark indices Sensex and Nifty declined in early trade on Tuesday as elevated crude oil prices and rising tensions in West Asia weighed heavily on investors\u2019 sentiment.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-decline-in-early-trade-as-crude-oil-jumps-to-usd-91-per-barrel/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ4ZDFmM2MwLTlhY2MtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-18T06:19:58Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Indian bonds wobble on oil strain, RBI swap pullback",
+      "description": "On Tuesday morning, Indian government bonds faced a downturn as oil prices spiked beyond ninety dollars. Concerns escalated after the central bank prematurely ended a diaspora deposit scheme, leading to uncertainty in the market. This pullback in liquidity support has rendered bonds susceptible to changes in oil prices and international rates. The five-year note saw a significant yield rise recently.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms",
+      "image": "https://img.etimg.com/thumb/msid-133313483,width-1200,height-630,imgsize-22206,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-18T06:17:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Trump's approval rating sinks to presidency low of 33% as Iran war drags on",
+      "description": "Poll finds just 1 in 5 Americans think conflict has been worth it, while 80% expect prolonged US involvement, as war and high gas prices weigh on voters",
+      "url": "https://www.timesofisrael.com/trumps-approval-rating-sinks-to-presidency-low-of-33-as-iran-war-drags-on/",
+      "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26228785097406.jpg",
+      "publishedAt": "2026-08-18T06:13:18Z",
+      "source": {
+        "name": "The Times of Israel"
+      }
+    },
+    {
+      "title": "Hormuz Tensions: Reshaping Global Oil Trade",
+      "description": "The ongoing conflict between the U.S. and Iran is reshaping the global oil market, with disruptions in the Strait of Hormuz leading to stabilized oil prices around $90 a barrel. Diplomatic efforts have stalled, causing significant economic strain and altering trade routes, potentially impacting oil prices into the next year.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3964881-hormuz-tensions-reshaping-global-oil-trade",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_14_55_30_6569269.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-18T06:00:49Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "CNBC Daily Open: Higher oil, higher yields, lower volatility",
+      "description": "A jump in oil prices sends jitters through stock and bond markets, keeping investors on edge as the ceasefire between the U.S. and Iran expires.",
+      "url": "https://www.cnbc.com/2026/08/18/daily-open-oil-yields-volatility-iran-war.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108331430-1783431079164-gettyimages-1334559326-oilfields_northdakota1.jpeg?v=1783431105&w=1920&h=1080",
+      "publishedAt": "2026-08-18T06:00:00Z",
       "source": {
         "name": "CNBC"
       }
     },
     {
-      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
-      "description": "Production growth is slowing, with the EIA expecting output to rise just 200,000 bpd in 2026.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_6irzqbnowy.jpg",
-      "publishedAt": "2026-08-17T23:00:00Z",
+      "title": "Oil climbs as fading peace deal hopes raise supply risks",
+      "description": "Oil prices rose today as prospects receded for a deal to end the Middle East war, with Iran saying it would adopt a more offensive stance and the United States ruling out extension of a ceasefire deal, heightening worries about energy supply.",
+      "url": "https://www.rte.ie/news/business/2026/0818/1588309-oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/",
+      "image": "https://www.rte.ie/images/0024a746-1600.jpg",
+      "publishedAt": "2026-08-18T05:56:20Z",
       "source": {
-        "name": "OilPrice"
+        "name": "RTE.ie"
       }
     },
     {
-      "title": "US stocks declined with headwinds from higher oil prices and yields amid geopolitical uncertainty, while Trump threatened to bomb US ally Oman - Newsquawk Daily Asia-Pac Market Open",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/markets/us-stocks-declined-headwinds-higher-oil-prices-and-yields-amid-geopolitical-uncertainty",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_10.png?itok=viq-qD3M",
-      "publishedAt": "2026-08-17T21:49:46Z",
+      "title": "Brent oil crosses $91 as Trump rejects Iran MoU extension",
+      "description": "Oil prices surged as President Trump rejected extending Iran peace talks after the MoU expired, escalating US-Iran tensions and impacting Strait of Hormuz shipping amid threats to Oman.",
+      "url": "https://www.financialexpress.com/world-news/brent-oil-crosses-91-as-trump-rejects-iran-mou-extension/4320073/",
+      "image": "https://images.financialexpressdigital.com/2026/08/trump-iran-war-oil-price.jpg",
+      "publishedAt": "2026-08-18T05:55:09Z",
       "source": {
-        "name": "ZeroHedge"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Alberta again not committing to gas tax cut following Poilievre appeal for federal fuel break",
-      "description": "The province says it will determine the best way to ensure relief is being delivered directly to Albertans should oil prices remain high",
-      "url": "https://calgaryherald.com/news/politics/alberta-fuel-tax-cut-poilievre-federal-fuel-break/wcm/6656e8e1-3212-49e9-859d-9511865cde8c",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/20260406DB009.EJ_.jpg",
-      "publishedAt": "2026-08-17T21:49:24Z",
+      "title": "Oil prices rise as U.S.-Iran ceasefire hopes fade",
+      "description": "NEW YORK: Oil prices rose Tuesday as hopes for a lasting U.S.-Iran ceasefire weakened and shipping through the Strait of Hormuz remained sharply below normal, raising fresh concerns about global energy supplies.",
+      "url": "https://www.bolnews.com/business/oil-prices-rise-as-u-s-iran-ceasefire-hopes-fade/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/Oil-prices-3.webp",
+      "publishedAt": "2026-08-18T05:51:47Z",
       "source": {
-        "name": "Calgary Herald"
+        "name": "BOL News"
       }
     },
     {
-      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
-      "description": "The Dow Jones Industrial Average fell 272.63 points, or 0.51 per cent, while the S&P 500 lost 40.70 points, or 0.52 per cent, to 7,745.06. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6b4b0431ffab8ac865ce0802029f567ab8fb29ceeb59397f1b939c6c76689d3c",
-      "publishedAt": "2026-08-17T21:40:13Z",
+      "title": "Oil prices cross $91 as US-Iran ceasefire ends",
+      "description": "The expiration of the US-Iran truce has driven oil prices higher and government bond yields upward, as fears of renewed conflict and energy supply disruptions unsettle investors.",
+      "url": "https://www.newsbytesapp.com/news/business/oil-prices-cross-91-as-us-iran-ceasefire-ends/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l142_20441787026191.jpg",
+      "publishedAt": "2026-08-18T05:47:29Z",
       "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "Twin Cities gas prices hit $4/gallon, up 16 cents in one week",
-      "description": "Drivers across the Twin Cities are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
-      "url": "https://www.fox9.com/news/twin-cities-gas-prices-hit-4-gallon-up-16-cents-one-week",
-      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-17T21:13:16Z",
-      "source": {
-        "name": "FOX 9"
-      }
-    },
-    {
-      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
-      "description": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/06/Stock-TrumpSternScowl-01-shutt.jpg",
-      "publishedAt": "2026-08-17T21:02:17Z",
-      "source": {
-        "name": "Investor's Business Daily"
-      }
-    },
-    {
-      "title": "\"Like the idea of declaring Strait of Hormuz US territory\": Trump says Washington has \"total control\" with naval blockade",
-      "description": "Speaking to reporters, Trump emphasised the effectiveness of the US naval blockade and stressed that oil prices are coming down and the Strait of Hormuz is open. He added that Iran is in big trouble, noting, \"they have 300% inflation, the country's a mess, and their military is totally defeated.\"",
-      "url": "https://www.aninews.in/news/world/us/like-the-idea-of-declaring-strait-of-hormuz-us-territory-trump-says-washington-has-total-control-with-naval-blockade20260818021433/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817204422-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-17T20:44:33Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "This is how much gas prices are up in just one week in Northeast Ohio",
-      "description": "AAA attributes the surge in gas prices to the uncertainty along the Strait of Hormuz",
-      "url": "https://www.cleveland.com/news/2026/08/this-is-how-much-gas-prices-are-up-in-just-one-week-in-northeast-ohio.html",
-      "image": "https://www.cleveland.com/resizer/v2/OJ6OAMPSKNANVK6Z64FLTK2MWU.jpg?auth=2bf154add139f41c17c49929d063f70fd43391ab1e99dc0353f47bfbe1b51b7f&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-17T20:38:22Z",
-      "source": {
-        "name": "cleveland.com"
+        "name": "NewsBytes"
       }
     }
   ]
