@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-18T06:25:01+00:00",
+  "updated_at": "2026-08-18T12:23:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Man found dead outside Asda petrol station in Bradford as police launch probe",
-      "description": "A man in his 40s was found dead after West Yorkshire Police were called to the Asda petrol station on Rooley Lane in Bradford this morning",
-      "url": "https://www.mirror.co.uk/news/uk-news/asda-bradford-man-dead-police-37562136",
-      "image": "https://i2-prod.mirror.co.uk/article37562159.ece/ALTERNATES/s1200d/2_Asda-petrol-station-death-after-concern-for-welfare-police-statement-in-full.jpg",
-      "publishedAt": "2026-08-17T18:11:56Z",
+      "title": "Oil: 2.5% surge with Brent above $90, US",
+      "description": "Escalating tensions between the US and Iran and the near-paralysis of shipping through the Strait of Hormuz are intensifying concerns over supply, pushing oil prices higher",
+      "url": "https://en.protothema.gr/2026/08/18/oil-2-5-surge-with-brent-above-90-us-iran-standoff-fuels-100-scenarios/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/Screenshot-2026-08-18-at-2.51.20-AM.png",
+      "publishedAt": "2026-08-17T23:52:05Z",
       "source": {
-        "name": "The Mirror"
+        "name": "Proto Thema"
       }
     },
     {
-      "title": "US stocks dip as rising oil prices, yields offset chip gains",
-      "description": "The S&P 500 Index was down 0.3% at 1:15 p.m. in New York while the technology-heavy Nasdaq 100 Index erased an earlier advance to trade 0.1% lower, even as semiconductor manufacturers including Intel Corp. and Micron Technology, Inc. climbed.",
-      "url": "https://www.moneycontrol.com/news/business/us-stocks-dip-as-rising-oil-prices-yields-offset-chip-gains-14008128.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814013230_japan-stocks.jpg",
-      "publishedAt": "2026-08-17T18:09:59Z",
+      "title": "What\u2019s likely to move the market",
+      "description": "The Dow Industrials dropped more than 270 points on Monday as oil prices rose and Treasury yields climbed. The three major averages posted back-to-back losses.",
+      "url": "https://www.cnbc.com/2026/08/17/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108305557-1778590911098-gettyimages-2267652248-260318_hd_signs_147.jpeg?v=1779125458&w=1920&h=1080",
+      "publishedAt": "2026-08-17T23:48:03Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "CNBC"
       }
     },
     {
-      "title": "US stocks edge back from their record as oil prices rise",
-      "description": "U.S. stocks are edging further from their record heights",
-      "url": "https://www.barchart.com/story/news/3879602/us-stocks-edge-back-from-their-record-as-oil-prices-rise",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/d0974a85d6854cd0bcf27b4f6364fad3/d0974a85d6854cd0bcf27b4f6364fad3_main_japan_financial_markets_3583_.jpg",
-      "publishedAt": "2026-08-17T18:09:03Z",
+      "title": "U.S. Shale Majors Cut Spending Despite Higher Oil Prices",
+      "description": "Production growth is slowing, with the EIA expecting output to rise just 200,000 bpd in 2026.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Majors-Cut-Spending-Despite-Higher-Oil-Prices.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-17_6irzqbnowy.jpg",
+      "publishedAt": "2026-08-17T23:00:00Z",
       "source": {
-        "name": "Barchart"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Market Jitters: Stocks Mixed, Dollar Declines amidst Economic Data and Iran Tensions",
-      "description": "U.S. stocks exhibited a mixed performance as the dollar dropped to its lowest since June following weak economic data. Treasury yields hit highs, partly due to AI-related debts. Tensions over Iran's war impacted markets, while traders adjusted Fed rate expectations. Oil prices rose amid ongoing geopolitical conflicts.",
-      "url": "https://www.devdiscourse.com/article/business/3964708-market-jitters-stocks-mixed-dollar-declines-amidst-economic-data-and-iran-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_09_34_26_9083502.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-17T17:44:51Z",
+      "title": "US stocks declined with headwinds from higher oil prices and yields amid geopolitical uncertainty, while Trump threatened to bomb US ally Oman - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-declined-headwinds-higher-oil-prices-and-yields-amid-geopolitical-uncertainty",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_10.png?itok=viq-qD3M",
+      "publishedAt": "2026-08-17T21:49:46Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "No fuel for vehicles without valid registration plates in Rajkot",
-      "description": "RAJKOT: Rajkot City Police have issued a 60-day order prohibiting petrol pumps, CNG stations, and diesel stations within the city police commissionera.",
-      "url": "https://timesofindia.indiatimes.com/city/surat/no-fuel-for-vehicles-without-valid-registration-plates-in-rajkot/articleshow/133301506.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133301662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-17T16:24:00Z",
+      "title": "Alberta again not committing to gas tax cut following Poilievre appeal for federal fuel break",
+      "description": "The province says it will determine the best way to ensure relief is being delivered directly to Albertans should oil prices remain high",
+      "url": "https://calgaryherald.com/news/politics/alberta-fuel-tax-cut-poilievre-federal-fuel-break/wcm/6656e8e1-3212-49e9-859d-9511865cde8c",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/20260406DB009.EJ_.jpg",
+      "publishedAt": "2026-08-17T21:49:24Z",
       "source": {
-        "name": "Times of India"
+        "name": "Calgary Herald"
       }
     },
     {
-      "title": "Bitcoin Pushes Past $64,000 As Crypto Short Liquidations Near $140M",
-      "description": "Bitcoin sees further relief with a push past $64,000 while oil prices shake of threats of military action on Oman by US president Donald Trump.",
-      "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
-      "publishedAt": "2026-08-17T16:16:40Z",
+      "title": "Wall Street indexes slip as oil prices rise, retail results awaited",
+      "description": "The Dow Jones Industrial Average fell 272.63 points, or 0.51 per cent, while the S&P 500 lost 40.70 points, or 0.52 per cent, to 7,745.06. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-indexes-slip-as-oil-prices-rise-retail-results-awaited",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6b4b0431ffab8ac865ce0802029f567ab8fb29ceeb59397f1b939c6c76689d3c",
+      "publishedAt": "2026-08-17T21:40:13Z",
       "source": {
-        "name": "Cointelegraph"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Remolona: Inflation pressures to persist, prices to slowly ease",
-      "description": "THE Bangko Sentral ng Pilipinas (BSP) expects inflation to gradually ease over the medium term but remain above the 3-percent target through 2027 amid persistent risks from global oil prices and other supply shocks.",
-      "url": "https://www.manilatimes.net/2026/08/18/business/top-business/remolona-inflation-pressures-to-persist-prices-to-slowly-ease/2407055",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1180156.jpg",
-      "publishedAt": "2026-08-17T16:15:00Z",
+      "title": "Twin Cities gas prices hit $4/gallon, up 16 cents in one week",
+      "description": "Drivers across the Twin Cities are feeling the pinch as average gasoline prices have surged past $4 per gallon, fueled by global supply disruptions and refinery issues.",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-hit-4-gallon-up-16-cents-one-week",
+      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-17T21:13:16Z",
       "source": {
-        "name": "The Manila Times"
+        "name": "FOX 9"
       }
     },
     {
-      "title": "US stocks hang near their record heights",
-      "description": "U.S. stocks are drifting near their record heights. The S&P 500 slipped 0.1% Monday but remains near its all-time high set on Thursday. The Dow Jones Industrial Average dipped 209 points, and the Nasdaq composite rose 0.2%. Wall Street has run to records in large part because profits are booming for big U.S. companies, and investors are waiting for the latest updates from the nation\u2019s biggest retailers coming later this week. In the meantime, oil prices are edging higher and helped push Treasury yields upward in the bond market. Stocks slipped in Europe following a stronger finish in Asia.",
-      "url": "https://www.ajc.com/news/2026/08/us-stocks-hang-near-their-record-heights/",
-      "image": "https://images.ajc.com/resizer/v2/STFGIQX6KVDE7MZMWBGOR72FTY.jpg?auth=56247266fd50557005fc8c3712813a8eb5eaaaa7ddc2f62c575f3ce72c40599a&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-17T16:12:01Z",
+      "title": "Dow Jones Futures: Trump Comments Spark Stock Market Losses; Elon Musk-Led SpaceX Rallies",
+      "description": "Dow Jones Futures: President Trump's U.S.-Iran comments sparked market losses Monday as oil prices jumped. Elon Musk-led SpaceX rallied.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-trump-stock-market-losses-elon-musk-spacex-spcx-stock/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/06/Stock-TrumpSternScowl-01-shutt.jpg",
+      "publishedAt": "2026-08-17T21:02:17Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
-      "description": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked",
-      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
-      "image": "https://i.guim.co.uk/img/media/24af72b71f79b33388aba42419e5996e19a78bc8/724_546_6520_5216/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c1c2fab2e39721eb3555a439510a3d8",
-      "publishedAt": "2026-08-17T15:51:46Z",
+      "title": "\"Like the idea of declaring Strait of Hormuz US territory\": Trump says Washington has \"total control\" with naval blockade",
+      "description": "Speaking to reporters, Trump emphasised the effectiveness of the US naval blockade and stressed that oil prices are coming down and the Strait of Hormuz is open. He added that Iran is in big trouble, noting, \"they have 300% inflation, the country's a mess, and their military is totally defeated.\"",
+      "url": "https://www.aninews.in/news/world/us/like-the-idea-of-declaring-strait-of-hormuz-us-territory-trump-says-washington-has-total-control-with-naval-blockade20260818021433/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817204422-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-08-17T20:44:33Z",
       "source": {
-        "name": "The Guardian"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Rupee tumbles as RBI shuts FCNR(B) window early",
-      "description": "The RBI\u2019s early closure of its concessional swap facility and rising crude oil prices pushed the rupee to a 17-day low, despite central bank intervention preventing a sharper decline. Currency experts weigh in on market reactions and RBI strategies.",
-      "url": "https://www.financialexpress.com/policy/economy/rupee-tumbles-as-rbi-shuts-fcnrb-window-early/4319749/",
-      "image": "https://images.financialexpressdigital.com/2026/08/rupee_20260817134504_20260817154806.jpg",
-      "publishedAt": "2026-08-17T15:48:35Z",
+      "title": "This is how much gas prices are up in just one week in Northeast Ohio",
+      "description": "AAA attributes the surge in gas prices to the uncertainty along the Strait of Hormuz",
+      "url": "https://www.cleveland.com/news/2026/08/this-is-how-much-gas-prices-are-up-in-just-one-week-in-northeast-ohio.html",
+      "image": "https://www.cleveland.com/resizer/v2/OJ6OAMPSKNANVK6Z64FLTK2MWU.jpg?auth=2bf154add139f41c17c49929d063f70fd43391ab1e99dc0353f47bfbe1b51b7f&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-08-17T20:38:22Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "cleveland.com"
       }
     }
   ]
