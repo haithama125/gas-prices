@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-18T00:38:32+00:00",
+  "updated_at": "2026-08-18T06:25:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Inflation Pushes Past Expectations Amid US-Iran Tensions",
-      "description": "Canada's annual inflation rate increased to 3% in July, driven by rising gasoline prices due to US-Iran tensions and higher travel costs. Analysts had predicted a slightly lower rise. Core inflation remains stable, likely prompting the Bank of Canada to hold its policy rate steady.",
-      "url": "https://www.devdiscourse.com/article/business/3964569-inflation-pushes-past-expectations-amid-us-iran-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2025_06_33_21_37722.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-17T12:31:01Z",
+      "title": "Man found dead outside Asda petrol station in Bradford as police launch probe",
+      "description": "A man in his 40s was found dead after West Yorkshire Police were called to the Asda petrol station on Rooley Lane in Bradford this morning",
+      "url": "https://www.mirror.co.uk/news/uk-news/asda-bradford-man-dead-police-37562136",
+      "image": "https://i2-prod.mirror.co.uk/article37562159.ece/ALTERNATES/s1200d/2_Asda-petrol-station-death-after-concern-for-welfare-police-statement-in-full.jpg",
+      "publishedAt": "2026-08-17T18:11:56Z",
+      "source": {
+        "name": "The Mirror"
+      }
+    },
+    {
+      "title": "US stocks dip as rising oil prices, yields offset chip gains",
+      "description": "The S&P 500 Index was down 0.3% at 1:15 p.m. in New York while the technology-heavy Nasdaq 100 Index erased an earlier advance to trade 0.1% lower, even as semiconductor manufacturers including Intel Corp. and Micron Technology, Inc. climbed.",
+      "url": "https://www.moneycontrol.com/news/business/us-stocks-dip-as-rising-oil-prices-yields-offset-chip-gains-14008128.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814013230_japan-stocks.jpg",
+      "publishedAt": "2026-08-17T18:09:59Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "US stocks edge back from their record as oil prices rise",
+      "description": "U.S. stocks are edging further from their record heights",
+      "url": "https://www.barchart.com/story/news/3879602/us-stocks-edge-back-from-their-record-as-oil-prices-rise",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/d0974a85d6854cd0bcf27b4f6364fad3/d0974a85d6854cd0bcf27b4f6364fad3_main_japan_financial_markets_3583_.jpg",
+      "publishedAt": "2026-08-17T18:09:03Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Market Jitters: Stocks Mixed, Dollar Declines amidst Economic Data and Iran Tensions",
+      "description": "U.S. stocks exhibited a mixed performance as the dollar dropped to its lowest since June following weak economic data. Treasury yields hit highs, partly due to AI-related debts. Tensions over Iran's war impacted markets, while traders adjusted Fed rate expectations. Oil prices rose amid ongoing geopolitical conflicts.",
+      "url": "https://www.devdiscourse.com/article/business/3964708-market-jitters-stocks-mixed-dollar-declines-amidst-economic-data-and-iran-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_09_34_26_9083502.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-17T17:44:51Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Rupee falls 19 paise to close at 95.61 against U.S. dollar",
-      "description": "The rupee fell 19 paise to 95.61 against the dollar, influenced by weak markets and rising crude oil prices.",
-      "url": "https://www.thehindu.com/business/Industry/rupee-falls-19-paise-to-close-at-9561-against-us-dollar/article71356204.ece",
-      "image": "https://th-i.thgim.com/public/incoming/ypkslp/article71356236.ece/alternates/LANDSCAPE_1200/2026-08-17T050432Z_948570668_RC2AYFAXL6QW_RTRMADP_3_INDIA-RBI-INTERVENTIONS-PIX.JPG",
-      "publishedAt": "2026-08-17T12:26:40Z",
+      "title": "No fuel for vehicles without valid registration plates in Rajkot",
+      "description": "RAJKOT: Rajkot City Police have issued a 60-day order prohibiting petrol pumps, CNG stations, and diesel stations within the city police commissionera.",
+      "url": "https://timesofindia.indiatimes.com/city/surat/no-fuel-for-vehicles-without-valid-registration-plates-in-rajkot/articleshow/133301506.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133301662,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-17T16:24:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Trump Prioritizes Nuclear Non-Proliferation Over Energy Stability Amid West Asia Tensions",
-      "description": "President Donald Trump reinforces his stance on preventing Iran from developing nuclear weapons, highlighting it as Washington's top priority amid the ongoing conflict with Tehran. This emphasis contrasts with Vice President JD Vance's previous remarks prioritizing energy security and stable oil and gas prices. The administration faces internal and external pressures.",
-      "url": "https://www.devdiscourse.com/article/international/3964566-trump-prioritizes-nuclear-non-proliferation-over-energy-stability-amid-west-asia-tensions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_08_2026_17_53_47_4226457.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-17T12:23:51Z",
+      "title": "Bitcoin Pushes Past $64,000 As Crypto Short Liquidations Near $140M",
+      "description": "Bitcoin sees further relief with a push past $64,000 while oil prices shake of threats of military action on Oman by US president Donald Trump.",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-us-bitcoin-reserve-vs-gold-and-oil-reserves-how-do-they-compare.jpg",
+      "publishedAt": "2026-08-17T16:16:40Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Cointelegraph"
       }
     },
     {
-      "title": "\"Iran cannot have, in any way, shape, or form, a Nuclear Weapon\": Trump reiterates US' \"number one Goal\"",
-      "description": "US President Donald Trump on Monday reiterated that preventing Iran from obtaining a nuclear weapon remains Washington's \"number one Goal\" in the ongoing conflict with Tehran in West Asia, placing a renewed emphasis on the nuclear issue despite some of his advisers highlighting energy security and keeping oil and gas prices low as equally important priorities.",
-      "url": "https://www.aninews.in/news/world/us/iran-cannot-have-in-any-way-shape-or-form-a-nuclear-weapon-trump-reiterates-us-number-one-goal20260817174806/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260817121202-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-17T12:18:06Z",
+      "title": "Remolona: Inflation pressures to persist, prices to slowly ease",
+      "description": "THE Bangko Sentral ng Pilipinas (BSP) expects inflation to gradually ease over the medium term but remain above the 3-percent target through 2027 amid persistent risks from global oil prices and other supply shocks.",
+      "url": "https://www.manilatimes.net/2026/08/18/business/top-business/remolona-inflation-pressures-to-persist-prices-to-slowly-ease/2407055",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/17/1180156.jpg",
+      "publishedAt": "2026-08-17T16:15:00Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Second wave of fuel shortages at gas stations sweeps across Russia",
-      "description": "Fuel shortages have returned to some regions of Russia in August, prompting local authorities in at least 10 regions to again tighten controls on sales of motor fuel at petrol stations, according to authorities and regional media.",
-      "url": "https://www.nbcnews.com/world/russia/second-wave-fuel-shortages-gas-stations-sweeps-russia-rcna592878",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-08/260817-fuel-rs-48d0e1.jpg",
-      "publishedAt": "2026-08-17T12:17:05Z",
+      "title": "US stocks hang near their record heights",
+      "description": "U.S. stocks are drifting near their record heights. The S&P 500 slipped 0.1% Monday but remains near its all-time high set on Thursday. The Dow Jones Industrial Average dipped 209 points, and the Nasdaq composite rose 0.2%. Wall Street has run to records in large part because profits are booming for big U.S. companies, and investors are waiting for the latest updates from the nation\u2019s biggest retailers coming later this week. In the meantime, oil prices are edging higher and helped push Treasury yields upward in the bond market. Stocks slipped in Europe following a stronger finish in Asia.",
+      "url": "https://www.ajc.com/news/2026/08/us-stocks-hang-near-their-record-heights/",
+      "image": "https://images.ajc.com/resizer/v2/STFGIQX6KVDE7MZMWBGOR72FTY.jpg?auth=56247266fd50557005fc8c3712813a8eb5eaaaa7ddc2f62c575f3ce72c40599a&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-17T16:12:01Z",
       "source": {
-        "name": "NBC News"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "US stock futures mixed as investors await Fed minutes, retail earnings",
-      "description": "US stock futures traded near flat as investors assessed the Federal Reserve's rate outlook following a third straight weekly gain for the S&P 500. Retail earnings, Fed meeting minutes and oil prices are in focus this week, while Vista Energy shares jumped after Peter Thiel's hedge fund disclosed a stake worth about $76 million.",
-      "url": "https://www.cnbctv18.com/market/us-stock-market-futures-dow-jones-nasdaq-investors-fed-minutes-retail-earnings-19971148.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-23t192630371-2026-07-1874ac062be98c8d65551f0b5b25689e.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-17T12:14:42Z",
+      "title": "US gas prices reach highest ever recorded for August amid stalled talks with Iran",
+      "description": "Energy prices have been high since the US-Israel war with Iran began and the strait of Hormuz was blocked",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/gas-prices-august-record-iran-war",
+      "image": "https://i.guim.co.uk/img/media/24af72b71f79b33388aba42419e5996e19a78bc8/724_546_6520_5216/master/6520.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c1c2fab2e39721eb3555a439510a3d8",
+      "publishedAt": "2026-08-17T15:51:46Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "Why govt should restore lower ethanol-blended petrol for older vehicles - CEA Nageswaran answers",
-      "description": "Chief Economic Adviser V Anantha Nageswaran advocates reintroducing lower ethanol petrol blends like E10 alongside E20 to ease public concerns, protect older vehicles, and balance environmental and economic impacts in India\u2019s fuel policy.",
-      "url": "https://www.financialexpress.com/business/news/why-govt-should-restore-lower-ethanol-blended-petrol-for-older-vehicles-cea-nageswaran-answers/4319426/",
-      "image": "https://images.financialexpressdigital.com/2026/08/CEANageshwaranReuters.jpg",
-      "publishedAt": "2026-08-17T12:05:34Z",
+      "title": "Rupee tumbles as RBI shuts FCNR(B) window early",
+      "description": "The RBI\u2019s early closure of its concessional swap facility and rising crude oil prices pushed the rupee to a 17-day low, despite central bank intervention preventing a sharper decline. Currency experts weigh in on market reactions and RBI strategies.",
+      "url": "https://www.financialexpress.com/policy/economy/rupee-tumbles-as-rbi-shuts-fcnrb-window-early/4319749/",
+      "image": "https://images.financialexpressdigital.com/2026/08/rupee_20260817134504_20260817154806.jpg",
+      "publishedAt": "2026-08-17T15:48:35Z",
       "source": {
         "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Energy crisis much bigger than the oil shock is brewing out there",
-      "description": "Oil prices have ebbed and flowed this summer during the Iran war, but products made from crude have marched steadily higher. Read more",
-      "url": "https://financialpost.com/news/posthaste-an-energy-shock-much-bigger-than-the-oil-is-brewing-out-there",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/08/gas-prices-0817-ph.jpg",
-      "publishedAt": "2026-08-17T11:55:35Z",
-      "source": {
-        "name": "Financial Post"
-      }
-    },
-    {
-      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Monday, 17 August",
-      "description": "We have listed the most affordable forecourts in the region",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34471103",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article33997314.ece/ALTERNATES/s1200d/5_JS407098041.jpg",
-      "publishedAt": "2026-08-17T11:53:36Z",
-      "source": {
-        "name": "Manchester Evening News"
-      }
-    },
-    {
-      "title": "Nifty falls for 5th day; Sensex drops 281 points amid rising crude oil prices",
-      "description": "Benchmark indices Sensex and Nifty ended lower on Monday amid rising crude oil prices and persistent geopolitical tensions in West Asia.",
-      "url": "https://www.tribuneindia.com/news/business/nifty-falls-for-5th-day-sensex-drops-281-points-amid-rising-crude-oil-prices/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY5NGVkOWUwLTlhMzMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-17T11:44:42Z",
-      "source": {
-        "name": "The Tribune"
       }
     }
   ]
