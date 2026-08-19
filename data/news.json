@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-18T18:21:57+00:00",
+  "updated_at": "2026-08-19T00:39:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee falls 7 paise to 95.68 against US dollar in early trade",
-      "description": "In early trading, the rupee slipped by seven paise, settling at 95.68 against the US dollar. Factors such as soaring crude oil prices and heightened demand for dollars pressured the currency. Forex analysts noted that Brent crude's price hovering around USD 91 per barrel has led to a surge in dollar demand linked to oil.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-falls-7-paise-to-95-68-against-us-dollar-in-early-trade/articleshow/133313508.cms",
-      "image": "https://img.etimg.com/thumb/msid-133313525,width-1200,height-630,imgsize-11168,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-18T06:20:00Z",
+      "title": "India 10-year bond gives up post-policy gains as oil moves, RBI swap pullback weigh",
+      "description": "Indian government bonds saw a decline for the second consecutive day, erasing previous gains as high oil prices and the premature conclusion of a deposit scheme weighed on investor sentiment. Following the central bank's policy announcement, the benchmark bond yield rose sharply. Swap rates also jumped, indicating a negative shift in market mood. Future bond yields will be influenced by both global and local factors.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-10-year-bond-gives-up-post-policy-gains-as-oil-moves-rbi-swap-pullback-weigh/articleshow/133322151.cms",
+      "image": "https://img.etimg.com/thumb/msid-133322345,width-1200,height-630,imgsize-126494,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-18T12:23:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Stock markets decline in early trade as crude oil jumps to USD 91 per barrel",
-      "description": "Market benchmark indices Sensex and Nifty declined in early trade on Tuesday as elevated crude oil prices and rising tensions in West Asia weighed heavily on investors\u2019 sentiment.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-decline-in-early-trade-as-crude-oil-jumps-to-usd-91-per-barrel/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ4ZDFmM2MwLTlhY2MtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-18T06:19:58Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Indian bonds wobble on oil strain, RBI swap pullback",
-      "description": "On Tuesday morning, Indian government bonds faced a downturn as oil prices spiked beyond ninety dollars. Concerns escalated after the central bank prematurely ended a diaspora deposit scheme, leading to uncertainty in the market. This pullback in liquidity support has rendered bonds susceptible to changes in oil prices and international rates. The five-year note saw a significant yield rise recently.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/indian-bonds-wobble-on-oil-strain-rbi-swap-pullback/articleshow/133313452.cms",
-      "image": "https://img.etimg.com/thumb/msid-133313483,width-1200,height-630,imgsize-22206,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-18T06:17:00Z",
+      "title": "Live: US stock futures fall as fading Iran peace hopes lift oil prices, yields - The Economic Times",
+      "description": "Dow Jones Today | US Stock Market Live: The yield on the 30-year Treasury bond stood at its highest since 2007, while that on the benchmark 10-year maturity held near its highest level since January 2025.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-bonds-yields-micron-sandisk-amd-intel-chip-stock-price-news-18th-august-2026/liveblog/133322350.cms",
+      "image": "https://economictimes.indiatimes.com/thumb/msid-133322350,width-1200,height-900,resizemode-4,imglength-2505042/markets/us-stocks/news/dow-jones-stock-market-live-updates-nasdaq-sp-500-us-iran-war-hormuz-deal-brent-crude-oil-fed-warsh-rate-bonds-yields-micron-sandisk-amd-intel-chip-stock-price-news-18th-august-2026.jpg",
+      "publishedAt": "2026-08-18T12:23:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Trump's approval rating sinks to presidency low of 33% as Iran war drags on",
-      "description": "Poll finds just 1 in 5 Americans think conflict has been worth it, while 80% expect prolonged US involvement, as war and high gas prices weigh on voters",
-      "url": "https://www.timesofisrael.com/trumps-approval-rating-sinks-to-presidency-low-of-33-as-iran-war-drags-on/",
-      "image": "https://static-cdn.toi-media.com/www/uploads/2026/08/AP26228785097406.jpg",
-      "publishedAt": "2026-08-18T06:13:18Z",
+      "title": "Global bond sell-off sends US treasury yields to multi-decade highs as Iran war drags on",
+      "description": "US Treasury yields hit multi-decade highs as the Iran war, higher oil prices and Strait of Hormuz risks fuel inflation and global bond market fears. | Business News",
+      "url": "https://www.hindustantimes.com/business/global-bond-sell-off-sends-us-treasury-yields-to-multi-decade-highs-as-iran-war-drags-on-101787053006865.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/18/1600x900/logo/USA-SEC-TRADES-CITADEL-SECURITIES-1_1787053355424_1787053366873_9df2c670-bf50-4ee4-a7e0-658a3e41798d.JPG",
+      "publishedAt": "2026-08-18T12:18:48Z",
       "source": {
-        "name": "The Times of Israel"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Hormuz Tensions: Reshaping Global Oil Trade",
-      "description": "The ongoing conflict between the U.S. and Iran is reshaping the global oil market, with disruptions in the Strait of Hormuz leading to stabilized oil prices around $90 a barrel. Diplomatic efforts have stalled, causing significant economic strain and altering trade routes, potentially impacting oil prices into the next year.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3964881-hormuz-tensions-reshaping-global-oil-trade",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_05_2026_14_55_30_6569269.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-18T06:00:49Z",
+      "title": "Price hikes to likely weigh on Japan households from summer onward",
+      "description": "Elevated crude oil prices, reflecting Middle East turmoil, have driven up procurement and logistics costs for companies. Households have already started to feel the impact.",
+      "url": "https://www.japantimes.co.jp/business/2026/08/18/japan-household-finances-inflation/",
+      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/08/18/558171.jpg?v=3.1",
+      "publishedAt": "2026-08-18T12:09:21Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Japan Times "
       }
     },
     {
-      "title": "CNBC Daily Open: Higher oil, higher yields, lower volatility",
-      "description": "A jump in oil prices sends jitters through stock and bond markets, keeping investors on edge as the ceasefire between the U.S. and Iran expires.",
-      "url": "https://www.cnbc.com/2026/08/18/daily-open-oil-yields-volatility-iran-war.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108331430-1783431079164-gettyimages-1334559326-oilfields_northdakota1.jpeg?v=1783431105&w=1920&h=1080",
-      "publishedAt": "2026-08-18T06:00:00Z",
+      "title": "Euro zone bonds join global selloff, long-end yields at multi-year highs",
+      "description": "On Tuesday, yields on longer-dated euro zone bonds surged to levels not seen in years. The increasing oil prices, spurred by diminishing expectations for a quick resolution to the conflict in Iran, intensified inflation worries throughout the markets. Consequently, investors are anticipating a quarter-point interest rate hike from the ECB, while apprehensions about fiscal stability in various nations add pressure on global bonds.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/euro-zone-bonds-join-global-selloff-long-end-yields-at-multi-year-highs/articleshow/133321858.cms",
+      "image": "https://img.etimg.com/thumb/msid-133321923,width-1200,height-630,imgsize-233084,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-18T12:02:00Z",
       "source": {
-        "name": "CNBC"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil climbs as fading peace deal hopes raise supply risks",
-      "description": "Oil prices rose today as prospects receded for a deal to end the Middle East war, with Iran saying it would adopt a more offensive stance and the United States ruling out extension of a ceasefire deal, heightening worries about energy supply.",
-      "url": "https://www.rte.ie/news/business/2026/0818/1588309-oil-climbs-as-fading-us-iran-peace-hopes-raise-supply-risks/",
-      "image": "https://www.rte.ie/images/0024a746-1600.jpg",
-      "publishedAt": "2026-08-18T05:56:20Z",
+      "title": "Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to $91/barrel",
+      "description": "Indian markets fell for the sixth day as Sensex dropped 493 points amid rising crude oil prices and global uncertainties.",
+      "url": "https://www.thehindu.com/business/markets/sensex-tanks-493-points-nifty-falls-for-6th-day-as-crude-oil-jumps-to-91barrel/article71360316.ece",
+      "image": "https://th-i.thgim.com/public/incoming/qnckfo/article70536656.ece/alternates/LANDSCAPE_1200/IMG_vbk-stock-sensex-2_2_1_V6AB6NN1.jpg",
+      "publishedAt": "2026-08-18T12:01:42Z",
       "source": {
-        "name": "RTE.ie"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Brent oil crosses $91 as Trump rejects Iran MoU extension",
-      "description": "Oil prices surged as President Trump rejected extending Iran peace talks after the MoU expired, escalating US-Iran tensions and impacting Strait of Hormuz shipping amid threats to Oman.",
-      "url": "https://www.financialexpress.com/world-news/brent-oil-crosses-91-as-trump-rejects-iran-mou-extension/4320073/",
-      "image": "https://images.financialexpressdigital.com/2026/08/trump-iran-war-oil-price.jpg",
-      "publishedAt": "2026-08-18T05:55:09Z",
+      "title": "New warning issued for UK drivers who filled up 'between May and June'",
+      "description": "Competition and Markets Authority has raised concerns about \"passive pricing strategies\" used by some petrol stations.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/new-warning-issued-uk-drivers-34477323",
+      "image": "https://i2-prod.birminghammail.co.uk/article34477350.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-08-18T11:55:46Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Oil prices rise as U.S.-Iran ceasefire hopes fade",
-      "description": "NEW YORK: Oil prices rose Tuesday as hopes for a lasting U.S.-Iran ceasefire weakened and shipping through the Strait of Hormuz remained sharply below normal, raising fresh concerns about global energy supplies.",
-      "url": "https://www.bolnews.com/business/oil-prices-rise-as-u-s-iran-ceasefire-hopes-fade/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/Oil-prices-3.webp",
-      "publishedAt": "2026-08-18T05:51:47Z",
+      "title": "Who is \u2018Raja D King\u2019? Amritsar resident distributes petrol worth \u20b91000 for free",
+      "description": "Amritsar-based Rakesh Trehan, also known as 'Raja Ji the King,' is introducing a unique community initiative called 'Petrol Langar' in Chandigarh, offering free petrol to people at select fuel stations. This concept extends the traditional langar beyond food, with fuel coupons of \u20b9500 for two/three-wheelers and \u20b91000 for four-wheelers being distributed. Eligibility is as simple as saying 'Jai Mata Di.' Trehan, a crypto trader who reportedly uses Bitcoin profits for charity, has previously organized 'paison ka langar' distributing cash and food, and plans an 'iPhone langar' in the future. The 'Petrol Langar' is scheduled to begin on August 18th at Sidhu Petrol Pump and HP Pump, with coupons distributed beforehand at Oberoi Motors.",
+      "url": "https://www.theweek.in/news/india/2026/08/18/who-is-raja-d-king-amritsar-resident-distributes-petrol-worth-indian-rupee1000-for-free.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/8/18/raja-ji-the-king.jpg",
+      "publishedAt": "2026-08-18T11:53:19Z",
       "source": {
-        "name": "BOL News"
+        "name": "THE WEEK"
       }
     },
     {
-      "title": "Oil prices cross $91 as US-Iran ceasefire ends",
-      "description": "The expiration of the US-Iran truce has driven oil prices higher and government bond yields upward, as fears of renewed conflict and energy supply disruptions unsettle investors.",
-      "url": "https://www.newsbytesapp.com/news/business/oil-prices-cross-91-as-us-iran-ceasefire-ends/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l142_20441787026191.jpg",
-      "publishedAt": "2026-08-18T05:47:29Z",
+      "title": "UK retailers too slow to pass on fuel price falls, watchdog says",
+      "description": "Competition and Markets Authority raises concerns about \u2018passive pricing strategies\u2019 used by some petrol stations",
+      "url": "https://www.theguardian.com/business/2026/aug/18/uk-retailers-too-slow-pass-on-fuel-price-falls-cma",
+      "image": "https://i.guim.co.uk/img/media/7351982ceb41e323ae5dd4f0884c67dc3d37f991/0_0_3206_2566/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d8f8ba5209c70ce71b68298b1457a9",
+      "publishedAt": "2026-08-18T11:43:42Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "The Guardian"
+      }
+    },
+    {
+      "title": "Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel",
+      "description": "MUMBAI, Aug 18: Market benchmark indices ended lower on Tuesday, with the Sensex falling 493 points and the Nifty dropping to 24,154.90 level, as elevated crude oil prices and fading hopes of a diplomatic breakthrough in West Asia weighed heavily...",
+      "url": "https://www.dailyexcelsior.com/sensex-tanks-493-points-nifty-falls-for-6th-day-as-crude-oil-jumps-to-usd-91-barrel/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTVlZWUwNGEwLTlhZjgtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-18T11:31:34Z",
+      "source": {
+        "name": "Daily Excelsior"
       }
     }
   ]
