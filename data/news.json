@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-19T06:25:30+00:00",
+  "updated_at": "2026-08-19T12:23:38+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Federal govt raises petrol and diesel prices",
-      "description": "ISLAMABAD: The federal government has increased the prices of petrol and diesel, with the new rates taking effect from August 19, according",
-      "url": "https://www.bolnews.com/business/federal-govt-raises-petrol-and-diesel-prices/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/FotoJet-2026-08-18T231930.807-converted-from-jpg.webp",
-      "publishedAt": "2026-08-18T18:21:26Z",
+      "title": "US-Iran War LIVE: Iran says \u2018\u2026will correct delusions\u2019 as Trump backs down on Hormuz as US territory",
+      "description": "US-Iran War LIVE: US President Donald Trump has said that there are no talks scheduled with Iran regarding a possible extension of ceasefire. Meanwhile, oil prices rose for a fourth consecutive day as the two nations remain locked in a stalemate.",
+      "url": "https://www.livemint.com/news/us-news/us-iran-war-news-live-updates-donald-trump-abbas-araghchi-tehran-washington-hormuz-oman-ceasefire-west-asia-peace-talks-11787096707495.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/IRAN-CRISIS-OMAN-HORMUZ-0_1787098716023_1787098726187_e277f876-cf32-4f72-8691-2407d6b29281.JPG",
+      "publishedAt": "2026-08-19T00:19:02Z",
       "source": {
-        "name": "BOL News"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Trump-Vance Iran Divide Widens as President Puts Nuclear Threat Ahead of Gas Prices",
-      "description": "President Trump and Vice President Vance are navigating differing priorities regarding Iran, with Vance prioritizing low fuel prices while Trump focuses on preventing Iran from developing nuclear weapons., US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/trump-vance-iran-divide-widens-as-president-puts-nuclear-threat-ahead-of-gas-prices-article-155759562",
-      "image": "https://images.timesnownews.com/thumb/msid-155759999,thumbsize-1877128,width-1280,height-720,resizemode-75/155759999.jpg",
-      "publishedAt": "2026-08-18T18:20:17Z",
+      "title": "Crude oil prices rise for fourth day amidst US",
+      "description": "Brent crude closed above $91 a barrel on Tuesday, August 18, having gained over 4.5% across the previous three sessions. West Texas Intermediate (WTI), or the US crude variant is extending its gains in early Asian trading on Wednesday, moving past the mark of $85 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-today-brent-wti-us-iran-war-strait-of-hormuz-trump-uae-missile-attacks-traffic-19972227.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/crude-oil-lpg-omc-chatgpt-1600x900-08jul-2026-07-5f1b54a701d0d10bd5bbafd12d5f7419.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-18T23:48:33Z",
       "source": {
-        "name": "Times Now"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Scrapping your petrol car for An EV pays back In three years",
-      "description": "New research in Science finds retiring a petrol car in its first year for an EV cuts emissions 58% over 16 years, with three notable exceptions.",
-      "url": "https://thenextweb.com/news/science-study-retire-petrol-car-early-ev-emissions",
-      "image": "https://media.thenextweb.com/2026/05/stellantis-leapmotor-chinese-evs-mexico-canada-brampton.jpg",
-      "publishedAt": "2026-08-18T18:18:04Z",
+      "title": "Trump says no Iran talks, Tehran keeps Hormuz shut to shipping",
+      "description": "Trump said no talks with Iran were under way and insisted the Strait of Hormuz was open. The stand-off after the ceasefire expiry kept shipping disrupted, markets uneasy and oil prices elevated.",
+      "url": "https://www.indiatoday.in/world/story/trump-says-no-iran-talks-strait-of-hormuz-open-ceasefire-expires-2974491-2026-08-19",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/trump--mojtaba--iran-183909260-16x9_0.png?VersionId=HQ0HdqPQ5IUXkfM_QszXtbPeGv6NLcdT",
+      "publishedAt": "2026-08-18T23:41:14Z",
       "source": {
-        "name": "TNW"
+        "name": "India Today"
       }
     },
     {
-      "title": "Russian crude flows to India slump 32% in August amid supply squeeze",
-      "description": "India\u2019s Russian crude imports dropped nearly 32% in August amid Moscow's production cuts and drone attacks, raising crude costs and pushing refiners to source more from West Asia. Supply constraints threaten refinery margins as oil prices rise.",
-      "url": "https://www.financialexpress.com/business/news/russian-crude-flows-to-indiaslump32-in-august-amid-supply-squeeze/4320600/",
-      "image": "https://images.financialexpressdigital.com/2026/08/crude-oil_20260818174428.jpg",
-      "publishedAt": "2026-08-18T17:46:01Z",
+      "title": "Oil hits three-week high as US-Iran peace hopes fade",
+      "description": "Oil prices settled at their highest level in more than three weeks on Tuesday after Iran said it would adopt a more offensive stance and the Strait of Hormuz would remain closed, while the United States ruled out extending a ceasefire.",
+      "url": "https://www.thestar.com.my/business/2026/08/19/oil-hits-three-week-high-as-us-iran-peace-hopes-fade",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/19/4066574.jpeg",
+      "publishedAt": "2026-08-18T23:14:00Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "The Star"
       }
     },
     {
-      "title": "US Treasury Yields Surge Amid Middle East Tensions, Economic Worries",
-      "description": "US Treasury yields have eased slightly but remain near multi-year highs amid escalating Middle East tensions and inflation fears. Oil prices rose as prospects for US-Iran peace dimmed. High yields pressured stock markets, especially in technology, while concerns linger over the US fiscal trajectory amid ongoing conflicts.",
-      "url": "https://www.devdiscourse.com/article/business/3965276-us-treasury-yields-surge-amid-middle-east-tensions-economic-worries",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_55_1876187.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-18T17:30:53Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Explosion at Ranchi petrol pump, none hurt",
-      "description": "Ranchi, Aug 18 (PTI) An explosion took place at a petrol pump in the Jharkhand capital on Tuesday evening, police said. However, no casualties have been reported so far in the incident in Kokar area under the jurisdiction of Sadar police station. \u201cAn explosion of moderate intensity took place at the petrol pump, causing damage [\u2026]",
-      "url": "https://theprint.in/india/explosion-at-ranchi-petrol-pump-none-hurt/3018756/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-08-18T17:18:43Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "U.S. stocks fall as rising bond yields, oil prices spook investors",
-      "description": "Aug. 18 (UPI) -- Stocks fell on all three major U.S. indices Tuesday as investors were spooked by elevated bond yields and the prospect of higher oil",
-      "url": "https://www.breitbart.com/news/u-s-stocks-fall-as-rising-bond-yields-oil-prices-spook-investors/",
-      "image": "https://media.breitbart.com/media/2026/08/wi/upi/stocks-fall-rising-bond-yields-oil-prices-spook-investors-stocks-fall-rising-bond-yields-oil-prices.jpg",
-      "publishedAt": "2026-08-18T16:34:16Z",
+      "title": "Shares fall in Asia, with Kospi down 5.2%, while oil prices jump",
+      "description": "Shares are sharply lower in Asia after Wall Street pulled further from its all-time high as artificial-intelligence stocks resumed their decline. BANGKOK",
+      "url": "https://www.breitbart.com/news/shares-fall-in-asia-with-kospi-down-5-2-while-oil-prices-jump/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-74256-south-korea-financial-markets-currency-trader-passes-by-screen-640x335.jpg",
+      "publishedAt": "2026-08-18T22:49:34Z",
       "source": {
         "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Volatility Surges on Wall Street Amid Technology Stock Losses",
-      "description": "Wall Street's main indexes fell to a two-week low due to declines in technology stocks and persistent uncertainties in international relations, which boosted oil prices and government bond yields. Despite losses in chipmakers and other tech giants, the energy sector saw gains due to geopolitical risks.",
-      "url": "https://www.devdiscourse.com/article/business/3965245-volatility-surges-on-wall-street-amid-technology-stock-losses",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_11_48_53_7138804.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-18T16:31:05Z",
+      "title": "Jim Cramer says the market is too negative - and that\u2019s creating buying opportunities",
+      "description": "CNBC\u2019s Jim Cramer said widespread pessimism over rising rates, oil prices and inflation is pushing stocks lower and creating attractive buying opportunities.",
+      "url": "https://www.cnbc.com/2026/08/18/jim-cramer-market-too-negative-buying-opportunities.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113452-NUP_198430_00216r.jpg?v=1697496575&w=1920&h=1080",
+      "publishedAt": "2026-08-18T22:23:36Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "U.S. stocks fall as rising bond yields, oil prices spook investors",
+      "description": "All three major U.S. stock indices fell Tuesday as the rise of 30-year Treasury yields and spiking oil prices put pressure on investors.",
+      "url": "https://www.upi.com/Top_News/US/2026/08/18/stocks-fall-rising-bond-yields-oil-prices-spook-investors/1421787087041/",
+      "image": "https://cdnph.upi.com/sv/ph/og/upi/1421787087041/2026/1/f5210379369f76f2313eb5a2b530705c/v1.5/US-stocks-fall-as-rising-bond-yields-oil-prices-spook-investors.jpg",
+      "publishedAt": "2026-08-18T22:18:56Z",
+      "source": {
+        "name": "UPI News"
+      }
+    },
+    {
+      "title": "U.S. stocks fall as rising bond yields, oil prices spook investors",
+      "description": "All three major U.S. stock indices fell Tuesday as the rise of 30-year Treasury yields and spiking oil prices put pressure on investors.",
+      "url": "https://www.newsbreak.com/upi-news-510013/4836449573762-u-s-stocks-fall-as-rising-bond-yields-oil-prices-spook-investors",
+      "image": "https://img.particlenews.com/img/id/4S8nqZ_1EMJRz1N00",
+      "publishedAt": "2026-08-18T22:18:56Z",
+      "source": {
+        "name": "NewsBreak"
+      }
+    },
+    {
+      "title": "Tensions Surge as U.S. and Iran Standoff Escalates in Strait of Hormuz",
+      "description": "U.S. President Donald Trump has denied any ongoing talks with Iran regarding the Strait of Hormuz, contradicting Iran's claims of the critical waterway being shut. Oil prices surged amid fears of prolonged conflict, while nations reported disruptions. The standoff details conditions for peace negotiations and ongoing military tensions.",
+      "url": "https://www.devdiscourse.com/article/politics/3965357-tensions-surge-as-us-and-iran-standoff-escalates-in-strait-of-hormuz",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/18_08_2026_18_01_31_3119192.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-18T21:46:55Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds",
-      "description": "President Donald Trump's approval rating has fallen to its lowest point. A significant majority of Americans worry the U.S. war with Iran will last a long time. Rising gasoline prices are impacting households and Republican allies ahead of elections. Voters now prefer Democrats to manage the economy and cost of living. Immigration policy remains a Republican strength, though the gap is narrowing.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/trump-approval-falls-to-33-lowest-of-his-presidency-reuters/ipsos-poll-finds/articleshow/133327445.cms",
-      "image": "https://img.etimg.com/thumb/msid-133327453,width-1200,height-630,imgsize-56576,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-18T16:31:00Z",
+      "title": "Market Turbulence: Tech Stocks Plummet Amid Bond Yield Surge",
+      "description": "Major U.S. indexes dropped on Tuesday, led by a sharp fall in semiconductor stocks amid heightened Middle East tensions and rising bond yields. Fears of inflation prompted a shift away from technology stocks towards more stable sectors. The energy sector emerged as a notable gainer due to higher oil prices.",
+      "url": "https://www.devdiscourse.com/article/business/3965339-market-turbulence-tech-stocks-plummet-amid-bond-yield-surge",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/05_08_2024_16_51_07_9613199.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-18T20:49:09Z",
       "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Shares slide as surging oil prices and bond yields dent confidence",
-      "description": "Tumbling chipmaker stocks sends Wall Street\u2019s main indices near two-week lows",
-      "url": "https://www.irishtimes.com/business/2026/08/18/shares-slide-as-surging-oil-prices-and-bond-yields-dent-confidence/",
-      "image": "https://www.irishtimes.com/resizer/v2/TKUD3PO64HWYLJ6DM37XLRIMZI.jpg?smart=true&auth=4156bb418cdbd8121a35d966d9437bfba9af18bd98fa61508f84ce762469b3aa&width=1200&height=630",
-      "publishedAt": "2026-08-18T16:18:25Z",
-      "source": {
-        "name": "The Irish Times"
+        "name": "Devdiscourse"
       }
     }
   ]
