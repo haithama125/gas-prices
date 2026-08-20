@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-20T12:25:42+00:00",
+  "updated_at": "2026-08-20T18:23:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil price fears mount as Mideast peace hopes fade",
-      "description": "<p>Analysts are expressing concern over oil prices surpassing US$90 a barrel after a deadline set by the US and Iran to reach a deal to end the Middle East war expired, saying the price could break $100, worsening Thailand's current account deficit.</p>",
-      "url": "https://www.bangkokpost.com/business/general/3304600/oil-price-fears-mount-as-mideast-peace-hopes-fade",
-      "image": "https://static.bangkokpost.com/media/content/20260820/c1_3304600_260820053853_700.jpg",
-      "publishedAt": "2026-08-19T22:28:00Z",
+      "title": "US Bond Market Suffers Biggest Shock In 19 Years, Here's What Rising Treasury Yields Mean For India & Global Markets",
+      "description": "US Treasury buybacks eased bond yields, but high debt, oil prices and inflation remain risks for global markets, Indian stocks, the rupee and foreign flows.",
+      "url": "https://www.freepressjournal.in/business/us-bond-market-suffers-biggest-shock-in-19-years-heres-what-rising-treasury-yields-mean-for-india-global-markets",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-20/8yikzk8k/us-bond-yield.jpg",
+      "publishedAt": "2026-08-20T06:21:01Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Weedsport has some of the cheapest gas prices in NY",
-      "description": "The prices are well below the state average, which is north of $4 a gallon.",
-      "url": "https://buffalonews.com/news/state-regional/article_3cc6418a-d073-5d23-b915-cc5302726dd9.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/3/cc/3cc6418a-d073-5d23-b915-cc5302726dd9/6a85bf9662041.preview.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-08-19T21:45:00Z",
+      "title": "Which is the biggest risk for the global markets now? BofA Fund Manager survey answers",
+      "description": "A majority 42% of the Fund Managers surveyed by Bank of America believe that crude oil prices will be between $70 to $80, a third believe that it will be $80 to $90, 13% of them see it down to $70, but there are a few who are hawkish as well. 6% believe that they'll remain in this $90 to $100 range that they currently are in.",
+      "url": "https://www.cnbctv18.com/market/biggest-risk-for-the-global-markets-bofa-fund-manager-survey-fed-rates-equity-allocation-oil-prices-outlook-19973401.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-0c7503afbe60e85e28cbf69e85c0f044.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-20T06:08:10Z",
       "source": {
-        "name": "Buffalo Buffalo News"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Petrol levy, taxes and inflation affect 250m Pakistanis, not just JI: Monem Zafar",
-      "description": "KARACHI\u00a0 -\u00a0 The Jamaat-i-Islami (JI) sit-in outside the Governor House in Karachi continued for a fourth consecutive day on Wednesday against oppressive",
-      "url": "https://www.nation.com.pk/20-Aug-2026/petrol-levy-taxes-inflation-affect-250m-pakistanis-ji-monem-zafar",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-08-19T21:24:00Z",
+      "title": "Brent crude crosses $92 as oil rises for 5th session",
+      "description": "Crude oil prices climbed for the fifth consecutive session, with Brent surpassing $92 per barrel, following President Trump's intensified economic measures against Iran.",
+      "url": "https://www.newsbytesapp.com/news/business/brent-crude-crosses-92-as-oil-rises-for-5th-session/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l52020260820113137.jpeg",
+      "publishedAt": "2026-08-20T06:01:54Z",
       "source": {
-        "name": "The Nation"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Stocks waver, dollar drops as US Treasury moves to lower bond yields",
-      "description": "NEW YORK: Stock markets mostly rose on Wednesday (Aug 19) and the dollar fell sharply after the US Treasury signalled action to push down government bond yields, easing fears that higher borrowing costs would weigh on economic growth worldwide.Oil prices again moved higher on doubts of any quick deal to",
-      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-market-treasury-6329576",
-      "image": "https://dam.mediacorp.sg/image/upload/s--rSAbvVGZ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/20/ap26229539123445.jpg?itok=2HKap3Y4",
-      "publishedAt": "2026-08-19T21:22:50Z",
+      "title": "Rising Tide: The Lingering Impact of the Iran War on Global Oil Refining",
+      "description": "The Iran war has severely impacted global oil refining, causing sustained high diesel and gasoline prices. Despite Brent crude prices retreating from wartime peaks, refined product prices remain elevated due to refinery capacity loss. Global demand continues to outstrip shrinking supplies, signaling prolonged energy price inflation.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3965773-rising-tide-the-lingering-impact-of-the-iran-war-on-global-oil-refining",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_15_51_51_4369121.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T06:01:49Z",
       "source": {
-        "name": "CNA"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-      "description": "Dow Jones futures: Crude oil continues to climb while bitcoin jumped again amid a weak dollar. Walmart earnings are in focus.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/06/stock-oil-iran-adobe.jpg",
-      "publishedAt": "2026-08-19T21:00:39Z",
+      "title": "The Iran war energy crisis is just getting started",
+      "description": "The Iran war has pushed the global oil refining industry to the brink, signalling that diesel and gasoline prices may remain elevated for years. Deal or no deal, the global energy inflation shock is far from over.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/iran-war-energy-crisis-is-just-getting-started-2026-08-20/",
+      "image": "https://www.reuters.com/resizer/v2/IYGMW5EL3FLZXHK7K64D7K4XNA.jpg?auth=da0b6a24c491ae7c4f786ddaa328deebeb9477ed072b617c6a0c7c5a257b4cda&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-20T06:00:41Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Trump approval rating hits record low at 33%, Reuters/Ipsos finds",
-      "description": "Donald Trump's approval rating hits a record-low 33% in a new Reuters/Ipsos poll as the Iran war, rising gas prices and inflation weigh on public opinion.",
-      "url": "https://www.foxnews.com/politics/trump-approval-rating-plummets-new-low-ahead-critical-midterms",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/President-Trump-announces-EOs-against-birth-tourism.jpg",
-      "publishedAt": "2026-08-19T20:13:33Z",
+      "title": "U.S. Dollar Hits Three-Month Low Amid Treasury Intervention",
+      "description": "The U.S. dollar fell to a three-month low after the Treasury Department intervened to stabilize the bond market. With fears of soaring government debt and rising oil prices, the dollar index dropped. Treasury's buyback operations aim to mitigate rising yields, impacting future monetary policy and interest rates.",
+      "url": "https://www.devdiscourse.com/article/business/3965770-us-dollar-hits-three-month-low-amid-treasury-intervention",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_05_20_42_6234505.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T05:59:53Z",
       "source": {
-        "name": "Fox News"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Crude import bill soars 57% to $63 billion in April-July",
-      "description": "India\u2019s crude import bill jumped 57% to $63.4 billion in April\u2013July FY27 due to elevated global oil prices, despite import volumes remaining flat at 81.9 million tonnes.",
-      "url": "https://www.financialexpress.com/policy/economy/crude-import-bill-soars-57-to-63-billion-in-april-july/4321469/",
-      "image": "https://images.financialexpressdigital.com/2026/08/india-russia-us-crude-oil-imports-tariff-shift-in-2026_20260209054514_20260217162316_20260217175627_20260220095516_20260604174931_20260819195624.png",
-      "publishedAt": "2026-08-19T19:58:48Z",
+      "title": "Oil prices rise for fifth session as Iran war threatens global supply",
+      "description": "Brent crude climbed to $91.87 a barrel and WTI to $86 as the prolonged conflict raises concerns over supply disruptions from West Asia",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/18/thumb/fitandfill/1200X628/1781761272-7207.jpg",
+      "publishedAt": "2026-08-20T05:53:25Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Ban on registration of petrol, diesel, CNG smaller light goods vehicles in Delhi from January 1, 2027",
-      "description": "Delhi will ban registration of petrol, diesel, and CNG light goods vehicles from January 1, 2027, expanding to NCR later.",
-      "url": "https://www.thehindu.com/news/cities/Delhi/ban-on-registration-of-petrol-diesel-cng-smaller-light-goods-vehicles-in-delhi-from-january-1-2027/article71366579.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-08-19T19:53:28Z",
+      "title": "Europe's gas prices have doubled, with the worst yet to come",
+      "description": "European gas prices have surged 120% in 2026, and low storage and supply risks leave Europe vulnerable to a costly winter.",
+      "url": "https://www.euronews.com/business/2026/08/20/europes-gas-prices-have-doubled-with-the-worst-yet-to-come",
+      "image": "https://images.euronews.com/articles/stories/09/87/95/79/1200x675_cmsv2_5e77c792-08de-5c27-ae6d-513cea085975-9879579.jpg",
+      "publishedAt": "2026-08-20T05:47:46Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Euronews"
       }
     },
     {
-      "title": "\u2018Many\u2019 Fed officials think higher rates will be needed",
-      "description": "Inflation has since showed some signs of cooling, though gas prices have rebounded this month on renewed hostilities in the Middle East.",
-      "url": "https://www.bostonglobe.com/2026/08/19/business/federal-reserve-officials-higher-rates/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WJBIIPDPVELA5B7BD7EYVXCU5E.jpg?auth=a1c0b63aeaad1fb283bed4ef77493226787e4f9d814b1f3a267b4ddb03f53ff0&width=1440",
-      "publishedAt": "2026-08-19T19:23:42Z",
+      "title": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds",
+      "description": "Early Thursday saw a significant sell-off in Indian government bonds as minutes from the central bank's recent policy meeting hinted at possible rate hikes. Policymakers conveyed increased concerns about inflationary pressures within the economy. Additionally, soaring oil prices exacerbated anxieties about rising interest rates, potentially putting further strain on the rupee and negatively impacting the inflation forecast.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/rbis-surprisingly-hawkish-tone-in-policy-minutes-weighs-on-indian-bonds/articleshow/133365585.cms",
+      "image": "https://img.etimg.com/thumb/msid-133365645,width-1200,height-630,imgsize-87206,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-20T05:42:00Z",
       "source": {
-        "name": "The Boston Globe"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Trump claims US controls Strait of Hormuz. Are gas prices rising?",
-      "description": "Following Trump's remarks claiming U.S. control over the Strait of Hormuz, here's what to know about gas prices in North Carolina.",
-      "url": "https://www.citizen-times.com/story/news/2026/08/19/trump-claims-us-controls-strait-of-hormuz-are-gas-prices-rising-north-carolina/91370749007/",
-      "image": "https://www.citizen-times.com/gcdn/authoring/authoring-images/2026/05/13/PASH/90053592007-0512-gas-5.jpg?crop=2599,1462,x0,y0&width=2599&height=1462&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-19T19:19:40Z",
+      "title": "Asian shares rise as US Treasury debt buybacks ease bond yields",
+      "description": "Asian markets climbed after the US Treasury expanded planned long-term debt buybacks and pushed yields lower. The move calmed investors across equities, though firmer oil prices kept geopolitical worries in view.",
+      "url": "https://www.indiatoday.in/world/story/asian-shares-rise-us-treasury-debt-buyback-eases-bond-yields-ptag-2975523-2026-08-20",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pti-international-1-original_213-sixteen_nine.png?VersionId=LLvWsNG_hJSxZFi62rifKtWjuJwtA_uS",
+      "publishedAt": "2026-08-20T05:36:33Z",
       "source": {
-        "name": "Asheville Citizen-Times"
+        "name": "India Today"
       }
     }
   ]
