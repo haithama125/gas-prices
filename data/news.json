@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-20T06:27:19+00:00",
+  "updated_at": "2026-08-20T12:25:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "No new registrations for CNG, petrol or diesel LGV with less than 3.5k kg in Delhi from 2027: CAQM",
-      "description": "The order also states that no new diesel or petrol N1 LGV will be allowed to be registered in the rest of NCR from January 1, 2028. | Latest News Delhi",
-      "url": "https://www.hindustantimes.com/cities/delhi-news/caqm-petrol-cng-diesel-delhi-caqm-air-pollution-electric-vehicle-ev-noida-gurugram-faridabad-101787163678214.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/cng_1787190248862_1787190248990_b0e0ecc7-b01c-4ce6-8d7f-4f3692f5f6f5.jpeg",
-      "publishedAt": "2026-08-19T18:21:17Z",
+      "title": "Oil price fears mount as Mideast peace hopes fade",
+      "description": "<p>Analysts are expressing concern over oil prices surpassing US$90 a barrel after a deadline set by the US and Iran to reach a deal to end the Middle East war expired, saying the price could break $100, worsening Thailand's current account deficit.</p>",
+      "url": "https://www.bangkokpost.com/business/general/3304600/oil-price-fears-mount-as-mideast-peace-hopes-fade",
+      "image": "https://static.bangkokpost.com/media/content/20260820/c1_3304600_260820053853_700.jpg",
+      "publishedAt": "2026-08-19T22:28:00Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "$2 million childcare centre planned for neglected corner site left vacant for 22 years in Eden Hill",
-      "description": "Plans for a two-storey $2 million childcare centre at a former petrol station site in Eden Hill that has been vacant for almost 22 years have been recommended for approval.",
-      "url": "https://www.perthnow.com.au/wa/perth/central/2-million-childcare-centre-planned-for-neglected-corner-site-left-vacant-for-22-years-in-eden-hill-c-22711139",
-      "image": "https://images.perthnow.com.au/publication/C-22711139/eb01109182c06196e0f25af30e63ebeb0ad5329d-16x9-x30y0w1458h820.jpg?imwidth=1200",
-      "publishedAt": "2026-08-19T18:00:00Z",
+      "title": "Weedsport has some of the cheapest gas prices in NY",
+      "description": "The prices are well below the state average, which is north of $4 a gallon.",
+      "url": "https://buffalonews.com/news/state-regional/article_3cc6418a-d073-5d23-b915-cc5302726dd9.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/buffalonews.com/content/tncms/assets/v3/editorial/3/cc/3cc6418a-d073-5d23-b915-cc5302726dd9/6a85bf9662041.preview.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
+      "publishedAt": "2026-08-19T21:45:00Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Buffalo Buffalo News"
       }
     },
     {
-      "title": "CAQM sets phased curbs on registration of polluting LGVs in Delhi-NCR",
-      "description": "CAQM to phase out new diesel, petrol and CNG light goods vehicle registrations in Delhi-NCR, allowing only electric LGVs from 2027; tighter stone crusher norms too.",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/caqm-sets-phased-curbs-on-registration-of-polluting-lgvs-in-delhi-ncr/articleshow/133356511.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-08-19T17:58:00Z",
+      "title": "Petrol levy, taxes and inflation affect 250m Pakistanis, not just JI: Monem Zafar",
+      "description": "KARACHI\u00a0 -\u00a0 The Jamaat-i-Islami (JI) sit-in outside the Governor House in Karachi continued for a fourth consecutive day on Wednesday against oppressive",
+      "url": "https://www.nation.com.pk/20-Aug-2026/petrol-levy-taxes-inflation-affect-250m-pakistanis-ji-monem-zafar",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-08-19T21:24:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Emergency services race to Warrington petrol station due to fears over man's safety",
-      "description": "Police, paramedics and fire crews all responded",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/emergency-services-race-warrington-petrol-34486119",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34486220.ece/ALTERNATES/s1200d/0_IMG_7360jpeg.jpg",
-      "publishedAt": "2026-08-19T17:51:28Z",
+      "title": "Stocks waver, dollar drops as US Treasury moves to lower bond yields",
+      "description": "NEW YORK: Stock markets mostly rose on Wednesday (Aug 19) and the dollar fell sharply after the US Treasury signalled action to push down government bond yields, easing fears that higher borrowing costs would weigh on economic growth worldwide.Oil prices again moved higher on doubts of any quick deal to",
+      "url": "https://www.channelnewsasia.com/world/us-stocks-wall-street-market-treasury-6329576",
+      "image": "https://dam.mediacorp.sg/image/upload/s--rSAbvVGZ--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/20/ap26229539123445.jpg?itok=2HKap3Y4",
+      "publishedAt": "2026-08-19T21:22:50Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "CNA"
       }
     },
     {
-      "title": "Where are the cheapest gas prices on Staten Island this week?",
-      "description": "According to\u00a0GasBuddy.com, there are still stations across the borough selling gas at prices below the average.",
-      "url": "https://www.silive.com/news/2026/08/where-are-the-cheapest-gas-prices-on-staten-island-this-week.html",
-      "image": "https://www.silive.com/resizer/v2/BO5A67TEAZHIZBHT4KNSHUWLAY.jpg?auth=0e79a7dd60f306f2e2497659e1a1b55636ebca39a6a75dee6b3d480ec8c4defa&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-19T16:31:38Z",
-      "source": {
-        "name": "Staten Island Advance"
-      }
-    },
-    {
-      "title": "India\u2019s crude import bill jumped by 57% year-on-year in April-July",
-      "description": "India\u2019s crude import volumes remained largely unchanged in April-July, but higher oil prices sharply increased the import bill, with renewed US-Iran tensions raising the risk of another rise in costs.",
-      "url": "https://theprint.in/economy/indias-crude-import-bill-jumped-by-57-year-on-year-to-63-4-bn-in-april-july-as-oil-prices-rose/3019764/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/02/crude-oil.jpg",
-      "publishedAt": "2026-08-19T16:30:33Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Oil Prices: 5 Energy Stocks Poised To Rally",
-      "description": "Markets expect oil prices to rise as the U.S.-Iran ceasefire ends. These five energy stocks with no Hormuz exposure are breaking out.",
-      "url": "https://www.investors.com/news/oil-prices-iran-us-hormuz-shell-suncor-ecopetrol-frontline-oneok/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/04/Stock-OilTakers-cutting-shut.jpg",
-      "publishedAt": "2026-08-19T16:14:26Z",
+      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
+      "description": "Dow Jones futures: Crude oil continues to climb while bitcoin jumped again amid a weak dollar. Walmart earnings are in focus.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/06/stock-oil-iran-adobe.jpg",
+      "publishedAt": "2026-08-19T21:00:39Z",
       "source": {
         "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "Genting Plantations sees steady palm oil prices",
-      "description": "Genting Plantations Bhd expects palm oil prices to remain supported in the near term, supported by higher biofuel blending mandates in major producing countries and firmer energy prices amid ongoing geopolitical tensions.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/08/20/genting-plantations-sees-steady-palm-oil-prices",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/20/4068501.jpeg",
-      "publishedAt": "2026-08-19T16:00:00Z",
+      "title": "Trump approval rating hits record low at 33%, Reuters/Ipsos finds",
+      "description": "Donald Trump's approval rating hits a record-low 33% in a new Reuters/Ipsos poll as the Iran war, rising gas prices and inflation weigh on public opinion.",
+      "url": "https://www.foxnews.com/politics/trump-approval-rating-plummets-new-low-ahead-critical-midterms",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/President-Trump-announces-EOs-against-birth-tourism.jpg",
+      "publishedAt": "2026-08-19T20:13:33Z",
       "source": {
-        "name": "The Star"
+        "name": "Fox News"
       }
     },
     {
-      "title": "Ahead of Market: 10 things that will decide stock market action on Thursday",
-      "description": "Indian equities extended losses for a seventh session as rising oil prices and US-Iran tensions heightened risk aversion. Nifty fell to 24,078, while Sensex declined 326 points. Analysts flagged 24,000-24,050 as crucial support, with weak breadth favouring bears.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-thursday/articleshow/133352726.cms",
-      "image": "https://img.etimg.com/thumb/msid-133352751,width-1200,height-630,imgsize-110642,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-19T15:46:00Z",
+      "title": "Crude import bill soars 57% to $63 billion in April-July",
+      "description": "India\u2019s crude import bill jumped 57% to $63.4 billion in April\u2013July FY27 due to elevated global oil prices, despite import volumes remaining flat at 81.9 million tonnes.",
+      "url": "https://www.financialexpress.com/policy/economy/crude-import-bill-soars-57-to-63-billion-in-april-july/4321469/",
+      "image": "https://images.financialexpressdigital.com/2026/08/india-russia-us-crude-oil-imports-tariff-shift-in-2026_20260209054514_20260217162316_20260217175627_20260220095516_20260604174931_20260819195624.png",
+      "publishedAt": "2026-08-19T19:58:48Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Crude Prices Supported by Dollar Weakness and Middle East Tensions",
-      "description": "September WTI crude oil (CLU26) is up +1.42 (+1.67%) on Tuesday, and September RBOB gasoline (RBU26) is down -0.0122 (-0.37%). Crude oil and gasoline prices are mixed today, with crude oil posting a 3-week high. Today\u2019s sharp decline in the dollar i...",
-      "url": "https://www.barchart.com/story/news/3932190/crude-prices-supported-by-dollar-weakness-and-middle-east-tensions",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Satellite%20view%20of%20the%20Middle%20East%20and%20the%20Strait%20of%20Hormuz%20with%20Iran%20highlighted_%20Image%20by%20FoxPictures%20via%20Shutterstock_.jpg",
-      "publishedAt": "2026-08-19T15:34:00Z",
+      "title": "Ban on registration of petrol, diesel, CNG smaller light goods vehicles in Delhi from January 1, 2027",
+      "description": "Delhi will ban registration of petrol, diesel, and CNG light goods vehicles from January 1, 2027, expanding to NCR later.",
+      "url": "https://www.thehindu.com/news/cities/Delhi/ban-on-registration-of-petrol-diesel-cng-smaller-light-goods-vehicles-in-delhi-from-january-1-2027/article71366579.ece",
+      "image": "https://www.thehindu.com/theme/images/og-image.png",
+      "publishedAt": "2026-08-19T19:53:28Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "\u2018Many\u2019 Fed officials think higher rates will be needed",
+      "description": "Inflation has since showed some signs of cooling, though gas prices have rebounded this month on renewed hostilities in the Middle East.",
+      "url": "https://www.bostonglobe.com/2026/08/19/business/federal-reserve-officials-higher-rates/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/WJBIIPDPVELA5B7BD7EYVXCU5E.jpg?auth=a1c0b63aeaad1fb283bed4ef77493226787e4f9d814b1f3a267b4ddb03f53ff0&width=1440",
+      "publishedAt": "2026-08-19T19:23:42Z",
+      "source": {
+        "name": "The Boston Globe"
+      }
+    },
+    {
+      "title": "Trump claims US controls Strait of Hormuz. Are gas prices rising?",
+      "description": "Following Trump's remarks claiming U.S. control over the Strait of Hormuz, here's what to know about gas prices in North Carolina.",
+      "url": "https://www.citizen-times.com/story/news/2026/08/19/trump-claims-us-controls-strait-of-hormuz-are-gas-prices-rising-north-carolina/91370749007/",
+      "image": "https://www.citizen-times.com/gcdn/authoring/authoring-images/2026/05/13/PASH/90053592007-0512-gas-5.jpg?crop=2599,1462,x0,y0&width=2599&height=1462&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-19T19:19:40Z",
+      "source": {
+        "name": "Asheville Citizen-Times"
       }
     }
   ]
