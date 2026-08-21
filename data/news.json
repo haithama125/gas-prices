@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-21T06:27:50+00:00",
+  "updated_at": "2026-08-21T12:25:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol, diesel prices rise for one day from August 21",
-      "description": "The government has announced a marginal increase in petroleum prices, with the revised rates coming into effect from August 21, 2026, for a one-day period.",
-      "url": "https://www.nation.com.pk/20-Aug-2026/petrol-diesel-prices-rise-one-day-august-21",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-08-20/petrol-diesel-prices-rise-one-day-august-21-1787249870-7850.jpg",
-      "publishedAt": "2026-08-20T18:17:59Z",
+      "title": "New fuel price hikes, petrol at \u20ac2.005 per litre, a three",
+      "description": "Fuel price hikes are continuing in Italy as the Iran war knock-on effects continue to bite. Petrol hit a new peak Friday after Thursday's \u20ac2.002 per litre and rose to \u20ac2.005 in self-service mode on the road, the highest price in about three years. (ANSA)",
+      "url": "https://www.ansa.it/english/news/business/2026/08/21/new-fuel-price-hikes-petrol-at-2.005-per-litre-a-three-year_19f84e61-f5bd-46b3-881e-53a677df1a7e.html",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/21/03749f2da17fd7ad5ca6438c19c46704.jpg",
+      "publishedAt": "2026-08-21T00:00:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "Agenzia ANSA"
       }
     },
     {
-      "title": "Vladimir Putin has pushed his people to breaking point",
-      "description": "Editorial: The Russian president appears determined to carry on with his bloody gamble in Ukraine, but ordinary citizens \u2013 facing deadly retaliation from Kyiv, and fighting each other for scarce fuel on petrol forecourts \u2013 are showing signs of having had enough",
-      "url": "https://www.independent.co.uk/voices/editorials/putin-russia-petrol-ukraine-drones-killed-shortages-b3036481.html",
-      "image": "https://static.independent.co.uk/2026/08/20/13/56/Screenshot-2026-08-20-at-14-49-31.png?trim=0,175,0,175&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-08-20T18:01:53Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Walmart sees sales growth slip as US shoppers feel the squeeze",
-      "description": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "url": "https://www.bbc.com/news/articles/cpq8rjy7vxlo",
-      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/40c0/live/b7baf560-9cb6-11f1-a291-b542ee92de7c.jpg",
-      "publishedAt": "2026-08-20T17:59:59Z",
-      "source": {
-        "name": "BBC News"
-      }
-    },
-    {
-      "title": "Why US stocks fell today: Dow, S&P 500, Nasdaq drop as oil and bond yields rise",
-      "description": "US stocks fell as oil prices and Treasury yields rose. Dow, S&P 500 and Nasdaq dropped as Trump's Iran threat, Walmart and the bond market hit Wall Street. | Business News",
-      "url": "https://www.hindustantimes.com/business/why-us-stocks-fell-today-dow-s-p-500-nasdaq-drop-as-oil-and-bond-yields-rise-101787246887780.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/20/1600x900/logo/us_stock_market_down_today_1744304037832_1787247147393_7a83803b-b77a-4ff4-8979-431aab9c230e.jpg",
-      "publishedAt": "2026-08-20T17:49:20Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Walmart Faces Economic Pressures Amidst Slowing Sales Growth",
-      "description": "Walmart reported the slowest quarterly comparable sales growth in six years, amid high gasoline prices impacting consumer spending. Despite raising sales and profit forecasts, investors remain skeptical, with shares dropping. The retailer plans aggressive price cuts to boost demand, leveraging $2.9 billion in tariff refunds.",
-      "url": "https://www.devdiscourse.com/article/business/3966098-walmart-faces-economic-pressures-amidst-slowing-sales-growth",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/24_04_2025_13_38_48_782241.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T17:49:15Z",
+      "title": "U.S. vs Iran: The Economic Warfare Unfolds",
+      "description": "U.S. Treasury chief Scott Bessent announced unprecedented sanctions on Iran, advocating economic pressure over military action. Following President Trump's 'Economic Warfare' declaration, oil prices surged. Despite past ceasefire attempts, tensions persist over Iran's oil trade, with U.S. warnings extending to allies and economic threats possibly impacting China.",
+      "url": "https://www.devdiscourse.com/article/politics/3966164-us-vs-iran-the-economic-warfare-unfolds",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_07_2024_14_31_35_7429929.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T23:57:24Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Crude oil prices surge to near one-month high as US prepares sweeping sanctions on Iran",
-      "description": "Crude oil prices reach near one -month highs as the US plans extensive sanctions against Iran, aiming to isolate the country economically. Brent crude rose almost $3 to $92 a barrel while WTI jumped 3.3% to $86.72, amid rising tensions and Trump's warnings about economic penalties.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-surge-to-near-one-month-high-as-us-prepares-sweeping-sanctions-on-iran-11787244062232.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/TEXAS-OIL-8_1772698726899_1772698739494_1787244105979_71473cf0-b4b6-4fa2-b1c0-000aa92c5ba5.jpg",
-      "publishedAt": "2026-08-20T17:30:52Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Oil prices soar after Trump\u2019s threats against Iran over an \u201cEconomic D",
-      "description": "The US president threatened the most crushing economic warfare operation ever conducted against any country, giving fresh impetus to the rally in oil prices",
-      "url": "https://en.protothema.gr/2026/08/20/oil-prices-soar-after-trumps-threats-against-iran-over-an-economic-d-day-brent-approaches-94/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/oildrill32-xrm.webp",
-      "publishedAt": "2026-08-20T17:09:00Z",
-      "source": {
-        "name": "Proto Thema"
-      }
-    },
-    {
-      "title": "U.S. Unveils 'Toughest Sanctions' in Effort Against Iran",
-      "description": "U.S. Treasury Secretary Scott Bessent announced the 'toughest sanctions in history' on Iran. These measures aim to pressure Iran economically and politically. The U.S. is urging China and other allies to align with this initiative. The sanctions come amid rising oil prices and geopolitical tensions.",
-      "url": "https://www.devdiscourse.com/article/politics/3966062-us-unveils-toughest-sanctions-in-effort-against-iran",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_14_11_36_4077226.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T16:14:34Z",
+      "title": "U.S. Sanctions on Iran: A Diplomatic Standoff with China",
+      "description": "U.S. Treasury Secretary Scott Bessent announced unprecedented sanctions on Iran, urging China to align with the U.S. strategy, despite China's call for diplomatic solutions. As tensions rise, oil prices climb amid concerns over U.S.-China economic relations, with potential implications for global energy markets.",
+      "url": "https://www.devdiscourse.com/article/politics/3966156-us-sanctions-on-iran-a-diplomatic-standoff-with-china",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_22_17_55_3119748.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T23:14:28Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "CAQM directs Delhi-NCT to ban diesel, petrol, CNG light goods vehicles from January 2027, to be replaced by EVs",
-      "description": "CAQM mandates a phased ban on diesel, petrol, and CNG light goods vehicles in Delhi-NCR starting January 2027, promoting EVs.",
-      "url": "https://www.thehindubusinessline.com/economy/logistics/caqm-directs-delhi-nct-to-ban-diesel-petrol-cng-light-goods-vehicles-from-january-2027-to-be-replaced-by-evs/article71370147.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/ls0b7h/article71370351.ece/alternates/LANDSCAPE_1200/20260728550L.jpg",
-      "publishedAt": "2026-08-20T15:56:43Z",
+      "title": "Oil settles over 2% higher on Trump Iran threat",
+      "description": "Oil prices jumped more than 2% on Thursday to settle at the highest in nearly a month, after US\u00a0President Donald Trump warned of retaliation against nations supporting Iran, his latest attempt to resolve a war that has stranded millions of barrels of Middle Eastern oil.",
+      "url": "https://www.thestar.com.my/business/2026/08/21/oil-settles-over-2-higher-on-trump-iran-threat",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070581.jpeg",
+      "publishedAt": "2026-08-20T23:02:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "The Star"
       }
     },
     {
-      "title": "IndianOil inks supply agreement with Mauritius for petrol, diesel, ATF",
-      "description": "State-owned IndianOil Thursday entered into an five-year agreement with Mauritius\u2019 State Trading Corporation for supplying petrol, diesel and aviation turbine fuel (ATF).",
-      "url": "https://www.thehindu.com/business/indianoil-inks-supply-agreement-with-mauritius-for-petrol-diesel-atf/article71370353.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-08-20T15:50:19Z",
+      "title": "Wall St sinks as bond yields rise, Walmart disappoints",
+      "description": "The three main US\u00a0equity indices\u00a0closed lower on Thursday as rising Treasury yields dented risk appetite while disappointing results from retail bellwether Walmart soured investors on the consumer sector and rallying oil prices fanned inflation worries.",
+      "url": "https://www.thestar.com.my/business/2026/08/21/wall-st-sinks-as-bond-yields-rise-walmart-disappoints",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070578.jpeg",
+      "publishedAt": "2026-08-20T23:02:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
+      "description": "Worries about the state of the consumer, higher oil prices and elevated interest rates are overshadowing strong company fundamentals.",
+      "url": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
+      "publishedAt": "2026-08-20T22:28:26Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "Stock Market Suffers After Trump's 'Economic D-Day' Threat To Iran",
+      "description": "The stock market posts heavy losses Thursday after President Trump's latest Iran threats. Oil prices, Treasury yields and bitcoin jump.",
+      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-trump-threats-oil-prices-treasury-yields-bitcoin-jump/",
+      "image": "https://www.investors.com/wp-content/uploads/2024/08/Stock-bearbullcharge-generatedai-01-adobe.jpg",
+      "publishedAt": "2026-08-20T22:12:48Z",
+      "source": {
+        "name": "Investor's Business Daily"
+      }
+    },
+    {
+      "title": "Wall Street falls as Walmart shares plunge, US bond yields surge and Iran conflict drives oil prices higher",
+      "description": "The main US stock indices have fallen as rebounding government bond yields hurt sentiment, while retail bellwether Walmart faced sharp declines after a",
+      "url": "https://www.europesays.com/3205871/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/fa3c127781abd21584ebeab5546b972efe16da84-16x9-x0y0w1280h720.webp",
+      "publishedAt": "2026-08-20T21:40:37Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "US Threatens \u2018Toughest Sanctions In History\u2019 On Iran As Oil Prices Surge",
+      "description": "The U.S. is set to impose unprecedented sanctions on Iran, as stated by Treasury Secretary Scott Bessent, amid escalating tensions and a six-month conflict., US News, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-news/us-threatens-toughest-sanctions-in-history-on-iran-as-oil-prices-surge-article-155927328",
+      "image": "https://images.timesnownews.com/thumb/msid-155929021,thumbsize-95758,width-1280,height-720,resizemode-75/155929021.jpg",
+      "publishedAt": "2026-08-20T21:37:38Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Bulls Break Free, Return after US Treasury Action",
+      "description": "Indian equity gauges defied hardening oil prices and local bond yields to advance nearly 1% Thursday, snapping a week-long losing streak, as the dollar retreated to its lowest in three months and yields on US long bonds cooled from levels last seen during the subprime crisis two decades ago.",
+      "url": "https://economictimes.indiatimes.com/et-front/bulls-break-free-return-after-us-treasury-action/articleshow/133387771.cms",
+      "image": "https://img.etimg.com/thumb/msid-133389703,width-1200,height-630,imgsize-130974,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-20T21:32:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
