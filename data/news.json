@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-20T18:23:14+00:00",
+  "updated_at": "2026-08-21T00:41:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US Bond Market Suffers Biggest Shock In 19 Years, Here's What Rising Treasury Yields Mean For India & Global Markets",
-      "description": "US Treasury buybacks eased bond yields, but high debt, oil prices and inflation remain risks for global markets, Indian stocks, the rupee and foreign flows.",
-      "url": "https://www.freepressjournal.in/business/us-bond-market-suffers-biggest-shock-in-19-years-heres-what-rising-treasury-yields-mean-for-india-global-markets",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-20/8yikzk8k/us-bond-yield.jpg",
-      "publishedAt": "2026-08-20T06:21:01Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Which is the biggest risk for the global markets now? BofA Fund Manager survey answers",
-      "description": "A majority 42% of the Fund Managers surveyed by Bank of America believe that crude oil prices will be between $70 to $80, a third believe that it will be $80 to $90, 13% of them see it down to $70, but there are a few who are hawkish as well. 6% believe that they'll remain in this $90 to $100 range that they currently are in.",
-      "url": "https://www.cnbctv18.com/market/biggest-risk-for-the-global-markets-bofa-fund-manager-survey-fed-rates-equity-allocation-oil-prices-outlook-19973401.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-0c7503afbe60e85e28cbf69e85c0f044.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-20T06:08:10Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Brent crude crosses $92 as oil rises for 5th session",
-      "description": "Crude oil prices climbed for the fifth consecutive session, with Brent surpassing $92 per barrel, following President Trump's intensified economic measures against Iran.",
-      "url": "https://www.newsbytesapp.com/news/business/brent-crude-crosses-92-as-oil-rises-for-5th-session/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l52020260820113137.jpeg",
-      "publishedAt": "2026-08-20T06:01:54Z",
-      "source": {
-        "name": "NewsBytes"
-      }
-    },
-    {
-      "title": "Rising Tide: The Lingering Impact of the Iran War on Global Oil Refining",
-      "description": "The Iran war has severely impacted global oil refining, causing sustained high diesel and gasoline prices. Despite Brent crude prices retreating from wartime peaks, refined product prices remain elevated due to refinery capacity loss. Global demand continues to outstrip shrinking supplies, signaling prolonged energy price inflation.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3965773-rising-tide-the-lingering-impact-of-the-iran-war-on-global-oil-refining",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_15_51_51_4369121.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T06:01:49Z",
+      "title": "Walmart Faces Headwinds Despite E-commerce Growth",
+      "description": "Walmart missed its quarterly sales expectations for the first time in over five years as consumers tightened spending amid rising gas prices. The retailer slightly increased its annual forecast, while growth in its e-commerce and advertising units couldn't offset a slowdown in store visits and pharmacy sales.",
+      "url": "https://www.devdiscourse.com/article/business/3965970-walmart-faces-headwinds-despite-e-commerce-growth",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/19_06_2025_09_28_31_6207812.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T12:36:53Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "The Iran war energy crisis is just getting started",
-      "description": "The Iran war has pushed the global oil refining industry to the brink, signalling that diesel and gasoline prices may remain elevated for years. Deal or no deal, the global energy inflation shock is far from over.",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/iran-war-energy-crisis-is-just-getting-started-2026-08-20/",
-      "image": "https://www.reuters.com/resizer/v2/IYGMW5EL3FLZXHK7K64D7K4XNA.jpg?auth=da0b6a24c491ae7c4f786ddaa328deebeb9477ed072b617c6a0c7c5a257b4cda&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-08-20T06:00:41Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "U.S. Dollar Hits Three-Month Low Amid Treasury Intervention",
-      "description": "The U.S. dollar fell to a three-month low after the Treasury Department intervened to stabilize the bond market. With fears of soaring government debt and rising oil prices, the dollar index dropped. Treasury's buyback operations aim to mitigate rising yields, impacting future monetary policy and interest rates.",
-      "url": "https://www.devdiscourse.com/article/business/3965770-us-dollar-hits-three-month-low-amid-treasury-intervention",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_09_2025_05_20_42_6234505.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T05:59:53Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil prices rise for fifth session as Iran war threatens global supply",
-      "description": "Brent crude climbed to $91.87 a barrel and WTI to $86 as the prolonged conflict raises concerns over supply disruptions from West Asia",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-for-fifth-session-as-iran-war-threatens-global-supply-126082000261_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/18/thumb/fitandfill/1200X628/1781761272-7207.jpg",
-      "publishedAt": "2026-08-20T05:53:25Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Europe's gas prices have doubled, with the worst yet to come",
-      "description": "European gas prices have surged 120% in 2026, and low storage and supply risks leave Europe vulnerable to a costly winter.",
-      "url": "https://www.euronews.com/business/2026/08/20/europes-gas-prices-have-doubled-with-the-worst-yet-to-come",
-      "image": "https://images.euronews.com/articles/stories/09/87/95/79/1200x675_cmsv2_5e77c792-08de-5c27-ae6d-513cea085975-9879579.jpg",
-      "publishedAt": "2026-08-20T05:47:46Z",
-      "source": {
-        "name": "Euronews"
-      }
-    },
-    {
-      "title": "RBI's surprisingly hawkish tone in policy minutes weighs on Indian bonds",
-      "description": "Early Thursday saw a significant sell-off in Indian government bonds as minutes from the central bank's recent policy meeting hinted at possible rate hikes. Policymakers conveyed increased concerns about inflationary pressures within the economy. Additionally, soaring oil prices exacerbated anxieties about rising interest rates, potentially putting further strain on the rupee and negatively impacting the inflation forecast.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/rbis-surprisingly-hawkish-tone-in-policy-minutes-weighs-on-indian-bonds/articleshow/133365585.cms",
-      "image": "https://img.etimg.com/thumb/msid-133365645,width-1200,height-630,imgsize-87206,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-20T05:42:00Z",
+      "title": "Investors dump India bonds after hawkish RBI minutes",
+      "description": "Domestic bonds experienced mounting pressure after the Reserve Bank of India's recent policy minutes conveyed a hawkish tone. The escalation in oil prices further compounded this decline in bond values. Policymakers expressed a willingness to raise interest rates if inflation concerns arise, triggering fears of increased borrowing costs within the economy. Meanwhile, global bond markets grapple with a challenging inflation and interest rate forecast.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/investors-dump-india-bonds-after-hawkish-rbi-minutes/articleshow/133377449.cms",
+      "image": "https://img.etimg.com/thumb/msid-133377493,width-1200,height-630,imgsize-121028,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-20T12:29:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Asian shares rise as US Treasury debt buybacks ease bond yields",
-      "description": "Asian markets climbed after the US Treasury expanded planned long-term debt buybacks and pushed yields lower. The move calmed investors across equities, though firmer oil prices kept geopolitical worries in view.",
-      "url": "https://www.indiatoday.in/world/story/asian-shares-rise-us-treasury-debt-buyback-eases-bond-yields-ptag-2975523-2026-08-20",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/pti-international-1-original_213-sixteen_nine.png?VersionId=LLvWsNG_hJSxZFi62rifKtWjuJwtA_uS",
-      "publishedAt": "2026-08-20T05:36:33Z",
+      "title": "India\u2019s Crude Oil Import Bill Jumps 57% To $63.4 Billion In April-July FY27 Despite Flat Volumes",
+      "description": "India\u2019s crude oil import bill surged nearly 57% year-on-year to $63.4 billion during April-July FY27, despite import volumes rising only 0.5%. Higher global oil prices significantly increased the country\u2019s energy costs, while crude import dependence remained high at 88.3%. The overall oil and gas import bill also widened sharply",
+      "url": "https://www.freepressjournal.in/business/indias-crude-oil-import-bill-jumps-57-to-634-billion-in-april-july-fy27-despite-flat-volumes",
+      "image": "https://media.assettype.com/freepressjournal/2024-04/4ebf5f2b-8e8f-4a14-b538-5faeaa985aec/Crude_oil_windfall.jpg",
+      "publishedAt": "2026-08-20T12:26:00Z",
       "source": {
-        "name": "India Today"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Live: US futures subdued as bond yields rebound; Walmart slides after results - The Economic Times",
+      "description": "Dow Jones Today | US Stock Market Live: Concerns over elevated oil prices stemming from the Iran conflict and increasing government debt battered bond markets this week, sending the US 30-year Treasury yield to a near-two-decade high.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-trump-iran-war-hormuz-deal-brent-crude-oil-fed-minutes-rate-hike-retail-earnings-walmart-moderna-bitcoin-coinbase-chip-stock-price-news-20th-august-2026/liveblog/133377376.cms",
+      "image": "https://economictimes.indiatimes.com/thumb/msid-133377376,width-1200,height-900,resizemode-4,imglength-173064/markets/us-stocks/news/dow-jones-us-stock-market-live-updates-nasdaq-sp-500-trump-iran-war-hormuz-deal-brent-crude-oil-fed-minutes-rate-hike-retail-earnings-walmart-moderna-bitcoin-coinbase-chip-stock-price-news-20th-august-2026.jpg",
+      "publishedAt": "2026-08-20T12:23:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "D\u00e1il recall over fuel interventions 'under review', minister says",
+      "description": "An excite cut of 32c on a litre of diesel and 27c for petrol is due to be phased out from September.",
+      "url": "https://www.breakingnews.ie/ireland/dail-recall-over-fuel-interventions-under-review-minister-says-1942046.html",
+      "image": "https://img.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL2ltYWdlcy5icmVha2luZ25ld3MuaWVcXFwvcHJvZFxcXC91cGxvYWRzXFxcLzIwMjZcXFwvMDhcXFwvMjAxMzAzMjlcXFwvOWRhNWYxNjAtYWMyYS00MDViLTljZWYtMmMyMGExZGNkOWJiLmpwZ1wiLFwid2lkdGhcIjoxMjAwLFwiaGVpZ2h0XCI6NjI3LFwiZGVmYXVsdFwiOlwiaHR0cHM6XFxcL1xcXC93d3cuYnJlYWtpbmduZXdzLmllXFxcL2lcXFwvYm4tbm9pbWFnZS5wbmdcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiNjJjNmEzY2M4YTIxYTVhOTAzNmY3NzNjMjMyNGM1NWI4ZTA2ZTdhYyJ9/dil-recall-over-fuel-interventions-under-review-minister-says.jpg",
+      "publishedAt": "2026-08-20T12:12:55Z",
+      "source": {
+        "name": "BreakingNews.ie"
+      }
+    },
+    {
+      "title": "U.S. Treasury Measures Struggle to Calm Bond Market Turmoil",
+      "description": "U.S. government bonds saw increased yields after a short respite, pressuring stocks as investors doubted the longevity of Treasury support measures. While some stock markets showed gains, others continued to struggle alongside rising oil prices and mixed sentiment about future interest rate hikes to combat inflation.",
+      "url": "https://www.devdiscourse.com/article/business/3965944-us-treasury-measures-struggle-to-calm-bond-market-turmoil",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/08_09_2025_15_21_32_0878569.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T11:58:54Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Wall Street Subdued as Bond Yields Rebound and Oil Prices Rise",
+      "description": "U.S. stock index futures saw little movement as bond yields rose again. Walmart's earnings fell short, impacting the market. Elevated oil prices from the Iran conflict and debt concerns affected bond markets. Despite fluctuations, analysts remain positive on equities, while oil prices continue to climb.",
+      "url": "https://www.devdiscourse.com/article/business/3965932-wall-street-subdued-as-bond-yields-rebound-and-oil-prices-rise",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_10_14_15_5129204.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T11:40:49Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Walmart's Mixed Quarter: E-commerce Shines Amid Slowing Sales",
+      "description": "Walmart experienced a dip in comparable sales due to reduced consumer spending against rising gas prices, causing a 6% fall in pre-market shares. Despite this, the retailer raised its annual sales and profit forecasts, noting significant growth in its e-commerce sector. The report highlights the retail landscape's current challenges.",
+      "url": "https://www.devdiscourse.com/article/business/3965926-walmarts-mixed-quarter-e-commerce-shines-amid-slowing-sales",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/24_04_2025_13_38_48_782241.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T11:34:14Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Residents' shock at petrol bomb attack outside wedding attended by children",
+      "description": "Residents heard 'screaming' and people 'panicking' during a petrol bomb attack outside Royal Shalimar in Sparkbrook",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/residents-shock-petrol-bomb-attack-34488188",
+      "image": "https://i2-prod.birminghammail.co.uk/article34488279.ece/ALTERNATES/s1200d/0_WhatsApp-Image-2026-08-20-at-074307-1jpeg.jpg",
+      "publishedAt": "2026-08-20T11:30:15Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "EU's Gas Storage Crisis: Facing Winter Challenges",
+      "description": "The European Union's natural gas storage stands at 62% capacity, with no immediate supply concerns, according to the European Commission. However, high gas prices, influenced by geopolitical tensions, are deterring companies from storing gas. Last year, EU gas storage was at 74% capacity at this time.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3965919-eus-gas-storage-crisis-facing-winter-challenges",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_13_58_26_6585328.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-20T11:21:41Z",
+      "source": {
+        "name": "Devdiscourse"
       }
     }
   ]
