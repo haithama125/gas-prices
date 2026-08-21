@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-21T12:25:26+00:00",
+  "updated_at": "2026-08-21T18:21:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "New fuel price hikes, petrol at \u20ac2.005 per litre, a three",
-      "description": "Fuel price hikes are continuing in Italy as the Iran war knock-on effects continue to bite. Petrol hit a new peak Friday after Thursday's \u20ac2.002 per litre and rose to \u20ac2.005 in self-service mode on the road, the highest price in about three years. (ANSA)",
-      "url": "https://www.ansa.it/english/news/business/2026/08/21/new-fuel-price-hikes-petrol-at-2.005-per-litre-a-three-year_19f84e61-f5bd-46b3-881e-53a677df1a7e.html",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/21/03749f2da17fd7ad5ca6438c19c46704.jpg",
-      "publishedAt": "2026-08-21T00:00:00Z",
+      "title": "Auto, taxi rides in Mumbai to get costlier amid higher petrol, diesel prices",
+      "description": "After the fare hike, likely to be imposed in the coming weeks, the base fare for auto-rickshaws will rise by Re 1.",
+      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-auto-taxi-kaali-peeli-rides-costlier-rising-petrol-diesel-prices-10842943/",
+      "image": "https://images.indianexpress.com/2026/05/auto.jpg",
+      "publishedAt": "2026-08-21T06:16:27Z",
       "source": {
-        "name": "Agenzia ANSA"
+        "name": "The Indian Express"
       }
     },
     {
-      "title": "U.S. vs Iran: The Economic Warfare Unfolds",
-      "description": "U.S. Treasury chief Scott Bessent announced unprecedented sanctions on Iran, advocating economic pressure over military action. Following President Trump's 'Economic Warfare' declaration, oil prices surged. Despite past ceasefire attempts, tensions persist over Iran's oil trade, with U.S. warnings extending to allies and economic threats possibly impacting China.",
-      "url": "https://www.devdiscourse.com/article/politics/3966164-us-vs-iran-the-economic-warfare-unfolds",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/18_07_2024_14_31_35_7429929.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T23:57:24Z",
+      "title": "Indian govt bonds hang tight before supply as oil stalls",
+      "description": "Indian government bonds stabilize as oil prices ease, anticipating a crucial \u20b928,000 crore debt auction amid hawkish RBI signals.",
+      "url": "https://www.thehindubusinessline.com/markets/indian-govt-bonds-hang-tight-before-supply-as-oil-stalls/article71372342.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/xxrw8d/article71372413.ece/alternates/LANDSCAPE_1200/IMG_BL02_Government_bond_2_1_Q98EFHHC.jpg",
+      "publishedAt": "2026-08-21T06:04:47Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "JD Vance hails \u2018economic pressure\u2019 as top tool against Iran despite previous \u2018divide\u2019 with Trump",
+      "description": "The US announced its toughest sanctions yet on Iran, threatening severe consequences for its allies. Trump and VP Vance align on using economic pressure while addressing rising oil and gas prices amid escalating tensions.",
+      "url": "https://www.financialexpress.com/world-news/us-news/jd-vance-hails-economic-pressure-as-top-tool-against-iran-despite-previous-divide-with-trump/4322312/",
+      "image": "https://images.financialexpressdigital.com/2026/08/trump-vance-iran-war_20260821060220.jpg",
+      "publishedAt": "2026-08-21T06:04:17Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "India\u2019s economic growth rate could be closer to 7%, beat estimates: RBI\u2019s Poonam Gupta",
+      "description": "RBI Deputy Governor Poonam Gupta described the current environment as a \u201ctriple shock\u201d of higher oil prices, US tariffs and extreme global uncertainty.",
+      "url": "https://www.businesstoday.in/latest/economy/story/indias-economic-growth-rate-could-be-closer-to-7-percent-beat-estimates-rbis-poonam-gupta-550515-2026-08-21",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a87e3acdc34e-indias-growth-rate-could-beat-rbi-estimates--says-deputy-governor-poonam-gupta-213535537-16x9.jpg",
+      "publishedAt": "2026-08-21T05:37:48Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Oil Prices Set For 5% Weekly Gain As Fresh US Iran Measures Raise Supply Disruption Fears",
+      "description": "Oil prices are heading for a strong weekly gain as the US prepares new economic measures against Iran, raising concerns over further disruptions to global energy supplies. Brent crude remained above $93 a barrel, while WTI stayed near $86. Tightening Iranian exports and risks around Hormuz are adding market pressure",
+      "url": "https://www.freepressjournal.in/business/oil-prices-set-for-5-weekly-gain-as-fresh-us-iran-measures-raise-supply-disruption-fears",
+      "image": "https://media.assettype.com/freepressjournal/2026-03-20/d1r8lv7u/Russian-Oil.jpg",
+      "publishedAt": "2026-08-21T05:36:28Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Asian Markets Suffer as Global Bond Stress Intensifies",
+      "description": "Most Asian share indices were headed for weekly declines due to ongoing stress in global bond markets, coupled with a deadlock in the Gulf pushing up oil prices. U.S. Treasury interventions had limited impact, and investors remain wary of high yields affecting debt costs and stock valuations.",
+      "url": "https://www.devdiscourse.com/article/business/3966222-asian-markets-suffer-as-global-bond-stress-intensifies",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_07_2024_08_25_17_1031494.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-21T05:36:04Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "U.S. Sanctions on Iran: A Diplomatic Standoff with China",
-      "description": "U.S. Treasury Secretary Scott Bessent announced unprecedented sanctions on Iran, urging China to align with the U.S. strategy, despite China's call for diplomatic solutions. As tensions rise, oil prices climb amid concerns over U.S.-China economic relations, with potential implications for global energy markets.",
-      "url": "https://www.devdiscourse.com/article/politics/3966156-us-sanctions-on-iran-a-diplomatic-standoff-with-china",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/10_07_2025_22_17_55_3119748.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-20T23:14:28Z",
+      "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade",
+      "description": "Rupee strengthens by 9 paise to 95.65 against the U.S. dollar amid weakening dollar and elevated crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-gains-9-paise-to-9565-against-us-dollar-in-early-trade/article71372308.ece",
+      "image": "https://th-i.thgim.com/public/incoming/kmd7mv/article71372316.ece/alternates/LANDSCAPE_1200/2026-08-19T125511Z_260477781_RC2G1NAC5BRT_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-08-21T05:31:21Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Oil settles over 2% higher on Trump Iran threat",
-      "description": "Oil prices jumped more than 2% on Thursday to settle at the highest in nearly a month, after US\u00a0President Donald Trump warned of retaliation against nations supporting Iran, his latest attempt to resolve a war that has stranded millions of barrels of Middle Eastern oil.",
-      "url": "https://www.thestar.com.my/business/2026/08/21/oil-settles-over-2-higher-on-trump-iran-threat",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070581.jpeg",
-      "publishedAt": "2026-08-20T23:02:00Z",
+      "title": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
+      "description": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Straight-Weekly-Gain-as-Iran-Risks-Mount.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_zd0a5lo3uf.jpg",
+      "publishedAt": "2026-08-21T05:30:00Z",
       "source": {
-        "name": "The Star"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Wall St sinks as bond yields rise, Walmart disappoints",
-      "description": "The three main US\u00a0equity indices\u00a0closed lower on Thursday as rising Treasury yields dented risk appetite while disappointing results from retail bellwether Walmart soured investors on the consumer sector and rallying oil prices fanned inflation worries.",
-      "url": "https://www.thestar.com.my/business/2026/08/21/wall-st-sinks-as-bond-yields-rise-walmart-disappoints",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/21/4070578.jpeg",
-      "publishedAt": "2026-08-20T23:02:00Z",
+      "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
+      "description": "Resilient oil prices are prompting China\u2019s refiners to keep crude purchases below the lofty levels seen before the Iran war, even as analysts and industry consultancies estimate imports are edging back toward 10 million barrels a day.",
+      "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "publishedAt": "2026-08-21T05:22:53Z",
       "source": {
-        "name": "The Star"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'",
-      "description": "Worries about the state of the consumer, higher oil prices and elevated interest rates are overshadowing strong company fundamentals.",
-      "url": "https://www.cnbc.com/2026/08/20/jim-cramer-jarring-gulf-stock-prices-reality.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107113454-NUP_198430_00638r.jpg?v=1695164732&w=1920&h=1080",
-      "publishedAt": "2026-08-20T22:28:26Z",
+      "title": "Sensex, Nifty go up and down on volatile Friday morning as crude, yield stress weigh down on market sentiment",
+      "description": "Indian stocks drift in narrow range as West Asia diplomatic deadlock, oil prices, and bond jitters cap last session\u2019s relief rally",
+      "url": "https://www.theweek.in/news/biz-tech/2026/08/21/sensex-nifty-trading-update-weekend.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2024/9/2/bse-sensex-bull.jpg",
+      "publishedAt": "2026-08-21T05:22:28Z",
       "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Stock Market Suffers After Trump's 'Economic D-Day' Threat To Iran",
-      "description": "The stock market posts heavy losses Thursday after President Trump's latest Iran threats. Oil prices, Treasury yields and bitcoin jump.",
-      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-trump-threats-oil-prices-treasury-yields-bitcoin-jump/",
-      "image": "https://www.investors.com/wp-content/uploads/2024/08/Stock-bearbullcharge-generatedai-01-adobe.jpg",
-      "publishedAt": "2026-08-20T22:12:48Z",
-      "source": {
-        "name": "Investor's Business Daily"
-      }
-    },
-    {
-      "title": "Wall Street falls as Walmart shares plunge, US bond yields surge and Iran conflict drives oil prices higher",
-      "description": "The main US stock indices have fallen as rebounding government bond yields hurt sentiment, while retail bellwether Walmart faced sharp declines after a",
-      "url": "https://www.europesays.com/3205871/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/fa3c127781abd21584ebeab5546b972efe16da84-16x9-x0y0w1280h720.webp",
-      "publishedAt": "2026-08-20T21:40:37Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "US Threatens \u2018Toughest Sanctions In History\u2019 On Iran As Oil Prices Surge",
-      "description": "The U.S. is set to impose unprecedented sanctions on Iran, as stated by Treasury Secretary Scott Bessent, amid escalating tensions and a six-month conflict., US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/us-threatens-toughest-sanctions-in-history-on-iran-as-oil-prices-surge-article-155927328",
-      "image": "https://images.timesnownews.com/thumb/msid-155929021,thumbsize-95758,width-1280,height-720,resizemode-75/155929021.jpg",
-      "publishedAt": "2026-08-20T21:37:38Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Bulls Break Free, Return after US Treasury Action",
-      "description": "Indian equity gauges defied hardening oil prices and local bond yields to advance nearly 1% Thursday, snapping a week-long losing streak, as the dollar retreated to its lowest in three months and yields on US long bonds cooled from levels last seen during the subprime crisis two decades ago.",
-      "url": "https://economictimes.indiatimes.com/et-front/bulls-break-free-return-after-us-treasury-action/articleshow/133387771.cms",
-      "image": "https://img.etimg.com/thumb/msid-133389703,width-1200,height-630,imgsize-130974,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-20T21:32:00Z",
-      "source": {
-        "name": "The Economic Times"
+        "name": "THE WEEK"
       }
     }
   ]
