@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-08-21T18:21:52+00:00",
+  "updated_at": "2026-08-22T00:38:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Auto, taxi rides in Mumbai to get costlier amid higher petrol, diesel prices",
-      "description": "After the fare hike, likely to be imposed in the coming weeks, the base fare for auto-rickshaws will rise by Re 1.",
-      "url": "https://indianexpress.com/article/cities/mumbai/mumbai-auto-taxi-kaali-peeli-rides-costlier-rising-petrol-diesel-prices-10842943/",
-      "image": "https://images.indianexpress.com/2026/05/auto.jpg",
-      "publishedAt": "2026-08-21T06:16:27Z",
+      "title": "Why are oil prices rising? US-Iran tensions threaten Middle East oil supply",
+      "description": "Oil prices rise for a second week as US-Iran tensions, sanctions and Strait of Hormuz disruptions raise fears of tighter global oil supplies.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/why-are-oil-prices-rising-us-iran-tensions-threaten-middle-east-oil-supply-101787314984605.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/21/1600x900/logo/pexels-photo-15981221_1785163415161_1785163425310_73a51b41-5ca8-4121-bdcc-8c3e129ecc7b_1787315229754_782f7924-534a-4d7d-b89e-349ed2b20ad2.jpeg",
+      "publishedAt": "2026-08-21T12:32:21Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Indian govt bonds hang tight before supply as oil stalls",
-      "description": "Indian government bonds stabilize as oil prices ease, anticipating a crucial \u20b928,000 crore debt auction amid hawkish RBI signals.",
-      "url": "https://www.thehindubusinessline.com/markets/indian-govt-bonds-hang-tight-before-supply-as-oil-stalls/article71372342.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/xxrw8d/article71372413.ece/alternates/LANDSCAPE_1200/IMG_BL02_Government_bond_2_1_Q98EFHHC.jpg",
-      "publishedAt": "2026-08-21T06:04:47Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "JD Vance hails \u2018economic pressure\u2019 as top tool against Iran despite previous \u2018divide\u2019 with Trump",
-      "description": "The US announced its toughest sanctions yet on Iran, threatening severe consequences for its allies. Trump and VP Vance align on using economic pressure while addressing rising oil and gas prices amid escalating tensions.",
-      "url": "https://www.financialexpress.com/world-news/us-news/jd-vance-hails-economic-pressure-as-top-tool-against-iran-despite-previous-divide-with-trump/4322312/",
-      "image": "https://images.financialexpressdigital.com/2026/08/trump-vance-iran-war_20260821060220.jpg",
-      "publishedAt": "2026-08-21T06:04:17Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "India\u2019s economic growth rate could be closer to 7%, beat estimates: RBI\u2019s Poonam Gupta",
-      "description": "RBI Deputy Governor Poonam Gupta described the current environment as a \u201ctriple shock\u201d of higher oil prices, US tariffs and extreme global uncertainty.",
-      "url": "https://www.businesstoday.in/latest/economy/story/indias-economic-growth-rate-could-be-closer-to-7-percent-beat-estimates-rbis-poonam-gupta-550515-2026-08-21",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a87e3acdc34e-indias-growth-rate-could-beat-rbi-estimates--says-deputy-governor-poonam-gupta-213535537-16x9.jpg",
-      "publishedAt": "2026-08-21T05:37:48Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Oil Prices Set For 5% Weekly Gain As Fresh US Iran Measures Raise Supply Disruption Fears",
-      "description": "Oil prices are heading for a strong weekly gain as the US prepares new economic measures against Iran, raising concerns over further disruptions to global energy supplies. Brent crude remained above $93 a barrel, while WTI stayed near $86. Tightening Iranian exports and risks around Hormuz are adding market pressure",
-      "url": "https://www.freepressjournal.in/business/oil-prices-set-for-5-weekly-gain-as-fresh-us-iran-measures-raise-supply-disruption-fears",
-      "image": "https://media.assettype.com/freepressjournal/2026-03-20/d1r8lv7u/Russian-Oil.jpg",
-      "publishedAt": "2026-08-21T05:36:28Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Asian Markets Suffer as Global Bond Stress Intensifies",
-      "description": "Most Asian share indices were headed for weekly declines due to ongoing stress in global bond markets, coupled with a deadlock in the Gulf pushing up oil prices. U.S. Treasury interventions had limited impact, and investors remain wary of high yields affecting debt costs and stock valuations.",
-      "url": "https://www.devdiscourse.com/article/business/3966222-asian-markets-suffer-as-global-bond-stress-intensifies",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/26_07_2024_08_25_17_1031494.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-21T05:36:04Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Rupee gains 9 paise to 95.65 against U.S. dollar in early trade",
-      "description": "Rupee strengthens by 9 paise to 95.65 against the U.S. dollar amid weakening dollar and elevated crude oil prices.",
-      "url": "https://www.thehindu.com/business/markets/rupee-gains-9-paise-to-9565-against-us-dollar-in-early-trade/article71372308.ece",
-      "image": "https://th-i.thgim.com/public/incoming/kmd7mv/article71372316.ece/alternates/LANDSCAPE_1200/2026-08-19T125511Z_260477781_RC2G1NAC5BRT_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2026-08-21T05:31:21Z",
+      "title": "Stock markets end flat as elevated crude oil prices cap gains",
+      "description": "Stock markets closed flat as high crude oil prices and geopolitical tensions kept investors cautious amid mixed global cues.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-end-flat-as-elevated-crude-oil-prices-cap-gains/article71373472.ece",
+      "image": "https://th-i.thgim.com/public/incoming/i2b3w3/article71363524.ece/alternates/LANDSCAPE_1200/Promoters-made-GO2G94FMI.3.jpg.jpg",
+      "publishedAt": "2026-08-21T12:24:51Z",
       "source": {
         "name": "The Hindu"
       }
     },
     {
-      "title": "Oil Prices Head for Second Straight Weekly Gain as Iran Risks Mount",
-      "description": "Oil prices are heading for a second consecutive weekly gain as escalating U.S. pressure on Iran and continuing supply risks strengthen the bullish case for crude.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-Second-Straight-Weekly-Gain-as-Iran-Risks-Mount.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-21_zd0a5lo3uf.jpg",
-      "publishedAt": "2026-08-21T05:30:00Z",
+      "title": "Tax hikes due in days on petrol & diesel POSTPONED over rising cost of fuel concerns amid 'rule nothing out' Govt vow",
+      "description": "TAX hikes on petrol and diesel that were due to kick in on September 1 have been postponed amid concerns about the rising price of fuel.\nEarlier...",
+      "url": "https://www.thesun.ie/money/17493355/petrol-diesel-tax-hikes-postponed-dail-recalled/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-l8zb9b3y5-1787312673275.jpg?quality=90&strip=all&1787316287&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-08-21T12:20:05Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Irish Sun"
       }
     },
     {
-      "title": "China Keeps Oil Buying in Check as Crude Prices Stay Above $90",
-      "description": "Resilient oil prices are prompting China\u2019s refiners to keep crude purchases below the lofty levels seen before the Iran war, even as analysts and industry consultancies estimate imports are edging back toward 10 million barrels a day.",
-      "url": "https://www.livemint.com/market/china-keeps-oil-buying-in-check-as-crude-prices-stay-above-90-11787289773942.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "publishedAt": "2026-08-21T05:22:53Z",
+      "title": "Freight, fuel squeeze threatens Morbi\u2019s ceramic recovery",
+      "description": "Surging container freight rates, doubling gas prices, and anti-dumping duties severely hit Morbi\u2019s ceramic industry, pushing exports down by 70% and threatening factory shutdowns.",
+      "url": "https://www.financialexpress.com/business/news/freight-fuel-squeeze-threatens-morbis-ceramic-recovery/4322667/",
+      "image": "https://images.financialexpressdigital.com/2026/08/FZ-2026-03-06T175958.081_20260821121344.png",
+      "publishedAt": "2026-08-21T12:17:37Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Sensex, Nifty go up and down on volatile Friday morning as crude, yield stress weigh down on market sentiment",
-      "description": "Indian stocks drift in narrow range as West Asia diplomatic deadlock, oil prices, and bond jitters cap last session\u2019s relief rally",
-      "url": "https://www.theweek.in/news/biz-tech/2026/08/21/sensex-nifty-trading-update-weekend.html",
-      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2024/9/2/bse-sensex-bull.jpg",
-      "publishedAt": "2026-08-21T05:22:28Z",
+      "title": "Stock markets end flat as elevated crude oil prices cap gains",
+      "description": "Market benchmark indices Sensex and Nifty ended flat on Friday, a day after registering a rebound, as elevated crude oil prices due to geopolitical uncertainties and a sharp fall in the US markets made investors cautious.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-end-flat-as-elevated-crude-oil-prices-cap-gains/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkyYzk2YjgwLTlkNTktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-21T12:12:22Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Actor Anna Rajan brings home brand-new Toyota Innova Hycross",
+      "description": "Anna chose the Petrol GX 7-seater variant of the Innova Hycross. This highly popular multi-purpose vehicle has a strong market presence in India,.Anna Rajan, Anna Rajan new car, Toyota Innova Hycross, Anna Rajan Angamaly Diaries, Angamaly Diaries Lichi, Toyota Innova Hycross price, Innova Hycross specs, Kairali Toyota Kochi, Malayalam actress new car, Toyota Innova Hycross petrol GX, celebrity cars India, hybrid MPV India, Lichi Velipadinte Pusthakam, Innova Hycross mileage, premium MPV India",
+      "url": "https://www.onmanorama.com/news/kerala/2026/08/21/actress-anna-rajan-innova-hycross.html",
+      "image": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/fasttrack/auto-news/images/2026/8/20/anna-rajan-innova.jpg",
+      "publishedAt": "2026-08-21T12:07:00Z",
+      "source": {
+        "name": "Malayala Manorama"
+      }
+    },
+    {
+      "title": "US equity funds draw inflows despite market pressures",
+      "description": "U.S. investors were net buyers of equity funds for a second straight week through August 19, supported by a strong \u200bearnings season and cooler inflation data, even as a bond-market \u200cselloff and rising oil prices weighed on markets.",
+      "url": "https://www.reuters.com/business/us-equity-funds-draw-inflows-despite-market-pressures-2026-08-21/",
+      "image": "https://www.reuters.com/resizer/v2/4YS6E4E7FNNQDF3UTAR24NMK3U.jpg?auth=55530dab542bb80653d418d7b5513dbb3d2ae9b50a3eb16c1fc1a738bfddf091&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-08-21T12:04:55Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Technical View: Nifty support placed at 24,200; break below may trigger correction to 24,000, say analysts",
+      "description": "Sensex, Nifty settled flat but posted weekly losses as elevated crude oil prices and pressure in global bond markets kept investors cautious.",
+      "url": "https://www.moneycontrol.com/news/business/markets/technical-view-nifty-support-placed-at-24-200-break-below-may-trigger-correction-to-24-000-say-analysts-14012502.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260815031134_sensex_nifty_market_Nifty_nse_bse.jpg",
+      "publishedAt": "2026-08-21T11:45:33Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Iran vows 'devastating' response as US threatens toughest ever economic hit",
+      "description": "Iran warns of devastating retaliation against new United States sanctions. United States Treasury chief Scott Bessent plans the toughest financial penalties ever. These measures aim to collapse the Iranian leadership and its regime. Oil prices steadied amid concerns over Gulf energy exports and shipping. China stated that sanctions and pressure do not help resolve problems.",
+      "url": "https://economictimes.indiatimes.com/news/defence/iran-vows-devastating-response-as-us-threatens-toughest-ever-economic-hit/articleshow/133403286.cms",
+      "image": "https://img.etimg.com/thumb/msid-133403314,width-1200,height-630,imgsize-98618,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-08-21T11:43:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "India\u2019s sugar import controversy: Is it related to E20 petrol?",
+      "description": "A contributing factor to the tight supply of sugar is the diversion of a considerable portion of sugar output towards E20 ethanol production",
+      "url": "https://www.theweek.in/news/biz-tech/2026/08/21/indias-sugar-import-controversy-is-it-related-to-e20-petrol.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/21/sugar-import.jpg",
+      "publishedAt": "2026-08-21T11:39:36Z",
       "source": {
         "name": "THE WEEK"
       }
