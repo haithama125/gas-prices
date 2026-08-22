@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-22T06:21:21+00:00",
+  "updated_at": "2026-08-22T12:18:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol, diesel prices increased for August 22-24",
-      "description": "The federal government has increased the prices of petrol and high-speed diesel (HSD), with the revised rates coming into effect from August 22 and remaining applicable",
-      "url": "https://www.nation.com.pk/21-Aug-2026/petrol-diesel-prices-increased-august-22-24",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-08-21/petrol-diesel-prices-increased-august-22-24-1787336310-4732.jpg",
-      "publishedAt": "2026-08-21T18:18:40Z",
+      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 16% to 59% return",
+      "description": "Domestic equity markets ended the week cautiously as crude oil prices surged above $90. Top brokerages like Jefferies and Macquarie recommend 10 key stocks with strong growth potential and solid fundamentals.",
+      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-16-to-59-return-4322964/",
+      "image": "https://images.financialexpressdigital.com/2026/08/Stocks-marekt-6_20260312083637_20260411024104_20260414105453_20260415152632_20260416142715_20260811154234_20260821185731.jpg",
+      "publishedAt": "2026-08-22T00:00:00Z",
       "source": {
-        "name": "The Nation"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Petrol and diesel prices increased further in Pakistan",
-      "description": "ISLAMABAD: The federal government has increased the prices of petrol and high-speed diesel by more than Rs3 per liter, according to a notif",
-      "url": "https://www.bolnews.com/business/petrol-and-diesel-prices-increased-further-in-pakistan/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/FotoJet-2026-08-21T230458.169-converted-from-jpg.webp",
-      "publishedAt": "2026-08-21T18:09:22Z",
+      "title": "Maharashtra Revises PUC Charges; Two-Wheelers To Pay \u20b960, Diesel Vehicles Face Highest Charge Of \u20b9180",
+      "description": "Maharashtra has revised Pollution Under Control certificate testing charges, with two-wheelers now paying Rs 60, petrol three-wheelers Rs 120, petrol/CNG/LPG vehicles Rs 140 and diesel vehicles Rs 180. PUC centres have been directed to display the revised rates and avoid charging motorists above the prescribed amounts.",
+      "url": "https://www.freepressjournal.in/mumbai/maharashtra-revises-puc-charges-two-wheelers-to-pay-60-diesel-vehicles-face-highest-charge-of-180",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-21/k3wa5k0f/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-22T045412.132.jpg",
+      "publishedAt": "2026-08-21T23:25:48Z",
       "source": {
-        "name": "BOL News"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "US Oil Drillers See Pullback as Oil Prices Rise",
-      "description": "The total number of active drilling rigs for oil and gas in the United States fell this week, according to new data that Baker Hughes published on Friday",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-See-Pullback-as-Oil-Prices-Rise.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-08-21_zvxmf7pqqh.jpg",
-      "publishedAt": "2026-08-21T17:16:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "European Shares Climb Amid Economic Resilience, Despite Inflation Concerns",
-      "description": "European shares rose on Friday, driven by robust earnings and manufacturing growth. However, inflation concerns persist due to high oil prices and Treasury yields. STOXX 600 index gained slightly, yet ended the week with losses. Investors remain cautious amidst geopolitical tensions and potential ECB policy changes.",
-      "url": "https://www.devdiscourse.com/article/business/3966445-european-shares-climb-amid-economic-resilience-despite-inflation-concerns",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_08_2024_08_14_57_5619167.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-21T16:38:44Z",
+      "title": "Sanctions Showdown: Iran's Fierce Response to U.S. Economic Pressure",
+      "description": "Iran has threatened a 'devastating' response to the U.S.'s toughest financial penalties meant to dismantle its leadership. Amid escalating tensions, both nations have engaged in military confrontations impacting global oil prices and regional security. Iran remains defiant amid economic hardships, while the U.S. faces political ramifications.",
+      "url": "https://www.devdiscourse.com/article/politics/3966493-sanctions-showdown-irans-fierce-response-to-us-economic-pressure",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_03_2025_18_27_56_814562.png&width=920&format=jpeg",
+      "publishedAt": "2026-08-21T20:48:58Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Iran's Defiant Stand: The Impact of New U.S. Sanctions",
-      "description": "The United States has announced its intent to impose harsh sanctions on Iran, aiming to destabilize its leadership. Iran has warned of a devastating response, with its military ready across all domains. Economic repercussions are expected, with oil prices fluctuating and China closely watching the developments.",
-      "url": "https://www.devdiscourse.com/article/law-order/3966438-irans-defiant-stand-the-impact-of-new-us-sanctions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_11_04_52_7696212.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-21T16:26:23Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Global Markets Struggle: Bond Strain, Dollar Woes, and Rising Oil",
-      "description": "Global stocks are facing challenges as bond market strain continues, pushing oil prices up amidst Gulf tensions. The U.S. bond yields rebound after a brief relief, despite Treasury Secretary Scott Bessent's efforts. Rising borrowing costs impact markets worldwide, with tech giants feeling the pinch. The dollar declines amidst policy uncertainties.",
-      "url": "https://www.devdiscourse.com/article/business/3966436-global-markets-struggle-bond-strain-dollar-woes-and-rising-oil",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_07_59_57_0674742.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-21T16:18:04Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Crude oil prices head for second weekly gain as US steps up economic pressure on Iran",
-      "description": "Crude oil prices are set for a second weekly gain, driven by US sanctions on Iran aimed at economic isolation. Brent crude prices surpassed $94.71 per barrel, marking their highest in a month, as traders await details on this initiative amid escalating conflict in the Middle East.",
-      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-head-for-second-weekly-gain-as-us-steps-up-economic-pressure-on-iran-11787327365673.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/Oil-Cuts-Explainer-0_1680529456417_1680529456417_1787327480112_76b4a6a8-0457-4d29-a50f-b17b2827be1e.jpg",
-      "publishedAt": "2026-08-21T16:09:40Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Switzerland\u2019s inflation problem is that it barely has one",
-      "description": "Consumer prices declined in July, underscoring how different Switzerland\u2019s inflation story is from much of the world. Over the month the consumer-price index fell by 0.1% from June, leaving prices just 0.4% higher than a year earlier, according to the Federal Statistical Office (FSO). Core inflation, which strips out fresh and seasonal products, energy and fuel, was even weaker, at 0.3% year on year.\nPhoto by Ian Gabaraev on Pexels.com\nThe monthly decline owed much to cheaper travel, fuel and clothes. International air fares fell by 4.3% from June, diesel by 5.8% and petrol by 2.4%. Seasonal sales pushed clothing and footwear prices down by 8.5%, making the category the largest decliner among the main spending groups.\nHealthcare costs were unchanged in July and 0.5% lower than a year earlier. It is worth noting, however, that the healthcare component of the CPI excludes compulsory health-insurance premiums. Instead, it tracks the prices of healthcare goods and services themselves, such as medicines, doctors\u2019 visits and hospital treatment. Insurance premiums can rise not only because healthcare becomes more expensive, but also because people consume more of it. Official healthcare inflation can therefore remain subdued even as households face steep increases in their annual insurance bills.\nNot everything became cheaper. Housing and energy prices rose by 0.2% over the month, while prices in restaurants and hotels climbed by 1.1%. Heating oil jumped by 9.5%, car rental and car-sharing by 26.7%, and non-hotel accommodation by 19.7%. Yet these increases were not enough to offset declines elsewhere.\nPrices for domestic products rose by 0.1% in July and were 0.5% higher than a year earlier. Imported goods, by contrast, fell by 1.1% on the month and were unchanged from July 2025. Goods prices overall were 0.5% lower than a year ago, whereas services were 0.9% more expensive.\nThat divergence points to two different forces at work. Tradable goods are delivering deflation, helped in July by fuel and seasonal retail discounts. Services, which tend to be more closely tied to domestic wages and costs, are still becoming dearer. Even so, the pressure is muted. Private-service prices were up 1.1% from a year earlier, while public services rose by just 0.2%.\nJuly\u2019s decline was partly seasonal and partly driven by volatile components such as fuel and air travel. But with headline inflation at 0.4% and core inflation at 0.3% for the year, it will be harder for Swiss unions to justify demands for higher wages.\nMore on this:FSO article (in French)\u00a0\u2013\u00a0Take a 5 minute French test now\nFor more stories like this on Switzerland follow us on\u00a0Facebook\u00a0and\u00a0X.",
-      "url": "https://lenews.ch/2026/08/21/switzerlands-inflation-problem-is-that-it-barely-has-one/",
-      "image": "https://i0.wp.com/lenews.ch/wp-content/uploads/2026/08/pexels-photo-39010335-edited.jpeg?fit=731%2C487&ssl=1",
-      "publishedAt": "2026-08-21T15:46:47Z",
-      "source": {
-        "name": "Le News"
-      }
-    },
-    {
-      "title": "Fresh arson, petrol bomb attacks keep Meghalaya on the edge",
-      "description": "Masked miscreants hurled petrol bombs at NPP\u2019s Shillong office and Madanriting police station early Friday; no injuries or damage reported, security tightened.",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/fresh-arson-petrol-bomb-attacks-keep-meghalaya-on-the-edge/articleshow/133408358.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-08-21T15:39:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Consolidate Below Thursday\u2019s 1-Month High",
-      "description": "October WTI crude oil (CLV26 ) is down -0.14 (-0.16%) today, and October RBOB gasoline (RBV26 ) is up +0.0540 (+1.79%). Crude oil and gasoline prices are mixed today, with gasoline climbing to a 3.5-week high. Crude prices are under mild pressure to...",
-      "url": "https://www.barchart.com/story/news/3972156/crude-oil-prices-consolidate-below-thursdays-1-month-high",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20sunset%20over%20a%20fuel%20tanker%20by%20Sebastian%20via%20Pixabay.jpg",
-      "publishedAt": "2026-08-21T15:38:02Z",
+      "title": "Stocks Settle Higher as Crude Oil Prices Stabilize",
+      "description": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.43% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up by +0.33%. E-mini S&P futures (ESU26 ) rose +0.37%, and...",
+      "url": "https://www.barchart.com/story/news/3976828/stocks-settle-higher-as-crude-oil-prices-stabilize",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/Wall%20street%20sign%20in%20New%20York%20with%20New%20York%20Stock%20Exchange%20background%20by%20Stuart%20Monk%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-08-21T20:39:00Z",
       "source": {
         "name": "Barchart"
+      }
+    },
+    {
+      "title": "Sweet dilemma : Ethanol ambitions face sugar reality",
+      "description": "INDIA\u2019s decision to allow the duty-free import of 10 lakh tonnes of raw sugar is more than a response to soaring prices; it is a reality check for its ambitious ethanol policy. Less than two years after celebrating the nationwide rollout of E20 petrol, the government now finds itself balancing two competing imperatives \u2014 reducing oil imports and ensuring affordable sugar for consumers. The episode underscores a classic policy dilemma: when food and fuel compete for the same crop, neither objective can be pursued in isolation.",
+      "url": "https://www.tribuneindia.com/news/editorials/sweet-dilemma-ethanol-ambitions-face-sugar-reality/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4NjMwZWMwLTlkOTktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-21T19:48:54Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Rise as Middle East Hostilities Persist",
+      "description": "October WTI crude oil (CLV26 ) closed up +0.23 (+0.26%) on Friday, and October RBOB gasoline (RBV26 ) closed up +0.0377 (+1.25%). Crude oil and gasoline prices settled higher on Friday, with gasoline posting a 3.5-week high. Crude prices were suppor...",
+      "url": "https://www.barchart.com/story/news/3975664/crude-oil-prices-rise-as-middle-east-hostilities-persist",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20car%20being%20refueled%20at%20a%20gas%20station%20by%20Engin%20Akyurt%20via%20Pixabay.jpg",
+      "publishedAt": "2026-08-21T19:16:11Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Hot US Weather Forecasts Push Nat-Gas Prices Higher",
+      "description": "September Nymex natural gas (NGU26 ) on Friday closed up +0.040 (+1.46%). Nat-gas prices settled higher on Friday as forecasts for hotter US weather could potentially boost nat-gas demand from electricity providers to power increased air conditioning...",
+      "url": "https://www.barchart.com/story/news/3975635/hot-us-weather-forecasts-push-nat-gas-prices-higher",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Triple%20natural%20gas%20flare%20burning%20at%20night%20by%20Kirsten%20Strickland%20via%20iStock.jpg",
+      "publishedAt": "2026-08-21T19:14:51Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Fuel excise cuts set to be extended as government make statement",
+      "description": "Earlier this year the government extended the reduced excise on petrol and diesel until September as part of the fuel package - they will now be extended further",
+      "url": "https://www.rsvplive.ie/news/irish-news/fuel-excise-cuts-set-extended-37579944",
+      "image": "https://i2-prod.rsvplive.ie/article37202035.ece/ALTERNATES/s1200d/0_fuel-support-scheme-19JPG.jpg",
+      "publishedAt": "2026-08-21T19:13:16Z",
+      "source": {
+        "name": "RSVP Live"
+      }
+    },
+    {
+      "title": "Assam-Meghalaya tensions: 5 CAPF companies deployed",
+      "description": "The Centre has approved the deployment of five companies of central armed police forces in Meghalaya following the violent protests in Shillong that left several people injured and vehicles damaged. A senior police official said, \"A petrol bomb was hurled at a police outpost in Shillong, while three government vehicles and a motorcycle were set ablaze in Ri-Bhoi and another petrol bomb was lobbed at a government office in Southwest Khasi Hills. There are reports of petrol bombs being hurled at the ruling National People's Party office in Shillong. No one has been injured.\"",
+      "url": "https://economictimes.indiatimes.com/news/india/assam-meghalaya-tensions-5-capf-companies-deployed/articleshow/133412726.cms",
+      "image": "https://img.etimg.com/thumb/msid-133412938,width-1200,height-630,imgsize-133776,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-21T18:57:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "US equity funds see strong inflows this week amid bond pressure, draw $11.72 billion from investors",
+      "description": "US investors bought equities for a second week, encouraged by corporate earnings and easing inflation. However, a bond market selloff and rising oil prices created market pressures. Investors added over eleven billion dollars to US equity funds, showing continued optimism. Bond funds saw significant inflows, while money market funds experienced outflows.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-equity-funds-see-strong-inflows-this-week-amid-bond-pressure-draw-11-72-billion-from-investors/articleshow/133411899.cms",
+      "image": "https://img.etimg.com/thumb/msid-133412380,width-1200,height-630,imgsize-64748,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-21T18:39:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
