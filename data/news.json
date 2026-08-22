@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-08-22T12:18:31+00:00",
+  "updated_at": "2026-08-22T18:14:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "ETMarkets Smart Talk | Bonds aren\u2019t boring: Where Devang Shah sees the best fixed-income opportunities",
+      "description": "At the same time, the RBI remains watchful of risks from geopolitics, crude oil prices and global monetary policy developments.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-bonds-arent-boring-where-devang-shah-sees-the-best-fixed-income-opportunities/articleshow/133416948.cms",
+      "image": "https://img.etimg.com/thumb/msid-133417045,width-1200,height-630,imgsize-202623,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-22T03:59:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "5 world market themes for the week ahead",
+      "description": "The Jackson Hole symposium is just around the corner, bringing together central bank chiefs to tackle the pressing issue of global inflation amidst soaring oil prices. Nvidia's earnings report is anticipated to unveil key trends in AI expenditure. Meanwhile, South Korea's central bank might deliberate a fresh interest rate hike, and Icelanders face an important vote on rekindling talks about joining the European Union.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/133416904.cms",
+      "image": "https://img.etimg.com/thumb/msid-133416940,width-1200,height-630,imgsize-2221758,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-22T03:53:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Gangland enforcer jailed for sending thug to petrol bomb home full of kids",
+      "description": "Dean Ritchie, 29, was jailed for 38 months after sending accomplice Liam Rice to firebomb a Dundee home where a grandmother was caring for several children.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/gangland-enforcer-jailed-sending-thug-37577473",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37578567.ece/ALTERNATES/s1200d/0_imagemaker-97.jpg",
+      "publishedAt": "2026-08-22T03:30:00Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "AMT setup, ADAS and ventilated seats",
+      "description": "Maruti Suzuki is set to launch the updated Baleno in India on September 5, bringing several important mechanical and feature upgrades. The facelift will use the Swift's 1.2-litre Z-Series three-cylinder petrol engine, add a CNG-AMT option for the first time in a Maruti car.",
+      "url": "https://www.indiatvnews.com/auto/maruti-baleno-facelift-to-get-cng-amt-setup-adas-and-ventilated-seats-2026-08-21-1052067",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/defender-sport-in-the-works-compact-off-roader-to-get-hybrid-and-ev-options-2026-08-21t165121-1787311251.jpg",
+      "publishedAt": "2026-08-22T03:15:01Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
+      "description": "In a week marked by market stagnation, Indian equity indices closed on an unremarkable note, affected by geopolitical uncertainties and elevated crude oil prices. Experts forecast that without any significant triggers, the Nifty may continue its rangebound trajectory. Crude oil prices consistently stayed above ninety dollars a barrel, with foreign portfolio investors offloading shares while local institutional buyers were active in the market.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
+      "image": "https://img.etimg.com/thumb/msid-133415927,width-1200,height-630,imgsize-17198,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-22T02:03:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today - 22 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Crude oil sees 6.39% weekly gain",
+      "description": "Petrol and diesel prices today \u2014 22 Aug: Brent futures rose 6.39% this week following US sanctions threats on Iran. Check fuel rates in Delhi, Mumbai, Bengaluru and other cities here.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-22-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-sees-6-39-weekly-gain-11787359348348.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/ANI-20260605316-0_1787359990460_1787360023229_055a38f4-c25f-4132-9ef4-4a5fc47a3c34.jpg",
+      "publishedAt": "2026-08-22T01:53:10Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Hormuz is our territory: Trump's warning as Iran vows devastating response",
+      "description": "Iran warned it would answer fresh US threats with a devastating response as Washington prepared tougher sanctions. The standoff is deepening pressure on Tehran, unsettling Hormuz shipping and lifting oil prices.",
+      "url": "https://www.indiatoday.in/world/story/hormuz-is-american-territory-trump-escalates-iran-pressure-tehran-warns-of-devastating-response-2977153-2026-08-22",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/us-president-donald-trump-and-irans-new-supreme-leader--ayatollah-mojtaba-khamenei-135959324-16x9.jpg?VersionId=i.AEhqSxycScPz6j_kl36vO3rxIlS6YZ",
+      "publishedAt": "2026-08-22T01:07:00Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
     {
       "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 16% to 59% return",
       "description": "Domestic equity markets ended the week cautiously as crude oil prices surged above $90. Top brokerages like Jefferies and Macquarie recommend 10 key stocks with strong growth potential and solid fundamentals.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-08-21T20:48:58Z",
       "source": {
         "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Stocks Settle Higher as Crude Oil Prices Stabilize",
-      "description": "The S&P 500 Index ($SPX ) (SPY ) closed up by +0.43% on Friday, the Dow Jones Industrial Average ($DOWI ) (DIA ) closed up by +0.98%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) closed up by +0.33%. E-mini S&P futures (ESU26 ) rose +0.37%, and...",
-      "url": "https://www.barchart.com/story/news/3976828/stocks-settle-higher-as-crude-oil-prices-stabilize",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Stocks%2C%20Markets%2C%20%26%20Global%20Economy/Wall%20Street/Wall%20street%20sign%20in%20New%20York%20with%20New%20York%20Stock%20Exchange%20background%20by%20Stuart%20Monk%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-21T20:39:00Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Sweet dilemma : Ethanol ambitions face sugar reality",
-      "description": "INDIA\u2019s decision to allow the duty-free import of 10 lakh tonnes of raw sugar is more than a response to soaring prices; it is a reality check for its ambitious ethanol policy. Less than two years after celebrating the nationwide rollout of E20 petrol, the government now finds itself balancing two competing imperatives \u2014 reducing oil imports and ensuring affordable sugar for consumers. The episode underscores a classic policy dilemma: when food and fuel compete for the same crop, neither objective can be pursued in isolation.",
-      "url": "https://www.tribuneindia.com/news/editorials/sweet-dilemma-ethanol-ambitions-face-sugar-reality/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU4NjMwZWMwLTlkOTktMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-21T19:48:54Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Rise as Middle East Hostilities Persist",
-      "description": "October WTI crude oil (CLV26 ) closed up +0.23 (+0.26%) on Friday, and October RBOB gasoline (RBV26 ) closed up +0.0377 (+1.25%). Crude oil and gasoline prices settled higher on Friday, with gasoline posting a 3.5-week high. Crude prices were suppor...",
-      "url": "https://www.barchart.com/story/news/3975664/crude-oil-prices-rise-as-middle-east-hostilities-persist",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/A%20car%20being%20refueled%20at%20a%20gas%20station%20by%20Engin%20Akyurt%20via%20Pixabay.jpg",
-      "publishedAt": "2026-08-21T19:16:11Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Hot US Weather Forecasts Push Nat-Gas Prices Higher",
-      "description": "September Nymex natural gas (NGU26 ) on Friday closed up +0.040 (+1.46%). Nat-gas prices settled higher on Friday as forecasts for hotter US weather could potentially boost nat-gas demand from electricity providers to power increased air conditioning...",
-      "url": "https://www.barchart.com/story/news/3975635/hot-us-weather-forecasts-push-nat-gas-prices-higher",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Triple%20natural%20gas%20flare%20burning%20at%20night%20by%20Kirsten%20Strickland%20via%20iStock.jpg",
-      "publishedAt": "2026-08-21T19:14:51Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Fuel excise cuts set to be extended as government make statement",
-      "description": "Earlier this year the government extended the reduced excise on petrol and diesel until September as part of the fuel package - they will now be extended further",
-      "url": "https://www.rsvplive.ie/news/irish-news/fuel-excise-cuts-set-extended-37579944",
-      "image": "https://i2-prod.rsvplive.ie/article37202035.ece/ALTERNATES/s1200d/0_fuel-support-scheme-19JPG.jpg",
-      "publishedAt": "2026-08-21T19:13:16Z",
-      "source": {
-        "name": "RSVP Live"
-      }
-    },
-    {
-      "title": "Assam-Meghalaya tensions: 5 CAPF companies deployed",
-      "description": "The Centre has approved the deployment of five companies of central armed police forces in Meghalaya following the violent protests in Shillong that left several people injured and vehicles damaged. A senior police official said, \"A petrol bomb was hurled at a police outpost in Shillong, while three government vehicles and a motorcycle were set ablaze in Ri-Bhoi and another petrol bomb was lobbed at a government office in Southwest Khasi Hills. There are reports of petrol bombs being hurled at the ruling National People's Party office in Shillong. No one has been injured.\"",
-      "url": "https://economictimes.indiatimes.com/news/india/assam-meghalaya-tensions-5-capf-companies-deployed/articleshow/133412726.cms",
-      "image": "https://img.etimg.com/thumb/msid-133412938,width-1200,height-630,imgsize-133776,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-21T18:57:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "US equity funds see strong inflows this week amid bond pressure, draw $11.72 billion from investors",
-      "description": "US investors bought equities for a second week, encouraged by corporate earnings and easing inflation. However, a bond market selloff and rising oil prices created market pressures. Investors added over eleven billion dollars to US equity funds, showing continued optimism. Bond funds saw significant inflows, while money market funds experienced outflows.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-equity-funds-see-strong-inflows-this-week-amid-bond-pressure-draw-11-72-billion-from-investors/articleshow/133411899.cms",
-      "image": "https://img.etimg.com/thumb/msid-133412380,width-1200,height-630,imgsize-64748,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-21T18:39:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
