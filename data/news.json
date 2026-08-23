@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-08-23T06:23:10+00:00",
+  "updated_at": "2026-08-23T12:18:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "year deal with Mauritius to supply petrol, high",
+      "description": "India has moved to deepen its energy footprint in the Indian Ocean region with a five-year agreement to supply Mauritius\u2019 entire import requirement of petrol, high-speed diesel and aviation turbine fuel, positioning New Delhi as the island nation\u2019s anchor fuel supplier.The agreement was signed during Petroleum and Natural Gas Minister Hardeep Singh Puri\u2019s official visit to Mauritius on August 20-21.",
+      "url": "https://www.tribuneindia.com/news/india/india-inks-5-year-deal-with-mauritius-to-supply-petrol-high-speed-diesel-and-aviation-fuel/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZkYzBjYTUwLTllNjItMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-22T19:52:20Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
     {
       "title": "How one project could lower gas prices across California",
       "description": "The Western Gateway Pipeline is a proposal that would end California's energy isolation and bring lower fuel prices to drivers across the Golden State.",
@@ -92,16 +102,6 @@
       "publishedAt": "2026-08-22T10:00:00Z",
       "source": {
         "name": "BayToday"
-      }
-    },
-    {
-      "title": "BMW X1 LWB Launched At Rs 49.90 Lakh: 5 Key Highlights",
-      "description": "BMW X1 LWB launched in India at Rs 49.90 lakh. Check the five key highlights, including rear-seat space, 156hp petrol engine, features, technology and safety., Car News, Times Now",
-      "url": "https://www.timesnownews.com/auto/car-news/bmw-x1-lwb-launched-at-4990-lakh-5-key-highlights-article-155953000",
-      "image": "https://images.timesnownews.com/thumb/msid-155953025,thumbsize-90456,width-1280,height-720,resizemode-75/155953025.jpg",
-      "publishedAt": "2026-08-22T08:29:01Z",
-      "source": {
-        "name": "Times Now"
       }
     }
   ]
