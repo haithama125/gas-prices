@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-08-23T12:18:29+00:00",
+  "updated_at": "2026-08-23T18:14:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Man dies after car crashes into him at petrol pump",
+      "description": "53-year-old Mukesh dies after being hit by a speeding unidentified car at a Sector 102 petrol pump on Dwarka Expressway; police register BNS case.",
+      "url": "https://timesofindia.indiatimes.com/city/gurgaon/man-dies-after-car-crashes-into-him-at-petrol-pump/articleshow/133434989.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133434968,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-23T05:38:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, August 23 : Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "In other major cities, including Bengaluru, Hyderabad and Kolkata, petrol prices remain above \u20b9110 per litre.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-august-23-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-550789-2026-08-23",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8a70d8e1094-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-230227755-16x9.png",
+      "publishedAt": "2026-08-23T04:09:42Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "How will Sensex, Nifty behave on Monday? 4 factors to drive D-Street action this week",
+      "description": "This week's Dalal Street movements are set to be heavily influenced by the ongoing tensions between Iran and the US, alongside fluctuations in global oil prices. Rising bond yields are causing investors to adopt a cautious stance as they navigate market trends. Key economic data from the US and statements from the Federal Reserve will also play a significant role in trading decisions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/how-will-sensex-nifty-behave-on-monday-4-factors-to-drive-d-street-action-this-week/articleshow/133433930.cms",
+      "image": "https://img.etimg.com/thumb/msid-133433956,width-1200,height-630,imgsize-219432,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-23T03:47:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Iran's President pushes for dialogue",
+      "description": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru and other cities stood steady as Iranian President Masoud Pezeshkian pushed for dialogue amid the standoff with US. Check exact fuel rates here.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-irans-president-pushes-for-dialogue-11787450428267.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/Some-of-the-political-framing-around-E20-is-opport_1787454660626_1787454682266_9cd62f87-4e3a-4f7b-90fe-ad1ed96860d0.jpg",
+      "publishedAt": "2026-08-23T03:17:17Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Welspun Corp leads as over 10 Nifty 500 stocks gain 10-23% this week despite market volatility",
+      "description": "Welspun Corp shares surged 23.4%, alongside significant gains for Jyoti CNC Automation and Balrampur Chini Mills. Despite a volatile market influenced by geopolitical tensions and rising oil prices.",
+      "url": "https://www.livemint.com/market/stock-market-news/welspun-corp-leads-as-over-10-nifty-500-stocks-gain-10-23-this-week-despite-market-volatility-11787385989520.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/PTI02-01-2023-000222B-0_1680087728609_1680087728609_1787388375558_a4f1b9d0-b408-47b8-b942-40a81398f386.jpg",
+      "publishedAt": "2026-08-23T01:30:41Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
     {
       "title": "year deal with Mauritius to supply petrol, high",
       "description": "India has moved to deepen its energy footprint in the Indian Ocean region with a five-year agreement to supply Mauritius\u2019 entire import requirement of petrol, high-speed diesel and aviation turbine fuel, positioning New Delhi as the island nation\u2019s anchor fuel supplier.The agreement was signed during Petroleum and Natural Gas Minister Hardeep Singh Puri\u2019s official visit to Mauritius on August 20-21.",
@@ -52,56 +102,6 @@
       "publishedAt": "2026-08-22T12:57:12Z",
       "source": {
         "name": "Proto Thema"
-      }
-    },
-    {
-      "title": "Soaring fuel prices threaten survival of Massachusetts local farms",
-      "description": "The US-Iran conflict has caused a rise in gas prices, adding more costs to what is an already challenging environment for farmers.",
-      "url": "https://www.bostonglobe.com/2026/08/22/metro/soaring-gas-prices-impact-massachusetts-farmers/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/R362BTZPGHYI3TBWA74GACHRKY.jpg?auth=30ac6b88d7a0937f4ccabd401bb2bb4659216247cc3cde616ede511f64379c2b&width=1440",
-      "publishedAt": "2026-08-22T12:12:42Z",
-      "source": {
-        "name": "The Boston Globe"
-      }
-    },
-    {
-      "title": "India, Mauritius Sign 5-Year Fuel Deal As IOC To Supply Entire Petrol, Diesel And ATF Imports",
-      "description": "India and Mauritius have signed a five-year fuel supply agreement under which Indian Oil Corporation will meet Mauritius",
-      "url": "https://www.freepressjournal.in/business/india-mauritius-sign-5-year-fuel-deal-as-ioc-to-supply-entire-petrol-diesel-and-atf-imports",
-      "image": "https://media.assettype.com/freepressjournal/2024-06/4a24eb5f-0ec7-408a-82b5-dffc94dd11ef/oil_.jpg",
-      "publishedAt": "2026-08-22T12:09:00Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Trump threatens sanctions on Iran partners as oil prices rise again during the weekend",
-      "description": "Iran vows 'devastating' response as US threatens toughest ever economic hit as oil supply from major Middle East producers remains curtailed.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/trump-threatens-sanctions-on-iran-partners-as-oil-prices-rise-again-during-the-weekend",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4073010.jpg",
-      "publishedAt": "2026-08-22T11:54:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Indian Oil to supply entire petroleum imports requirement of Mauritius",
-      "description": "Indian Oil will supply Mauritius' entire import requirement of petrol, diesel and aviation turbine fuel under a long-term agreement with the State Trading Corporation",
-      "url": "https://www.business-standard.com/companies/news/indian-oil-to-supply-entire-petroleum-imports-requirement-of-mauritius-126082200547_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/21/thumb/featurecrop/1200X628/1721540505-4411.jpg",
-      "publishedAt": "2026-08-22T10:02:41Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12682414",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-18goodmorningnorthbaybct-5-visiting-with-a-friend-port-loring-arif.jpeg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-08-22T10:00:00Z",
-      "source": {
-        "name": "BayToday"
       }
     }
   ]
