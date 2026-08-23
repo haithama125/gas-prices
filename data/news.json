@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-08-22T18:14:22+00:00",
+  "updated_at": "2026-08-23T00:41:55+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Soaring fuel prices threaten survival of Massachusetts local farms",
+      "description": "The US-Iran conflict has caused a rise in gas prices, adding more costs to what is an already challenging environment for farmers.",
+      "url": "https://www.bostonglobe.com/2026/08/22/metro/soaring-gas-prices-impact-massachusetts-farmers/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/R362BTZPGHYI3TBWA74GACHRKY.jpg?auth=30ac6b88d7a0937f4ccabd401bb2bb4659216247cc3cde616ede511f64379c2b&width=1440",
+      "publishedAt": "2026-08-22T12:12:42Z",
+      "source": {
+        "name": "The Boston Globe"
+      }
+    },
+    {
+      "title": "India, Mauritius Sign 5-Year Fuel Deal As IOC To Supply Entire Petrol, Diesel And ATF Imports",
+      "description": "India and Mauritius have signed a five-year fuel supply agreement under which Indian Oil Corporation will meet Mauritius",
+      "url": "https://www.freepressjournal.in/business/india-mauritius-sign-5-year-fuel-deal-as-ioc-to-supply-entire-petrol-diesel-and-atf-imports",
+      "image": "https://media.assettype.com/freepressjournal/2024-06/4a24eb5f-0ec7-408a-82b5-dffc94dd11ef/oil_.jpg",
+      "publishedAt": "2026-08-22T12:09:00Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Trump threatens sanctions on Iran partners as oil prices rise again during the weekend",
+      "description": "Iran vows 'devastating' response as US threatens toughest ever economic hit as oil supply from major Middle East producers remains curtailed.",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/22/trump-threatens-sanctions-on-iran-partners-as-oil-prices-rise-again-during-the-weekend",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/22/4073010.jpg",
+      "publishedAt": "2026-08-22T11:54:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Indian Oil to supply entire petroleum imports requirement of Mauritius",
+      "description": "Indian Oil will supply Mauritius' entire import requirement of petrol, diesel and aviation turbine fuel under a long-term agreement with the State Trading Corporation",
+      "url": "https://www.business-standard.com/companies/news/indian-oil-to-supply-entire-petroleum-imports-requirement-of-mauritius-126082200547_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/21/thumb/featurecrop/1200X628/1721540505-4411.jpg",
+      "publishedAt": "2026-08-22T10:02:41Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12682414",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-18goodmorningnorthbaybct-5-visiting-with-a-friend-port-loring-arif.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-22T10:00:00Z",
+      "source": {
+        "name": "BayToday"
+      }
+    },
+    {
+      "title": "BMW X1 LWB Launched At Rs 49.90 Lakh: 5 Key Highlights",
+      "description": "BMW X1 LWB launched in India at Rs 49.90 lakh. Check the five key highlights, including rear-seat space, 156hp petrol engine, features, technology and safety., Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/bmw-x1-lwb-launched-at-4990-lakh-5-key-highlights-article-155953000",
+      "image": "https://images.timesnownews.com/thumb/msid-155953025,thumbsize-90456,width-1280,height-720,resizemode-75/155953025.jpg",
+      "publishedAt": "2026-08-22T08:29:01Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Petrol drivers being hit with 20p per mile charges in August",
+      "description": "PetrolPrices data shows that fuel prices have since increased, with unleaded petrol now at 162.15p per litre.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-drivers-being-hit-20p-34468620",
+      "image": "https://i2-prod.birminghammail.co.uk/article34468626.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-08-22T07:05:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
     {
       "title": "ETMarkets Smart Talk | Bonds aren\u2019t boring: Where Devang Shah sees the best fixed-income opportunities",
       "description": "At the same time, the RBI remains watchful of risks from geopolitics, crude oil prices and global monetary policy developments.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-08-22T03:30:00Z",
       "source": {
         "name": "Daily Record"
-      }
-    },
-    {
-      "title": "AMT setup, ADAS and ventilated seats",
-      "description": "Maruti Suzuki is set to launch the updated Baleno in India on September 5, bringing several important mechanical and feature upgrades. The facelift will use the Swift's 1.2-litre Z-Series three-cylinder petrol engine, add a CNG-AMT option for the first time in a Maruti car.",
-      "url": "https://www.indiatvnews.com/auto/maruti-baleno-facelift-to-get-cng-amt-setup-adas-and-ventilated-seats-2026-08-21-1052067",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/08/defender-sport-in-the-works-compact-off-roader-to-get-hybrid-and-ev-options-2026-08-21t165121-1787311251.jpg",
-      "publishedAt": "2026-08-22T03:15:01Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "West Asia tensions cloud market outlook, Nifty may stay rangebound",
-      "description": "In a week marked by market stagnation, Indian equity indices closed on an unremarkable note, affected by geopolitical uncertainties and elevated crude oil prices. Experts forecast that without any significant triggers, the Nifty may continue its rangebound trajectory. Crude oil prices consistently stayed above ninety dollars a barrel, with foreign portfolio investors offloading shares while local institutional buyers were active in the market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-asia-tensions-cloud-market-outlook-nifty-may-stay-rangebound/articleshow/133415917.cms",
-      "image": "https://img.etimg.com/thumb/msid-133415927,width-1200,height-630,imgsize-17198,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-22T02:03:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Petrol and diesel prices today - 22 Aug: Fuel rates in Delhi, Mumbai, Bengaluru as Crude oil sees 6.39% weekly gain",
-      "description": "Petrol and diesel prices today \u2014 22 Aug: Brent futures rose 6.39% this week following US sanctions threats on Iran. Check fuel rates in Delhi, Mumbai, Bengaluru and other cities here.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-22-aug-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-oil-sees-6-39-weekly-gain-11787359348348.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/22/1600x900/logo/ANI-20260605316-0_1787359990460_1787360023229_055a38f4-c25f-4132-9ef4-4a5fc47a3c34.jpg",
-      "publishedAt": "2026-08-22T01:53:10Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Hormuz is our territory: Trump's warning as Iran vows devastating response",
-      "description": "Iran warned it would answer fresh US threats with a devastating response as Washington prepared tougher sanctions. The standoff is deepening pressure on Tehran, unsettling Hormuz shipping and lifting oil prices.",
-      "url": "https://www.indiatoday.in/world/story/hormuz-is-american-territory-trump-escalates-iran-pressure-tehran-warns-of-devastating-response-2977153-2026-08-22",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/us-president-donald-trump-and-irans-new-supreme-leader--ayatollah-mojtaba-khamenei-135959324-16x9.jpg?VersionId=i.AEhqSxycScPz6j_kl36vO3rxIlS6YZ",
-      "publishedAt": "2026-08-22T01:07:00Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 16% to 59% return",
-      "description": "Domestic equity markets ended the week cautiously as crude oil prices surged above $90. Top brokerages like Jefferies and Macquarie recommend 10 key stocks with strong growth potential and solid fundamentals.",
-      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-16-to-59-return-4322964/",
-      "image": "https://images.financialexpressdigital.com/2026/08/Stocks-marekt-6_20260312083637_20260411024104_20260414105453_20260415152632_20260416142715_20260811154234_20260821185731.jpg",
-      "publishedAt": "2026-08-22T00:00:00Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Maharashtra Revises PUC Charges; Two-Wheelers To Pay \u20b960, Diesel Vehicles Face Highest Charge Of \u20b9180",
-      "description": "Maharashtra has revised Pollution Under Control certificate testing charges, with two-wheelers now paying Rs 60, petrol three-wheelers Rs 120, petrol/CNG/LPG vehicles Rs 140 and diesel vehicles Rs 180. PUC centres have been directed to display the revised rates and avoid charging motorists above the prescribed amounts.",
-      "url": "https://www.freepressjournal.in/mumbai/maharashtra-revises-puc-charges-two-wheelers-to-pay-60-diesel-vehicles-face-highest-charge-of-180",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-21/k3wa5k0f/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-08-22T045412.132.jpg",
-      "publishedAt": "2026-08-21T23:25:48Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Sanctions Showdown: Iran's Fierce Response to U.S. Economic Pressure",
-      "description": "Iran has threatened a 'devastating' response to the U.S.'s toughest financial penalties meant to dismantle its leadership. Amid escalating tensions, both nations have engaged in military confrontations impacting global oil prices and regional security. Iran remains defiant amid economic hardships, while the U.S. faces political ramifications.",
-      "url": "https://www.devdiscourse.com/article/politics/3966493-sanctions-showdown-irans-fierce-response-to-us-economic-pressure",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_03_2025_18_27_56_814562.png&width=920&format=jpeg",
-      "publishedAt": "2026-08-21T20:48:58Z",
-      "source": {
-        "name": "Devdiscourse"
       }
     }
   ]
