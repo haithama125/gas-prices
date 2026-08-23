@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-08-23T00:41:55+00:00",
+  "updated_at": "2026-08-23T06:23:10+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "How one project could lower gas prices across California",
+      "description": "The Western Gateway Pipeline is a proposal that would end California's energy isolation and bring lower fuel prices to drivers across the Golden State.",
+      "url": "https://nypost.com/2026/08/22/opinion/how-one-project-could-lower-gas-prices-across-california/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/crop-40463295.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-22T18:00:00Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Open plots in Mumbai being given to BJP-linked organisations, alleges Aaditya Thackeray",
+      "description": "Mumbai, Aug 21 (PTI) Shiv Sena (UBT) leader Aaditya Thackeray on Saturday alleged that attempts were being made to allot open plots in the city to organisations linked to the BJP. A plot in Mulund East was reserved for a sports complex but it is now being allotted for a petrol pump, he claimed. In [\u2026]",
+      "url": "https://theprint.in/india/open-plots-in-mumbai-being-given-to-bjp-linked-organisations-alleges-aaditya-thackeray/3022474/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-08-22T16:17:00Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Criminal Record: Gang war erupts and petrol bomb thug jailed",
+      "description": "Criminal Record has brought together a round-up of today's biggest crime stories.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/criminal-record-gang-war-erupts-37582231",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37582262.ece/ALTERNATES/s1200d/1_Garry-F-McHarg-Focal-Scotland.jpg",
+      "publishedAt": "2026-08-22T16:00:00Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Secret tanker crossings are keeping oil prices from soaring through the Strait of Hormuz",
+      "description": "Satellite imagery shows dozens of tankers switching off transponders daily as producers reroute supply through pipelines and reserves, while Washington shifts to sustained pressure on Iran, pushing crude toward $100 amid Gulf attacks this week",
+      "url": "https://en.protothema.gr/2026/08/22/secret-tanker-crossings-are-keeping-oil-prices-from-soaring-through-the-strait-of-hormuz/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/hormouz-mak1.jpg",
+      "publishedAt": "2026-08-22T12:57:12Z",
+      "source": {
+        "name": "Proto Thema"
+      }
+    },
     {
       "title": "Soaring fuel prices threaten survival of Massachusetts local farms",
       "description": "The US-Iran conflict has caused a rise in gas prices, adding more costs to what is an already challenging environment for farmers.",
@@ -62,46 +102,6 @@
       "publishedAt": "2026-08-22T08:29:01Z",
       "source": {
         "name": "Times Now"
-      }
-    },
-    {
-      "title": "Petrol drivers being hit with 20p per mile charges in August",
-      "description": "PetrolPrices data shows that fuel prices have since increased, with unleaded petrol now at 162.15p per litre.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-drivers-being-hit-20p-34468620",
-      "image": "https://i2-prod.birminghammail.co.uk/article34468626.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-08-22T07:05:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "ETMarkets Smart Talk | Bonds aren\u2019t boring: Where Devang Shah sees the best fixed-income opportunities",
-      "description": "At the same time, the RBI remains watchful of risks from geopolitics, crude oil prices and global monetary policy developments.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-bonds-arent-boring-where-devang-shah-sees-the-best-fixed-income-opportunities/articleshow/133416948.cms",
-      "image": "https://img.etimg.com/thumb/msid-133417045,width-1200,height-630,imgsize-202623,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-22T03:59:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "5 world market themes for the week ahead",
-      "description": "The Jackson Hole symposium is just around the corner, bringing together central bank chiefs to tackle the pressing issue of global inflation amidst soaring oil prices. Nvidia's earnings report is anticipated to unveil key trends in AI expenditure. Meanwhile, South Korea's central bank might deliberate a fresh interest rate hike, and Icelanders face an important vote on rekindling talks about joining the European Union.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/5-world-market-themes-for-the-week-ahead/articleshow/133416904.cms",
-      "image": "https://img.etimg.com/thumb/msid-133416940,width-1200,height-630,imgsize-2221758,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-22T03:53:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Gangland enforcer jailed for sending thug to petrol bomb home full of kids",
-      "description": "Dean Ritchie, 29, was jailed for 38 months after sending accomplice Liam Rice to firebomb a Dundee home where a grandmother was caring for several children.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/gangland-enforcer-jailed-sending-thug-37577473",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37578567.ece/ALTERNATES/s1200d/0_imagemaker-97.jpg",
-      "publishedAt": "2026-08-22T03:30:00Z",
-      "source": {
-        "name": "Daily Record"
       }
     }
   ]
