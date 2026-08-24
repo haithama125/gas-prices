@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-08-24T00:40:33+00:00",
+  "updated_at": "2026-08-24T06:35:47+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "New PUC rates in Maharashtra: Check revised charges for two-wheelers, three-wheelers, four-wheelers, petrol and diesel vehicles",
+      "description": "Maharashtra PUC rates: Maharashtra's Transport Department has increased pollution certificate fees by twenty percent. Two-wheeler owners will now pay sixty rupees for their PUC certificates. Petrol three-wheeler and four-wheeler vehicle owners face new charges. Diesel vehicle owners will also pay a higher amount for their certificates. All PUC centers must now display the updated fee structure prominently.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/new-puc-rates-in-maharashtra-check-revised-charges-for-two-wheelers-three-wheelers-four-wheelers-petrol-and-diesel-vehicles/articleshow/133444175.cms",
+      "image": "https://img.etimg.com/thumb/msid-133444326,width-1200,height-630,imgsize-2163571,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-23T18:04:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Irish petrol & diesel price latest as Minister warns fuel cuts \u2018cannot go on indefinitely\u2019 amid \u20ac2 cost pressure fears",
+      "description": "CABINET will have to consider when to unwind fuel excise cuts, the Enterprise Minister has said, stating a recent postponement cannot go on...",
+      "url": "https://www.thesun.ie/money/17503411/ireland-petrol-diesel-fuel-prices-costs-tax/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/08/newspress-collage-mz1zt798l-1787500346846.jpg?quality=90&strip=all&1787503966&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-08-23T17:45:17Z",
+      "source": {
+        "name": "The Irish Sun"
+      }
+    },
+    {
+      "title": "Kejriwal to address town hall on E20 petrol policy during Goa visit",
+      "description": "Panaji, Aug 23 (PTI) Aam Aadmi Party (AAP) leader Arvind Kejriwal will address a town hall on E20 petrol policy during his two-day visit to Goa beginning Monday. Kejriwal landed at Dabolim Airport in south Goa on Sunday, where he was received by local party leaders. AAP sources said Kejriwal would address a press conference [\u2026]",
+      "url": "https://theprint.in/india/kejriwal-to-address-town-hall-on-e20-petrol-policy-during-goa-visit/3022926/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-08-23T16:17:12Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "The Bond Market\u2019s AI Indigestion - and NVIDIA\u2019s Big Night",
+      "description": "Wall Street capped the week with a win but still posted its worst week in over a month, as bond market turmoil, rising oil prices, and renewed u...",
+      "url": "https://markets.businessinsider.com/news/stocks/the-bond-market-s-ai-indigestion-and-nvidia-s-big-night-1036484635",
+      "image": "https://markets.businessinsider.com/favicon-32x32.png",
+      "publishedAt": "2026-08-23T14:08:12Z",
+      "source": {
+        "name": "Markets Insider"
+      }
+    },
+    {
+      "title": "Change to 97% of petrol stations across UK with drivers set to benefit",
+      "description": "Fuel Finder tool could help road users, motorists and drivers who are attempting to make savings on their petrol and diesel costs.",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/change-97-petrol-stations-across-34477806",
+      "image": "https://i2-prod.birminghammail.co.uk/article34477871.ece/ALTERNATES/s1200d/0_petrol1.jpg",
+      "publishedAt": "2026-08-23T12:45:45Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
     {
       "title": "Iran Defiant Amid U.S. Sanctions Threat as Tensions Escalate",
       "description": "Iran's foreign minister labels imminent U.S. sanctions as ineffective and sign of desperation. Despite the economic and military pressures, Iran remains steadfast, affecting global oil prices by blocking the Strait of Hormuz. Meanwhile, diplomatic efforts and regional security cooperation continue amid rising tensions.",
@@ -52,56 +102,6 @@
       "publishedAt": "2026-08-23T09:57:00Z",
       "source": {
         "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Crude Oil, Geopolitics Drive Market Movement: Analysts: Rediff Moneynews",
-      "description": "Crude oil prices and geopolitical tensions, particularly the US-Iran conflict, are primary market drivers. Investors also eye Fed policy '' Jackson Hole.",
-      "url": "https://www.europesays.com/3210730/",
-      "image": "https://www.europesays.com/wp-content/uploads/2025/02/22crude.jpg",
-      "publishedAt": "2026-08-23T09:22:36Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Indonesia considers vehicle-based restrictions on subsidised fuel",
-      "description": "JAKARTA: The government is considering using vehicle types to determine who can buy Pertalite, the subsidised RON 90 petrol, as a vehicle can reflect its owner's socioeconomic status, Coordinating Economy Minister Airlangga Hartarto said on Friday",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/08/23/indonesia-considers-vehicle-based-restrictions-on-subsidised-fuel",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/23/4073828.jpg",
-      "publishedAt": "2026-08-23T08:24:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Geopolitics, crude oil prices likely to drive stock market movements",
-      "description": "Last week, the BSE benchmark Sensex declined 468.42 points, or 0.60 per cent, and the NSE Nifty dipped 114 points, or 0.46 per cent",
-      "url": "https://www.business-standard.com/markets/news/geopolitics-crude-oil-prices-likely-to-drive-stock-market-movements-126082300268_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/thumb/fitandfill/1200X628/1778776794-7318.jpg",
-      "publishedAt": "2026-08-23T08:07:56Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Geopolitical Developments, Crude Oil Prices Will Be Major Drivers For Market Movement: Analysts",
-      "description": "Crude oil prices and developments in the US-Iran conflict will remain the primary factors influencing stock market movements this week, according to analysts. On the domestic front, investors will track rupee movement, foreign institutional flows and domestic liquidity conditions.",
-      "url": "https://www.outlookbusiness.com/markets/geopolitical-developments-crude-oil-prices-will-be-major-drivers-for-market-movement-analysts",
-      "image": "https://media.assettype.com/outlookbusiness/2026-08-23/1n6cbs5e/stock-market-66930601280.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-23T07:58:06Z",
-      "source": {
-        "name": "Outlook Business"
-      }
-    },
-    {
-      "title": "Why Trump\u2019s economic pain could spark more Iranian attacks on Gulf nations",
-      "description": "The plan is likely to prompt Tehran to retaliate with military strikes across the Gulf in a bid to push up oil prices and force Trump to retreat.",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3364963/why-trumps-economic-pain-could-spark-more-iranian-attacks-gulf-nations",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/08/23/d1deeb7b-18fe-4604-9e12-d254f5eaa8ed_64cfb2a4.jpg?itok=wwzM03-W&v=1787468637",
-      "publishedAt": "2026-08-23T07:04:02Z",
-      "source": {
-        "name": "South China Morning Post"
       }
     }
   ]
