@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-08-24T06:35:47+00:00",
+  "updated_at": "2026-08-24T12:26:06+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "\u2018No ethanol link, decline in sugarcane production driving up sugar price\u2019",
+      "description": "sugar prices have skyrocketed in the market amid declining sugarcane production and increased stockpiling by traders, according to experts who attributed the sharp rise to multiple factors but ruled out diversion of sugar towards ethanol production as the main reason. opposition parties have been targeting the centre over increased ethanol blending in petrol, alleging that the policy was pushing up sugar prices and imposing an additional financial burden on people. the government has rejected the claims and",
+      "url": "https://www.thehitavada.com/Encyc/2026/8/24/no-ethanol-link-decline-in-sugarcane-production-driving-up-sugar-price.html",
+      "image": "https://www.thehitavada.com/Encyc/2026/8/24/No-ethanol-link-decline-in-sugarcane-production-driving-up-sugar-price_202608241105420502_H@@IGHT_450_W@@IDTH_600.jpg",
+      "publishedAt": "2026-08-24T00:00:00Z",
+      "source": {
+        "name": "The Hitavada"
+      }
+    },
+    {
+      "title": "Petrol seller's profit soars on war-linked price surges",
+      "description": "Ampol, which owns one of Australia's two onshore oil refineries, has turned in a stellar first-half profit after oil market dislocation boosted its earnings.",
+      "url": "https://www.perthnow.com.au/news/business/petrol-sellers-profit-soars-on-war-linked-price-surges-c-22767127",
+      "image": "https://images.perthnow.com.au/publication/C-22767127/60a67fb19a76094ba995355b283830b7ebf658e2-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-08-23T23:52:14Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "Where did Pakistan\u2019s missing coins go?",
+      "description": "ISLAMABAD - Every day, millions of Pakistanis buy petrol, groceries, medicines or other everyday necessities and leave their loose change behind. A few rupees may be",
+      "url": "https://www.nation.com.pk/24-Aug-2026/pakistan-s-missing-coins-go",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-08-23T20:31:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
     {
       "title": "New PUC rates in Maharashtra: Check revised charges for two-wheelers, three-wheelers, four-wheelers, petrol and diesel vehicles",
       "description": "Maharashtra PUC rates: Maharashtra's Transport Department has increased pollution certificate fees by twenty percent. Two-wheeler owners will now pay sixty rupees for their PUC certificates. Petrol three-wheeler and four-wheeler vehicle owners face new charges. Diesel vehicle owners will also pay a higher amount for their certificates. All PUC centers must now display the updated fee structure prominently.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-08-23T10:54:33Z",
       "source": {
         "name": "The Nation"
-      }
-    },
-    {
-      "title": "Dalal Street outlook: Markets seek recovery after two-week slide; crude, geopolitical cues in focus",
-      "description": "India Business News: After two weeks of declines, Dalal Street could see some consolidation this week, with crude oil prices and developments in the US-Iran conflict likel.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/dalal-street-outlook-markets-seek-recovery-after-two-week-slide-crude-geopolitical-cues-in-focus/articleshow/133437773.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133437820,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-23T10:07:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12682420",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-18goodmorningnorthbaybct-6-prickly-heat-temiskaming-shores-gerry-jelly.jpg;w=960;h=540;mode=crop",
-      "publishedAt": "2026-08-23T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "UK petrol stations still breaking new 2026 Labour rule",
-      "description": "Not all UK petrol station operators are following a major new rule change put into place by Labour in early 2026.",
-      "url": "https://www.express.co.uk/life-style/cars/2241647/uk-fuel-finder-petrol-diesel-labour",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7107088.jpg",
-      "publishedAt": "2026-08-23T09:57:00Z",
-      "source": {
-        "name": "Daily Express"
       }
     }
   ]
