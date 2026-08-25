@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-25T12:26:37+00:00",
+  "updated_at": "2026-08-25T18:23:47+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
+      "title": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise",
+      "description": "Japanese government bond yields edged higher on Tuesday, tracking a rise in US Treasury yields and recovering oil prices. Investors remained cautious ahead of key comments from Bank of Japan Deputy Governor Ryozo Himino and Federal Reserve Chairman Kevin Warsh, with markets seeking clues on the outlook for interest rates and monetary policy.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-edge-higher-as-us-treasury-yields-oil-prices-rise/articleshow/133496737.cms",
+      "image": "https://img.etimg.com/thumb/msid-133496803,width-1200,height-630,imgsize-2027463,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-25T06:21:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
       "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. BANGKOK (AP)",
-      "url": "https://www.breitbart.com/news/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
-      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-65943-south-korea-financial-markets-currency-trader-passes-by-screen-640x335.jpg",
-      "publishedAt": "2026-08-24T23:19:43Z",
+      "description": "Oil prices were little changed after US Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing bu",
+      "url": "https://www.newindianexpress.com/business/2026/Aug/25/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-25%2Fvgzej1kq%2FAP26237068665943.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-25T06:07:37Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "description": "Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8cac1f388a-1787603999.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-08-24T21:35:10Z",
+      "title": "Centre tightens ethanol-blending rules for OMCs",
+      "description": "The government plans to enforce mandatory chloride contamination limits for E20 petrol, addressing automakers' concerns about fuel quality and its impact on vehicle components.",
+      "url": "https://www.newsbytesapp.com/news/auto/centre-tightens-ethanol-blending-rules-for-omcs/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l142_16761787631047.jpg",
+      "publishedAt": "2026-08-25T05:55:51Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Oil prices fall as Bessent outlines new steps to punish Iran",
-      "description": "Markets were in a cautious mood after the US Treasury Secretary announced new sanctions on Iran, with an analyst describing market moves as \u201cpretty muted\u201d ahead of what could be an \u201ceventful week.\u201d",
-      "url": "https://www.channelnewsasia.com/world/oil-prices-iran-sanctions-us-stocks-market-6338596",
-      "image": "https://dam.mediacorp.sg/image/upload/s--GehsFEzz--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/25/000_c6dp8qm.jpg?itok=6lDXbxoH",
-      "publishedAt": "2026-08-24T21:00:00Z",
+      "title": "Markets Decline In Early Trade Amid Elevated Crude Oil Prices, Escalating Geopolitical Tensions",
+      "description": "Among the 30 Sensex firms, HCL Tech, Tech Mahindra, Maruti, NTPC, Power Grid and Bajaj Finance were among the major laggards.",
+      "url": "https://www.outlookbusiness.com/markets/markets-decline-in-early-trade-amid-elevated-crude-oil-prices-escalating-geopolitical-tensions",
+      "image": "https://media.assettype.com/outlookbusiness/2026-06-30/7sh0ci5x/9f7b6561918e35238d494acd84e4c6f2.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-25T05:37:55Z",
       "source": {
-        "name": "CNA"
+        "name": "Outlook Business"
       }
     },
     {
-      "title": "NGT Flags Petrol Pump Construction Over Drain At Bhopal\u2019s ISBT",
-      "description": "The NGT\u2019s Central Zone Bench has issued notices over construction of a petrol pump allegedly over a natural drain at the ISBT campus. A joint panel of CPCB, MPPCB and the Bhopal collector will inspect the site and verify environmental compliance. The tribunal has sought its report within four weeks.",
-      "url": "https://www.freepressjournal.in/bhopal/ngt-flags-petrol-pump-construction-over-drain-at-bhopals-isbt",
-      "image": "https://media.assettype.com/freepressjournal/2026-08-24/viqvk8lc/7hDukcqoW5Yx5cTo1GQDUBUlSZkARjzMlOZBXvYVbPfiFmRrbxM9QxTyiglrZyO-VjBinf4jH8Qw09XtEMD9VidfzcWybFCRKvDD25rWGd7ttCOxn9IV7zHUAwIg31BGcqeFYRZsnJwSmwu6jJbMwU8qZR8cVdJcZuldUB8jFo.jpg",
-      "publishedAt": "2026-08-24T19:30:00Z",
+      "title": "11:11 | Oil falls as US launches \u2018Operation Economic Outcast\u2019 against Iran; TCS eyes Europe expansion with Porsche deal",
+      "description": "Washington has launched \"Operation Economic Outcast\" against Iran as oil prices extend their decline, while TCS is looking to its Porsche partnership to unlock more of Europe's auto market. Plus, gold's 17% surge, Jaishankar's Russia visit, tighter US visa rules and more in today's 11:11 roundup.",
+      "url": "https://www.cnbctv18.com/business/oil-falls-as-us-launches-operation-economic-outcast-against-iran-tcs-eyes-europe-expansion-with-porsche-deal-19976307.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/russia-1-2026-08-f22b390c23f6a22839086100d7de6d87.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-08-25T05:35:06Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Explained: Why Iran Is Facing Fuel Shortages and Long Lines at Petrol Pumps",
-      "description": "Iran is facing a growing gasoline shortage of 14 to 15 million liters a day, driven by wartime damage, a US naval blockade, and record demand, sparking long lines at gas stations., World News, Times Now",
-      "url": "https://www.timesnownews.com/world/explained-why-iran-is-facing-fuel-shortages-and-long-lines-at-petrol-pumps-article-155980720",
-      "image": "https://images.timesnownews.com/thumb/msid-155980798,thumbsize-138306,width-1280,height-720,resizemode-75/155980798.jpg",
-      "publishedAt": "2026-08-24T19:17:13Z",
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures were nearly unchanged. Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Islamic Republic would face retaliation. On Monday, the S&P 500 slipped 0.3% and the Dow industrials added 0.3%. The Nasdaq composite fell 0.8%. Bond yields eased. Investors are awaiting a profit report from Nvidia on Wednesday and a speech by the Federal Reserve\u2019s new chairman, Kevin Warsh, on Friday.",
+      "url": "https://www.ajc.com/news/2026/08/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
+      "image": "https://images.ajc.com/resizer/v2/VLNFDC75CRAMZPJWWUAMP3IJ7U.jpg?auth=a8df0e176f72e6ef3b38c6937e073bb3a37a587467adac65a5577686b08322e1&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-25T05:32:54Z",
       "source": {
-        "name": "Times Now"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz",
-      "description": "October WTI crude oil (CLV26 ) closed down -2.05 (-2.35%) on Monday, and October RBOB gasoline (RBV26 ) closed down -0.0780 (-2.56%). Crude oil and gasoline prices settled sharply lower on Monday on signs that crude supplies are moving through the St...",
-      "url": "https://www.barchart.com/story/news/4007826/crude-prices-sharply-lower-as-oil-supplies-move-through-strait-of-hormuz",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-24T19:16:57Z",
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "description": "BANGKOK (AP) \u2014 Asian shares were mostly lower Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.",
+      "url": "https://wtop.com/world/2026/08/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/South_Korea_Financial_Markets_65943-scaled.jpg",
+      "publishedAt": "2026-08-25T05:30:36Z",
+      "source": {
+        "name": "WTOP"
+      }
+    },
+    {
+      "title": "RBI intervenes to support rupee as oil prices, dollar demand rise: Report",
+      "description": "India Business News: The Reserve Bank of India likely intervened in the foreign exchange market on Tuesday to protect the rupee from pressure caused by elevated oil prices.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-intervenes-to-support-rupee-as-oil-prices-dollar-demand-rise-report/articleshow/133492794.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133494517,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-25T05:27:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures...",
+      "url": "https://www.sfgate.com/news/world/article/asian-shares-are-mixed-and-oil-prices-hold-steady-22402183.php",
+      "image": "https://s.hdnux.com/photos/01/67/11/75/31235964/3/rawImage.jpg",
+      "publishedAt": "2026-08-25T05:26:32Z",
+      "source": {
+        "name": "SFGATE"
+      }
+    },
+    {
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week",
+      "url": "https://www.barchart.com/story/news/4014034/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/6f4acd8ec2064ee4b0f5028d835459d0/6f4acd8ec2064ee4b0f5028d835459d0_main_japan_financial_markets_1_288.jpg",
+      "publishedAt": "2026-08-25T05:26:32Z",
       "source": {
         "name": "Barchart"
-      }
-    },
-    {
-      "title": "Nat-Gas Prices Supported by Hot US Weather",
-      "description": "September Nymex natural gas (NGU26 ) on Monday closed up +0.009 (+0.32%). Nat-gas prices settled higher on Monday amid forecasts for record-high temperatures in West Texas this week to support nat-gas demand. The largest Texas electric grid, the Ele...",
-      "url": "https://www.barchart.com/story/news/4007793/nat-gas-prices-supported-by-hot-us-weather",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
-      "publishedAt": "2026-08-24T19:14:07Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Twin Cities gas prices surge 18 cents in one week, now averaging $4.19 per gallon",
-      "description": "Drivers in the Twin Cities are feeling the pinch at the pump, and the numbers show it's only getting worse.",
-      "url": "https://www.fox9.com/news/twin-cities-gas-prices-surge-18-cents-one-week-now-averaging-4-19-per-gallon",
-      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg?ve=1&tl=1",
-      "publishedAt": "2026-08-24T17:47:14Z",
-      "source": {
-        "name": "FOX 9"
-      }
-    },
-    {
-      "title": "What Florida travelers need to know before Labor Day trips",
-      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
-      "url": "https://www.tcpalm.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
-      "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-24T17:35:53Z",
-      "source": {
-        "name": "TCPalm"
-      }
-    },
-    {
-      "title": "What Florida travelers need to know before Labor Day trips",
-      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
-      "url": "https://eu.tallahassee.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
-      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?auto=webp&crop=2250,1267,x0,y866&format=pjpg&width=1200",
-      "publishedAt": "2026-08-24T17:35:53Z",
-      "source": {
-        "name": "Tallahassee Democrat"
       }
     }
   ]
