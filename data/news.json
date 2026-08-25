@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-24T18:24:44+00:00",
+  "updated_at": "2026-08-25T00:39:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "High oil prices and subsidies rev up European EV sales",
-      "description": "Electric vehicle sales accelerated across much of Europe in July, as high oil prices, subsidies and availability of more affordable models encouraged consumers to ditch their combustion-engine cars, data provided to Reuters showed.",
-      "url": "https://www.rte.ie/news/business/2026/0824/1588953-european-ev-sales-surging/",
-      "image": "https://www.rte.ie/images/00114157-1600.jpg",
-      "publishedAt": "2026-08-24T06:18:32Z",
+      "title": "US futures and oil prices slip with pressure on Treasurys ongoing",
+      "description": "US futures are lower as bond market pressure will have investors eyeing an annual meeting of top U.S. economic officials at Jackson Hole, Wyoming later in the week",
+      "url": "https://www.barchart.com/story/news/3998271/us-futures-and-oil-prices-slip-with-pressure-on-treasurys-ongoing",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/bb068027a26e4c6c82bcd4fda7be185a/bb068027a26e4c6c82bcd4fda7be185a_main_japan_financial_markets_67567.jpg",
+      "publishedAt": "2026-08-24T11:52:59Z",
       "source": {
-        "name": "RTE.ie"
+        "name": "Barchart"
       }
     },
     {
-      "title": "Rain Industries share price: Petrochemical stock jumps 4% amid soaring crude oil prices on US-Iran war",
-      "description": "Rain Industries share price rose over 4% on 24 August, driven by rising crude oil prices amid US-Iran tensions. Q2CY26 revenue reached \u20b95,167 crore, exceeding forecasts, with significant growth in Carbon and Advanced Materials segments, while Cement performance lagged behind.",
-      "url": "https://www.livemint.com/market/stock-market-news/rain-industries-share-price-petrochemical-stock-jumps-4-amid-soaring-crude-oil-prices-on-us-iran-war-11787549018567.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/adam-smigielski-K5mPtONmpHM-unsplash_1700479308572_1787550889210_fdb92de3-ee15-4a88-8b58-17b083fee289.jpg",
-      "publishedAt": "2026-08-24T06:01:39Z",
+      "title": "Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
+      "description": "MUMBAI, Aug 24: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, experts said. Despite a positive...",
+      "url": "https://www.dailyexcelsior.com/stock-markets-end-lower-amid-simmering-geopolitical-tensions-elevated-crude-oil-prices/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWZkZTk1MGIwLTlmYjEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-24T11:50:22Z",
       "source": {
-        "name": "Livemint"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Asian shares mostly decline as bond market pressure mounts",
-      "description": "Asian shares are mostly lower and oil prices have declined at the start of a week capped by a meeting of top U.S. economic officials at Jackson Hole. U.S. futures edged lower. South Korea's Kospi lost 3.5% early Monday and the Hang Seng in Hong Kong fell more than 2%. On Friday, U.S. stocks rose, trimming their losses from a shaky week. The bond market remains jumpy, pressuring stock prices. The S&P 500 rose 0.4% and the Dow Jones Industrial Average gained 1%. The Nasdaq composite climbed 0.4%. A report suggesting strong growth in U.S. business activity raised hopes for broad corporate profits.",
-      "url": "https://www.ajc.com/news/2026/08/asian-shares-mostly-decline-as-bond-market-pressure-mounts/",
-      "image": "https://images.ajc.com/resizer/v2/6HRJWEV6FFGFPLI5BHOLPAK65U.jpg?auth=1a23209da836d4f00053523c79cdad4611c89dd80486844d91d31c53894b5e57&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-24T05:42:11Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Asian shares slip as pressure mounts on bond markets",
-      "description": "Asian shares are mostly lower and oil prices have declined at the start of a week capped by a meeting of top U.S. economic officials at Jackson Hole.",
-      "url": "https://apnews.com/article/stocks-markets-futures-bonds-oil-8ab800029c559c5e751058ac1a8ef932",
-      "image": "https://dims.apnews.com/dims4/default/a91fd82/2147483647/strip/true/crop/6908x4603+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F92%2F21%2F5751251e6540047ae9d5ec692d8b%2F9a6ff8d328284967884c8d3c563bd9c6",
-      "publishedAt": "2026-08-24T05:35:25Z",
-      "source": {
-        "name": "The Associated Press"
-      }
-    },
-    {
-      "title": "Asian shares mostly decline as bond market pressure mounts",
-      "description": "Asian shares are mostly lower and oil prices have declined at the start of a week capped by a meeting of top U.S. economic officials at Jackson Hole. U.S. futures edged lower. South Korea's Kospi lost...",
-      "url": "https://www.sfgate.com/news/world/article/asian-shares-mostly-decline-as-bond-market-22400538.php",
-      "image": "https://s.hdnux.com/photos/01/67/10/65/31231322/3/rawImage.jpg",
-      "publishedAt": "2026-08-24T05:35:25Z",
-      "source": {
-        "name": "SFGATE"
-      }
-    },
-    {
-      "title": "Asian shares mostly decline as bond market pressure mounts",
-      "description": "Asian shares are mostly lower and oil prices have declined at the start of a week capped by a meeting of top U.S. economic officials at Jackson Hole.",
-      "url": "https://www.clickondetroit.com/news/2026/08/24/asian-shares-mostly-decline-as-bond-market-pressure-mounts/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/PFKEB336QREIFJNSPHBKHPNJBY.jpg?_a=DATAg1kSZAA0",
-      "publishedAt": "2026-08-24T05:35:24Z",
-      "source": {
-        "name": "WDIV ClickOnDetroit"
-      }
-    },
-    {
-      "title": "Oil falls as Trump pledges economic war on Iran",
-      "description": "Oil prices drop as Trump announces a severe economic strategy against Iran, impacting Asian markets and investor sentiment.",
-      "url": "https://www.thehindu.com/news/international/oil-falls-as-trump-pledges-economic-war-on-iran/article71383218.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7fym25/article71383237.ece/alternates/LANDSCAPE_1200/2026-08-22T050007Z_187421637_RC2XZMABNVON_RTRMADP_3_USA-TRUMP-FOREIGN-POLICY.JPG",
-      "publishedAt": "2026-08-24T05:30:21Z",
+      "title": "Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
+      "description": "Indian stock markets decline as geopolitical tensions and rising crude oil prices dampen investor sentiment amid upcoming U.S. sanctions on Iran.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-end-lower-amid-simmering-geopolitical-tensions-elevated-crude-oil-prices/article71384260.ece",
+      "image": "https://th-i.thgim.com/public/incoming/vbv23/article71384313.ece/alternates/LANDSCAPE_1200/2026-07-15T124153Z_1458141949_RC2TSDAU7IJ8_RTRMADP_3_ANGEL-ONE-RESULTS.JPG",
+      "publishedAt": "2026-08-24T11:45:31Z",
       "source": {
         "name": "The Hindu"
       }
     },
     {
-      "title": "Drivers told exactly when to avoid M5, M1 and M25 this week",
-      "description": "The warning comes despite the latest petrol and diesel price update",
-      "url": "https://www.kentlive.news/news/motoring/drivers-told-exactly-avoid-m5-11124252",
-      "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11124253.ece/ALTERNATES/s1200/0_GettyImages-2183119941.jpg",
-      "publishedAt": "2026-08-24T05:25:03Z",
+      "title": "AAA: Michigan gas prices down 11 cents since last week",
+      "description": "Gas prices across Michigan have dropped 11 cents since last week, bringing the average cost statewide to $4.16 per gallon for regular unleaded.",
+      "url": "https://www.clickondetroit.com/news/local/2026/08/24/aaa-michigan-gas-prices-down-11-cents-since-last-week/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KNYQHN3ASBBGBCWKB7FNOTNPFI?_a=DATAg1kSZAA0",
+      "publishedAt": "2026-08-24T11:45:05Z",
       "source": {
-        "name": "Kentlive"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Drivers told exactly when to avoid M5, M1 and M25 this week",
-      "description": "The warning comes despite the latest petrol and diesel price update",
-      "url": "https://www.leicestermercury.co.uk/news/uk-world-news/drivers-told-exactly-avoid-m5-11124252",
-      "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11124253.ece/ALTERNATES/s1200/0_GettyImages-2183119941.jpg",
-      "publishedAt": "2026-08-24T05:25:03Z",
+      "title": "Rupee falls 3 paise to close at 95.74 against U.S. dollar",
+      "description": "The rupee dropped 3 paise to 95.74 against the dollar amid weak markets and rising crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-falls-3-paise-to-close-at-9574-against-us-dollar/article71384190.ece",
+      "image": "https://th-i.thgim.com/public/incoming/7pv2pi/article71384242.ece/alternates/LANDSCAPE_1200/2026-08-18T033847Z_943858627_RC2HDJA2XNJY_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-08-24T11:28:03Z",
       "source": {
-        "name": "Leicester Mercury"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Drivers told exactly when to avoid M5, M1 and M25 this week",
-      "description": "The warning comes despite the latest petrol and diesel price update",
-      "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/drivers-told-exactly-avoid-m5-11124252",
-      "image": "https://i2-prod.bristolpost.co.uk/news/uk-world-news/article11124253.ece/ALTERNATES/s1200/0_GettyImages-2183119941.jpg",
-      "publishedAt": "2026-08-24T05:25:03Z",
+      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Monday, 24 August",
+      "description": "Use our interactive widget to fill your car for less",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34507514",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article34419869.ece/ALTERNATES/s1200d/0_Fuel-prices.jpg",
+      "publishedAt": "2026-08-24T10:45:04Z",
       "source": {
-        "name": "Grimsby Telegraph"
+        "name": "Manchester Evening News"
+      }
+    },
+    {
+      "title": "Michigan gas prices drop 11 cents from a week ago, AAA says",
+      "description": "The average cost of a gallon of unleaded gas in Michigan is $4.16, AAA said Monday.",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-drop-11-cents-august-24/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/17/15be2b4a-fe5c-4d54-a0d3-fa779a889c3f/thumbnail/1200x630/7ec29f3b37005779d30df7c4c21067fd/gettyimages-1359954504.jpg",
+      "publishedAt": "2026-08-24T10:33:22Z",
+      "source": {
+        "name": "CBS News"
+      }
+    },
+    {
+      "title": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran",
+      "description": "The Indian rupee showed little movement on Monday, remaining steady in a limited range due to ongoing central bank actions. Market participants are keenly observing potential U.S. sanctions on Iran, while the continuing conflict in the Middle East poses risks to oil prices and India's import reliance. Meanwhile, the dollar index gained strength, contrasting with declines in most Asian currencies and regional equities.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/interventions-hold-rupee-on-narrow-leash-traders-await-us-sanctions-on-iran/articleshow/133461311.cms",
+      "image": "https://img.etimg.com/thumb/msid-133461362,width-1200,height-630,imgsize-34618,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-24T10:25:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Nifty, Sensex end lower as Iran sanctions, high crude and rising bond yields weigh on sentiment",
+      "description": "Indian equity markets closed lower on Monday, as investors remained cautious ahead of fresh US sanctions on Iran, while elevated crude oil prices and rising domestic bond yields continued to weigh on market sentiment.",
+      "url": "https://www.tribuneindia.com/news/business/nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-rising-bond-yields-weigh-on-sentiment/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkNmFhNGQwLTlmYTUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-24T10:23:30Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Nifty, Sensex end lower as Iran sanctions, high crude and rising bond yields weigh on sentiment",
+      "description": "Indian equity markets closed lower on Monday, as investors remained cautious ahead of fresh US sanctions on Iran, while elevated crude oil prices and rising domestic bond yields continued to weigh on market sentiment.",
+      "url": "https://www.aninews.in/news/business/nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-rising-bond-yields-weigh-on-sentiment20260824154811/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824093915-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-08-24T10:18:11Z",
+      "source": {
+        "name": "ANI (Asian News International)"
       }
     }
   ]
