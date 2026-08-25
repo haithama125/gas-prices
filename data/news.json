@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-25T00:39:59+00:00",
+  "updated_at": "2026-08-25T06:27:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US futures and oil prices slip with pressure on Treasurys ongoing",
-      "description": "US futures are lower as bond market pressure will have investors eyeing an annual meeting of top U.S. economic officials at Jackson Hole, Wyoming later in the week",
-      "url": "https://www.barchart.com/story/news/3998271/us-futures-and-oil-prices-slip-with-pressure-on-treasurys-ongoing",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/bb068027a26e4c6c82bcd4fda7be185a/bb068027a26e4c6c82bcd4fda7be185a_main_japan_financial_markets_67567.jpg",
-      "publishedAt": "2026-08-24T11:52:59Z",
+      "title": "Twin Cities gas prices surge 18 cents in one week, now averaging $4.19 per gallon",
+      "description": "Drivers in the Twin Cities are feeling the pinch at the pump, and the numbers show it's only getting worse.",
+      "url": "https://www.fox9.com/news/twin-cities-gas-prices-surge-18-cents-one-week-now-averaging-4-19-per-gallon",
+      "image": "https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2026/03/1200/630/3_2_26-gas-prices-vo-gk_kmsp41d3_186_mp4_00.00.05.30.jpg?ve=1&tl=1",
+      "publishedAt": "2026-08-24T17:47:14Z",
       "source": {
-        "name": "Barchart"
+        "name": "FOX 9"
       }
     },
     {
-      "title": "Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
-      "description": "MUMBAI, Aug 24: Benchmark equity indices Sensex and Nifty ended lower on Monday as persistent geopolitical tensions and elevated crude oil prices hampered risk appetite. Investors remained cautious ahead of fresh US sanctions on Iran, experts said. Despite a positive...",
-      "url": "https://www.dailyexcelsior.com/stock-markets-end-lower-amid-simmering-geopolitical-tensions-elevated-crude-oil-prices/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWZkZTk1MGIwLTlmYjEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-24T11:50:22Z",
+      "title": "What Florida travelers need to know before Labor Day trips",
+      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
+      "url": "https://www.gainesville.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
+      "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
-        "name": "Daily Excelsior"
+        "name": "Gainesville Sun"
       }
     },
     {
-      "title": "Stock markets end lower amid simmering geopolitical tensions, elevated crude oil prices",
-      "description": "Indian stock markets decline as geopolitical tensions and rising crude oil prices dampen investor sentiment amid upcoming U.S. sanctions on Iran.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-end-lower-amid-simmering-geopolitical-tensions-elevated-crude-oil-prices/article71384260.ece",
-      "image": "https://th-i.thgim.com/public/incoming/vbv23/article71384313.ece/alternates/LANDSCAPE_1200/2026-07-15T124153Z_1458141949_RC2TSDAU7IJ8_RTRMADP_3_ANGEL-ONE-RESULTS.JPG",
-      "publishedAt": "2026-08-24T11:45:31Z",
+      "title": "What Florida travelers need to know before Labor Day trips",
+      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
+      "url": "https://www.naplesnews.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
+      "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Naples Daily News"
       }
     },
     {
-      "title": "AAA: Michigan gas prices down 11 cents since last week",
-      "description": "Gas prices across Michigan have dropped 11 cents since last week, bringing the average cost statewide to $4.16 per gallon for regular unleaded.",
-      "url": "https://www.clickondetroit.com/news/local/2026/08/24/aaa-michigan-gas-prices-down-11-cents-since-last-week/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/KNYQHN3ASBBGBCWKB7FNOTNPFI?_a=DATAg1kSZAA0",
-      "publishedAt": "2026-08-24T11:45:05Z",
+      "title": "What Florida travelers need to know before Labor Day trips",
+      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
+      "url": "https://www.heraldtribune.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
+      "image": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "Herald-Tribune"
       }
     },
     {
-      "title": "Rupee falls 3 paise to close at 95.74 against U.S. dollar",
-      "description": "The rupee dropped 3 paise to 95.74 against the dollar amid weak markets and rising crude oil prices.",
-      "url": "https://www.thehindu.com/business/markets/rupee-falls-3-paise-to-close-at-9574-against-us-dollar/article71384190.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7pv2pi/article71384242.ece/alternates/LANDSCAPE_1200/2026-08-18T033847Z_943858627_RC2HDJA2XNJY_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2026-08-24T11:28:03Z",
+      "title": "What Florida travelers need to know before Labor Day trips",
+      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
+      "url": "https://www.tcpalm.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
+      "image": "https://www.tcpalm.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
-        "name": "The Hindu"
+        "name": "TCPalm"
       }
     },
     {
-      "title": "The cheapest place to get petrol and diesel in Greater Manchester today - Monday, 24 August",
-      "description": "Use our interactive widget to fill your car for less",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/cheapest-petrol-diesel-greater-manchester-34507514",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34419869.ece/ALTERNATES/s1200d/0_Fuel-prices.jpg",
-      "publishedAt": "2026-08-24T10:45:04Z",
+      "title": "What Florida travelers need to know before Labor Day trips",
+      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
+      "url": "https://eu.tallahassee.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?auto=webp&crop=2250,1267,x0,y866&format=pjpg&width=1200",
+      "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "Tallahassee Democrat"
       }
     },
     {
-      "title": "Michigan gas prices drop 11 cents from a week ago, AAA says",
-      "description": "The average cost of a gallon of unleaded gas in Michigan is $4.16, AAA said Monday.",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-drop-11-cents-august-24/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/08/17/15be2b4a-fe5c-4d54-a0d3-fa779a889c3f/thumbnail/1200x630/7ec29f3b37005779d30df7c4c21067fd/gettyimages-1359954504.jpg",
-      "publishedAt": "2026-08-24T10:33:22Z",
+      "title": "Sensex, Nifty fall on Iran sanction fears",
+      "description": "Sensex and Nifty ended lower on Monday as crude oil prices and Iran sanctions concerns weighed on sentiment, despite gains in IT, Metal and Realty stocks.",
+      "url": "https://www.deccanchronicle.com/business/sensex-nifty-fall-on-iran-sanction-fears-1981925",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/24/2080658-img5822.jpg",
+      "publishedAt": "2026-08-24T17:14:50Z",
       "source": {
-        "name": "CBS News"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Interventions hold rupee on narrow leash, traders await US sanctions on Iran",
-      "description": "The Indian rupee showed little movement on Monday, remaining steady in a limited range due to ongoing central bank actions. Market participants are keenly observing potential U.S. sanctions on Iran, while the continuing conflict in the Middle East poses risks to oil prices and India's import reliance. Meanwhile, the dollar index gained strength, contrasting with declines in most Asian currencies and regional equities.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/interventions-hold-rupee-on-narrow-leash-traders-await-us-sanctions-on-iran/articleshow/133461311.cms",
-      "image": "https://img.etimg.com/thumb/msid-133461362,width-1200,height-630,imgsize-34618,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-24T10:25:00Z",
+      "title": "FTSE 100 outperforms as oil price heads lower",
+      "description": "Oil prices edged lower despite US Treasury Secretary Scott Bessent declaring that an \u2018economic D-Day\u2019 had begun against Iran.",
+      "url": "https://www.lbc.co.uk/article/4d27c3bf1f084c36b70c9ac2411cad02-5HjdgRw_2/",
+      "image": "https://images.globalplayer.com/images/837152?crop=16_9&width=1200&signature=TiuQrEjBYW_HEWiNGFiclRzhgac=",
+      "publishedAt": "2026-08-24T16:44:08Z",
+      "source": {
+        "name": "LBC"
+      }
+    },
+    {
+      "title": "FTSE 100 outperforms as oil price heads lower",
+      "description": "Oil prices edged lower despite US Treasury Secretary Scott Bessent declaring that an \u2018economic D-Day\u2019 had begun against Iran.",
+      "url": "https://www.standard.co.uk/business/business-news/aim-iran-european-wall-street-paris-b1294496.html",
+      "image": "https://static.standard.co.uk/2026/08/24/17/a453b059bb156a941ef61f2a8cae3354Y29udGVudHNlYXJjaGFwaSwxNzg3Njc1NzMw-2.84117078.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-08-24T16:41:07Z",
+      "source": {
+        "name": "Evening Standard"
+      }
+    },
+    {
+      "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
+      "description": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army chief is currently in Iran for talks on regional stability. Oil prices eased as investors awaited the full impact of these sanctions.",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
+      "image": "https://img.etimg.com/thumb/msid-133473218,width-1200,height-630,imgsize-50936,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-24T16:18:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Nifty, Sensex end lower as Iran sanctions, high crude and rising bond yields weigh on sentiment",
-      "description": "Indian equity markets closed lower on Monday, as investors remained cautious ahead of fresh US sanctions on Iran, while elevated crude oil prices and rising domestic bond yields continued to weigh on market sentiment.",
-      "url": "https://www.tribuneindia.com/news/business/nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-rising-bond-yields-weigh-on-sentiment/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRkNmFhNGQwLTlmYTUtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-24T10:23:30Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Nifty, Sensex end lower as Iran sanctions, high crude and rising bond yields weigh on sentiment",
-      "description": "Indian equity markets closed lower on Monday, as investors remained cautious ahead of fresh US sanctions on Iran, while elevated crude oil prices and rising domestic bond yields continued to weigh on market sentiment.",
-      "url": "https://www.aninews.in/news/business/nifty-sensex-end-lower-as-iran-sanctions-high-crude-and-rising-bond-yields-weigh-on-sentiment20260824154811/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260824093915-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-08-24T10:18:11Z",
-      "source": {
-        "name": "ANI (Asian News International)"
       }
     }
   ]
