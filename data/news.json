@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-08-25T06:27:42+00:00",
+  "updated_at": "2026-08-25T12:26:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
+      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. BANGKOK (AP)",
+      "url": "https://www.breitbart.com/news/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-65943-south-korea-financial-markets-currency-trader-passes-by-screen-640x335.jpg",
+      "publishedAt": "2026-08-24T23:19:43Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "description": "Falling Republican support, rising gas prices, and fears of a long conflict drive a decline in backing for the Iran war.",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/afp_6a8cac1f388a-1787603999.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-08-24T21:35:10Z",
+      "source": {
+        "name": "Al Jazeera"
+      }
+    },
+    {
+      "title": "Oil prices fall as Bessent outlines new steps to punish Iran",
+      "description": "Markets were in a cautious mood after the US Treasury Secretary announced new sanctions on Iran, with an analyst describing market moves as \u201cpretty muted\u201d ahead of what could be an \u201ceventful week.\u201d",
+      "url": "https://www.channelnewsasia.com/world/oil-prices-iran-sanctions-us-stocks-market-6338596",
+      "image": "https://dam.mediacorp.sg/image/upload/s--GehsFEzz--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/08/25/000_c6dp8qm.jpg?itok=6lDXbxoH",
+      "publishedAt": "2026-08-24T21:00:00Z",
+      "source": {
+        "name": "CNA"
+      }
+    },
+    {
+      "title": "NGT Flags Petrol Pump Construction Over Drain At Bhopal\u2019s ISBT",
+      "description": "The NGT\u2019s Central Zone Bench has issued notices over construction of a petrol pump allegedly over a natural drain at the ISBT campus. A joint panel of CPCB, MPPCB and the Bhopal collector will inspect the site and verify environmental compliance. The tribunal has sought its report within four weeks.",
+      "url": "https://www.freepressjournal.in/bhopal/ngt-flags-petrol-pump-construction-over-drain-at-bhopals-isbt",
+      "image": "https://media.assettype.com/freepressjournal/2026-08-24/viqvk8lc/7hDukcqoW5Yx5cTo1GQDUBUlSZkARjzMlOZBXvYVbPfiFmRrbxM9QxTyiglrZyO-VjBinf4jH8Qw09XtEMD9VidfzcWybFCRKvDD25rWGd7ttCOxn9IV7zHUAwIg31BGcqeFYRZsnJwSmwu6jJbMwU8qZR8cVdJcZuldUB8jFo.jpg",
+      "publishedAt": "2026-08-24T19:30:00Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Explained: Why Iran Is Facing Fuel Shortages and Long Lines at Petrol Pumps",
+      "description": "Iran is facing a growing gasoline shortage of 14 to 15 million liters a day, driven by wartime damage, a US naval blockade, and record demand, sparking long lines at gas stations., World News, Times Now",
+      "url": "https://www.timesnownews.com/world/explained-why-iran-is-facing-fuel-shortages-and-long-lines-at-petrol-pumps-article-155980720",
+      "image": "https://images.timesnownews.com/thumb/msid-155980798,thumbsize-138306,width-1280,height-720,resizemode-75/155980798.jpg",
+      "publishedAt": "2026-08-24T19:17:13Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Crude Prices Sharply Lower as Oil Supplies Move Through Strait of Hormuz",
+      "description": "October WTI crude oil (CLV26 ) closed down -2.05 (-2.35%) on Monday, and October RBOB gasoline (RBV26 ) closed down -0.0780 (-2.56%). Crude oil and gasoline prices settled sharply lower on Monday on signs that crude supplies are moving through the St...",
+      "url": "https://www.barchart.com/story/news/4007826/crude-prices-sharply-lower-as-oil-supplies-move-through-strait-of-hormuz",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-08-24T19:16:57Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
+    {
+      "title": "Nat-Gas Prices Supported by Hot US Weather",
+      "description": "September Nymex natural gas (NGU26 ) on Monday closed up +0.009 (+0.32%). Nat-gas prices settled higher on Monday amid forecasts for record-high temperatures in West Texas this week to support nat-gas demand. The largest Texas electric grid, the Ele...",
+      "url": "https://www.barchart.com/story/news/4007793/nat-gas-prices-supported-by-hot-us-weather",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Natural%20Gas/Gas%20flame%20with%20blue%20reflection%20on%20dark%20backdrop%20by%20Bellanatella%20via%20iStock.jpg",
+      "publishedAt": "2026-08-24T19:14:07Z",
+      "source": {
+        "name": "Barchart"
+      }
+    },
     {
       "title": "Twin Cities gas prices surge 18 cents in one week, now averaging $4.19 per gallon",
       "description": "Drivers in the Twin Cities are feeling the pinch at the pump, and the numbers show it's only getting worse.",
@@ -12,36 +82,6 @@
       "publishedAt": "2026-08-24T17:47:14Z",
       "source": {
         "name": "FOX 9"
-      }
-    },
-    {
-      "title": "What Florida travelers need to know before Labor Day trips",
-      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
-      "url": "https://www.gainesville.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
-      "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-24T17:35:53Z",
-      "source": {
-        "name": "Gainesville Sun"
-      }
-    },
-    {
-      "title": "What Florida travelers need to know before Labor Day trips",
-      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
-      "url": "https://www.naplesnews.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
-      "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-24T17:35:53Z",
-      "source": {
-        "name": "Naples Daily News"
-      }
-    },
-    {
-      "title": "What Florida travelers need to know before Labor Day trips",
-      "description": "Labor Day travelers could face heavy traffic, higher gas prices and rising hotel costs. See the busiest times to hit the road.",
-      "url": "https://www.heraldtribune.com/story/news/state/2026/08/24/labor-day-traffic-forecast-florida-best-worst-times-travel/91438138007/",
-      "image": "https://www.heraldtribune.com/gcdn/authoring/authoring-images/2026/03/18/NDNJ/89210660007-dis-6.jpg?crop=2250,1267,x0,y866&width=2250&height=1267&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-24T17:35:53Z",
-      "source": {
-        "name": "Herald-Tribune"
       }
     },
     {
@@ -62,46 +102,6 @@
       "publishedAt": "2026-08-24T17:35:53Z",
       "source": {
         "name": "Tallahassee Democrat"
-      }
-    },
-    {
-      "title": "Sensex, Nifty fall on Iran sanction fears",
-      "description": "Sensex and Nifty ended lower on Monday as crude oil prices and Iran sanctions concerns weighed on sentiment, despite gains in IT, Metal and Realty stocks.",
-      "url": "https://www.deccanchronicle.com/business/sensex-nifty-fall-on-iran-sanction-fears-1981925",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/08/24/2080658-img5822.jpg",
-      "publishedAt": "2026-08-24T17:14:50Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "FTSE 100 outperforms as oil price heads lower",
-      "description": "Oil prices edged lower despite US Treasury Secretary Scott Bessent declaring that an \u2018economic D-Day\u2019 had begun against Iran.",
-      "url": "https://www.lbc.co.uk/article/4d27c3bf1f084c36b70c9ac2411cad02-5HjdgRw_2/",
-      "image": "https://images.globalplayer.com/images/837152?crop=16_9&width=1200&signature=TiuQrEjBYW_HEWiNGFiclRzhgac=",
-      "publishedAt": "2026-08-24T16:44:08Z",
-      "source": {
-        "name": "LBC"
-      }
-    },
-    {
-      "title": "FTSE 100 outperforms as oil price heads lower",
-      "description": "Oil prices edged lower despite US Treasury Secretary Scott Bessent declaring that an \u2018economic D-Day\u2019 had begun against Iran.",
-      "url": "https://www.standard.co.uk/business/business-news/aim-iran-european-wall-street-paris-b1294496.html",
-      "image": "https://static.standard.co.uk/2026/08/24/17/a453b059bb156a941ef61f2a8cae3354Y29udGVudHNlYXJjaGFwaSwxNzg3Njc1NzMw-2.84117078.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-08-24T16:41:07Z",
-      "source": {
-        "name": "Evening Standard"
-      }
-    },
-    {
-      "title": "US to broaden secondary sanctions to isolate Iran on 'economic D-Day'",
-      "description": "The United States is set to launch a significant financial offensive against Iran. This move aims to pressure countries to sever economic ties with Tehran. Measures will broaden secondary sanctions on entities maintaining business with Iran. Pakistan's army chief is currently in Iran for talks on regional stability. Oil prices eased as investors awaited the full impact of these sanctions.",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/us-to-broaden-secondary-sanctions-to-isolate-iran-on-economic-d-day/articleshow/133473057.cms",
-      "image": "https://img.etimg.com/thumb/msid-133473218,width-1200,height-630,imgsize-50936,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-08-24T16:18:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
