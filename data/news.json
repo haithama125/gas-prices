@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-26T00:40:54+00:00",
+  "updated_at": "2026-08-26T06:29:55+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Graphic of the week: Growing gap between diesel and gas prices",
-      "description": "While the price of crude has eased since the crisis at the Strait of Hormuz peaked, the price of refined fuels has not.",
-      "url": "https://calgaryherald.com/news/graphic-of-the-week-growing-gap-between-diesel-and-gas-prices",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/diesel-fuel.jpg",
-      "publishedAt": "2026-08-25T12:30:56Z",
+      "title": "Government increases petrol and diesel prices",
+      "description": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
+      "url": "https://www.bolnews.com/business/government-increases-petrol-and-diesel-prices/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/petrol-6.webp",
+      "publishedAt": "2026-08-25T18:27:06Z",
       "source": {
-        "name": "Calgary Herald"
+        "name": "BOL News"
       }
     },
     {
-      "title": "US Oil Spending Sinks While Producers Take Profits From Iran War but Cut US Production as Trump Administration Accuses Companies of Price Gouging",
-      "description": "Most major US oil companies are now scaling back capital spending and US production while reaping the rewards of higher global oil prices resulting from the\u2026",
-      "url": "https://www.thegatewaypundit.com/2026/08/us-oil-spending-sinks-while-producers-take-profits/",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/ldizp-1200x630.jpg",
-      "publishedAt": "2026-08-25T12:15:27Z",
+      "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
+      "description": "Brent crude fell 4.2% to $88.34 a barrel, while US West Texas Intermediate crude dropped 3.9% to $81.67. Both benchmarks touched their lowest levels since",
+      "url": "https://www.europesays.com/3215060/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/1787681907_articleshow.jpg",
+      "publishedAt": "2026-08-25T18:18:20Z",
       "source": {
-        "name": "The Gateway Pundit"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "India bonds rise as oil shrugs off US sanctions concerns",
-      "description": "On Tuesday, Indian government bonds experienced a positive turn as oil prices fell sharply, reducing inflation worries among investors. The successful state debt auction further bolstered market confidence. Despite new U.S. sanctions on Iran, traders stayed vigilant regarding potential supply issues in the oil sector. Throughout the day, strong liquidity levels contributed to resilience in the debt market.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-oil-shrugs-off-us-sanctions-concerns/articleshow/133510180.cms",
-      "image": "https://img.etimg.com/thumb/msid-133510209,width-1200,height-630,imgsize-172230,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-25T12:14:00Z",
+      "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
+      "description": "Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely. Brent crude and West Texas Intermediate both reached their lowest levels since mid-August. The sanctions announcement was less aggressive than anticipated by many market participants. However, Iran has vowed retaliation, and shipping risks remain a concern for traders. Supply disruptions in Russia and Kazakhstan also occurred, but focus remains on Iran.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms",
+      "image": "https://img.etimg.com/thumb/msid-133521897,width-1200,height-630,imgsize-129974,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-25T18:05:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
-      "description": "Wall Street is poised to open with gains and oil prices fell as the U.S. announced new sanctions against Iran, while trade talks between American and Canadian officials hit a wall. Futures for the S&P 500 and the Dow Jones Industrial Average each rose 0.4% before the bell Tuesday, while Nasdaq futures jumped 0.8%. Chip giant Nvidia, one of the biggest beneficiaries of the AI boom, will deliver its quarterly earnings report on Wednesday. Its shares were up less than 1% in premarket trading Tuesday as it tries to break a 7-session losing streak.",
-      "url": "https://www.ajc.com/news/2026/08/wall-street-points-to-gains-as-us-raises-pressure-on-iran-and-trade-war-with-canada-intensifies/",
-      "image": "https://images.ajc.com/resizer/v2/XW5FSRCGSRAKJAKRJK72WXKCOU.jpg?auth=120c85e196dc6b2c388b1686d4139d6344f7eefe9ee7b6a79c08538a0becc5c0&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-25T12:12:11Z",
+      "title": "\"E20 fuel hazardous for pre-2023 vehicles, auto firms silenced by fear of raids\": Arvind Kejriwal",
+      "description": "India News: AAP National Convenor Arvind Kejriwal on Tuesday stepped up his attack on the Centre's nationwide rollout of E20 petrol, alleging that auto majors are.",
+      "url": "https://timesofindia.indiatimes.com/india/e20-fuel-hazardous-for-pre-2023-vehicles-auto-firms-silenced-by-fear-of-raids-arvind-kejriwal/articleshow/133521506.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133521505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-25T17:56:00Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
-      "description": "Wall Street is poised to open with gains and oil prices fell as the U.S. announced new sanctions against Iran, while trade talks between American and Canadian officials hit a wall",
-      "url": "https://www.barchart.com/story/news/4014034/wall-street-points-to-gains-as-us-raises-pressure-on-iran-and-trade-war-with-canada-intensifies",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/11183f87a421414ab1c701b5a81f0b21/11183f87a421414ab1c701b5a81f0b21_main_japan_financial_markets_28571.jpg",
-      "publishedAt": "2026-08-25T12:00:37Z",
+      "title": "No new petrol, diesel goods vehicle registrations in Gurugram from July \u201927",
+      "description": "Gurugram\u2019s delivery vans and small commercial trucks are on notice. From July 1, 2027, no new petrol, diesel or CNG-powered light goods vehicle will be allowed to register in the city under a phased order issued by the Commission for Air Quality Management (CAQM).",
+      "url": "https://www.tribuneindia.com/news/haryana/no-new-petrol-diesel-goods-vehicle-registrations-in-gurugram-from-july-27/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViM2MyMjUwLWEwYWQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-25T17:49:38Z",
       "source": {
-        "name": "Barchart"
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "European shares gain on softer US Iran sanctions, falling oil prices",
+      "description": "Read more about European shares gain on softer US Iran sanctions, falling oil prices on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3967774-european-shares-gain-on-softer-us-iran-sanctions-falling-oil-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_19_6120453.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-25T16:41:58Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices fall 3% as US shifts to Iran sanctions; brent, WTI drop amid Hormuz risks",
+      "description": "Oil prices fell 3% as the US shifted to Iran sanctions. Brent and WTI dropped as markets watched Iran oil exports and risks around the Strait of Hormuz.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-fall-3-as-us-shifts-to-iran-sanctions-brent-wti-drop-amid-hormuz-risks-101787674626500.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/25/1600x900/logo/pexels-photo-3151717_1787674767956_1787674779220_add74812-0eef-41c6-b9f6-4b95ea95260e.jpeg",
+      "publishedAt": "2026-08-25T16:27:40Z",
+      "source": {
+        "name": "Hindustan Times"
       }
     },
     {
       "title": "Falling oil prices help calm the stock and bond markets",
-      "description": "Brent\u2019s price zigzagged between $72 and $102 last month as hopes rose and fell that the United States and Iran could reach a deal that would allow oil tankers to freely exit the Persian Gulf again.",
-      "url": "https://cdapress.com/news/2026/aug/25/falling-oil-prices-help-calm-the-stock-and-bond-markets/",
-      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
-      "publishedAt": "2026-08-25T11:40:00Z",
+      "description": "The drop came even though tensions between the United States and Iran seemed to ratchet higher after the Trump administration announced new sanctions to further hurt Iran\u2019s economy.",
+      "url": "https://www.adn.com/business-economy/2026/08/25/falling-oil-prices-help-calm-the-stock-and-bond-markets/",
+      "image": "https://www.adn.com/resizer/v2/TDD7ELLF4FD64LXN5QQEX6V3NM.jpg?smart=true&auth=6e05714d459f1c443fad71344e5e449456db81bbaeeed48169a1e3a88cdd2982&width=1200&height=630",
+      "publishedAt": "2026-08-25T16:10:12Z",
       "source": {
-        "name": "Coeur d'Alene Press"
+        "name": "Anchorage Daily News"
       }
     },
     {
-      "title": "Kejriwal vows to ban E20 petrol in Goa within 5 days if AAP wins 2027 polls",
-      "description": "Kejriwal has repeatedly criticised the sale of E20 petrol, which contains 20 per cent ethanol and 80 per cent petrol. AAP has opposed what it describes as the forced rollout of the fuel.",
-      "url": "https://www.indiatoday.in/india/story/e20-ethanol-petrol-ban-goa-kejriwal-aap-2027-polls-2979579-2026-08-25",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/aap-convenor-arvind-kejriwal-254019438-16x9_0.png?VersionId=vu7IhTwP.7nnWaqzXgedsXtc_MoFzAz6",
-      "publishedAt": "2026-08-25T11:37:19Z",
+      "title": "Barangay polls: The cost debate",
+      "description": "OUR barangay (village) elections got another jolt. First, it was oil prices from the Middle East war. Now it\u2019s a Senate bill resetting the polls to 2028 and stretching barangay terms to five years over the objection of election watchdogs, including the National Citizens Movement for Free Elections. Commission on Elections (Comelec) Chairman George Erwin Garcia has warned that billions already spent could go to waste. Lawmakers want to redirect the rest toward the 2028 elections. Everyone is arguing about money, timing and trust \u2014 and rightly so. But underneath the politics is a plainer problem: We are managing an election with paper-era tools, and with numbers that shift depending on who is counting. Technology, used honestly, can settle the cost debates before they start.",
+      "url": "https://www.manilatimes.net/2026/08/26/opinion/columns/barangay-polls-the-cost-debate/2411923",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/25/1189964.jpg",
+      "publishedAt": "2026-08-25T16:05:00Z",
       "source": {
-        "name": "India Today"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Markets bounce back as crude oil drops below $90 per barrel; Sensex climbs 287 points",
-      "description": "Markets rebound as Sensex rises 287 points, driven by a drop in crude oil prices below $90 per barrel.",
-      "url": "https://www.thehindu.com/business/markets/markets-bounce-back-as-crude-oil-drops-below-90-per-barrel-sensex-climbs-287-points/article71388517.ece",
-      "image": "https://th-i.thgim.com/public/incoming/eq49k/article70352118.ece/alternates/LANDSCAPE_1200/PTI02_01_2023_000222B.jpg",
-      "publishedAt": "2026-08-25T11:14:08Z",
+      "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
+      "description": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-08-25T15:53:00Z",
       "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Mafia boss who claimed his Bentley 'bothered police' is shot dead in broad daylight",
-      "description": "A notorious mafia boss was reportedly executed at point-blank range in a brazen daylight ambush as he left a petrol station complex, ending years of unpunished crimes",
-      "url": "https://www.dailystar.co.uk/news/latest-news/mafia-boss-who-claimed-bentley-37590084",
-      "image": "https://i2-prod.dailystar.co.uk/article37590080.ece/ALTERNATES/s1200d/0_Screenshot-2026-08-25-at-092851.jpg",
-      "publishedAt": "2026-08-25T11:12:11Z",
-      "source": {
-        "name": "The daily Star"
-      }
-    },
-    {
-      "title": "Rupee rises 24 paise to close at 95.46 against U.S. dollar",
-      "description": "Rupee gains 24 paise to 95.46 against the U.S. dollar, supported by a weaker dollar and falling crude oil prices.",
-      "url": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-close-at-9546-against-us-dollar/article71388459.ece",
-      "image": "https://th-i.thgim.com/public/incoming/3zfakv/article71140548.ece/alternates/LANDSCAPE_1200/2026-05-21T045244Z_942963828_RC2UCLA8JL35_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2026-08-25T11:06:41Z",
-      "source": {
-        "name": "The Hindu"
+        "name": "OilPrice"
       }
     }
   ]
