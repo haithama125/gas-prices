@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-25T18:23:47+00:00",
+  "updated_at": "2026-08-26T00:40:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise",
-      "description": "Japanese government bond yields edged higher on Tuesday, tracking a rise in US Treasury yields and recovering oil prices. Investors remained cautious ahead of key comments from Bank of Japan Deputy Governor Ryozo Himino and Federal Reserve Chairman Kevin Warsh, with markets seeking clues on the outlook for interest rates and monetary policy.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japanese-bond-yields-edge-higher-as-us-treasury-yields-oil-prices-rise/articleshow/133496737.cms",
-      "image": "https://img.etimg.com/thumb/msid-133496803,width-1200,height-630,imgsize-2027463,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-25T06:21:00Z",
+      "title": "Graphic of the week: Growing gap between diesel and gas prices",
+      "description": "While the price of crude has eased since the crisis at the Strait of Hormuz peaked, the price of refined fuels has not.",
+      "url": "https://calgaryherald.com/news/graphic-of-the-week-growing-gap-between-diesel-and-gas-prices",
+      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/08/diesel-fuel.jpg",
+      "publishedAt": "2026-08-25T12:30:56Z",
+      "source": {
+        "name": "Calgary Herald"
+      }
+    },
+    {
+      "title": "US Oil Spending Sinks While Producers Take Profits From Iran War but Cut US Production as Trump Administration Accuses Companies of Price Gouging",
+      "description": "Most major US oil companies are now scaling back capital spending and US production while reaping the rewards of higher global oil prices resulting from the\u2026",
+      "url": "https://www.thegatewaypundit.com/2026/08/us-oil-spending-sinks-while-producers-take-profits/",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/04/ldizp-1200x630.jpg",
+      "publishedAt": "2026-08-25T12:15:27Z",
+      "source": {
+        "name": "The Gateway Pundit"
+      }
+    },
+    {
+      "title": "India bonds rise as oil shrugs off US sanctions concerns",
+      "description": "On Tuesday, Indian government bonds experienced a positive turn as oil prices fell sharply, reducing inflation worries among investors. The successful state debt auction further bolstered market confidence. Despite new U.S. sanctions on Iran, traders stayed vigilant regarding potential supply issues in the oil sector. Throughout the day, strong liquidity levels contributed to resilience in the debt market.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-rise-as-oil-shrugs-off-us-sanctions-concerns/articleshow/133510180.cms",
+      "image": "https://img.etimg.com/thumb/msid-133510209,width-1200,height-630,imgsize-172230,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-25T12:14:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "Oil prices were little changed after US Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing bu",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/25/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-25%2Fvgzej1kq%2FAP26237068665943.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-25T06:07:37Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Centre tightens ethanol-blending rules for OMCs",
-      "description": "The government plans to enforce mandatory chloride contamination limits for E20 petrol, addressing automakers' concerns about fuel quality and its impact on vehicle components.",
-      "url": "https://www.newsbytesapp.com/news/auto/centre-tightens-ethanol-blending-rules-for-omcs/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l142_16761787631047.jpg",
-      "publishedAt": "2026-08-25T05:55:51Z",
-      "source": {
-        "name": "NewsBytes"
-      }
-    },
-    {
-      "title": "Markets Decline In Early Trade Amid Elevated Crude Oil Prices, Escalating Geopolitical Tensions",
-      "description": "Among the 30 Sensex firms, HCL Tech, Tech Mahindra, Maruti, NTPC, Power Grid and Bajaj Finance were among the major laggards.",
-      "url": "https://www.outlookbusiness.com/markets/markets-decline-in-early-trade-amid-elevated-crude-oil-prices-escalating-geopolitical-tensions",
-      "image": "https://media.assettype.com/outlookbusiness/2026-06-30/7sh0ci5x/9f7b6561918e35238d494acd84e4c6f2.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-25T05:37:55Z",
-      "source": {
-        "name": "Outlook Business"
-      }
-    },
-    {
-      "title": "11:11 | Oil falls as US launches \u2018Operation Economic Outcast\u2019 against Iran; TCS eyes Europe expansion with Porsche deal",
-      "description": "Washington has launched \"Operation Economic Outcast\" against Iran as oil prices extend their decline, while TCS is looking to its Porsche partnership to unlock more of Europe's auto market. Plus, gold's 17% surge, Jaishankar's Russia visit, tighter US visa rules and more in today's 11:11 roundup.",
-      "url": "https://www.cnbctv18.com/business/oil-falls-as-us-launches-operation-economic-outcast-against-iran-tcs-eyes-europe-expansion-with-porsche-deal-19976307.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/russia-1-2026-08-f22b390c23f6a22839086100d7de6d87.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-25T05:35:06Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures were nearly unchanged. Oil prices were little changed after U.S. Treasury Secretary Scott Bessent announced fresh sanctions against Iran and warned that countries persisting in doing business with the Islamic Republic would face retaliation. On Monday, the S&P 500 slipped 0.3% and the Dow industrials added 0.3%. The Nasdaq composite fell 0.8%. Bond yields eased. Investors are awaiting a profit report from Nvidia on Wednesday and a speech by the Federal Reserve\u2019s new chairman, Kevin Warsh, on Friday.",
-      "url": "https://www.ajc.com/news/2026/08/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
-      "image": "https://images.ajc.com/resizer/v2/VLNFDC75CRAMZPJWWUAMP3IJ7U.jpg?auth=a8df0e176f72e6ef3b38c6937e073bb3a37a587467adac65a5577686b08322e1&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-25T05:32:54Z",
+      "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
+      "description": "Wall Street is poised to open with gains and oil prices fell as the U.S. announced new sanctions against Iran, while trade talks between American and Canadian officials hit a wall. Futures for the S&P 500 and the Dow Jones Industrial Average each rose 0.4% before the bell Tuesday, while Nasdaq futures jumped 0.8%. Chip giant Nvidia, one of the biggest beneficiaries of the AI boom, will deliver its quarterly earnings report on Wednesday. Its shares were up less than 1% in premarket trading Tuesday as it tries to break a 7-session losing streak.",
+      "url": "https://www.ajc.com/news/2026/08/wall-street-points-to-gains-as-us-raises-pressure-on-iran-and-trade-war-with-canada-intensifies/",
+      "image": "https://images.ajc.com/resizer/v2/XW5FSRCGSRAKJAKRJK72WXKCOU.jpg?auth=120c85e196dc6b2c388b1686d4139d6344f7eefe9ee7b6a79c08538a0becc5c0&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-25T12:12:11Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "BANGKOK (AP) \u2014 Asian shares were mostly lower Tuesday after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week.",
-      "url": "https://wtop.com/world/2026/08/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/South_Korea_Financial_Markets_65943-scaled.jpg",
-      "publishedAt": "2026-08-25T05:30:36Z",
-      "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "RBI intervenes to support rupee as oil prices, dollar demand rise: Report",
-      "description": "India Business News: The Reserve Bank of India likely intervened in the foreign exchange market on Tuesday to protect the rupee from pressure caused by elevated oil prices.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-intervenes-to-support-rupee-as-oil-prices-dollar-demand-rise-report/articleshow/133492794.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133494517,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-25T05:27:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week. Regional benchmarks traded in a narrow range and U.S. futures...",
-      "url": "https://www.sfgate.com/news/world/article/asian-shares-are-mixed-and-oil-prices-hold-steady-22402183.php",
-      "image": "https://s.hdnux.com/photos/01/67/11/75/31235964/3/rawImage.jpg",
-      "publishedAt": "2026-08-25T05:26:32Z",
-      "source": {
-        "name": "SFGATE"
-      }
-    },
-    {
-      "title": "Asian shares are mixed and oil prices hold steady as the US raises pressure on Iran",
-      "description": "Asian shares are mostly lower after U.S. stocks drifted to a mixed finish ahead of potentially market-moving events later in the week",
-      "url": "https://www.barchart.com/story/news/4014034/asian-shares-are-mixed-and-oil-prices-hold-steady-as-the-us-raises-pressure-on-iran",
-      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/6f4acd8ec2064ee4b0f5028d835459d0/6f4acd8ec2064ee4b0f5028d835459d0_main_japan_financial_markets_1_288.jpg",
-      "publishedAt": "2026-08-25T05:26:32Z",
+      "title": "Wall Street points to gains as US raises pressure on Iran and trade war with Canada intensifies",
+      "description": "Wall Street is poised to open with gains and oil prices fell as the U.S. announced new sanctions against Iran, while trade talks between American and Canadian officials hit a wall",
+      "url": "https://www.barchart.com/story/news/4014034/wall-street-points-to-gains-as-us-raises-pressure-on-iran-and-trade-war-with-canada-intensifies",
+      "image": "https://barchart-news-media-prod.aws.barchart.com/ap/11183f87a421414ab1c701b5a81f0b21/11183f87a421414ab1c701b5a81f0b21_main_japan_financial_markets_28571.jpg",
+      "publishedAt": "2026-08-25T12:00:37Z",
       "source": {
         "name": "Barchart"
+      }
+    },
+    {
+      "title": "Falling oil prices help calm the stock and bond markets",
+      "description": "Brent\u2019s price zigzagged between $72 and $102 last month as hopes rose and fell that the United States and Iran could reach a deal that would allow oil tankers to freely exit the Persian Gulf again.",
+      "url": "https://cdapress.com/news/2026/aug/25/falling-oil-prices-help-calm-the-stock-and-bond-markets/",
+      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
+      "publishedAt": "2026-08-25T11:40:00Z",
+      "source": {
+        "name": "Coeur d'Alene Press"
+      }
+    },
+    {
+      "title": "Kejriwal vows to ban E20 petrol in Goa within 5 days if AAP wins 2027 polls",
+      "description": "Kejriwal has repeatedly criticised the sale of E20 petrol, which contains 20 per cent ethanol and 80 per cent petrol. AAP has opposed what it describes as the forced rollout of the fuel.",
+      "url": "https://www.indiatoday.in/india/story/e20-ethanol-petrol-ban-goa-kejriwal-aap-2027-polls-2979579-2026-08-25",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/aap-convenor-arvind-kejriwal-254019438-16x9_0.png?VersionId=vu7IhTwP.7nnWaqzXgedsXtc_MoFzAz6",
+      "publishedAt": "2026-08-25T11:37:19Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "Markets bounce back as crude oil drops below $90 per barrel; Sensex climbs 287 points",
+      "description": "Markets rebound as Sensex rises 287 points, driven by a drop in crude oil prices below $90 per barrel.",
+      "url": "https://www.thehindu.com/business/markets/markets-bounce-back-as-crude-oil-drops-below-90-per-barrel-sensex-climbs-287-points/article71388517.ece",
+      "image": "https://th-i.thgim.com/public/incoming/eq49k/article70352118.ece/alternates/LANDSCAPE_1200/PTI02_01_2023_000222B.jpg",
+      "publishedAt": "2026-08-25T11:14:08Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Mafia boss who claimed his Bentley 'bothered police' is shot dead in broad daylight",
+      "description": "A notorious mafia boss was reportedly executed at point-blank range in a brazen daylight ambush as he left a petrol station complex, ending years of unpunished crimes",
+      "url": "https://www.dailystar.co.uk/news/latest-news/mafia-boss-who-claimed-bentley-37590084",
+      "image": "https://i2-prod.dailystar.co.uk/article37590080.ece/ALTERNATES/s1200d/0_Screenshot-2026-08-25-at-092851.jpg",
+      "publishedAt": "2026-08-25T11:12:11Z",
+      "source": {
+        "name": "The daily Star"
+      }
+    },
+    {
+      "title": "Rupee rises 24 paise to close at 95.46 against U.S. dollar",
+      "description": "Rupee gains 24 paise to 95.46 against the U.S. dollar, supported by a weaker dollar and falling crude oil prices.",
+      "url": "https://www.thehindu.com/business/markets/rupee-rises-24-paise-to-close-at-9546-against-us-dollar/article71388459.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3zfakv/article71140548.ece/alternates/LANDSCAPE_1200/2026-05-21T045244Z_942963828_RC2UCLA8JL35_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-08-25T11:06:41Z",
+      "source": {
+        "name": "The Hindu"
       }
     }
   ]
