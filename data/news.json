@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-26T06:29:55+00:00",
+  "updated_at": "2026-08-26T12:29:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Government increases petrol and diesel prices",
-      "description": "Government has increased the prices of petroleum products for a two-day period, with the new rates coming into effect on August 26 and 27.",
-      "url": "https://www.bolnews.com/business/government-increases-petrol-and-diesel-prices/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/08/petrol-6.webp",
-      "publishedAt": "2026-08-25T18:27:06Z",
+      "title": "Gold Holds Five-Day Gain as Oil Drop Eases Inflation Concerns",
+      "description": "Gold held a five-day gain, with inflation concerns eased by a drop in US Treasury yields and lower oil prices as Iran and Oman discussed ways to reopen the Strait of Hormuz.",
+      "url": "https://www.livemint.com/market/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns-11787703222112.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "publishedAt": "2026-08-26T00:13:41Z",
       "source": {
-        "name": "BOL News"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
-      "description": "Brent crude fell 4.2% to $88.34 a barrel, while US West Texas Intermediate crude dropped 3.9% to $81.67. Both benchmarks touched their lowest levels since",
-      "url": "https://www.europesays.com/3215060/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/1787681907_articleshow.jpg",
-      "publishedAt": "2026-08-25T18:18:20Z",
+      "title": "Iranians queue for petrol after US announces new sanctions",
+      "description": "Lines of cars were snaking out of petrol stations in Tehran on Aug 25. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/middle-east/iranians-queue-for-petrol-after-us-announces-new-sanctions",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5c1c77c39deeda25e14b6d96b18459bbe340ed35244808f5570dddb8f2dbcfd9",
+      "publishedAt": "2026-08-26T00:08:00Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Strongly against excess profits tax, smacks of Soviet Union says Tajani",
+      "description": "Deputy Premier, Foreign Minister and centre-right Forza Italia (FI) leader Antonio Tajani said Wednesday he was very much against an EU tax on excess profits for energy companies benefitting from the Mideast crisis and the spike in oil prices in order to ... (ANSA)",
+      "url": "https://www.ansa.it/english/news/politics/2026/08/26/strongly-against-excess-profits-tax-smacks-of-soviet-union-says-tajani_da2865d4-5bc4-4c15-9c85-f7f2ef22f50b.html",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/8/26/a97383e5d68e33155de7801c6f6c1cad.jpg",
+      "publishedAt": "2026-08-26T00:00:00Z",
+      "source": {
+        "name": "Agenzia ANSA"
+      }
+    },
+    {
+      "title": "As Ukraine hits Russia's refineries, Russia targets Ukraine's petrol pumps",
+      "description": "Fuel companies are urging customers not to linger at the pumps after a wave of deadly attacks.",
+      "url": "https://www.bbc.com/news/articles/c5y6x777gk4o",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/f371/live/4cdd5030-a07b-11f1-bfeb-dfb02ea642ef.jpg",
+      "publishedAt": "2026-08-25T23:50:53Z",
+      "source": {
+        "name": "BBC News"
+      }
+    },
+    {
+      "title": "Up: ASX set to rise as Wall Street rebounds and oil prices retreat",
+      "description": "The Australian sharemarket is set to open higher on Wednesday, following gains on Wall Street as technology stocks recovered and falling oil prices and bond",
+      "url": "https://www.europesays.com/3215482/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/08/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA4XC8yMDI2LTA4LTI2LTA5LTIzLTU2.jpeg",
+      "publishedAt": "2026-08-25T23:33:36Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Crude oil prices slide 4% as markets look past Iran sanctions",
-      "description": "Oil prices dropped significantly as traders viewed new US sanctions on Iran less severely. Brent crude and West Texas Intermediate both reached their lowest levels since mid-August. The sanctions announcement was less aggressive than anticipated by many market participants. However, Iran has vowed retaliation, and shipping risks remain a concern for traders. Supply disruptions in Russia and Kazakhstan also occurred, but focus remains on Iran.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/crude-oil-prices-slide-4-as-markets-look-past-iran-sanctions/articleshow/133521800.cms",
-      "image": "https://img.etimg.com/thumb/msid-133521897,width-1200,height-630,imgsize-129974,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-25T18:05:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "\"E20 fuel hazardous for pre-2023 vehicles, auto firms silenced by fear of raids\": Arvind Kejriwal",
-      "description": "India News: AAP National Convenor Arvind Kejriwal on Tuesday stepped up his attack on the Centre's nationwide rollout of E20 petrol, alleging that auto majors are.",
-      "url": "https://timesofindia.indiatimes.com/india/e20-fuel-hazardous-for-pre-2023-vehicles-auto-firms-silenced-by-fear-of-raids-arvind-kejriwal/articleshow/133521506.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133521505,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-25T17:56:00Z",
+      "title": "RBI flags price risks, 2nd time in August",
+      "description": "India Business News: MUMBAI: The Indian economy remains resilient despite external headwinds, but below-normal monsoon prospects, higher crude oil prices, geopolitical ten.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/rbi-flags-price-risks-2nd-time-in-august/articleshow/133526581.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133526645,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-25T23:05:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "No new petrol, diesel goods vehicle registrations in Gurugram from July \u201927",
-      "description": "Gurugram\u2019s delivery vans and small commercial trucks are on notice. From July 1, 2027, no new petrol, diesel or CNG-powered light goods vehicle will be allowed to register in the city under a phased order issued by the Commission for Air Quality Management (CAQM).",
-      "url": "https://www.tribuneindia.com/news/haryana/no-new-petrol-diesel-goods-vehicle-registrations-in-gurugram-from-july-27/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTViM2MyMjUwLWEwYWQtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
-      "publishedAt": "2026-08-25T17:49:38Z",
+      "title": "Wall Street climbs ahead of Nvidia results",
+      "description": "Wall Street's main indices\u00a0closed higher on Tuesday, as technology stocks recovered from a selloff ahead of AI heavyweight Nvidia's results, while investors found some relief in drops in oil prices and bond yields.",
+      "url": "https://www.thestar.com.my/business/2026/08/26/wall-street-climbs-ahead-of-nvidia-results",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/26/4078169.jpeg",
+      "publishedAt": "2026-08-25T23:02:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Star"
       }
     },
     {
-      "title": "European shares gain on softer US Iran sanctions, falling oil prices",
-      "description": "Read more about European shares gain on softer US Iran sanctions, falling oil prices on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3967774-european-shares-gain-on-softer-us-iran-sanctions-falling-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_19_6120453.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-08-25T16:41:58Z",
+      "title": "Asian shares mostly rise as oil prices fall and hope grows for AI",
+      "description": "Asian shares are mostly higher as investors keep an eye on the ongoing talks over reopening the Strait of Hormuz, which remains largely shut down because",
+      "url": "https://www.breitbart.com/news/asian-shares-mostly-rise-as-oil-prices-fall-and-hope-grows-for-ai/",
+      "image": "https://media.breitbart.com/media/2026/08/wi/ap/south-korea-financial-markets-25685-south-korea-financial-markets-currency-traders-watch-monitors-640x335.jpg",
+      "publishedAt": "2026-08-25T22:34:31Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Oil prices fall 3% as US shifts to Iran sanctions; brent, WTI drop amid Hormuz risks",
-      "description": "Oil prices fell 3% as the US shifted to Iran sanctions. Brent and WTI dropped as markets watched Iran oil exports and risks around the Strait of Hormuz.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-fall-3-as-us-shifts-to-iran-sanctions-brent-wti-drop-amid-hormuz-risks-101787674626500.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/25/1600x900/logo/pexels-photo-3151717_1787674767956_1787674779220_add74812-0eef-41c6-b9f6-4b95ea95260e.jpeg",
-      "publishedAt": "2026-08-25T16:27:40Z",
+      "title": "US stocks mildly gained amid lower oil prices and yields, while Russian media reported a US-Iran ceasefire agreement - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-mildly-gained-amid-lower-oil-prices-and-yields-while-russian-media-reported-us",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_16.png?itok=NqDhaH9M",
+      "publishedAt": "2026-08-25T22:10:26Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Falling oil prices help calm the stock and bond markets",
-      "description": "The drop came even though tensions between the United States and Iran seemed to ratchet higher after the Trump administration announced new sanctions to further hurt Iran\u2019s economy.",
-      "url": "https://www.adn.com/business-economy/2026/08/25/falling-oil-prices-help-calm-the-stock-and-bond-markets/",
-      "image": "https://www.adn.com/resizer/v2/TDD7ELLF4FD64LXN5QQEX6V3NM.jpg?smart=true&auth=6e05714d459f1c443fad71344e5e449456db81bbaeeed48169a1e3a88cdd2982&width=1200&height=630",
-      "publishedAt": "2026-08-25T16:10:12Z",
+      "title": "Wall Street ends higher as tech rebounds",
+      "description": "Tech stocks have rallied ahead of Nvidia's results as oil prices dropped and Wall Street's main indexes closed...",
+      "url": "https://www.canberratimes.com.au/story/9337523/wall-street-ends-higher-as-tech-rebounds/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/afc91d94-5068-4223-bf56-7a1826668cae.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-08-25T21:14:29Z",
       "source": {
-        "name": "Anchorage Daily News"
-      }
-    },
-    {
-      "title": "Barangay polls: The cost debate",
-      "description": "OUR barangay (village) elections got another jolt. First, it was oil prices from the Middle East war. Now it\u2019s a Senate bill resetting the polls to 2028 and stretching barangay terms to five years over the objection of election watchdogs, including the National Citizens Movement for Free Elections. Commission on Elections (Comelec) Chairman George Erwin Garcia has warned that billions already spent could go to waste. Lawmakers want to redirect the rest toward the 2028 elections. Everyone is arguing about money, timing and trust \u2014 and rightly so. But underneath the politics is a plainer problem: We are managing an election with paper-era tools, and with numbers that shift depending on who is counting. Technology, used honestly, can settle the cost debates before they start.",
-      "url": "https://www.manilatimes.net/2026/08/26/opinion/columns/barangay-polls-the-cost-debate/2411923",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/25/1189964.jpg",
-      "publishedAt": "2026-08-25T16:05:00Z",
-      "source": {
-        "name": "The Manila Times"
-      }
-    },
-    {
-      "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
-      "description": "U.S. sanctions pressure on Iran intensifies, but Pakistani mediation hopes push Brent back to $89.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-08-25T15:53:00Z",
-      "source": {
-        "name": "OilPrice"
+        "name": "The Canberra Times"
       }
     }
   ]
