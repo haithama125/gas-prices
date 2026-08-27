@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-27T05:45:22+00:00",
+  "updated_at": "2026-08-27T17:04:53+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil shock could outlast conflicts",
-      "description": "Global oil prices are experiencing fluctuations as geopolitical tensions persist. The aspirations for a quick resolution of these conflicts remain unfulfilled, exacerbating the strain on energy markets. Regaining stability to pre-conflict pricing seems unlikely in the coming year, with the global market adapting to heightened energy costs. Demand is soaring, particularly from emerging economies, pushing consumption to unprecedented levels.",
-      "url": "https://economictimes.indiatimes.com/opinion/et-editorial/oil-shock-could-outlast-conflicts/articleshow/133547505.cms",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-224896,resizemode-75,msid-133547505/opinion/et-editorial/oil-shock-could-outlast-conflicts.jpg",
-      "publishedAt": "2026-08-26T17:33:47Z",
+      "title": "Tesco introduces \u00a360 rule for drivers at over 500 petrol stations",
+      "description": "Tesco is offering customers discount coupons, which will knock 8p off each litre of fuel purchased.",
+      "url": "https://www.birminghammail.co.uk/whats-on/shopping/tesco-introduces-60-rule-drivers-34523779",
+      "image": "https://i2-prod.birminghammail.co.uk/article34523783.ece/ALTERNATES/s1200d/0_tesco.jpg",
+      "publishedAt": "2026-08-27T04:51:18Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Stock market prediction tomorrow, 27 August: What will happen to Sensex, Nifty, Hang Seng, KOSPI, Nikkei on Thursday",
-      "description": "On August 26, Asian stocks rose overall, except for India's market, as crude oil prices declined and chip stocks revived. Japan's Nikkei 225 rose 0.5%, while India's Nifty fell 0.52%. Investors are hopeful for renewed talks between Iran and the US.",
-      "url": "https://www.livemint.com/market/stock-market-prediction-tomorrow-27-august-what-will-happen-to-sensex-nifty-hang-seng-kospi-nikkei-on-thursday-11787743788377.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/26/1600x900/logo/pexels-photo-11798250_1777636710635_1777636726766_1787762292150_9cd0760c-fd7e-495d-8a7d-c203397a541f.jpeg",
-      "publishedAt": "2026-08-26T17:00:56Z",
+      "title": "Crude Oil Prices fall as diplomacy eases West Asia supply concerns",
+      "description": "Crude oil futures traded lower on Thursday morning, following signs of diplomatic efforts to resolve the conflict in West Asia.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-as-diplomatic-efforts-ease-west-asia-supply-concerns/article71395001.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/lbx2w8/article71368589.ece/alternates/LANDSCAPE_1200/iStock-959381934.jpg",
+      "publishedAt": "2026-08-27T04:47:39Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Trump claims US sanctions will win war over Iran as oil prices sink",
+      "description": "US president claims the financial strength of the US will move the country \u201ctoward a very big victory\u201d over Iran, adding that he does not believe Iran\u2019s supreme leader is dead. Follow for live updates.",
+      "url": "https://edition.cnn.com/2026/08/27/world/live-news/iran-war-trump",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-26t091104z-1495676313-rc276nagxjgs-rtrmadp-3-iran-crisis-hormuz.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-08-27T04:15:06Z",
+      "source": {
+        "name": "Cable News Network"
+      }
+    },
+    {
+      "title": "Sensex, Nifty post mild uptick over easing crude prices",
+      "description": "Sensex, Nifty post mild uptick over easing crude prices - Mumbai, Aug 27 The Indian equity markets posted a mild uptick early on Thursday as oil prices edged ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/sensex-nifty-post-mild-uptick-over-easing-crude-prices-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201421f_202608.jpg",
+      "publishedAt": "2026-08-27T04:12:18Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Sensex, Nifty post mild uptick over easing crude prices",
+      "description": "Sensex, Nifty post mild uptick over easing crude prices - Mumbai, Aug 27 The Indian equity markets posted a mild uptick early on Thursday as oil prices edged ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/sensex-nifty-post-mild-uptick-over-easing-crude-prices/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201421f_202608.jpg",
+      "publishedAt": "2026-08-27T04:12:18Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "E20 mileage woes? E10 petrol could make a comeback through high-octane variants: What we know so far",
+      "description": "Consumers are voicing concerns about the negative impact of E20 petrol on older engines and mileage, despite the government's assurances. Over the past few months, the calls to bring back E10 petrol have also grown.",
+      "url": "https://www.livemint.com/news/india/e20-mileage-woes-e10-petrol-could-make-a-comeback-through-high-octane-variants-what-we-know-so-far-11787801045806.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/27/1600x900/logo/Hospital-administrators-said-they-have-been-unable_1787801141199_1787801152297_30a65935-d1a2-4101-96cb-775bc3f5785e.jpg",
+      "publishedAt": "2026-08-27T04:02:35Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "This 240-mile stretch on Dalton highway in Alaska with no petrol stations, restaurants or hotels is one of America\u2019s remotest roadways that tests every driver to the limits",
-      "description": "US News: The Dalton Highway cuts through some of the most remote country in the United States, running 414 miles from Livengood in northern Alaska to Deadhorse.",
-      "url": "https://timesofindia.indiatimes.com/world/us/this-240-mile-dalton-highway-in-alaska-with-no-petrol-stations-restaurants-or-hotels-is-one-of-americas-remotest-roadways-that-tests-every-driver-to-the-limits/articleshow/133540216.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133540570,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-26T17:00:00Z",
+      "title": "Oil prices extend losses as Hormuz reopening hopes ease supply fears",
+      "description": "India Business News: Oil prices extended their decline on Thursday as hopes of renewed Middle East diplomacy raised expectations that the Strait of Hormuz could reopen, ea.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-extend-losses-as-hormuz-reopening-hopes-ease-supply-fears/articleshow/133555285.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133555391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-27T03:59:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Drivers paying 2p per mile more to stay on road since start of year",
-      "description": "The average cost of petrol has reached more than 160p per litre, according to motoring group the RAC.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-paying-2p-per-mile-34505857",
-      "image": "https://i2-prod.birminghammail.co.uk/article34505874.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-08-26T16:50:00Z",
+      "title": "Gold prices up Rs 1,300/10 grams; silver rebounds Rs 3,400/kg as falling oil eases rate cut bets. Buy, sell or hold?",
+      "description": "Gold and silver prices opened higher on the MCX on Thursday, supported by softer oil prices, a weaker dollar and expectations around the US Federal Reserves policy path. Investors are now focused on Fed Chair Kevin Warshs remarks at Jackson Hole, while analysts have outlined key support and resistance levels for both precious metals.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-up-rs-1300/10-grams-silver-rebounds-rs-3400/kg-as-falling-oil-eases-rate-cut-bets-buy-sell-or-hold/articleshow/133555304.cms",
+      "image": "https://img.etimg.com/thumb/msid-133555341,width-1200,height-630,imgsize-2218161,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-27T03:55:00Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "With gas above $4, consumer confidence sinks to a 7-month low",
-      "description": "Americans\u2019 confidence in the economy declined this month as the ongoing Iran conflict has kept gas prices elevated at more than $4 a gallon",
-      "url": "https://www.latimes.com/business/story/2026-08-26/with-gas-above-4-consumer-confidence-sinks-to-7-month-low",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/34127fe/2147483647/strip/true/crop/7993x4196+0+566/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ffd%2F69%2F9dbec2174ba18922183c0cd5b1b3%2Fafe79994370a46aaa44bd815e20edb14.jpg",
-      "publishedAt": "2026-08-26T16:46:36Z",
+      "title": "Stock Market Today (August 27): Sensex, Nifty Open Marginally Higher; Expert Says Markets To Stay Sideways",
+      "description": "Stock Market Today Updates: Sensex, Nifty Open Marginally Higher; Expert Says Markets To Stay Sideways. GIFT Nifty futures indicated a flat start to the trading session on Thursday, experts track global cues, oil prices and the upcoming IPOs., Markets, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-today-august-27-sensex-nifty-open-marginally-higher-expert-says-markets-to-stay-sideways-article-155993116",
+      "image": "https://images.timesnownews.com/thumb/msid-155993106,thumbsize-33936,width-1280,height-720,resizemode-75/155993106.jpg",
+      "publishedAt": "2026-08-27T03:52:30Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Oil prices fall $2 as Iran-Oman Strait of Hormuz talks raise supply hopes",
-      "description": "Oil prices fell as Iran-Oman talks raised hopes of a Strait of Hormuz reopening. Brent and WTI crude dropped as supply fears eased.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-fall-2-as-iran-oman-strait-of-hormuz-talks-raise-supply-hopes-101787759093191.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/26/1600x900/logo/pexels-photo-6003969_1787759377677_1787759395385_84546859-a0d4-4608-a154-bad4555b74b9.jpeg",
-      "publishedAt": "2026-08-26T16:30:53Z",
+      "title": "E10 petrol may make a comeback - but as a premium fuel: Report",
+      "description": "The proposal comes amid persistent concerns among motorists about the impact of E20 petrol on older vehicles and fuel economy. | India News",
+      "url": "https://www.hindustantimes.com/india-news/e10-petrol-may-make-a-comeback-amid-e20-pushback-but-as-a-premium-fuel-report-101787801735867.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/27/1600x900/logo/Petrol_1787802536279_1787802536479_15890906-c5d0-47ac-aa1a-a5e222812e46.jpg",
+      "publishedAt": "2026-08-27T03:51:20Z",
       "source": {
         "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "1,750 petrol stations breaking new rule brought in by Labour government",
-      "description": "The Competition and Markets Authority\u2019s June report shows fuel stations aren't signed up to Fuel Finder.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/1750-petrol-stations-breaking-new-34505858",
-      "image": "https://i2-prod.birminghammail.co.uk/article34505872.ece/ALTERNATES/s1200d/0_petrol1.jpg",
-      "publishedAt": "2026-08-26T16:08:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Crude Oil Prices Slightly Lower on the Push to Reopen Strait of Hormuz",
-      "description": "October WTI crude oil (CLV26 ) is down -0.04 (-0.05%) today, and October RBOB gasoline (RBV26 ) is up +0.04043 (+1.38%). Crude oil and gasoline prices are mixed today, with crude oil falling to a 1.5-week low. Crude prices are slightly lower today,...",
-      "url": "https://www.barchart.com/story/news/4115258/crude-oil-prices-slightly-lower-on-the-push-to-reopen-strait-of-hormuz",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Strait%20of%20Hormuz%20by%20artemegorovv%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-26T15:42:44Z",
-      "source": {
-        "name": "Barchart"
-      }
-    },
-    {
-      "title": "Revenue estimate: High oil prices due to Iran war mean $924 million in \u2018new\u2019 money for New Mexico",
-      "description": "New Mexico projects $14.5 billion in revenue and $924.2 million in new money as high oil prices tied to the U.S.-Iran war boost state collections.",
-      "url": "https://www.abqjournal.com/news/revenue-estimate-high-oil-prices-due-to-iran-war-mean-924-million-in-new-money-for-new-mexico/3109512",
-      "image": "https://image.abqjournal.com/3109517.jpg?imageId=3109517&x=0&y=25.82&cropw=100&croph=70.11&panox=0&panoy=25.82&panow=100&panoh=70.11&width=1200&height=683",
-      "publishedAt": "2026-08-26T15:33:54Z",
-      "source": {
-        "name": "Albuquerque Journal"
-      }
-    },
-    {
-      "title": "High oil prices drive $924 million revenue windfall for New Mexico",
-      "description": "New Mexico projects $14.5 billion in revenue and $924.2 million in new money as high oil prices tied to the U.S.-Iran war boost state collections.",
-      "url": "https://www.abqjournal.com/news/revenue-estimate-high-oil-prices-due-to-iran-war-means-924-million-in-new-money-for-new-mexico/3109512",
-      "image": "https://image.abqjournal.com/3109517.jpg?imageId=3109517&x=0&y=25.82&cropw=100&croph=70.11&panox=0&panoy=25.82&panow=100&panoh=70.11&width=1200&height=683",
-      "publishedAt": "2026-08-26T15:33:54Z",
-      "source": {
-        "name": "Albuquerque Journal"
       }
     }
   ]
