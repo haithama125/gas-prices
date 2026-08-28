@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-28T01:53:59+00:00",
+  "updated_at": "2026-08-28T17:52:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US jobless claims slip to 203,000 as layoffs remain low",
-      "description": "The U.S. economy and job market have proved resilient in the face of high gasoline prices caused by the fighting with Iran",
-      "url": "https://www.independent.co.uk/news/world/americas/jobless-claims-unemployment-us-layoffs-b3040347.html",
-      "image": "https://static.independent.co.uk/2026/08/27/13/30/GettyImages-2239024059-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-08-27T13:35:34Z",
+      "title": "Is Your Petrol Changing? BPCL Finally Breaks Silence on E10 Switch Rumors",
+      "description": "BPCL Chairman Sanjay Khanna clarified that there is no proposal to replace E20 blended petrol with E10, dismissing reports of a fuel switch in India.",
+      "url": "https://www.outlookindia.com/national/bpcl-denies-plans-to-replace-e20-blended-petrol-with-e10-alternative",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-06-18/s0afc5ya/petrol_630_630_630_630.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-28T05:49:58Z",
       "source": {
-        "name": "The Independent"
+        "name": "Outlook India"
       }
     },
     {
-      "title": "Oil companies deliberating on aspects of supplying E10: BPCL CMD",
-      "description": "Oil companies are evaluating logistics for introducing E10 petrol alongside E20, with no final decisions yet made, says BPCL CMD.",
-      "url": "https://www.thehindubusinessline.com/companies/oil-companies-deliberating-on-aspects-of-supply-e10-bpcl-cmd/article71396558.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/buaepw/article71396627.ece/alternates/LANDSCAPE_1200/khanna.jpg",
-      "publishedAt": "2026-08-27T13:20:00Z",
+      "title": "Indonesian Billionaire Buying Stake In Changi Airport\u2019s Jet Fuel Supplier In Singapore Push",
+      "description": "The acquisition of a stake in Changi Airport Fuel Hydrant Installation adds to the string investments made by Indonesian billionaire Prajogo Pangestu, whose companies have interests in Shell's refinery and Esso petrol stations in the city-state.",
+      "url": "https://www.forbes.com/sites/yessarrosendar/2026/08/28/indonesian-billionaire-buying--stake-in-changi-airports-jet-fuel-supplier-in-singapore-push/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9115621afdf7d2b1d89cb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-08-28T05:47:37Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Forbes"
       }
     },
     {
-      "title": "FIIs remain net buyers through August on easing valuations; Oil prices remain near-term risk",
-      "description": "The main uncertainty is whether this recovery in flows can continue if oil prices stay elevated or rise further in the weeks ahead.",
-      "url": "https://www.moneycontrol.com/news/business/markets/fiis-remain-net-buyers-through-august-on-easing-valuations-oil-prices-remain-near-term-risk-14017021.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260409081407_market_flat.jpg",
-      "publishedAt": "2026-08-27T12:57:00Z",
+      "title": "Petrol drivers facing \u00a389 charges urged to set off before 10am Friday",
+      "description": "UK drivers are being urged to fill up and hit the road by 10am on Friday.",
+      "url": "https://www.express.co.uk/life-style/cars/2243025/petrol-drivers-facing-89-charges",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7114092.jpg",
+      "publishedAt": "2026-08-28T05:45:00Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Government in 'doom spiral' and failing on energy crisis, warn Social Democrats",
-      "description": "An excise cut of 32c on a litre of diesel and 27c for petrol had been due to be phased out from September 1",
-      "url": "https://www.irishmirror.ie/news/irish-news/politics/government-doom-spiral-failing-energy-37599755",
-      "image": "https://i2-prod.irishmirror.ie/article37599775.ece/ALTERNATES/s1200d/0_GettyImages-2265566846.jpg",
-      "publishedAt": "2026-08-27T12:45:20Z",
-      "source": {
-        "name": "Irish Mirror"
-      }
-    },
-    {
-      "title": "E10 for older vehicles on the table, but no plan to replace E20 petrol: BPCL",
-      "description": "The government and oil marketing companies are exploring the option of making E10 petrol available for older vehicles, while clarifying that there is no proposal to replace E20 petrol with E10, Sanjay Khanna, Chairman and Managing Director, Bharat Petroleum Corp said on Thursday.",
-      "url": "https://www.moneycontrol.com/news/business/economy/e10-for-older-vehicles-on-the-table-but-no-plan-to-replace-e20-petrol-bpcl-14016995.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2021/03/BPCL-1.jpg",
-      "publishedAt": "2026-08-27T12:01:24Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Jackson Hole 2026: What to expect from Fed chair Kevin Warsh as markets stay on edge",
-      "description": "Federal Reserve Chair Kevin Warshs first Jackson Hole speech comes as markets grapple with sticky inflation, elevated oil prices and shifting rate expectations. Investors will watch for clues on the Feds policy path, while the dollar, Treasury yields and gold could react sharply to any change in Warshs tone.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jackson-hole-2026-what-to-expect-from-fed-chair-kevin-warsh-as-markets-stay-on-edge/articleshow/133567788.cms",
-      "image": "https://img.etimg.com/thumb/msid-133568138,width-1200,height-630,imgsize-131560,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-27T12:00:00Z",
+      "title": "Global Market: Japan\u2019s Nikkei rises as tech stocks gain, Fed signals cap rally",
+      "description": "Japans Nikkei rose 0.8% and Topix gained 0.9%, led by technology and chip stocks. Gains were supported by Wall Streets semiconductor rally, while inflation concerns, higher oil prices and rising bond yields limited broader advances. Investors also awaited Fed Chair Kevin Warshs Jackson Hole speech for clues on US interest rates.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-as-tech-stocks-gain-fed-signals-cap-rally/articleshow/133584113.cms",
+      "image": "https://img.etimg.com/thumb/msid-133584177,width-1200,height-630,imgsize-2346586,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-28T05:39:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Centre may reintroduce E10 petrol amid E20 woes",
-      "description": "Amid concerns over E20 mileage, the government is considering offering branded high-octane fuels like XP95 and Speed in an E10 formulation.",
-      "url": "https://www.newsbytesapp.com/news/auto/government-may-reintroduce-e10-petrol-alongside-e20/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l271_11131787827232.jpg",
-      "publishedAt": "2026-08-27T11:56:32Z",
+      "title": "Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions",
+      "description": "Oil prices are heading for a weekly decline despite restricted Hormuz shipping, stalled U.S.-Iran diplomacy and Washington\u2019s escalating economic pressure on Tehran.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-a-Weekly-Loss-Despite-Escalating-Iran-Tensions.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_zxch1q97i3.jpg",
+      "publishedAt": "2026-08-28T05:15:00Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Alarming reports that Putin aims to escalate war, despite CIA warning (Ukraine Battlefield update, Day 1,645)",
-      "description": "Ukrainians pound Russian refineries, with ordinary Russians queuing 11 hours for a few litres of fuel, in a country once dubbed as being a giant petrol station.",
-      "url": "https://euobserver.com/234012/alarming-reports-that-putin-aims-to-escalate-war-despite-cia-warning-ukraine-battlefield-update-day-1645/",
-      "image": "https://static.euobserver.com/2026/08/photo2026-08-2608-17-18.jpg",
-      "publishedAt": "2026-08-27T11:56:28Z",
+      "title": "Rupee declines 10 paise to 95.55 against US dollar in early trade",
+      "description": "A marginally weaker greenback and a fall in global crude oil prices to levels below USD 90/barrel prevented a sharper decline in the local unit, forex traders s",
+      "url": "https://www.newindianexpress.com/business/2026/Aug/28/rupee-declines-10-paise-to-9555-against-us-dollar-in-early-trade",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-29%2Fbgpp32ns%2FANI_20260309051248.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-28T04:54:41Z",
       "source": {
-        "name": "EUobserver"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Possibility of offering E10 petrol alongside E20 being explored: BPCL chairman",
-      "description": "India achieved 20% ethanol blending in petrol last year, five years ahead of the ordinal deadline.",
-      "url": "https://indianexpress.com/article/business/e10-petrol-option-older-vehicles-bpcl-e20-fuel-logistics-10852115/",
-      "image": "https://images.indianexpress.com/2026/07/Ethanol-2_20260611020812_20260710095955.jpg",
-      "publishedAt": "2026-08-27T11:31:38Z",
+      "title": "Crude oil prices fall as US discusses buying stakes in Venezuelan oilfields",
+      "description": "Crude oil futures decline as US explores potential ownership stakes in Venezuelan oilfields, impacting market dynamics.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-fall-as-us-discusses-buying-stakes-in-venezuelan-oilfields/article71399078.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/bj5dx7/article71399108.ece/alternates/LANDSCAPE_1200/iStock-959381934.jpg",
+      "publishedAt": "2026-08-28T04:48:00Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "BPCL Says No Decision To Replace E20 With E10, As Govt Debates Lower",
-      "description": "The distinction, however, is between switching the blend and supplying an additional grade of petrol alongside E20. The latter presents a more significant logistical challenge, particularly given the scale of India's fuel-distribution network.",
-      "url": "https://www.outlookbusiness.com/corporate/bpcl-says-no-decision-to-replace-e20-with-e10-as-govt-debates-lower-blend-option-for-older-vehicles",
-      "image": "https://media.assettype.com/outlookbusiness/import/uploadimage/library/16_9/16_9_5/BPCL._1651072561.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-27T11:25:20Z",
+      "title": "Consumer staples stage sharp recovery as GST cut lifts FMCG volumes: BNP Paribas",
+      "description": "India\u2019s consumer staples sector sees strong volume and revenue growth driven by GST rate cuts, premiumisation trends, and easing discounting, despite margin pressures from rising crude oil prices and input costs.",
+      "url": "https://www.financialexpress.com/business/industry-consumer-staples-stage-sharp-recovery-as-gst-cut-lifts-fmcg-volumes-bnp-paribas-4327064/",
+      "image": "https://images.financialexpressdigital.com/2026/08/FMCG_fd3738_20260813130840_20260828042028.jpg",
+      "publishedAt": "2026-08-28T04:24:35Z",
       "source": {
-        "name": "Outlook Business"
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "E10 petrol comeback in plans? What BPCL said amid reports of lower-ethanol fuel option",
+      "description": "Earlier reports said the govt was discussing E10 premium petrol with Indian Oil, BPCL and Hindustan Petroleum, using 95-octane fuel with a 10% ethanol blend. | India News",
+      "url": "https://www.hindustantimes.com/india-news/is-e20-being-replaced-by-e10-bpcl-breaks-silence-on-reports-of-a-possible-fuel-switch-ethanol-blended-petrol-diesel-101787886540491.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/28/1600x900/logo/photo-1759499693589-6479d67245f0_1787888362053_1787888472578_0fc7e19d-443b-4a29-9a2a-e56aed96d68a.jpg",
+      "publishedAt": "2026-08-28T04:21:59Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
+      "description": "Shares are mostly higher in Asia after Nvidia and other technology stocks led an advance on Wall Street. South Korea's Kospi fell 1% on Friday, while most other regional markets logged moderate gains. U.S. futures were little changed and oil prices slipped. On Thursday, the S&P 500 rose 0.7% and the Dow industrials added 0.2%. The Nasdaq composite climbed 1.6%. Nvidia was the strongest force lifting the market and helped offset drops for the majority of the stocks within the S&P 500. The chip giant blew past analysts\u2019 expectations for profit and gave a better-than-expected forecast for its revenue growth. That helped calm worries dogging the broader AI industry. Treasury yields ticked higher.",
+      "url": "https://www.ajc.com/news/2026/08/asian-shares-mostly-gain-after-upbeat-results-for-nvidia-and-others-lift-us-stocks/",
+      "image": "https://images.ajc.com/resizer/v2/IUW7NK3M7NARRPIXJNYWT7KSJE.jpg?auth=7030b4faa608220466c72afe19283a36b065e6f125827883cd8cff8975d721b7&width=1200&height=630&smart=true",
+      "publishedAt": "2026-08-28T04:13:55Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
