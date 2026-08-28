@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-27T17:04:53+00:00",
+  "updated_at": "2026-08-28T01:53:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Tesco introduces \u00a360 rule for drivers at over 500 petrol stations",
-      "description": "Tesco is offering customers discount coupons, which will knock 8p off each litre of fuel purchased.",
-      "url": "https://www.birminghammail.co.uk/whats-on/shopping/tesco-introduces-60-rule-drivers-34523779",
-      "image": "https://i2-prod.birminghammail.co.uk/article34523783.ece/ALTERNATES/s1200d/0_tesco.jpg",
-      "publishedAt": "2026-08-27T04:51:18Z",
+      "title": "US jobless claims slip to 203,000 as layoffs remain low",
+      "description": "The U.S. economy and job market have proved resilient in the face of high gasoline prices caused by the fighting with Iran",
+      "url": "https://www.independent.co.uk/news/world/americas/jobless-claims-unemployment-us-layoffs-b3040347.html",
+      "image": "https://static.independent.co.uk/2026/08/27/13/30/GettyImages-2239024059-(1).jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-08-27T13:35:34Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Independent"
       }
     },
     {
-      "title": "Crude Oil Prices fall as diplomacy eases West Asia supply concerns",
-      "description": "Crude oil futures traded lower on Thursday morning, following signs of diplomatic efforts to resolve the conflict in West Asia.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-fall-as-diplomatic-efforts-ease-west-asia-supply-concerns/article71395001.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/lbx2w8/article71368589.ece/alternates/LANDSCAPE_1200/iStock-959381934.jpg",
-      "publishedAt": "2026-08-27T04:47:39Z",
+      "title": "Oil companies deliberating on aspects of supplying E10: BPCL CMD",
+      "description": "Oil companies are evaluating logistics for introducing E10 petrol alongside E20, with no final decisions yet made, says BPCL CMD.",
+      "url": "https://www.thehindubusinessline.com/companies/oil-companies-deliberating-on-aspects-of-supply-e10-bpcl-cmd/article71396558.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/buaepw/article71396627.ece/alternates/LANDSCAPE_1200/khanna.jpg",
+      "publishedAt": "2026-08-27T13:20:00Z",
       "source": {
         "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Trump claims US sanctions will win war over Iran as oil prices sink",
-      "description": "US president claims the financial strength of the US will move the country \u201ctoward a very big victory\u201d over Iran, adding that he does not believe Iran\u2019s supreme leader is dead. Follow for live updates.",
-      "url": "https://edition.cnn.com/2026/08/27/world/live-news/iran-war-trump",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-26t091104z-1495676313-rc276nagxjgs-rtrmadp-3-iran-crisis-hormuz.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-08-27T04:15:06Z",
+      "title": "FIIs remain net buyers through August on easing valuations; Oil prices remain near-term risk",
+      "description": "The main uncertainty is whether this recovery in flows can continue if oil prices stay elevated or rise further in the weeks ahead.",
+      "url": "https://www.moneycontrol.com/news/business/markets/fiis-remain-net-buyers-through-august-on-easing-valuations-oil-prices-remain-near-term-risk-14017021.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260409081407_market_flat.jpg",
+      "publishedAt": "2026-08-27T12:57:00Z",
       "source": {
-        "name": "Cable News Network"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Sensex, Nifty post mild uptick over easing crude prices",
-      "description": "Sensex, Nifty post mild uptick over easing crude prices - Mumbai, Aug 27 The Indian equity markets posted a mild uptick early on Thursday as oil prices edged ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/sensex-nifty-post-mild-uptick-over-easing-crude-prices-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201421f_202608.jpg",
-      "publishedAt": "2026-08-27T04:12:18Z",
+      "title": "Government in 'doom spiral' and failing on energy crisis, warn Social Democrats",
+      "description": "An excise cut of 32c on a litre of diesel and 27c for petrol had been due to be phased out from September 1",
+      "url": "https://www.irishmirror.ie/news/irish-news/politics/government-doom-spiral-failing-energy-37599755",
+      "image": "https://i2-prod.irishmirror.ie/article37599775.ece/ALTERNATES/s1200d/0_GettyImages-2265566846.jpg",
+      "publishedAt": "2026-08-27T12:45:20Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Irish Mirror"
       }
     },
     {
-      "title": "Sensex, Nifty post mild uptick over easing crude prices",
-      "description": "Sensex, Nifty post mild uptick over easing crude prices - Mumbai, Aug 27 The Indian equity markets posted a mild uptick early on Thursday as oil prices edged ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/sensex-nifty-post-mild-uptick-over-easing-crude-prices/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201421f_202608.jpg",
-      "publishedAt": "2026-08-27T04:12:18Z",
+      "title": "E10 for older vehicles on the table, but no plan to replace E20 petrol: BPCL",
+      "description": "The government and oil marketing companies are exploring the option of making E10 petrol available for older vehicles, while clarifying that there is no proposal to replace E20 petrol with E10, Sanjay Khanna, Chairman and Managing Director, Bharat Petroleum Corp said on Thursday.",
+      "url": "https://www.moneycontrol.com/news/business/economy/e10-for-older-vehicles-on-the-table-but-no-plan-to-replace-e20-petrol-bpcl-14016995.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2021/03/BPCL-1.jpg",
+      "publishedAt": "2026-08-27T12:01:24Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "E20 mileage woes? E10 petrol could make a comeback through high-octane variants: What we know so far",
-      "description": "Consumers are voicing concerns about the negative impact of E20 petrol on older engines and mileage, despite the government's assurances. Over the past few months, the calls to bring back E10 petrol have also grown.",
-      "url": "https://www.livemint.com/news/india/e20-mileage-woes-e10-petrol-could-make-a-comeback-through-high-octane-variants-what-we-know-so-far-11787801045806.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/27/1600x900/logo/Hospital-administrators-said-they-have-been-unable_1787801141199_1787801152297_30a65935-d1a2-4101-96cb-775bc3f5785e.jpg",
-      "publishedAt": "2026-08-27T04:02:35Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Oil prices extend losses as Hormuz reopening hopes ease supply fears",
-      "description": "India Business News: Oil prices extended their decline on Thursday as hopes of renewed Middle East diplomacy raised expectations that the Strait of Hormuz could reopen, ea.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-extend-losses-as-hormuz-reopening-hopes-ease-supply-fears/articleshow/133555285.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133555391,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-08-27T03:59:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Gold prices up Rs 1,300/10 grams; silver rebounds Rs 3,400/kg as falling oil eases rate cut bets. Buy, sell or hold?",
-      "description": "Gold and silver prices opened higher on the MCX on Thursday, supported by softer oil prices, a weaker dollar and expectations around the US Federal Reserves policy path. Investors are now focused on Fed Chair Kevin Warshs remarks at Jackson Hole, while analysts have outlined key support and resistance levels for both precious metals.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-up-rs-1300/10-grams-silver-rebounds-rs-3400/kg-as-falling-oil-eases-rate-cut-bets-buy-sell-or-hold/articleshow/133555304.cms",
-      "image": "https://img.etimg.com/thumb/msid-133555341,width-1200,height-630,imgsize-2218161,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-27T03:55:00Z",
+      "title": "Jackson Hole 2026: What to expect from Fed chair Kevin Warsh as markets stay on edge",
+      "description": "Federal Reserve Chair Kevin Warshs first Jackson Hole speech comes as markets grapple with sticky inflation, elevated oil prices and shifting rate expectations. Investors will watch for clues on the Feds policy path, while the dollar, Treasury yields and gold could react sharply to any change in Warshs tone.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/jackson-hole-2026-what-to-expect-from-fed-chair-kevin-warsh-as-markets-stay-on-edge/articleshow/133567788.cms",
+      "image": "https://img.etimg.com/thumb/msid-133568138,width-1200,height-630,imgsize-131560,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-27T12:00:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Stock Market Today (August 27): Sensex, Nifty Open Marginally Higher; Expert Says Markets To Stay Sideways",
-      "description": "Stock Market Today Updates: Sensex, Nifty Open Marginally Higher; Expert Says Markets To Stay Sideways. GIFT Nifty futures indicated a flat start to the trading session on Thursday, experts track global cues, oil prices and the upcoming IPOs., Markets, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-today-august-27-sensex-nifty-open-marginally-higher-expert-says-markets-to-stay-sideways-article-155993116",
-      "image": "https://images.timesnownews.com/thumb/msid-155993106,thumbsize-33936,width-1280,height-720,resizemode-75/155993106.jpg",
-      "publishedAt": "2026-08-27T03:52:30Z",
+      "title": "Centre may reintroduce E10 petrol amid E20 woes",
+      "description": "Amid concerns over E20 mileage, the government is considering offering branded high-octane fuels like XP95 and Speed in an E10 formulation.",
+      "url": "https://www.newsbytesapp.com/news/auto/government-may-reintroduce-e10-petrol-alongside-e20/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l271_11131787827232.jpg",
+      "publishedAt": "2026-08-27T11:56:32Z",
       "source": {
-        "name": "Times Now"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "E10 petrol may make a comeback - but as a premium fuel: Report",
-      "description": "The proposal comes amid persistent concerns among motorists about the impact of E20 petrol on older vehicles and fuel economy. | India News",
-      "url": "https://www.hindustantimes.com/india-news/e10-petrol-may-make-a-comeback-amid-e20-pushback-but-as-a-premium-fuel-report-101787801735867.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/27/1600x900/logo/Petrol_1787802536279_1787802536479_15890906-c5d0-47ac-aa1a-a5e222812e46.jpg",
-      "publishedAt": "2026-08-27T03:51:20Z",
+      "title": "Alarming reports that Putin aims to escalate war, despite CIA warning (Ukraine Battlefield update, Day 1,645)",
+      "description": "Ukrainians pound Russian refineries, with ordinary Russians queuing 11 hours for a few litres of fuel, in a country once dubbed as being a giant petrol station.",
+      "url": "https://euobserver.com/234012/alarming-reports-that-putin-aims-to-escalate-war-despite-cia-warning-ukraine-battlefield-update-day-1645/",
+      "image": "https://static.euobserver.com/2026/08/photo2026-08-2608-17-18.jpg",
+      "publishedAt": "2026-08-27T11:56:28Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "EUobserver"
+      }
+    },
+    {
+      "title": "Possibility of offering E10 petrol alongside E20 being explored: BPCL chairman",
+      "description": "India achieved 20% ethanol blending in petrol last year, five years ahead of the ordinal deadline.",
+      "url": "https://indianexpress.com/article/business/e10-petrol-option-older-vehicles-bpcl-e20-fuel-logistics-10852115/",
+      "image": "https://images.indianexpress.com/2026/07/Ethanol-2_20260611020812_20260710095955.jpg",
+      "publishedAt": "2026-08-27T11:31:38Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "BPCL Says No Decision To Replace E20 With E10, As Govt Debates Lower",
+      "description": "The distinction, however, is between switching the blend and supplying an additional grade of petrol alongside E20. The latter presents a more significant logistical challenge, particularly given the scale of India's fuel-distribution network.",
+      "url": "https://www.outlookbusiness.com/corporate/bpcl-says-no-decision-to-replace-e20-with-e10-as-govt-debates-lower-blend-option-for-older-vehicles",
+      "image": "https://media.assettype.com/outlookbusiness/import/uploadimage/library/16_9/16_9_5/BPCL._1651072561.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-08-27T11:25:20Z",
+      "source": {
+        "name": "Outlook Business"
       }
     }
   ]
