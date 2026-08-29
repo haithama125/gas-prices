@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-28T17:52:51+00:00",
+  "updated_at": "2026-08-29T01:18:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Is Your Petrol Changing? BPCL Finally Breaks Silence on E10 Switch Rumors",
-      "description": "BPCL Chairman Sanjay Khanna clarified that there is no proposal to replace E20 blended petrol with E10, dismissing reports of a fuel switch in India.",
-      "url": "https://www.outlookindia.com/national/bpcl-denies-plans-to-replace-e20-blended-petrol-with-e10-alternative",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-06-18/s0afc5ya/petrol_630_630_630_630.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-28T05:49:58Z",
+      "title": "6 Months of Iran War: How Deep Was the Impact on Indian Stock Markets?",
+      "description": "The war has particularly impacted Indian stock markets, with oil and gas stocks suffering the most due to soaring crude oil prices, which rose from $70 to over $120 per barrel. , Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/6-months-of-iran-war-how-deep-was-the-impact-on-indian-stock-markets-article-156001780",
+      "image": "https://images.timesnownews.com/thumb/msid-156002036,thumbsize-2697859,width-1280,height-720,resizemode-75/156002036.jpg",
+      "publishedAt": "2026-08-28T12:52:46Z",
       "source": {
-        "name": "Outlook India"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Indonesian Billionaire Buying Stake In Changi Airport\u2019s Jet Fuel Supplier In Singapore Push",
-      "description": "The acquisition of a stake in Changi Airport Fuel Hydrant Installation adds to the string investments made by Indonesian billionaire Prajogo Pangestu, whose companies have interests in Shell's refinery and Esso petrol stations in the city-state.",
-      "url": "https://www.forbes.com/sites/yessarrosendar/2026/08/28/indonesian-billionaire-buying--stake-in-changi-airports-jet-fuel-supplier-in-singapore-push/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9115621afdf7d2b1d89cb9/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-08-28T05:47:37Z",
+      "title": "Glacial Collapse, Kailash-Mansarovar Yatra and Ethanol Blended Petrol Programme",
+      "description": "UPSC Key-28th August, 2026: What news you should read in the today's edition of the Indian Express for UPSC Civil Services Preparation? know in today's UPSC key of the Indian Express",
+      "url": "https://indianexpress.com/article/upsc-current-affairs/upsc-key-glacial-collapse-kailash-mansarovar-yatra-and-ethanol-blended-petrol-programme-10853583/",
+      "image": "https://images.indianexpress.com/2026/08/UPSC-Key-28th-Aug-2026.jpg",
+      "publishedAt": "2026-08-28T12:42:19Z",
       "source": {
-        "name": "Forbes"
+        "name": "The Indian Express"
       }
     },
     {
-      "title": "Petrol drivers facing \u00a389 charges urged to set off before 10am Friday",
-      "description": "UK drivers are being urged to fill up and hit the road by 10am on Friday.",
-      "url": "https://www.express.co.uk/life-style/cars/2243025/petrol-drivers-facing-89-charges",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7114092.jpg",
-      "publishedAt": "2026-08-28T05:45:00Z",
+      "title": "E10 Petrol For Older Vehicles May Be Offered Alongside E20, BPCL Says Infrastructure Can Support Lower Blend",
+      "description": "The government and oil marketing companies are examining whether E10 petrol can be supplied to older vehicles alongside E20. BPCL says existing infrastructure can handle the lower ethanol blend, but managing two petrol grades simultaneously could create logistical and supply-chain challenges. No final decision has been taken yet",
+      "url": "https://www.freepressjournal.in/business/e10-petrol-for-older-vehicles-may-be-offered-alongside-e20-bpcl-says-infrastructure-can-support-lower-blend",
+      "image": "https://media.assettype.com/freepressjournal/2025-03-20/geigwa0e/PetrolDieselprice.avif",
+      "publishedAt": "2026-08-28T12:22:00Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "UK petrol prices hit highest level in almost four years as bank holiday getaway looms",
+      "description": "Average cost of petrol reaches 161.6p a litre, while diesel costs average of 183.4p, according to the AA",
+      "url": "https://www.theguardian.com/money/2026/aug/28/uk-petrol-prices-highest-level-almost-four-years-bank-holiday-getaway",
+      "image": "https://i.guim.co.uk/img/media/495fd8fd7e7e19b0bf3640bca2b6e513fd9dfd13/269_30_2838_2271/master/2838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8068f4dfefd903016ad94c1fbe1f604",
+      "publishedAt": "2026-08-28T11:56:52Z",
+      "source": {
+        "name": "The Guardian"
+      }
+    },
+    {
+      "title": "Oil prices today: Crude holds steady, heads for weekly losses as Hormuz flows remain choppy",
+      "description": "International Business News: Oil prices were largely steady on Friday but remained on track for a sharp weekly decline as traders weighed stalled US-Iran diplomatic talks against .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-28-august-2026-crude-holds-steady-heads-for-weekly-losses-as-hormuz-flows-remain-choppy/articleshow/133590230.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133590309,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-08-28T11:28:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Petrol and diesel drivers facing new HMRC mileage charges from Tuesday",
+      "description": "The new rates will be in force until December.",
+      "url": "https://www.express.co.uk/life-style/cars/2243429/petrol-diesel-drivers-new-HMRC",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7116173.jpg",
+      "publishedAt": "2026-08-28T11:27:00Z",
       "source": {
         "name": "Daily Express"
       }
     },
     {
-      "title": "Global Market: Japan\u2019s Nikkei rises as tech stocks gain, Fed signals cap rally",
-      "description": "Japans Nikkei rose 0.8% and Topix gained 0.9%, led by technology and chip stocks. Gains were supported by Wall Streets semiconductor rally, while inflation concerns, higher oil prices and rising bond yields limited broader advances. Investors also awaited Fed Chair Kevin Warshs Jackson Hole speech for clues on US interest rates.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-japans-nikkei-rises-as-tech-stocks-gain-fed-signals-cap-rally/articleshow/133584113.cms",
-      "image": "https://img.etimg.com/thumb/msid-133584177,width-1200,height-630,imgsize-2346586,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-08-28T05:39:00Z",
+      "title": "Rupee rises 6 paise to settle at 95.39 against US dollar",
+      "description": "MUMBAI, Aug 28: The rupee rose 6 paise to settle at 95.39 (provisional) against the US dollar on Friday on the back of a fall in global crude oil prices and intervention by the Reserve Bank of India. However, a...",
+      "url": "https://www.dailyexcelsior.com/rupee-rises-6-paise-to-settle-at-95-39-against-us-dollar/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWMxODUyOGIwLWEyZDEtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+      "publishedAt": "2026-08-28T11:15:18Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Oil Prices Head for a Weekly Loss Despite Escalating Iran Tensions",
-      "description": "Oil prices are heading for a weekly decline despite restricted Hormuz shipping, stalled U.S.-Iran diplomacy and Washington\u2019s escalating economic pressure on Tehran.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-a-Weekly-Loss-Despite-Escalating-Iran-Tensions.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-08-28_zxch1q97i3.jpg",
-      "publishedAt": "2026-08-28T05:15:00Z",
+      "title": "HC grants bail to man accused of being PFI member, says possesion of petrol bomb video not offence",
+      "description": "Mumbai, Aug 28 (PTI) The Bombay High Court has granted bail to an alleged member of the banned Popular Front of India (PFI), terming witness statements against him as \u201cinnocuous\u201d and ruling that mere possession of a petrol bomb tutorial video on his phone does not constitute an offence. A bench of Justices Sarang Kotwal [\u2026]",
+      "url": "https://theprint.in/india/hc-grants-bail-to-man-accused-of-being-pfi-member-says-possesion-of-petrol-bomb-video-not-offence/3027564/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-08-28T10:19:44Z",
       "source": {
-        "name": "OilPrice"
+        "name": "ThePrint"
       }
     },
     {
-      "title": "Rupee declines 10 paise to 95.55 against US dollar in early trade",
-      "description": "A marginally weaker greenback and a fall in global crude oil prices to levels below USD 90/barrel prevented a sharper decline in the local unit, forex traders s",
-      "url": "https://www.newindianexpress.com/business/2026/Aug/28/rupee-declines-10-paise-to-9555-against-us-dollar-in-early-trade",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-29%2Fbgpp32ns%2FANI_20260309051248.jpg?rect=0%2C0%2C1600%2C840&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-28T04:54:41Z",
+      "title": "Hundreds of heating oil customers to get compensation after Iran war price hikes",
+      "description": "Heating oil prices surged at the start of the Iran war, leaving families forced to either buy replacement fuel at a higher price, or go without heating",
+      "url": "https://www.mirror.co.uk/money/heating-oil-compensation-iran-war-37602765",
+      "image": "https://i2-prod.mirror.co.uk/article37591887.ece/ALTERNATES/s1200d/1_Worried-Retired-Senior-Couple-Looking-At-Bills-At-Home-Concerned-About-Cost-Of-Living.jpg",
+      "publishedAt": "2026-08-28T10:02:53Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Mirror"
       }
     },
     {
-      "title": "Crude oil prices fall as US discusses buying stakes in Venezuelan oilfields",
-      "description": "Crude oil futures decline as US explores potential ownership stakes in Venezuelan oilfields, impacting market dynamics.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-fall-as-us-discusses-buying-stakes-in-venezuelan-oilfields/article71399078.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/bj5dx7/article71399108.ece/alternates/LANDSCAPE_1200/iStock-959381934.jpg",
-      "publishedAt": "2026-08-28T04:48:00Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12704211",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-25goodmorningnorthbaybct-4-downtown-north-bay-garrett.jpeg;w=1080;h=810;mode=crop",
+      "publishedAt": "2026-08-28T10:00:00Z",
       "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Consumer staples stage sharp recovery as GST cut lifts FMCG volumes: BNP Paribas",
-      "description": "India\u2019s consumer staples sector sees strong volume and revenue growth driven by GST rate cuts, premiumisation trends, and easing discounting, despite margin pressures from rising crude oil prices and input costs.",
-      "url": "https://www.financialexpress.com/business/industry-consumer-staples-stage-sharp-recovery-as-gst-cut-lifts-fmcg-volumes-bnp-paribas-4327064/",
-      "image": "https://images.financialexpressdigital.com/2026/08/FMCG_fd3738_20260813130840_20260828042028.jpg",
-      "publishedAt": "2026-08-28T04:24:35Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "E10 petrol comeback in plans? What BPCL said amid reports of lower-ethanol fuel option",
-      "description": "Earlier reports said the govt was discussing E10 premium petrol with Indian Oil, BPCL and Hindustan Petroleum, using 95-octane fuel with a 10% ethanol blend. | India News",
-      "url": "https://www.hindustantimes.com/india-news/is-e20-being-replaced-by-e10-bpcl-breaks-silence-on-reports-of-a-possible-fuel-switch-ethanol-blended-petrol-diesel-101787886540491.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/08/28/1600x900/logo/photo-1759499693589-6479d67245f0_1787888362053_1787888472578_0fc7e19d-443b-4a29-9a2a-e56aed96d68a.jpg",
-      "publishedAt": "2026-08-28T04:21:59Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Asian shares mostly gain after upbeat results for Nvidia and others lift US stocks",
-      "description": "Shares are mostly higher in Asia after Nvidia and other technology stocks led an advance on Wall Street. South Korea's Kospi fell 1% on Friday, while most other regional markets logged moderate gains. U.S. futures were little changed and oil prices slipped. On Thursday, the S&P 500 rose 0.7% and the Dow industrials added 0.2%. The Nasdaq composite climbed 1.6%. Nvidia was the strongest force lifting the market and helped offset drops for the majority of the stocks within the S&P 500. The chip giant blew past analysts\u2019 expectations for profit and gave a better-than-expected forecast for its revenue growth. That helped calm worries dogging the broader AI industry. Treasury yields ticked higher.",
-      "url": "https://www.ajc.com/news/2026/08/asian-shares-mostly-gain-after-upbeat-results-for-nvidia-and-others-lift-us-stocks/",
-      "image": "https://images.ajc.com/resizer/v2/IUW7NK3M7NARRPIXJNYWT7KSJE.jpg?auth=7030b4faa608220466c72afe19283a36b065e6f125827883cd8cff8975d721b7&width=1200&height=630&smart=true",
-      "publishedAt": "2026-08-28T04:13:55Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "BayToday"
       }
     }
   ]
