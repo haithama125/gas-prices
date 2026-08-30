@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-30T02:25:20+00:00",
+  "updated_at": "2026-08-30T10:54:25+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Trump\u2019s historic oil deal with Venezuela: What it means for lower gas prices",
-      "description": "President Donald Trump is hailing a historic oil deal with Venezuela and predicting a rapid drop in gas prices for Americans, but experts don't expect an immediate decrease as a result of the...",
-      "url": "https://www.thenews.com.pk/latest/1414126-trumps-historic-oil-deal-with-venezuela-what-it-means-for-lower-gas-prices",
-      "image": "https://www.thenews.com.pk/assets/uploads/2026-08-29/1414126_071219_updates.jpg",
-      "publishedAt": "2026-08-29T14:12:00Z",
+      "title": "Toronto gas prices to soar by Labour Day weekend",
+      "description": "Drivers filling up their tanks in Toronto will feel the pinch at the pumps as prices are expected to rise by 7 cents a litre by Sunday, according to one analyst.",
+      "url": "https://www.cp24.com/local/toronto/2026/08/28/gas-prices-could-hit-190-per-litre-by-labour-day-weekend-gas-analyst-says/",
+      "image": "https://www.cp24.com/resizer/v2/HXRWE6TDILXNCUWNR42VQMEXA4.png?smart=true&auth=7102ace936835a53ba8a6b4077b72fc0aa2d4a21fb5d8446061b498f486b4622&width=1200&height=630",
+      "publishedAt": "2026-08-29T20:15:24Z",
       "source": {
-        "name": "The News International"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Crazy Ro Khanna Blasts Trump\u2019s Massive Venezuela Oil Deal as \u2018Colonial\u2019 and \u2018Morally Wrong\u2019 - Despite Promise of Lower Gas Prices (VIDEO)",
-      "description": "California Rep. Ro Khanna has slammed President Trump\u2019s oil deal with Venezuela, comparing it to colonialism.",
-      "url": "https://www.thegatewaypundit.com/2026/08/ro-khanna-blasts-trumps-massive-venezuela-oil-deal/",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/08/img_8883-1200x630.jpeg",
-      "publishedAt": "2026-08-29T13:30:17Z",
+      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "description": "Trump faces mounting pressure to address high gas prices as the war in Iran reaches a six-month milestone with no conclusion in sight.",
+      "url": "https://www.adn.com/nation-world/2026/08/28/trump-seeks-vast-potentially-costly-us-stake-in-venezuelan-oil-industry/",
+      "image": "https://www.adn.com/resizer/v2/XDC6X3QD2QGXZK5GJPRBXAEQUU.jpg?smart=true&auth=da04a495f0d862221bf65c0bf594b9ff53a3b64ea5b3737ac9879235a72d149f&width=1200&height=630",
+      "publishedAt": "2026-08-29T19:39:14Z",
       "source": {
-        "name": "The Gateway Pundit"
+        "name": "Anchorage Daily News"
       }
     },
     {
-      "title": "Will Trump's 'historic' oil deal with Venezuela lower gas prices?",
-      "description": "Will Trump's 'historic' oil deal with Venezuela lower gas prices?",
-      "url": "https://www.europesays.com/3221616/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/e1a7ca70-3088-475f-a228-9ae9f1fb47c2.jpg",
-      "publishedAt": "2026-08-29T13:21:22Z",
+      "title": "New models to boost e-scooters",
+      "description": "The launch of the Ather Konarc at \u20b999,999 marks a major shift in India\u2019s two-wheeler market as electric scooters disrupt the traditional dominance of 110cc and 125cc petrol models.",
+      "url": "https://www.financialexpress.com/auto/bike-news/new-models-to-boost-e-scooters/4328120/",
+      "image": "https://images.financialexpressdigital.com/2026/08/Atherenergy.X_20250723140300_20251219123729_20260202143204_20260613113937_20260714170639_20260803131800_20260829114406_20260829192000.jpg",
+      "publishedAt": "2026-08-29T19:20:19Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Will Trump's 'historic' oil deal with Venezuela lower gas prices?",
-      "description": "Will Trump's 'historic' oil deal with Venezuela lower gas prices?",
-      "url": "https://www.europesays.com/3221614/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/e1a7ca70-3088-475f-a228-9ae9f1fb47c2.jpg",
-      "publishedAt": "2026-08-29T13:20:24Z",
+      "title": "Trump says massive Venezuela oil deal will slash US gas prices",
+      "description": "President Donald Trump says a new Venezuela oil deal will boost U.S. supply and lower gas prices, though experts warn the impact could take years.",
+      "url": "https://www.foxnews.com/politics/trump-touts-access-65-billion-barrels-venezuelan-oil-deal-he-says-slash-gas-prices",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/donald-trump-oval-office-8.png",
+      "publishedAt": "2026-08-29T18:01:33Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Fox News"
       }
     },
     {
-      "title": "Russia extends diesel, marine fuel, kerosene export ban through Sept. 30",
-      "description": "Rosneft petrol station employees fuel cars at a Rosneft petrol station in Moscow on August 21, 2026. (AFP Photo)",
-      "url": "https://www.europesays.com/3221578/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/08/russia-extends-diesel-marine-fuel-and-kerosene-export-ban-through-sept-30-3227052_20260829152707.jpg",
-      "publishedAt": "2026-08-29T12:54:22Z",
+      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
+      "description": "A drop in U.S. gas prices should not be expected immediately. Experts say repairing and expanding Venezuela's oil infrastructure will take years and require billions of dollars.",
+      "url": "https://www.inquirer.com/news/nation-world/trump-venezuela-deal-us-control-oil-industry-development-investment-rodriguez-rubio-hegseth-maduro-20260829.html",
+      "image": "https://www.inquirer.com/resizer/v2/NL2HSJXYBF4HRK7B57LIKJ6U3U.jpg?auth=cca16bc7daed301ffe2502a86646c1091c7657dd4bf3bce6ba4f02d797ffbcfd&width=760&height=507&smart=true",
+      "publishedAt": "2026-08-29T17:27:39Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Philadelphia Inquirer"
       }
     },
     {
-      "title": "How Much Gas Prices Have Risen Since The Iran War",
+      "title": "Trump's Venezuela Oil Deal May Not Lower Gas Prices Anytime Soon",
+      "description": "President Trump\u00a0announced the \"biggest oil deal in world history,\" following an agreement involving the Venezuelan government.",
+      "url": "https://www.newsweek.com/trumps-venezuela-oil-plan-may-not-bring-gas-price-relief-to-americans-12384065",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP26026674488310.jpg?w=1200&crop=1",
+      "publishedAt": "2026-08-29T17:11:54Z",
+      "source": {
+        "name": "Newsweek"
+      }
+    },
+    {
+      "title": "Republicans see Trump\u2019s unceasing Iran war as midterm threat",
+      "description": "Republican strategists fear the prolonged Iran war, rising gas prices and stubborn inflation could hurt President Donald Trump\u2019s approval ratings and cost the GOP control of Congress in the November midterm elections.",
+      "url": "https://www.moneycontrol.com/world/republicans-see-trump-s-unceasing-iran-war-as-midterm-threat-article-14018200.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251113014735_US-Government-Capitol-Hill-Bloomberg.jpg",
+      "publishedAt": "2026-08-29T16:14:51Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Crude Check: No clear trajectory",
+      "description": "Oil prices show uncertainty; traders advised to refrain from new positions amidst fluctuating Brent and domestic futures.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-no-clear-trajectory/article71404113.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/q5fn8s/article71404131.ece/alternates/LANDSCAPE_1200/Decline-in-JanuG29FKP061.5.jpg.jpg",
+      "publishedAt": "2026-08-29T15:57:09Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Pezeshkian Says Iran To Increase Gasoline Prices, Coupled With Rare Admission About US Sanctions",
       "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/personal-finance/how-much-gas-prices-have-risen-iran-war",
-      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/web-1.jpg?h=be6bbc0c&itok=h4cnjHDD",
-      "publishedAt": "2026-08-29T12:45:00Z",
+      "url": "https://www.zerohedge.com/energy/pezeshkian-says-iran-increase-gasoline-prices-couples-rare-admission-about-us-sanctions",
+      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/gasiranfile.jpg?itok=q2lJSySG",
+      "publishedAt": "2026-08-29T15:05:00Z",
       "source": {
         "name": "ZeroHedge"
       }
     },
     {
-      "title": "Petrol drivers face 27p per mile HMRC charges rate from Tuesday",
-      "description": "A new rate has been confirmed to take effect from September 1.",
-      "url": "https://www.express.co.uk/life-style/cars/2243097/petrol-drivers-face-27p-per",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7114452.jpg",
-      "publishedAt": "2026-08-29T12:34:00Z",
+      "title": "Petrol and diesel owners hit with 1p per mile change from Tuesday",
+      "description": "Petrol and diesel owners face a 1p per mile update from Tuesday as new HMRC fees are revealed.",
+      "url": "https://www.express.co.uk/life-style/cars/2243716/petrol-diesel-advisory-fuel-rate-changes",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7117566.jpg",
+      "publishedAt": "2026-08-29T15:04:00Z",
       "source": {
         "name": "Daily Express"
-      }
-    },
-    {
-      "title": "HMRC confirms new mileage charges for company car drivers from Tuesday",
-      "description": "Tuesday will see petrol and diesel drivers face new mileage charges from the Labour Party government's tax arm.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/hmrc-confirms-new-mileage-charges-34533546",
-      "image": "https://i2-prod.birminghammail.co.uk/article34533577.ece/ALTERNATES/s1200d/0_petrol2.jpg",
-      "publishedAt": "2026-08-29T12:00:19Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Subang Jaya police open investigation into viral Facebook claim against officers",
-      "description": "KUALA LUMPUR, Aug 29 \u2014 Police have opened an investigation paper regarding a Facebook post that allegedly contained defamatory statements against police officers at a petrol...",
-      "url": "https://www.malaymail.com/news/malaysia/2026/08/29/subang-jaya-police-open-investigation-into-viral-facebook-claim-against-officers/233217",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/29/359671.jpg",
-      "publishedAt": "2026-08-29T11:49:38Z",
-      "source": {
-        "name": "Malay Mail"
-      }
-    },
-    {
-      "title": "E20 petrol: Don\u2019t make E10 at home or use unverified fuel additives, says former NITI Aayog official",
-      "description": "Avoid DIY fuel blending and unverified additives for E20 petrol; follow manufacturer guidelines for vehicle compatibility and maintenance.",
-      "url": "https://www.thehindubusinessline.com/news/e20-petrol-dont-make-e10-at-home-or-use-unverified-fuel-additives-says-former-niti-aayog-official/article71404043.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/tzv28p/article71404048.ece/alternates/LANDSCAPE_1200/Bl%20conversations.jpg",
-      "publishedAt": "2026-08-29T11:25:29Z",
-      "source": {
-        "name": "The Hindu Business Line"
       }
     }
   ]
