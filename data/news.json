@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-08-30T10:54:25+00:00",
+  "updated_at": "2026-08-30T15:42:27+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol and diesel prices today: Fuel rates in Delhi, Mumbai, Bengaluru as Crude sees first weekly decline in three weeks",
+      "description": "Petrol and diesel prices remained stable on 30 August. Although prices increased earlier in May, they have not fluctuated significantly in the last three months.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-fuel-rates-in-delhi-mumbai-bengaluru-as-crude-sees-first-weekly-decline-in-three-weeks-11788053868944.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/30/1600x900/logo/pp_1788056583774_1788056612011_afe28058-9a9f-44f7-8a28-1d734f0bdde0.jpg",
+      "publishedAt": "2026-08-30T03:03:00Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Plea in SC Seeks Mandatory Disclosure of Ethanol Percentage in Petrol, Hearing Likely on Monday",
+      "description": "The Supreme Court will hear a petition on August 31 requesting mandatory labeling at petrol pumps to disclose ethanol percentages in petrol., India News, Times Now",
+      "url": "https://www.timesnownews.com/india/plea-in-supreme-court-seeks-mandatory-disclosure-of-ethanol-percentage-in-petrol-e20-policy-details-hearing-on-august-31-article-156011059",
+      "image": "https://images.timesnownews.com/thumb/msid-156011061,thumbsize-162210,width-1280,height-720,resizemode-75/156011061.jpg",
+      "publishedAt": "2026-08-30T00:07:51Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Automakers widen powertrain bets as petrol dominance weakens",
+      "description": "Indian automakers are expanding powertrain options as petrol's market share declines. New models offer electric, hybrid, and plug-in hybrid choices to consumers. CNG and diesel technologies also remain relevant in this evolving market. Carmakers are hedging bets due to buyer preference uncertainty. This complex transition offers customers diverse mobility pathways.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/automakers-widen-powertrain-bets-as-petrol-dominance-weakens/articleshow/133618623.cms",
+      "image": "https://img.etimg.com/thumb/msid-133619064,width-1200,height-630,imgsize-97846,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-30T00:00:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "EV company founder says petrol power is the future",
+      "description": "Forget battery-electric power, the future of supercars is fossil-powered, according to the founder of electric hypercar brand Rimac.",
+      "url": "https://7news.com.au/motoring/ev-company-founder-says-petrol-power-is-the-future-c-22796444",
+      "image": "https://images.7news.com.au/publication/C-22796444/7cd1adadeaef61f3c9c655a1db65c81ecc57b142-16x9-x0y236w4529h2548.jpg?imwidth=1200",
+      "publishedAt": "2026-08-29T23:05:07Z",
+      "source": {
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "EV company founder says petrol power is the future",
+      "description": "Forget battery-electric power, the future of supercars is fossil-powered, according to the founder of electric hypercar brand Rimac.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/ev-company-founder-says-petrol-power-is-the-future-c-22796443",
+      "image": "https://images.perthnow.com.au/publication/C-22796443/7cd1adadeaef61f3c9c655a1db65c81ecc57b142-16x9-x0y236w4529h2548.jpg?imwidth=1200",
+      "publishedAt": "2026-08-29T23:05:07Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "California gas prices spike for 11th day in a row \u2014 as drivers shell out at the pumps",
+      "description": "Costs statewide jumped from $5.58 on August 19 to $5.66 on Saturday, keeping the Golden State as the nation's most expensive for fuel.",
+      "url": "https://nypost.com/2026/08/29/us-news/california-gas-prices-spike-for-11th-day-in-a-row-as-drivers-shell-out-at-the-pumps/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/newspress-collage-wvjwz3ff3-1788044092254.jpg?quality=75&strip=all&1788029772&w=1200",
+      "publishedAt": "2026-08-29T22:57:05Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
     {
       "title": "Toronto gas prices to soar by Labour Day weekend",
       "description": "Drivers filling up their tanks in Toronto will feel the pinch at the pumps as prices are expected to rise by 7 cents a litre by Sunday, according to one analyst.",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-08-29T18:01:33Z",
       "source": {
         "name": "Fox News"
-      }
-    },
-    {
-      "title": "Trump says U.S. has entered deal with Venezuela to take control of 65 billion barrels of oil reserves",
-      "description": "A drop in U.S. gas prices should not be expected immediately. Experts say repairing and expanding Venezuela's oil infrastructure will take years and require billions of dollars.",
-      "url": "https://www.inquirer.com/news/nation-world/trump-venezuela-deal-us-control-oil-industry-development-investment-rodriguez-rubio-hegseth-maduro-20260829.html",
-      "image": "https://www.inquirer.com/resizer/v2/NL2HSJXYBF4HRK7B57LIKJ6U3U.jpg?auth=cca16bc7daed301ffe2502a86646c1091c7657dd4bf3bce6ba4f02d797ffbcfd&width=760&height=507&smart=true",
-      "publishedAt": "2026-08-29T17:27:39Z",
-      "source": {
-        "name": "The Philadelphia Inquirer"
-      }
-    },
-    {
-      "title": "Trump's Venezuela Oil Deal May Not Lower Gas Prices Anytime Soon",
-      "description": "President Trump\u00a0announced the \"biggest oil deal in world history,\" following an agreement involving the Venezuelan government.",
-      "url": "https://www.newsweek.com/trumps-venezuela-oil-plan-may-not-bring-gas-price-relief-to-americans-12384065",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/AP26026674488310.jpg?w=1200&crop=1",
-      "publishedAt": "2026-08-29T17:11:54Z",
-      "source": {
-        "name": "Newsweek"
-      }
-    },
-    {
-      "title": "Republicans see Trump\u2019s unceasing Iran war as midterm threat",
-      "description": "Republican strategists fear the prolonged Iran war, rising gas prices and stubborn inflation could hurt President Donald Trump\u2019s approval ratings and cost the GOP control of Congress in the November midterm elections.",
-      "url": "https://www.moneycontrol.com/world/republicans-see-trump-s-unceasing-iran-war-as-midterm-threat-article-14018200.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/11/20251113014735_US-Government-Capitol-Hill-Bloomberg.jpg",
-      "publishedAt": "2026-08-29T16:14:51Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Crude Check: No clear trajectory",
-      "description": "Oil prices show uncertainty; traders advised to refrain from new positions amidst fluctuating Brent and domestic futures.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-no-clear-trajectory/article71404113.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/q5fn8s/article71404131.ece/alternates/LANDSCAPE_1200/Decline-in-JanuG29FKP061.5.jpg.jpg",
-      "publishedAt": "2026-08-29T15:57:09Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Pezeshkian Says Iran To Increase Gasoline Prices, Coupled With Rare Admission About US Sanctions",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/energy/pezeshkian-says-iran-increase-gasoline-prices-couples-rare-admission-about-us-sanctions",
-      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-08/gasiranfile.jpg?itok=q2lJSySG",
-      "publishedAt": "2026-08-29T15:05:00Z",
-      "source": {
-        "name": "ZeroHedge"
-      }
-    },
-    {
-      "title": "Petrol and diesel owners hit with 1p per mile change from Tuesday",
-      "description": "Petrol and diesel owners face a 1p per mile update from Tuesday as new HMRC fees are revealed.",
-      "url": "https://www.express.co.uk/life-style/cars/2243716/petrol-diesel-advisory-fuel-rate-changes",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7117566.jpg",
-      "publishedAt": "2026-08-29T15:04:00Z",
-      "source": {
-        "name": "Daily Express"
       }
     }
   ]
