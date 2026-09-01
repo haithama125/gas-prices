@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-01T02:37:14+00:00",
+  "updated_at": "2026-09-01T10:45:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ahead of Labor Day, Mideast fighting resumes and oil prices surge",
-      "description": "It was unclear how much the latest Middle East strikes would affect average gas prices.",
-      "url": "https://www.freep.com/story/news/local/michigan/2026/08/31/gas-prices-michigan-strikes-iran-venezuela/91544701007/",
-      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/04/30/PDTF/89872928007-04282026-gas-prices-drm-001.jpg?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
-      "publishedAt": "2026-08-31T14:33:44Z",
+      "title": "Oil: Prices jump more than 2.5% after new military escalation - Brent above $90",
+      "description": "The latest military escalation between the US and Iran has reignited tensions in the oil market, heightening fears of disruptions to global supply and the security of flows through the Strait of Hormuz",
+      "url": "https://en.protothema.gr/2026/09/01/oil-prices-jump-more-than-2-5-after-new-military-escalation-brent-above-90/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/08/petrelaio-mkt-7.jpg-7.jpg",
+      "publishedAt": "2026-08-31T22:43:29Z",
       "source": {
-        "name": "Detroit Free Press"
+        "name": "Proto Thema"
       }
     },
     {
-      "title": "Trump criticised as he claims oil and gas prices will plummet - just as soon as Iran war is won",
-      "description": "US president Donald Trump has sparked a fresh wave of criticism online, after telling Fox News that oil and gas prices are 'going to go down' once America wins the war in Iran 'completely'. This is despite the 80-year-old telling a crowd in Kentucky that the US had 'won' back in March, and posting the words 'mission accomplished' online in August.",
-      "url": "https://www.indy100.com/politics/trump/trump-iran-war-oil-gas-prices",
-      "image": "https://www.indy100.com/media-library/donald-trump-speaks-to-reporters-outside-the-white-house.jpg?id=67701582&width=1200&height=600&coordinates=0%2C112%2C0%2C221",
-      "publishedAt": "2026-08-31T14:31:40Z",
+      "title": "A single fix reverses the case for rolling back vehicle emissions standards",
+      "description": "Two administrations, the Biden administration and the second Trump administration, reached opposite conclusions about whether vehicle emissions standards should be rolled back. These conclusions came from different assumptions, including whether avoiding air pollution has value to society and the degree to which car buyers value future fuel savings from getting a more efficient vehicle. Both assumptions matter, and disagreement over either accounts for hundreds of billions of dollars in the government's cost-benefit math on vehicle emissions standards\u2014math that, in this year's rollback, also assumes gas prices are lower than what drivers are actually paying at the pump.",
+      "url": "https://phys.org/news/2026-08-reverses-case-vehicle-emissions-standards.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/vehicle-emissions.jpg",
+      "publishedAt": "2026-08-31T22:10:04Z",
       "source": {
-        "name": "indy100"
+        "name": "Phys.org"
       }
     },
     {
-      "title": "Oil prices jump 3% to over $90 after US, Iran fire strikes for first time in a month",
-      "description": "Oil prices on Monday jumped 3% \u2013 back above $90 a barrel \u2013 after the US and Iran exchanged strikes for the first time in a month.",
-      "url": "https://nypost.com/2026/08/31/business/oil-prices-jump-3-to-over-90-after-us-iran-fire-strikes-for-first-time-in-a-month/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/139076741.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-08-31T13:59:16Z",
+      "title": "US stocks were mostly lower as oil prices and yields rose amid US-Iran flare up - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-were-mostly-lower-oil-prices-and-yields-rose-amid-us-iran-flare-newsquawk-daily",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/Asia-Pac-Opening-News_20.png?itok=njivAVsY",
+      "publishedAt": "2026-08-31T21:58:39Z",
       "source": {
-        "name": "New York Post"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Labor Day gas prices: National record possible this weekend, AAA says",
-      "description": "Pennsylvania's average gas price has climbed to $4.22 a gallon, nearly a dollar above last year's holiday weekend average.",
-      "url": "https://www.pennlive.com/news/2026/08/filling-up-this-labor-day-weekend-is-going-to-cost-almost-1-more-per-gallon-than-last-year.html",
-      "image": "https://www.pennlive.com/resizer/v2/EJEDQTSR2JFXRK3WNXJWYS4E7A.jpg?auth=77b059eb0d9f71411724f7df09b542fc5f78fc48d1694d4e89d5c196c37f3231&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-08-31T13:57:26Z",
+      "title": "Will There Be Panic Before The Midterms",
+      "description": "US-Iran tensions and Strait of Hormuz risks are spiking oil prices as SPR nears limits.",
+      "url": "https://seekingalpha.com/article/4941901-will-there-be-panic-before-midterms",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1197865068/image_1197865068.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-08-31T21:30:08Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "Seeking Alpha"
       }
     },
     {
-      "title": "US stocks slip after Gulf clashes lift crude oil prices",
-      "description": "The Dow Jones Industrial Average fell 0.18%, the S&P 500 fell 0.18%, the Nasdaq Composite dropped 0.17%",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/wallstreet4_1788184388252_1788184408349_ee6d4ad7-ec8a-41fc-bd85-4075f5883a83.jpg",
-      "publishedAt": "2026-08-31T13:57:00Z",
+      "title": "Markets live: Oil prices surge on latest US-Iran flare-up, house prices fall",
+      "description": "The latest flare-up in hostilities between the US and Iran have led to a 3 per cent surge in the oil price. Meanwhile, Australian house prices are falling in some major capitals. Follow the day's events on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-09-01/asx-markets-business-live-news-house-prices-fall/107100764",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-08-31T21:28:05Z",
       "source": {
-        "name": "Livemint"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
-      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
-      "url": "https://www.pilotonline.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
-      "publishedAt": "2026-08-31T13:52:23Z",
+      "title": "Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+      "description": "The Dow Jones Industrial Average fell 374.09 points, or 0.7 per cent, to 53,185.90. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-closes-lower-as-oil-prices-jump-indexes-notch-monthly-gains",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bb055d6deff3c4603a2ed8c12f5d974ef9d3bee7dc039400e28e77d7cb708ef5",
+      "publishedAt": "2026-08-31T20:56:04Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
-      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
-      "url": "https://www.dailycamera.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
-      "publishedAt": "2026-08-31T13:52:23Z",
+      "title": "Oil prices rise and stocks fall after U.S. hits Iranian sites in the Strait of Hormuz",
+      "description": "Oil prices rose and U.S. stocks fell after American forces struck Iranian rocket launchers on the Strait of Hormuz, marking the first military action in a month",
+      "url": "https://www.latimes.com/world-nation/story/2026-08-31/oil-prices-rise-stocks-fall-after-u-s-hits-iranian-sites-in-strait-of-hormuz",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/c384610/2147483647/strip/true/crop/8329x4373+0+590/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5b%2Fec%2F041f8f044d16970f9193364761c9%2Ffc6f5a1bac01495fb3edc6f6a39ce65f.jpg",
+      "publishedAt": "2026-08-31T20:52:48Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
-      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
-      "url": "https://www.pressdemocrat.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
-      "publishedAt": "2026-08-31T13:52:23Z",
+      "title": "Canadian, U.S. markets fall as oil prices rise amid geopolitical tensions",
+      "description": "TORONTO \u2014 Canadian and U.S. stock markets fell and oil prices rose on Monday after the U.S. launched its first military action in a month against Iran. U.S. forces struck Iranian rocket launchers on the Strait of Hormuz on Sunday.",
+      "url": "https://www.vancouverisawesome.com/national-business/canadian-us-markets-fall-as-oil-prices-rise-amid-geopolitical-tensions-12724690",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/08/5bfe518aecd9d51f5ba5f13e35af41dbac16716d6a201e8a29f648e7e0cee2ef.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-08-31T20:43:52Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "Vancouver Is Awesome"
       }
     },
     {
-      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
-      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
-      "url": "https://www.ocregister.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
-      "publishedAt": "2026-08-31T13:52:23Z",
+      "title": "US STOCKS-Wall Street closes lower as oil prices jump, indexes notch monthly gains",
+      "description": "Read more about US STOCKS-Wall Street closes lower as oil prices jump, indexes notch monthly gains on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3970300-us-stocks-wall-street-closes-lower-as-oil-prices-jump-indexes-notch-monthly-gains",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-08-31T20:28:15Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
-      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
-      "url": "https://www.readingeagle.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
-      "publishedAt": "2026-08-31T13:52:23Z",
+      "title": "US stocks today: US stocks close lower as oil prices jump, indexes notch monthly gains",
+      "description": "US stocks declined on Monday as oil prices surged. This jump revived inflation concerns and increased monetary policy tightening expectations. Investors processed hawkish comments from Federal Reserve Chair Kevin Warsh. Despite the day's losses, major indexes posted monthly gains for August. Financial markets anticipate a potential rate hike at September's meeting.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-wall-street-closes-lower-as-oil-prices-jump-indexes-notch-monthly-gains/articleshow/133662681.cms",
+      "image": "https://img.etimg.com/thumb/msid-133662694,width-1200,height-630,imgsize-70806,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-31T20:08:00Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "The Economic Times"
       }
     }
   ]
