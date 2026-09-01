@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-08-31T22:10:56+00:00",
+  "updated_at": "2026-09-01T02:37:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "How Venezuela Oil Agreement Could Affect Fuel Costs",
-      "description": "Gas prices are falling in Minnesota and across the country. See what changed this week and what experts expect next.",
-      "url": "https://kdhlradio.com/ixp/67/p/minnesota-gas-prices-drop-13-cents/",
-      "image": "https://townsquare.media/site/67/files/2026/05/attachment-gettyimages-72907293.jpg?w=1200&q=75&format=natural",
-      "publishedAt": "2026-08-31T10:07:16Z",
+      "title": "Ahead of Labor Day, Mideast fighting resumes and oil prices surge",
+      "description": "It was unclear how much the latest Middle East strikes would affect average gas prices.",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/08/31/gas-prices-michigan-strikes-iran-venezuela/91544701007/",
+      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/04/30/PDTF/89872928007-04282026-gas-prices-drm-001.jpg?crop=2399,1351,x0,y124&width=2399&height=1351&format=pjpg&auto=webp",
+      "publishedAt": "2026-08-31T14:33:44Z",
       "source": {
-        "name": "kdhlradio.com"
+        "name": "Detroit Free Press"
       }
     },
     {
-      "title": "Oil Prices Jump Over 3% After US Strikes Iran, Tehran Retaliates",
-      "description": "Brent crude rises to $91.25 as renewed US-Iran attacks fuel concerns over oil supplies and shipping through the Strait of Hormuz.",
-      "url": "https://www.outlookindia.com/international/oil-prices-jump-over-3-after-us-strikes-iran-tehran-retaliates",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-08-31/wdftg3q0/fdc5566965a64ab38f4051d96521f1e6.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-08-31T10:05:38Z",
+      "title": "Trump criticised as he claims oil and gas prices will plummet - just as soon as Iran war is won",
+      "description": "US president Donald Trump has sparked a fresh wave of criticism online, after telling Fox News that oil and gas prices are 'going to go down' once America wins the war in Iran 'completely'. This is despite the 80-year-old telling a crowd in Kentucky that the US had 'won' back in March, and posting the words 'mission accomplished' online in August.",
+      "url": "https://www.indy100.com/politics/trump/trump-iran-war-oil-gas-prices",
+      "image": "https://www.indy100.com/media-library/donald-trump-speaks-to-reporters-outside-the-white-house.jpg?id=67701582&width=1200&height=600&coordinates=0%2C112%2C0%2C221",
+      "publishedAt": "2026-08-31T14:31:40Z",
       "source": {
-        "name": "Outlook India"
+        "name": "indy100"
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12704263",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-8-25goodmorningnorthbaybct-6-lemonade-stand-on-the-corner-of-marshall-and-mulligan-north-bay-cayley-seburn(1).png;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-08-31T10:00:00Z",
+      "title": "Oil prices jump 3% to over $90 after US, Iran fire strikes for first time in a month",
+      "description": "Oil prices on Monday jumped 3% \u2013 back above $90 a barrel \u2013 after the US and Iran exchanged strikes for the first time in a month.",
+      "url": "https://nypost.com/2026/08/31/business/oil-prices-jump-3-to-over-90-after-us-iran-fire-strikes-for-first-time-in-a-month/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/139076741.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-08-31T13:59:16Z",
       "source": {
-        "name": "BayToday"
+        "name": "New York Post"
       }
     },
     {
-      "title": "US stock index futures dip as Middle East strikes worsen inflation fears",
-      "description": "WALL Street futures were under pressure early on Monday after the U.S. and Iran resumed military attacks, pushing oil prices higher and aggravating inflation concerns at a time when the interest-rate outlook has turned more hawkish.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/08/31/us-stock-index-futures-dip-as-middle-east-strikes-worsen-inflation-fears",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/08/31/4086640.jpg",
-      "publishedAt": "2026-08-31T09:54:00Z",
+      "title": "Labor Day gas prices: National record possible this weekend, AAA says",
+      "description": "Pennsylvania's average gas price has climbed to $4.22 a gallon, nearly a dollar above last year's holiday weekend average.",
+      "url": "https://www.pennlive.com/news/2026/08/filling-up-this-labor-day-weekend-is-going-to-cost-almost-1-more-per-gallon-than-last-year.html",
+      "image": "https://www.pennlive.com/resizer/v2/EJEDQTSR2JFXRK3WNXJWYS4E7A.jpg?auth=77b059eb0d9f71411724f7df09b542fc5f78fc48d1694d4e89d5c196c37f3231&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-08-31T13:57:26Z",
       "source": {
-        "name": "The Star"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "Supreme Court Rejects Plea Seeking Disclosure of Ethanol Percentage in Blended Petrol",
-      "description": "The plea by Goswami sought directions to the Centre to ensure that the ethanol content of petrol is disclosed to consumers at fuel stations. Goswami argued that such disclosure would enable consumers to make informed choices about the fuel they purchase.",
-      "url": "https://www.newsx.com/india/supreme-court-rejects-plea-seeking-disclosure-of-ethanol-percentage-in-blended-petrol-266626/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/08/sc-no-fuel.jpg",
-      "publishedAt": "2026-08-31T09:48:48Z",
+      "title": "US stocks slip after Gulf clashes lift crude oil prices",
+      "description": "The Dow Jones Industrial Average fell 0.18%, the S&P 500 fell 0.18%, the Nasdaq Composite dropped 0.17%",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stocks-slip-after-gulf-clashes-lift-crude-oil-prices-11788183602281.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/08/31/1600x900/wallstreet4_1788184388252_1788184408349_ee6d4ad7-ec8a-41fc-bd85-4075f5883a83.jpg",
+      "publishedAt": "2026-08-31T13:57:00Z",
       "source": {
-        "name": "NewsX"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Consumption, power capex to drive markets despite higher oil prices: Elara",
-      "description": "Bino Pathiparampil, Head of Research at Elara Securities, expects growth in FMCG, pharma, hotels, retail and online platforms to continue, while higher oil prices remain a key risk. IT stocks may consolidate, but AI-related deal wins could trigger a fresh re-rating.",
-      "url": "https://www.cnbctv18.com/market/consumption-power-capex-market-growth-higher-oil-prices-elara-19980451.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/sensex-nifty-markets-stocks-bse-nse-aug25-2026-08-bfb11edf48e3e18e65d8a8c0f6b8cb35.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-08-31T09:42:40Z",
+      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
+      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
+      "url": "https://www.pilotonline.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
+      "publishedAt": "2026-08-31T13:52:23Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "HMRC confirms three rates for drivers are being cut from Tuesday",
-      "description": "It comes as some petrol stations have been accused of failing to pass on reductions in wholesale prices swiftly enough",
-      "url": "https://www.chroniclelive.co.uk/news/cost-of-living/hmrc-confirms-three-rates-drivers-34544838",
-      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34544890.ece/ALTERNATES/s1200/0_GettyImages-2291241270.jpg",
-      "publishedAt": "2026-08-31T09:41:13Z",
+      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
+      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
+      "url": "https://www.dailycamera.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
+      "publishedAt": "2026-08-31T13:52:23Z",
       "source": {
-        "name": "Evening Chronicle"
+        "name": "Boulder Daily Camera"
       }
     },
     {
-      "title": "HMRC confirms three rates for drivers are being cut from Tuesday",
-      "description": "It comes as some petrol stations have been accused of failing to pass on reductions in wholesale prices swiftly enough",
-      "url": "https://www.dailypost.co.uk/news/motoring/motoring-news/hmrc-confirms-three-rates-drivers-34544838",
-      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34544890.ece/ALTERNATES/s1200/0_GettyImages-2291241270.jpg",
-      "publishedAt": "2026-08-31T09:41:13Z",
+      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
+      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
+      "url": "https://www.pressdemocrat.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
+      "publishedAt": "2026-08-31T13:52:23Z",
       "source": {
-        "name": "Daily Post"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "HMRC confirms three rates for drivers are being cut from Tuesday",
-      "description": "It comes as some petrol stations have been accused of failing to pass on reductions in wholesale prices swiftly enough",
-      "url": "https://www.walesonline.co.uk/news/cost-of-living/hmrc-confirms-three-rates-drivers-34544838",
-      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34544890.ece/ALTERNATES/s1200/0_GettyImages-2291241270.jpg",
-      "publishedAt": "2026-08-31T09:41:13Z",
+      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
+      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
+      "url": "https://www.ocregister.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
+      "publishedAt": "2026-08-31T13:52:23Z",
       "source": {
-        "name": "South Wales Echo"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "HMRC confirms three rates for drivers are being cut from Tuesday",
-      "description": "It comes as some petrol stations have been accused of failing to pass on reductions in wholesale prices swiftly enough",
-      "url": "https://www.cambridge-news.co.uk/news/motors/hmrc-confirms-three-rates-drivers-34544838",
-      "image": "https://i2-prod.liverpoolecho.co.uk/incoming/article34544890.ece/ALTERNATES/s1200/0_GettyImages-2291241270.jpg",
-      "publishedAt": "2026-08-31T09:41:13Z",
+      "title": "Oil prices rise, stocks fall after US hits Iranian sites in strait",
+      "description": "The price of oil is rising and U.S. stocks are falling after American forces struck Iranian rocket launchers on the Strait of Hormuz.",
+      "url": "https://www.readingeagle.com/2026/08/31/oil-prices-stocks-strait-of-hormuz/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/08/Financial_Markets_Wall_Street__5846.jpg?w=1999&h=1333",
+      "publishedAt": "2026-08-31T13:52:23Z",
       "source": {
-        "name": "Cambridge Evening News"
+        "name": "Reading Eagle"
       }
     }
   ]
