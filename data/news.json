@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-02T15:36:26+00:00",
+  "updated_at": "2026-09-02T20:16:41+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee set to open lower as oil prices surge, US yields rise",
-      "description": "The rupee is expected to open lower on Wednesday as surging oil prices and US Treasury yields add pressure, testing gains supported by RBI intervention.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-set-to-open-lower-as-oil-prices-surge-us-treasury-yields-rise/article71418015.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/z7opg4/article71301037.ece/alternates/LANDSCAPE_1200/iStock-1276974393.jpg",
-      "publishedAt": "2026-09-02T03:25:29Z",
+      "title": "Iran strikes heighten supply fears",
+      "description": "Oil prices rose Wednesday as U.S.-Iran military strikes heightened Middle East tensions, threatening shipments through the Strait of Hormuz. Brent topped $95 a barrel amid supply disruption fears.",
+      "url": "https://www.bolnews.com/business/oil-prices-surge-as-us-iran-strikes-heighten-supply-fears/",
+      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-5-9.webp",
+      "publishedAt": "2026-09-02T08:09:18Z",
+      "source": {
+        "name": "BOL News"
+      }
+    },
+    {
+      "title": "Gold falls for 6th consecutive day on MCX, silver drops1.26% today amid higher crude oil prices",
+      "description": "On the MCX, the yellow metal futures for December 2026 were down by Rs 933 or 0.61 per cent to trade at Rs 1,52,360 per 10 grams in business turnover of 8506 lots.",
+      "url": "https://www.indiatvnews.com/business/markets/gold-falls-for-6th-consecutive-day-on-mcx-silver-falls-1-26-pc-today-amid-higher-crude-oil-prices-check-city-wise-rates-2026-09-02-1053045",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/goldsilver-2-1788335220.jpg",
+      "publishedAt": "2026-09-02T07:50:01Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "Hero MotoCorp, Eicher Motors lead auto stocks lower: Why?",
+      "description": "Auto stocks, led by Hero MotoCorp and Eicher Motors, decline despite strong August sales amid rising crude oil prices.",
+      "url": "https://www.thehindubusinessline.com/markets/hero-motocorp-eicher-motors-fall-despite-strong-august-sales/article71418612.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/rmq2k3/article71301232.ece/alternates/LANDSCAPE_1200/2026-07-14T150822Z_1612873438_RC2RDMA0Y2F7_RTRMADP_3_ATHER-ENERGY-INVESTMEMT-HERO-MOTOCORP.JPG",
+      "publishedAt": "2026-09-02T07:46:14Z",
       "source": {
         "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Stock Market Live Updates Today: Indian shares set to fall as Iran conflict pushes oil prices higher",
-      "description": "Indian markets are likely to open weak as surging oil prices and rising global yields weigh on investor sentiment amid the escalating Iran conflict.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-2-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/133696473.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133696473,width-1280,height-720,imgsize-664728,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-02T03:25:01Z",
+      "title": "Markets sink mid-session; auto stocks bleed as crude surges",
+      "description": "Sensex fell 517 points and Nifty 190 points at 1:05 p.m. as crude oil prices surged, Treasury yields stayed elevated and selling broadened.",
+      "url": "https://www.thehindubusinessline.com/markets/markets-sink-mid-session-auto-stocks-bleed-as-crude-surges/article71418626.ece",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/gqznf0/article71412726.ece/alternates/LANDSCAPE_1200/Edit_second-leaGB4GFHDJC.3.jpg.jpg",
+      "publishedAt": "2026-09-02T07:46:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "US energy chief says Venezuela oil output to more than double in next few years",
-      "description": "US Energy Secretary Chris Wright said oil deals expected to be signed in Caracas could more than double Venezuelas crude production within the next few years. Visiting Venezuela for the second time since Nicolas Maduros capture in January, Wright also said US gasoline prices should decline as refining capacity and regulations improve.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-energy-chief-says-venezuela-oil-output-to-more-than-double-in-next-few-years/articleshow/133696438.cms",
-      "image": "https://img.etimg.com/thumb/msid-133696451,width-1200,height-630,imgsize-44322,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-02T03:23:00Z",
+      "title": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors",
+      "description": "Global bond yields are surging as oil-driven inflation, rising debt, heavy AI borrowing and hawkish central-bank expectations unsettle markets. With US, Japanese and Indian yields climbing, the bond selloff is spilling into equities and emerging markets. For India, higher oil prices could add to imported inflation, pressure the rupee, lift borrowing costs and constrain monetary easing.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/explained-how-multi-decade-high-global-bond-yields-spell-caution-for-indian-stock-market-investors/articleshow/133702453.cms",
+      "image": "https://img.etimg.com/thumb/msid-133702751,width-1200,height-630,imgsize-2266945,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-02T07:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "WRAPUP 1-Bond selloff deepens as inflation, oil prices jolt markets",
-      "description": "Read more about WRAPUP 1-Bond selloff deepens as inflation, oil prices jolt markets on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3971098-wrapup-1-bond-selloff-deepens-as-inflation-oil-prices-jolt-markets",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-02T03:09:27Z",
+      "title": "OMCs can absorb $85-90 crude, sustained $100 may trigger petrol, diesel price hike",
+      "description": "While no price increase is being considered right now, a sustained rise in prices above $95-100 could potentially force a rethink on retail fuel prices, say sources",
+      "url": "https://www.moneycontrol.com/news/business/economy/omcs-can-absorb-85-90-crude-sustained-100-may-trigger-petrol-diesel-price-hike-14020725.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2020/07/petroldieselpetrol-pumpfuel-station.jpg",
+      "publishedAt": "2026-09-02T07:36:52Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Bajaj Auto to Info Edge - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
-      "description": "Indian equity indices are set to open muted on September 2, influenced by high crude oil prices and weak global cues. Nifty 50 ended below 24,100, with technical indicators suggesting cautious trading ahead. Analysts recommend specific stocks for futures trading based on recent market trends.",
-      "url": "https://www.livemint.com/market/stock-market-news/bajaj-auto-to-info-edge-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11788316113751.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/DSC02469_1737528551670_1788317531703_cdec0b05-1ddf-4e7f-a5e6-a85989fde896.jpg",
-      "publishedAt": "2026-09-02T02:55:22Z",
+      "title": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5%",
+      "description": "Global bond yields are hitting multi-year highs, with the US 10-year yield nearing 5% amid rising oil prices, inflation fears and concerns over government debt. Indian 10-year yields also crossed 7%, raising concerns about the impact of higher borrowing costs and shifting investor preference on equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bigger-market-crash-ahead-analysts-weigh-how-sensex-nifty-may-react-if-us-10-year-bond-yield-touches-5/articleshow/133702065.cms",
+      "image": "https://img.etimg.com/thumb/msid-133702146,width-1200,height-630,imgsize-2481858,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-02T07:28:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Rise For Third Session: US-Iran Strikes Deepen Hormuz Risks; Brent Above $95, WTI Over $91",
-      "description": "Oil prices rise for a third straight session as fresh US-Iran strikes deepen Strait of Hormuz supply risks, with Brent above $95 and WTI above $91.",
-      "url": "https://www.newsx.com/world/oil-prices-rise-for-third-session-us-iran-strikes-deepen-hormuz-risks-brent-above-95-wti-over-91-267231/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/oil-prices.jpg",
-      "publishedAt": "2026-09-02T02:49:09Z",
+      "title": "Some airlines will \u2018struggle to survive\u2019 if oil prices stay high, warns Ryanair",
+      "description": "Ryanair also cut its air traffic target for next year on the back of efforts to use less unhedged fuel over the winter period.",
+      "url": "https://www.kentonline.co.uk/news/national/some-airlines-will-struggle-to-survive-if-oil-prices-stay-high-warns-ryanair-171204/",
+      "image": "https://www.kentonline.co.uk/_media/img/XNGRB1LYAGBUSWP0ZBHQ.jpg",
+      "publishedAt": "2026-09-02T07:14:52Z",
       "source": {
-        "name": "NewsX"
+        "name": "Kent Online"
       }
     },
     {
-      "title": "Oil prices jump 1% as US-Iran strikes deepen fears of supply disruption",
-      "description": "India Business News: Oil prices extended their sharp rally on Wednesday, rising nearly 1 per cent in early trade as the latest US-Iran military escalation heightened fears.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/oil-prices-jump-1-as-us-iran-strikes-deepen-fears-of-supply-disruption/articleshow/133695797.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133695895,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-02T02:46:00Z",
+      "title": "Gold Falls Rs 1,559 As Iran-US Conflict Fuels Rate Hike Fears",
+      "description": "Gold Extends Losing Streak As Higher Oil Prices Stoke Inflation Concerns",
+      "url": "https://www.deccanchronicle.com/business/economics/gold-falls-rs-1559-as-iran-us-conflict-fuels-rate-hike-fears-1984233",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/30/2070356-gold.jpg",
+      "publishedAt": "2026-09-02T07:09:10Z",
       "source": {
-        "name": "Times of India"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Oil prices climb as US-Iran strikes fuel fresh supply disruption fears",
-      "description": "Brent crude futures rose 87 cents, or 0.92%, \u200cto $95.52 a barrel by 0008 GMT, while US West Texas Intermediate crude futures climbed 80 cents, or 0.89%, to $91.02",
-      "url": "https://www.business-standard.com/world-news/oil-prices-climb-as-us-iran-strikes-fuel-fresh-supply-disruption-fears-126090200080_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/12/thumb/featurecrop/1200X628/1781286672-8998.jpg",
-      "publishedAt": "2026-09-02T02:45:12Z",
+      "title": "Gold Futures Extend Fall For Seventh Day, Slip To \u20b91.5 Lakh/10g Amid US-Iran Tensions",
+      "description": "Gold futures fell for a seventh straight session to Rs 1.5 lakh per 10 grams as US-Iran tensions lifted oil prices and fuelled inflation and rate concerns.",
+      "url": "https://www.freepressjournal.in/business/gold-futures-extend-fall-for-seventh-day-slip-to-15-lakh10g-amid-us-iran-tensions",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-02/cemcabtu/gold-drops.png",
+      "publishedAt": "2026-09-02T06:58:36Z",
       "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Buying Qantas shares? Here's what happened with the ASX 200 airline in August",
-      "description": "Qantas Airways Ltd (ASX: QAN) shares were in sharp focus in August amid turbulent oil prices and the company\u2019s FY26 results release.",
-      "url": "https://www.fool.com.au/2026/09/02/buying-qantas-shares-heres-what-happened-with-the-asx-200-airline-in-august/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2021/11/plane-16_9-1200x675.jpg",
-      "publishedAt": "2026-09-02T02:43:40Z",
-      "source": {
-        "name": "The Motley Fool Australia"
-      }
-    },
-    {
-      "title": "Aussie shares dive as war lifts oil prices, bond yields",
-      "description": "Australian shares are tumbling as oil prices surge on renewed US-Iran strikes, heightening inflation fears and rattling an already shaky bond market.",
-      "url": "https://www.perthnow.com.au/news/business/aussie-shares-dive-as-war-lifts-oil-prices-bond-yields-c-22810579",
-      "image": "https://images.perthnow.com.au/publication/C-22810579/8dd3c1f113dad3124605ac4b5c4fe5a74973c990-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-09-02T02:36:46Z",
-      "source": {
-        "name": "PerthNow"
+        "name": "Free Press Journal"
       }
     }
   ]
