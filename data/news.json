@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-03T15:28:02+00:00",
+  "updated_at": "2026-09-03T20:16:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Crude Oil At $96 Amid Fresh US-Iran Strikes: What It Means For Your Petrol, Groceries And Travel",
-      "description": "US President Donald Trump said the renewed U.S. campaign against Iran would not continue for \"too long\". He said U.S. forces had targeted Iran's radar and missile systems., Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-at-96-amid-fresh-us-iran-strikes-what-it-means-for-your-petrol-groceries-and-travel-article-156033801",
-      "image": "https://images.timesnownews.com/thumb/msid-156033809,thumbsize-53532,width-1280,height-720,resizemode-75/156033809.jpg",
-      "publishedAt": "2026-09-03T03:24:02Z",
+      "title": "Mint explainer: how is the current crude oil volatility affecting India's energy security playbook?",
+      "description": "Brent crude has crossed $95 a barrel as the West Asia war escalates. Here\u2019s how rising oil prices, disrupted supply routes and higher consumption could affect India\u2019s economy and energy security.",
+      "url": "https://www.livemint.com/news/crude-oil-prices-west-asia-war-india-economy-energy-security-11788414147091.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/crude_oil_1697775793536_1788415760610_77aa529a-b308-4719-af74-2ea8180f4e5f_e6c5e23b-09ce-4c8f-8f6d-4d188e20d9d2_29fc4369-341a-4096-999c-5b2e9c4dce6c.jpg",
+      "publishedAt": "2026-09-03T07:23:14Z",
       "source": {
-        "name": "Times Now"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Woman's neighbour pours petrol, son sets her on fire amid court-ordered eviction",
-      "description": "A police officer was also injured when he rushed to save the woman. The eviction was ordered by a court in a legal dispute over a plot.",
-      "url": "https://www.indiatoday.in/cities/other-cities/story/jharkhand-woman-sets-self-on-fire-amid-court-ordered-eviction-in-chatra-2985872-2026-09-03",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/jharkhand-035400337-16x9_0.jpeg?VersionId=NxzcYWyInq0wMxFLC3rTxjs.uN1eM6vs",
-      "publishedAt": "2026-09-03T03:18:12Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Oil prices edge lower as markets weigh renewed US-Iran supply risks",
-      "description": "Brent crude fell 0.45% to $95.20 a barrel while WTI slipped 0.26% to $90.77 as investors weighed the risk of renewed US-Iran strikes disrupting West Asian supplies",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-edge-lower-as-markets-weigh-renewed-us-iran-supply-risks-126090300067_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/11/thumb/fitandfill/1200X628/1726075853-8139.jpg",
-      "publishedAt": "2026-09-03T02:43:39Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Petrol price hits Rs346 per litre",
-      "description": "ISLAMABAD\u00a0 -\u00a0 The government on Wednesday increased petrol and high-speed diesel (HSD) prices by Rs2.29 and Rs1.11 per litre, respectively, effective Sept 3.",
-      "url": "https://www.nation.com.pk/03-Sep-2026/petrol-price-hits-rs346-per-litre",
-      "image": "https://www.nation.com.pk/print_images/large/2026-09-03/petrol-price-hits-rs346-per-litre-1788403062-6271.jpg",
-      "publishedAt": "2026-09-03T02:37:00Z",
-      "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "GIFT Nifty jumps 125 pts, signals positive start for Sensex, Nifty; Asian rebound, softer oil lend support",
-      "description": "GIFT Nifty jumped on Thursday morning, pointing to a positive opening for Sensex and Nifty after three days of declines. The Asian market rebound, Wall Street gains, and a modest retreat in crude oil provide support, but still elevated oil prices may keep investors on alert.",
-      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-jumps-125-pts-signals-positive-start-for-sensex-nifty-asian-rebound-softer-oil-lend-support-14021370.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260615045907_up.jpeg",
-      "publishedAt": "2026-09-03T02:36:01Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Oil prices edge lower as investors weigh US-Iran strike risks",
-      "description": "Brent slips 0.45% after latest exchange of fire; Hormuz traffic stays below average",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-prices-edge-lower-as-investors-weigh-us-iran-strike-risks/article71422189.ece",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/funhuo/article71379030.ece/alternates/LANDSCAPE_1200/Crude-Check_-BuG5DGEAJ0S.4.jpg.jpg",
-      "publishedAt": "2026-09-03T02:31:10Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Oil price today: Crude continues to trade beyond $95 per barrel amid Hormuz supply tensions",
-      "description": "International Business News: Oil prices edged lower on Thursday after a volatile session, as investors assessed the latest US-Iran strikes and their impact on oil supplies through.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-price-today-crude-continues-to-trade-beyond-95-per-barrel-amid-hormuz-supply-tensions/articleshow/133723230.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133723284,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-03T02:04:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "seater SUV and Tata Nexon rival in India by 2028",
-      "description": "Honda Cars India is reportedly expanding its SUV portfolio with two new models, including a sub-4-metre compact SUV and a new 3-row 7-seater SUV. Both models are expected to be based on Honda's new modular platform called PF2, and could support petrol, strong-hybrid and electric powertrains.",
-      "url": "https://www.indiatvnews.com/auto/honda-to-launch-new-7-seater-suv-and-tata-nexon-rival-in-india-by-2028-2026-09-02-1053080",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/tata-nexon-1788350046.jpg",
-      "publishedAt": "2026-09-03T02:00:02Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "Oil edges down as investors weigh uncertainty over U.S.-Iran strikes",
-      "description": "On Thursday, oil prices dropped slightly amid escalating military tensions. Investors are closely monitoring the hostilities between the United States and Iran, as recent clashes mark the most significant skirmishes since July, raising global supply concerns. Nevertheless, by midday Wednesday, initial signs of easing tensions appeared, with shipping data revealing a minor decrease in traffic through the Strait of Hormuz.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-edges-down-as-investors-weigh-uncertainty-over-u-s-iran-strikes/articleshow/133723219.cms",
-      "image": "https://img.etimg.com/thumb/msid-133723221,width-1200,height-630,imgsize-83084,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-03T01:57:00Z",
+      "title": "India bonds gain as RBI FX inflows lift liquidity, spur short-term debt buying",
+      "description": "Indian government bonds saw gains early Thursday, led by shorter-term debt. Larger dollar inflows boosted rupee liquidity and improved sentiment for Indian assets. Banks raised significant foreign currency, adding to domestic liquidity for several years. This influx strengthened India's ability to support the rupee and domestic markets. Elevated oil prices and US Treasury yields continued to weigh on longer-dated bonds.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-gain-as-rbi-fx-inflows-lift-liquidity-spur-short-term-debt-buying/articleshow/133728502.cms",
+      "image": "https://img.etimg.com/thumb/msid-133728581,width-1200,height-630,imgsize-443063,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-03T07:07:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Petrol and diesel prices today, 3 Sep: How costly is fuel in Delhi, Mumbai, Bengaluru as Crude price eases",
-      "description": "Petrol and diesel prices today: Brent crude prices fell to $95.10, while West Texas Intermediate dropped to $90.66 amid geopolitical tensions. Check petrol and diesel prices today in Delhi, Mumbai, Bengaluru and other cities.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-3-sep-how-costly-is-fuel-in-delhi-mumbai-bengaluru-as-crude-price-eases-11788395987356.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/hh_1788396502595_925ee829-eb34-474d-b52c-688df414d976_1788396534054_4eecd00d-d237-4780-af1d-e8a04da39d14_15867be4-8ac6-40dd-8f54-e83bd985efc4_18345e60-99ab-4f0c-a412-a2ef5db60c24.jpg",
-      "publishedAt": "2026-09-03T01:50:43Z",
+      "title": "Stocks to buy: Nagaraj Shetti recommends eClerx Services, UNO Minda shares to buy in the short-term",
+      "description": "Domestic indices Nifty 50 and Sensex each gained 0.35% on September 3, supported by banking stocks that raised $136.4 billion. Oil prices eased slightly, while global cues influenced a cautious market, following recent geopolitical developments and prior declines in both indices.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-eclerx-services-uno-minda-shares-to-buy-in-the-shortterm-11788417509077.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/Nagaraj_Shetti_1749711299401_1788417852409_8cb5bc8a-0db2-4a35-9ca8-c0c20730abc7_fdf26c40-6300-41ac-8921-4851e0ffa688_f46f34f9-15e7-41f7-9704-c7c65b5dc8e5.jpeg",
+      "publishedAt": "2026-09-03T06:58:34Z",
       "source": {
         "name": "Livemint"
+      }
+    },
+    {
+      "title": "EVs outsell petrol cars for the first time",
+      "description": "Government subsidies and an influx of cheap Chinese models led more Australians to buy an electric vehicle in August than any other month on record.",
+      "url": "https://www.afr.com/policy/energy-and-climate/evs-outsell-petrol-cars-for-the-first-time-20260903-p60u5k",
+      "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/35f5eb875b3c520973ca881a42629386768c18b0d4b4017cfedad9c8d45d4e94",
+      "publishedAt": "2026-09-03T06:15:29Z",
+      "source": {
+        "name": "Australian Financial Review"
+      }
+    },
+    {
+      "title": "Bitcoin hovers near $77,000 as oil surge, geopolitical risks pressure crypto; can it reclaim $78,000?",
+      "description": "Bitcoin hovers near $77,000 amid rising oil prices and geopolitical risks. With $76,400 as key support, investors watch whether BTC can reclaim the crucial $78,000 level.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-77-000-as-oil-surge-geopolitical-risks-pressure-crypto-can-it-reclaim-78-000-14021611.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260903054713_Bitcoin-price-on-Sept-3-representative-image.png",
+      "publishedAt": "2026-09-03T05:47:22Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
+      "description": "Brent crude, the international standard, fell 0.4% to USD 95.26 per barrel. Benchmark US crude shed 0.1% to USD 90.84 a barrel.",
+      "url": "https://www.newindianexpress.com/business/2026/Sep/03/oil-prices-edge-lower-while-asian-shares-rise-tracking-wall-street-gains-2",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-03%2Fd5rigj7h%2FAP26239535603913.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-09-03T05:44:35Z",
+      "source": {
+        "name": "The New Indian Express"
+      }
+    },
+    {
+      "title": "\u2018Trump Strait\u2019 For Strait Of Hormuz? Trump Floats New Name As US-Iran Rages On, White House Reacts",
+      "description": "Trump suggests renaming the Strait of Hormuz as \u201cTrump Strait\u201d as US-Iran strikes intensify, oil prices rise and tensions threaten global energy supplies.",
+      "url": "https://www.newsx.com/world/trump-strait-for-strait-of-hormuz-trump-floats-new-name-as-us-iran-rages-on-white-house-reacts-267663/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/trump-strait.jpg",
+      "publishedAt": "2026-09-03T05:36:12Z",
+      "source": {
+        "name": "NewsX"
+      }
+    },
+    {
+      "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
+      "description": "HONG KONG (AP) \u2014 Oil prices slipped Thursday after recent gains, with Brent crude trading near $95 a barrel, while Asian shares advanced. U.S. futures edged hig",
+      "url": "https://wtop.com/world/2026/09/oil-prices-edge-lower-while-asian-shares-rise-tracking-wall-street-gains/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/Japan_Financial_Markets_6_916-scaled.jpg",
+      "publishedAt": "2026-09-03T05:31:39Z",
+      "source": {
+        "name": "WTOP"
+      }
+    },
+    {
+      "title": "BREAKING: Bitcoin Jumps as Trump Discusses to Declare US-Iran War Over",
+      "description": "Bitcoin rises further above $77,500 as President Trump discusses with aides to declare US-Iran war over amid concerns over rising oil prices.",
+      "url": "https://coingape.com/bitcoin-jumps-as-trump-discusses-to-declare-us-iran-war-over/",
+      "image": "https://coingape.com/wp-content/uploads/2026/04/BREAKING-Bitcoin-Price-Rises-as-President.webp",
+      "publishedAt": "2026-09-03T05:24:29Z",
+      "source": {
+        "name": "CoinGape"
+      }
+    },
+    {
+      "title": "U.S. strike on Iranian wedding kills four, triggers region",
+      "description": "Iran launched retaliatory strikes on multiple U.S. military bases after a U.S. attack killed four civilians at a wedding in Hormozgan Province. The U.S. denied targeting civilians and claimed no American casualties resulted from the Iranian barrage. Oil prices surged above $95 per barrel as Strait of Hormuz disruptions intensified. The conflict has killed over [\u2026]",
+      "url": "https://www.naturalnews.com/2026-09-03-us-strike-iranian-wedding-region-missile-barrage.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/uk-diplomatic-withdrawal-iran-us-airstrikes-2930-original.jpg",
+      "publishedAt": "2026-09-03T05:08:22Z",
+      "source": {
+        "name": "Natural News"
       }
     }
   ]
