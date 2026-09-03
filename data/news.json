@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-03T02:03:18+00:00",
+  "updated_at": "2026-09-03T10:22:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "From petrol pump attendant to Dylan-feted rocker and Judd Apatow muse: the delightfully unlikely life of Graham Parker",
-      "description": "Fifty years ago Parker was hailed as rock\u2019s next big thing, but he picked a different path: cult records, a Hollywood diversion, an aversion to stardom. Ahead of a UK tour, he looks back at his strange trajectory",
-      "url": "https://www.theguardian.com/music/2026/sep/02/pop-rocker-graham-parker-interview",
-      "image": "https://i.guim.co.uk/img/media/5dbc1af83de7d4161c3d1604b2a20cd559e4c558/178_69_2414_1931/master/2414.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f52d249a1e32339875488cd537a6af7e",
-      "publishedAt": "2026-09-02T14:00:26Z",
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "description": "U.S. stocks snapped a three-day losing streak Wednesday as gains by big technology companies and relatively steady oil prices and bond yields helped lift the ma",
+      "url": "https://wtop.com/world/2026/09/asian-shares-decline-after-stocks-slip-on-wall-street-while-global-bond-sell-off-intensifies/",
+      "image": "https://wtop.com/wp-content/uploads/2026/09/South_Korea_Financial_Markets__3472-scaled.jpg",
+      "publishedAt": "2026-09-02T21:23:21Z",
       "source": {
-        "name": "The Guardian"
+        "name": "WTOP"
       }
     },
     {
-      "title": "US stocks today: US stocks drift amid jobs data, Iran war escalation",
-      "description": "US stocks traded mixed as investors assessed fresh US jobs data and escalating attacks between the US and Iran. The S&P 500 gained 0.1%, while the Dow rose 0.4% and Nasdaq slipped 0.1%. Oil prices held steady as the conflict disrupted shipments through the Strait of Hormuz.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-drift-amid-jobs-data-iran-war-escalation/articleshow/133712281.cms",
-      "image": "https://img.etimg.com/thumb/msid-133712281,width-1200,height-630,imgsize-130504,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-02T13:44:00Z",
+      "title": "High Gas Prices May Stick Around For A While: What To Know",
+      "description": "Seasonal savings with the switch to winter-blend gas face powerful headwinds, and experts say meaningful relief may remain months away.",
+      "url": "https://patch.com/us/across-america/high-gas-prices-may-stick-around-while-what-know",
+      "image": "https://patch.com/img/cdn20/ap/790386/20260902/050327/styles/patch_image/public/ap26063640271622___02165543874.jpg",
+      "publishedAt": "2026-09-02T21:03:28Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Joliet, IL Patch"
       }
     },
     {
-      "title": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
-      "description": "Stocks are drifting on Wall Street amid the latest updates on the U.S. jobs market and further escalation in the U.S. war with Iran. The S&P 500 index rose 0.1% Wednesday. The Dow Jones Industrial Average rose 189 points, or 0.4%. The Nasdaq composite fell 0.1%. Oil prices held steady as the U.S. and Iran intensify attacks against each other. That follows a monthlong lull in the six-month long conflict that has curtailed global oil shipments through the vital Strait of Hormuz. The jobs market is in focus this week. A private monthly report from ADP showed that employment slipped in August.",
-      "url": "https://www.ajc.com/news/2026/09/world-shares-extend-losses-while-the-global-bond-sell-off-intensifies/",
-      "image": "https://images.ajc.com/resizer/v2/ZBFZFVLT3FDJRCBH5PKJ73R43Y.jpg?auth=5d7604e83cd7a71e1a5deda2e3ce5e9eede76eeabf464cd7ad89779e7594a0c8&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-02T13:41:35Z",
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "description": "Stocks rose on Wall Street as gains by big technology companies and relatively steady oil prices and bond yields helped boost the market after a downbeat start to the week.",
+      "url": "https://www.latimes.com/business/story/2026-09-02/wall-street-rises-as-tech-stocks-climb-oil-prices-bond-yields-hold-relatively-steady",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/534c631/2147483647/strip/true/crop/8423x4422+0+596/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Ff0%2F7ffc68424c07b7b75935421c113f%2F66c6a72429c044d2a9f0431a161f076e.jpg",
+      "publishedAt": "2026-09-02T20:54:54Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "High gas prices, heavy traffic: What to expect for Labor Day weekend travel in Colorado\u2019s mountains",
-      "description": "The unofficial end to summer is likely to bring heavy traffic to Colorado\u2019s mountains this Labor Day weekend, and filling up at the pump will cost motorists noticeably more than last year.\u00a0 Denver ranks No....",
-      "url": "https://www.aspentimes.com/news/colorado-labor-day-weekend-travel-high-gas-prices-heavy-traffic/",
-      "image": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2026/09/02133416/Gas-1024x682.jpg",
-      "publishedAt": "2026-09-02T13:35:31Z",
+      "title": "Venezuelan oil flows will lower gas prices in 12-24 months, Wright says in Caracas",
+      "description": "That timeline means relief would be too late to help Trump before the midterm elections. But it is also shorter than many experts expected.",
+      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4710555/venezuelan-oil-lower-gas-prices-12-24-months-wright-caracas/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/wright-rodriguez-palace-steps.jpg?resize=1200,683",
+      "publishedAt": "2026-09-02T20:49:00Z",
       "source": {
-        "name": "The Aspen Times"
+        "name": "Washington Examiner"
       }
     },
     {
-      "title": "Stock markets fall for 3rd day amid escalating tensions in West Asia, higher oil prices weigh",
-      "description": "Stock markets declined for the third consecutive day on Wednesday, with the benchmark Sensex closing nearly 374 points lower amid a bearish trend in global equities and higher oil prices due to escalating conflict in West Asia.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-fall-for-3rd-day-amid-escalating-tensions-in-west-asia-higher-oil-prices-weigh/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVmYzFiN2IwLWE2ZDItMTFmMS1hYjA2LTUzMzhlZGIwMWEwZS5qcGc=",
-      "publishedAt": "2026-09-02T13:29:45Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Ryanair warns air fares in Europe will rise next year if oil price stays high",
-      "description": "Airline warns some carriers could go bust. Ryanair said in a statement that in light of high unhedged oil prices it is sensible to strategically reduce the Group\u2019s exposure to unhedged jet fuel during the unprofitable winter schedule",
-      "url": "https://www.majorcadailybulletin.com/news/local/2026/09/02/145447/ryanair-warns-air-fares-europe-will-rise-next-year-oil-price-stays-high.html",
-      "image": "https://md.gsstatic.es/sfAttachPlugin/social/195075.webp",
-      "publishedAt": "2026-09-02T13:27:16Z",
-      "source": {
-        "name": "Majorca Daily Bulletin"
-      }
-    },
-    {
-      "title": "US stock futures mixed as oil rises, 10",
-      "description": "US stock futures were mixed as the 10-year Treasury yield hit 4.814%, its highest since November 2023, while oil prices climbed above $90 a barrel.",
-      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-futures-nasdaq-crude-oil-treasury-yield-19982543.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-22t170621073-2026-07-510eed23a4cf3322eda291581f8a042a.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-02T13:08:55Z",
+      "title": "Gujarat tea lovers hit by price hike, as Rajkot's cutting chai now costs \u20b915",
+      "description": "Explaining the reasons behind the increase in tea prices, traders said that the price of sugar has increased significantly over the past few days. In addition, coal had already become expensive. Gas prices have also increased. The salaries of people working at tea shops have also gone up. Besides this, milk prices increase every six to seven months. Keeping all these factors in mind, they were forced to increase the price of tea.",
+      "url": "https://www.cnbctv18.com/india/gujarat-tea-lovers-hit-by-price-hike-as-rajkots-cutting-chai-now-costs-rs-15-19982832.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/news18-gujarati-2026-09-ffdccba7839d3d500f78670fc3999909.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-02T20:42:27Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "Rising bond yields put pressure on the stocks powering the market",
-      "description": "Global bond yields are up sharply in recent weeks and US oil prices are near $90 per barrel. Now, the stock market is also starting to feel some pressure.",
-      "url": "https://edition.cnn.com/2026/09/02/investing/bond-market-stocks-ai",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-19t144118z-1378379553-rc2p1naxcsxr-rtrmadp-3-usa-stocks.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-02T13:05:05Z",
+      "title": "How major US stock indexes fared Wednesday 9",
+      "description": "Stocks rose on Wall Street as gains by big technology companies and relatively steady oil prices and bond yields helped boost the market after a downbeat start",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-wednesday-9-2-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon.png",
+      "publishedAt": "2026-09-02T20:39:24Z",
       "source": {
-        "name": "Cable News Network"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Rising bond yields put pressure on the stocks powering the market",
-      "description": "By John Towfighi, CNN New York (CNN) \u2014 Global bond yields are up sharply in recent weeks and US oil prices are near $90 per barrel. Now, the stock market is also starting to feel some pressure. The 10-year US Treasury yield rose above 4.81% early Wednesday and hit its highest level since October 2023.",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/02/rising-bond-yields-put-pressure-on-the-stocks-powering-the-market/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRrMWoxeTcwMDAwM2I2cnQ0OHN1bTQw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGltYW9qYzAwMXgyN3FqNWhydTZldzY-scaled.jpg",
-      "publishedAt": "2026-09-02T13:05:05Z",
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "description": "Stocks rose on Wall Street as gains by big technology companies and relatively steady oil prices and bond yields helped boost the market after a downbeat start to the week. Nvidia rallied more than 3% Wednesday, lifting the Dow Jones Industrial Average 0.6%. The S&P 500 and the Nasdaq composite both gained 0.5%. Brent crude settled up 1% at $95.63 as the Iran conflict continued. \u00a0Chevron edged 0.3% higher after confirming it will expand operations in Venezuela. The yield on the 10-year Treasury fell to 4.78% from 4.79% late Tuesday.",
+      "url": "https://www.ajc.com/news/2026/09/wall-street-rises-as-tech-stocks-climb-and-oil-prices-bond-yields-hold-relatively-steady/",
+      "image": "https://images.ajc.com/resizer/v2/ZBFZFVLT3FDJRCBH5PKJ73R43Y.jpg?auth=5d7604e83cd7a71e1a5deda2e3ce5e9eede76eeabf464cd7ad89779e7594a0c8&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-02T20:12:09Z",
       "source": {
-        "name": "ABC17News.com"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Oil prices rise as European gas climbs to highest level since 2023 after renewed attacks on Iran",
-      "description": "Oil prices surged on Tuesday, while European gas prices hit a three-year high, as renewed US strikes against Iran and Tehran\u2019s threats of retaliation raised fresh concerns over the Strait of \u2026",
-      "url": "https://www.middleeastmonitor.com/20260902-oil-prices-rise-as-european-gas-climbs-to-highest-level-since-2023-after-renewed-attacks-on-iran/",
-      "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-2-2026-01_31_07-PM-1.png?fit=920%2C613&ssl=1",
-      "publishedAt": "2026-09-02T12:45:50Z",
+      "title": "Wall Street rises as tech stocks climb and oil prices, bond yields hold relatively steady",
+      "description": "Stocks rose on Wall Street as gains by big technology companies and relatively steady oil prices and bond yields helped boost the market after a downbeat start to the week.",
+      "url": "https://www.vancouverisawesome.com/national-business/wall-street-rises-as-tech-stocks-climb-and-oil-prices-bond-yields-hold-relatively-steady-12733728",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/fd4985fc30d7a0be0a38738b733394f7ccffbe6087b0ef3df94a64ba10dfe07b.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-09-02T20:10:36Z",
       "source": {
-        "name": "Middle East Monitor"
+        "name": "Vancouver Is Awesome"
+      }
+    },
+    {
+      "title": "Bessent warns Iran\u2019s global supporters: \u2018Stay away\u2019 or \u2018we will put you out of business\u2019",
+      "description": "Bessent said the impact of the US pressure campaign is already being felt inside Iran. He pointed to hourslong queues at petrol stations, a sharply weakening currency, inflation above 100% and what he described as Iran\u2019s inability to pay its military personnel.",
+      "url": "https://www.livemint.com/news/us-news/bessent-warns-iran-s-global-supporters-stay-away-or-we-will-put-you-out-of-business-11788376568486.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/tehran_1788377621434_00d65fbb-cfe8-4fce-a764-a868c7f1b8bd_1788377626954_b274252b-eafe-41de-bebf-dceee8ceb78f_d93ef357-1f9c-47c5-a57d-7fe81816558e_c6e9343a-6d09-49a8-a7f2-4b2fb08d13fa.png",
+      "publishedAt": "2026-09-02T19:48:09Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Supported by Escalation of US-Iran Hostilities",
+      "description": "October WTI crude oil (CLV26 ) closed up +0.79 (+0.88%) on Wednesday, and October RBOB gasoline (RBV26 ) closed down -0.0313 (-1.00%). Crude oil and gasoline prices settled mixed on Wednesday, with crude oil posting a fresh 6-week high. Crude prices...",
+      "url": "https://www.barchart.com/story/news/4407690/crude-oil-prices-supported-by-escalation-of-us-iran-hostilities",
+      "image": "https://media.barchart.com/contributors-admin/common-images/images/Energy/Oil/Oil%20production%20with%20Iran%20flag%20by%20EVER%20STOCK%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-09-02T19:14:50Z",
+      "source": {
+        "name": "Barchart"
       }
     }
   ]
