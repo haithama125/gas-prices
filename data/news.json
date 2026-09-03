@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-02T20:16:41+00:00",
+  "updated_at": "2026-09-03T02:03:18+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Iran strikes heighten supply fears",
-      "description": "Oil prices rose Wednesday as U.S.-Iran military strikes heightened Middle East tensions, threatening shipments through the Strait of Hormuz. Brent topped $95 a barrel amid supply disruption fears.",
-      "url": "https://www.bolnews.com/business/oil-prices-surge-as-us-iran-strikes-heighten-supply-fears/",
-      "image": "https://www.bolnews.com/wp-content/uploads/2026/07/FotoJet-5-9.webp",
-      "publishedAt": "2026-09-02T08:09:18Z",
+      "title": "From petrol pump attendant to Dylan-feted rocker and Judd Apatow muse: the delightfully unlikely life of Graham Parker",
+      "description": "Fifty years ago Parker was hailed as rock\u2019s next big thing, but he picked a different path: cult records, a Hollywood diversion, an aversion to stardom. Ahead of a UK tour, he looks back at his strange trajectory",
+      "url": "https://www.theguardian.com/music/2026/sep/02/pop-rocker-graham-parker-interview",
+      "image": "https://i.guim.co.uk/img/media/5dbc1af83de7d4161c3d1604b2a20cd559e4c558/178_69_2414_1931/master/2414.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f52d249a1e32339875488cd537a6af7e",
+      "publishedAt": "2026-09-02T14:00:26Z",
       "source": {
-        "name": "BOL News"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "Gold falls for 6th consecutive day on MCX, silver drops1.26% today amid higher crude oil prices",
-      "description": "On the MCX, the yellow metal futures for December 2026 were down by Rs 933 or 0.61 per cent to trade at Rs 1,52,360 per 10 grams in business turnover of 8506 lots.",
-      "url": "https://www.indiatvnews.com/business/markets/gold-falls-for-6th-consecutive-day-on-mcx-silver-falls-1-26-pc-today-amid-higher-crude-oil-prices-check-city-wise-rates-2026-09-02-1053045",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/goldsilver-2-1788335220.jpg",
-      "publishedAt": "2026-09-02T07:50:01Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "Hero MotoCorp, Eicher Motors lead auto stocks lower: Why?",
-      "description": "Auto stocks, led by Hero MotoCorp and Eicher Motors, decline despite strong August sales amid rising crude oil prices.",
-      "url": "https://www.thehindubusinessline.com/markets/hero-motocorp-eicher-motors-fall-despite-strong-august-sales/article71418612.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/rmq2k3/article71301232.ece/alternates/LANDSCAPE_1200/2026-07-14T150822Z_1612873438_RC2RDMA0Y2F7_RTRMADP_3_ATHER-ENERGY-INVESTMEMT-HERO-MOTOCORP.JPG",
-      "publishedAt": "2026-09-02T07:46:14Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Markets sink mid-session; auto stocks bleed as crude surges",
-      "description": "Sensex fell 517 points and Nifty 190 points at 1:05 p.m. as crude oil prices surged, Treasury yields stayed elevated and selling broadened.",
-      "url": "https://www.thehindubusinessline.com/markets/markets-sink-mid-session-auto-stocks-bleed-as-crude-surges/article71418626.ece",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-opinion/gqznf0/article71412726.ece/alternates/LANDSCAPE_1200/Edit_second-leaGB4GFHDJC.3.jpg.jpg",
-      "publishedAt": "2026-09-02T07:46:00Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors",
-      "description": "Global bond yields are surging as oil-driven inflation, rising debt, heavy AI borrowing and hawkish central-bank expectations unsettle markets. With US, Japanese and Indian yields climbing, the bond selloff is spilling into equities and emerging markets. For India, higher oil prices could add to imported inflation, pressure the rupee, lift borrowing costs and constrain monetary easing.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/explained-how-multi-decade-high-global-bond-yields-spell-caution-for-indian-stock-market-investors/articleshow/133702453.cms",
-      "image": "https://img.etimg.com/thumb/msid-133702751,width-1200,height-630,imgsize-2266945,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-02T07:45:00Z",
+      "title": "US stocks today: US stocks drift amid jobs data, Iran war escalation",
+      "description": "US stocks traded mixed as investors assessed fresh US jobs data and escalating attacks between the US and Iran. The S&P 500 gained 0.1%, while the Dow rose 0.4% and Nasdaq slipped 0.1%. Oil prices held steady as the conflict disrupted shipments through the Strait of Hormuz.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-us-stocks-drift-amid-jobs-data-iran-war-escalation/articleshow/133712281.cms",
+      "image": "https://img.etimg.com/thumb/msid-133712281,width-1200,height-630,imgsize-130504,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-02T13:44:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "OMCs can absorb $85-90 crude, sustained $100 may trigger petrol, diesel price hike",
-      "description": "While no price increase is being considered right now, a sustained rise in prices above $95-100 could potentially force a rethink on retail fuel prices, say sources",
-      "url": "https://www.moneycontrol.com/news/business/economy/omcs-can-absorb-85-90-crude-sustained-100-may-trigger-petrol-diesel-price-hike-14020725.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2020/07/petroldieselpetrol-pumpfuel-station.jpg",
-      "publishedAt": "2026-09-02T07:36:52Z",
+      "title": "Stocks drift on Wall Street amid jobs market updates, renewed fighting in US war with Iran",
+      "description": "Stocks are drifting on Wall Street amid the latest updates on the U.S. jobs market and further escalation in the U.S. war with Iran. The S&P 500 index rose 0.1% Wednesday. The Dow Jones Industrial Average rose 189 points, or 0.4%. The Nasdaq composite fell 0.1%. Oil prices held steady as the U.S. and Iran intensify attacks against each other. That follows a monthlong lull in the six-month long conflict that has curtailed global oil shipments through the vital Strait of Hormuz. The jobs market is in focus this week. A private monthly report from ADP showed that employment slipped in August.",
+      "url": "https://www.ajc.com/news/2026/09/world-shares-extend-losses-while-the-global-bond-sell-off-intensifies/",
+      "image": "https://images.ajc.com/resizer/v2/ZBFZFVLT3FDJRCBH5PKJ73R43Y.jpg?auth=5d7604e83cd7a71e1a5deda2e3ce5e9eede76eeabf464cd7ad89779e7594a0c8&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-02T13:41:35Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Bigger market crash ahead? Analysts weigh how Sensex, Nifty may react if US 10-year bond yield touches 5%",
-      "description": "Global bond yields are hitting multi-year highs, with the US 10-year yield nearing 5% amid rising oil prices, inflation fears and concerns over government debt. Indian 10-year yields also crossed 7%, raising concerns about the impact of higher borrowing costs and shifting investor preference on equities.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bigger-market-crash-ahead-analysts-weigh-how-sensex-nifty-may-react-if-us-10-year-bond-yield-touches-5/articleshow/133702065.cms",
-      "image": "https://img.etimg.com/thumb/msid-133702146,width-1200,height-630,imgsize-2481858,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-02T07:28:00Z",
+      "title": "High gas prices, heavy traffic: What to expect for Labor Day weekend travel in Colorado\u2019s mountains",
+      "description": "The unofficial end to summer is likely to bring heavy traffic to Colorado\u2019s mountains this Labor Day weekend, and filling up at the pump will cost motorists noticeably more than last year.\u00a0 Denver ranks No....",
+      "url": "https://www.aspentimes.com/news/colorado-labor-day-weekend-travel-high-gas-prices-heavy-traffic/",
+      "image": "https://swiftmedia.s3.amazonaws.com/mountain.swiftcom.com/images/sites/5/2026/09/02133416/Gas-1024x682.jpg",
+      "publishedAt": "2026-09-02T13:35:31Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Aspen Times"
       }
     },
     {
-      "title": "Some airlines will \u2018struggle to survive\u2019 if oil prices stay high, warns Ryanair",
-      "description": "Ryanair also cut its air traffic target for next year on the back of efforts to use less unhedged fuel over the winter period.",
-      "url": "https://www.kentonline.co.uk/news/national/some-airlines-will-struggle-to-survive-if-oil-prices-stay-high-warns-ryanair-171204/",
-      "image": "https://www.kentonline.co.uk/_media/img/XNGRB1LYAGBUSWP0ZBHQ.jpg",
-      "publishedAt": "2026-09-02T07:14:52Z",
+      "title": "Stock markets fall for 3rd day amid escalating tensions in West Asia, higher oil prices weigh",
+      "description": "Stock markets declined for the third consecutive day on Wednesday, with the benchmark Sensex closing nearly 374 points lower amid a bearish trend in global equities and higher oil prices due to escalating conflict in West Asia.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-fall-for-3rd-day-amid-escalating-tensions-in-west-asia-higher-oil-prices-weigh/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVmYzFiN2IwLWE2ZDItMTFmMS1hYjA2LTUzMzhlZGIwMWEwZS5qcGc=",
+      "publishedAt": "2026-09-02T13:29:45Z",
       "source": {
-        "name": "Kent Online"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Gold Falls Rs 1,559 As Iran-US Conflict Fuels Rate Hike Fears",
-      "description": "Gold Extends Losing Streak As Higher Oil Prices Stoke Inflation Concerns",
-      "url": "https://www.deccanchronicle.com/business/economics/gold-falls-rs-1559-as-iran-us-conflict-fuels-rate-hike-fears-1984233",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/07/30/2070356-gold.jpg",
-      "publishedAt": "2026-09-02T07:09:10Z",
+      "title": "Ryanair warns air fares in Europe will rise next year if oil price stays high",
+      "description": "Airline warns some carriers could go bust. Ryanair said in a statement that in light of high unhedged oil prices it is sensible to strategically reduce the Group\u2019s exposure to unhedged jet fuel during the unprofitable winter schedule",
+      "url": "https://www.majorcadailybulletin.com/news/local/2026/09/02/145447/ryanair-warns-air-fares-europe-will-rise-next-year-oil-price-stays-high.html",
+      "image": "https://md.gsstatic.es/sfAttachPlugin/social/195075.webp",
+      "publishedAt": "2026-09-02T13:27:16Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "Majorca Daily Bulletin"
       }
     },
     {
-      "title": "Gold Futures Extend Fall For Seventh Day, Slip To \u20b91.5 Lakh/10g Amid US-Iran Tensions",
-      "description": "Gold futures fell for a seventh straight session to Rs 1.5 lakh per 10 grams as US-Iran tensions lifted oil prices and fuelled inflation and rate concerns.",
-      "url": "https://www.freepressjournal.in/business/gold-futures-extend-fall-for-seventh-day-slip-to-15-lakh10g-amid-us-iran-tensions",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-02/cemcabtu/gold-drops.png",
-      "publishedAt": "2026-09-02T06:58:36Z",
+      "title": "US stock futures mixed as oil rises, 10",
+      "description": "US stock futures were mixed as the 10-year Treasury yield hit 4.814%, its highest since November 2023, while oil prices climbed above $90 a barrel.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-futures-nasdaq-crude-oil-treasury-yield-19982543.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-22t170621073-2026-07-510eed23a4cf3322eda291581f8a042a.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-02T13:08:55Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Rising bond yields put pressure on the stocks powering the market",
+      "description": "Global bond yields are up sharply in recent weeks and US oil prices are near $90 per barrel. Now, the stock market is also starting to feel some pressure.",
+      "url": "https://edition.cnn.com/2026/09/02/investing/bond-market-stocks-ai",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-19t144118z-1378379553-rc2p1naxcsxr-rtrmadp-3-usa-stocks.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-02T13:05:05Z",
+      "source": {
+        "name": "Cable News Network"
+      }
+    },
+    {
+      "title": "Rising bond yields put pressure on the stocks powering the market",
+      "description": "By John Towfighi, CNN New York (CNN) \u2014 Global bond yields are up sharply in recent weeks and US oil prices are near $90 per barrel. Now, the stock market is also starting to feel some pressure. The 10-year US Treasury yield rose above 4.81% early Wednesday and hit its highest level since October 2023.",
+      "url": "https://abc17news.com/money/cnn-business-consumer/2026/09/02/rising-bond-yields-put-pressure-on-the-stocks-powering-the-market/",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXRrMWoxeTcwMDAwM2I2cnQ0OHN1bTQw-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdGltYW9qYzAwMXgyN3FqNWhydTZldzY-scaled.jpg",
+      "publishedAt": "2026-09-02T13:05:05Z",
+      "source": {
+        "name": "ABC17News.com"
+      }
+    },
+    {
+      "title": "Oil prices rise as European gas climbs to highest level since 2023 after renewed attacks on Iran",
+      "description": "Oil prices surged on Tuesday, while European gas prices hit a three-year high, as renewed US strikes against Iran and Tehran\u2019s threats of retaliation raised fresh concerns over the Strait of \u2026",
+      "url": "https://www.middleeastmonitor.com/20260902-oil-prices-rise-as-european-gas-climbs-to-highest-level-since-2023-after-renewed-attacks-on-iran/",
+      "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2026/09/ChatGPT-Image-Sep-2-2026-01_31_07-PM-1.png?fit=920%2C613&ssl=1",
+      "publishedAt": "2026-09-02T12:45:50Z",
+      "source": {
+        "name": "Middle East Monitor"
       }
     }
   ]
