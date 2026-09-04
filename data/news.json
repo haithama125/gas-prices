@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-03T20:16:54+00:00",
+  "updated_at": "2026-09-04T01:59:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mint explainer: how is the current crude oil volatility affecting India's energy security playbook?",
-      "description": "Brent crude has crossed $95 a barrel as the West Asia war escalates. Here\u2019s how rising oil prices, disrupted supply routes and higher consumption could affect India\u2019s economy and energy security.",
-      "url": "https://www.livemint.com/news/crude-oil-prices-west-asia-war-india-economy-energy-security-11788414147091.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/crude_oil_1697775793536_1788415760610_77aa529a-b308-4719-af74-2ea8180f4e5f_e6c5e23b-09ce-4c8f-8f6d-4d188e20d9d2_29fc4369-341a-4096-999c-5b2e9c4dce6c.jpg",
-      "publishedAt": "2026-09-03T07:23:14Z",
+      "title": "Supriya Sule Seeks Probe After Traffic Cop Allegedly Pushes Woman Near Pune\u2019s Bhapkar Petrol Pump",
+      "description": "Baramati MP Supriya Sule has sought an inquiry after a female traffic police officer allegedly abused and pushed a woman near Bhapkar Petrol Pump Chowk in Pune on Thursday morning. Sule said the woman works at her Pune office and was involved in a road incident before approaching the traffic officer for help",
+      "url": "https://www.freepressjournal.in/pune/supriya-sule-seeks-probe-after-traffic-cop-allegedly-pushes-woman-near-punes-bhapkar-petrol-pump",
+      "image": "https://media.assettype.com/freepressjournal/2025-10-06/7a0lmtkn/1000240606.jpg",
+      "publishedAt": "2026-09-03T13:55:38Z",
       "source": {
-        "name": "Livemint"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "India bonds gain as RBI FX inflows lift liquidity, spur short-term debt buying",
-      "description": "Indian government bonds saw gains early Thursday, led by shorter-term debt. Larger dollar inflows boosted rupee liquidity and improved sentiment for Indian assets. Banks raised significant foreign currency, adding to domestic liquidity for several years. This influx strengthened India's ability to support the rupee and domestic markets. Elevated oil prices and US Treasury yields continued to weigh on longer-dated bonds.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-gain-as-rbi-fx-inflows-lift-liquidity-spur-short-term-debt-buying/articleshow/133728502.cms",
-      "image": "https://img.etimg.com/thumb/msid-133728581,width-1200,height-630,imgsize-443063,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-03T07:07:00Z",
+      "title": "US stocks open higher while oil prices continue to climb",
+      "description": "U.S. stocks are opening higher while oil prices continue to climb amid ongoing tension in the Middle East. Fighting between the U.S. and Iran has increased this week after the U.S. hit Iranian rocket launchers on an island in the Strait of Hormuz on Sunday. The S&P 500 rose 0.5% in early trading Thursday. The Dow Jones Industrial Average added 368 points, or 0.7%, and the Nasdaq composite rose 0.6%. Nvidia rose 1% after the giant chip company said it would buy the artificial intelligence platform Hugging Face for $13 billion. Treasury yields moved lower in the bond market.",
+      "url": "https://www.ajc.com/news/2026/09/us-futures-mostly-lower-and-oil-prices-climb-due-to-ongoing-clashes-around-iran/",
+      "image": "https://images.ajc.com/resizer/v2/BV3ZRBI7RRHTTOFVY7QFLPQ5HQ.jpg?auth=1ab84a82ca1066c7e15f10dda5a8c9486184f1e801a17e452e821b12f7e33724&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-03T13:42:32Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Yields are lower even as oil prices rise. Here's what's going on",
+      "description": "Over the past few weeks, one thing has been certain: Oil prices rise, driving yields higher and pushing stocks lower. Except that's not happening Thursday.",
+      "url": "https://www.cnbc.com/2026/09/03/yields-are-lower-even-as-oil-prices-rise-heres-whats-going-on.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108314730-17803334992026-06-01t150042z_1743563887_rc21llar1k89_rtrmadp_0_usa-stocks.jpeg?v=1780333539&w=1920&h=1080",
+      "publishedAt": "2026-09-03T13:39:21Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "US stocks open higher while oil prices continue to climb",
+      "description": "NEW YORK (AP) \u2014 U.S. stocks are opening higher while oil prices continue to climb amid ongoing tension in the Middle East. Fighting between the U.S. and Iran has increased this week after the U.S.",
+      "url": "https://www.vancouverisawesome.com/national-business/us-stocks-open-higher-while-oil-prices-continue-to-climb-12738910",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/59d524eabee4b6b3745be4fabd8a9f94ff13bc69a270fb5ad0669691f8106217.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-09-03T13:37:05Z",
+      "source": {
+        "name": "Vancouver Is Awesome"
+      }
+    },
+    {
+      "title": "US stocks today: NaS&P 500 rise as Fed's Waller signals openness to holding rates steady",
+      "description": "US stocks traded higher as Fed Governor Christopher Waller said he could support holding interest rates steady if inflation continues to cool. Investors are now watching Friday's jobs data for clues on the Fed's next move, while rising oil prices and Middle East tensions remain key risks for markets.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-after-feds-waller-signals-patience-on-rate-policy/articleshow/133737976.cms",
+      "image": "https://img.etimg.com/thumb/msid-133737976,width-1200,height-630,imgsize-85576,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-03T13:36:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Stocks to buy: Nagaraj Shetti recommends eClerx Services, UNO Minda shares to buy in the short-term",
-      "description": "Domestic indices Nifty 50 and Sensex each gained 0.35% on September 3, supported by banking stocks that raised $136.4 billion. Oil prices eased slightly, while global cues influenced a cautious market, following recent geopolitical developments and prior declines in both indices.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-eclerx-services-uno-minda-shares-to-buy-in-the-shortterm-11788417509077.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/03/1600x900/logo/Nagaraj_Shetti_1749711299401_1788417852409_8cb5bc8a-0db2-4a35-9ca8-c0c20730abc7_fdf26c40-6300-41ac-8921-4851e0ffa688_f46f34f9-15e7-41f7-9704-c7c65b5dc8e5.jpeg",
-      "publishedAt": "2026-09-03T06:58:34Z",
+      "title": "Brent oil price above $96 per barrel after Iran fires missiles at Kuwait",
+      "description": "Oil prices have gained more than 7% this week The U.S. and Iran have traded military strikes this week for the first time since July.",
+      "url": "https://www.cnbc.com/2026/09/03/oil-price-today-iran-war-strait-hormuz.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108354962-1787810582819-gettyimages-2291320726-koutsokostas-notitle260824_npYkV.jpeg?v=1787810594&w=1920&h=1080",
+      "publishedAt": "2026-09-03T13:28:22Z",
       "source": {
-        "name": "Livemint"
+        "name": "CNBC"
       }
     },
     {
-      "title": "EVs outsell petrol cars for the first time",
-      "description": "Government subsidies and an influx of cheap Chinese models led more Australians to buy an electric vehicle in August than any other month on record.",
-      "url": "https://www.afr.com/policy/energy-and-climate/evs-outsell-petrol-cars-for-the-first-time-20260903-p60u5k",
-      "image": "https://static.ffx.io/images/$zoom_1.0342%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_94/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/35f5eb875b3c520973ca881a42629386768c18b0d4b4017cfedad9c8d45d4e94",
-      "publishedAt": "2026-09-03T06:15:29Z",
+      "title": "US stock futures rise as rate hike bets ease; US jobless claims slightly up",
+      "description": "US stock futures moved higher on Thursday while Treasury yields slipped after Fed Governor Christopher Waller signalled support for keeping interest rates unchanged this month. Softer rate-hike expectations boosted investor sentiment despite rising oil prices.",
+      "url": "https://www.cnbctv18.com/market/us-stock-futures-nasdaq-slips-as-broadcom-hpe-weigh-snowflake-jumps-19983513.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-df11385c98c25890de826cbb955d8a84.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-03T13:21:15Z",
       "source": {
-        "name": "Australian Financial Review"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Bitcoin hovers near $77,000 as oil surge, geopolitical risks pressure crypto; can it reclaim $78,000?",
-      "description": "Bitcoin hovers near $77,000 amid rising oil prices and geopolitical risks. With $76,400 as key support, investors watch whether BTC can reclaim the crucial $78,000 level.",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-hovers-near-77-000-as-oil-surge-geopolitical-risks-pressure-crypto-can-it-reclaim-78-000-14021611.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260903054713_Bitcoin-price-on-Sept-3-representative-image.png",
-      "publishedAt": "2026-09-03T05:47:22Z",
+      "title": "US futures mostly lower, oil prices climb due to clashes around Iran",
+      "description": "U.S. futures are mostly lower as oil prices continue to climb amid ongoing tension in the Middle East as US-Iran fighting increased.",
+      "url": "https://www.mercurynews.com/2026/09/03/financial-markets-iran-oil-prices/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_74514.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-03T12:47:58Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "The Mercury News"
       }
     },
     {
-      "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
-      "description": "Brent crude, the international standard, fell 0.4% to USD 95.26 per barrel. Benchmark US crude shed 0.1% to USD 90.84 a barrel.",
-      "url": "https://www.newindianexpress.com/business/2026/Sep/03/oil-prices-edge-lower-while-asian-shares-rise-tracking-wall-street-gains-2",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-03%2Fd5rigj7h%2FAP26239535603913.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-03T05:44:35Z",
+      "title": "US futures mostly lower, oil prices climb due to clashes around Iran",
+      "description": "U.S. futures are mostly lower as oil prices continue to climb amid ongoing tension in the Middle East as US-Iran fighting increased.",
+      "url": "https://www.bostonherald.com/2026/09/03/financial-markets-iran-oil-prices/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_74514.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-03T12:47:58Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "\u2018Trump Strait\u2019 For Strait Of Hormuz? Trump Floats New Name As US-Iran Rages On, White House Reacts",
-      "description": "Trump suggests renaming the Strait of Hormuz as \u201cTrump Strait\u201d as US-Iran strikes intensify, oil prices rise and tensions threaten global energy supplies.",
-      "url": "https://www.newsx.com/world/trump-strait-for-strait-of-hormuz-trump-floats-new-name-as-us-iran-rages-on-white-house-reacts-267663/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/trump-strait.jpg",
-      "publishedAt": "2026-09-03T05:36:12Z",
+      "title": "US futures mostly lower, oil prices climb due to clashes around Iran",
+      "description": "U.S. futures are mostly lower as oil prices continue to climb amid ongoing tension in the Middle East as US-Iran fighting increased.",
+      "url": "https://www.readingeagle.com/2026/09/03/financial-markets-iran-oil-prices/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_74514.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-03T12:47:58Z",
       "source": {
-        "name": "NewsX"
-      }
-    },
-    {
-      "title": "Oil prices edge lower, while Asian shares rise, tracking Wall Street gains",
-      "description": "HONG KONG (AP) \u2014 Oil prices slipped Thursday after recent gains, with Brent crude trading near $95 a barrel, while Asian shares advanced. U.S. futures edged hig",
-      "url": "https://wtop.com/world/2026/09/oil-prices-edge-lower-while-asian-shares-rise-tracking-wall-street-gains/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/Japan_Financial_Markets_6_916-scaled.jpg",
-      "publishedAt": "2026-09-03T05:31:39Z",
-      "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "BREAKING: Bitcoin Jumps as Trump Discusses to Declare US-Iran War Over",
-      "description": "Bitcoin rises further above $77,500 as President Trump discusses with aides to declare US-Iran war over amid concerns over rising oil prices.",
-      "url": "https://coingape.com/bitcoin-jumps-as-trump-discusses-to-declare-us-iran-war-over/",
-      "image": "https://coingape.com/wp-content/uploads/2026/04/BREAKING-Bitcoin-Price-Rises-as-President.webp",
-      "publishedAt": "2026-09-03T05:24:29Z",
-      "source": {
-        "name": "CoinGape"
-      }
-    },
-    {
-      "title": "U.S. strike on Iranian wedding kills four, triggers region",
-      "description": "Iran launched retaliatory strikes on multiple U.S. military bases after a U.S. attack killed four civilians at a wedding in Hormozgan Province. The U.S. denied targeting civilians and claimed no American casualties resulted from the Iranian barrage. Oil prices surged above $95 per barrel as Strait of Hormuz disruptions intensified. The conflict has killed over [\u2026]",
-      "url": "https://www.naturalnews.com/2026-09-03-us-strike-iranian-wedding-region-missile-barrage.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/uk-diplomatic-withdrawal-iran-us-airstrikes-2930-original.jpg",
-      "publishedAt": "2026-09-03T05:08:22Z",
-      "source": {
-        "name": "Natural News"
+        "name": "Reading Eagle"
       }
     }
   ]
