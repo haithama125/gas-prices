@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-05T14:13:21+00:00",
+  "updated_at": "2026-09-05T19:42:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol and diesel prices today, 5 Sep: Check fuel rates in Delhi, Mumbai, Bengaluru as Brent records 7.6% weekly gain",
-      "description": "Petrol and diesel prices today, 5 Sep: Check fuel rates in Delhi, Mumbai, Bengaluru and other cities as Brent recorded one of its biggest weekly gains since July amid recent escalation in hostilities between US and Iran.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-5-sep-check-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-records-7-6-weekly-gain-11788568812868.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/kk_1788572582502_67ced9eb-fcf8-496b-afdd-8203e65e8a80_1788572582657_998af8ec-4b05-418f-bef6-956b197d3864_5faf0644-61d1-409e-ae42-fb16e5914a68_26c5abd4-a0d6-4aff-9a3b-69a1f8ccd93a.jpg",
-      "publishedAt": "2026-09-05T01:47:36Z",
+      "title": "Tensions in the Strait of Hormuz drive oil prices as US and Iran both claim control",
+      "description": "Tensions are ongoing over the fate of the Strait of Hormuz as both the United States and Iran are claiming control of the waterway. A recent escalation of the attacks in the region is driving oil prices in several countries.",
+      "url": "https://www.africanews.com/2026/09/05/tensions-in-the-strait-of-hormuz-drive-oil-prices-as-us-and-iran-both-claim-control/",
+      "image": "https://images.euronews.com/articles/stories/09/90/23/91/1024x538_cmsv2_04949d24-1da1-5a0c-80e2-df4afb171eb0-9902391.jpg",
+      "publishedAt": "2026-09-05T07:34:56Z",
       "source": {
-        "name": "Livemint"
+        "name": "Africanews"
       }
     },
     {
-      "title": "Gas prices reach record highs as Labor Day weekend travel begins",
-      "description": "More than 45 million Americans are expected to travel 50 miles or more, but they'll be facing record-high prices at the pump.",
-      "url": "https://www.nbcchicago.com/news/local/gas-prices-reach-record-highs-as-labor-day-weekend-travel-begins/3985213/",
-      "image": "https://media.nbcchicago.com/2026/09/0_05-CUT-GAS-PRICES-TEASE-.png?resize=1200%2C675&quality=85&strip=all",
-      "publishedAt": "2026-09-05T01:47:24Z",
+      "title": "India\u2019s passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report",
+      "description": "India's passenger vehicle market sees a shift to cleaner fuels, with CNG, hybrids, and EVs surpassing petrol sales for the first time.",
+      "url": "https://www.thehindubusinessline.com/companies/indias-passenger-vehicle-market-tilts-towards-cleaner-fuels-alternatives-cross-petrol-report/article71431148.ece",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-news/812lzr/article71342889.ece/alternates/LANDSCAPE_1200/July-saw-strongGSSGD0MVR.4.jpg.jpg",
+      "publishedAt": "2026-09-05T06:45:06Z",
       "source": {
-        "name": "NBC 5 Chicago"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 12% to 71% return",
-      "description": "Domestic equity markets closed lower amid rising crude oil prices, with key brokerages recommending 10 promising stocks across sectors like banking, pharma, energy, and infrastructure for potential gains.",
-      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-12-to-71-return-4332413/",
-      "image": "https://images.financialexpressdigital.com/2026/09/marketsb_20260904213453.jpg",
-      "publishedAt": "2026-09-05T00:00:00Z",
+      "title": "HMRC confirms new 27p rate now in force for some petrol drivers",
+      "description": "The tax authority has confirmed its new advisory fuel rates.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/hmrc-confirms-new-27p-charge-34538744",
+      "image": "https://i2-prod.birminghammail.co.uk/article34538761.ece/ALTERNATES/s1200d/0_cars3.jpg",
+      "publishedAt": "2026-09-05T06:40:00Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Labor Day weekend gas nightmare strikes California drivers",
-      "description": "Labor Day drivers in California are facing record-high gas prices amid rising crude oil costs, prompting calls for Governor Gavin Newsom to address the astronomical costs to fill up.",
-      "url": "https://nypost.com/2026/09/04/us-news/surging-california-gas-prices-could-set-records-for-labor-day-weekend/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139648205.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-04T23:28:37Z",
+      "title": "India's passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report",
+      "description": "Cleaner-fuel vehicles now account for 42 percent of passenger car sales in India. This marks the first time these alternatives have outsold petrol-powered vehicles. Petrol's market share dropped to a record low of 41 percent in August. Compressed natural gas vehicles saw their share rise to 25 percent. Electric car sales increased significantly, reaching 7.7 percent penetration.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/auto-news/indias-passenger-vehicle-market-tilts-towards-cleaner-fuels-alternatives-cross-petrol-tata-motors-jsw-mg-mahindra/articleshow/133790854.cms",
+      "image": "https://img.etimg.com/thumb/msid-133790853,width-1200,height-630,imgsize-191018,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-05T06:30:00Z",
       "source": {
-        "name": "New York Post"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "GTA Labour Day long weekend gas prices",
-      "description": "If you are driving somewhere this long weekend, it\u2019s best to fill up your gas tanks today, according to one analyst.",
-      "url": "https://www.cp24.com/local/toronto/2026/09/04/heres-when-to-fill-up-your-gas-tanks-this-labour-day-long-weekend-in-the-gta/",
-      "image": "https://www.cp24.com/resizer/v2/MME76RSZ6PD2LYXHTMKGM2QCZM.jpg?smart=true&auth=a4b69a526cb317f567ee0423dbd511e9a842cf041e09ed7c2d7985943c86ec48&width=1200&height=630",
-      "publishedAt": "2026-09-04T21:08:53Z",
+      "title": "Oil Prices Could Fall To $40 After Iran Conflict Ends: US Treasury Secretary Scott Bessent",
+      "description": "US Treasury Secretary Scott Bessent expects oil prices to decline sharply after the Iran conflict ends, potentially reaching $40 a barrel due to rising global supply. He said lower crude prices could ease inflation pressures and push bond yields lower, while dismissing concerns over Norway\u2019s possible reduction in US Treasury holdings",
+      "url": "https://www.freepressjournal.in/business/oil-prices-could-fall-to-40-after-iran-conflict-ends-us-treasury-secretary-scott-bessent",
+      "image": "https://media.assettype.com/freepressjournal/2025-08-10/row8i0zk/Untitled-design-2025-08-10T103610.059.jpg",
+      "publishedAt": "2026-09-05T06:09:56Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Maryland's Labor Day travelers face large crowds, higher gas prices",
-      "description": "Maryland travelers looking to get away this Labor Day are facing heavy traffic, large airport crowds and higher gas prices.",
-      "url": "https://www.cbsnews.com/baltimore/news/maryland-labor-day-travel-gas-prices/",
-      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/93fb3d2f-96f5-4a6e-a55e-f532674d704d/thumbnail/1200x630/d58112c905d73bb32845a434959e25fd/ap26078664124520.jpg",
-      "publishedAt": "2026-09-04T20:51:09Z",
+      "title": "India\u2019s passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report",
+      "description": "The shift towards cleaner-fuel vehicles is gaining momentum in India, with CNG, hybrid and electric vehicles together accounting for 42 per cent of passenger vehicle sales in August, \u201csurpassing petrol for the first time,\u201d according to a report by Equirus Securities.",
+      "url": "https://www.tribuneindia.com/news/business/indias-passenger-vehicle-market-tilts-towards-cleaner-fuels-alternatives-cross-petrol-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUzNzI4NDcwLWE4ZWItMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+      "publishedAt": "2026-09-05T05:37:22Z",
       "source": {
-        "name": "CBS News"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "N.J. gas prices: what drivers can expect to pay this fall and winter",
-      "description": "An expert says typical post-Labor Day gas price drops seen in New Jersey won't deliver price relief drivers saw last year. Diesel fuel hikes will affect all consumers.",
-      "url": "https://www.nj.com/news/2026/09/why-nj-gas-prices-wont-fall-as-sharply-as-usual-after-labor-day-this-year.html",
-      "image": "https://www.nj.com/resizer/v2/OWYFJN5NWRAHPKFS265LCGKMUM.jpg?auth=fcba28b7f1b79cd9b244a278cf6e51be2674f43a79022c0ae83e297f7d193b98&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-04T20:20:56Z",
+      "title": "India\u2019s passenger vehicle market tilts towards cleaner fuels; alternatives cross petrol: Report",
+      "description": "The shift towards cleaner-fuel vehicles is gaining momentum in India, with CNG, hybrid and electric vehicles together accounting for 42 per cent of passenger vehicle sales in August, \u201csurpassing petrol for the first time,\u201d according to a report by Equirus Securities.",
+      "url": "https://www.aninews.in/news/business/india8217s-passenger-vehicle-market-tilts-towards-cleaner-fuels-alternatives-cross-petrol-report16020260905110137/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260905050333-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-09-05T05:31:37Z",
       "source": {
-        "name": "NJ.com"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Labor Day travel: Texas gas prices jump nearly $1 from last summer",
-      "description": "According to AAA, the average cost for a gallon of gas in Texas is $3.68 as of Friday.",
-      "url": "https://www.fox4news.com/money/labor-day-travel-2026-texas-gas-prices",
-      "image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/10/1200/630/gas-pump-getty.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-04T19:57:45Z",
+      "title": "Why are petrol and diesel so expensive despite crude oil not reaching record highs?",
+      "description": "Pump prices could remain high in Europe, adding to inflationary pressure. The immediate problem is not just the supply or price of crude oil, but limited refining capacity, disrupted trade flows and shortages of finished fuels, particularly diesel.",
+      "url": "https://www.euronews.com/business/2026/09/05/why-are-petrol-and-diesel-so-expensive-despite-crude-oil-not-reaching-record-highs",
+      "image": "https://images.euronews.com/articles/stories/09/90/11/34/1200x675_cmsv2_1fa46e11-87d0-5c0c-afee-1463bafc4c64-9901134.jpg",
+      "publishedAt": "2026-09-05T05:00:50Z",
       "source": {
-        "name": "FOX 4 News"
+        "name": "Euronews"
       }
     },
     {
-      "title": "Australian car market: EV sales surpass petrol first time",
-      "description": "Australian car market reached a historic milestone in August: EV sales topped petrol cars. Unpack the forces behind this swift national transition.",
-      "url": "https://www.canberratimes.com.au/story/9344152/australian-car-market-ev-sales-surpass-petrol-first-time/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/LLBstgPA4H8EG9DTTGcXBL/9fc567ee-fbf9-491a-a246-39622c0d939f.jpg/r0_370_5500_3258_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-09-04T19:30:00Z",
+      "title": "US Treasury Secretary Scott Bessent sees crude oil as low as $40 post-Iran war, lower bond yields",
+      "description": "Treasury Secretary Scott Bessent anticipates oil prices will fall significantly after the Iran conflict concludes. He expects crude oil to reach as low as forty dollars a barrel due to oversupply. This decline in oil prices will subsequently lower bond yields, which have recently surged. Bessent also downplayed Norway's sovereign wealth fund proposal to reduce Treasury holdings.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bessent-sees-oil-as-low-as-40-post-iran-war-lower-yields/articleshow/133787900.cms",
+      "image": "https://img.etimg.com/thumb/msid-133787939,width-1200,height-630,imgsize-7120,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-05T04:43:00Z",
       "source": {
-        "name": "The Canberra Times"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Cong launches \u2018Chini Satyagraha\u2019 against rising sugar and oil prices",
-      "description": "Congress held a statewide \u2018Chini Satyagraha\u2019 in Chhattisgarh protesting rising prices of sugar, edible oil and essentials, blaming BJP policies and taxes.",
-      "url": "https://timesofindia.indiatimes.com/city/raipur/cong-launches-chini-satyagraha-against-rising-sugar-and-oil-prices/articleshow/133776258.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133776255,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-04T19:11:00Z",
+      "title": "Nifty ends below 24,000 for 4th week of losses",
+      "description": "Indian equity markets faced a downturn for the fourth straight week, with the Nifty index retreating under 24,000. A combination of soaring crude oil prices and sluggish leading stocks contributed to the bleak market outlook. Analysts suggest the Nifty is likely to hover in a limited range without significant catalysts.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-ends-below-24000-for-4th-week-of-losses/articleshow/133787443.cms",
+      "image": "https://img.etimg.com/thumb/msid-133787563,width-1200,height-630,imgsize-925540,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-05T04:25:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Economic Times"
       }
     }
   ]
