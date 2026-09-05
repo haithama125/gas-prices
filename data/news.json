@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-05T01:59:43+00:00",
+  "updated_at": "2026-09-05T09:38:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "60-minute delays possible in Utah during Labor Day weekend despite record-high gas prices",
-      "description": "Utah transportation officials say Labor Day congestion could create delays of up to 30 to 60 minutes at times in some parts of the state this weekend.",
-      "url": "https://www.deseret.com/utah/2026/09/04/delays-possible-in-utah-during-labor-day-weekend-despite-record-high-gas-prices/",
-      "image": "https://www.deseret.com/resizer/v2/2FO3XEPYHODQZ4IP5UEQ7TWUKQ.jpg?focal=0%2C0&auth=c718593e8fe81225399bb2aa0f58125e5b00fac63261b4daaa1e86cf7775de9b&width=630&height=331",
-      "publishedAt": "2026-09-04T13:54:35Z",
+      "title": "GTA Labour Day long weekend gas prices",
+      "description": "If you are driving somewhere this long weekend, it\u2019s best to fill up your gas tanks today, according to one analyst.",
+      "url": "https://www.cp24.com/local/toronto/2026/09/04/heres-when-to-fill-up-your-gas-tanks-this-labour-day-long-weekend-in-the-gta/",
+      "image": "https://www.cp24.com/resizer/v2/MME76RSZ6PD2LYXHTMKGM2QCZM.jpg?smart=true&auth=a4b69a526cb317f567ee0423dbd511e9a842cf041e09ed7c2d7985943c86ec48&width=1200&height=630",
+      "publishedAt": "2026-09-04T21:08:53Z",
       "source": {
-        "name": "Salt Lake City Deseret News"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Petrol hits ANOTHER Iran War high as RAC warns of fresh wave of price hikes at the pumps",
-      "description": "MOTORISTS have been warned to brace for further fuel price rises after petrol hit its highest level since the Iran conflict first sent shockwaves...",
-      "url": "https://www.thesun.co.uk/money/40271781/petrol-price-hikes-rac-warns-motorists/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40271897.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-09-04T13:29:05Z",
+      "title": "Maryland's Labor Day travelers face large crowds, higher gas prices",
+      "description": "Maryland travelers looking to get away this Labor Day are facing heavy traffic, large airport crowds and higher gas prices.",
+      "url": "https://www.cbsnews.com/baltimore/news/maryland-labor-day-travel-gas-prices/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/04/93fb3d2f-96f5-4a6e-a55e-f532674d704d/thumbnail/1200x630/d58112c905d73bb32845a434959e25fd/ap26078664124520.jpg",
+      "publishedAt": "2026-09-04T20:51:09Z",
       "source": {
-        "name": "The Sun"
+        "name": "CBS News"
       }
     },
     {
-      "title": "US equity funds record second weekly outflow on Iran tensions, high yields",
-      "description": "U.S. equity funds recorded outflows for a second consecutive week, as rising bond yields and oil prices \u200bamid renewed Middle East tensions weighed on sentiment, \u200cthough strong results from AI-related companies helped limit the selloff.",
-      "url": "https://www.reuters.com/business/us-equity-funds-record-second-weekly-outflow-iran-tensions-high-yields-2026-09-04/",
-      "image": "https://www.reuters.com/resizer/v2/BLAEICX5MJK3VOK6W7AI22KTDQ.jpg?auth=854c7b4f5ba8ad5c80722972f75126eafbf11c9eb1d73fcc6b61352a269405df&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-04T13:03:07Z",
+      "title": "N.J. gas prices: what drivers can expect to pay this fall and winter",
+      "description": "An expert says typical post-Labor Day gas price drops seen in New Jersey won't deliver price relief drivers saw last year. Diesel fuel hikes will affect all consumers.",
+      "url": "https://www.nj.com/news/2026/09/why-nj-gas-prices-wont-fall-as-sharply-as-usual-after-labor-day-this-year.html",
+      "image": "https://www.nj.com/resizer/v2/OWYFJN5NWRAHPKFS265LCGKMUM.jpg?auth=fcba28b7f1b79cd9b244a278cf6e51be2674f43a79022c0ae83e297f7d193b98&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-04T20:20:56Z",
       "source": {
-        "name": "Reuters"
+        "name": "NJ.com"
       }
     },
     {
-      "title": "What Richmonders need to know",
-      "description": "Heading out for Labor Day? Here\u2019s what to know about gas prices, traffic, travel times and where people are headed.",
-      "url": "https://richmond.com/life-entertainment/local/travel/article_71a75455-17bb-41a8-9f73-3d35dc16fc04.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/1a/71a75455-17bb-41a8-9f73-3d35dc16fc04/6a99db37ed685.preview.jpg?crop=1763%2C926%2C0%2C125&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-09-04T12:51:00Z",
+      "title": "Labor Day travel: Texas gas prices jump nearly $1 from last summer",
+      "description": "According to AAA, the average cost for a gallon of gas in Texas is $3.68 as of Friday.",
+      "url": "https://www.fox4news.com/money/labor-day-travel-2026-texas-gas-prices",
+      "image": "https://images.foxtv.com/static.fox7austin.com/www.fox7austin.com/content/uploads/2023/10/1200/630/gas-pump-getty.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-04T19:57:45Z",
       "source": {
-        "name": "Richmond Times-Dispatch"
+        "name": "FOX 4 News"
       }
     },
     {
-      "title": "JD Vance concedes gas prices could stay high indefinitely as war drags on",
-      "description": "Veep brushes aside administration promises of $3-a-gallon prices at the pump by Labor Day and blamed \"crazy\" Iran for extending the Middle East conflict.",
-      "url": "https://www.mercurynews.com/2026/09/04/jd-vance-gas-prices-could-stay-high/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/AP26246659857113.jpg?w=2000&h=1333",
-      "publishedAt": "2026-09-04T12:43:03Z",
+      "title": "Australian car market: EV sales surpass petrol first time",
+      "description": "Australian car market reached a historic milestone in August: EV sales topped petrol cars. Unpack the forces behind this swift national transition.",
+      "url": "https://www.canberratimes.com.au/story/9344152/australian-car-market-ev-sales-surpass-petrol-first-time/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/LLBstgPA4H8EG9DTTGcXBL/9fc567ee-fbf9-491a-a246-39622c0d939f.jpg/r0_370_5500_3258_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-09-04T19:30:00Z",
       "source": {
-        "name": "The Mercury News"
+        "name": "The Canberra Times"
       }
     },
     {
-      "title": "This compact Kia SUV can run on 100% ethanol",
-      "description": "Kia has showcased the Syros flex-fuel concept in India, capable of running on petrol, ethanol or blends, with a turbo engine and automatic gearbox.",
-      "url": "https://www.indiatoday.in/auto/cars/story/kia-unveils-syros-flex-fuel-concept-gets-turbo-engine-and-6-speed-automatic-gearbox-2987168-2026-09-04",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/kia-syros-ffv-043515978-16x9_0.png?VersionId=TFXfIumU8fKtlQ..eAOOXN6SG8ElbLGv",
-      "publishedAt": "2026-09-04T12:37:10Z",
+      "title": "Cong launches \u2018Chini Satyagraha\u2019 against rising sugar and oil prices",
+      "description": "Congress held a statewide \u2018Chini Satyagraha\u2019 in Chhattisgarh protesting rising prices of sugar, edible oil and essentials, blaming BJP policies and taxes.",
+      "url": "https://timesofindia.indiatimes.com/city/raipur/cong-launches-chini-satyagraha-against-rising-sugar-and-oil-prices/articleshow/133776258.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133776255,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-04T19:11:00Z",
       "source": {
-        "name": "India Today"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Europe Gas Prices Head for Fourth Straight Weekly Gain",
-      "description": "European gas prices are set for a fourth weekly gain as the Hormuz crisis and record-low storage levels fuel a growing fight for LNG supply.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Head-for-Fourth-Straight-Weekly-Gain.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-04_g2cnkwysdo.jpg",
-      "publishedAt": "2026-09-04T12:30:00Z",
+      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is \u2018small potatoes\u2019",
+      "description": "President Donald Trump on Friday labeled the Iran war \u201csmall potatoes,\u201d the latest attempt to minimize a six-month conflict that caused a spike in gas prices and led to the deaths of 18 American service-members.",
+      "url": "https://edition.cnn.com/2026/09/04/politics/small-potatoes-trump-iran",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2292985199.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2026-09-04T19:07:51Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Cable News Network"
       }
     },
     {
-      "title": "Report details Maryland gas tax, vehicle fee revenue as drivers cite high prices",
-      "description": "Drivers across Maryland may be feeling the pinch at the pump, but a new report highlights how gas prices also translate into major revenue for the state.The rep",
-      "url": "https://foxbaltimore.com/fox45-mornings/report-details-maryland-gas-tax-vehicle-fee-revenue-as-drivers-cite-high-prices",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/626/1320/0x25/90/661c3218-494e-4af0-a071-877c9370e809-Screenshot20260904082321.png",
-      "publishedAt": "2026-09-04T12:25:28Z",
+      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is \u2018small potatoes\u2019",
+      "description": "By Kevin Liptak, CNN (CNN) \u2014 President Donald Trump on Friday labeled the Iran war \u201csmall potatoes,\u201d the latest attempt to minimize a six-month conflict that caused a spike in gas prices and led to the deaths of 18 American service-members. \u201cA lot of people don\u2019t call it a war. I call it a military",
+      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/09/04/trump-says-iran-conflict-which-has-killed-18-us-service-members-and-injured-hundreds-more-is-small-potatoes/",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
+      "publishedAt": "2026-09-04T19:07:51Z",
       "source": {
-        "name": "Baltimore News"
+        "name": "ABC17News.com"
       }
     },
     {
-      "title": "India bonds slip for third week tracking oil, global debt rout",
-      "description": "Indian government bonds have witnessed a third straight week of decline, influenced by escalating oil prices and expectations of global interest rate hikes. Despite some domestic liquidity cushioning the Indian debt market, concerns over inflation and fiscal stability loom large due to rising crude prices. Investors are now keenly awaiting forthcoming inflation data and the outcomes of central bank policy meetings.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-slip-for-third-week-tracking-oil-global-debt-rout/articleshow/133762455.cms",
-      "image": "https://img.etimg.com/thumb/msid-133762490,width-1200,height-630,imgsize-121016,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-04T12:10:00Z",
+      "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Taking Yields Down",
+      "description": "Treasury Secretary Scott Bessent said oil prices will nosedive to as low as $40 a barrel once the Iran conflict is over, pulling down bond yields that have lately hit the highest levels in years.",
+      "url": "https://www.livemint.com/market/bessent-sees-oil-as-low-as-40-post-iran-war-taking-yields-down-11788548753614.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
+      "publishedAt": "2026-09-04T19:05:53Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Motorcyclist hospitalised after crash near petrol station",
-      "description": "A motorcyclist was taken to hospital after a crash with a van in Poole.",
-      "url": "https://www.bournemouthecho.co.uk/news/26520808.motorcyclist-hospitalised-crash-near-petrol-station/",
-      "image": "https://www.bournemouthecho.co.uk/resources/images/21404903.jpg?type=og-image",
-      "publishedAt": "2026-09-04T12:00:00Z",
+      "title": "Petrol price cut by Rs3.13 as govt shifts to daily fuel pricing mechanism",
+      "description": "The federal government has reduced the price of petrol by Rs3.13 per litre while raising the rate of high-speed diesel (HSD) by Rs3.74 under Pakistan\u2019s newly",
+      "url": "https://www.nation.com.pk/04-Sep-2026/petrol-price-cut-rs3-13-govt-shifts-daily-fuel-pricing-mechanism",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-09-04/petrol-price-cut-rs3-13-govt-shifts-daily-fuel-pricing-mechanism-1788546283-2198.jpg",
+      "publishedAt": "2026-09-04T18:24:52Z",
       "source": {
-        "name": "Daily Echo"
+        "name": "The Nation"
       }
     }
   ]
