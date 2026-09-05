@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-09-05T09:38:48+00:00",
+  "updated_at": "2026-09-05T14:13:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol and diesel prices today, 5 Sep: Check fuel rates in Delhi, Mumbai, Bengaluru as Brent records 7.6% weekly gain",
+      "description": "Petrol and diesel prices today, 5 Sep: Check fuel rates in Delhi, Mumbai, Bengaluru and other cities as Brent recorded one of its biggest weekly gains since July amid recent escalation in hostilities between US and Iran.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-5-sep-check-fuel-rates-in-delhi-mumbai-bengaluru-as-brent-records-7-6-weekly-gain-11788568812868.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/kk_1788572582502_67ced9eb-fcf8-496b-afdd-8203e65e8a80_1788572582657_998af8ec-4b05-418f-bef6-956b197d3864_5faf0644-61d1-409e-ae42-fb16e5914a68_26c5abd4-a0d6-4aff-9a3b-69a1f8ccd93a.jpg",
+      "publishedAt": "2026-09-05T01:47:36Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Gas prices reach record highs as Labor Day weekend travel begins",
+      "description": "More than 45 million Americans are expected to travel 50 miles or more, but they'll be facing record-high prices at the pump.",
+      "url": "https://www.nbcchicago.com/news/local/gas-prices-reach-record-highs-as-labor-day-weekend-travel-begins/3985213/",
+      "image": "https://media.nbcchicago.com/2026/09/0_05-CUT-GAS-PRICES-TEASE-.png?resize=1200%2C675&quality=85&strip=all",
+      "publishedAt": "2026-09-05T01:47:24Z",
+      "source": {
+        "name": "NBC 5 Chicago"
+      }
+    },
+    {
+      "title": "Top 10 stocks rated \u2018Buy\u2019 this week: Brokerages project 12% to 71% return",
+      "description": "Domestic equity markets closed lower amid rising crude oil prices, with key brokerages recommending 10 promising stocks across sectors like banking, pharma, energy, and infrastructure for potential gains.",
+      "url": "https://www.financialexpress.com/market/top-10-stocks-rated-buy-this-week-brokerages-project-12-to-71-return-4332413/",
+      "image": "https://images.financialexpressdigital.com/2026/09/marketsb_20260904213453.jpg",
+      "publishedAt": "2026-09-05T00:00:00Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Labor Day weekend gas nightmare strikes California drivers",
+      "description": "Labor Day drivers in California are facing record-high gas prices amid rising crude oil costs, prompting calls for Governor Gavin Newsom to address the astronomical costs to fill up.",
+      "url": "https://nypost.com/2026/09/04/us-news/surging-california-gas-prices-could-set-records-for-labor-day-weekend/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/139648205.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-04T23:28:37Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
     {
       "title": "GTA Labour Day long weekend gas prices",
       "description": "If you are driving somewhere this long weekend, it\u2019s best to fill up your gas tanks today, according to one analyst.",
@@ -62,46 +102,6 @@
       "publishedAt": "2026-09-04T19:11:00Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is \u2018small potatoes\u2019",
-      "description": "President Donald Trump on Friday labeled the Iran war \u201csmall potatoes,\u201d the latest attempt to minimize a six-month conflict that caused a spike in gas prices and led to the deaths of 18 American service-members.",
-      "url": "https://edition.cnn.com/2026/09/04/politics/small-potatoes-trump-iran",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2292985199.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-09-04T19:07:51Z",
-      "source": {
-        "name": "Cable News Network"
-      }
-    },
-    {
-      "title": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is \u2018small potatoes\u2019",
-      "description": "By Kevin Liptak, CNN (CNN) \u2014 President Donald Trump on Friday labeled the Iran war \u201csmall potatoes,\u201d the latest attempt to minimize a six-month conflict that caused a spike in gas prices and led to the deaths of 18 American service-members. \u201cA lot of people don\u2019t call it a war. I call it a military",
-      "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/09/04/trump-says-iran-conflict-which-has-killed-18-us-service-members-and-injured-hundreds-more-is-small-potatoes/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-      "publishedAt": "2026-09-04T19:07:51Z",
-      "source": {
-        "name": "ABC17News.com"
-      }
-    },
-    {
-      "title": "Bessent Sees Oil as Low as $40 Post-Iran War, Taking Yields Down",
-      "description": "Treasury Secretary Scott Bessent said oil prices will nosedive to as low as $40 a barrel once the Iran conflict is over, pulling down bond yields that have lately hit the highest levels in years.",
-      "url": "https://www.livemint.com/market/bessent-sees-oil-as-low-as-40-post-iran-war-taking-yields-down-11788548753614.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "publishedAt": "2026-09-04T19:05:53Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Petrol price cut by Rs3.13 as govt shifts to daily fuel pricing mechanism",
-      "description": "The federal government has reduced the price of petrol by Rs3.13 per litre while raising the rate of high-speed diesel (HSD) by Rs3.74 under Pakistan\u2019s newly",
-      "url": "https://www.nation.com.pk/04-Sep-2026/petrol-price-cut-rs3-13-govt-shifts-daily-fuel-pricing-mechanism",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-09-04/petrol-price-cut-rs3-13-govt-shifts-daily-fuel-pricing-mechanism-1788546283-2198.jpg",
-      "publishedAt": "2026-09-04T18:24:52Z",
-      "source": {
-        "name": "The Nation"
       }
     }
   ]
