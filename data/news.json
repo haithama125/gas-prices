@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-09-06T09:54:07+00:00",
+  "updated_at": "2026-09-06T14:36:55+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Malaysia\u2019s fuel supplies safe, but high oil prices could linger for at least two years, says PM\u2019s economic adviser",
+      "description": "PUTRAJAYA, Sept 6 \u2014 Malaysia\u2019s fuel supply remains stable despite lower global supply levels, with the government confident it can secure sufficient supplies through to the end...",
+      "url": "https://www.malaymail.com/news/money/2026/09/06/malaysias-fuel-supplies-safe-but-high-oil-prices-could-linger-for-at-least-two-years-says-pms-economic-adviser/234108",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/06/360909.jpg",
+      "publishedAt": "2026-09-06T02:19:19Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "MG Pakistan hosts \u2018Experience More Karachi\u2019, introduces All New MG HS Petrol",
+      "description": "KARACHI\u00a0 -\u00a0 MG Motor Pakistan hosted \u201cExperience More Karachi\u201d, an exclusive brand ex\u00adperience bringing together customers, partners, media",
+      "url": "https://www.nation.com.pk/06-Sep-2026/mg-pakistan-hosts-experience-karachi-introduces-new-mg-hs-petrol",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-09-06T02:09:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Sending your bike by train? These rules could save you money and a lot of trouble",
+      "description": "Planning to send your bike or bicycle by train? Know the Indian Railways rules on booking, documents, petrol, packing, charges, receipt and delivery before you hand over your two-wheeler.",
+      "url": "https://www.businesstoday.in/latest/photo/sending-your-bike-by-train-these-rules-could-save-you-money-and-a-lot-of-trouble-552857-2026-09-06",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202609/6a97f8ae7cc2e-train-022129204-16x9.jpg",
+      "publishedAt": "2026-09-06T01:10:02Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100",
+      "description": "Oil prices surged at the end of the week, driven by escalating military tensions between the US and Iran, raising concerns over potential disruptions in Middle Eastern supply. , US News, Times Now",
+      "url": "https://www.timesnownews.com/world/us/us-news/oil-prices-surge-after-fresh-us-iran-strikes-brent-nears-100-article-156092423",
+      "image": "https://images.timesnownews.com/thumb/msid-156092371,thumbsize-255616,width-1280,height-720,resizemode-75/156092371.jpg",
+      "publishedAt": "2026-09-06T00:17:35Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
     {
       "title": "JD Vance blames Iran for high gas prices, criticizes Europe over Strait of Hormuz",
       "description": "US Vice President JD Vance blamed Iran on Thursday for rising fuel prices following attacks on commercial shipping and sharply criticized European countries",
@@ -62,46 +102,6 @@
       "publishedAt": "2026-09-05T17:59:00Z",
       "source": {
         "name": "Times of India"
-      }
-    },
-    {
-      "title": "European Gas Prices Rise to Highest Since 2023 as U.S. Intensifies Strikes on Iran",
-      "description": "European benchmark natural gas prices have climbed to their highest level since the 2023 energy crisis, according to market data, as the United States intensifies military operations against Iran. The Dutch TTF futures contract, the standard for European gas trading, reached levels not seen in more than three and a half years, driven by escalating [\u2026]",
-      "url": "https://www.naturalnews.com/2026-09-05-european-gas-rise-highest-us-intesifies-strikes-iran.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/09/european-gas-prices-us-strikes-on-iran-geopolitical-risk-3868-original.jpg",
-      "publishedAt": "2026-09-05T17:31:20Z",
-      "source": {
-        "name": "Natural News"
-      }
-    },
-    {
-      "title": "CNG, hybrid and EVs overtake petrol as India\u2019s car buyers embrace cleaner fuels",
-      "description": "India's passenger vehicle market is shifting towards cleaner fuels, with CNG, hybrid, and electric vehicles representing 42% of sales in August 2026. Petrol's share dropped to a record low of 41%, supported by improved affordability from recent GST cuts.",
-      "url": "https://www.livemint.com/news/india/cng-hybrid-and-evs-overtake-petrol-as-india-s-car-buyers-embrace-cleaner-fuels-11788628628925.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Petrol-Crises-2_1779172720934_1779172736263_88214f59-b68b-4e7f-922d-ff39b26d7f7d_1788629269731_abc99e99-4f58-4c91-af17-cd861f88c28a_746bac9f-251d-472f-849e-55f4fd38005f_39cf5a9e-5bda-41ac-89ba-da3f3d8506b4.jpg",
-      "publishedAt": "2026-09-05T17:30:20Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Venezuela oil deal won't reduce domestic gasoline prices anytime soon, experts say",
-      "description": "This article originally appeared on PolitiFact. Almost nine months after the United States deposed Venezuelan leader Nicol\u00e1s Maduro, President Donald Trump",
-      "url": "https://www.newsbreak.com/pbs-newshour-513240/4868981923034-u-s-venezuela-oil-deal-won-t-reduce-domestic-gasoline-prices-anytime-soon-experts-say",
-      "image": "https://img.particlenews.com/img/id/2EhNT8_1Et5bv4l00",
-      "publishedAt": "2026-09-05T17:17:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "We got more defensive last week as Wall Street raised the bar for AI stocks",
-      "description": "We initiated positions in defensive stocks to balance our AI exposure amid higher oil prices and Treasury yields.",
-      "url": "https://www.cnbc.com/2026/09/05/we-got-more-defensive-last-week-as-wall-street-raised-the-bar-for-ai-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108356507-1788194313682-gettyimages-2292379384-US_STOCKS.jpeg?v=1788194341&w=1920&h=1080",
-      "publishedAt": "2026-09-05T16:43:59Z",
-      "source": {
-        "name": "CNBC"
       }
     }
   ]
