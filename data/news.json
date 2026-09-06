@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-09-06T14:36:55+00:00",
+  "updated_at": "2026-09-06T19:45:04+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "West Asia conflict, crude prices likely to drive stock markets this week",
+      "description": "On the domestic front, investors will continue to monitor foreign institutional flows, the rupee, crude oil prices and domestic liquidity",
+      "url": "https://www.business-standard.com/markets/news/west-asia-conflict-crude-prices-likely-to-drive-stock-markets-this-week-126090600218_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/01/thumb/featurecrop/1200X628/1775062918-8137.jpg",
+      "publishedAt": "2026-09-06T07:31:42Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "New HMRC milage rates for petrol and diesel drivers now in force",
+      "description": "HMRC has updated its advisory fuel rates for petrol, diesel, LPG and electric company cars. The rates, reviewed quarterly, are used by UK businesses to reimburse drivers and calculate private fuel repayments.",
+      "url": "https://www.chroniclelive.co.uk/news/uk-news/new-hmrc-milage-rates-petrol-34574613",
+      "image": "https://i2-prod.chroniclelive.co.uk/article34574611.ece/ALTERNATES/s1200d/0_Picking-up-unleaded-fuel-pump.jpg",
+      "publishedAt": "2026-09-06T07:03:52Z",
+      "source": {
+        "name": "Evening Chronicle"
+      }
+    },
+    {
+      "title": "FPIs resume selling; pull out Rs 7,443 cr from equities in first week of Sep",
+      "description": "September witnessed a notable outflow of Rs 7,443 crore from Indian equities as foreign investors retracted their investments, a stark contrast to the previous months' inflows. Contributing factors include increasing crude oil prices and robust US bond yields affecting investor confidence. Meanwhile, India's primary market still captivates foreign funds, showing resilience in attracting capital.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-resume-selling-pull-out-rs-7443-cr-from-equities-in-first-week-of-sep/articleshow/133828937.cms",
+      "image": "https://img.etimg.com/thumb/msid-133828966,width-1200,height-630,imgsize-20596,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-06T06:57:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "FPIs resume selling; pull out Rs 7,443 cr from equities in first week of Sept",
+      "description": "NEW DELHI, Sept 6: After investing in Indian equities for two consecutive months, foreign investors turned net sellers in the first week of September, pulling out Rs 7,443 crore as a rebound in crude oil prices, rising US bond yields,...",
+      "url": "https://www.dailyexcelsior.com/fpis-resume-selling-pull-out-rs-7443-cr-from-equities-in-first-week-of-sept/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTkwMmY1NDUwLWE5YmQtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+      "publishedAt": "2026-09-06T06:38:24Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "New HMRC mileage rates now in force for petrol and diesel drivers",
+      "description": "Updated quarterly by HMRC and used by UK businesses to reimburse drivers and calculate private fuel repayments.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/new-hmrc-mileage-charges-now-34549482",
+      "image": "https://i2-prod.birminghammail.co.uk/article34549525.ece/ALTERNATES/s1200d/0_fuel1.jpg",
+      "publishedAt": "2026-09-06T05:22:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Crude oil rally nears $100: Will geopolitical risks push prices higher?",
+      "description": "Crude oil prices are nearing $100 per barrel, driven by escalating geopolitical tensions between the US and Iran. While physical supply remains intact, fears of disruptions in the Strait of Hormuz have added a risk premium. Hareesh V of Geojit Investments analyses whether these risks will push prices higher.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/crude-oil-rally-nears-100-will-geopolitical-risks-push-prices-higher/articleshow/133826020.cms",
+      "image": "https://img.etimg.com/thumb/msid-133826053,width-1200,height-630,imgsize-205072,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-06T04:39:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today: Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz",
+      "description": "Petrol and diesel prices today, 6 Sep: The Aerospace Force of Iran's IRGC on Saturday claimed that it fired several ballistic missiles at two US warships. Check fuel rates in Delhi, Mumbai, Bengaluru amid renewed US-Iran crossfire in Hormuz.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-check-fuel-rates-in-delhi-mumbai-bengaluru-amid-renewed-us-iran-crossfire-in-hormuz-11788659238922.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/06/1600x900/logo/pt_1788664015925_1db056bc-830a-40be-8043-63b5aedab4fa_1788664026905_e7c92ab8-12f3-498e-bb91-bd264f273cd6_a96465f4-a4f4-4892-a805-350984f2cec5_d9b22f61-a44b-442d-8a82-2ee3a08c7842.jpg",
+      "publishedAt": "2026-09-06T03:12:11Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, September 6: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "A combination of global, economic, and domestic factors shapes fuel prices at the pump. The rupee-dollar exchange rate is another key variable, given that India relies heavily on imported crude.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-6-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-553475-2026-09-06",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9ccd685d7b9-on-top-of-that--taxes-levied-by-both-the-central-and-state-governments-make-up-a-substantial-portion-033855216-16x9.png",
+      "publishedAt": "2026-09-06T02:48:45Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
     {
       "title": "Malaysia\u2019s fuel supplies safe, but high oil prices could linger for at least two years, says PM\u2019s economic adviser",
       "description": "PUTRAJAYA, Sept 6 \u2014 Malaysia\u2019s fuel supply remains stable despite lower global supply levels, with the government confident it can secure sufficient supplies through to the end...",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-09-06T02:09:00Z",
       "source": {
         "name": "The Nation"
-      }
-    },
-    {
-      "title": "Sending your bike by train? These rules could save you money and a lot of trouble",
-      "description": "Planning to send your bike or bicycle by train? Know the Indian Railways rules on booking, documents, petrol, packing, charges, receipt and delivery before you hand over your two-wheeler.",
-      "url": "https://www.businesstoday.in/latest/photo/sending-your-bike-by-train-these-rules-could-save-you-money-and-a-lot-of-trouble-552857-2026-09-06",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202609/6a97f8ae7cc2e-train-022129204-16x9.jpg",
-      "publishedAt": "2026-09-06T01:10:02Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Oil Prices Surge After Fresh US-Iran Strikes; Brent Nears $100",
-      "description": "Oil prices surged at the end of the week, driven by escalating military tensions between the US and Iran, raising concerns over potential disruptions in Middle Eastern supply. , US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/oil-prices-surge-after-fresh-us-iran-strikes-brent-nears-100-article-156092423",
-      "image": "https://images.timesnownews.com/thumb/msid-156092371,thumbsize-255616,width-1280,height-720,resizemode-75/156092371.jpg",
-      "publishedAt": "2026-09-06T00:17:35Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "JD Vance blames Iran for high gas prices, criticizes Europe over Strait of Hormuz",
-      "description": "US Vice President JD Vance blamed Iran on Thursday for rising fuel prices following attacks on commercial shipping and sharply criticized European countries",
-      "url": "https://www.europesays.com/3235070/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/736560.jpeg",
-      "publishedAt": "2026-09-05T20:57:21Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Americans Face Record-High Gasoline Prices Over Labor Day Weekend",
-      "description": "Americans are experiencing unprecedented gasoline prices this Labor Day weekend, with the national average projected to exceed $4 per gallon, driven by rising crude oil costs and concerns over energy supply disruptions due to Middle Eastern conflicts. , US News, Times Now",
-      "url": "https://www.timesnownews.com/world/us/us-news/americans-face-record-high-gasoline-prices-over-labor-day-weekend-article-156069122",
-      "image": "https://images.timesnownews.com/thumb/msid-156069089,thumbsize-137370,width-1280,height-720,resizemode-75/156069089.jpg",
-      "publishedAt": "2026-09-05T20:44:33Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Drivers face \u00a389 charge to fill up average family cars in September",
-      "description": "The average price of petrol has now hit 161.6 pence a litre, according to figures from the AA.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-face-89-charge-fill-34547897",
-      "image": "https://i2-prod.birminghammail.co.uk/article34547903.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-09-05T20:22:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Maruti Suzuki Baleno facelift launched in India at Rs. 6.10 lakh: Key features",
-      "description": "The updated Baleno is now powered by Maruti Suzuki\u2019s 1.2-litre Z Series three-cylinder petrol engine. The unit is also used in the Swift and Dzire and can be paired with either a five-speed manual gearbox or an AMT.",
-      "url": "https://www.livemint.com/auto-news/maruti-suzuki-baleno-facelift-launched-in-india-at-rs-6-10-lakh-key-features-11788629764969.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/05/1600x900/logo/Untitled_design_-_2026-09-05T233150.952_1788631304898_7910fcd6-3e88-43cb-bd82-e49e092e8623_1788631314491_2fea323e-e7e8-4626-8459-5955d7bafb05_ae034948-e396-40ac-bc72-fb4478d7d805_1df4c7c7-63cd-471b-9241-ee0ba0efde13.png",
-      "publishedAt": "2026-09-05T18:13:22Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "HMRC confirms new 17p rate now in force for some petrol drivers",
-      "description": "The tax authority has confirmed its new advisory fuel rates.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/hmrc-confirms-new-17p-charge-34538756",
-      "image": "https://i2-prod.birminghammail.co.uk/article34538759.ece/ALTERNATES/s1200d/0_cars.jpg",
-      "publishedAt": "2026-09-05T18:03:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Maruti Suzuki launches new Baleno at \u20b96.09 lakh with Level 2 ADAS",
-      "description": "Maruti Suzuki launches new Baleno from \u20b96.09 lakh with Level 2 ADAS, Z12E petrol engine, ventilated seats, 6 airbags, and improved mileage; bookings \u20b911,000.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/maruti-suzuki-launches-new-baleno-at-6-09-lakh-with-level-2-adas/articleshow/133811129.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133811127,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-05T17:59:00Z",
-      "source": {
-        "name": "Times of India"
       }
     }
   ]
