@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-07T11:01:43+00:00",
+  "updated_at": "2026-09-07T16:50:44+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
-      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon. It's never been more expensive in the U.S. to fill up the",
-      "url": "https://www.breitbart.com/news/fuel-prices-at-record-labor-day-high-in-us-thanks-to-iran-war-and-refinery-issues/",
-      "image": "https://media.breitbart.com/media/2026/09/wi/ap/us-diesel-prices-67-us-diesel-prices-diesel-prices-at-gas-station-prices-hit-record-fr-640x335.jpg",
-      "publishedAt": "2026-09-06T22:04:39Z",
+      "title": "India\u2019s crude import price nears $100/barrel amid global oil market volatility",
+      "description": "Petrol consumption rose 7.9% and diesel demand 6.4% in August, adding pressure on state-run oil companies as global prices climb. | India News",
+      "url": "https://www.hindustantimes.com/india-news/india-crude-import-price-nears-100-barrel-amid-global-oil-market-volatility-101788754622290.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/07/1600x900/logo/pexels-photo-15981221_1788755313313_71c6d828-2918-4ffc-b236-ef036230ec97_1788755361768_13f112ea-4792-4a37-86ba-4a55b1949168_74096d2b-d1b6-4911-b587-96649f48cab4_e0a1067a-6901-49c8-b9d8-b72789b98b9a.jpeg",
+      "publishedAt": "2026-09-07T04:38:54Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Iran warns the US of 'more intense and more painful' counterattacks",
-      "description": "The Iranian government will raise petrol prices to counter economic pressure from US sanctions.",
-      "url": "https://www.sbs.com.au/news/article/iran-warns-the-us-of-more-intense-and-more-painful-counterattacks/zryesd3c5",
-      "image": "https://assets.sbs.com.au/dims4/default/289687e/2147483647/strip/true/crop/8254x4643+1+76/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F59%2Ffd%2F9e89dd6e4c19a84908a02ecace35%2Fafp-20260904-c7e3447-v1-highres-uspoliticstrump.jpg",
-      "publishedAt": "2026-09-06T21:42:36Z",
+      "title": "Alternative-fuel car sales in India top petrol on cost, E20 concerns, dealers' body says",
+      "description": "Sales of alternative-fuel passenger vehicles outpaced petrol-powered cars in India in August for the \u200bfirst time, an auto dealers' body said on Monday, as the Middle \u200cEast war raised oil prices and a public backlash against higher-ethanol-content fuel simmered.",
+      "url": "https://www.reuters.com/world/india/indias-alternative-fuel-car-sales-top-petrol-cost-e20-concerns-dealers-body-says-2026-09-07/",
+      "image": "https://www.reuters.com/resizer/v2/27LFVSE6SFPKPKCUYLH7AFIXMY.jpg?auth=dd52fb0ecd217a7080ba47149b01ac7913737d496d39a585e7bc8b71fcaddb2d&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-07T04:34:04Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Energy Secretary Chris Wright Bungles Gas Prices Interviews",
-      "description": "\u201cI don\u2019t want to have an opinion on that,\u201d Wright fumbled when asked if Americans can expect prices at the pump to keep climbing.",
-      "url": "https://www.huffpost.com/entry/energy-secretary-chris-wright-fuel-prices_n_6a9d9596e4b0facfe72a8b22",
-      "image": "https://img.huffingtonpost.com/asset/6a9dc17219000025ab6bc56a.jpeg?cache=IOOrGoMkSL&ops=1200_630",
-      "publishedAt": "2026-09-06T20:55:42Z",
-      "source": {
-        "name": "HuffPost"
-      }
-    },
-    {
-      "title": "Iran will declare a \u2018prohibited zone\u2019 near Hormuz in coming days: security chief",
-      "description": "Iran also said it will raise petrol prices for heavier consumers as the US steps up sanctions seeking to isolate the country\u2019s economy.",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/07/c39f91b7-bd05-4412-b6eb-26db60745e2a_12f745be.jpg?itok=NYmYzqtg&v=1788724218",
-      "publishedAt": "2026-09-06T19:53:02Z",
-      "source": {
-        "name": "South China Morning Post"
-      }
-    },
-    {
-      "title": "Iran raises price of petrol as US applies economic pressure",
-      "description": "The move came as the US steps up sanctions seeking to isolate the country\u2019s economy. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-raises-price-of-petrol-as-us-applies-economic-pressure",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c2a470a3df1b1a03726c1a5f1bfb976261265c600ac6d5eeb7765bd71cea3108",
-      "publishedAt": "2026-09-06T19:49:48Z",
-      "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "Russia now buys back petrol, but no price edge for refiners",
-      "description": "Despite importing 2.5 million bpd of Russian crude, India exported 1.66 million barrels of gasoline back to Russia in June-July to offset Ukrainian attack disruptions, though Urals crude discounts continue to narrow.",
-      "url": "https://www.financialexpress.com/policy/economy/russia-now-buys-back-petrol-but-no-price-edge-for-refiners/4333226/",
-      "image": "https://images.financialexpressdigital.com/2026/09/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260730144824_20260902150438_20260906193621.jpg",
-      "publishedAt": "2026-09-06T19:40:55Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Petrol drivers face 27p per mile HMRC charges in September",
-      "description": "A new rate has been confirmed to take effect from September 1.",
-      "url": "https://www.express.co.uk/life-style/cars/2246073/petrol-drivers-face-27p-per",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7129811.jpg",
-      "publishedAt": "2026-09-06T19:39:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Iran's Gasoline Price Hike Amid Economic Strain and Sanctions",
-      "description": "Iran is set to increase gasoline prices for users consuming over 110 litres monthly, starting Tuesday. The decision, aimed at addressing issues from the war and U.S. sanctions, follows previous price hikes and concerns over potential protests. The first two quotas remain unchanged, while the third sees a price increase.",
-      "url": "https://www.devdiscourse.com/article/business/3973399-irans-gasoline-price-hike-amid-economic-strain-and-sanctions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_02_50_36_5555299.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-06T19:06:33Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "India not shining enough for international tourists, arrivals likely to stay flat this year",
-      "description": "India's foreign tourist arrivals are projected to plateau this year, influenced by rising oil prices from ongoing global conflicts that have increased travel costs for many. Industry professionals urge the need for renewed marketing initiatives abroad, while the Federation of Associations in Indian Tourism and Hospitality forecasts only 8-9 million foreign visitors by 2026, still falling short of pre-Covid levels, indicating a persistent challenge for India's tourism sector.",
-      "url": "https://economictimes.indiatimes.com/industry/services/travel/india-not-shining-enough-for-international-tourists-arrivals-likely-to-stay-flat-this-year/articleshow/133849332.cms",
-      "image": "https://img.etimg.com/thumb/msid-133849724,width-1200,height-630,imgsize-258136,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-06T19:06:00Z",
+      "title": "US Stock Market: Equity funds see second straight week of outflows as investors turn cautious",
+      "description": "U.S. equity funds saw $11.12 billion in net outflows for a second straight week as rising bond yields, oil prices and Middle East tensions dampened sentiment. Strong AI-related earnings from Nvidia and Dell limited the decline. Investors favored safer assets, with money market funds attracting $48.76 billion, reflecting heightened market caution.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-equity-funds-see-second-straight-week-of-outflows-as-investors-turn-cautious/articleshow/133863283.cms",
+      "image": "https://img.etimg.com/thumb/msid-133863335,width-1200,height-630,imgsize-141448,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-07T04:24:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Middle East tensions drive investment in domestic biofuels",
-      "description": "The spike in oil prices amid six months of conflict in the Middle East has made the Townsville-based start-up\u2019s clean aviation fuel hopes more attractive.",
-      "url": "https://www.afr.com/companies/transport/posco-joins-qantas-airbus-in-bumper-jet-zero-capital-raising-20260904-p60uj7",
-      "image": "https://static.ffx.io/images/$zoom_0.5755%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/655bde7f12ad1d18d87a6a94582a3026bf47d67d",
-      "publishedAt": "2026-09-06T19:00:00Z",
+      "title": "US Stock Market: Equity funds see second straight week of outflows as investors turn cautious",
+      "description": "U.S. equity funds saw $11.12 billion in net outflows for a second straight week as rising bond yields, oil prices and Middle East tensions dampened sentiment. Strong AI-related earnings from Nvidia and Dell limited the decline. Investors favored safer assets, with money market funds attracting $48.76 billion, reflecting heightened market caution.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-equity-funds-see-second-straight-week-of-outflows-as-investors-turn-cautious/articleshow/133863283.cms",
+      "image": "https://img.etimg.com/thumb/msid-133863335,width-1200,height-630,imgsize-141448,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-07T04:24:00Z",
       "source": {
-        "name": "Australian Financial Review"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Fed hike won\u2019t derail markets; Arvind Sanger sees broader opportunities beyond Nifty",
+      "description": "Arvind Sanger, Managing Partner of Geosphere Capital Management discusses the Fed rate outlook, AI-driven US growth, data centre risks, oil prices and opportunities across Indian midcaps, smallcaps, manufacturing, healthcare and financials.",
+      "url": "https://www.cnbctv18.com/market/nifty-india-fed-rate-hike-ai-data-center-healthcare-pharma-market-outlook-19985239.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/federal-reserve-building-2026-08-2161a19ee75d653e93e2e553772d8122.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-07T04:23:35Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Sensex, Nifty Start In The Red As IPO Frenzy And Middle East Tensions Rattle Markets",
+      "description": "Sensex and Nifty opened lower as a packed IPO calendar and Middle East tensions weighed on sentiment, while higher crude oil prices added to market concerns.",
+      "url": "https://www.freepressjournal.in/business/sensex-nifty-start-in-the-red-as-ipo-frenzy-and-middle-east-tensions-rattle-markets",
+      "image": "https://media.assettype.com/freepressjournal/2025-04-10/9uqen2px/bse-holiday-list.jpg",
+      "publishedAt": "2026-09-07T04:21:43Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption",
+      "description": "International Business News: Oil prices extended gains on Monday as fresh strikes between the US and Iran targeting vessels in and around the Strait of Hormuz heightened concerns .",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-rises-as-us-iran-strikes-fuel-fears-of-prolonged-hormuz-disruption/articleshow/133863016.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133863176,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-07T04:20:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Another rate hike, just for insurance: Five questions for the ECB",
+      "description": "The European Central Bank is widely expected to hike interest rates on Thursday, erring on the side of caution as the U.S.-Iran wardrags on, keeping oil prices high \u200band raising inflation again.",
+      "url": "https://www.reuters.com/business/finance/another-rate-hike-just-insurance-five-questions-ecb-2026-09-07/",
+      "image": "https://www.reuters.com/resizer/v2/KPQDAKEH3RMMLP6Y7B6QG34QAA.jpg?auth=21ac8b3324ea450a727dd69d86d65ae53b5c6767929c09b30d955eced8182071&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-07T04:03:18Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "US fuel prices hit record high for Labor Day weekend",
+      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon. This is nearly a dollar more than last year and surpasses the previous record of $3.82 from 2012.",
+      "url": "https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa06ef930aaeebc380e5e4e0e",
+      "image": "https://dims.apnews.com/dims4/default/be7831e/2147483647/strip/true/crop/8066x5375+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F63%2F66ed0aee37e7192d6caf5c1671b7%2F49c6299dedeb414682cfe994e7a5f572",
+      "publishedAt": "2026-09-07T04:03:15Z",
+      "source": {
+        "name": "The Associated Press"
+      }
+    },
+    {
+      "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
+      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon.",
+      "url": "https://www.clickondetroit.com/business/2026/09/07/fuel-prices-at-record-labor-day-high-in-us-thanks-to-iran-war-and-refinery-issues/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/4UDY7ZHMFREQ7ETZ6ERTMSSE3A.jpg",
+      "publishedAt": "2026-09-07T04:03:15Z",
+      "source": {
+        "name": "WDIV ClickOnDetroit"
       }
     }
   ]
