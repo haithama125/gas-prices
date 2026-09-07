@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-07T01:52:37+00:00",
+  "updated_at": "2026-09-07T11:01:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Israel cuts fuel tax as US-Iran conflict pushes up gasoline prices",
-      "description": "Israel's finance minister ordered a fuel excise tax cut for two months. This action addresses the recent surge in gasoline prices across the nation. Petrol prices reached an all-time high, causing public dissatisfaction and concern. The tax reduction aims to lower the price of gasoline per litre. Global oil prices and Middle East tensions are influencing these domestic fuel costs.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/israel-cuts-fuel-tax-as-us-iran-conflict-pushes-up-gasoline-prices/articleshow/133839546.cms",
-      "image": "https://img.etimg.com/thumb/msid-133839667,width-1200,height-630,imgsize-75144,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-06T13:52:00Z",
+      "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
+      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon. It's never been more expensive in the U.S. to fill up the",
+      "url": "https://www.breitbart.com/news/fuel-prices-at-record-labor-day-high-in-us-thanks-to-iran-war-and-refinery-issues/",
+      "image": "https://media.breitbart.com/media/2026/09/wi/ap/us-diesel-prices-67-us-diesel-prices-diesel-prices-at-gas-station-prices-hit-record-fr-640x335.jpg",
+      "publishedAt": "2026-09-06T22:04:39Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Iran warns the US of 'more intense and more painful' counterattacks",
+      "description": "The Iranian government will raise petrol prices to counter economic pressure from US sanctions.",
+      "url": "https://www.sbs.com.au/news/article/iran-warns-the-us-of-more-intense-and-more-painful-counterattacks/zryesd3c5",
+      "image": "https://assets.sbs.com.au/dims4/default/289687e/2147483647/strip/true/crop/8254x4643+1+76/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F59%2Ffd%2F9e89dd6e4c19a84908a02ecace35%2Fafp-20260904-c7e3447-v1-highres-uspoliticstrump.jpg",
+      "publishedAt": "2026-09-06T21:42:36Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "Energy Secretary Chris Wright Bungles Gas Prices Interviews",
+      "description": "\u201cI don\u2019t want to have an opinion on that,\u201d Wright fumbled when asked if Americans can expect prices at the pump to keep climbing.",
+      "url": "https://www.huffpost.com/entry/energy-secretary-chris-wright-fuel-prices_n_6a9d9596e4b0facfe72a8b22",
+      "image": "https://img.huffingtonpost.com/asset/6a9dc17219000025ab6bc56a.jpeg?cache=IOOrGoMkSL&ops=1200_630",
+      "publishedAt": "2026-09-06T20:55:42Z",
+      "source": {
+        "name": "HuffPost"
+      }
+    },
+    {
+      "title": "Iran will declare a \u2018prohibited zone\u2019 near Hormuz in coming days: security chief",
+      "description": "Iran also said it will raise petrol prices for heavier consumers as the US steps up sanctions seeking to isolate the country\u2019s economy.",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3366566/iran-will-declare-prohibited-zone-near-hormuz-coming-days-security-chief",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2026/09/07/c39f91b7-bd05-4412-b6eb-26db60745e2a_12f745be.jpg?itok=NYmYzqtg&v=1788724218",
+      "publishedAt": "2026-09-06T19:53:02Z",
+      "source": {
+        "name": "South China Morning Post"
+      }
+    },
+    {
+      "title": "Iran raises price of petrol as US applies economic pressure",
+      "description": "The move came as the US steps up sanctions seeking to isolate the country\u2019s economy. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/middle-east/iran-raises-price-of-petrol-as-us-applies-economic-pressure",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c2a470a3df1b1a03726c1a5f1bfb976261265c600ac6d5eeb7765bd71cea3108",
+      "publishedAt": "2026-09-06T19:49:48Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Russia now buys back petrol, but no price edge for refiners",
+      "description": "Despite importing 2.5 million bpd of Russian crude, India exported 1.66 million barrels of gasoline back to Russia in June-July to offset Ukrainian attack disruptions, though Urals crude discounts continue to narrow.",
+      "url": "https://www.financialexpress.com/policy/economy/russia-now-buys-back-petrol-but-no-price-edge-for-refiners/4333226/",
+      "image": "https://images.financialexpressdigital.com/2026/09/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260730144824_20260902150438_20260906193621.jpg",
+      "publishedAt": "2026-09-06T19:40:55Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Petrol drivers face 27p per mile HMRC charges in September",
+      "description": "A new rate has been confirmed to take effect from September 1.",
+      "url": "https://www.express.co.uk/life-style/cars/2246073/petrol-drivers-face-27p-per",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7129811.jpg",
+      "publishedAt": "2026-09-06T19:39:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Iran's Gasoline Price Hike Amid Economic Strain and Sanctions",
+      "description": "Iran is set to increase gasoline prices for users consuming over 110 litres monthly, starting Tuesday. The decision, aimed at addressing issues from the war and U.S. sanctions, follows previous price hikes and concerns over potential protests. The first two quotas remain unchanged, while the third sees a price increase.",
+      "url": "https://www.devdiscourse.com/article/business/3973399-irans-gasoline-price-hike-amid-economic-strain-and-sanctions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_05_2026_02_50_36_5555299.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-06T19:06:33Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "India not shining enough for international tourists, arrivals likely to stay flat this year",
+      "description": "India's foreign tourist arrivals are projected to plateau this year, influenced by rising oil prices from ongoing global conflicts that have increased travel costs for many. Industry professionals urge the need for renewed marketing initiatives abroad, while the Federation of Associations in Indian Tourism and Hospitality forecasts only 8-9 million foreign visitors by 2026, still falling short of pre-Covid levels, indicating a persistent challenge for India's tourism sector.",
+      "url": "https://economictimes.indiatimes.com/industry/services/travel/india-not-shining-enough-for-international-tourists-arrivals-likely-to-stay-flat-this-year/articleshow/133849332.cms",
+      "image": "https://img.etimg.com/thumb/msid-133849724,width-1200,height-630,imgsize-258136,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-06T19:06:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.kentlive.news/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
+      "title": "Middle East tensions drive investment in domestic biofuels",
+      "description": "The spike in oil prices amid six months of conflict in the Middle East has made the Townsville-based start-up\u2019s clean aviation fuel hopes more attractive.",
+      "url": "https://www.afr.com/companies/transport/posco-joins-qantas-airbus-in-bumper-jet-zero-capital-raising-20260904-p60uj7",
+      "image": "https://static.ffx.io/images/$zoom_0.5755%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_108/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/655bde7f12ad1d18d87a6a94582a3026bf47d67d",
+      "publishedAt": "2026-09-06T19:00:00Z",
       "source": {
-        "name": "Kentlive"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.devonlive.com/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/article11144966.ece/ALTERNATES/s1200d/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Devon Live"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Grimsby Telegraph"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.bristolpost.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Bristol Post"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.gloucestershirelive.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Gloucestershire Live"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.hulldailymail.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Hull Daily Mail"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Derby Telegraph"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.essexlive.news/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Essexlive"
-      }
-    },
-    {
-      "title": "Drivers being hit with \u00a335 'fine' after filling up at petrol stations",
-      "description": "A consumer expert has explained what is going on and how you should respond",
-      "url": "https://www.leicestermercury.co.uk/news/uk-world-news/drivers-being-hit-35-fine-11144965",
-      "image": "https://i2-prod.devonlive.com/news/uk-world-news/article11144966.ece/ALTERNATES/s1200/0_GettyImages-2269237824.jpg",
-      "publishedAt": "2026-09-06T13:05:15Z",
-      "source": {
-        "name": "Leicester Mercury"
+        "name": "Australian Financial Review"
       }
     }
   ]
