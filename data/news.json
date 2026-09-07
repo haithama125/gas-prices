@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-07T16:50:44+00:00",
+  "updated_at": "2026-09-07T20:54:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India\u2019s crude import price nears $100/barrel amid global oil market volatility",
-      "description": "Petrol consumption rose 7.9% and diesel demand 6.4% in August, adding pressure on state-run oil companies as global prices climb. | India News",
-      "url": "https://www.hindustantimes.com/india-news/india-crude-import-price-nears-100-barrel-amid-global-oil-market-volatility-101788754622290.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/07/1600x900/logo/pexels-photo-15981221_1788755313313_71c6d828-2918-4ffc-b236-ef036230ec97_1788755361768_13f112ea-4792-4a37-86ba-4a55b1949168_74096d2b-d1b6-4911-b587-96649f48cab4_e0a1067a-6901-49c8-b9d8-b72789b98b9a.jpeg",
-      "publishedAt": "2026-09-07T04:38:54Z",
+      "title": "Gas prices at record high for any Labor Day weekend",
+      "description": "The average price of regular gas was $4.14 a gallon heading into the holiday, nearly $1 higher than last year and well above the Labor Day weekend record of $3.82 from 2012, according to AAA.",
+      "url": "https://www.cbsnews.com/news/labor-day-gas-prices-record-high/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/15/96292829-70c1-4149-b767-9d4cf98eec33/thumbnail/1200x630/b32cc99e3f4d38930ea9364688820df3/pump.jpg",
+      "publishedAt": "2026-09-07T08:47:20Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Alternative-fuel car sales in India top petrol on cost, E20 concerns, dealers' body says",
-      "description": "Sales of alternative-fuel passenger vehicles outpaced petrol-powered cars in India in August for the \u200bfirst time, an auto dealers' body said on Monday, as the Middle \u200cEast war raised oil prices and a public backlash against higher-ethanol-content fuel simmered.",
-      "url": "https://www.reuters.com/world/india/indias-alternative-fuel-car-sales-top-petrol-cost-e20-concerns-dealers-body-says-2026-09-07/",
-      "image": "https://www.reuters.com/resizer/v2/27LFVSE6SFPKPKCUYLH7AFIXMY.jpg?auth=dd52fb0ecd217a7080ba47149b01ac7913737d496d39a585e7bc8b71fcaddb2d&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-07T04:34:04Z",
+      "title": "Gas prices at record high for any Labor Day, as diesel hits all-time record",
+      "description": "The average price of regular gas was $4.15 a gallon on Labor Day, well above the Labor Day weekend record of $3.82 from 2012, and diesel was at a new all-time record of $5.90.",
+      "url": "https://www.cbsnews.com/sacramento/news/labor-day-gas-prices-record-high/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/15/96292829-70c1-4149-b767-9d4cf98eec33/thumbnail/1200x630/b32cc99e3f4d38930ea9364688820df3/pump.jpg",
+      "publishedAt": "2026-09-07T08:47:00Z",
       "source": {
-        "name": "Reuters"
+        "name": "CBS News"
       }
     },
     {
-      "title": "US Stock Market: Equity funds see second straight week of outflows as investors turn cautious",
-      "description": "U.S. equity funds saw $11.12 billion in net outflows for a second straight week as rising bond yields, oil prices and Middle East tensions dampened sentiment. Strong AI-related earnings from Nvidia and Dell limited the decline. Investors favored safer assets, with money market funds attracting $48.76 billion, reflecting heightened market caution.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stock-market-equity-funds-see-second-straight-week-of-outflows-as-investors-turn-cautious/articleshow/133863283.cms",
-      "image": "https://img.etimg.com/thumb/msid-133863335,width-1200,height-630,imgsize-141448,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-07T04:24:00Z",
+      "title": "Gas prices at record high for any Labor Day, as diesel hits all-time record",
+      "description": "The average price of regular gas was $4.15 a gallon on Labor Day, well above the Labor Day weekend record of $3.82 from 2012, and diesel was at a new all-time record of $5.90.",
+      "url": "https://www.cbsnews.com/texas/news/labor-day-gas-prices-record-high/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/15/96292829-70c1-4149-b767-9d4cf98eec33/thumbnail/1200x630/b32cc99e3f4d38930ea9364688820df3/pump.jpg",
+      "publishedAt": "2026-09-07T08:47:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CBS News"
       }
     },
     {
-      "title": "US Stock Market: Equity funds see second straight week of outflows as investors turn cautious",
-      "description": "U.S. equity funds saw $11.12 billion in net outflows for a second straight week as rising bond yields, oil prices and Middle East tensions dampened sentiment. Strong AI-related earnings from Nvidia and Dell limited the decline. Investors favored safer assets, with money market funds attracting $48.76 billion, reflecting heightened market caution.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-equity-funds-see-second-straight-week-of-outflows-as-investors-turn-cautious/articleshow/133863283.cms",
-      "image": "https://img.etimg.com/thumb/msid-133863335,width-1200,height-630,imgsize-141448,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-07T04:24:00Z",
+      "title": "Gas prices at record high for any Labor Day, as diesel hits all-time record",
+      "description": "The average price of regular gas was $4.15 a gallon on Labor Day, well above the Labor Day weekend record of $3.82 from 2012, and diesel was at a new all-time record of $5.90.",
+      "url": "https://www.cbsnews.com/detroit/news/labor-day-gas-prices-record-high/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/06/15/96292829-70c1-4149-b767-9d4cf98eec33/thumbnail/1200x630/b32cc99e3f4d38930ea9364688820df3/pump.jpg",
+      "publishedAt": "2026-09-07T08:47:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Fed hike won\u2019t derail markets; Arvind Sanger sees broader opportunities beyond Nifty",
-      "description": "Arvind Sanger, Managing Partner of Geosphere Capital Management discusses the Fed rate outlook, AI-driven US growth, data centre risks, oil prices and opportunities across Indian midcaps, smallcaps, manufacturing, healthcare and financials.",
-      "url": "https://www.cnbctv18.com/market/nifty-india-fed-rate-hike-ai-data-center-healthcare-pharma-market-outlook-19985239.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/federal-reserve-building-2026-08-2161a19ee75d653e93e2e553772d8122.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-07T04:23:35Z",
+      "title": "Crude oil prices cool off sharply from highs; Here's what you should know",
+      "description": "Brent crude drops below $96 as US-Iran tensions escalate after US strikes on Iranian tankers in Gulf of Oman. Iran declares new restricted zone.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-sharply-off-highs-brent-breaches-96-dollars-a-barrel-oil-west-asia-us-iran-war-19985579.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/1787047485_ZzB9dCSkTR-crude-oiljpg-BnH5HMlLRS.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-07T08:40:24Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "Sensex, Nifty Start In The Red As IPO Frenzy And Middle East Tensions Rattle Markets",
-      "description": "Sensex and Nifty opened lower as a packed IPO calendar and Middle East tensions weighed on sentiment, while higher crude oil prices added to market concerns.",
-      "url": "https://www.freepressjournal.in/business/sensex-nifty-start-in-the-red-as-ipo-frenzy-and-middle-east-tensions-rattle-markets",
-      "image": "https://media.assettype.com/freepressjournal/2025-04-10/9uqen2px/bse-holiday-list.jpg",
-      "publishedAt": "2026-09-07T04:21:43Z",
+      "title": "India bonds muted after tepid response for RBI's cash-drain operation",
+      "description": "Indian government bonds hit a pause on Monday following a technical setback that disrupted cash withdrawal capabilities. To counteract a liquidity overflow that surged to a historic 10.73 trillion rupees last Friday, the central bank declared an overnight auction. Traders are now on edge, fearing that tighter measures may be imposed to handle the liquidity, especially with increasing oil prices and rate speculation keeping market sentiment tepid.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-muted-after-tepid-response-for-rbis-cash-drain-operation/articleshow/133871611.cms",
+      "image": "https://img.etimg.com/thumb/msid-133871645,width-1200,height-630,imgsize-33736,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-07T08:23:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices today: Crude rises as US-Iran strikes fuel fears of prolonged Hormuz disruption",
-      "description": "International Business News: Oil prices extended gains on Monday as fresh strikes between the US and Iran targeting vessels in and around the Strait of Hormuz heightened concerns .",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-crude-rises-as-us-iran-strikes-fuel-fears-of-prolonged-hormuz-disruption/articleshow/133863016.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133863176,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-07T04:20:00Z",
+      "title": "Iran Plans New Gulf Zone as Hormuz Tensions Push Oil Prices Higher",
+      "description": "Iran says it will announce a new restricted zone in the Gulf and publish maps for a new shipping corridor through the Strait of Hormuz in the coming days, adding another layer of tension around one of the world\u2019s most important energy routes.",
+      "url": "https://moderndiplomacy.eu/2026/09/07/iran-plans-new-gulf-zone-as-hormuz-tensions-push-oil-prices-higher/",
+      "image": "https://moderndiplomacy.eu/wp-content/uploads/2026/04/Oil-tanker-Hormuz.jpg",
+      "publishedAt": "2026-09-07T08:17:26Z",
       "source": {
-        "name": "Times of India"
+        "name": "Modern Diplomacy"
       }
     },
     {
-      "title": "Another rate hike, just for insurance: Five questions for the ECB",
-      "description": "The European Central Bank is widely expected to hike interest rates on Thursday, erring on the side of caution as the U.S.-Iran wardrags on, keeping oil prices high \u200band raising inflation again.",
-      "url": "https://www.reuters.com/business/finance/another-rate-hike-just-insurance-five-questions-ecb-2026-09-07/",
-      "image": "https://www.reuters.com/resizer/v2/KPQDAKEH3RMMLP6Y7B6QG34QAA.jpg?auth=21ac8b3324ea450a727dd69d86d65ae53b5c6767929c09b30d955eced8182071&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-07T04:03:18Z",
+      "title": "Investor Jitters Escalate Amid Surging Oil Prices and Political Tensions",
+      "description": "Investors face mounting uncertainty as oil prices surge due to Middle Eastern conflicts and political instability in Europe. With Brent crude hitting $97.6 per barrel and diesel prices skyrocketing, central banks are likely to hike interest rates. Political shifts raise concerns about the euro's stability and potential economic impacts.",
+      "url": "https://www.devdiscourse.com/article/business/3973616-investor-jitters-escalate-amid-surging-oil-prices-and-political-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/30_07_2024_06_07_52_1354695.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-07T08:05:20Z",
       "source": {
-        "name": "Reuters"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "US fuel prices hit record high for Labor Day weekend",
-      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon. This is nearly a dollar more than last year and surpasses the previous record of $3.82 from 2012.",
-      "url": "https://apnews.com/article/labor-day-record-high-gas-prices-dffb7d3fa06ef930aaeebc380e5e4e0e",
-      "image": "https://dims.apnews.com/dims4/default/be7831e/2147483647/strip/true/crop/8066x5375+0+2/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F6a%2F63%2F66ed0aee37e7192d6caf5c1671b7%2F49c6299dedeb414682cfe994e7a5f572",
-      "publishedAt": "2026-09-07T04:03:15Z",
+      "title": "Virar Petrol Pump Clash: Women Govindas Allegedly Assault Employee After Littering Dispute",
+      "description": "Virar Petrol Pump Clash: Women Govindas allegedly assaulted a petrol pump employee after a dispute over littering at Manvel petrol pump in Virar West. Police intervened, admitted the injured employee to hospital and seized the group\u2019s bus. Get Latest News on Mumbai only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/mumbai/virar-petrol-pump-clash-women-govindas-allegedly-assault-employee-after-littering-dispute-video-a527/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/virar-west-petrol-pump-clash_2026091131724.jpg",
+      "publishedAt": "2026-09-07T08:05:01Z",
       "source": {
-        "name": "The Associated Press"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Fuel prices at record Labor Day high in US thanks to Iran War and refinery issues",
-      "description": "Gas prices in the U.S. have hit a record high for Labor Day weekend, averaging $4.14 per gallon.",
-      "url": "https://www.clickondetroit.com/business/2026/09/07/fuel-prices-at-record-labor-day-high-in-us-thanks-to-iran-war-and-refinery-issues/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/4UDY7ZHMFREQ7ETZ6ERTMSSE3A.jpg",
-      "publishedAt": "2026-09-07T04:03:15Z",
+      "title": "Tensions Rise in the Gulf: Iran's New Shipping Corridor Through the Strait of Hormuz",
+      "description": "Iran plans to announce a new restricted zone in the Gulf amid heightened tensions over shipping routes through the Strait of Hormuz. This development follows a series of U.S.-Iran military strikes that have disrupted oil flows, leading to increased oil prices. Iran faces economic strain due to U.S. sanctions.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3973614-tensions-rise-in-the-gulf-irans-new-shipping-corridor-through-the-strait-of-hormuz",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_05_2025_19_53_08_5219002.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-07T08:04:40Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "Devdiscourse"
       }
     }
   ]
