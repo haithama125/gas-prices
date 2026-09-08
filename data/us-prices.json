@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T14:23:27+00:00",
+  "updated_at": "2026-09-08T13:58:06+00:00",
   "week_of": "2026-08-31",
   "source": "EIA Weekly Retail Gasoline Prices (regular grade)",
   "source_url": "https://www.eia.gov/petroleum/gasdiesel/",
@@ -43,10 +43,10 @@
     },
     "CO": {
       "name": "Colorado",
-      "gasoline_usd_per_gallon": 4.132,
+      "gasoline_usd_per_gallon": 4.266,
       "period": "2026-08-31",
-      "source": "state",
-      "region": "SCO"
+      "source": "padd",
+      "region": "R40"
     },
     "CT": {
       "name": "Connecticut",
@@ -169,10 +169,10 @@
     },
     "MN": {
       "name": "Minnesota",
-      "gasoline_usd_per_gallon": 3.955,
+      "gasoline_usd_per_gallon": 3.847,
       "period": "2026-08-31",
-      "source": "state",
-      "region": "SMN"
+      "source": "padd",
+      "region": "R20"
     },
     "MS": {
       "name": "Mississippi",
