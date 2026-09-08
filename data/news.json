@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-08T02:03:34+00:00",
+  "updated_at": "2026-09-08T10:16:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Labor Day Weekend Gas Prices Reach Record Levels",
-      "description": "Gas prices across the U.S. over the Labor Day Weekend reached $4.15 per gallon, the highest ever for the three-day stretch and well above the pr...",
-      "url": "https://markets.businessinsider.com/news/stocks/labor-day-weekend-gas-prices-reach-record-levels-1036526872",
-      "image": "https://markets.businessinsider.com/favicon-32x32.png",
-      "publishedAt": "2026-09-07T13:57:28Z",
+      "title": "Goldman, Rystad See Room for $120 Oil if U.S.",
+      "description": "As commodity traders adapt to a forecast of prolonged uncertainty and disruption in the Strait of Hormuz, oil prices are rising again - and analysts and",
+      "url": "https://www.europesays.com/3238854/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1788623251_6a9c3993b0862.png",
+      "publishedAt": "2026-09-07T22:10:16Z",
       "source": {
-        "name": "Markets Insider"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Why gas prices are so high this Labor Day weekend",
-      "description": "Labor Day gas prices are nearly $1 higher than last year. See what\u2019s driving gasoline and diesel prices and when fuel costs may decline.",
-      "url": "https://www.weau.com/2026/09/07/gas-prices-skyrocket-record-high-labor-day-weekend/",
-      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/LUQEJ5LMP5HEDPOUWWCIXX6AVU.png?auth=a6769d8aa945481163f1b70a911108adc2d9fcbd518e8fab8f34c80696505377&width=1200&height=600&smart=true",
-      "publishedAt": "2026-09-07T13:52:20Z",
+      "title": "Oil price hike boosts demand for mini cars, compact EVs",
+      "description": "A prolonged surge in oil prices is driving Korean consumers toward smaller, more fuel-efficient vehicles, with sales of mini cars and compact elect...",
+      "url": "https://www.koreatimes.co.kr/business/companies/20260908/oil-price-hike-boosts-demand-for-mini-cars-compact-evs",
+      "image": "https://newsimg.koreatimes.co.kr/2026/09/07/27590b16-e5ea-49d9-afcc-80d7a7ffac52.jpg",
+      "publishedAt": "2026-09-07T22:00:20Z",
       "source": {
-        "name": "WEAU"
+        "name": "The Korea Times"
       }
     },
     {
-      "title": "Why gas prices are so high this Labor Day weekend",
-      "description": "Labor Day gas prices are nearly $1 higher than last year. See what\u2019s driving gasoline and diesel prices and when fuel costs may decline.",
-      "url": "https://www.live5news.com/2026/09/07/gas-prices-skyrocket-record-high-labor-day-weekend/",
-      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/LUQEJ5LMP5HEDPOUWWCIXX6AVU.png?auth=a6769d8aa945481163f1b70a911108adc2d9fcbd518e8fab8f34c80696505377&width=1200&height=600&smart=true",
-      "publishedAt": "2026-09-07T13:52:20Z",
+      "title": "Massachusetts\u2019 Labor Day gas prices more than $1 higher than last year",
+      "description": "Gas prices in Massachusetts were more than a dollar higher on Labor Day than they were last year.",
+      "url": "https://www.masslive.com/news/2026/09/massachusetts-labor-day-gas-prices-more-than-1-higher-than-last-year.html",
+      "image": "https://www.masslive.com/resizer/v2/NTN6EEEIQBCDVHBA3Z4OO3TKAA.jpeg?auth=1db063967bfe7dc9656bf2bd3233d66c7ffa0988499f8f3d8261c5b60a6e86b5&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-07T21:32:11Z",
       "source": {
-        "name": "Live 5 News WCSC"
+        "name": "MassLive"
       }
     },
     {
-      "title": "Why gas prices are so high this Labor Day weekend",
-      "description": "Labor Day gas prices are nearly $1 higher than last year. See what\u2019s driving gasoline and diesel prices and when fuel costs may decline.",
-      "url": "https://www.wistv.com/2026/09/07/gas-prices-skyrocket-record-high-labor-day-weekend/",
-      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/LUQEJ5LMP5HEDPOUWWCIXX6AVU.png?auth=a6769d8aa945481163f1b70a911108adc2d9fcbd518e8fab8f34c80696505377&width=1200&height=600&smart=true",
-      "publishedAt": "2026-09-07T13:52:20Z",
-      "source": {
-        "name": "WIS10"
-      }
-    },
-    {
-      "title": "OMCs\u2019 marketing margins come under fresh pressure",
-      "description": "State-run oil marketing companies face increased pressure as petrol and diesel marketing margins worsen amid rising crude prices surpassing $100 a barrel and geopolitical tensions in West Asia impacting supply.",
-      "url": "https://www.financialexpress.com/policy/economy/omcs-marketing-margins-come-under-fresh-pressure/4333685/",
-      "image": "https://images.financialexpressdigital.com/2026/09/crude-oil_20260326171956_20260330163503_20260401152641_20260415122631_20260422120734_20260426122938_20260427143213_20260507182838_20260710145056_20260907134959.jpg",
-      "publishedAt": "2026-09-07T13:50:22Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Oil prices hold near six-week highs on U.S.-Iran attacks",
-      "description": "Oil prices were near six-week highs on Monday, creeping closer to US$100 a barrel, as\u00a0tit-for-tat strikes\u00a0between the U.S. and Iran on vessels sailing in the Strait of Hormuz and other areas kept crude oil flows in the Middle East low.",
-      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/09/07/oil-prices-hold-near-six-week-highs-on-us-iran-attacks/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/IIT7WILDZZGC3BTXDUV3ENMZBM.jpg?smart=true&auth=82525c375afd4123b2a675bb3c1c74de34a8b7183bb02226323b58c5c3cbd3de&width=1200&height=630",
-      "publishedAt": "2026-09-07T13:47:59Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Oil prices hold near six-week highs on U.S.-Iran attacks",
-      "description": "Oil prices were near six-week highs on Monday, creeping closer to US$100 a barrel, as\u00a0tit-for-tat strikes\u00a0between the U.S. and Iran on vessels sailing in the Strait of Hormuz and other areas kept crude oil flows in the Middle East low.",
-      "url": "https://www.cp24.com/news/money/2026/09/07/oil-prices-hold-near-six-week-highs-on-us-iran-attacks/",
-      "image": "https://www.cp24.com/resizer/v2/IIT7WILDZZGC3BTXDUV3ENMZBM.jpg?smart=true&auth=82525c375afd4123b2a675bb3c1c74de34a8b7183bb02226323b58c5c3cbd3de&width=1200&height=630",
-      "publishedAt": "2026-09-07T13:47:59Z",
+      "title": "Iran raises gas prices for heaviest users",
+      "description": "Iran early Tuesday introduced a higher price for its heaviest users of gasoline, state media reported, in the latest economic pinch caused by months of war. It\u2019s the second such hike since December.",
+      "url": "https://www.cp24.com/news/world/2026/09/07/iran-increases-gasoline-price-for-its-heaviest-consumers-as-economy-struggles/",
+      "image": "https://www.cp24.com/resizer/v2/OPTNJN6OCRCJRJSY2C2TAAEONI.jpg?smart=true&auth=e81098c3f0dc6a9fd0e469ed2365db012d01e42e4a706513b0c036fa8ffd0c78&width=1200&height=630",
+      "publishedAt": "2026-09-07T21:23:05Z",
       "source": {
         "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Gas prices hit record high for Labor Day weekend",
-      "description": "With elevated prices for crude oil, a major component of gasoline, the price at the pump is higher than it's ever been for the holiday weekend.",
-      "url": "https://www.cnbc.com/2026/09/07/gas-prices-labor-day-record-high-road-trip.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358933-1788526509850-gettyimages-2170230028-20240901_tiffany_2856g.jpeg?v=1788526591&w=1920&h=1080",
-      "publishedAt": "2026-09-07T13:43:09Z",
+      "title": "Oil prices hit six-week high amid US-Iran conflict \u2014 but drivers could soon get relief at the pump",
+      "description": "\u201cThere actually is a little bit of good news on the horizon for most of the country,\u201d an oil industry expert told The Post.",
+      "url": "https://nypost.com/2026/09/07/business/oil-prices-hit-six-week-high-amid-us-iran-conflict-but-drivers-could-soon-get-relief-at-the-pump/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140042256.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-07T21:21:58Z",
       "source": {
-        "name": "CNBC"
+        "name": "New York Post"
       }
     },
     {
-      "title": "First-time shift: Alternative fuels take bigger PV share than petrol",
-      "description": "Petrol, the dominant fuel, saw its share in total PV sales slipping from 46.37% in August 2025 to 40.85% in August 2026.",
-      "url": "https://www.newindianexpress.com/business/2026/Sep/07/first-time-shift-alternative-fuels-take-bigger-pv-share-than-petrol-2",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-04%2F696ac6o7%2FANI_20260904084304.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-07T13:38:05Z",
+      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
+      "description": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c692f-1788635439.jpg?resize=1920%2C1440",
+      "publishedAt": "2026-09-07T21:17:12Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "Al Jazeera"
       }
     },
     {
-      "title": "White House posts AI slop depicting Trump as DC Universe superhero",
-      "description": "The White House shared an AI-generated video depicting president Donald Trump as a DC Universe superhero and people are tired.Gas prices in the US hit a record high over the Labor Day weekend, in large part thanks to the Iran war which US president Trump started without Congressional authorisation. ...",
-      "url": "https://www.indy100.com/politics/trump/white-house-trump-dc-superhero",
-      "image": "https://www.indy100.com/media-library/image.jpg?id=67736360&width=1200&height=600&coordinates=0%2C445%2C0%2C388",
-      "publishedAt": "2026-09-07T13:35:26Z",
+      "title": "Iran doubles gasoline price for heavy users amid war and inflation strain",
+      "description": "Iran has doubled gasoline prices for motorists who exceed the monthly quota. The move highlights deepening wartime economic stress and risks fuelling inflation and public anger.",
+      "url": "https://www.indiatoday.in/world/story/iran-gasoline-price-hike-heavy-users-pay-double-amid-war-inflation-ptag-2989410-2026-09-08",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-1-original_74-sixteen_nine.png?VersionId=pZaZ4ZBrB61EOQZU9PYJyTS12KdFJP4Y",
+      "publishedAt": "2026-09-07T20:58:27Z",
       "source": {
-        "name": "indy100"
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "Labor Day gas prices hit record high as diesel surging costs hit drivers",
+      "description": "The price of gas this Labor Day weekend high a record high at and average of $4.14 a gallon.",
+      "url": "https://www.fox9.com/news/labor-day-gas-prices-hit-record-high-diesel-surging-costs-hit-drivers",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/labor-day-gas.jpg?ve=1&tl=1",
+      "publishedAt": "2026-09-07T19:36:39Z",
+      "source": {
+        "name": "FOX 9"
+      }
+    },
+    {
+      "title": "Oil Prices Near $100, Hit Multi-Week Highs On Fresh U.S.-Iran Tensions",
+      "description": "Global oil prices hit multi-week highs and neared the $100 per barrel mark on Monday, following another escalation of tensions between U.S. and Iran.",
+      "url": "https://www.forbes.com/sites/gauravsharma/2026/09/07/oil-prices-near-100-hit-multi-week-highs-on-fresh-us-iran-tensions/",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9ee91601d96be25c9cdbd2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2026-09-07T19:02:39Z",
+      "source": {
+        "name": "Forbes"
+      }
+    },
+    {
+      "title": "CNG, hybrids, electrics rule motown: Alternative powertrains beat petrol vehicles for the first time in India as August auto sales jump 18%",
+      "description": "Retail vehicle sales surged by eighteen percent year-on-year, reaching 2.42 million units last month. For the first time, alternative energy vehicles, including electric and CNG options, outsold petrol vehicles. This increase in sales was primarily driven by strong rural demand, even with varied monsoon conditions. Electric vehicle category sales soared by nearly fifty-three percent, showcasing their growing appeal. Dealerships remain cautiously optimistic as the festive season approaches, anticipating higher bookings.",
+      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/cng-hybrids-electrics-rule-motown-alternative-powertrains-beat-petrol-vehicles-for-the-first-time-in-india-as-august-auto-sales-jump-18/articleshow/133894282.cms",
+      "image": "https://img.etimg.com/thumb/msid-133894433,width-1200,height-630,imgsize-86152,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-07T18:58:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
