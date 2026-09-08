@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-09-08T15:39:07+00:00",
+  "updated_at": "2026-09-08T20:28:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol, diesel price today: Brent crude hits $97 a barrel, fuel prices remain flat; check state-wise rates",
-      "description": "State-wise petrol and diesel rates today on September 8",
-      "url": "https://www.moneycontrol.com/news/business/commodities/petrol-diesel-price-today-brent-crude-hits-97-a-barrel-fuel-prices-remain-flat-check-state-wise-rates-14024823.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260514011821_Petrol-pump-in-Ahmedabad-AFP.jpg",
-      "publishedAt": "2026-09-08T03:16:01Z",
+      "title": "'No choice': Grim interest rate warning for borrowers as oil prices spike",
+      "description": "Meanwhile, the RBA's assistant governor did little to downplay expectations of a rate hike in comments on Tuesday.",
+      "url": "https://www.sbs.com.au/news/article/interest-rates-rba-inflation/vhpp5zmbb",
+      "image": "https://assets.sbs.com.au/dims4/default/b6d5537/2147483647/strip/true/crop/1800x1013+0+142/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F95%2F14%2F874ce3d048bfa2a6ceac2cf86519%2Fbowsers-at-a-petrol-station-in-sydney-aap.jpg",
+      "publishedAt": "2026-09-08T08:26:03Z",
+      "source": {
+        "name": "SBS Australia"
+      }
+    },
+    {
+      "title": "Escalating Tensions: Houthis Attack Saudi Oil Facilities",
+      "description": "Operations at energy facilities in Saudi Arabia halted due to Houthi attacks, injuring 73. Fires reportedly erupted at several sites. The Saudi-led coalition labeled the escalation dangerous amid rising tensions between the U.S. and Iran, contributing to an increase in oil prices.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3974135-escalating-tensions-houthis-attack-saudi-oil-facilities",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T08:24:35Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Yen Surge and Volatile Oil Prices Stir Global Markets",
+      "description": "Global markets experienced turmoil as the yen surged, oil neared $100 a barrel due to Gulf conflicts, and copper prices reached new heights. Rising U.S. inflation, bond yields, and potential interest rate increases by central banks intensified market fluctuations, with traders re-evaluating their strategies amid financial uncertainties.",
+      "url": "https://www.devdiscourse.com/article/business/3974132-yen-surge-and-volatile-oil-prices-stir-global-markets",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2024_09_03_59_4006902.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T08:22:20Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Alternative fuels surpass petrol in India\u2019s passenger vehicle market for first time: Know the key details",
+      "description": "India\u2019s passenger car market saw a historic transition as alternative-fuel vehicles surpassed petrol-powered cars for the first time, even as the country posted its highest-ever vehicle retail sales for August 2026.",
+      "url": "https://www.tribuneindia.com/news/india/alternative-fuels-surpass-petrol-in-indias-passenger-vehicle-market-for-first-time-know-the-key-details/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFmYjg5ZjEwLWFiNWMtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
+      "publishedAt": "2026-09-08T08:05:52Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Oil prices approaching $100 per barrel as Houthis attack Saudi sites",
+      "description": "Sept. 8 (UPI) -- Oil prices are nearing $100 per barrel on Tuesday following a wave of strikes on Saudi Arabian energy facilities, injuring more than 70",
+      "url": "https://www.breitbart.com/news/oil-prices-approaching-100-per-barrel-as-houthis-attack-saudi-sites/",
+      "image": "https://media.breitbart.com/media/2026/09/wi/upi/oil-prices-approaching-100-barrel-houthis-attack-saudi-sites-oil-prices-approaching-100-barrel.jpg",
+      "publishedAt": "2026-09-08T08:04:22Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Test solves debate on if petrol car or EV is cheaper to run - the result is surprising",
+      "description": "A journalist from car buying website Carwow compared a used electric car and a petrol car, both available for as little as \u00a310,000, to find out which was cheapest to run over 30,000 miles.",
+      "url": "https://www.walesonline.co.uk/news/motoring/motoring-features/test-solves-debate-petrol-car-34579749",
+      "image": "https://i2-prod.walesonline.co.uk/article34579748.ece/ALTERNATES/s1200d/0_A-woman-in-the-drivers-seat-of-a-right-hand-drive-car.jpg",
+      "publishedAt": "2026-09-08T08:00:00Z",
+      "source": {
+        "name": "South Wales Echo"
+      }
+    },
+    {
+      "title": "Vegetarian thali cost rises to highest level in over a year as onion, oil prices surge",
+      "description": "The increase was largely driven by onions, whose prices surged around 43 percent year-on-year to Rs 40 per kg, compared with Rs 28 per kg in August 2025",
+      "url": "https://www.moneycontrol.com/news/business/economy/vegetarian-thali-cost-rises-to-highest-level-in-over-a-year-as-onion-oil-prices-surge-14025150.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251028094939_MixCollage-28-Oct-2025-03-19-PM-1268.jpg",
+      "publishedAt": "2026-09-08T07:59:19Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "Petrol, diesel prices today, September 8: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "With Brent crude trading around $92.63 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-8-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-553809-2026-09-08",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9f750fbb8b9-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-045213480-16x9.png",
-      "publishedAt": "2026-09-08T03:13:47Z",
+      "title": "old gets trapped inside car at Tamil Nadu petrol pump, rescued after 30 minutes",
+      "description": "Tamil Nadu boy trapped in car for 30 minutes in Nellai, rescued. Recalls similar tragic incidents in Coimbatore and Karur.",
+      "url": "https://www.cnbctv18.com/india/3-year-old-gets-trapped-inside-car-at-tamil-nadu-petrol-pump-rescued-after-30-minutes-19986471.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-12d99a92882af6a13a3225533f3e4446.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-08T07:55:58Z",
       "source": {
-        "name": "Business Today"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Mongolians wait hours for fuel as reliance on Russia bites",
-      "description": "Landlocked Mongolia has historically imported more than 95 per cent of its petrol from Russia. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/east-asia/mongolians-wait-hours-for-fuel-as-reliance-on-russia-bites",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ada4e8a166ad8e82bc2b36fb600c22ac974b3b5647f952881da7890d9393e309",
-      "publishedAt": "2026-09-08T03:03:00Z",
-      "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "Indian rupee's familiar push-pull set to persist with oil pressure, RBI response",
-      "description": "The Indian rupee is likely to open little changed on Tuesday, caught once again between pressure from higher oil prices, \u200bdollar demand from companies looking to hedge their FX exposure \u200cand the central bank's persistent presence in the market.",
-      "url": "https://www.reuters.com/world/india/indian-rupees-familiar-push-pull-set-persist-with-oil-pressure-rbi-response-2026-09-08/",
-      "image": "https://www.reuters.com/resizer/v2/W3YQXHQOWJMIVFOJVIP4JIUPOA.jpg?auth=19ae778c6796c64414928b1bb8d2dcaeacafd74f07ea5f320bff35e129e14a8b&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-08T02:56:29Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Trump says oil prices will drop \u2018precipitously\u2019, gas could fall below $2 after US wins Iran war",
-      "description": "Trump has predicted a sharp fall in oil and US gasoline prices once the Iran conflict ends, even as crude trades near $97 a barrel amid escalating tensions in the Middle East.",
-      "url": "https://www.moneycontrol.com/world/trump-says-oil-prices-will-drop-precipitously-gas-could-fall-below-2-after-us-wins-iran-war-article-14024746.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260414174847_US-gas-petrol-prices.png",
-      "publishedAt": "2026-09-08T02:30:21Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Trump Claims Oil Prices Will Drop 'Below Two Dollars a Gallon' After US Wins War With Iran",
-      "description": "Iranian officials warned of severe consequences if attacks occur on their energy facilities, asserting their oil and gas production is vulnerable.",
-      "url": "https://www.republicworld.com/world-news/trump-claims-oil-prices-will-drop-below-two-dollars-a-gallon-after-us-wins-war-with-iran-2026-09-08-136529",
-      "image": "https://img.republicworld.com/all_images/2026/06/crude-oil-price-crash-1781491670175-1280x720.webp",
-      "publishedAt": "2026-09-08T02:26:50Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Trump Claims Oil Prices will Drop Below $2 After US Wins War with Iran",
-      "description": "Trump linked high energy costs directly to ongoing military operations in the Middle East, asserting that post-war markets would stabilise rapidly",
-      "url": "https://www.deccanchronicle.com/world/americas/trump-claims-oil-prices-will-drop-below-2-after-us-wins-war-with-iran-1985684",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/08/2086223-aa-8102214.jpg",
-      "publishedAt": "2026-09-08T02:26:12Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Why isn't oil above $100 despite supply disruptions?",
-      "description": "Global oil prices remain below one hundred dollars per barrel. Significant volumes continue to flow through the Strait of Hormuz. Gulf exporters utilize alternative routes and means to mitigate shortfalls. Other producers are stepping up output to fill supply gaps. Demand destruction in petrochemicals and fuels remains substantial.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/explainer-why-isnt-oil-above-100-despite-supply-disruptions/articleshow/133903924.cms",
-      "image": "https://img.etimg.com/thumb/msid-133904622,width-1200,height-630,imgsize-2140884,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-08T02:26:00Z",
+      "title": "Goldman Sachs\u2019 big warning! Oil prices could soar to $120 if attacks on shipping continue in Hormuz Strait",
+      "description": "Goldman Sachs warned Brent crude could rise to $120 a barrel if Middle East shipping disruptions intensify, while JPMorgan sees further upside with prolonged disruption. Rising geopolitical risks, Strait of Hormuz tensions and supply concerns are keeping oil prices elevated.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/goldman-sachs-big-warning-oil-prices-could-soar-to-120-if-attacks-on-shipping-continue-in-hormuz-strait/articleshow/133915395.cms",
+      "image": "https://img.etimg.com/thumb/msid-133915468,width-1200,height-630,imgsize-2540423,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-08T07:55:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Albuquerque readers respond to Trump\u2019s New Mexico renaming remarks",
-      "description": "Albuquerque letter writers criticize President Trump\u2019s suggestion to rename New Mexico, citing the state\u2019s history, cultural identity, rising gas prices and political division.",
-      "url": "https://www.abqjournal.com/opinion/opinion-talk-of-the-town-or-new-america/3116884",
-      "image": "https://image.abqjournal.com/3116945.jpg?imageId=3116945&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
-      "publishedAt": "2026-09-08T02:18:00Z",
-      "source": {
-        "name": "Albuquerque Journal"
-      }
-    },
-    {
-      "title": "Nifty slips below critical support level of 23,600 as market reacts to global economic uncertainties",
-      "description": "Indian equity indices experienced a decline on Monday, with the Nifty 50 falling below 23,800. Rising Brent crude oil prices and investor preference for smaller stocks impacted large-cap performance. The market also faces pressure from increased IPOs and fund-raising activities. US bond yields are nearing their 2023 highs, causing investor discomfort. Mid and small-cap segments show stronger activity while large caps lag.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-slips-below-critical-support-level-of-23600-as-market-reacts-to-global-economic-uncertainties/articleshow/133903622.cms",
-      "image": "https://img.etimg.com/thumb/msid-133903747,width-1200,height-630,imgsize-57988,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-08T02:16:00Z",
+      "title": "Houthis attack Saudi energy sites, cities, wound 73 as Iran war risks wider escalation",
+      "description": "Yemen's Houthis attacked Saudi energy facilities and cities, wounding over seventy people. This escalation highlights the risk of the Iran conflict spreading regionally. Iran warned Gulf energy infrastructure was vulnerable after recent ship attacks. Oil prices climbed to six-week highs as fires erupted at facilities. The coalition vowed to deter the militia and confront its hostile approach.",
+      "url": "https://economictimes.indiatimes.com/news/defence/houthis-attack-saudi-energy-sites-cities-wound-73-as-iran-war-risks-wider-escalation/articleshow/133914888.cms",
+      "image": "https://img.etimg.com/thumb/msid-133914935,width-1200,height-630,imgsize-48514,overlay-etdefence/articleshow.jpg",
+      "publishedAt": "2026-09-08T07:42:00Z",
       "source": {
         "name": "The Economic Times"
       }
