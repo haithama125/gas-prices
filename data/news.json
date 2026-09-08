@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-09-08T10:16:31+00:00",
+  "updated_at": "2026-09-08T15:39:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Goldman, Rystad See Room for $120 Oil if U.S.",
-      "description": "As commodity traders adapt to a forecast of prolonged uncertainty and disruption in the Strait of Hormuz, oil prices are rising again - and analysts and",
-      "url": "https://www.europesays.com/3238854/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1788623251_6a9c3993b0862.png",
-      "publishedAt": "2026-09-07T22:10:16Z",
+      "title": "Petrol, diesel price today: Brent crude hits $97 a barrel, fuel prices remain flat; check state-wise rates",
+      "description": "State-wise petrol and diesel rates today on September 8",
+      "url": "https://www.moneycontrol.com/news/business/commodities/petrol-diesel-price-today-brent-crude-hits-97-a-barrel-fuel-prices-remain-flat-check-state-wise-rates-14024823.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260514011821_Petrol-pump-in-Ahmedabad-AFP.jpg",
+      "publishedAt": "2026-09-08T03:16:01Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Oil price hike boosts demand for mini cars, compact EVs",
-      "description": "A prolonged surge in oil prices is driving Korean consumers toward smaller, more fuel-efficient vehicles, with sales of mini cars and compact elect...",
-      "url": "https://www.koreatimes.co.kr/business/companies/20260908/oil-price-hike-boosts-demand-for-mini-cars-compact-evs",
-      "image": "https://newsimg.koreatimes.co.kr/2026/09/07/27590b16-e5ea-49d9-afcc-80d7a7ffac52.jpg",
-      "publishedAt": "2026-09-07T22:00:20Z",
+      "title": "Petrol, diesel prices today, September 8: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "With Brent crude trading around $92.63 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-8-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-553809-2026-09-08",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a9f750fbb8b9-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-045213480-16x9.png",
+      "publishedAt": "2026-09-08T03:13:47Z",
       "source": {
-        "name": "The Korea Times"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Massachusetts\u2019 Labor Day gas prices more than $1 higher than last year",
-      "description": "Gas prices in Massachusetts were more than a dollar higher on Labor Day than they were last year.",
-      "url": "https://www.masslive.com/news/2026/09/massachusetts-labor-day-gas-prices-more-than-1-higher-than-last-year.html",
-      "image": "https://www.masslive.com/resizer/v2/NTN6EEEIQBCDVHBA3Z4OO3TKAA.jpeg?auth=1db063967bfe7dc9656bf2bd3233d66c7ffa0988499f8f3d8261c5b60a6e86b5&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-07T21:32:11Z",
+      "title": "Mongolians wait hours for fuel as reliance on Russia bites",
+      "description": "Landlocked Mongolia has historically imported more than 95 per cent of its petrol from Russia. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/asia/east-asia/mongolians-wait-hours-for-fuel-as-reliance-on-russia-bites",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ada4e8a166ad8e82bc2b36fb600c22ac974b3b5647f952881da7890d9393e309",
+      "publishedAt": "2026-09-08T03:03:00Z",
       "source": {
-        "name": "MassLive"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Iran raises gas prices for heaviest users",
-      "description": "Iran early Tuesday introduced a higher price for its heaviest users of gasoline, state media reported, in the latest economic pinch caused by months of war. It\u2019s the second such hike since December.",
-      "url": "https://www.cp24.com/news/world/2026/09/07/iran-increases-gasoline-price-for-its-heaviest-consumers-as-economy-struggles/",
-      "image": "https://www.cp24.com/resizer/v2/OPTNJN6OCRCJRJSY2C2TAAEONI.jpg?smart=true&auth=e81098c3f0dc6a9fd0e469ed2365db012d01e42e4a706513b0c036fa8ffd0c78&width=1200&height=630",
-      "publishedAt": "2026-09-07T21:23:05Z",
+      "title": "Indian rupee's familiar push-pull set to persist with oil pressure, RBI response",
+      "description": "The Indian rupee is likely to open little changed on Tuesday, caught once again between pressure from higher oil prices, \u200bdollar demand from companies looking to hedge their FX exposure \u200cand the central bank's persistent presence in the market.",
+      "url": "https://www.reuters.com/world/india/indian-rupees-familiar-push-pull-set-persist-with-oil-pressure-rbi-response-2026-09-08/",
+      "image": "https://www.reuters.com/resizer/v2/W3YQXHQOWJMIVFOJVIP4JIUPOA.jpg?auth=19ae778c6796c64414928b1bb8d2dcaeacafd74f07ea5f320bff35e129e14a8b&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-08T02:56:29Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices hit six-week high amid US-Iran conflict \u2014 but drivers could soon get relief at the pump",
-      "description": "\u201cThere actually is a little bit of good news on the horizon for most of the country,\u201d an oil industry expert told The Post.",
-      "url": "https://nypost.com/2026/09/07/business/oil-prices-hit-six-week-high-amid-us-iran-conflict-but-drivers-could-soon-get-relief-at-the-pump/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140042256.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-07T21:21:58Z",
+      "title": "Trump says oil prices will drop \u2018precipitously\u2019, gas could fall below $2 after US wins Iran war",
+      "description": "Trump has predicted a sharp fall in oil and US gasoline prices once the Iran conflict ends, even as crude trades near $97 a barrel amid escalating tensions in the Middle East.",
+      "url": "https://www.moneycontrol.com/world/trump-says-oil-prices-will-drop-precipitously-gas-could-fall-below-2-after-us-wins-iran-war-article-14024746.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260414174847_US-gas-petrol-prices.png",
+      "publishedAt": "2026-09-08T02:30:21Z",
       "source": {
-        "name": "New York Post"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Oil prices surge as US-Iran strikes intensify in Strait of Hormuz",
-      "description": "Oil prices spike to six-week highs as US-Iran strikes disrupt traffic in the crucial Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6a9c692f-1788635439.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-07T21:17:12Z",
+      "title": "Trump Claims Oil Prices Will Drop 'Below Two Dollars a Gallon' After US Wins War With Iran",
+      "description": "Iranian officials warned of severe consequences if attacks occur on their energy facilities, asserting their oil and gas production is vulnerable.",
+      "url": "https://www.republicworld.com/world-news/trump-claims-oil-prices-will-drop-below-two-dollars-a-gallon-after-us-wins-war-with-iran-2026-09-08-136529",
+      "image": "https://img.republicworld.com/all_images/2026/06/crude-oil-price-crash-1781491670175-1280x720.webp",
+      "publishedAt": "2026-09-08T02:26:50Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "Republic World"
       }
     },
     {
-      "title": "Iran doubles gasoline price for heavy users amid war and inflation strain",
-      "description": "Iran has doubled gasoline prices for motorists who exceed the monthly quota. The move highlights deepening wartime economic stress and risks fuelling inflation and public anger.",
-      "url": "https://www.indiatoday.in/world/story/iran-gasoline-price-hike-heavy-users-pay-double-amid-war-inflation-ptag-2989410-2026-09-08",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-1-original_74-sixteen_nine.png?VersionId=pZaZ4ZBrB61EOQZU9PYJyTS12KdFJP4Y",
-      "publishedAt": "2026-09-07T20:58:27Z",
+      "title": "Trump Claims Oil Prices will Drop Below $2 After US Wins War with Iran",
+      "description": "Trump linked high energy costs directly to ongoing military operations in the Middle East, asserting that post-war markets would stabilise rapidly",
+      "url": "https://www.deccanchronicle.com/world/americas/trump-claims-oil-prices-will-drop-below-2-after-us-wins-war-with-iran-1985684",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/08/2086223-aa-8102214.jpg",
+      "publishedAt": "2026-09-08T02:26:12Z",
       "source": {
-        "name": "India Today"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Labor Day gas prices hit record high as diesel surging costs hit drivers",
-      "description": "The price of gas this Labor Day weekend high a record high at and average of $4.14 a gallon.",
-      "url": "https://www.fox9.com/news/labor-day-gas-prices-hit-record-high-diesel-surging-costs-hit-drivers",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/09/1200/630/labor-day-gas.jpg?ve=1&tl=1",
-      "publishedAt": "2026-09-07T19:36:39Z",
+      "title": "Why isn't oil above $100 despite supply disruptions?",
+      "description": "Global oil prices remain below one hundred dollars per barrel. Significant volumes continue to flow through the Strait of Hormuz. Gulf exporters utilize alternative routes and means to mitigate shortfalls. Other producers are stepping up output to fill supply gaps. Demand destruction in petrochemicals and fuels remains substantial.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/explainer-why-isnt-oil-above-100-despite-supply-disruptions/articleshow/133903924.cms",
+      "image": "https://img.etimg.com/thumb/msid-133904622,width-1200,height-630,imgsize-2140884,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-08T02:26:00Z",
       "source": {
-        "name": "FOX 9"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Near $100, Hit Multi-Week Highs On Fresh U.S.-Iran Tensions",
-      "description": "Global oil prices hit multi-week highs and neared the $100 per barrel mark on Monday, following another escalation of tensions between U.S. and Iran.",
-      "url": "https://www.forbes.com/sites/gauravsharma/2026/09/07/oil-prices-near-100-hit-multi-week-highs-on-fresh-us-iran-tensions/",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a9ee91601d96be25c9cdbd2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
-      "publishedAt": "2026-09-07T19:02:39Z",
+      "title": "Albuquerque readers respond to Trump\u2019s New Mexico renaming remarks",
+      "description": "Albuquerque letter writers criticize President Trump\u2019s suggestion to rename New Mexico, citing the state\u2019s history, cultural identity, rising gas prices and political division.",
+      "url": "https://www.abqjournal.com/opinion/opinion-talk-of-the-town-or-new-america/3116884",
+      "image": "https://image.abqjournal.com/3116945.jpg?imageId=3116945&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-09-08T02:18:00Z",
       "source": {
-        "name": "Forbes"
+        "name": "Albuquerque Journal"
       }
     },
     {
-      "title": "CNG, hybrids, electrics rule motown: Alternative powertrains beat petrol vehicles for the first time in India as August auto sales jump 18%",
-      "description": "Retail vehicle sales surged by eighteen percent year-on-year, reaching 2.42 million units last month. For the first time, alternative energy vehicles, including electric and CNG options, outsold petrol vehicles. This increase in sales was primarily driven by strong rural demand, even with varied monsoon conditions. Electric vehicle category sales soared by nearly fifty-three percent, showcasing their growing appeal. Dealerships remain cautiously optimistic as the festive season approaches, anticipating higher bookings.",
-      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/cng-hybrids-electrics-rule-motown-alternative-powertrains-beat-petrol-vehicles-for-the-first-time-in-india-as-august-auto-sales-jump-18/articleshow/133894282.cms",
-      "image": "https://img.etimg.com/thumb/msid-133894433,width-1200,height-630,imgsize-86152,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-07T18:58:00Z",
+      "title": "Nifty slips below critical support level of 23,600 as market reacts to global economic uncertainties",
+      "description": "Indian equity indices experienced a decline on Monday, with the Nifty 50 falling below 23,800. Rising Brent crude oil prices and investor preference for smaller stocks impacted large-cap performance. The market also faces pressure from increased IPOs and fund-raising activities. US bond yields are nearing their 2023 highs, causing investor discomfort. Mid and small-cap segments show stronger activity while large caps lag.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nifty-slips-below-critical-support-level-of-23600-as-market-reacts-to-global-economic-uncertainties/articleshow/133903622.cms",
+      "image": "https://img.etimg.com/thumb/msid-133903747,width-1200,height-630,imgsize-57988,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-08T02:16:00Z",
       "source": {
         "name": "The Economic Times"
       }
