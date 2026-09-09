@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-09T15:33:06+00:00",
+  "updated_at": "2026-09-09T20:11:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil nears US$100 as US\u2011Iran tensions escalate, stoking global inflation worries",
-      "description": "HONG KONG, Sept 9 \u2014 Oil prices jumped more than one per cent towards US$100 (RM405) today and stocks struggled as a fresh flare-up in the Middle East crisis stoked supply...",
-      "url": "https://www.malaymail.com/news/money/2026/09/09/oil-nears-us100-as-usiran-tensions-escalate-stoking-global-inflation-worries/234501",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/09/361438.jpg",
-      "publishedAt": "2026-09-09T02:59:39Z",
+      "title": "How India's Alternative Fuel Car Boom Is Spreading Beyond Top States",
+      "description": "India's alternative fuel vehicles outsold petrol models for the first time in August, with adoption spreading beyond traditional strongholds.",
+      "url": "https://www.forbesindia.com/article/news/alternative-fuel-vehicles-gain-ground-beyond-indias-traditional-auto-markets/2998013/1",
+      "image": "https://images.forbesindia.com/blog/wp-content/uploads/2026/09/GettyImages2292214783BG-2026-09-ac52c242d68a3bdf30f3efe7896b8c85.jpg?im=FitAndFill,width=1200,height=900",
+      "publishedAt": "2026-09-09T08:04:58Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "Forbes India"
       }
     },
     {
-      "title": "Aussie shares continue lower as Iran conflict escalates",
-      "description": "Global inflation fears remain a major negative influence on the Australian equity market, as the Middle East war drives up oil prices.",
-      "url": "https://www.perthnow.com.au/news/business/aussie-shares-continue-lower-as-iran-conflict-escalates-c-22844875",
-      "image": "https://images.perthnow.com.au/publication/C-22844875/6aac52d0905cca6ba2cf720c6a14599fdc0201ed-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-09-09T02:59:11Z",
+      "title": "No complaints received on damage from ethanol-blended petrol: Telangana Transport Minister",
+      "description": "Telangana Minister Ponnam Prabhakar said Transport Department did not receive complaints on E20 fuel, noting a possible 3-5% reduction in mileage for vehicles.",
+      "url": "https://www.thehindu.com/news/national/telangana/no-complaints-received-on-damage-by-ethanol-blended-petrol-telangana-transport-minister/article71446289.ece",
+      "image": "https://th-i.thgim.com/public/incoming/bctk4s/article71446362.ece/alternates/LANDSCAPE_1200/IMG_fuel_price_6_1_TJ91RFJA.jpg",
+      "publishedAt": "2026-09-09T07:56:24Z",
       "source": {
-        "name": "PerthNow"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Bursa Malaysia rebounds, opens higher at open despite Wall Street weakness",
-      "description": "=KUALA LUMPUR, Sept 9 \u2014 Bursa Malaysia rebounded from yesterday\u2019s losses to open higher today despite weakness on Wall Street, as concerns over higher crude oil prices...",
-      "url": "https://www.malaymail.com/news/money/2026/09/09/bursa-malaysia-rebounds-opens-higher-at-open-despite-wall-street-weakness/234499",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/09/361437.jpg",
-      "publishedAt": "2026-09-09T02:53:51Z",
-      "source": {
-        "name": "Malay Mail"
-      }
-    },
-    {
-      "title": "US destroys five Iranian oil tankers as Tehran fires missiles towards Jordan",
-      "description": "The US destroyed five Iranian oil tankers after alleged attacks on its warships, and Iran fired missiles towards US targets in Jordan. The exchange has sharpened risks around the Strait of Hormuz, raising oil prices and fears of wider escalation.",
-      "url": "https://www.indiatoday.in/world/story/us-destroys-five-iranian-oil-tankers-iran-fires-missiles-towards-jordan-ptag-2990380-2026-09-09",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/pti-international-3-original_100-sixteen_nine.png?VersionId=Kt3j2LBNygO5l8AWu85WZ7k7GGT_tn09",
-      "publishedAt": "2026-09-09T02:52:37Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "US strikes Iranian oil tankers, Iran retaliates with attack on US base in Jordan; Brent crude climbs $1.57",
-      "description": "US-Iran war: The escalation led oil prices to rise for the fourth consecutive session on Wednesday, with Brent crude futures rising $1.57.",
-      "url": "https://www.businesstoday.in/world/story/us-strikes-iranian-oil-tankers-iran-retaliates-with-attack-on-us-base-in-jordan-brent-crude-climbs-usd-1-57-554122-2026-09-09",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa0c777a7f6c-us-iran-war-centcom-destroys-iranian-crude-oil-carriers-094153458-16x9.png",
-      "publishedAt": "2026-09-09T02:44:22Z",
+      "title": "US households face $100.9 billion fuel bill as Iran war keeps energy prices high",
+      "description": "Gas prices climbed to a fresh three-month high above $4.15 a gallon on Tuesday, according to AAA.",
+      "url": "https://www.businesstoday.in/world/story/us-households-face-100-9-billion-fuel-bill-as-iran-war-keeps-energy-prices-high-554228-2026-09-09",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa110a1976b4-the-average-price-of-a-gallon-of-diesel-is-now-590--up-from-376-when-the-war-started-095404157-16x9.png",
+      "publishedAt": "2026-09-09T07:55:06Z",
       "source": {
         "name": "Business Today"
       }
     },
     {
-      "title": "Oil heads for $100, Asia stocks subdued as West Asia tensions escalate",
-      "description": "Oil prices jumped for a fourth straight session on Wednesday, gaining more than $1 in early trade",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-jump-1-in-early-trade-amid-escalating-us-iran-tensions-126090900104_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/27/thumb/fitandfill/1200X628/1774590730-811.jpg",
-      "publishedAt": "2026-09-09T02:29:29Z",
+      "title": "Brent crude tops US$100 amid Middle East tensions",
+      "description": "Brent crude oil prices surge past US$100 amid Middle East tensions, raising inflation fears and pressure on central banks to hike interest rates globally. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/brent-crude-rises-above-100-a-barrel-as-middle-east-conflict-escalates",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6ea5348114e78de8aad6fa494b43ae8f026d30d037a5044ad542b0e5c62d64fe",
+      "publishedAt": "2026-09-09T07:48:11Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Indian rupee under pressure with Brent near $100 testing RBI defence",
-      "description": "The Indian rupee is likely to extend losses on Wednesday, weighed down by a further rise in oil prices, which would \u200btest the central bank's ability to cushion the currency.",
-      "url": "https://www.reuters.com/world/india/indian-rupee-under-pressure-with-brent-near-100-testing-rbi-defence-2026-09-09/",
-      "image": "https://www.reuters.com/resizer/v2/FPPJRPV3E5KEJIYM7WUJX6UFFY.jpg?auth=7043bd09d8657464c984689e16ac2c10d462b2192fc0b7b986a5b32e64d8e022&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-09T02:24:24Z",
+      "title": "Oil hits $100 a barrel as Iran war escalates",
+      "description": "Oil prices hit $100 per barrel for the first time since July as new strikes in the Middle East sparked fresh concerns for oil supplies.",
+      "url": "https://www.cityam.com/oil-prices-hit-100-as-interest-rate-pressure-grows/",
+      "image": "https://www.cityam.com/wp-content/uploads/2026/07/Bank-of-England.jpg",
+      "publishedAt": "2026-09-09T07:44:46Z",
       "source": {
-        "name": "Reuters"
+        "name": "City A.M."
       }
     },
     {
-      "title": "Oil Price Today (September 9): Crude oil at $99 as Iran attacks US base in Jordan. Can liquid gold hit $120?",
-      "description": "Oil markets reacted sharply on Wednesday as Iran renewed its assaults on U.S. military installations. Strikes by the Revolutionary Guards on American destroyers and a Jordanian base marked a direct counter to U.S. attacks on their oil tankers. Analysts caution that should shipping turmoil escalate, oil prices might spike to $120 per barrel, intensifying fears over crude supply stability worldwide.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-9-crude-oil-at-99-as-iran-attacks-us-base-in-jordan-can-liquid-gold-hit-120/articleshow/133949241.cms",
-      "image": "https://img.etimg.com/thumb/msid-133949277,width-1200,height-630,imgsize-251412,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-09T02:17:00Z",
+      "title": "Brent Crude Surges Amid Middle East Tensions",
+      "description": "Brent crude oil prices have surpassed $100 per barrel for the first time since July, driven by escalating conflict in the Middle East, including Houthi attacks on Saudi energy facilities. As a result, oil flow through key routes like the Red Sea and Strait of Hormuz has been jeopardized.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3974784-brent-crude-surges-amid-middle-east-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_04_2025_16_07_27_6522088.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-09T07:32:15Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Yen stands tall as dollar wobbles, oil's run towards $100 chills sentiment",
-      "description": "The Japanese yen marked a significant climb on Wednesday, nearing its highest level since February as oil prices soared toward $100 per barrel due to escalating tensions in the Middle East. This development has made the U.S. dollar vulnerable against key currencies. Market participants are keenly awaiting U.S. inflation data that could sway central bank strategies.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/yen-stands-tall-as-dollar-wobbles-oils-run-towards-100-chills-sentiment/articleshow/133949193.cms",
-      "image": "https://img.etimg.com/thumb/msid-133949216,width-1200,height-630,imgsize-156822,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-09T02:14:00Z",
+      "title": "Oil prices rise above $100 a barrel for first time since July as Iran war escalates",
+      "description": "Brent crude rises by more than 2% after latest fire between US and Iran in Gulf and Houthi attacks on Saudi cities",
+      "url": "https://www.theguardian.com/business/2026/sep/09/oil-prices-rise-iran-war-brent-crude-inflation-higher-interest-rates",
+      "image": "https://i.guim.co.uk/img/media/1d187438efe895eb93e14842350bd18880f9373a/0_0_6341_5072/master/6341.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6442cf223721d4465e58c3a137567547",
+      "publishedAt": "2026-09-09T07:28:53Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "Petrol, diesel prices today, September 9: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "With Brent crude trading near $100 per barrel, fuel prices have remained relatively stable over the past week.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-9-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-554119-2026-09-09",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa0c01ba23f0-when-the-rupee-weakens-against-the-dollar--the-cost-of-procuring-crude-rises--which-can-feed-directl-091029544-16x9.jpg",
-      "publishedAt": "2026-09-09T02:10:57Z",
+      "title": "Major indexes slip as soaring oil nears $100 mark",
+      "description": "NEW YORK -- U.S. stocks fell Tuesday in their return to trading from a three-day weekend after the latest fighting in the war with Iran pushed oil prices higher.",
+      "url": "https://www.arkansasonline.com/news/2026/sep/09/major-indexes-slip-as-soaring-oil-nears-100-mark/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213609771_213609177-4d55c45a1142425bb5a9e95faa702572_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-09-09T07:27:00Z",
       "source": {
-        "name": "Business Today"
+        "name": "Arkansas Online"
+      }
+    },
+    {
+      "title": "Oil prices climb towards $100 as US",
+      "description": "FILE PHOTO - A board with pictograms stands at a petrol station. Oil prices in Europa are rising significantly due to the war in Iran. (is associated with:",
+      "url": "https://www.europesays.com/3241368/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fdpa_international_5262F921608636993a4d9736571468f36062b.jpg",
+      "publishedAt": "2026-09-09T07:21:37Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Trump addressed record-high gas prices in the most predictable way",
+      "description": "Trump addressed record-high gas prices in the most predictable way",
+      "url": "https://www.indy100.com/politics/trump/trump-gas-prices-iran-war-2677834829",
+      "image": "https://www.indy100.com/media-library/image.jpg?id=67739179&width=1200&height=600&coordinates=0%2C272%2C0%2C501",
+      "publishedAt": "2026-09-09T07:19:55Z",
+      "source": {
+        "name": "indy100"
       }
     }
   ]
