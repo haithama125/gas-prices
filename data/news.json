@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-09T02:08:24+00:00",
+  "updated_at": "2026-09-09T10:23:05+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks mixed as Middle East conflict pushes oil prices higher",
-      "description": "The Dow Jones Industrial Average fell 0.57%, the S&P 500 fell 0.01%, the Nasdaq Composite rose 0.08%",
-      "url": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-middle-east-conflict-pushes-oil-prices-higher-11788875231997.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/usstocks_1788876042823_e42b5806-18ad-4aae-bde3-b1be2e2c9a3d_1788876100429_64fd1023-0607-49e4-abbf-f5d5307c7a04_384f4499-af3a-4fcd-bf99-47581563ffdc_4c491cf9-bec3-4b76-bed6-97d4ab3d3a85.jpg",
-      "publishedAt": "2026-09-08T14:02:49Z",
+      "title": "Oil prices jump, stocks drop as Mideast war flares",
+      "description": "NEW YORK, United States \u2014 World oil prices climbed Tuesday, once more closing in on $100 a barrel, and stock markets mostly retreated owing to a flare-up in the Middle East war.",
+      "url": "https://www.manilatimes.net/2026/09/09/world/americas-emea/oil-prices-jump-stocks-drop-as-mideast-war-flares/2421106",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/09/1208488.jpg",
+      "publishedAt": "2026-09-08T22:23:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Canada Trade Tensions, Inflation Concerns; Dow, S&P 500 Decline",
-      "description": "US stocks fell on Tuesday, with the Dow dropping 500 points as oil prices climbed, West Asia tensions persisted and US-Canada trade tensions escalated.",
-      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-jones-nasdaq-oil-prices-us-canada-trade-19986878.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-08T14:00:43Z",
+      "title": "US stocks declined and oil prices gained amid the ongoing geopolitical escalation - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-declined-and-oil-prices-gained-amid-ongoing-geopolitical-escalation-newsquawk",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_4.png?itok=XyZwGDVz",
+      "publishedAt": "2026-09-08T22:02:40Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "$100 Brent Looms as China\u2019s Oil Buying Rebounds",
-      "description": "China\u2019s renewed crude buying is tightening global supplies and adding fresh upward pressure to oil prices.",
-      "url": "https://oilprice.com/Energy/Energy-General/100-Brent-Looms-as-Chinas-Oil-Buying-Rebounds.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-08_tkhaiq9mvd.jpg",
-      "publishedAt": "2026-09-08T14:00:00Z",
+      "title": "How major US stock indexes fared Tuesday 9",
+      "description": "U.S. stocks drifted lower in their return to trading from a three-day weekend after the latest fighting in the war with Iran pushed oil prices higher. The S&",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-tuesday-9-8-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon.png",
+      "publishedAt": "2026-09-08T21:11:25Z",
       "source": {
-        "name": "OilPrice"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Escalating Conflict in the Gulf: Houthi Attacks Drive Oil Prices Skyward",
-      "description": "Yemen's Tehran-backed Houthis have expanded their attacks into four Saudi cities, wounding over 70 people and targeting key oil infrastructure. These strikes mark a significant escalation in the months-long Middle East conflict, impacting global oil prices and raising geopolitical tensions in the Gulf region.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3974370-escalating-conflict-in-the-gulf-houthi-attacks-drive-oil-prices-skyward",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_13_48_13_8188936.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-08T13:59:35Z",
+      "title": "What\u2019s happening with gas prices?",
+      "description": "U.S. gas prices set a new Labor Day record, diesel hits an all-time high and it may get worse before it gets better",
+      "url": "https://www.deseret.com/business/2026/09/08/us-gas-diesel-prices-labor-day-all-time-record-red-sea-persian-gulf-russia-ukraine-inflation-household-budgets/",
+      "image": "https://www.deseret.com/resizer/v2/TXCFSRKP4JCQNPUZ2NH6XF2RDQ.JPG?focal=0%2C0&auth=4184e69f44107fc5a4be23c3b3ba03210faeb25665a7b1ed1ee49a134138cbc8&width=630&height=331",
+      "publishedAt": "2026-09-08T21:06:17Z",
+      "source": {
+        "name": "Salt Lake City Deseret News"
+      }
+    },
+    {
+      "title": "Gulf Tensions Ignite: Yemen's Houthis and U.S.-Iran Naval Clashes Raise Global Oil Prices",
+      "description": "Escalating conflict in the Gulf sees Yemen's Houthis striking four Saudi cities, wounding 70 and targeting oil installations. Concurrently, U.S. forces retaliate against Iranian tankers, reigniting global tensions. These events threaten to disrupt energy supplies and have driven oil prices up, impacting the global economy and political scene.",
+      "url": "https://www.devdiscourse.com/article/politics/3974553-gulf-tensions-ignite-yemens-houthis-and-us-iran-naval-clashes-raise-global-oil-prices",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/29_02_2020_16_58_29_8149663.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T20:58:39Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
       "title": "Oil prices keep rising and weigh on Wall Street",
-      "description": "U.S. stocks are drifting lower, as rising oil prices raise the pressure following the latest fighting in the war with Iran.",
-      "url": "https://www.cp24.com/news/money/2026/09/08/wall-street-mixed-in-early-trading-while-oil-prices-push-higher-yet/",
-      "image": "https://www.cp24.com/resizer/v2/LMPUBPLXKNRI64XDMAU6BMIJHI.jpg?smart=true&auth=f49a8010c1137fb745705614d7da4443be26dda4bbba138c1c9042f250bdd2ca&width=1200&height=630",
-      "publishedAt": "2026-09-08T13:58:29Z",
+      "description": "U.S. stocks fell in their return to trading from a three-day weekend after the latest fighting in the war with Iran pushed oil prices higher. The S&P 500 sank 0.6% Tuesday. The Dow Jones Industrial Average dropped 1.2%, and the Nasdaq composite slipped 0.3%. They felt pressure after the cost for a barrel of Brent briefly neared $99.50. More expensive oil has worsened worries about inflation and is giving extra heft to a couple of reports on inflation that are coming later this week. They will be the final updates the Federal Reserve hears on inflation before its meeting on interest rates next week.",
+      "url": "https://www.ajc.com/news/2026/09/oil-prices-keep-rising-and-weigh-on-wall-street-4/",
+      "image": "https://images.ajc.com/resizer/v2/OJZWXWT4B5B6ZEH6W4UGQDX7OA.jpg?auth=bd5e750dd083b6b147d541e33b85b1dba14890fa08cb3ee614a7ccc054514e27&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-08T20:51:55Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "New \u00a31.4m Ayrshire petrol station boasting cafe and shop will create 32 new jobs",
-      "description": "The proposals have been given the green light.",
-      "url": "https://www.dailyrecord.co.uk/ayrshire/new-14m-ayrshire-petrol-station-37622591",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37622652.ece/ALTERNATES/s1200d/0_pbr_ayp_100425_smithy_01.jpg",
-      "publishedAt": "2026-09-08T13:48:27Z",
-      "source": {
-        "name": "Daily Record"
-      }
-    },
-    {
-      "title": "Gas, diesel hit all-time Labor Day record levels: Impact on economy",
-      "description": "We set a new Labor Day record for gas prices, with the national average at $4.09 a gallon on Monday, according to GasBuddy.",
-      "url": "https://augustafreepress.com/news/gas-diesel-hit-all-time-labor-day-record-levels-impact-on-economy/",
-      "image": "https://augustafreepress.com/wp-content/uploads/2023/08/gas-prices-1.jpg",
-      "publishedAt": "2026-09-08T13:42:25Z",
-      "source": {
-        "name": "Augusta Free Press"
-      }
-    },
-    {
-      "title": "US stocks slip in early trading while oil prices push higher again",
-      "description": "NEW YORK (AP) \u2014 Oil prices are climbing following the latest fighting in the war with Iran, while U.S. stocks are slipping in their return to trading following a three-day weekend. The S&P 500 fell 0.2% early Tuesday.",
-      "url": "https://www.vancouverisawesome.com/national-business/us-stocks-slip-in-early-trading-while-oil-prices-push-higher-again-12752207",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/ae1a907c7823ededde3986fa089cd00201acbf8eaf251d536669b6974bd426e8.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-09-08T13:37:50Z",
-      "source": {
-        "name": "Vancouver Is Awesome"
-      }
-    },
-    {
-      "title": "US stocks today: US stocks mixed at open as Gulf tensions send oil to over six-week high",
-      "description": "Wall Street opened mixed on September 8 as renewed Middle East hostilities pushed oil prices to their highest level since late July. The Dow Jones fell while the S&P 500 was largely flat and Nasdaq edged higher. Investors are also awaiting key US inflation data due later this week.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-mixed-at-open-as-gulf-tensions-send-oil-to-over-six-week-high/articleshow/133927807.cms",
-      "image": "https://img.etimg.com/thumb/msid-133927807,width-1200,height-630,imgsize-198364,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-08T13:37:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Market Tumult as Wall Street Grapples with Oil Spike",
-      "description": "Wall Street's main indexes showed mixed results at the open on Tuesday. Increased tensions in the Middle East pushed oil prices to their highest since late July, while investors await the forthcoming inflation data. The Dow dropped, S&P showed minimal movement, and Nasdaq experienced a slight rise.",
-      "url": "https://www.devdiscourse.com/article/business/3974353-market-tumult-as-wall-street-grapples-with-oil-spike",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_21_49_03_6672533.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-08T13:33:47Z",
+      "title": "Market Volatility Amid Inflation and Geopolitical Tensions",
+      "description": "Global markets experience volatility as stocks dip and oil prices approach $100 per barrel, driven by inflationary pressures and geopolitical tensions in the Middle East. Central banks grapple with interest rate adjustments, with significant movements in yen and copper prices reflecting broader economic uncertainties.",
+      "url": "https://www.devdiscourse.com/article/business/3974550-market-volatility-amid-inflation-and-geopolitical-tensions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/13_10_2025_10_40_23_8261385.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T20:44:31Z",
       "source": {
         "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices keep rising and weigh on Wall Street",
+      "description": "U.S. stocks fell in their return to trading from a three-day weekend after the latest fighting in the war with Iran pushed oil prices higher",
+      "url": "https://www.latimes.com/business/story/2026-09-08/oil-prices-keep-rising-weigh-on-wall-street",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/cd63a88/2147483647/strip/true/crop/8640x4536+0+612/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0c%2Fb9%2F978a5108456b837d4a0a4074d73d%2F4d55c45a1142425bb5a9e95faa702572.jpg",
+      "publishedAt": "2026-09-08T20:34:02Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "description": "Dow Jones futures: Stocks fell Tuesday as oil prices rose, but AMD and HPE led stocks flashing buy signals. An Apple iPhone event is on tap.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-amd-hpe-new-buys-apple-iphone-event/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/06/Stock-Apple-logoSilver-company.jpg",
+      "publishedAt": "2026-09-08T20:30:09Z",
+      "source": {
+        "name": "Investor's Business Daily"
+      }
+    },
+    {
+      "title": "Oil prices keep rising and weigh on Wall Street",
+      "description": "U.S. stocks fell in their return to trading from a three-day weekend after the latest fighting in the war with Iran pushed oil prices higher. The S&P 500 sank 0.6% Tuesday. The Dow Jones Industrial Average dropped 1.2%, and the Nasdaq composite slipped 0.3%. They felt pressure after the cost for a barrel of Brent briefly neared $99.50. More expensive oil has worsened worries about inflation and is giving extra heft to a couple of reports on inflation that are coming later this week. They will be the final updates the Federal Reserve hears on inflation before its meeting on interest rates next week.",
+      "url": "https://www.ajc.com/news/2026/09/oil-prices-keep-rising-and-weigh-on-wall-street-3/",
+      "image": "https://images.ajc.com/resizer/v2/OJZWXWT4B5B6ZEH6W4UGQDX7OA.jpg?auth=bd5e750dd083b6b147d541e33b85b1dba14890fa08cb3ee614a7ccc054514e27&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-08T20:21:56Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
