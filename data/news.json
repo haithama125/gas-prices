@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-08T20:28:19+00:00",
+  "updated_at": "2026-09-09T02:08:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "'No choice': Grim interest rate warning for borrowers as oil prices spike",
-      "description": "Meanwhile, the RBA's assistant governor did little to downplay expectations of a rate hike in comments on Tuesday.",
-      "url": "https://www.sbs.com.au/news/article/interest-rates-rba-inflation/vhpp5zmbb",
-      "image": "https://assets.sbs.com.au/dims4/default/b6d5537/2147483647/strip/true/crop/1800x1013+0+142/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F95%2F14%2F874ce3d048bfa2a6ceac2cf86519%2Fbowsers-at-a-petrol-station-in-sydney-aap.jpg",
-      "publishedAt": "2026-09-08T08:26:03Z",
+      "title": "US stocks mixed as Middle East conflict pushes oil prices higher",
+      "description": "The Dow Jones Industrial Average fell 0.57%, the S&P 500 fell 0.01%, the Nasdaq Composite rose 0.08%",
+      "url": "https://www.livemint.com/market/stock-market-news/us-stocks-mixed-as-middle-east-conflict-pushes-oil-prices-higher-11788875231997.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/08/1600x900/usstocks_1788876042823_e42b5806-18ad-4aae-bde3-b1be2e2c9a3d_1788876100429_64fd1023-0607-49e4-abbf-f5d5307c7a04_384f4499-af3a-4fcd-bf99-47581563ffdc_4c491cf9-bec3-4b76-bed6-97d4ab3d3a85.jpg",
+      "publishedAt": "2026-09-08T14:02:49Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Escalating Tensions: Houthis Attack Saudi Oil Facilities",
-      "description": "Operations at energy facilities in Saudi Arabia halted due to Houthi attacks, injuring 73. Fires reportedly erupted at several sites. The Saudi-led coalition labeled the escalation dangerous amid rising tensions between the U.S. and Iran, contributing to an increase in oil prices.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3974135-escalating-tensions-houthis-attack-saudi-oil-facilities",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_18_25_2697677.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-08T08:24:35Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Yen Surge and Volatile Oil Prices Stir Global Markets",
-      "description": "Global markets experienced turmoil as the yen surged, oil neared $100 a barrel due to Gulf conflicts, and copper prices reached new heights. Rising U.S. inflation, bond yields, and potential interest rate increases by central banks intensified market fluctuations, with traders re-evaluating their strategies amid financial uncertainties.",
-      "url": "https://www.devdiscourse.com/article/business/3974132-yen-surge-and-volatile-oil-prices-stir-global-markets",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_08_2024_09_03_59_4006902.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-08T08:22:20Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Alternative fuels surpass petrol in India\u2019s passenger vehicle market for first time: Know the key details",
-      "description": "India\u2019s passenger car market saw a historic transition as alternative-fuel vehicles surpassed petrol-powered cars for the first time, even as the country posted its highest-ever vehicle retail sales for August 2026.",
-      "url": "https://www.tribuneindia.com/news/india/alternative-fuels-surpass-petrol-in-indias-passenger-vehicle-market-for-first-time-know-the-key-details/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFmYjg5ZjEwLWFiNWMtMTFmMS05YjIwLTgzZThkYzhhYjE2YS5qcGc=",
-      "publishedAt": "2026-09-08T08:05:52Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Oil prices approaching $100 per barrel as Houthis attack Saudi sites",
-      "description": "Sept. 8 (UPI) -- Oil prices are nearing $100 per barrel on Tuesday following a wave of strikes on Saudi Arabian energy facilities, injuring more than 70",
-      "url": "https://www.breitbart.com/news/oil-prices-approaching-100-per-barrel-as-houthis-attack-saudi-sites/",
-      "image": "https://media.breitbart.com/media/2026/09/wi/upi/oil-prices-approaching-100-barrel-houthis-attack-saudi-sites-oil-prices-approaching-100-barrel.jpg",
-      "publishedAt": "2026-09-08T08:04:22Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Test solves debate on if petrol car or EV is cheaper to run - the result is surprising",
-      "description": "A journalist from car buying website Carwow compared a used electric car and a petrol car, both available for as little as \u00a310,000, to find out which was cheapest to run over 30,000 miles.",
-      "url": "https://www.walesonline.co.uk/news/motoring/motoring-features/test-solves-debate-petrol-car-34579749",
-      "image": "https://i2-prod.walesonline.co.uk/article34579748.ece/ALTERNATES/s1200d/0_A-woman-in-the-drivers-seat-of-a-right-hand-drive-car.jpg",
-      "publishedAt": "2026-09-08T08:00:00Z",
-      "source": {
-        "name": "South Wales Echo"
-      }
-    },
-    {
-      "title": "Vegetarian thali cost rises to highest level in over a year as onion, oil prices surge",
-      "description": "The increase was largely driven by onions, whose prices surged around 43 percent year-on-year to Rs 40 per kg, compared with Rs 28 per kg in August 2025",
-      "url": "https://www.moneycontrol.com/news/business/economy/vegetarian-thali-cost-rises-to-highest-level-in-over-a-year-as-onion-oil-prices-surge-14025150.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/10/20251028094939_MixCollage-28-Oct-2025-03-19-PM-1268.jpg",
-      "publishedAt": "2026-09-08T07:59:19Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "old gets trapped inside car at Tamil Nadu petrol pump, rescued after 30 minutes",
-      "description": "Tamil Nadu boy trapped in car for 30 minutes in Nellai, rescued. Recalls similar tragic incidents in Coimbatore and Karur.",
-      "url": "https://www.cnbctv18.com/india/3-year-old-gets-trapped-inside-car-at-tamil-nadu-petrol-pump-rescued-after-30-minutes-19986471.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-12d99a92882af6a13a3225533f3e4446.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-08T07:55:58Z",
+      "title": "Canada Trade Tensions, Inflation Concerns; Dow, S&P 500 Decline",
+      "description": "US stocks fell on Tuesday, with the Dow dropping 500 points as oil prices climbed, West Asia tensions persisted and US-Canada trade tensions escalated.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-jones-nasdaq-oil-prices-us-canada-trade-19986878.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-08T14:00:43Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "Goldman Sachs\u2019 big warning! Oil prices could soar to $120 if attacks on shipping continue in Hormuz Strait",
-      "description": "Goldman Sachs warned Brent crude could rise to $120 a barrel if Middle East shipping disruptions intensify, while JPMorgan sees further upside with prolonged disruption. Rising geopolitical risks, Strait of Hormuz tensions and supply concerns are keeping oil prices elevated.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/goldman-sachs-big-warning-oil-prices-could-soar-to-120-if-attacks-on-shipping-continue-in-hormuz-strait/articleshow/133915395.cms",
-      "image": "https://img.etimg.com/thumb/msid-133915468,width-1200,height-630,imgsize-2540423,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-08T07:55:00Z",
+      "title": "$100 Brent Looms as China\u2019s Oil Buying Rebounds",
+      "description": "China\u2019s renewed crude buying is tightening global supplies and adding fresh upward pressure to oil prices.",
+      "url": "https://oilprice.com/Energy/Energy-General/100-Brent-Looms-as-Chinas-Oil-Buying-Rebounds.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-08_tkhaiq9mvd.jpg",
+      "publishedAt": "2026-09-08T14:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Escalating Conflict in the Gulf: Houthi Attacks Drive Oil Prices Skyward",
+      "description": "Yemen's Tehran-backed Houthis have expanded their attacks into four Saudi cities, wounding over 70 people and targeting key oil infrastructure. These strikes mark a significant escalation in the months-long Middle East conflict, impacting global oil prices and raising geopolitical tensions in the Gulf region.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3974370-escalating-conflict-in-the-gulf-houthi-attacks-drive-oil-prices-skyward",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_13_48_13_8188936.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T13:59:35Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices keep rising and weigh on Wall Street",
+      "description": "U.S. stocks are drifting lower, as rising oil prices raise the pressure following the latest fighting in the war with Iran.",
+      "url": "https://www.cp24.com/news/money/2026/09/08/wall-street-mixed-in-early-trading-while-oil-prices-push-higher-yet/",
+      "image": "https://www.cp24.com/resizer/v2/LMPUBPLXKNRI64XDMAU6BMIJHI.jpg?smart=true&auth=f49a8010c1137fb745705614d7da4443be26dda4bbba138c1c9042f250bdd2ca&width=1200&height=630",
+      "publishedAt": "2026-09-08T13:58:29Z",
+      "source": {
+        "name": "CP24 Toronto"
+      }
+    },
+    {
+      "title": "New \u00a31.4m Ayrshire petrol station boasting cafe and shop will create 32 new jobs",
+      "description": "The proposals have been given the green light.",
+      "url": "https://www.dailyrecord.co.uk/ayrshire/new-14m-ayrshire-petrol-station-37622591",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37622652.ece/ALTERNATES/s1200d/0_pbr_ayp_100425_smithy_01.jpg",
+      "publishedAt": "2026-09-08T13:48:27Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Gas, diesel hit all-time Labor Day record levels: Impact on economy",
+      "description": "We set a new Labor Day record for gas prices, with the national average at $4.09 a gallon on Monday, according to GasBuddy.",
+      "url": "https://augustafreepress.com/news/gas-diesel-hit-all-time-labor-day-record-levels-impact-on-economy/",
+      "image": "https://augustafreepress.com/wp-content/uploads/2023/08/gas-prices-1.jpg",
+      "publishedAt": "2026-09-08T13:42:25Z",
+      "source": {
+        "name": "Augusta Free Press"
+      }
+    },
+    {
+      "title": "US stocks slip in early trading while oil prices push higher again",
+      "description": "NEW YORK (AP) \u2014 Oil prices are climbing following the latest fighting in the war with Iran, while U.S. stocks are slipping in their return to trading following a three-day weekend. The S&P 500 fell 0.2% early Tuesday.",
+      "url": "https://www.vancouverisawesome.com/national-business/us-stocks-slip-in-early-trading-while-oil-prices-push-higher-again-12752207",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/ae1a907c7823ededde3986fa089cd00201acbf8eaf251d536669b6974bd426e8.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-09-08T13:37:50Z",
+      "source": {
+        "name": "Vancouver Is Awesome"
+      }
+    },
+    {
+      "title": "US stocks today: US stocks mixed at open as Gulf tensions send oil to over six-week high",
+      "description": "Wall Street opened mixed on September 8 as renewed Middle East hostilities pushed oil prices to their highest level since late July. The Dow Jones fell while the S&P 500 was largely flat and Nasdaq edged higher. Investors are also awaiting key US inflation data due later this week.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-mixed-at-open-as-gulf-tensions-send-oil-to-over-six-week-high/articleshow/133927807.cms",
+      "image": "https://img.etimg.com/thumb/msid-133927807,width-1200,height-630,imgsize-198364,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-08T13:37:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Houthis attack Saudi energy sites, cities, wound 73 as Iran war risks wider escalation",
-      "description": "Yemen's Houthis attacked Saudi energy facilities and cities, wounding over seventy people. This escalation highlights the risk of the Iran conflict spreading regionally. Iran warned Gulf energy infrastructure was vulnerable after recent ship attacks. Oil prices climbed to six-week highs as fires erupted at facilities. The coalition vowed to deter the militia and confront its hostile approach.",
-      "url": "https://economictimes.indiatimes.com/news/defence/houthis-attack-saudi-energy-sites-cities-wound-73-as-iran-war-risks-wider-escalation/articleshow/133914888.cms",
-      "image": "https://img.etimg.com/thumb/msid-133914935,width-1200,height-630,imgsize-48514,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-09-08T07:42:00Z",
+      "title": "Market Tumult as Wall Street Grapples with Oil Spike",
+      "description": "Wall Street's main indexes showed mixed results at the open on Tuesday. Increased tensions in the Middle East pushed oil prices to their highest since late July, while investors await the forthcoming inflation data. The Dow dropped, S&P showed minimal movement, and Nasdaq experienced a slight rise.",
+      "url": "https://www.devdiscourse.com/article/business/3974353-market-tumult-as-wall-street-grapples-with-oil-spike",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/06_05_2026_21_49_03_6672533.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-08T13:33:47Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Devdiscourse"
       }
     }
   ]
