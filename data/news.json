@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-10T10:14:48+00:00",
+  "updated_at": "2026-09-10T15:28:53+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stocks declined amid continued upside in oil prices and yields - Newsquawk Daily Asia-Pac Market Open",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/markets/us-stocks-declined-amid-continued-upside-oil-prices-and-yields-newsquawk-daily-asia-pac",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_5.png?itok=_ymFacg8",
-      "publishedAt": "2026-09-09T22:11:14Z",
+      "title": "Trump says oil prices that spiked because of Iran war likely won't come down until after midterms",
+      "description": "US President Donald Trump on Wednesday said that oil prices that have surged because of the Iran war likely won't come down until after US midterm elections.",
+      "url": "https://www.greaterkashmir.com/business/trump-says-oil-prices-that-spiked-because-of-iran-war-likely-wont-come-down-until-after-midterms-12513589",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2025/07/Trump-01-e1752116198405.png",
+      "publishedAt": "2026-09-10T03:27:42Z",
       "source": {
-        "name": "ZeroHedge"
+        "name": "Greater Kashmir"
       }
     },
     {
-      "title": "Stock Market Falls As Oil Prices, Treasury Yields Continue To Rise; Key Inflation Data Next",
-      "description": "The stock market dropped Wednesday as oil prices and Treasury yields continued to rise. Up next is key inflation data on Thursday.",
-      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-oil-prices-treasury-yields-inflation-data/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/08/WallStreetFinance2-adobe.jpg",
-      "publishedAt": "2026-09-09T22:03:48Z",
+      "title": "Asian stocks tumble as oil tops US$100, reviving rate hike fears",
+      "description": "HONG KONG, Sept 10 \u2014 Asian stocks fell Thursday as oil prices extended gains a day after breaking the psychological US$100 barrier (RM407)\u00a0 on the back of resurgent Middle East...",
+      "url": "https://www.malaymail.com/news/money/2026/09/10/asian-stocks-tumble-as-oil-tops-us100-reviving-rate-hike-fears/234653",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/10/361683.jpg",
+      "publishedAt": "2026-09-10T03:14:45Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "Pricier Metrolink is still the SoCal travel hack amid soaring gas prices",
-      "description": "Southern California\u2019s regional commuter rail network announced the first fare bump in thirteen years, but it's a relative bargain compared to the state\u2019s rising gas prices.",
-      "url": "https://nypost.com/2026/09/09/lifestyle/pricier-metrolink-is-still-the-socal-travel-hack-amid-soaring-gas-prices/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140355303.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-09T21:44:32Z",
+      "title": "Asian stocks slide as oil tops $100, investors brace for US inflation data",
+      "description": "MSCI's Asia-Pacific index fell 1 per cent, while Japan's Nikkei and South Korea's KOSPI dropped more than 1 per cent as investors weighed higher oil prices and the outlook for US monetary policy",
+      "url": "https://www.business-standard.com/markets/news/asian-stocks-slide-as-oil-tops-100-investors-brace-for-us-inflation-data-126091000105_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/30/thumb/fitandfill/1200X628/1751260482-7245.jpg",
+      "publishedAt": "2026-09-10T03:02:25Z",
       "source": {
-        "name": "New York Post"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
-      "description": "President also vows that the Iran war will end after the elections.",
-      "url": "https://www.nj.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
-      "image": "https://www.nj.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-09T21:43:34Z",
+      "title": "Oil prices today: Brent holds above $100 as Iran-US attacks threaten deeper supply disruption",
+      "description": "International Business News: Oil prices extended gains on Thursday, with Brent holding above $100 a barrel as escalating Iran-US attacks on shipping heightened concerns over furth.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-today-brent-holds-above-100-as-iran-us-attacks-threaten-deeper-supply-disruption/articleshow/133991399.cms",
+      "image": "https://static.toiimg.com/thumb/msid-133991454,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-10T02:53:00Z",
       "source": {
-        "name": "NJ.com"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
-      "description": "President also vows that the Iran war will end after the elections.",
-      "url": "https://www.pennlive.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
-      "image": "https://www.pennlive.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-09T21:43:34Z",
-      "source": {
-        "name": "Mechanicsburg Patriot News "
-      }
-    },
-    {
-      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
-      "description": "President also vows that the Iran war will end after the elections.",
-      "url": "https://www.silive.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
-      "image": "https://www.silive.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-09T21:43:34Z",
-      "source": {
-        "name": "Staten Island Advance"
-      }
-    },
-    {
-      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
-      "description": "President also vows that the Iran war will end after the elections.",
-      "url": "https://www.al.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
-      "image": "https://www.al.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-09T21:43:34Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "The Latest: Day 1 of Republican midterm convention begins ahead of Trump\u2019s keynote address",
+      "title": "The Latest: Trump highlights his own record at midterm Republican convention",
       "description": "Republicans are gathering in Dallas for a unique two-day midterm convention, focusing on President Donald Trump. Trump plans to speak both nights and Vice President JD Vance will also address attendees. The event aims to boost Republican candidates by highlighting Trump's first two years in office. Trump believes running on his record is the GOP's best strategy despite low approval ratings. Meanwhile, Democrats are planning counterprogramming. Trump has commented on high oil prices due to the Iran war, suggesting they won't drop until after the midterms. The war, now in its seventh month, has been widely criticized.",
-      "url": "https://www.ajc.com/news/2026/09/the-latest-day-1-of-republican-midterm-convention-begins-ahead-of-trumps-keynote-address/",
+      "url": "https://www.ajc.com/news/2026/09/the-latest-trump-highlights-his-own-record-at-midterm-republican-convention/",
       "image": "https://images.ajc.com/resizer/v2/EIQLVZQRYBAETCO2P2VJCQMMPQ.jpg?auth=d7bdbbbea5382ad7d0c24893e01f1d3a27b299a933b6a402501eda7f05bcd642&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-09T21:42:19Z",
+      "publishedAt": "2026-09-10T02:52:11Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Markets live: ASX to drop following a sea of red on Wall Street, price of oil passes $US101 a barrel",
-      "description": "The Aussie share market is set to drop as Wall Street closes in the red and oil prices pass $US101 a barrel. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-09-10/asx-markets-business-news-live-updates-thursday-10-september/107136246",
-      "image": "https://live-production.wcms.abc-cdn.net.au/9aa7ef812d8f84ad3b958ef884094e5b?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-09T21:23:51Z",
+      "title": "Oil Price Today (September 10): Crude oil at $101 as Iran attack on 10 ships raises supply fears. $120 in sight?",
+      "description": "On Thursday, oil prices surged above one hundred dollars per barrel as traders evaluated the risks associated with supply disruptions stemming from recent shipping attacks. Iran has claimed responsibility for targeting ten vessels after the United States destroyed five tankers. Market analysts warn that if tensions continue in the contested Strait of Hormuz, oil prices could escalate further, potentially reaching one hundred twenty dollars per barrel.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-10-crude-oil-at-101-as-iran-attack-on-10-ships-raises-supply-fears-120-in-sight/articleshow/133990953.cms",
+      "image": "https://img.etimg.com/thumb/msid-133990982,width-1200,height-630,imgsize-131462,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-10T02:24:00Z",
       "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
-      "description": "Stocks fell on Wall Street as the price of crude oil topped $100 a barrel again",
-      "url": "https://www.latimes.com/business/story/2026-09-09/stocks-fall-on-wall-street-as-oil-prices-jump-back-above-100-barrel-after-iran-war-escalates",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/8791fd4/2147483647/strip/true/crop/7323x3845+0+519/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd3%2Fa9%2F4fbe7e47486abb0587fb2a4f898e%2Fef0b48ad17ac489db17e68481bd34cba.jpg",
-      "publishedAt": "2026-09-09T21:18:09Z",
+      "title": "Currency markets subdued as oil shock lifts global yields; ECB, U.S. inflation eyed",
+      "description": "Currency markets remained steady as investors assessed rising oil prices and bond yields. The Japanese yen's strong rally paused before key United States inflation readings were released. Global bond yields climbed higher, reaching their highest levels since last year due to energy pressures. Central banks in Europe and Japan are expected to raise interest rates soon. United States inflation data will guide the Federal Reserve's upcoming policy decisions.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/currency-markets-subdued-as-oil-shock-lifts-global-yields-ecb-u-s-inflation-eyed/articleshow/133990813.cms",
+      "image": "https://img.etimg.com/thumb/msid-133990860,width-1200,height-630,imgsize-230436,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-10T02:17:00Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Brent holds above $100 as tanker attacks deepen supply fear",
+      "description": "Oil prices are holding steady as Brent crude exceeds one hundred dollars per barrel. Traders are anticipating further supply interruptions due to recent assaults on shipping. In response, Iran claimed it targeted ten vessels following the U.S. sinking five Iranian oil tankers. This back-and-forth suggests continued disruptions in the Persian Gulf. Furthermore, global stockpiles are dwindling, prompting an increase in oil price projections.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/brent-holds-above-100-as-tanker-attacks-deepen-supply-fear/articleshow/133990750.cms",
+      "image": "https://img.etimg.com/thumb/msid-133990796,width-1200,height-630,imgsize-94442,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-10T02:14:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil prices cross $100 as Iran-US attacks deepen crude supply fears",
+      "description": "Brent crosses the $100 mark as attacks on shipping near the Strait of Hormuz intensify, raising concerns over deeper disruptions to global oil supplies",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-cross-100-as-iran-us-attacks-deepen-crude-supply-fears-126091000096_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788802653-553.jpg",
+      "publishedAt": "2026-09-10T02:12:01Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Asia stocks wilt as Brent crude holds above $US100",
+      "description": "MSCI's broadest index of Asia-Pacific shares outside Japan has fallen 1.0 per cent and higher oil prices have weighed on investor \u200csentiment.",
+      "url": "https://www.perthnow.com.au/news/business/asia-stocks-wilt-as-brent-crude-holds-above-us100-c-22849704",
+      "image": "https://images.perthnow.com.au/publication/C-22849704/ae4ea62322ad65aab4b1cf03faa1e3ca9c7751de-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-10T02:08:43Z",
+      "source": {
+        "name": "PerthNow"
       }
     }
   ]
