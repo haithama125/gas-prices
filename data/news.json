@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-10T02:05:25+00:00",
+  "updated_at": "2026-09-10T10:14:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Households facing winter energy bills rise as UK gas prices hit four-year high",
-      "description": "Experts warned that the latest surge in wholesale prices could feed through into consumer energy bills in the winter.",
-      "url": "https://www.lbc.co.uk/article/e30a0db7ed4843d3a1bb790e01bf68a3-5HjdhCK_2/",
-      "image": "https://images.globalplayer.com/images/840776?crop=16_9&width=1200&signature=v1rud07vlxsk4DUxdaP6bTLoXYM=",
-      "publishedAt": "2026-09-09T14:04:10Z",
+      "title": "US stocks declined amid continued upside in oil prices and yields - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-declined-amid-continued-upside-oil-prices-and-yields-newsquawk-daily-asia-pac",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_5.png?itok=_ymFacg8",
+      "publishedAt": "2026-09-09T22:11:14Z",
       "source": {
-        "name": "LBC"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Households facing winter energy bills rise as UK gas prices hit four-year high",
-      "description": "Experts warned that the latest surge in wholesale prices could feed through into consumer energy bills in the winter.",
-      "url": "https://www.standard.co.uk/business/business-news/households-experts-simon-francis-brent-navy-b1296332.html",
-      "image": "https://static.standard.co.uk/2026/09/09/15/7484d347617485371b2bd530a749bdfbY29udGVudHNlYXJjaGFwaSwxNzg5MDQ4MjYw-2.66572121.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-09-09T14:03:59Z",
-      "source": {
-        "name": "Evening Standard"
-      }
-    },
-    {
-      "title": "Oil Turmoil: Rising Prices and Global Implications",
-      "description": "Oil prices surged past $100 a barrel amid escalating U.S.-Iran tensions, inciting fears of inflation and rising energy costs. Supply disruptions from the Gulf region and depleted reserves highlight growing vulnerabilities in global oil markets, emphasizing a 'security premium' as prices impact transport, manufacturing, and politics.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3975059-oil-turmoil-rising-prices-and-global-implications",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_06_2025_10_10_23_7658138.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-09T13:56:33Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "OMCs bleed Rs 5/litre on petrol, Rs 23/litre on diesel as brent hits $100 amid iran tensions",
-      "description": "India, the world's third-largest oil importing and consuming country, is particularly exposed to swings in international crude prices",
-      "url": "https://www.moneycontrol.com/news/business/economy/omcs-bleed-rs-5-litre-on-petrol-rs-23-litre-on-diesel-as-brent-hits-100-amid-iran-tensions-14026355.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2017/03/petrol-pump-oil-crude-gas-diesel.jpg",
-      "publishedAt": "2026-09-09T13:55:39Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "India\u2019s price rise heat is back; retail inflation seen nearing 5%",
-      "description": "Food prices firm up; rising global crude oil prices seen adding further pressure",
-      "url": "https://www.businesstoday.in/latest/economy/story/indias-price-rise-heat-is-back-retail-inflation-seen-nearing-5-554389-2026-09-09",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa1631be7def-retail-inflation-094558627-16x9.jpg",
-      "publishedAt": "2026-09-09T13:47:21Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Treasury Yields Firm As Oil Prices Jump; Bessent Set To Calm 'Fever'",
-      "description": "The 10-year Treasury yield held near a 19-month high as oil prices jump. Treasury is set to unveil the scope of Bessent's government buybacks.",
-      "url": "https://www.investors.com/news/treasury-yields-bessent-buyback-sp-500-gold-oil-prices/",
-      "image": "https://www.investors.com/wp-content/uploads/2018/05/Stock-TreasuryBldg-01-shutt.jpg",
-      "publishedAt": "2026-09-09T13:46:10Z",
+      "title": "Stock Market Falls As Oil Prices, Treasury Yields Continue To Rise; Key Inflation Data Next",
+      "description": "The stock market dropped Wednesday as oil prices and Treasury yields continued to rise. Up next is key inflation data on Thursday.",
+      "url": "https://www.investors.com/market-trend/the-big-picture/stock-market-oil-prices-treasury-yields-inflation-data/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/08/WallStreetFinance2-adobe.jpg",
+      "publishedAt": "2026-09-09T22:03:48Z",
       "source": {
         "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "US stocks today: Dow Jones falls 300 points as oil price crosess $100",
-      "description": "Stocks declined on Wall Street as Brent crude oil prices surpassed one hundred dollars per barrel. The S&P 500 and Nasdaq composite experienced slight decreases while the Dow Jones lost points. This oil price surge followed recent attacks between the United States and Iran. The ongoing conflict has disrupted vital oil shipments through the Strait of Hormuz. European markets also fell, and Asian markets showed mixed performance.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-dow-jones-falls-300-points-as-oil-price-crosess-100/articleshow/133971560.cms",
-      "image": "https://img.etimg.com/thumb/msid-133971560,width-1200,height-630,imgsize-99222,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-09T13:44:00Z",
+      "title": "Pricier Metrolink is still the SoCal travel hack amid soaring gas prices",
+      "description": "Southern California\u2019s regional commuter rail network announced the first fare bump in thirteen years, but it's a relative bargain compared to the state\u2019s rising gas prices.",
+      "url": "https://nypost.com/2026/09/09/lifestyle/pricier-metrolink-is-still-the-socal-travel-hack-amid-soaring-gas-prices/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/140355303.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-09T21:44:32Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "New York Post"
       }
     },
     {
-      "title": "NIA searches two Patna flats over Ranchi RSS office attack",
-      "description": "NIA searched two Patna flats in Chitragupta Nagar over the Ranchi RSS office petrol bomb attack; Rs20 lakh cash found, income tax informed.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/nia-searches-two-patna-flats-over-ranchi-rss-office-attack/articleshow/133971604.cms",
-      "image": "https://static.toiimg.com/thumb/msid-133971650,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-09T13:43:00Z",
+      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
+      "description": "President also vows that the Iran war will end after the elections.",
+      "url": "https://www.nj.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
+      "image": "https://www.nj.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-09T21:43:34Z",
       "source": {
-        "name": "Times of India"
+        "name": "NJ.com"
       }
     },
     {
-      "title": "Surging Oil Prices Agitate U.S. Stock Markets",
-      "description": "U.S. stock indexes opened lower on Wednesday as surging oil prices, driven by heightened Middle East tensions, impacted the market. The Dow Jones fell 78.2 points. The S&P 500 dropped 12.8 points, and the Nasdaq decreased by 96.4 points. Oil prices crossed the $100-a-barrel mark for the first time since July.",
-      "url": "https://www.devdiscourse.com/article/business/3975027-surging-oil-prices-agitate-us-stock-markets",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/24_06_2024_15_56_56_625873.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-09T13:40:10Z",
+      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
+      "description": "President also vows that the Iran war will end after the elections.",
+      "url": "https://www.pennlive.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
+      "image": "https://www.pennlive.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-09T21:43:34Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "Stocks fall on Wall Street as oil prices jump above $100 a barrel after US and Iran war escalates",
-      "description": "Stocks are falling on Wall Street as the price of crude oil tops $100 a barrel. The S&P 500 fell 0.3% Wednesday. The Dow Jones Industrial Average lost 320 points, or 0.6%, and the Nasdaq composite fell 0.5%.",
-      "url": "https://www.vancouverisawesome.com/national-business/stocks-fall-on-wall-street-as-oil-prices-jump-above-100-a-barrel-after-us-and-iran-war-escalates-12757372",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/ae1a907c7823ededde3986fa089cd00201acbf8eaf251d536669b6974bd426e8.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-09-09T13:39:08Z",
+      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
+      "description": "President also vows that the Iran war will end after the elections.",
+      "url": "https://www.silive.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
+      "image": "https://www.silive.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-09T21:43:34Z",
       "source": {
-        "name": "Vancouver Is Awesome"
+        "name": "Staten Island Advance"
+      }
+    },
+    {
+      "title": "Trump says gas prices will fall \u2018right after\u2019 midterms, gets ripped: \u2018This man disgusts me\u2019",
+      "description": "President also vows that the Iran war will end after the elections.",
+      "url": "https://www.al.com/politics/2026/09/trump-says-gas-prices-will-fall-right-after-midterms-gets-ripped-this-man-disgusts-me.html",
+      "image": "https://www.al.com/resizer/v2/AHOIPP5RLZF2NJ5ASQ5UNHWKIU.jpg?auth=8ed6dd8e8a982f097260247cf525d86a1597d0b5cb1803eebdc69ef8ca856c03&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-09T21:43:34Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
+    {
+      "title": "The Latest: Day 1 of Republican midterm convention begins ahead of Trump\u2019s keynote address",
+      "description": "Republicans are gathering in Dallas for a unique two-day midterm convention, focusing on President Donald Trump. Trump plans to speak both nights and Vice President JD Vance will also address attendees. The event aims to boost Republican candidates by highlighting Trump's first two years in office. Trump believes running on his record is the GOP's best strategy despite low approval ratings. Meanwhile, Democrats are planning counterprogramming. Trump has commented on high oil prices due to the Iran war, suggesting they won't drop until after the midterms. The war, now in its seventh month, has been widely criticized.",
+      "url": "https://www.ajc.com/news/2026/09/the-latest-day-1-of-republican-midterm-convention-begins-ahead-of-trumps-keynote-address/",
+      "image": "https://images.ajc.com/resizer/v2/EIQLVZQRYBAETCO2P2VJCQMMPQ.jpg?auth=d7bdbbbea5382ad7d0c24893e01f1d3a27b299a933b6a402501eda7f05bcd642&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-09T21:42:19Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Markets live: ASX to drop following a sea of red on Wall Street, price of oil passes $US101 a barrel",
+      "description": "The Aussie share market is set to drop as Wall Street closes in the red and oil prices pass $US101 a barrel. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-09-10/asx-markets-business-news-live-updates-thursday-10-september/107136246",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9aa7ef812d8f84ad3b958ef884094e5b?impolicy=wcms_watermark_news&cropH=2812&cropW=5000&xPos=0&yPos=261&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-09T21:23:51Z",
+      "source": {
+        "name": "ABC (Australian Broadcasting Corporation)"
+      }
+    },
+    {
+      "title": "Stocks fall on Wall Street as oil prices jump back above $100 a barrel after Iran war escalates",
+      "description": "Stocks fell on Wall Street as the price of crude oil topped $100 a barrel again",
+      "url": "https://www.latimes.com/business/story/2026-09-09/stocks-fall-on-wall-street-as-oil-prices-jump-back-above-100-barrel-after-iran-war-escalates",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/8791fd4/2147483647/strip/true/crop/7323x3845+0+519/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd3%2Fa9%2F4fbe7e47486abb0587fb2a4f898e%2Fef0b48ad17ac489db17e68481bd34cba.jpg",
+      "publishedAt": "2026-09-09T21:18:09Z",
+      "source": {
+        "name": "Los Angeles Times"
       }
     }
   ]
