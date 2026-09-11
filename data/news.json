@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-11T10:12:42+00:00",
+  "updated_at": "2026-09-11T15:30:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Control of the Red Sea: A Strategic Tug-of-War in Yemen",
-      "description": "Iran-backed Houthis seized Yemen's port city of Mocha, advancing along the Red Sea, raising concerns over strategic waterway control and oil prices. With influence over crucial shipping routes, Iran's leverage has expanded. Trump's administration faces challenges as the conflict impacts U.S. midterm election dynamics and prompts international interventions.",
-      "url": "https://www.devdiscourse.com/article/politics/3975654-control-of-the-red-sea-a-strategic-tug-of-war-in-yemen",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2024_21_27_13_7271003.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-10T22:04:02Z",
+      "title": "Japan\u2019s bond yields jump as crude oil concerns fuel global selloff",
+      "description": "Japan's government bonds slump as Middle East tensions, oil prices, and US bond selloff fuel inflation fears. 10-year yield nears 3%.",
+      "url": "https://www.cnbctv18.com/market/bonds/japans-bond-yields-jump-as-crude-oil-concerns-fuel-global-selloff-19989012.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/bilder-75-2026-09-d1231b52302775a78308f0014aa415af.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-11T03:09:58Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
-      "description": "Mexico plans to slash financial support for Pemex by nearly 70% in 2027, betting higher oil prices will generate a $5.6 billion cash surplus.",
-      "url": "https://oilprice.com/Energy/Energy-General/Higher-Oil-Prices-Let-Mexico-Pull-Back-Billions-in-Pemex-Support.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_ioqzic5opy.jpg",
-      "publishedAt": "2026-09-10T22:00:00Z",
+      "title": "LPG, CNG, PNG prices today (September 11): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "LPG, CNG, and PNG prices today: This comes amid concerns over rising global crude oil prices, with Brent crude nearing\u00a0$108 per barrel after rising more than 6 per cent in the previous session.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-11-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-554743-2026-09-11",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa36f25cfbcf-while-lpg-remains-the-most-used-cooking-fuel-for-many-indian-households--cng-and-png-are-also-emergi-012138870-16x9.png",
+      "publishedAt": "2026-09-11T03:02:19Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Surging oil prices, higher bond yields weigh on stocks",
-      "description": "NEW YORK - Oil prices surged Thursday as advances by Yemeni rebels threatened the flow of crude supplies while yields on long-term US Treasury bonds reached new multi-year highs following data showing an uptick in US wholesale inflation.",
-      "url": "https://www.bangkokpost.com/business/general/3317823/surging-oil-prices-higher-bond-yields-weigh-on-stocks",
-      "image": "https://static.bangkokpost.com/media/content/20260911/c1_6223268_700.jpg",
-      "publishedAt": "2026-09-10T21:45:00Z",
+      "title": "month high above USD 108 amid escalating West Asia tensions",
+      "description": "Brent crude oil prices surged to a four-month high of USD 108.77 per barrel on Friday as tensions in West Asia escalated further, raising concerns over the impact of higher energy prices on India's economic growth, inflation and external sector.",
+      "url": "https://www.tribuneindia.com/news/business/crude-oil-price-hits-4-month-high-above-usd-108-amid-escalating-west-asia-tensions/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjYTcwOWUwLWFkOGMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-11T02:57:33Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Oil prices rocket as Houthi militants capture key port city and try to paralyse another supply route vital for West",
-      "description": "OIL prices rocketed yesterday after a raid by Iran-backed Houthi rebels tried to paralyse another oil route that is vital for the...",
-      "url": "https://www.the-sun.com/news/16987048/oil-prices-rocket-houthi-seize-port-threat-uk-supply/",
-      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/09/crop-40342148.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-09-10T21:31:30Z",
+      "title": "Crude oil price hits 4-month high above USD 108 amid escalating West Asia tensions",
+      "description": "Brent crude oil prices surged to a four-month high of USD 108.77 per barrel on Friday as tensions in West Asia escalated further, raising concerns over the impact of higher energy prices on India's economic growth, inflation and external sector.",
+      "url": "https://www.aninews.in/news/business/crude-oil-price-hits-4-month-high-above-usd-108-amid-escalating-west-asia-tensions20260911082243/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260911024748-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-09-11T02:52:43Z",
       "source": {
-        "name": "The Sun U.S Edition"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Oil prices rocket as Houthi militants capture key port city and try to paralyse another supply route vital for West",
-      "description": "OIL prices rocketed yesterday after a raid by Iran-backed Houthi rebels tried to paralyse another oil route that is vital for the...",
-      "url": "https://www.thesun.co.uk/news/40341919/oil-prices-rocket-houthi-seize-port-threat-uk-supply/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40342148.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-09-10T21:31:30Z",
+      "title": "Sea of red for miners, metals as Aussie market slumps",
+      "description": "Mining stocks are getting hammered as surging oil prices and inflation worries weigh on commodity values and hopes for earnings and global economic growth.",
+      "url": "https://www.perthnow.com.au/news/business/sea-of-red-for-miners-metals-as-aussie-market-slumps-c-22855669",
+      "image": "https://images.perthnow.com.au/publication/C-22855669/a39263606d8266ff7d929aa63549760fa907f3e1-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-11T02:48:59Z",
       "source": {
-        "name": "The Sun"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Houthi rebels seize strategic port city in Yemen, escalating US-Iran crisis",
-      "description": "The Middle East war has sucked in Yemen and others across the region while roiling the world economy, as oil prices continue to rise.",
-      "url": "https://www.sbs.com.au/news/article/houthi-rebels-seize-strategic-port-city-in-yemen-escalating-regional-crisis/zutk1v233",
-      "image": "https://assets.sbs.com.au/dims4/default/396cd54/2147483647/strip/true/crop/6000x3375+0+313/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff6%2F54%2F5f9066d34aa99942ff0198ad7744%2F20260911151664121230-original.jpg",
-      "publishedAt": "2026-09-10T21:27:44Z",
+      "title": "Petrol, diesel prices today, September 11: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "With Brent crude trading near $103 per barrel, fuel prices have remained relatively stable over the past week. For daily commuters, this means no major shock at the pump, though prices remain elevated compared to previous years.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-11-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-554740-2026-09-11",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa368f88c1ad-the-national-average-petrol-price-stands-at-11121-per-litre--while-diesel-is-priced-at-9783-per-113535664-16x9.jpg",
+      "publishedAt": "2026-09-11T02:36:16Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence",
-      "description": "Friday\u2019s inflation report is shaping up to be among the most consequential in years. WASHINGTON (AP) \u2014 Friday's inflation report is shaping up",
-      "url": "https://www.breitbart.com/news/inflation-report-lands-amid-spiking-oil-prices-rising-interest-rates-and-fed-on-fence/",
-      "image": "https://media.breitbart.com/media/2026/09/wi/ap/us-target-65188-us-target-shoppers-pass-bakery-at-target-store-thursday-aug-13-640x335.jpg",
-      "publishedAt": "2026-09-10T21:19:43Z",
+      "title": "Stock Market LIVE: Sensex down 500 pts at pre-open, Nifty below 23,300; Asian markets decline",
+      "description": "Sensex Today | Stock Market LIVE Updates Friday: The GIFT Nifty indicated a gap-down open for the Nifty50 index. Asian markets declined as higher bond yields and oil prices dented risk sentiment",
+      "url": "https://www.business-standard.com/markets/news/stock-market-live-september-11-nse-bse-sensex-today-nifty-gift-nifty-crude-oil-price-today-126091100093_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/22/thumb/fitandfill/1200X628/1776830200-6883.jpeg",
+      "publishedAt": "2026-09-11T02:29:35Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "when is the best time to fuel up?",
-      "description": "A gas analyst is now predicting a slightly steeper drop in gas prices at the pumps across the Greater Toronto on Friday.",
-      "url": "https://www.cp24.com/local/toronto/2026/09/10/gas-prices-to-drop-by-nine-cents-overnight-in-the-gta-before-spiking-saturday-analyst-says/",
-      "image": "https://www.cp24.com/resizer/v2/HXRWE6TDILXNCUWNR42VQMEXA4.png?smart=true&auth=7102ace936835a53ba8a6b4077b72fc0aa2d4a21fb5d8446061b498f486b4622&width=1200&height=630",
-      "publishedAt": "2026-09-10T21:14:07Z",
+      "title": "Trade Spotlight: How should you trade Nazara Technologies, Heritage Foods, Jamna Auto, Zydus Wellness, Eris Lifesciences, and others on September 11?",
+      "description": "The market is expected to remain under bearish pressure amid rising oil prices and fears of a prolonged Iran war. Here are some short-term trading ideas to consider.",
+      "url": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-nazara-technologies-heritage-foods-jamna-auto-zydus-wellness-eris-lifesciences-and-others-on-september-11-14027583.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260211072317_Sensex_market_Nifty.jpg",
+      "publishedAt": "2026-09-11T02:27:32Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "How major US stock indexes fared Thursday 9",
-      "description": "U.S. stocks sank after oil prices jumped back to where they were in May. The S&P 500 fell 0.6% Thursday, its fourth straight loss. The Dow Jones Industrial",
-      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-thursday-9-10-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon.png",
-      "publishedAt": "2026-09-10T21:01:28Z",
+      "title": "Bursa Malaysia opens lower as Wall Street weakness, US-Iran conflict weigh on sentiment",
+      "description": "KUALA LUMPUR, Sept 11 \u2014 Bursa Malaysia opened lower today\u00a0tracking continued weakness on Wall Street as the prolonged US-Iran conflict and high crude oil prices weighed on...",
+      "url": "https://www.malaymail.com/news/money/2026/09/11/bursa-malaysia-opens-lower-as-wall-street-weakness-us-iran-conflict-weigh-on-sentiment/234786",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/11/361889.jpg",
+      "publishedAt": "2026-09-11T02:14:16Z",
       "source": {
-        "name": "WTOP"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
-      "description": "Dow Jones futures: The S&P 500 undercut its 50-day as yields and oil prices surged. Oracle jumped late on earnings. CPI inflation looms.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/",
-      "image": "https://www.investors.com/wp-content/uploads/2026/03/Stock-BearBull-flaming-adobe.jpg",
-      "publishedAt": "2026-09-10T20:59:37Z",
+      "title": "Oil Price Today (September 11): Crude oil soars 13% this week, set to close week above $100 after 4 months. What are experts saying?",
+      "description": "Oil prices have surged towards $100 a barrel due to rising tensions in the Middle East, where recent attacks have threatened shipping routes. The seizure of a Yemeni port by Iran-aligned Houthis raises concerns about Red Sea traffic and the critical Strait of Hormuz. Analysts warn that if threats escalate, oil prices could spike to $120 a barrel, indicating sustained high costs as shipping remains uncertain.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-september-11-crude-oil-soars-13-this-week-closes-week-above-100-after-4-months-what-are-experts-saying/articleshow/134040529.cms",
+      "image": "https://img.etimg.com/thumb/msid-134040597,width-1200,height-630,imgsize-131462,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-11T02:08:00Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "The Economic Times"
       }
     }
   ]
