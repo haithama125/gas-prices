@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-11T02:03:05+00:00",
+  "updated_at": "2026-09-11T10:12:42+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Brent crude tops $105 a barrel as tanker attacks intensify in Middle East; Saudi output cut fuels concerns",
-      "description": "Crude oil prices surged to their highest since May after Saudi Arabia reported a significant drop in production. Brent crude rose to about $106 a barrel, while WTI jumped to $95.39. The ongoing Middle East conflict is disrupting oil exports and contributing to market volatility.",
-      "url": "https://www.livemint.com/market/stock-market-news/brent-crude-tops-105-a-barrel-as-tanker-attacks-intensify-in-middle-east-saudi-output-cut-fuels-concerns-11789044497665.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/10/1600x900/logo/crude_1789046824459_575c819b-23ad-4174-a1c1-0338a6855a8f_1789046837806_0fdf13bc-a1e5-4017-819e-87a794772139_77153b85-a655-46c8-861b-e60a073ab2f9_540d0da0-f914-4584-8f83-92236332e2f7.png",
-      "publishedAt": "2026-09-10T14:02:05Z",
+      "title": "Control of the Red Sea: A Strategic Tug-of-War in Yemen",
+      "description": "Iran-backed Houthis seized Yemen's port city of Mocha, advancing along the Red Sea, raising concerns over strategic waterway control and oil prices. With influence over crucial shipping routes, Iran's leverage has expanded. Trump's administration faces challenges as the conflict impacts U.S. midterm election dynamics and prompts international interventions.",
+      "url": "https://www.devdiscourse.com/article/politics/3975654-control-of-the-red-sea-a-strategic-tug-of-war-in-yemen",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2024_21_27_13_7271003.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-10T22:04:02Z",
       "source": {
-        "name": "Livemint"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.baltimoresun.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Higher Oil Prices Let Mexico Pull Back Billions in Pemex Support",
+      "description": "Mexico plans to slash financial support for Pemex by nearly 70% in 2027, betting higher oil prices will generate a $5.6 billion cash surplus.",
+      "url": "https://oilprice.com/Energy/Energy-General/Higher-Oil-Prices-Let-Mexico-Pull-Back-Billions-in-Pemex-Support.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-10_ioqzic5opy.jpg",
+      "publishedAt": "2026-09-10T22:00:00Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.readingeagle.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Surging oil prices, higher bond yields weigh on stocks",
+      "description": "NEW YORK - Oil prices surged Thursday as advances by Yemeni rebels threatened the flow of crude supplies while yields on long-term US Treasury bonds reached new multi-year highs following data showing an uptick in US wholesale inflation.",
+      "url": "https://www.bangkokpost.com/business/general/3317823/surging-oil-prices-higher-bond-yields-weigh-on-stocks",
+      "image": "https://static.bangkokpost.com/media/content/20260911/c1_6223268_700.jpg",
+      "publishedAt": "2026-09-10T21:45:00Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.twincities.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Oil prices rocket as Houthi militants capture key port city and try to paralyse another supply route vital for West",
+      "description": "OIL prices rocketed yesterday after a raid by Iran-backed Houthi rebels tried to paralyse another oil route that is vital for the...",
+      "url": "https://www.the-sun.com/news/16987048/oil-prices-rocket-houthi-seize-port-threat-uk-supply/",
+      "image": "https://www.the-sun.com/wp-content/uploads/sites/6/2026/09/crop-40342148.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-09-10T21:31:30Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "The Sun U.S Edition"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.ocregister.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Oil prices rocket as Houthi militants capture key port city and try to paralyse another supply route vital for West",
+      "description": "OIL prices rocketed yesterday after a raid by Iran-backed Houthi rebels tried to paralyse another oil route that is vital for the...",
+      "url": "https://www.thesun.co.uk/news/40341919/oil-prices-rocket-houthi-seize-port-threat-uk-supply/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/crop-40342148.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-09-10T21:31:30Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "The Sun"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.courant.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Houthi rebels seize strategic port city in Yemen, escalating US-Iran crisis",
+      "description": "The Middle East war has sucked in Yemen and others across the region while roiling the world economy, as oil prices continue to rise.",
+      "url": "https://www.sbs.com.au/news/article/houthi-rebels-seize-strategic-port-city-in-yemen-escalating-regional-crisis/zutk1v233",
+      "image": "https://assets.sbs.com.au/dims4/default/396cd54/2147483647/strip/true/crop/6000x3375+0+313/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff6%2F54%2F5f9066d34aa99942ff0198ad7744%2F20260911151664121230-original.jpg",
+      "publishedAt": "2026-09-10T21:27:44Z",
       "source": {
-        "name": "Hartford Courant"
+        "name": "SBS Australia"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.dailycamera.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
+      "title": "Inflation report lands amid spiking oil prices, rising interest rates and Fed on fence",
+      "description": "Friday\u2019s inflation report is shaping up to be among the most consequential in years. WASHINGTON (AP) \u2014 Friday's inflation report is shaping up",
+      "url": "https://www.breitbart.com/news/inflation-report-lands-amid-spiking-oil-prices-rising-interest-rates-and-fed-on-fence/",
+      "image": "https://media.breitbart.com/media/2026/09/wi/ap/us-target-65188-us-target-shoppers-pass-bakery-at-target-store-thursday-aug-13-640x335.jpg",
+      "publishedAt": "2026-09-10T21:19:43Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Does scouting a lower gas price matter much? Plus, more money questions",
-      "description": "Apps like GasBuddy and Upside make it easy to compare nearby gas prices.",
-      "url": "https://www.pilotonline.com/2026/09/10/scouting-lower-gas-prices/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/08/Gasoline_Prices_Colorado_21282-1-1.jpg?w=8640&h=5760",
-      "publishedAt": "2026-09-10T14:00:31Z",
-      "source": {
-        "name": "Norfolk Virginian-Pilot"
-      }
-    },
-    {
-      "title": "Pakistan\u2019s Fuel Shock: Fares Soar As Commuters Get Hit With Another Blow",
-      "description": "Petrol and diesel price hikes in Rawalpindi have pushed up transport fares, freight charges and essential commodity prices, increasing pressure on citizens.",
-      "url": "https://www.republicworld.com/world-news/pakistans-fuel-shock-fares-soar-as-commuters-get-hit-with-another-blow-2026-09-10-136729",
-      "image": "https://img.republicworld.com/all_images/2026/08/no-commitments-on-ethanol-import-for-fuel-blending-in-india-us-trade-talks-govt-1786037496528-1280x720.webp",
-      "publishedAt": "2026-09-10T13:53:55Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Oil prices jump back, weigh on Wall Street",
-      "description": "Oil prices are climbing again and are back to where they were before the summer as the war with Iran keeps clogging the global flow of crude.",
-      "url": "https://www.cp24.com/news/money/2026/09/10/oil-prices-jump-back-to-where-they-were-in-may-and-weigh-on-wall-street/",
-      "image": "https://www.cp24.com/resizer/v2/MJGCX2G6S2LQXZI6Z664DIY33E.jpg?smart=true&auth=287a589619fe65c40af812681fdd8eccf9d906bdbaba3fe1e15ee33479e263a0&width=1200&height=630",
-      "publishedAt": "2026-09-10T13:43:19Z",
+      "title": "when is the best time to fuel up?",
+      "description": "A gas analyst is now predicting a slightly steeper drop in gas prices at the pumps across the Greater Toronto on Friday.",
+      "url": "https://www.cp24.com/local/toronto/2026/09/10/gas-prices-to-drop-by-nine-cents-overnight-in-the-gta-before-spiking-saturday-analyst-says/",
+      "image": "https://www.cp24.com/resizer/v2/HXRWE6TDILXNCUWNR42VQMEXA4.png?smart=true&auth=7102ace936835a53ba8a6b4077b72fc0aa2d4a21fb5d8446061b498f486b4622&width=1200&height=630",
+      "publishedAt": "2026-09-10T21:14:07Z",
       "source": {
         "name": "CP24 Toronto"
+      }
+    },
+    {
+      "title": "How major US stock indexes fared Thursday 9",
+      "description": "U.S. stocks sank after oil prices jumped back to where they were in May. The S&P 500 fell 0.6% Thursday, its fourth straight loss. The Dow Jones Industrial",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-thursday-9-10-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon.png",
+      "publishedAt": "2026-09-10T21:01:28Z",
+      "source": {
+        "name": "WTOP"
+      }
+    },
+    {
+      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+      "description": "Dow Jones futures: The S&P 500 undercut its 50-day as yields and oil prices surged. Oracle jumped late on earnings. CPI inflation looms.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-oil-prices-treasury-yields-cpi-inflation-oracle-earnings/",
+      "image": "https://www.investors.com/wp-content/uploads/2026/03/Stock-BearBull-flaming-adobe.jpg",
+      "publishedAt": "2026-09-10T20:59:37Z",
+      "source": {
+        "name": "Investor's Business Daily"
       }
     }
   ]
