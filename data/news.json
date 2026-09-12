@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-12T09:46:49+00:00",
+  "updated_at": "2026-09-12T14:37:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Strikes set Saudi oil pipeline on fire as Iran-backed Houthis tighten grip on key shipping corridor",
-      "description": "Saudi Arabia shut down its East-West pipeline after strikes by Iran proxies, as Houthis seized Mayun island and oil prices topped $100 a barrel.",
-      "url": "https://nypost.com/2026/09/11/world-news/strikes-set-saudi-oil-pipeline-on-fire-as-iran-backed-houthis-tighten-grip-on-key-shipping-corridor/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/Saudi-Pipeline.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-11T21:36:06Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Stocks jump after oil prices ease and an inflation update comes in near expectations",
-      "description": "U.S. stocks rebounded and clawed back much of their losses for the week after oil prices eased off their recent spurt",
-      "url": "https://www.latimes.com/business/story/2026-09-11/stocks-jump-after-oil-prices-ease-inflation-update-comes-in-near-expectations",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/88d953c/2147483647/strip/true/crop/5414x2842+0+383/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F25%2Fa6%2F56255abf4f7583fd304e0dca8bfe%2F93425259aec947de809423ce4d842f9c.jpg",
-      "publishedAt": "2026-09-11T21:28:42Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Houthis seize island, opening new front in the Iran war, as Saudi Arabia shuts down a pipeline",
-      "description": "The Houthis made their biggest territorial gains in years along the Bab el-Mandeb Strait, one of the world\u2019s key shipping lanes. The gains could boost Iran\u2019s strategy of driving up world oil and gas prices to pressure the U.S.",
-      "url": "https://www.adn.com/nation-world/2026/09/11/houthis-seize-island-opening-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/",
-      "image": "https://www.adn.com/resizer/v2/WDDH772XQHZXB4ENOULZ72WIGM.jpg?smart=true&auth=83a30f32a0d06ec8fe079d9e74cdaa77f2f690e4f655f574c4b40dc79df6443b&width=1200&height=630",
-      "publishedAt": "2026-09-11T21:15:06Z",
-      "source": {
-        "name": "Anchorage Daily News"
-      }
-    },
-    {
-      "title": "Houthis seize an island, opening a new front in the Iran war, as Saudi Arabia shuts down a pipeline",
-      "description": "Officials say Yemen\u2019s Iranian-backed Houthi rebels have captured a strategic island at the southern entrance to the Red Sea. The advance opens a new front in the Iran war and further threatens oil exports from Saudi Arabia, which shut down a major pipeline after it was attacked. The Houthis made their biggest territorial gains in years along the Bab el-Mandeb Strait, one of the world\u2019s key shipping lanes. The gains could boost Iran\u2019s strategy of driving up world oil and gas prices to pressure the United States. Meanwhile, Saudi Arabia said it had shut down the East-West pipeline as a precaution after it was attacked the day before.",
-      "url": "https://www.ajc.com/news/2026/09/yemens-iranian-backed-houthis-seize-an-island-in-a-key-strait-opening-a-new-front-in-the-iran-war-4/",
-      "image": "https://images.ajc.com/resizer/v2/3LINDB5DA5ACDFZDS6FH6EQBII.jpg?auth=711b824e5eb545d95c6f267167db575c3390e2f4120f11a0a2eef43a9b69930f&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-11T21:12:15Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Ukraine Strikes Back Amid Intensified Drone Attacks from Russia",
-      "description": "The ongoing conflict between Russia and Ukraine escalates as Russia employs jet-powered drones to target Ukrainian petrol stations, causing civilian casualties. In retaliation, Ukraine strikes Russia's economic infrastructure. With stalled front-line battles, both countries focus on logistics and economic targets, affecting daily life and raising international concerns.",
-      "url": "https://www.devdiscourse.com/article/politics/3976238-ukraine-strikes-back-amid-intensified-drone-attacks-from-russia",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/01_09_2025_10_49_03_4773934.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-11T20:40:50Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Dow Jones Futures: $100 Oil, Surging Yields Pressure Stocks With Fed Rate Hike Seen. Apple, Moderna Are New Buys.",
-      "description": "Dow Jones futures: Despite Friday's bounce, the stock market had a down week amid $100 oil prices and surging yields. Apple, Moderna are buys.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-100-oil-surging-yields-pressure-stocks-with-fed-rate-hike-seen-apple-leads-new-buys/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/10/stock-Federal_Reserve-01-adobe.jpg",
-      "publishedAt": "2026-09-11T20:39:22Z",
-      "source": {
-        "name": "Investor's Business Daily"
-      }
-    },
-    {
-      "title": "Dollar Steady Amid Inflation Concerns and Global Oil Unrest",
-      "description": "The dollar edged higher against the euro and Swiss franc following U.S. inflation data suggesting a hike in Federal Reserve interest rates. Despite these gains, the escalating Iran war and soaring oil prices limited further advancement. Persistent inflation pressures keep the global market on edge.",
-      "url": "https://www.devdiscourse.com/article/business/3976234-dollar-steady-amid-inflation-concerns-and-global-oil-unrest",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_09_2025_20_01_20_8092646.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-11T20:30:44Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "How major US stock indexes fared Friday 9",
-      "description": "U.S. stocks rebounded and clawed back much of their losses for the week after oil prices eased off their recent spurt. An update on inflation across the United",
-      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-11-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon.png",
-      "publishedAt": "2026-09-11T20:25:48Z",
-      "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "US stocks today: US stocks end higher as strong inflation data cements rate-hike bets",
-      "description": "US stocks ended higher on Friday as accelerating consumer prices strengthened expectations of a Federal Reserve rate hike next week. The Dow, S&P 500 and Nasdaq all gained, while Dell surged to a record high. Oil prices fell but remained sharply higher for the week amid concerns over Middle East supply disruptions.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-higher-as-strong-inflation-data-cements-rate-hike-bets/articleshow/134088893.cms",
-      "image": "https://img.etimg.com/thumb/msid-134088893,width-1200,height-630,imgsize-133778,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-11T20:14:00Z",
+      "title": "10-year bond yield crosses 7% as RBI trims auction bids",
+      "description": "On Friday, benchmark government bond yields climbed by five basis points, surpassing the 7% threshold. The Reserve Bank of India managed to accept less than half of the amount it had targeted in a three-year bond auction. Factors such as high global risk-free rates and escalating crude oil prices are exerting pressure on Indian bonds.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/bond-yields-cross-7-as-rbi-cuts-3-year-bond-auction-acceptance/articleshow/134100670.cms",
+      "image": "https://img.etimg.com/thumb/msid-134101100,width-1200,height-630,imgsize-21698,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-12T02:25:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Dow Soars 509 Points as Oil Prices Ease: Stock Market Today",
-      "description": "Wall Street snapped a four-day losing streak as falling oil prices and strong gains for several tech stocks offset inflation fears and rising rate-hike odds.",
-      "url": "https://www.kiplinger.com/investing/stocks/dow-soars-509-points-as-oil-prices-retreat-stock-market-today",
-      "image": "https://cdn.mos.cms.futurecdn.net/Mgjar8TSCczZLZ5NPWWJHo-2309-80.jpg",
-      "publishedAt": "2026-09-11T20:06:31Z",
+      "title": "New blow for motorists as petrol prices jump amid escalating conflict in Middle East",
+      "description": "Aussies have been warned to brace for a \u2018new norm\u2019.",
+      "url": "https://7news.com.au/politics/new-blow-for-motorists-as-petrol-prices-jump-amid-escalating-conflict-in-middle-east-c-22860356",
+      "image": "https://images.7news.com.au/publication/C-22860356/67fd48114f7e6ecb224db5bdded929cd1c49b39d-16x9-x0y0w1280h720.png?imwidth=1200",
+      "publishedAt": "2026-09-12T01:55:18Z",
       "source": {
-        "name": "Kiplinger"
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "Delhi court convicts 5 men for assault on cops, unlawful assembly during 2020 riots",
+      "description": "The judge found them guilty of rioting and obstructing public servants but acquitted them of charges related to setting a petrol pump on fire.\u00a0 | India News",
+      "url": "https://www.hindustantimes.com/india-news/delhi-court-convicts-5-men-for-assault-on-cops-unlawful-assembly-during-2020-riots-101789176985608.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/12/1600x900/logo/The-North-East-Delhi-February-2020-riots-left-53-d_1705739018646_1789177029477_1d1005e6-cba1-43e8-b7b9-fb8063078a0a_fc660e13-0135-46c0-ac9f-de68f5561180_18c9f101-aa63-4a7c-99ba-49e7e5943a8b.jpg",
+      "publishedAt": "2026-09-12T01:52:42Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Madhya Pradesh Scooty Yojana 2026: Over 7,500 Meritorious Students To Get Scooters On September 16, \u20b9200 Crore Allocated",
+      "description": "Over 7,500 meritorious Class 12 students in Madhya Pradesh will receive scooters under the state government\u2019s Scooty Yojana on September 16. Around \u20b9200 crore has been allocated for the scheme. Eligible students receive \u20b91 lakh to \u20b91.25 lakh to buy petrol or electric scooters, with e-scooters gaining preference this year.",
+      "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-scooty-yojana-2026-over-7500-meritorious-students-to-get-scooters-on-september-16-200-crore-allocated",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-11/78comm3o/5Uvpq6yBRv7cRDXwLaTdE1nDk5U2WcnAUpeg-N5gMnYTI5YAJC6G5RoakolyZvVhV4NNUObfreZXl976JYDqyWCVsACDlOzglpwmRzoUCE-10mHmDewi6Ao371FxYGt2ZYuQBXcAQWCCPlKUhwiE0MMD0pzmFhPppP-q6wQJnk4.jpg",
+      "publishedAt": "2026-09-12T01:33:00Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Tensions Escalate: East-West Pipeline Attack and Its Global Implications",
+      "description": "Saudi Arabia closed its East-West pipeline following a drone attack allegedly originating in Iraq. The attack, possibly linked to Iran-backed militias, highlights escalating tensions in the Middle East. As Houthi rebels gain strategic positions in Yemen, global oil prices surge, putting pressure on international diplomatic and military relations.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3976289-tensions-escalate-east-west-pipeline-attack-and-its-global-implications",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/11_07_2025_15_52_24_5062374.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-12T01:18:16Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "How Houthi capture of Bab el-Mandeb 3,000 km away could hit India hard",
+      "description": "The Bab el-Mandeb is nearly 3,000 km from India, but a Houthi takeover could hit New Delhi where it hurts most, energy and trade. With the Strait of Hormuz already under strain, disruption at the Gate of Tears could raise oil prices and make Indian exports costlier.",
+      "url": "https://www.indiatoday.in/world/story/houthi-attack-saudi-arabia-bab-el-mandeb-strait-ansar-allah-yemen-suez-canal-iran-war-news-2992674-2026-09-12",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/how-houthi-capture-of-bab-al-mandeb-3-000-km-away-chokes-india-111018488-16x9_0.png?VersionId=0E8ruieg3MLlaXol1sd2phBMsEsMV5JW",
+      "publishedAt": "2026-09-12T01:00:00Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "Russia escalates attacks with Kyiv petrol stations hit",
+      "description": "Russian drone attacks \u200con petrol stations in the \u200cUkrainian capital Kyiv \u200chave killed two people, with more drones...",
+      "url": "https://www.canberratimes.com.au/story/9348774/russia-escalates-attacks-with-kyiv-petrol-stations-hit/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/1bb37a75-1d3f-404a-a840-b61f5c491de4.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-09-12T00:26:26Z",
+      "source": {
+        "name": "The Canberra Times"
+      }
+    },
+    {
+      "title": "Oil: Weekly surge of over 8% and above $100 - The Middle East keeps markets on alert",
+      "description": "Crude oil prices fell after the rally of recent days, but still posted strong weekly gains as the crisis in the Middle East heightened fears over supply disruptions",
+      "url": "https://en.protothema.gr/2026/09/12/oil-weekly-surge-of-over-8-and-above-100-the-middle-east-keeps-markets-on-alert/",
+      "image": "https://en.protothema.gr/wp-content/uploads/2026/09/petrelaio9000-2.jpg-2.jpg",
+      "publishedAt": "2026-09-11T23:25:01Z",
+      "source": {
+        "name": "Proto Thema"
+      }
+    },
+    {
+      "title": "Falling oil could help but Fed is the next test",
+      "description": "CNBC\u2019s Jim Cramer said falling oil prices helped fuel Friday\u2019s rebound, but warned next week\u2019s Federal Reserve meeting will be the next test for stocks.",
+      "url": "https://www.cnbc.com/2026/09/11/cramers-week-ahead-falling-oil-fed.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109967-1661524568032-NUP_198430_00186r.jpg?v=1690933351&w=1920&h=1080",
+      "publishedAt": "2026-09-11T22:35:09Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "Houthis seize an island, opening a new front in the Iran war, as Saudi Arabia shuts down a pipeline",
+      "description": "Officials say Yemen\u2019s Iranian-backed Houthi rebels have captured a strategic island at the southern entrance to the Red Sea. The advance opens a new front in the Iran war and further threatens oil exports from Saudi Arabia, which shut down a major pipeline after it was attacked. The Houthis made their biggest territorial gains in years along the Bab el-Mandeb Strait, one of the world\u2019s key shipping lanes. The gains could boost Iran\u2019s strategy of driving up world oil and gas prices to pressure the United States. Meanwhile, Saudi Arabia said it had shut down the East-West pipeline as a precaution after it was attacked the day before.",
+      "url": "https://www.ajc.com/news/2026/09/houthis-seize-an-island-opening-a-new-front-in-the-iran-war-as-saudi-arabia-shuts-down-a-pipeline/",
+      "image": "https://images.ajc.com/resizer/v2/3LINDB5DA5ACDFZDS6FH6EQBII.jpg?auth=711b824e5eb545d95c6f267167db575c3390e2f4120f11a0a2eef43a9b69930f&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-11T22:32:11Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
