@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-11T20:12:05+00:00",
+  "updated_at": "2026-09-12T02:08:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Could Top $120 as Middle East Conflict Escalates",
-      "description": "RBC Capital Markets warns Brent could approach $122 this year as Houthi gains near the Bab el-Mandeb compound disruptions in the Strait of Hormuz.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Could-Top-120-as-Middle-East-Conflict-Escalates.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-11_j8axs1nsuv.jpg",
-      "publishedAt": "2026-09-11T08:00:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Euro steadies against Canadian Dollar amid ECB hawkish sentiment, lower oil prices",
-      "description": "EUR/CAD experienced volatility but remained flat for the second successive day, hovering around 1.6060 during European hours on Friday. The currency cross may",
-      "url": "https://www.europesays.com/3245059/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/USDCAD-neutral-line_Medium.png",
-      "publishedAt": "2026-09-11T07:59:23Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Australian shares slump to two-month low as miners fall",
-      "description": "Australian stocks ended Friday at \u200ba more than two-month low, as miners led by BHP lost on \u200cweaker commodity prices, while a surge in oil prices over the week heightened inflation concerns and kept investors on edge.",
-      "url": "https://www.reuters.com/business/finance/australian-shares-slump-two-month-low-miners-fall-2026-09-11/",
-      "image": "https://www.reuters.com/resizer/v2/PAYIEOIWVFM5DBJ2EKQJRPLQTA.jpg?auth=bfd7ac3ee2b727ed854c68c4e7ff7813a1656ca890069d83489a852d5901cb04&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-11T07:49:13Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Oil prices falls to $105 and Asian shares decline, tracking Wall Street losses",
-      "description": "Asian shares are declining while tracking Wall Street losses. Oil prices have fallen after gaining earlier in the day, with Brent crude trading at around $105 a barrel. They had risen past $108 a barrel on Thursday in its highest level since May, as tensions intensified between the U.S. and Iran. Oil flow remains limited through the Strait of Hormuz, a key waterway for global oil transport. Markets in Japan, South Korea and Hong Kong were trading lower Friday. U.S. futures edged higher. On Thursday, Wall Street's benchmark S&P 500 dropped 0.6% in its fourth straight loss. The Dow Jones Industrial Average lost 0.6%, and the technology-heavy Nasdaq composite fell 0.7%.",
-      "url": "https://www.ajc.com/news/2026/09/oil-prices-stay-above-108-and-asian-shares-decline-tracking-wall-street-losses/",
-      "image": "https://images.ajc.com/resizer/v2/SZOAQ5NVIFHSDBYRT4PV5PISWY.jpg?auth=ae22fa77e7878b3c618cda2d957d3f01ceae6fd0f51c60cb1aa5bbc1d2ff7ad5&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-11T07:41:29Z",
+      "title": "US inflation accelerated last month as gas prices spiked, squeezing Americans' finances",
+      "description": "U.S. inflation accelerated last month as gas prices spiked in the wake of renewed fighting in the Middle East, underscoring the affordability challenges that are top of mind for many voters as midterm elections near. The Labor Department said Friday that the consumer price index rose 3.4% last month compared with a year ago, the same as in July. But on a monthly basis, inflation accelerated, as costs jumped 0.4% from July to August, up from an increase of just 0.1% the previous month. The figures show that inflation remains stubbornly elevated, more than five years after prices first soared as the economy emerged from the COVID pandemic.",
+      "url": "https://www.ajc.com/news/2026/09/us-inflation-accelerated-last-month-as-gas-prices-spiked-squeezing-americans-finances/",
+      "image": "https://images.ajc.com/resizer/v2/XOXPUVABA5DUXCAD3NFCOJRCJ4.jpg?auth=b5f26157c4066a2abce1f75bfa55b7c3bfedab400e524a86304fc44751042b2e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-11T14:02:13Z",
       "source": {
         "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Inflation accelerated to 0.4% in August as gas prices rose",
-      "description": "Sept. 11 (UPI) -- The consumer price index rose to 0.4% on a seasonally adjusted basis putting annual inflation at 3.4%, the U.S. Bureau of Labor",
-      "url": "https://www.breitbart.com/news/inflation-accelerated-to-0-4-in-august-as-gas-prices-rose/",
-      "image": "https://media.breitbart.com/media/2026/07/wi/upi/wholesale-prices-fell-june-driven-by-falling-gas-prices-wholesale-prices-fell-june-driven-by-falling.jpg",
-      "publishedAt": "2026-09-11T07:34:20Z",
+      "title": "US inflation accelerated last month as gas prices spiked, squeezing Americans\u2019 finances",
+      "description": "The latest figures show that inflation remains stubbornly elevated.",
+      "url": "https://www.syracuse.com/business/2026/09/us-inflation-accelerated-last-month-as-gas-prices-spiked-squeezing-americans-finances.html",
+      "image": "https://www.syracuse.com/resizer/v2/7SVHFZPAXBHGRNLTF7BCW3MLDE.jpg?auth=7456e22c24248d2332354cacc0d3d40d916e023b7484a3bc82298de8f33d74fd&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-11T14:00:30Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "syracuse.com"
       }
     },
     {
-      "title": "Why Houthi military gains in Yemen may further increase gas prices",
-      "description": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities",
-      "url": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6720x3780+0+350/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F6f%2F0a%2Ffdf525e34ee2bf4d5e8bddc334ba%2Fap26253328596062.jpg",
-      "publishedAt": "2026-09-11T07:32:27Z",
+      "title": "US inflation accelerated last month as gas prices spiked, squeezing Americans' finances",
+      "description": "U.S. inflation accelerated last month as gas prices spiked in the wake of renewed fighting in the Middle East, underscoring the affordability challenges that are top of mind for many voters as midterm...",
+      "url": "https://www.dallasnews.com/business/article/inflation-report-lands-amid-spiking-oil-prices-22426746.php",
+      "image": "https://s.hdnux.com/photos/01/67/24/00/31277072/3/rawImage.jpg",
+      "publishedAt": "2026-09-11T13:58:06Z",
       "source": {
-        "name": "NPR"
+        "name": "The Dallas Morning News"
       }
     },
     {
-      "title": "Crude oil at $120/bbl? Mirae Asset Sharekhan explains why this is possible",
-      "description": "Oil Market: Average crude oil prices will stay significantly higher than the previous forecast, as the recent turn of events would shrink global inventories.",
-      "url": "https://www.business-standard.com/markets/commodities/crude-oil-at-120-bbl-mirae-asset-sharekhan-explains-why-this-is-possible-126091100513_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/09/thumb/fitandfill/1200X628/1786294489-6084.jpg",
-      "publishedAt": "2026-09-11T07:27:58Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Stock Market Bloodbath! Sensex, Nifty fall 1% as crude hits $108: Should investors buy the dip or stay away?",
-      "description": "Market declines are fueled by geopolitical tensions and rising crude oil prices, leading to significant losses for Indian indices. Investors are advised to be selective and cautious, focusing on quality companies while avoiding aggressive buying in the volatile environment.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-bloodbath-sensex-nifty-fall-1-as-crude-hits-108-should-investors-buy-the-dip-or-stay-away-11789109234662.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/smt_1789110984997_bba154be-ecaa-4be6-a57c-d6853b7b8d97_1789111010651_8ba67ab3-2df1-4c7a-8926-967b9ddd8e23_69c4131d-3057-45fc-8fa8-51244bb0ec50_fce561fb-7248-450e-8d0f-98438d9ed0ee.png",
-      "publishedAt": "2026-09-11T07:18:42Z",
+      "title": "US stocks rebound as oil prices ease, inflation data steadies market sentiment",
+      "description": "The Dow Jones Industrial Average rose 0.27%, the S&P 500 rose 0.59%, the Nasdaq Composite rose 0.80%",
+      "url": "https://www.livemint.com/market/us-stocks-rebound-as-oil-prices-ease-inflation-data-steadies-market-sentiment-11789132216174.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/nyse3_1789132732918_f6f6d4e1-21eb-4585-bea9-2d7d3751cd44_1789132750320_a1da3ff2-d75e-4d30-913c-187994364140_daac5392-0962-4f85-89c3-ca605d1c9fb7_46d9706c-6317-4029-8ba4-5eced5d7ebd6.jpg",
+      "publishedAt": "2026-09-11T13:54:20Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "KOSPI falls on higher oil prices, global bond yields",
-      "description": "The KOSPI edged lower Friday amid rising oil prices as renewed geopolitical tensions in the Middle East fueled concerns over inflation. The benchma...",
-      "url": "https://www.koreatimes.co.kr/economy/20260911/kospi-falls-on-higher-oil-prices-global-bond-yields",
-      "image": "https://newsimg.koreatimes.co.kr/2026/09/11/9f02e358-0873-4f1a-b047-a983ce438ed4.jpg",
-      "publishedAt": "2026-09-11T07:12:02Z",
+      "title": "US inflation picked up as gas prices marched higher due to conflict in the Middle East",
+      "description": "The consumer price index rose 3.4% last month compared with a year ago, the Labor Department said Friday, the same as in July. But on a monthly basis, inflation quickened, as costs jumped 0.4% from July to August",
+      "url": "https://www.shawlocal.com/news/2026/09/11/us-inflation-picked-up-as-gas-prices-marched-higher-due-to-conflict-in-the-middle-east/",
+      "image": "https://www.shawlocal.com/resizer/v2/DNPBHIFATJHBXGRB7VAHLH6QJE.jpg?auth=c94f4173146916afea10c1d3dfc4d8afab6c8cbd8230b7f512431bec48545f3b&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-11T13:50:56Z",
       "source": {
-        "name": "The Korea Times"
+        "name": "Shaw Local Enewspapers"
       }
     },
     {
-      "title": "Oil price close to $110 after steepest weekly increase since July",
-      "description": "Oil prices rose on Friday and both major benchmarks are on track to end the week above $100 a barrel for the \u200cfirst time since mid-May, as increasing attacks along key shipping routes in the Middle East fuel fears of a prolonged disruption to supplies.",
-      "url": "https://www.news24.com/business/climate-future/energy/oil-price-close-to-110-after-steepest-weekly-increase-since-july-20260911-0407",
-      "image": "https://news24cobalt.24.co.za/resources/02a6-20c621707d56-127034aa74a6-1000/format/inline/gettyimages-1449641082.jpeg",
-      "publishedAt": "2026-09-11T06:49:26Z",
+      "title": "Oil Prices Keep Climbing As a Result Of Global Conflicts. The IEA Expects Demand To Drop More.",
+      "description": "The International Energy Agency expects global oil demand to decline by 2.5 million barrels per day this year.",
+      "url": "https://www.ibtimes.com/oil-prices-keep-climbing-result-global-conflicts-iea-expects-demand-drop-more-3807371",
+      "image": "https://d.ibtimes.com/en/full/4652636/oil-pump.jpg",
+      "publishedAt": "2026-09-11T13:48:15Z",
       "source": {
-        "name": "News24"
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "Wall Street rises after oil prices ease, inflation near expectations",
+      "description": "U.S. stocks are rebounding and clawing back much of their losses for the week after oil prices eased off their recent spurt.",
+      "url": "https://www.mercurynews.com/2026/09/11/wall-street-oil-prices-inflation-update/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/AP26233521204252.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-11T13:40:53Z",
+      "source": {
+        "name": "The Mercury News"
+      }
+    },
+    {
+      "title": "Wall Street rises after oil prices ease, inflation near expectations",
+      "description": "U.S. stocks are rebounding and clawing back much of their losses for the week after oil prices eased off their recent spurt.",
+      "url": "https://www.pressdemocrat.com/2026/09/11/wall-street-oil-prices-inflation-update/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/09/AP26233521204252.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-11T13:40:53Z",
+      "source": {
+        "name": "Santa Rosa Press Democrat"
+      }
+    },
+    {
+      "title": "Wall Street rises after oil prices ease, inflation near expectations",
+      "description": "U.S. stocks are rebounding and clawing back much of their losses for the week after oil prices eased off their recent spurt.",
+      "url": "https://www.ocregister.com/2026/09/11/wall-street-oil-prices-inflation-update/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/09/AP26233521204252.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-11T13:40:53Z",
+      "source": {
+        "name": "Santa Ana Orange County Register"
+      }
+    },
+    {
+      "title": "Wall Street rises after oil prices ease, inflation near expectations",
+      "description": "U.S. stocks are rebounding and clawing back much of their losses for the week after oil prices eased off their recent spurt.",
+      "url": "https://www.readingeagle.com/2026/09/11/wall-street-oil-prices-inflation-update/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/09/AP26233521204252.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-11T13:40:53Z",
+      "source": {
+        "name": "Reading Eagle"
       }
     }
   ]
