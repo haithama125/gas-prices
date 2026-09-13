@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-09-13T15:17:27+00:00",
+  "updated_at": "2026-09-13T19:59:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "KP CM Sohail Afridi criticises federal govt over petrol price hikes, rising debt",
+      "description": "Khyber Pakhtunkhwa Chief Minister Sohail Afridi has criticised the federal government over repeated increases in petroleum prices and the sharp rise in national debt,",
+      "url": "https://www.nation.com.pk/13-Sep-2026/kp-cm-sohail-afridi-criticises-federal-govt-petrol-price-hikes-rising-debt",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-09-13/kp-cm-sohail-afridi-criticises-federal-govt-petrol-price-hikes-rising-debt-1789285619-7182.jpg",
+      "publishedAt": "2026-09-13T07:45:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Kia Sorento, Premium 3-Row SUV Launched at Rs 27.99 Lakh in Hyderabad",
+      "description": "The feature-loaded Kia Sorento is launched at an introductory price starting from Rs 27.99 lakh for the Diesel variant and Rs 29.49 lakh for the Petrol-Hybrid",
+      "url": "https://www.deccanchronicle.com/business/autos/kia-sorento-premium-3-row-suv-launched-at-rs-2799-lakh-in-hyderabad-1987172",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/13/2088517-kia-sorento-launch-in-hyderabad.jpg",
+      "publishedAt": "2026-09-13T07:35:36Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "FPIs withdraw Rs 13,138 cr from equities in Sep so far amid global uncertainty",
+      "description": "NEW DELHI, Sept 13: \u00a0Foreign investors pulled out Rs 13,138 crore from Indian equities in the first half of September, as heightened global uncertainty pushed crude oil prices higher, while rising US bond yields and a firm dollar weighed on...",
+      "url": "https://www.dailyexcelsior.com/fpis-withdraw-rs-13138-cr-from-equities-in-sep-so-far-amid-global-uncertainty/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWU3NDM4ZWIwLWFmNDMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-13T07:22:39Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "US Stock Market Next Week: Fed Rate Decision Takes Centre Stage, Global Investors Brace For Key Data",
+      "description": "US markets face a crucial week as investors await the Fed\u2019s rate decision, retail sales data and signals on inflation amid elevated oil prices.",
+      "url": "https://www.freepressjournal.in/business/us-stock-market-next-week-fed-rate-decision-takes-centre-stage-global-investors-brace-for-key-data",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-13/6wn80fsz/us-market.jpg",
+      "publishedAt": "2026-09-13T06:34:47Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Rising oil prices create 'huge worry' as winter looms",
+      "description": "The warning comes after the US-Iran conflict drives up heating oil and fuel costs.",
+      "url": "https://www.bbc.com/news/articles/cwyzegz38wlo",
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/4275/live/fc968e50-ac5c-11f1-be57-03729df1d736.jpg",
+      "publishedAt": "2026-09-13T06:01:53Z",
+      "source": {
+        "name": "BBC News"
+      }
+    },
+    {
+      "title": "FPIs withdraw \u20b913,138 crore from equities in Sep so far amid global uncertainty",
+      "description": "Foreign investors pulled out \u20b913,138 crore from Indian equities in the first half of September, as heightened global uncertainty pushed crude oil prices higher, while rising US bond yields and a firm dollar weighed on risk appetite.",
+      "url": "https://www.thehindubusinessline.com/markets/fpis-withdraw-13138-crore-from-equities-in-sep-so-far-amid-global-uncertainty/article71462646.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/zf6ilv/article71462652.ece/alternates/LANDSCAPE_1200/iStock-2260474979.jpg",
+      "publishedAt": "2026-09-13T05:39:43Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Fed decision, crude oil and global cues likely to drive stock market next week",
+      "description": "Fed decision, crude oil and global cues likely to drive stock market next week - Mumbai, Sep 13 The US Federal Reserve's policy decision, movements in crude oil prices and global monetary policy ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/fed-decision-crude-oil-and-global-cues-likely-to-drive-stock-market-next-week/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609133940093_202609.jpg",
+      "publishedAt": "2026-09-13T05:00:25Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Weekly Market Outlook: Can Nifty find its footing as crude, Fed policy drive markets?",
+      "description": "Indian equities enter a holiday-shortened week with the Nifty at a crucial support zone after five consecutive weekly declines. The US Feds policy decision, FOMC projections, crude oil prices, global bond yields and foreign flows will drive near-term sentiment. Analysts expect volatility to remain elevated but see scope for buying at lower levels, with the Niftys 23,000\u201323,300 zone in focus.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/weekly-market-outlook-can-nifty-find-its-footing-as-crude-fed-policy-drive-markets/articleshow/134178071.cms",
+      "image": "https://img.etimg.com/thumb/msid-134178166,width-1200,height-630,imgsize-214162,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-13T04:35:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Fico Blasts EU's 'Stupid Energy Policy' for Pushing Europe to the Brink",
+      "description": "Slovak Prime Minister Robert Fico blasted the European Commission\u2019s energy policy, warning that high electricity and gas prices are destroying Europe\u2019s competitiveness.",
+      "url": "https://sputnikglobe.com/20260913/fico-blasts-eus-stupid-energy-policy-for-pushing-europe-to-the-brink-1124729524.html",
+      "image": "https://cdn1.img.sputnikglobe.com/images/sharing/article/eng/1124729524.jpg?11146170341789273770",
+      "publishedAt": "2026-09-13T04:29:00Z",
+      "source": {
+        "name": "Sputnik News"
+      }
+    },
     {
       "title": "Petrol, diesel prices today, September 13: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
       "description": "taxes levied by both the central and state governments make up a substantial portion of the final price, which is why petrol and diesel rates differ across states.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-09-13T02:41:46Z",
       "source": {
         "name": "Business Today"
-      }
-    },
-    {
-      "title": "LPG, CNG, PNG prices today (September 13): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "LPG, CNG, and PNG prices today: This comes amid concerns over volatile global crude oil prices, with Brent crude standing at $104.6 per barrel after falling over 3% in the previous session.",
-      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-13-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-555214-2026-09-13",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa60b9794500-the-lpg-price-hike-comes-amid-a-broader-round-of-fuel-price-increases-across-the-country-100345219-16x9.jpg",
-      "publishedAt": "2026-09-13T02:41:28Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Current inflation shock likely to last longer than expected: ECB president",
-      "description": "The ECB raised interest rates this week for the second time since the Iran war sent oil and gas prices soaring",
-      "url": "https://www.business-standard.com/world-news/current-inflation-shock-likely-to-last-longer-than-expected-ecb-president-126091300044_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/13/thumb/fitandfill/1200X628/1789264882-8961.jpg",
-      "publishedAt": "2026-09-13T02:05:41Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Oil Industry Braces for Years-Long Iran War",
-      "description": "Oil industry executives are preparing for a prolonged U.S.-Iran war, with little expectation of a quick political settlement and oil prices likely staying higher for longer.",
-      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_8msyd0r1er.jpg",
-      "publishedAt": "2026-09-12T23:00:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "US Iran tensions add another layer of volatility to gold as oil prices complicate Fed outlook",
-      "description": "Gold prices came under pressure as surging crude oil prices amid escalating US-Iran tensions fuelled inflation concerns and lifted bets on a US Fed rate hike. A stronger dollar and rising US Treasury yields have further weighed on the precious metal.",
-      "url": "https://www.businesstoday.in/personal-finance/story/us-iran-tensions-add-another-layer-of-volatility-to-gold-as-oil-prices-complicate-fed-outlook-555069-2026-09-13",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa4fb7147ff2-for-gold--the-bigger-question-may-ultimately-be-whether-higher-oil-prices-translate-into-sustained-i-12124842-16x9.jpeg",
-      "publishedAt": "2026-09-12T22:05:01Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Petrol price panic as Middle East tension flares following Red Sea entrance being captured",
-      "description": "Drivers have began preparing for more pain at the bowser after global oil exports were threatened by Yemen rebels capturing an island at the entrance to the Red Sea, one of the world\u2019s key shipping lanes.",
-      "url": "https://www.perthnow.com.au/wa/perth/petrol-price-panic-as-middle-east-tension-flares-following-red-sea-entrance-being-captured-c-22862121",
-      "image": "https://images.perthnow.com.au/publication/C-22862121/5571a9055e0fca103f1c62d9774f4cf8bf4b2379-16x9-x0y4w800h450.jpg?imwidth=1200",
-      "publishedAt": "2026-09-12T21:26:51Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Energy shares rose while the ASX 200 slumped last week. Here's why",
-      "description": "Energy shares\u00a0rose 2.39% while the S&P/ASX 200 Index\u00a0(ASX: XJO) dropped 2.94% amid turmoil in the Middle East and a 12% jump in oil prices.",
-      "url": "https://www.fool.com.au/2026/09/13/energy-shares-rose-while-the-asx-200-slumped-last-week-heres-why-week-37-2026/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2024/12/overload-16.9-1200x675.jpg",
-      "publishedAt": "2026-09-12T21:00:00Z",
-      "source": {
-        "name": "The Motley Fool Australia"
-      }
-    },
-    {
-      "title": "Escalating Tensions: Saudi Pipeline Attack Highlights Middle East Crisis",
-      "description": "Saudi Arabia has temporarily shut down its crucial East-West pipeline following a drone attack linked to Iranian-backed militias, causing a spike in oil prices. As regional tensions rise, the incident highlights the vulnerability of global oil supplies amid the ongoing Middle East conflict involving Saudi Arabia, Iran, and the Houthis.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3976430-escalating-tensions-saudi-pipeline-attack-highlights-middle-east-crisis",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2024_11_31_10_7711058.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-12T19:31:38Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "On a budget and looking to buy an electric car? Check list of EVs under \u20b910 lakh: Prices, range and features",
-      "description": "The availability of fully electric cars below the \u20b910 lakh mark also signals a shift in the Indian automobile market, where buyers can increasingly choose between electric and petrol-powered vehicles without paying a significant premium for an EV.",
-      "url": "https://www.livemint.com/auto-news/on-a-budget-and-looking-to-buy-an-electric-car-check-list-of-evs-under-10-lakh-prices-range-and-features-11789232553123.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Untitled_design_-_2026-09-12T225519.873_1789233924815_1db21263-9053-425f-9f11-fef545065333_1789233932557_810fdd94-2be2-4058-b02a-69d37efef7d1_7767a6a0-07da-4555-9f71-529c17be2435_ba231bd8-f8df-42e4-baf5-ef68ba7e1ccb.png",
-      "publishedAt": "2026-09-12T17:37:17Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Pastures Past: World War II petrol shortages put the brakes on horse transport",
-      "description": "Kem Ormond takes a look at the world of farming back in the day. In this week\u2019s Pastures Past, she\u2019s found newspaper articles on how petrol shortages...",
-      "url": "https://www.nzherald.co.nz/nz/pastures-past-world-war-ii-petrol-shortages-put-the-brakes-on-horse-transport/3HT5UE5PM5HLHB6DU5GF5M3AEU/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/3ZCV4I777NAGPH44Q3ZUNB3ZVA.jpg?auth=64b5370926854c44d27e55aa05e03307b4c0f2dfac9e648beb91050bca95e1e6&width=1200&height=675&quality=70&focal=943%2C679&smart=false",
-      "publishedAt": "2026-09-12T17:05:00Z",
-      "source": {
-        "name": "The New Zealand Herald"
       }
     }
   ]
