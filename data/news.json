@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-09-13T10:47:23+00:00",
+  "updated_at": "2026-09-13T15:17:27+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol, diesel prices today, September 13: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "taxes levied by both the central and state governments make up a substantial portion of the final price, which is why petrol and diesel rates differ across states.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-13-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-555213-2026-09-13",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa6038d55b12-when-the-rupee-weakens-against-the-dollar--the-cost-of-procuring-crude-rises--which-can-feed-directl-091029544-16x9.jpg",
+      "publishedAt": "2026-09-13T02:41:46Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "LPG, CNG, PNG prices today (September 13): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "LPG, CNG, and PNG prices today: This comes amid concerns over volatile global crude oil prices, with Brent crude standing at $104.6 per barrel after falling over 3% in the previous session.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-13-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-555214-2026-09-13",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa60b9794500-the-lpg-price-hike-comes-amid-a-broader-round-of-fuel-price-increases-across-the-country-100345219-16x9.jpg",
+      "publishedAt": "2026-09-13T02:41:28Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Current inflation shock likely to last longer than expected: ECB president",
+      "description": "The ECB raised interest rates this week for the second time since the Iran war sent oil and gas prices soaring",
+      "url": "https://www.business-standard.com/world-news/current-inflation-shock-likely-to-last-longer-than-expected-ecb-president-126091300044_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/13/thumb/fitandfill/1200X628/1789264882-8961.jpg",
+      "publishedAt": "2026-09-13T02:05:41Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Oil Industry Braces for Years-Long Iran War",
+      "description": "Oil industry executives are preparing for a prolonged U.S.-Iran war, with little expectation of a quick political settlement and oil prices likely staying higher for longer.",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Industry-Braces-for-Years-Long-Iran-War.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-11_8msyd0r1er.jpg",
+      "publishedAt": "2026-09-12T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
     {
       "title": "US Iran tensions add another layer of volatility to gold as oil prices complicate Fed outlook",
       "description": "Gold prices came under pressure as surging crude oil prices amid escalating US-Iran tensions fuelled inflation concerns and lifted bets on a US Fed rate hike. A stronger dollar and rising US Treasury yields have further weighed on the precious metal.",
@@ -62,46 +102,6 @@
       "publishedAt": "2026-09-12T17:05:00Z",
       "source": {
         "name": "The New Zealand Herald"
-      }
-    },
-    {
-      "title": "Trump again claims Iran war nearing end, makes bold prediction on oil prices: 'Will come tumbling down'",
-      "description": "Speaking to reporters during a visit to Ireland, Trump predicted that the Iran war will end right after the US midterm elections in November, following which oil prices will sharply fall.",
-      "url": "https://www.indiatvnews.com/news/world/trump-again-claims-iran-war-nearing-end-makes-bold-claim-on-oil-prices-will-come-tumbling-down-2026-09-12-1054068",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/trump-on-iran-war-end-date-oil-prices-1789231301.jpg",
-      "publishedAt": "2026-09-12T16:52:55Z",
-      "source": {
-        "name": "India TV News"
-      }
-    },
-    {
-      "title": "Turmoil in the Middle East: Saudi Pipeline Attack Amplifies Energy Crisis",
-      "description": "Saudi Arabia has closed its East-West oil pipeline following a drone attack originating from Iraq. As tensions rise in the Middle East, oil prices are surging, with the Strait of Hormuz largely closed. The U.S. navigates a delicate role in ongoing conflicts involving Iran and the Houthis.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3976388-turmoil-in-the-middle-east-saudi-pipeline-attack-amplifies-energy-crisis",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_07_2025_23_53_15_5555656.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-12T14:39:46Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Stocks stumble on inflation fears, but 2 names give us reasons to stay bullish",
-      "description": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move.",
-      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108358661-1788468213476-gettyimages-2293388112-mms27078_t0uoiw5l.jpeg?v=1788468259&w=1920&h=1080",
-      "publishedAt": "2026-09-12T14:37:07Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Oil Price Spike: Is it Too Late to Buy Enbridge Stock?",
-      "description": "While higher oil prices create a positive backdrop for energy stocks, they aren't necessarily the main reason to buy Enbridge.",
-      "url": "https://www.fool.ca/2026/09/12/oil-price-spike-is-it-too-late-to-buy-enbridge-stock/",
-      "image": "https://www.fool.ca/wp-content/uploads/2024/06/GettyImages-1408605653-1200x800.jpg",
-      "publishedAt": "2026-09-12T13:45:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
       }
     }
   ]
