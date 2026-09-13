@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-09-13T02:03:57+00:00",
+  "updated_at": "2026-09-13T10:47:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "US Iran tensions add another layer of volatility to gold as oil prices complicate Fed outlook",
+      "description": "Gold prices came under pressure as surging crude oil prices amid escalating US-Iran tensions fuelled inflation concerns and lifted bets on a US Fed rate hike. A stronger dollar and rising US Treasury yields have further weighed on the precious metal.",
+      "url": "https://www.businesstoday.in/personal-finance/story/us-iran-tensions-add-another-layer-of-volatility-to-gold-as-oil-prices-complicate-fed-outlook-555069-2026-09-13",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa4fb7147ff2-for-gold--the-bigger-question-may-ultimately-be-whether-higher-oil-prices-translate-into-sustained-i-12124842-16x9.jpeg",
+      "publishedAt": "2026-09-12T22:05:01Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Petrol price panic as Middle East tension flares following Red Sea entrance being captured",
+      "description": "Drivers have began preparing for more pain at the bowser after global oil exports were threatened by Yemen rebels capturing an island at the entrance to the Red Sea, one of the world\u2019s key shipping lanes.",
+      "url": "https://www.perthnow.com.au/wa/perth/petrol-price-panic-as-middle-east-tension-flares-following-red-sea-entrance-being-captured-c-22862121",
+      "image": "https://images.perthnow.com.au/publication/C-22862121/5571a9055e0fca103f1c62d9774f4cf8bf4b2379-16x9-x0y4w800h450.jpg?imwidth=1200",
+      "publishedAt": "2026-09-12T21:26:51Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "Energy shares rose while the ASX 200 slumped last week. Here's why",
+      "description": "Energy shares\u00a0rose 2.39% while the S&P/ASX 200 Index\u00a0(ASX: XJO) dropped 2.94% amid turmoil in the Middle East and a 12% jump in oil prices.",
+      "url": "https://www.fool.com.au/2026/09/13/energy-shares-rose-while-the-asx-200-slumped-last-week-heres-why-week-37-2026/",
+      "image": "https://www.fool.com.au/wp-content/uploads/2024/12/overload-16.9-1200x675.jpg",
+      "publishedAt": "2026-09-12T21:00:00Z",
+      "source": {
+        "name": "The Motley Fool Australia"
+      }
+    },
+    {
+      "title": "Escalating Tensions: Saudi Pipeline Attack Highlights Middle East Crisis",
+      "description": "Saudi Arabia has temporarily shut down its crucial East-West pipeline following a drone attack linked to Iranian-backed militias, causing a spike in oil prices. As regional tensions rise, the incident highlights the vulnerability of global oil supplies amid the ongoing Middle East conflict involving Saudi Arabia, Iran, and the Houthis.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3976430-escalating-tensions-saudi-pipeline-attack-highlights-middle-east-crisis",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_07_2024_11_31_10_7711058.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-12T19:31:38Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "On a budget and looking to buy an electric car? Check list of EVs under \u20b910 lakh: Prices, range and features",
+      "description": "The availability of fully electric cars below the \u20b910 lakh mark also signals a shift in the Indian automobile market, where buyers can increasingly choose between electric and petrol-powered vehicles without paying a significant premium for an EV.",
+      "url": "https://www.livemint.com/auto-news/on-a-budget-and-looking-to-buy-an-electric-car-check-list-of-evs-under-10-lakh-prices-range-and-features-11789232553123.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/12/1600x900/logo/Untitled_design_-_2026-09-12T225519.873_1789233924815_1db21263-9053-425f-9f11-fef545065333_1789233932557_810fdd94-2be2-4058-b02a-69d37efef7d1_7767a6a0-07da-4555-9f71-529c17be2435_ba231bd8-f8df-42e4-baf5-ef68ba7e1ccb.png",
+      "publishedAt": "2026-09-12T17:37:17Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Pastures Past: World War II petrol shortages put the brakes on horse transport",
+      "description": "Kem Ormond takes a look at the world of farming back in the day. In this week\u2019s Pastures Past, she\u2019s found newspaper articles on how petrol shortages...",
+      "url": "https://www.nzherald.co.nz/nz/pastures-past-world-war-ii-petrol-shortages-put-the-brakes-on-horse-transport/3HT5UE5PM5HLHB6DU5GF5M3AEU/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/3ZCV4I777NAGPH44Q3ZUNB3ZVA.jpg?auth=64b5370926854c44d27e55aa05e03307b4c0f2dfac9e648beb91050bca95e1e6&width=1200&height=675&quality=70&focal=943%2C679&smart=false",
+      "publishedAt": "2026-09-12T17:05:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Trump again claims Iran war nearing end, makes bold prediction on oil prices: 'Will come tumbling down'",
+      "description": "Speaking to reporters during a visit to Ireland, Trump predicted that the Iran war will end right after the US midterm elections in November, following which oil prices will sharply fall.",
+      "url": "https://www.indiatvnews.com/news/world/trump-again-claims-iran-war-nearing-end-makes-bold-claim-on-oil-prices-will-come-tumbling-down-2026-09-12-1054068",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/trump-on-iran-war-end-date-oil-prices-1789231301.jpg",
+      "publishedAt": "2026-09-12T16:52:55Z",
+      "source": {
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "Turmoil in the Middle East: Saudi Pipeline Attack Amplifies Energy Crisis",
+      "description": "Saudi Arabia has closed its East-West oil pipeline following a drone attack originating from Iraq. As tensions rise in the Middle East, oil prices are surging, with the Strait of Hormuz largely closed. The U.S. navigates a delicate role in ongoing conflicts involving Iran and the Houthis.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3976388-turmoil-in-the-middle-east-saudi-pipeline-attack-amplifies-energy-crisis",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_07_2025_23_53_15_5555656.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-12T14:39:46Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Stocks stumble on inflation fears, but 2 names give us reasons to stay bullish",
+      "description": "Stocks came under pressure last week as surging oil prices and bond yields stoked renewed concerns about inflation and the Fed's next move.",
+      "url": "https://www.cnbc.com/2026/09/12/stocks-stumble-on-inflation-fears-but-2-names-give-us-reasons-to-stay-bullish.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108358661-1788468213476-gettyimages-2293388112-mms27078_t0uoiw5l.jpeg?v=1788468259&w=1920&h=1080",
+      "publishedAt": "2026-09-12T14:37:07Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
     {
       "title": "Oil Price Spike: Is it Too Late to Buy Enbridge Stock?",
       "description": "While higher oil prices create a positive backdrop for energy stocks, they aren't necessarily the main reason to buy Enbridge.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-09-12T13:45:00Z",
       "source": {
         "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Miscreants hurl petrol bombs at police station in Meghalaya; attack caught on cam",
-      "description": "SHILLONG: Unidentified miscreants hurled two petrol bombs at the premises of Laban police station in the early hours of Saturday, an officer said.No p.",
-      "url": "https://timesofindia.indiatimes.com/city/shillong/miscreants-hurl-petrol-bombs-at-police-station-in-meghalaya-attack-caught-on-cctv/articleshow/134128607.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134132378,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-12T13:13:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Escalating Tensions: Houthis Tighten Grip on Key Waterway",
-      "description": "Amid rising Middle East tensions, Iran-aligned Houthis have seized control of strategic locations threatening global oil routes, posing challenges for U.S. President Trump and Saudi Arabia. The U.S. debates intervention as gas prices soar, intensifying the geopolitical climate and testing ties with regional allies.",
-      "url": "https://www.devdiscourse.com/article/politics/3976375-escalating-tensions-houthis-tighten-grip-on-key-waterway",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_05_2024_13_48_13_8188936.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-12T13:11:35Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil shock meets bond market stress: Why 2026 is starting to resemble 2008",
-      "description": "Oil prices are feeding directly into inflation expectations and government bond yields, creating a 2026 market shock that echoes 2008 but has a very different trigger. With crude rising on supply disruptions, investors face higher inflation, tighter financial conditions and limited room for central banks to ease.",
-      "url": "https://www.businesstoday.in/latest/economy/story/oil-shock-meets-bond-market-stress-why-2026-is-starting-to-resemble-2008-but-for-different-reasons-555168-2026-09-12",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa5498a4450b-create-an-image-to-depict-brent-crude-oil-do-not-use-text-on-the-image-124600738-16x9.jpg",
-      "publishedAt": "2026-09-12T13:08:47Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Trump sees Iran war ending 'very soon', oil prices then falling",
-      "description": "Oil prices retreated on Friday on hopes of a resumptions in negotiations, but notched sharp weekly gains after soaring above $100 a barrel.",
-      "url": "https://www.cnbc.com/2026/09/12/trump-sees-iran-war-ending-very-soon-oil-prices-then-falling.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108362153-1789217384206-gettyimages-2294850529-090a7473_ylpgamp3.jpeg?v=1789217402&w=1920&h=1080",
-      "publishedAt": "2026-09-12T13:02:15Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Trump sees Iran war ending soon after midterm elections, predicts oil prices will then fall sharply",
-      "description": "Trump said he expects the Iran war to end shortly after November\u2019s midterm elections and oil prices to fall afterward. Oil prices pulled back Friday but po",
-      "url": "https://www.newsbreak.com/news/4882148647054-trump-sees-iran-war-ending-soon-after-midterm-elections-predicts-oil-prices-will-then-fall-sharply",
-      "image": "https://img.particlenews.com/img/id/0ySPMg_1F5MQus700",
-      "publishedAt": "2026-09-12T13:02:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "term elections, predicts oil prices will then fall sharply",
-      "description": "Trump said he expects the Iran war to end shortly after November\u2019s mid-term elections and oil prices to fall afterward. Oil prices pulled back Friday but p",
-      "url": "https://www.newsbreak.com/news/4882148647054-trump-sees-iran-war-ending-soon-after-mid-term-elections-predicts-oil-prices-will-then-fall-sharply",
-      "image": "https://img.particlenews.com/img/id/0ySPMg_1F5MQus700",
-      "publishedAt": "2026-09-12T13:02:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Which groceries have you seen the biggest price increase in?",
-      "description": "The latest CPI inflation report shows prices increased in August compared with last year, with gas prices, car repairs and appliances leading in particular.",
-      "url": "https://www.dallasnews.com/business/economy/article/groceries-seen-biggest-price-increase-in-22427803.php",
-      "image": "https://s.hdnux.com/photos/01/66/24/55/31017833/6/rawImage.jpg",
-      "publishedAt": "2026-09-12T13:00:00Z",
-      "source": {
-        "name": "The Dallas Morning News"
-      }
-    },
-    {
-      "title": "Oil's roundtrip back to $100. Why China could determine what happens next",
-      "description": "China will play a pivotal role in deciding whether oil prices sustain this week's rally and potentially test wartime highs.",
-      "url": "https://www.europesays.com/3247132/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/04/108284017-1774615135525-gettyimages-2268007114-AFP_A4VU6NZ.jpeg",
-      "publishedAt": "2026-09-12T12:55:27Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "AA \u2018watching\u2019 new fuel set to hit UK petrol stations in October - \u2018significantly cheaper'",
-      "description": "EXCLUSIVE: A new fuel compound that could be 'significantly cheaper' could hit petrol stations within a matter of weeks.",
-      "url": "https://www.express.co.uk/life-style/cars/2247940/aa-winter-fuel-petrol-station-diesel",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7139467.jpg",
-      "publishedAt": "2026-09-12T12:23:00Z",
-      "source": {
-        "name": "Daily Express"
       }
     }
   ]
