@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-14T17:14:21+00:00",
+  "updated_at": "2026-09-14T21:10:11+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock Market Today: BSE, NSE Closed For Ganesh Chaturthi As West Asia Tensions Push Oil Higher",
-      "description": "Indian stock markets remain closed for Ganesh Chaturthi as Asian equities fall amid West Asia tensions, rising oil prices and global energy supply concerns.",
-      "url": "https://www.newsx.com/business/stock-market-today-bse-nse-closed-for-ganesh-chaturthi-as-west-asia-tensions-push-oil-higher-271519/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/09/stock-market-today-12.jpg",
-      "publishedAt": "2026-09-14T05:13:46Z",
+      "title": "Higher crude prices lift Swiss import costs",
+      "description": "Higher global crude oil prices drove up Swiss production and import prices in August, with food products seeing a notable increase.",
+      "url": "https://www.swissinfo.ch/eng/workplace/higher-crude-prices-lift-swiss-import-costs/92053264",
+      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/09/42ffe0ab1f2c14be51f65880d8a1f8aaa18870f0-92053078.jpg?ver=f1bf7280&fit=1200,900",
+      "publishedAt": "2026-09-14T09:09:05Z",
       "source": {
-        "name": "NewsX"
+        "name": "Swissinfo (EN)"
       }
     },
     {
-      "title": "US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign",
-      "description": "U.S. futures are falling as calls grow for a slowdown in AI development and oil prices climb amid ongoing clashes in the Middle East.",
-      "url": "https://www.clickondetroit.com/business/2026/09/14/us-futures-slide-on-ai-blowback-oil-and-gas-jump-after-houthis-intensify-campaign/",
-      "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/2U6FJNAMMRBDPB3OGOL5KJTDFI.jpg",
-      "publishedAt": "2026-09-14T05:09:37Z",
+      "title": "It\u2019s official! Hyundai\u2019s new mid size SUV to be called Bayon",
+      "description": "The Bayon is expected to get the Creta\u2019s 115hp 1.5-litre 4-cylinder naturally aspirated petrol engine with 6-speed manual and CVT options.",
+      "url": "https://www.businesstoday.in/auto/story/its-official-hyundais-new-mid-size-suv-to-be-called-bayon-555409-2026-09-14",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa7b4abad9d5-bayon-suv-is-slated-to-be-launched-during-the-festive-season-144738238-16x9.jpg",
+      "publishedAt": "2026-09-14T08:49:56Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
-      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
-      "publishedAt": "2026-09-14T05:07:10Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.plymouthherald.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/article11155273.ece/ALTERNATES/s1200d/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Plymouth Live"
       }
     },
     {
-      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
-      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
-      "publishedAt": "2026-09-14T05:07:10Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.kentlive.news/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Kentlive"
       }
     },
     {
-      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
-      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves-2/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
-      "publishedAt": "2026-09-14T05:07:10Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.grimsbytelegraph.co.uk/news/cost-of-living/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Grimsby Telegraph"
       }
     },
     {
-      "title": "Global Markets Brace for Oil Surge Amidst Geopolitical Tensions and Economic Shifts",
-      "description": "European and global markets face uncertainty as oil prices climb above $107 per barrel due to tensions around critical shipping routes in the Middle East. Simultaneously, central banks, including the Federal Reserve and Bank of Japan, are signaling possible interest rate hikes to counter persistent inflation pressures, impacting investor sentiment and market dynamics.",
-      "url": "https://www.devdiscourse.com/article/business/3976702-global-markets-brace-for-oil-surge-amidst-geopolitical-tensions-and-economic-shifts",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_06_2024_14_57_47_5564023.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-14T04:30:36Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.bristolpost.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Bristol Post"
       }
     },
     {
-      "title": "US Market: Goldman Sachs expects Fed to hike rates amid inflation fears",
-      "description": "Goldman Sachs now expects the US Federal Reserve to raise interest rates by 25 basis points in September, reversing its earlier pause forecast. Rising oil prices, stronger producer inflation and shifting market expectations drove the revision.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-goldman-sachs-expects-fed-to-hike-rates-amid-inflation-fears/articleshow/134232349.cms",
-      "image": "https://img.etimg.com/thumb/msid-134232440,width-1200,height-630,imgsize-79998,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-14T04:25:00Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.gloucestershirelive.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Gloucestershire Live"
       }
     },
     {
-      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
-      "description": "Oil prices surge over $3 amid escalating tensions and strikes in Saudi Arabia and the Strait of Hormuz.",
-      "url": "https://www.thehindubusinessline.com/news/world/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz/article71465364.ece",
-      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/9ovq86/article71461397.ece/alternates/LANDSCAPE_1200/Crude-Check_-RaG8AGHA5BM.4.jpg.jpg",
-      "publishedAt": "2026-09-14T04:14:37Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.essexlive.news/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Essexlive"
       }
     },
     {
-      "title": "Brent crude jumps above $107 amid escalating Middle East tensions",
-      "description": "Brent crude jumps above $107 amid escalating Middle East tensions - New Delhi, Sep 14 Crude oil prices jumped sharply on Monday, with Brent crude rising above $107 a ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/brent-crude-jumps-above-107-amid-escalating-middle-east-tensions-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260812006_202609.JPG",
-      "publishedAt": "2026-09-14T04:13:50Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.hulldailymail.co.uk/news/cost-of-living/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Hull Daily Mail"
       }
     },
     {
-      "title": "Brent crude jumps above $107 amid escalating Middle East tensions",
-      "description": "Brent crude jumps above $107 amid escalating Middle East tensions - New Delhi, Sep 14 Crude oil prices jumped sharply on Monday, with Brent crude rising above $107 a ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/brent-crude-jumps-above-107-amid-escalating-middle-east-tensions/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260812006_202609.JPG",
-      "publishedAt": "2026-09-14T04:13:50Z",
+      "title": "Most young learner drivers now say their first car will be electric",
+      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
+      "url": "https://www.somersetlive.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
+      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
+      "publishedAt": "2026-09-14T08:32:30Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Somerset Live"
       }
     }
   ]
