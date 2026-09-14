@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-14T11:14:01+00:00",
+  "updated_at": "2026-09-14T17:14:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Surge Amid Geopolitical Tensions and Interest Rate Hikes Loom",
-      "description": "Asian markets experienced a downturn as oil prices soared due to geopolitical tensions involving Saudi Arabia and Yemen. This spike in prices heightens inflation concerns, leading to anticipated interest rate hikes from the Federal Reserve and the Bank of Japan. Investors brace for potential economic shifts.",
-      "url": "https://www.devdiscourse.com/article/business/3976639-oil-prices-surge-amid-geopolitical-tensions-and-interest-rate-hikes-loom",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/17_06_2025_11_58_05_6379147.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-13T23:08:29Z",
+      "title": "Stock Market Today: BSE, NSE Closed For Ganesh Chaturthi As West Asia Tensions Push Oil Higher",
+      "description": "Indian stock markets remain closed for Ganesh Chaturthi as Asian equities fall amid West Asia tensions, rising oil prices and global energy supply concerns.",
+      "url": "https://www.newsx.com/business/stock-market-today-bse-nse-closed-for-ganesh-chaturthi-as-west-asia-tensions-push-oil-higher-271519/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/09/stock-market-today-12.jpg",
+      "publishedAt": "2026-09-14T05:13:46Z",
+      "source": {
+        "name": "NewsX"
+      }
+    },
+    {
+      "title": "US futures slide on AI blowback; oil and gas jump after Houthis intensify campaign",
+      "description": "U.S. futures are falling as calls grow for a slowdown in AI development and oil prices climb amid ongoing clashes in the Middle East.",
+      "url": "https://www.clickondetroit.com/business/2026/09/14/us-futures-slide-on-ai-blowback-oil-and-gas-jump-after-houthis-intensify-campaign/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/2U6FJNAMMRBDPB3OGOL5KJTDFI.jpg",
+      "publishedAt": "2026-09-14T05:09:37Z",
+      "source": {
+        "name": "WDIV ClickOnDetroit"
+      }
+    },
+    {
+      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
+      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
+      "publishedAt": "2026-09-14T05:07:10Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
+      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
+      "publishedAt": "2026-09-14T05:07:10Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves",
+      "description": "Oil price surge not a macro crisis for India amid low inflation, substantial forex reserves - New Delhi, Sep 14 The surge in crude oil prices due to rising West Asia tensions certainly concerns ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/oil-price-surge-not-a-macro-crisis-for-india-amid-low-inflation-substantial-forex-reserves-2/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609143941336_202609.jpg",
+      "publishedAt": "2026-09-14T05:07:10Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Global Markets Brace for Oil Surge Amidst Geopolitical Tensions and Economic Shifts",
+      "description": "European and global markets face uncertainty as oil prices climb above $107 per barrel due to tensions around critical shipping routes in the Middle East. Simultaneously, central banks, including the Federal Reserve and Bank of Japan, are signaling possible interest rate hikes to counter persistent inflation pressures, impacting investor sentiment and market dynamics.",
+      "url": "https://www.devdiscourse.com/article/business/3976702-global-markets-brace-for-oil-surge-amidst-geopolitical-tensions-and-economic-shifts",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_06_2024_14_57_47_5564023.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-14T04:30:36Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Middle East Oil Tensions Surge Amid Diplomatic Setbacks",
-      "description": "Diplomatic efforts in the Middle East faltered with the postponement of a crucial meeting between Iran and Persian Gulf powers. Tensions escalated with fresh attacks on key oil transit routes, impacting global energy supplies and causing oil prices to soar, while the Houthi rebels intensified their offensive in Yemen.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3976637-middle-east-oil-tensions-surge-amid-diplomatic-setbacks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_09_3968771.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-13T23:00:07Z",
+      "title": "US Market: Goldman Sachs expects Fed to hike rates amid inflation fears",
+      "description": "Goldman Sachs now expects the US Federal Reserve to raise interest rates by 25 basis points in September, reversing its earlier pause forecast. Rising oil prices, stronger producer inflation and shifting market expectations drove the revision.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-goldman-sachs-expects-fed-to-hike-rates-amid-inflation-fears/articleshow/134232349.cms",
+      "image": "https://img.etimg.com/thumb/msid-134232440,width-1200,height-630,imgsize-79998,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-14T04:25:00Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "StanChart Warns Oil Is Now Built for Sharper, More Frequent Spikes",
-      "description": "Oil prices briefly approached $110 as hopes for a quick U.S.-Iran resolution faded, with Standard Chartered expecting continued volatility and increasingly sharp upside price spikes.",
-      "url": "https://oilprice.com/Energy/Oil-Prices/StanChart-Warns-Oil-Is-Now-Built-for-Sharper-More-Frequent-Spikes.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-13_vaifrmxv3t.jpg",
-      "publishedAt": "2026-09-13T23:00:00Z",
+      "title": "Oil prices jump more than $3 after new strikes on Saudi, Strait of Hormuz",
+      "description": "Oil prices surge over $3 amid escalating tensions and strikes in Saudi Arabia and the Strait of Hormuz.",
+      "url": "https://www.thehindubusinessline.com/news/world/oil-prices-jump-more-than-3-after-new-strikes-on-saudi-strait-of-hormuz/article71465364.ece",
+      "image": "https://bl-i.thgim.com/public/todays-paper/tp-others/9ovq86/article71461397.ece/alternates/LANDSCAPE_1200/Crude-Check_-RaG8AGHA5BM.4.jpg.jpg",
+      "publishedAt": "2026-09-14T04:14:37Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Oil rises after Saudi Arabia shut down pipeline that bypasses Hormuz",
-      "description": "Crude oil prices popped on Sunday after Saudi Arabia closed its critical pipeline that bypasses the Strait of Hormuz.",
-      "url": "https://www.europesays.com/3249621/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/108348624-1786556071951-gettyimages-1060639398-SAUDI_ARAMCO_RAS_TANURA.jpeg",
-      "publishedAt": "2026-09-13T22:46:20Z",
+      "title": "Brent crude jumps above $107 amid escalating Middle East tensions",
+      "description": "Brent crude jumps above $107 amid escalating Middle East tensions - New Delhi, Sep 14 Crude oil prices jumped sharply on Monday, with Brent crude rising above $107 a ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/brent-crude-jumps-above-107-amid-escalating-middle-east-tensions-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260812006_202609.JPG",
+      "publishedAt": "2026-09-14T04:13:50Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "in at Napier Caltex petrol station, site cordoned off",
-      "description": "A Napier petrol station has been taped off after an attempted break-in. The incident occurred at Caltex on Hyderabad Rd. A police spokeswoman said they...",
-      "url": "https://www.nzherald.co.nz/hawkes-bay-today/news/attempted-break-in-at-napier-caltex-petrol-station-site-cordoned-off/KESQ7U4WCNE57I2TQIEXTTW5XQ/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/7UOQVDPO6NFIBLMUV645F5A4FA.jpg?auth=f75bd42b7db98f906f780091405e9c6d3a84682b40adf638d986d10bca4d0f94&width=1200&height=675&quality=70&focal=1711%2C700&smart=false",
-      "publishedAt": "2026-09-13T22:31:19Z",
+      "title": "Brent crude jumps above $107 amid escalating Middle East tensions",
+      "description": "Brent crude jumps above $107 amid escalating Middle East tensions - New Delhi, Sep 14 Crude oil prices jumped sharply on Monday, with Brent crude rising above $107 a ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/brent-crude-jumps-above-107-amid-escalating-middle-east-tensions/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260812006_202609.JPG",
+      "publishedAt": "2026-09-14T04:13:50Z",
       "source": {
-        "name": "The New Zealand Herald"
-      }
-    },
-    {
-      "title": "Buy, hold, sell: Corporate Travel Management, Wesfarmers, Fortescue shares",
-      "description": "S&P/ASX 200 Index (ASX: XJO) shares fell by almost 3% last week amid soaring oil prices and higher bond yields. Here are some new ratings.",
-      "url": "https://www.fool.com.au/2026/09/14/buy-hold-sell-corporate-travel-management-wesfarmers-fortescue-shares/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2022/04/Woman-looks-through-binoculars-on-street-16_9-1200x675.jpg",
-      "publishedAt": "2026-09-13T22:15:00Z",
-      "source": {
-        "name": "The Motley Fool Australia"
-      }
-    },
-    {
-      "title": "Oil prices rise after Saudi Arabia shut down critical pipeline that bypasses Strait of Hormuz",
-      "description": "Crude oil prices rose more than 2% on Sunday after Saudi Arabia closed its critical pipeline that bypasses the Strait of Hormuz. Drones launched from Iraq",
-      "url": "https://www.newsbreak.com/news/4884089016704-oil-prices-rise-after-saudi-arabia-shut-down-critical-pipeline-that-bypasses-strait-of-hormuz",
-      "image": "https://img.particlenews.com/img/id/3rFhqi_1F7Jbw6N00",
-      "publishedAt": "2026-09-13T22:08:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "New attacks in Hormuz and Saudi Arabia test nerves as war's spread worsens oil disruption",
-      "description": "President Donald Trump says the war with Iran will end soon, meanwhile gas prices continue to rise",
-      "url": "https://www.europesays.com/3249553/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/6aa70eef0115a.preview.jpg",
-      "publishedAt": "2026-09-13T21:55:28Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Middle East Tensions and Rising Oil Prices Amid Gulf Attacks",
-      "description": "Renewed strikes in Saudi Arabia and on ships in the Gulf heightened Middle East tensions on Sunday, posing threats to global energy supplies. The Houthis advanced in Yemen, capturing strategic areas, while oil prices surged, raising concerns over global supply chains. Diplomatic efforts falter with postponed talks in Oman.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3976612-middle-east-tensions-and-rising-oil-prices-amid-gulf-attacks",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/27_06_2019_18_00_51_6514463.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-13T20:16:31Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil prices jump following attack on key Saudi pipeline last week",
-      "description": "Sept. 13 (UPI) -- Crude oil prices jumped Sunday after Saudi Arabia shuttered its vital pipeline that bypasses the Strait of Hormuz. The Saudi government",
-      "url": "https://www.breitbart.com/news/oil-prices-jump-following-attack-on-key-saudi-pipeline-last-week/",
-      "image": "https://media.breitbart.com/media/2026/02/wi/upi/consumer-inflation-slowed-january-declining-energy-costs-consumer-inflation-slowed-january-declining.jpg",
-      "publishedAt": "2026-09-13T19:19:36Z",
-      "source": {
-        "name": "Breitbart News Network"
+        "name": "Lokmat Times"
       }
     }
   ]
