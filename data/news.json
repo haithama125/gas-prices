@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-14T21:10:11+00:00",
+  "updated_at": "2026-09-15T02:27:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Higher crude prices lift Swiss import costs",
-      "description": "Higher global crude oil prices drove up Swiss production and import prices in August, with food products seeing a notable increase.",
-      "url": "https://www.swissinfo.ch/eng/workplace/higher-crude-prices-lift-swiss-import-costs/92053264",
-      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/09/42ffe0ab1f2c14be51f65880d8a1f8aaa18870f0-92053078.jpg?ver=f1bf7280&fit=1200,900",
-      "publishedAt": "2026-09-14T09:09:05Z",
+      "title": "Gulf Tensions Escalate: Oil Prices Surge Amid Renewed Middle East Conflict",
+      "description": "Tensions in the Gulf region have intensified with Iran and the Gulf states postponing a critical meeting due to escalating attacks by Yemen's Houthis on Saudi Arabia. The attacks have led to a surge in global oil prices and raised geopolitical challenges for the U.S., which is balancing support for Saudi allies and a desire to avoid new conflicts.",
+      "url": "https://www.devdiscourse.com/article/politics/3977044-gulf-tensions-escalate-oil-prices-surge-amid-renewed-middle-east-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/12_05_2026_19_39_24_9634094.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-14T14:23:20Z",
       "source": {
-        "name": "Swissinfo (EN)"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "It\u2019s official! Hyundai\u2019s new mid size SUV to be called Bayon",
-      "description": "The Bayon is expected to get the Creta\u2019s 115hp 1.5-litre 4-cylinder naturally aspirated petrol engine with 6-speed manual and CVT options.",
-      "url": "https://www.businesstoday.in/auto/story/its-official-hyundais-new-mid-size-suv-to-be-called-bayon-555409-2026-09-14",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa7b4abad9d5-bayon-suv-is-slated-to-be-launched-during-the-festive-season-144738238-16x9.jpg",
-      "publishedAt": "2026-09-14T08:49:56Z",
+      "title": "Nasdaq slides 1% as AI safety concerns, oil price surge hit markets",
+      "description": "Wall Street started the week on a weak note as technology stocks fell amid growing concerns over AI safety, while a sharp rise in oil prices added to investor worries.",
+      "url": "https://www.indiatoday.in/business/story/nasdaq-slides-1-as-ai-safety-concerns-oil-price-surge-hit-markets-2994465-2026-09-14",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/wall-street-14140622-16x9_0.jpg?VersionId=zNsqtzeO31OOTy4KdiFgygiE3WVCMg08",
+      "publishedAt": "2026-09-14T14:17:51Z",
       "source": {
-        "name": "Business Today"
+        "name": "India Today"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.plymouthherald.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/article11155273.ece/ALTERNATES/s1200d/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Stock Market Today: AI Doomsday Fears Add to Stress From Oil Prices, Rates",
+      "description": "Investors are already worried about oil, inflation, and interest rates. Now, top execs want to pump the brakes on the market's hottest trade.",
+      "url": "https://www.businessinsider.com/stock-market-today-ai-doomsday-oil-prices-interest-rate-hike-2026-9",
+      "image": "https://i.insider.com/6aa7f8d5ec15fe2d3cf16ecf?width=1200&format=jpeg",
+      "publishedAt": "2026-09-14T14:15:36Z",
       "source": {
-        "name": "Plymouth Live"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.kentlive.news/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Bond market shock: 10-year US Treasury yield tops 5% as oil spike puts Federal Reserve on rate-hike path",
+      "description": "US bond yields climbed significantly on Monday, surpassing 5%. Crude oil prices jumped, reviving inflation concerns among investors. This surge pushed markets to anticipate another Federal Reserve interest rate hike. Resilient economic growth and government borrowing also contributed to rising yields. Investors now await the Fed's policy decision on Wednesday.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/bond-market-shock-10-year-us-yield-tops-5-as-oil-at-108-puts-fed-on-rate-hike-path/articleshow/134242764.cms",
+      "image": "https://img.etimg.com/thumb/msid-134242799,width-1200,height-630,imgsize-218964,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-14T14:15:00Z",
       "source": {
-        "name": "Kentlive"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.grimsbytelegraph.co.uk/news/cost-of-living/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "10-year Treasury yield nears 5% ahead of Fed decision",
+      "description": "As the Federal Reserve meeting approaches, Treasury yields are nearing the five percent mark. A notable rise in consumer prices for August has significantly heightened expectations for a rate hike. With traders estimating an eighty-nine percent probability for an increase this week, inflation worries are further intensified by soaring oil prices and a robust jobs report. Meanwhile, the Treasury plans to auction thirteen billion dollars in twenty-year bonds on Tuesday.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/10-year-treasury-yield-nears-5-ahead-of-fed-decision/articleshow/134242764.cms",
+      "image": "https://img.etimg.com/thumb/msid-134242799,width-1200,height-630,imgsize-218964,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-14T14:15:00Z",
       "source": {
-        "name": "Grimsby Telegraph"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.bristolpost.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "AI stocks drop on calls for a global slowdown as Brent oil's price hits $109",
+      "description": "AI stocks are sliding worldwide after leaders of the industry warned a slowdown is needed for safety, while another jump in oil prices is pressuring financial markets. The S&P 500 fell 0.6% Monday. Many more tech stocks are in the Nasdaq composite, and it sank 0.8% after the CEO of Anthropic called for a global slowdown in the development of AI. The Dow Jones Industrial Average dropped 147 points. The losses for AI stocks overshadowed gains for oil producers as Brent crude's price rose roughly 4%. Software stocks also recovered some losses taken on worries AI would upend their businesses.",
+      "url": "https://www.ajc.com/news/2026/09/tech-stocks-drop-on-warnings-about-ai-as-brent-oils-price-hits-109/",
+      "image": "https://images.ajc.com/resizer/v2/QJUET4UPCFBUHJPO7NWT5ELHZU.jpg?auth=cbad03c24283a8bcf09408bd1804098078fb6ee353c3184b8307feffd6b110fe&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-14T14:11:33Z",
       "source": {
-        "name": "Bristol Post"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.gloucestershirelive.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Oil surges on report Saudi pipeline will take weeks to reopen",
+      "description": "Oil prices surge towards $110 amid reports of a prolonged Saudi pipeline outage, impacting global supply and market stability.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/oil-surges-on-report-saudi-pipeline-will-take-weeks-to-reopen/article71466154.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/1knwuu/article71459275.ece/alternates/LANDSCAPE_1200/2026-09-11T095921Z_322715747_RC2XGNA2B7KZ_RTRMADP_3_IRAN-CRISIS-SAUDI-PIPELINE-SATELLITE.JPG",
+      "publishedAt": "2026-09-14T14:00:44Z",
       "source": {
-        "name": "Gloucestershire Live"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.essexlive.news/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Petrol drivers slapped with 5p per litre price hikes in September",
+      "description": "A warning has been issued by the RAC for road users in Birmingham and beyond.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/petrol-drivers-slapped-5p-per-34591107",
+      "image": "https://i2-prod.birminghammail.co.uk/article34591122.ece/ALTERNATES/s1200d/0_fuel.jpg",
+      "publishedAt": "2026-09-14T14:00:00Z",
       "source": {
-        "name": "Essexlive"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.hulldailymail.co.uk/news/cost-of-living/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Tech Stocks Drop On Warnings About AI As Brent Oil's Price Hits $109",
+      "description": "Technology stocks are sliding worldwide after leaders of the AI industry warned a slowdown is needed for safety, while another jump in oil prices is pressuring financial markets.",
+      "url": "https://www.huffpost.com/entry/ap-financial-markets-ai-brent-oil_n_6aa7fc4de4b0298845cd3937",
+      "image": "https://img.huffingtonpost.com/asset/6aa7fcef170000ce39201515.jpeg?cache=BHVnHuz15p&ops=1200_630",
+      "publishedAt": "2026-09-14T13:59:42Z",
       "source": {
-        "name": "Hull Daily Mail"
+        "name": "HuffPost"
       }
     },
     {
-      "title": "Most young learner drivers now say their first car will be electric",
-      "description": "Drivers could save hundreds of pounds by charging at home rather than filling up at a petrol station",
-      "url": "https://www.somersetlive.co.uk/news/motoring/most-young-learner-drivers-now-11155269",
-      "image": "https://i2-prod.plymouthherald.co.uk/news/uk-world-news/article11155273.ece/ALTERNATES/s1200/0_GettyImages-2234845933-2.jpg",
-      "publishedAt": "2026-09-14T08:32:30Z",
+      "title": "Gold falls to over one-month low as oil rally, inflation data boost rate hike bets",
+      "description": "BENGALURU \u2014 Gold fell to a more than one-month low on Monday, as a rally in oil prices and stronger-than-expected inflation data on Friday bolstered expectations of a rate hike at \u200bthe United States Federal Reserve's (Fed) \u2060policy meeting this week.",
+      "url": "https://www.bangkokpost.com/business/investment/3319479/gold-falls-to-over-onemonth-low-as-oil-rally-inflation-data-boost-rate-hike-bets",
+      "image": "https://static.bangkokpost.com/media/content/20260914/c1_3319479_700.jpg",
+      "publishedAt": "2026-09-14T13:54:00Z",
       "source": {
-        "name": "Somerset Live"
+        "name": "Bangkok Post"
       }
     }
   ]
