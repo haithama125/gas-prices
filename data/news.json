@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-15T10:40:47+00:00",
+  "updated_at": "2026-09-15T15:53:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Tensions Escalate in the Middle East as Yemen's Conflict Resurges",
-      "description": "Yemen's Iran-aligned Houthis launched a new attack on Saudi Arabia, escalating Middle East tensions and impacting global oil supplies. Missile and drone strikes targeted military airbases in retaliation for Saudi strikes. Saudi-led coalition battles Houthis as U.S. President Trump faces pressure to intervene while global oil prices fluctuate amid diplomatic stagnation.",
-      "url": "https://www.devdiscourse.com/article/law-order/3977183-tensions-escalate-in-the-middle-east-as-yemens-conflict-resurges",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_06_2024_21_27_13_7271003.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-14T22:01:34Z",
+      "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says",
+      "description": "Sept 15 (Reuters) - A drone hit \u2060a petrol station in Ukraine's capital of Kyiv early on Tuesday, Mayor\u00a0Vitali \u2060Klitschko said, just a day after\u00a0U.S. President Donald Trump said Ukraine and \u200cRussia had agreed not to target each other's energy assets.",
+      "url": "https://www.thestar.com.my/news/world/2026/09/15/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/15/4111069.jpg",
+      "publishedAt": "2026-09-15T03:41:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Russia hits petrol station, warehouse facilities in Kyiv, mayor says",
+      "description": "Sept 15 - A drone hit a petrol station in Ukraine's capital of Kyiv early on Tuesday, Mayor\u00a0Vitali Klitschko said on the Telegram messaging app, adding that there was also a strike on warehouse facilities in another part of the city. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4e77bf2f50f582021268b732c0c75bc468d09bd4549f5672fd2ca6140ad0dada",
+      "publishedAt": "2026-09-15T03:36:46Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "Russia hits petrol station, warehouse facilities in Kyiv, Mayor says",
+      "description": "Russia targets petrol stations and warehouses in Kyiv amid ongoing conflict, escalating attacks on critical infrastructure.",
+      "url": "https://www.thehindu.com/news/international/russia-hits-petrol-station-warehouse-facilities-in-kyiv-mayor-says/article71466640.ece",
+      "image": "https://th-i.thgim.com/public/incoming/3qhvfv/article71466643.ece/alternates/LANDSCAPE_1200/2025-05-02T101342Z_1249336912_RC2G47AG34GS_RTRMADP_3_UKRAINE-CRISIS-CONCESSIONS.JPG",
+      "publishedAt": "2026-09-15T03:32:06Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Escalating Tensions: Kyiv and Moscow's Energy Warfare",
+      "description": "Drones hit a Kyiv petrol station, marking an escalation in Russian attacks on Ukrainian energy sites. The strike followed U.S. President Trump's statement on an energy ceasefire. Meanwhile, Polish military operations intensify amid rising regional tensions. Russia also faced strikes on its facilities, complicating ongoing conflict dynamics.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3977245-escalating-tensions-kyiv-and-moscows-energy-warfare",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/21_09_2025_18_02_31_8046578.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-15T03:24:18Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Fighting fossil-fuel inflation with ECB rate hikes punishes renewables, research finds",
-      "description": "Every 10-percent rise in oil and gas prices increases overall inflation by 0.35 percentage points. The European Central Bank's rate hikes risk making it worse by making renewable investments more expensive, finds the London-based research institute New Economics Foundation.",
-      "url": "https://euobserver.com/237215/fossil-fuels-drive-eu-inflation-and-the-ecb-is-fighting-it-with-the-wrong-tool-research-finds/",
-      "image": "https://static.euobserver.com/2025/05/eb23f9cc-8d57-48c6-a249-5ed108ab4a3c-17d1f567-f0e9-4425-916a-2d7392cddd8e-c27daebc-3ebd-4f94-b439-8fc7f327d2d2.jpeg",
-      "publishedAt": "2026-09-14T22:01:00Z",
+      "title": "Bitcoin, XRP, SOL drop as Senate Clarity Act vote nears",
+      "description": "Bitcoin retreats as a Senate vote on the Clarity Act nears, while rising oil prices and hawkish Fed expectations weigh on crypto markets.",
+      "url": "https://www.coindesk.com/markets/2026/09/15/bitcoin-slips-to-usd77-800-as-senate-clarity-act-vote-nears-and-oil-prices-climb",
+      "image": "https://cdn.sanity.io/images/s3y3vcno/production/3c2cec85b0ff164779a92237b9e4d66cfaac9e49-2191x1176.png?auto=format&fit=crop&crop=focalpoint&w=1920&h=1080&q=75",
+      "publishedAt": "2026-09-15T03:23:28Z",
       "source": {
-        "name": "EUobserver"
+        "name": "CoinDesk"
       }
     },
     {
-      "title": "Guyana's Oil Revenues to Surge by 2026",
-      "description": "Guyana's government anticipates oil revenues, including sales and royalties, to reach $6.5 billion by 2026, a significant increase from the prior $2.7 billion estimate. Additionally, the country's oil exports are expected to hit $27.3 billion this year, influenced by geopolitical tensions affecting oil prices.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3977180-guyanas-oil-revenues-to-surge-by-2026",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/27_06_2024_05_55_47_2459345.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-14T21:50:05Z",
+      "title": "Stock Market Live Updates Today: D",
+      "description": "Asian shares remained under pressure as investors assessed escalating Middle East tensions, higher oil prices and elevated bond yields ahead of key c",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-15-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134250928.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134250928,width-1280,height-720,imgsize-1204293,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-15T03:13:10Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Must-Win GOP Senator\u2019s \u2018Presidential Level\u2019 Private Flights Exposed",
-      "description": "And this senator has just been asking for money to help with gas prices, our must-read newsletter The Swamp reveals.",
-      "url": "https://www.thedailybeast.com/must-win-gop-senator-susan-collins-presidential-level-private-jet-flights-exposed/",
-      "image": "https://www.thedailybeast.com/resizer/v2/GRDULJXEAZCL7OII7ERNWZJV5Q.jpg?smart=true&auth=0dc971a2373c826d41f10d35682a3e9c98072a58d3306fec2504389f0d062b46&width=1200&height=630",
-      "publishedAt": "2026-09-14T21:41:58Z",
+      "title": "Asian shares trade mixed as markets continue to watch AI stocks and oil prices",
+      "description": "Asian shares are trading mixed after artificial-intelligence stocks slid overnight. Benchmarks rose in early Tuesday trading in Tokyo and Shanghai, but fell in Sydney and Hong Kong, while being little changed in Seoul. The markets are closely watching AI stocks after leaders of the industry warned a slowdown is needed for the safety of humanity. Gains for many stocks outside AI helped limit Wall Street\u2019s losses. The S&P 500 fell 0.5%. The Dow Jones Industrial Average dipped 0.3%, and the Nasdaq composite lost 0.6%. Oil prices have continued to climb as fighting in the Middle East keeps squeezing the global flow of crude.",
+      "url": "https://www.ajc.com/news/2026/09/asian-shares-trade-mixed-as-markets-continue-to-watch-ai-stocks-and-oil-prices/",
+      "image": "https://images.ajc.com/resizer/v2/2ZA3ORDIUJH7HG2TFOU2575264.jpg?auth=94342161b9c8601a6ca9c6c5821be82b800672eca5311e690367862e58a9cf4e&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-15T03:03:32Z",
       "source": {
-        "name": "The Daily Beast"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Houthi Advance, Trump\u2019s Take Set Oil on a Roil",
-      "description": "Oil prices rose more than 3% on Monday, after new strikes on Saudi Arabian infrastructure and attacks on ships in West Asia, before moderating on US President Donald Trumps remarks on Iran seeking a deal, and Ukraine and Russia agreeing not to hit energy targets.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/sep/15/et-front/houthi-advancetrumps-take-set-oil-on-a-roil/articleshow/134247877.cms",
-      "image": "https://img.etimg.com/thumb/msid-134249298,width-1200,height-630,imgsize-284312,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-14T21:34:00Z",
+      "title": "Asian shares trade mixed as markets continue to watch AI stocks and oil prices",
+      "description": "Asian shares are trading mixed after artificial-intelligence stocks slid overnight. Benchmarks rose in early Tuesday trading in Tokyo and Shanghai, but fell in Sydney and Hong Kong, while being little...",
+      "url": "https://www.sfgate.com/news/world/article/asian-shares-trade-mixed-as-markets-continue-to-22432237.php",
+      "image": "https://s.hdnux.com/photos/01/67/26/05/31285623/3/rawImage.jpg",
+      "publishedAt": "2026-09-15T02:58:57Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "SFGATE"
       }
     },
     {
-      "title": "Houthi Advance, Trump\u2019s Take Set Oil on a Roil",
-      "description": "Oil prices rose more than 3% on Monday, after new strikes on Saudi Arabian infrastructure and attacks on ships in West Asia, before moderating on US President Donald Trumps remarks on Iran seeking a deal, and Ukraine and Russia agreeing not to hit energy targets.",
-      "url": "https://economictimes.indiatimes.com/et-front/houthi-advancetrumps-take-set-oil-on-a-roil/articleshow/134247877.cms",
-      "image": "https://img.etimg.com/thumb/msid-134249298,width-1200,height-630,imgsize-284312,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-14T21:34:00Z",
+      "title": "Asian shares trade mixed as markets continue to watch AI stocks and oil prices",
+      "description": "Asian shares are trading mixed after artificial-intelligence stocks slid overnight.",
+      "url": "https://www.clickondetroit.com/news/2026/09/15/asian-shares-trade-mixed-as-markets-continue-to-watch-ai-stocks-and-oil-prices/",
+      "image": "https://res.cloudinary.com/graham-media-group/image/upload/c_thumb,q_auto,f_auto,w_700/media/gmg/PIKGIMYTUJAPXBC4GR62FCDVNY.jpg",
+      "publishedAt": "2026-09-15T02:58:57Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Costco hikes motor oil prices and puts limits on how much members can buy",
-      "description": "Costco is limiting sales of its house brand motor oil to two units per customer per week amid rising oil prices.",
-      "url": "https://www.cnbc.com/2026/09/14/costco-motor-oil-price-limited.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108361424-1789068148251-gettyimages-2292918264-US_GAS_STATIONS.jpeg?v=1789146212&w=1920&h=1080",
-      "publishedAt": "2026-09-14T21:29:39Z",
+      "title": "Dollar Climbs Amid Geopolitical Tensions and AI Concerns",
+      "description": "The U.S. dollar reached its highest point in two weeks on Monday, driven by escalating conflicts in the Middle East and rising oil prices, which led investors",
+      "url": "https://www.europesays.com/3251759/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1789439989.jpeg",
+      "publishedAt": "2026-09-15T02:39:46Z",
       "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Costco hikes motor oil prices and puts limits on how much members can buy",
-      "description": "Wholesale retailer Costco has limited member purchases of motor oil to two units per week and raised the price. Oil prices have risen amid ongoing conflict",
-      "url": "https://www.newsbreak.com/news/4886011976028-costco-hikes-motor-oil-prices-and-puts-limits-on-how-much-members-can-buy",
-      "image": "https://img.particlenews.com/img/id/11InNr_1F9FgJmF00",
-      "publishedAt": "2026-09-14T21:29:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Oil Prices Surge Amidst Global Market Downturn",
-      "description": "Global stock markets fell on Monday due to rising oil prices, government bond yields, and caution ahead of central bank meetings. Technology and industrial stocks significantly declined. Concerns over AI development were highlighted, reflecting apprehensions from leaders such as Elon Musk and Sam Altman. Brent oil futures surged as geopolitical tensions impacted supply.",
-      "url": "https://www.devdiscourse.com/article/business/3977171-oil-prices-surge-amidst-global-market-downturn",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/07_06_2024_07_59_57_0674742.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-14T21:16:59Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Fresh Houthi Strikes Inject New Uncertainty Into Iran War",
-      "description": "As oil prices rise, planned regional talks hit a snag.",
-      "url": "https://foreignpolicy.com/2026/09/14/houthi-strikes-yemen-red-sea-saudi-arabia-iran-east-west-oil-pipeline/",
-      "image": "https://foreignpolicy.com/wp-content/uploads/2026/09/HouthisIran-GettyImages-2294750791.jpg",
-      "publishedAt": "2026-09-14T21:11:14Z",
-      "source": {
-        "name": "Foreign Policy"
+        "name": "EUROPE SAYS"
       }
     }
   ]
