@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-16T02:21:12+00:00",
+  "updated_at": "2026-09-16T10:29:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Market Woes: Oil Surges and AI Concerns Weigh Down Wall Street",
-      "description": "Wall Street's indexes slipped due to rising oil prices, high Treasury yields, and uncertainty in AI demand. While some tech stocks like Nvidia rose, others declined amidst calls to slow AI development. The Federal Reserve is expected to raise interest rates, while oil prices spike amid Middle East tensions.",
-      "url": "https://www.devdiscourse.com/article/business/3977497-market-woes-oil-surges-and-ai-concerns-weigh-down-wall-street",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_06_23_48_5901039.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-15T14:14:22Z",
+      "title": "Houthis are the world's biggest new threat to global oil supply",
+      "description": "Iran-backed Houthi rebels have seized a key shipping strait and attacked a Saudi pipeline, sending oil prices to $108 a barrel amid Gulf infighting.",
+      "url": "https://nypost.com/2026/09/15/world-news/houthis-are-the-worlds-biggest-new-threat-to-global-oil-supply-and-us-ally-infighting-is-to-blame/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141237456.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-15T22:16:14Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Markets live: ASX to recover from three-month low, surging oil prices drag Wall Street lower",
+      "description": "The Australian share market is likely to rise slightly and bounce back from its three-month low. Wall Street extended its sell-off as oil prices spiked on further signs of disruption in Saudi Arabian crude supplies. Follow live.",
+      "url": "https://www.abc.net.au/news/2026-09-16/asx-markets-business-live-news/107157842",
+      "image": "https://live-production.wcms.abc-cdn.net.au/45c0d418253e25a4f5d3b74482e5844d?impolicy=wcms_watermark_news&cropH=592&cropW=1053&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-15T21:45:31Z",
+      "source": {
+        "name": "ABC (Australian Broadcasting Corporation)"
+      }
+    },
+    {
+      "title": "Escalating Tensions: Saudi Arabia Under Siege Amid Middle East Conflict",
+      "description": "Saudi Arabia issued security alerts amidst attacks from Iran-aligned fighters, affecting key regions including Mecca and Jeddah. The conflict, involving the Houthis' control over Yemen's Red Sea coast, threatens global oil supplies and intensifies the geopolitical tension in the Middle East, impacting oil prices and energy security worldwide.",
+      "url": "https://www.devdiscourse.com/article/science-environment/3977663-escalating-tensions-saudi-arabia-under-siege-amid-middle-east-conflict",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/08_06_2024_12_28_15_8678785.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-15T21:42:22Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Rupee falls 0.42% to 95.96, posts sharpest decline since July 14",
-      "description": "The domestic currency extended its losing streak to five sessions as rising crude oil prices, global bond yields and strong dollar demand weighed on the rupee",
-      "url": "https://www.business-standard.com/economy/news/rupee-falls-0-42-to-95-96-posts-sharpest-decline-since-july-14-126091501106_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/25/thumb/fitandfill/1200X628/1645733834-1829.jpg",
-      "publishedAt": "2026-09-15T14:09:55Z",
+      "title": "Investors see surge in US Treasuries emerging as new market risk",
+      "description": "Analysts say higher oil prices, inflation pressure and increased spending are drivers in bonds",
+      "url": "https://www.thenationalnews.com/business/markets/2026/09/15/investors-see-surge-in-us-treasuries-emerging-as-new-market-risk/",
+      "image": "https://www.thenationalnews.com/resizer/v2/QD6LAKIADSJXTC6PU7QRK6WHQE.jpg?auth=f9c23fbbe36897b6582e6ca485116aa6bcbb8f276da1073ef343db3279b01831&smart=true&width=1200&height=630",
+      "publishedAt": "2026-09-15T21:06:49Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The National"
       }
     },
     {
-      "title": "Gas prices are up $1.33 over the last year in Northeast Ohio",
-      "description": "Northeast Ohio gas prices surged 28 cents to $4.228 per gallon, driven by crude oil topping $100 per barrel amid Strait of Hormuz volatility.",
-      "url": "https://www.cleveland.com/news/2026/09/gas-prices-are-up-133-over-the-last-year-in-northeast-ohio.html",
-      "image": "https://www.cleveland.com/resizer/v2/B2LAMIBGTZCTVFYWAIXZQQJ3PM.jpg?auth=7ea8722dd02d9dcaef4ee11da41a2c623d55ddc2a5b389c7282b6d9d7a4e9802&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-15T13:58:22Z",
+      "title": "Forum: Time to strip back opaque petrol pricing and mandate net display",
+      "description": "Transparent net pricing would foster genuine, keener price competition among petrol brands, says the writer. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/opinion/forum/forum-time-to-strip-back-opaque-petrol-pricing-and-mandate-net-display",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb28fe811008a878ec9021dab8ef9b29c525358a39d9f40b992e38b3dfd4f137",
+      "publishedAt": "2026-09-15T21:00:00Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Wall Street drops as oil prices, Treasury yields rise",
-      "description": "The Dow Jones Industrial Average fell 0.23%, the S&P 500 fell 0.10%, the Nasdaq Composite dropped 0.18%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-drops-as-oil-prices-treasury-yields-rise-11789479701198.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/wallstreet4_1789479989154_BJH8_1789480005494_ALm4_ebeb11b9-8bbb-4622-ab4a-d847b4b08698_igIC.jpg",
-      "publishedAt": "2026-09-15T13:55:23Z",
+      "title": "Cost of filling family car with fuel rises by almost \u00a35 since start of September",
+      "description": "Earlier this month, oil prices rose above 100 dollars a barrel for the first time since July after the latest round of strikes in the Iran war",
+      "url": "https://www.lbc.co.uk/article/cost-fuel-rises-iran-war-5HjdhWX_2/",
+      "image": "https://images.globalplayer.com/images/842216?crop=16_9&width=1200&signature=wD-gMy6NgxybDOxF5sBBomiOuYA=",
+      "publishedAt": "2026-09-15T20:53:48Z",
       "source": {
-        "name": "Livemint"
+        "name": "LBC"
       }
     },
     {
-      "title": "Why are US stocks falling today? Oil, 5% Treasury yields and AI fears hit Wall Street",
-      "description": "US stocks fall as oil prices rise, Treasury yields cross 5% and AI fears grow, while investors brace for a possible Fed rate hike.\u00a0 | Business News",
-      "url": "https://www.hindustantimes.com/business/why-are-us-stocks-falling-today-oil-5-treasury-yields-and-ai-fears-hit-wall-street-101789478283296.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/pexels-photo-10653886_1788345065827_1788345077634_6a0f9792-c73e-400b-aecb-9094681cdbd3_1789478445447_LIEg_ced22dd2-9ec1-45e1-b011-cadae8db2f3a_29wt.jpeg",
-      "publishedAt": "2026-09-15T13:51:15Z",
+      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Support; How Will Bonds React To Fed Rate Hike, Outlook?",
+      "description": "Dow Jones futures: The S&P 500 and Nasdaq undercut 50-day lines as oil prices and Treasury yields jumped. How will bonds react to the Fed?",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/",
+      "image": "https://www.investors.com/wp-content/uploads/2018/04/stock-Federal-Reserve-06-adobe.jpg",
+      "publishedAt": "2026-09-15T20:52:49Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "US stocks today: Nasdaq, S&P 500 open lower as AI stocks hold steady; focus shifts to Fed rate decision",
-      "description": "US stocks were subdued on Tuesday as AI shares steadied after a global selloff, while rising oil prices and Treasury yields kept investors cautious. The Federal Reserve is widely expected to raise interest rates on Wednesday as the Iran conflict pushes energy prices higher and threatens to keep inflation elevated.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-open-lower-as-ai-stocks-hold-steady-focus-shifts-to-fed-rate-decision/articleshow/134265991.cms",
-      "image": "https://img.etimg.com/thumb/msid-134266043,width-1200,height-630,imgsize-163426,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-15T13:45:00Z",
+      "title": "Skyrocketing fuel prices spark protests around the globe",
+      "description": "By Lauren Kent, Hira Humayun, CNN (CNN) \u2014 Protesters are taking to the streets around the world to voice anger about skyrocketing fuel prices and rolling blackouts, as the war in Iran drives up the cost of energy. Oil prices climbed back above the $100 per barrel mark last week in the wake of further",
+      "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/15/skyrocketing-fuel-prices-spark-protests-around-the-globe/",
+      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXUyenZiY2IwMDA1M2I2cmRyczM0NTM5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTJ6dXA2ODAwNWoyOHAxNWs5ZDNrNjQ-860x573.jpg",
+      "publishedAt": "2026-09-15T20:42:43Z",
+      "source": {
+        "name": "ABC17News.com"
+      }
+    },
+    {
+      "title": "Stocks slip after oil prices and the bond market crank up the pressure",
+      "description": "The U.S. stock market slipped as oil prices and the bond market cranked up the pressure on Wall Street",
+      "url": "https://www.latimes.com/world-nation/story/2026-09-15/stocks-slip-after-oil-prices-bond-market-crank-up-pressure",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/2fa17cd/2147483647/strip/true/crop/5727x3007+0+406/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2F5c%2Fe1ba029a4b3ebc2d8427dc71b4a9%2F3049cdf414c240d7aefdcba679de3f94.jpg",
+      "publishedAt": "2026-09-15T20:19:07Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "US stocks today: US stocks end lower as oil, yields crank up pressure ahead of Fed rate move",
+      "description": "US stocks fell as rising oil prices and Treasury yields added pressure to markets ahead of the Federal Reserves expected rate hike. Brent crude climbed to $109.35 a barrel, while the 10-year Treasury yield crossed 5%, raising concerns over inflation, borrowing costs and stretched stock valuations.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-crank-up-pressure-ahead-of-fed-rate-move/articleshow/134272937.cms",
+      "image": "https://img.etimg.com/thumb/msid-134272942,width-1200,height-630,imgsize-163426,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-15T20:17:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Crude above $100 could widen OMC losses if retail fuel prices remain unchanged: Analysts",
-      "description": "As oil prices rise above $100/bbl, marketing margins of oil marketing companies for the coming quarters can come under pressure. Elevated oil prices in the near term could squeeze marketing margins of OMCs by as much as 28 per cent particularly on diesel from May levels and could prod a rethink on retail prices, analysts say.",
-      "url": "https://www.moneycontrol.com/news/business/economy/crude-above-100-could-widen-omc-losses-if-retail-fuel-prices-remain-unchanged-analysts-14030455.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2020/07/petroldieselpetrol-pumpfuel-station.jpg",
-      "publishedAt": "2026-09-15T13:33:06Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "China\u2019s Yuan Crude Oil Futures Jump to Record High",
-      "description": "China's yuan crude futures hit a record high this week as a Saudi pipeline attack and rising Chinese refiner demand push oil prices higher.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Yuan-Crude-Oil-Futures-Jump-to-Record-High.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_we8ai3hnxt.jpg",
-      "publishedAt": "2026-09-15T13:30:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Gurugram petrol pumps to get 249 cameras to detect old, end-of-life vehicles",
-      "description": "The cameras are part of the first phase of a project to install 775 ANPR cameras in four National Capital Region districts | India News",
-      "url": "https://www.hindustantimes.com/india-news/gurugram-petrol-pumps-to-get-249-cameras-to-detect-old-end-of-life-vehicles-101789477702609.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/Gurugram-will-receive-the-highest-number-of-camera_1789477696155_psKo.jpg",
-      "publishedAt": "2026-09-15T13:08:22Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Wall Street points to more losses as oil, bond yields rise",
-      "description": "AI stocks slid overnight on growing safety fears and oil prices continued to climb as fighting in the Middle East squeezes the flow of crude",
-      "url": "https://www.baltimoresun.com/2026/09/15/wall-street-oil-bond-yields/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_64463.jpg?w=2000&h=1333",
-      "publishedAt": "2026-09-15T13:03:49Z",
-      "source": {
-        "name": "Baltimore Sun"
       }
     }
   ]
