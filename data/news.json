@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-16T10:29:30+00:00",
+  "updated_at": "2026-09-16T15:45:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Houthis are the world's biggest new threat to global oil supply",
-      "description": "Iran-backed Houthi rebels have seized a key shipping strait and attacked a Saudi pipeline, sending oil prices to $108 a barrel amid Gulf infighting.",
-      "url": "https://nypost.com/2026/09/15/world-news/houthis-are-the-worlds-biggest-new-threat-to-global-oil-supply-and-us-ally-infighting-is-to-blame/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141237456.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-15T22:16:14Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Markets live: ASX to recover from three-month low, surging oil prices drag Wall Street lower",
-      "description": "The Australian share market is likely to rise slightly and bounce back from its three-month low. Wall Street extended its sell-off as oil prices spiked on further signs of disruption in Saudi Arabian crude supplies. Follow live.",
-      "url": "https://www.abc.net.au/news/2026-09-16/asx-markets-business-live-news/107157842",
-      "image": "https://live-production.wcms.abc-cdn.net.au/45c0d418253e25a4f5d3b74482e5844d?impolicy=wcms_watermark_news&cropH=592&cropW=1053&xPos=0&yPos=0&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-15T21:45:31Z",
-      "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
-      }
-    },
-    {
-      "title": "Escalating Tensions: Saudi Arabia Under Siege Amid Middle East Conflict",
-      "description": "Saudi Arabia issued security alerts amidst attacks from Iran-aligned fighters, affecting key regions including Mecca and Jeddah. The conflict, involving the Houthis' control over Yemen's Red Sea coast, threatens global oil supplies and intensifies the geopolitical tension in the Middle East, impacting oil prices and energy security worldwide.",
-      "url": "https://www.devdiscourse.com/article/science-environment/3977663-escalating-tensions-saudi-arabia-under-siege-amid-middle-east-conflict",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/08_06_2024_12_28_15_8678785.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-15T21:42:22Z",
+      "title": "Markets Hold Steady Amid Fed Policy Speculations",
+      "description": "Asian stocks held steady on Wednesday as global bond yields and oil prices stalled, awaiting the Federal Reserve's policy decision. Analysts expect a 25 basis-point rate hike. Despite U.S. requests for lower rates, traders predict a hike. Markets are cautious amid fluctuating Treasury yields and unsettled oil prices.",
+      "url": "https://www.devdiscourse.com/article/business/3977734-markets-hold-steady-amid-fed-policy-speculations",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/20_06_2024_06_49_50_537118.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-16T03:34:27Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "Investors see surge in US Treasuries emerging as new market risk",
-      "description": "Analysts say higher oil prices, inflation pressure and increased spending are drivers in bonds",
-      "url": "https://www.thenationalnews.com/business/markets/2026/09/15/investors-see-surge-in-us-treasuries-emerging-as-new-market-risk/",
-      "image": "https://www.thenationalnews.com/resizer/v2/QD6LAKIADSJXTC6PU7QRK6WHQE.jpg?auth=f9c23fbbe36897b6582e6ca485116aa6bcbb8f276da1073ef343db3279b01831&smart=true&width=1200&height=630",
-      "publishedAt": "2026-09-15T21:06:49Z",
+      "title": "Saudi crown prince seeks Egypt's backing as Houthi attacks rattle Red Sea oil routes",
+      "description": "Saudi Arabia's crown prince sought backing Tuesday from the president of Egypt, his ally across the Red Sea, as the kingdom faces increased attacks by Yemen's Houthi rebels on Saudi shipping and infrastructure that have helped drive a surge in global oil prices.",
+      "url": "https://www.greaterkashmir.com/world/saudi-crown-prince-seeks-egypts-backing-as-houthi-attacks-rattle-red-sea-oil-routes-12538745",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/04/23/mbs-2026-04-23-11-56-35.jpg",
+      "publishedAt": "2026-09-16T03:23:39Z",
       "source": {
-        "name": "The National"
+        "name": "Greater Kashmir"
       }
     },
     {
-      "title": "Forum: Time to strip back opaque petrol pricing and mandate net display",
-      "description": "Transparent net pricing would foster genuine, keener price competition among petrol brands, says the writer. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/opinion/forum/forum-time-to-strip-back-opaque-petrol-pricing-and-mandate-net-display",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb28fe811008a878ec9021dab8ef9b29c525358a39d9f40b992e38b3dfd4f137",
-      "publishedAt": "2026-09-15T21:00:00Z",
+      "title": "Petrol and diesel prices today, Sept 16: How much does fuel cost in Delhi, Mumbai, Bengaluru? Check here",
+      "description": "In Mumbai, petrol price stands at \u20b9111.21 per litre today. No change has been recorded in petrol prices compared to yesterday.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-sept-16-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-check-here-11789524764564.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/3-0-20247848-petrol-pump--6--0_1679824070966_1789528358160_Hi63_95437498-dd04-4d04-aa31-b9effaf9fa47_5d9X.jpg",
+      "publishedAt": "2026-09-16T03:13:24Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Cost of filling family car with fuel rises by almost \u00a35 since start of September",
-      "description": "Earlier this month, oil prices rose above 100 dollars a barrel for the first time since July after the latest round of strikes in the Iran war",
-      "url": "https://www.lbc.co.uk/article/cost-fuel-rises-iran-war-5HjdhWX_2/",
-      "image": "https://images.globalplayer.com/images/842216?crop=16_9&width=1200&signature=wD-gMy6NgxybDOxF5sBBomiOuYA=",
-      "publishedAt": "2026-09-15T20:53:48Z",
+      "title": "Japan records a trade deficit for 4th month as oil imports soar",
+      "description": "TOKYO (AP) \u2014 Japan\u2019s trade deficit totaled 1.1 trillion yen ($7 billion) last month as surging oil prices due to the conflicts in the Middle East sent the cost",
+      "url": "https://wtop.com/world/2026/09/japan-records-a-trade-deficit-for-4th-month-as-oil-imports-soar/",
+      "image": "https://wtop.com/wp-content/uploads/2026/09/Japan_Trade_63556-scaled.jpg",
+      "publishedAt": "2026-09-16T03:04:02Z",
       "source": {
-        "name": "LBC"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Dow Jones Futures: S&P 500, Nasdaq Break Support; How Will Bonds React To Fed Rate Hike, Outlook?",
-      "description": "Dow Jones futures: The S&P 500 and Nasdaq undercut 50-day lines as oil prices and Treasury yields jumped. How will bonds react to the Fed?",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-nasdaq-how-will-bonds-react-to-fed-rate-hike/",
-      "image": "https://www.investors.com/wp-content/uploads/2018/04/stock-Federal-Reserve-06-adobe.jpg",
-      "publishedAt": "2026-09-15T20:52:49Z",
+      "title": "Japan records a trade deficit for 4th month as oil imports soar",
+      "description": "Japan\u2019s trade deficit totaled $7 billion last month, as surging oil prices sent the cost of imports soaring. The Finance Ministry\u2019s preliminary data released Wednesday showed the fourth straight month of such red ink. Resource-poor Japan imports virtually all its oil. Previously that came mostly through the Strait of Hormuz, which remains effectively closed due to conflicts in the Middle East. Japan\u2019s imports in August rose 28% from the same month a year ago to $71.9 billion. Exports rose 19.3% to $64.5 billion, mainly in computer chips and autos.",
+      "url": "https://www.ajc.com/news/2026/09/japan-records-a-trade-deficit-for-4th-month-as-oil-imports-soar/",
+      "image": "https://images.ajc.com/resizer/v2/2XJNPL2EUVEATMP4NBR66NRSSQ.jpg?auth=5ee33ff7936e035369ab68ec4c6df4ae8fd848d19356dc12aa3937f24b2b1b29&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-16T02:52:45Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Skyrocketing fuel prices spark protests around the globe",
-      "description": "By Lauren Kent, Hira Humayun, CNN (CNN) \u2014 Protesters are taking to the streets around the world to voice anger about skyrocketing fuel prices and rolling blackouts, as the war in Iran drives up the cost of energy. Oil prices climbed back above the $100 per barrel mark last week in the wake of further",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/09/15/skyrocketing-fuel-prices-spark-protests-around-the-globe/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/09/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXUyenZiY2IwMDA1M2I2cmRyczM0NTM5-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdTJ6dXA2ODAwNWoyOHAxNWs5ZDNrNjQ-860x573.jpg",
-      "publishedAt": "2026-09-15T20:42:43Z",
+      "title": "Japan records a trade deficit for 4th month as oil imports soar",
+      "description": "Japan\u2019s trade deficit totaled $7 billion last month, as surging oil prices sent the cost of imports soaring. The Finance Ministry\u2019s preliminary data released Wednesday showed the fourth straight...",
+      "url": "https://www.sfgate.com/news/world/article/japan-records-a-trade-deficit-for-4th-month-as-22434034.php",
+      "image": "https://s.hdnux.com/photos/01/67/26/70/31288875/3/rawImage.jpg",
+      "publishedAt": "2026-09-16T02:46:49Z",
       "source": {
-        "name": "ABC17News.com"
+        "name": "SFGATE"
       }
     },
     {
-      "title": "Stocks slip after oil prices and the bond market crank up the pressure",
-      "description": "The U.S. stock market slipped as oil prices and the bond market cranked up the pressure on Wall Street",
-      "url": "https://www.latimes.com/world-nation/story/2026-09-15/stocks-slip-after-oil-prices-bond-market-crank-up-pressure",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/2fa17cd/2147483647/strip/true/crop/5727x3007+0+406/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F8e%2F5c%2Fe1ba029a4b3ebc2d8427dc71b4a9%2F3049cdf414c240d7aefdcba679de3f94.jpg",
-      "publishedAt": "2026-09-15T20:19:07Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "US stocks today: US stocks end lower as oil, yields crank up pressure ahead of Fed rate move",
-      "description": "US stocks fell as rising oil prices and Treasury yields added pressure to markets ahead of the Federal Reserves expected rate hike. Brent crude climbed to $109.35 a barrel, while the 10-year Treasury yield crossed 5%, raising concerns over inflation, borrowing costs and stretched stock valuations.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-end-lower-as-oil-yields-crank-up-pressure-ahead-of-fed-rate-move/articleshow/134272937.cms",
-      "image": "https://img.etimg.com/thumb/msid-134272942,width-1200,height-630,imgsize-163426,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-15T20:17:00Z",
+      "title": "Gold prices under pressure ahead of Fed rate decision",
+      "description": "On Wednesday, gold prices were uninspired as traders held their breath for the Federal Reserve's anticipated policy announcement. A widely expected interest rate hike is on the horizon, which typically diminishes the allure of non-yielding gold. Additionally, ongoing geopolitical issues in the Middle East and fluctuations in oil prices add layers of complexity to market sentiment. Traders are closely analyzing the Fed's rhetoric to divine potential market shifts.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-under-pressure-ahead-of-fed-rate-decision/articleshow/134276702.cms",
+      "image": "https://img.etimg.com/thumb/msid-134276723,width-1200,height-630,imgsize-736216,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-16T02:45:00Z",
       "source": {
         "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Asian markets make nervous start ahead of Fed decision",
+      "description": "SINGAPORE: Stocks made tentative gains at the start of the Asian trading session on Wednesday as a rise in global bond yields and oil prices paused ahead of the Federal Reserve's policy decision due later in the day.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/16/asian-markets-make-nervous-start-ahead-of-fed-decision",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/16/4112971.png",
+      "publishedAt": "2026-09-16T02:43:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Why a global fuel crisis led Australians to buy electric cars",
+      "description": "Rising oil prices helped push EV sales ahead of gas cars for the first time, even in a country that loves long road trips. Australian sales of electric...",
+      "url": "https://www.nzherald.co.nz/business/why-a-global-fuel-crisis-led-australians-to-buy-electric-cars/premium/Q2QTNTWB7VFUTNU4TLOCDVMV7A/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/W35LOJ55SJFYHM6TZFQECPSCWU.jpg?auth=a88e9abc6c9ce68d4144ff92bc8240bc458aa3b16d4a6c62f42967e204ccb8dc&width=1200&height=675&quality=70&focal=946%2C685&smart=false",
+      "publishedAt": "2026-09-16T02:24:53Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Vedanta to IDFC First Bank - Jay Thakkar suggests 3 stocks to buy or sell for short-term in F&O segment",
+      "description": "On 16 September, the Indian stock market is set to open flat with mixed global cues. The Nifty 50 fell below 23,200 in the previous session, and bank indices face selling pressure. Watch for market trends in response to the FOMC meeting and oil prices.",
+      "url": "https://www.livemint.com/market/stock-market-news/vedanta-to-idfc-first-bank-jay-thakkar-suggests-3-stocks-to-buy-or-sell-for-short-term-in-f-o-segment-11789524071178.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/Jay_Thakkar_1788926097718_2adc4cd4-40c7-4308-9dad-_1789524184047_MPZc_1789524184233_eLiF_50247a59-9c5a-432c-a233-551beaca682f_nXBy.png",
+      "publishedAt": "2026-09-16T02:21:51Z",
+      "source": {
+        "name": "Livemint"
       }
     }
   ]
