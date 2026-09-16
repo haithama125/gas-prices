@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-15T20:38:19+00:00",
+  "updated_at": "2026-09-16T02:21:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Broadening inflation, Fed prompts traders to ramp up October India rate hike bets",
-      "description": "Traders anticipate an October rate hike by India's RBI as inflation pressures mount and oil prices surge.",
-      "url": "https://www.thehindubusinessline.com/economy/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets/article71467171.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/426tge/article71457435.ece/alternates/LANDSCAPE_1200/2025-11-26T152047Z_977899021_RC2IJBA8WVXB_RTRMADP_3_INDIA-RUPEE-IMF.JPG",
-      "publishedAt": "2026-09-15T08:34:04Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Oil crosses $107, Fed set to hike rates: Dan Niles warns investors to stay cautious",
-      "description": "Dan Niles warns of cautious outlook on US equities due to rising oil prices, higher bond yields, AI safety concerns, and the upcoming Federal Reserve policy decision ahead of the 2026 midterms.",
-      "url": "https://www.financialexpress.com/market/global-markets/oil-crosses-107-fed-set-to-hike-rates-dan-niles-warns-investors-to-stay-cautious/4339502/",
-      "image": "https://images.financialexpressdigital.com/2026/09/pictures-2026-09-15T132937.031.jpg",
-      "publishedAt": "2026-09-15T08:06:35Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Market Turbulence: Stocks Decline Amid Rising Yields and Oil Prices",
-      "description": "Amid increasing U.S. Treasury yields and energy prices, global stocks continued to decline. Investors are anticipating further interest rate hikes by central banks, especially the Federal Reserve, amid economic growth and fiscal concerns. European and Asian markets also experienced setbacks, with oil and geopolitical tensions influencing market volatility.",
-      "url": "https://www.devdiscourse.com/article/business/3977327-market-turbulence-stocks-decline-amid-rising-yields-and-oil-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/25_07_2024_11_12_25_9148303.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-15T08:02:20Z",
+      "title": "Market Woes: Oil Surges and AI Concerns Weigh Down Wall Street",
+      "description": "Wall Street's indexes slipped due to rising oil prices, high Treasury yields, and uncertainty in AI demand. While some tech stocks like Nvidia rose, others declined amidst calls to slow AI development. The Federal Reserve is expected to raise interest rates, while oil prices spike amid Middle East tensions.",
+      "url": "https://www.devdiscourse.com/article/business/3977497-market-woes-oil-surges-and-ai-concerns-weigh-down-wall-street",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/02_08_2024_06_23_48_5901039.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-15T14:14:22Z",
       "source": {
         "name": "Devdiscourse"
       }
     },
     {
-      "title": "UK petrol and diesel drivers urged to fill up before midnight on Thursday",
-      "description": "The cost of fuel has climbed to a four-month high, close to the level reached in the early stages of the Iran war",
-      "url": "https://www.manchestereveningnews.co.uk/news/uk-news/drivers-urged-to-fill-up-34617993",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34286785.ece/ALTERNATES/s1200d/0_Petrol-prices-rising.jpg",
-      "publishedAt": "2026-09-15T07:55:44Z",
+      "title": "Rupee falls 0.42% to 95.96, posts sharpest decline since July 14",
+      "description": "The domestic currency extended its losing streak to five sessions as rising crude oil prices, global bond yields and strong dollar demand weighed on the rupee",
+      "url": "https://www.business-standard.com/economy/news/rupee-falls-0-42-to-95-96-posts-sharpest-decline-since-july-14-126091501106_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/25/thumb/fitandfill/1200X628/1645733834-1829.jpg",
+      "publishedAt": "2026-09-15T14:09:55Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Syrians Start Street Fires and Blockades to Protest Massive Fuel Price Hike",
-      "description": "Protests in dozens of cities and towns throughout Syria erupted on Sunday and continued into Monday, over increased gasoline prices.",
-      "url": "https://www.breitbart.com/middle-east/2026/09/15/syrians-start-street-fires-and-blockades-to-protest-massive-fuel-price-hike/",
-      "image": "https://media.breitbart.com/media/2026/09/GettyImages-2294800141-640x335.png",
-      "publishedAt": "2026-09-15T07:52:16Z",
+      "title": "Gas prices are up $1.33 over the last year in Northeast Ohio",
+      "description": "Northeast Ohio gas prices surged 28 cents to $4.228 per gallon, driven by crude oil topping $100 per barrel amid Strait of Hormuz volatility.",
+      "url": "https://www.cleveland.com/news/2026/09/gas-prices-are-up-133-over-the-last-year-in-northeast-ohio.html",
+      "image": "https://www.cleveland.com/resizer/v2/B2LAMIBGTZCTVFYWAIXZQQJ3PM.jpg?auth=7ea8722dd02d9dcaef4ee11da41a2c623d55ddc2a5b389c7282b6d9d7a4e9802&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-15T13:58:22Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "Fed rate hike, high crude prices may limit India\u2019s policy flexibility: Crisil\u2019s DK Joshi",
-      "description": "A likely rate hike by the US Federal Reserve coupled with elevated crude oil prices could intensify inflationary pressures and constrain the policy flexibility available to Indian authorities, according to Crisil Chief Economist Dharmakirti Joshi.",
-      "url": "https://www.tribuneindia.com/news/business/fed-rate-hike-high-crude-prices-may-limit-indias-policy-flexibility-crisils-dk-joshi/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJiMDcwZmIwLWIwZDktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-15T07:47:35Z",
+      "title": "Wall Street drops as oil prices, Treasury yields rise",
+      "description": "The Dow Jones Industrial Average fell 0.23%, the S&P 500 fell 0.10%, the Nasdaq Composite dropped 0.18%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-drops-as-oil-prices-treasury-yields-rise-11789479701198.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/wallstreet4_1789479989154_BJH8_1789480005494_ALm4_ebeb11b9-8bbb-4622-ab4a-d847b4b08698_igIC.jpg",
+      "publishedAt": "2026-09-15T13:55:23Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Crisil\u2019s DK Joshi",
-      "description": "A likely rate hike by the US Federal Reserve coupled with elevated crude oil prices could intensify inflationary pressures and constrain the policy flexibility available to Indian authorities, according to Crisil Chief Economist Dharmakirti Joshi.",
-      "url": "https://www.aninews.in/news/business/fed-rate-hike-high-crude-prices-may-limit-india8217s-policy-flexibility-crisil8217s-dk-joshi20260915131357/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260915074344-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-15T07:43:57Z",
+      "title": "Why are US stocks falling today? Oil, 5% Treasury yields and AI fears hit Wall Street",
+      "description": "US stocks fall as oil prices rise, Treasury yields cross 5% and AI fears grow, while investors brace for a possible Fed rate hike.\u00a0 | Business News",
+      "url": "https://www.hindustantimes.com/business/why-are-us-stocks-falling-today-oil-5-treasury-yields-and-ai-fears-hit-wall-street-101789478283296.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/pexels-photo-10653886_1788345065827_1788345077634_6a0f9792-c73e-400b-aecb-9094681cdbd3_1789478445447_LIEg_ced22dd2-9ec1-45e1-b011-cadae8db2f3a_29wt.jpeg",
+      "publishedAt": "2026-09-15T13:51:15Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Broadening inflation, Fed prompts traders to ramp up October India rate hike bets",
-      "description": "Traders are increasingly anticipating an October interest rate hike from the Reserve Bank of India, influenced by rising oil prices and expanding inflation. This potential adjustment is further compounded by an expected hike from the Federal Reserve, prompting analysts at Citi and Deutsche Bank to revise their predictions. The shift highlights growing concerns regarding inflation and the dynamics of economic growth.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/broadening-inflation-fed-prompts-traders-to-ramp-up-october-india-rate-hike-bets/articleshow/134255510.cms",
-      "image": "https://img.etimg.com/thumb/msid-134255570,width-1200,height-630,imgsize-110336,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-15T07:42:00Z",
+      "title": "US stocks today: Nasdaq, S&P 500 open lower as AI stocks hold steady; focus shifts to Fed rate decision",
+      "description": "US stocks were subdued on Tuesday as AI shares steadied after a global selloff, while rising oil prices and Treasury yields kept investors cautious. The Federal Reserve is widely expected to raise interest rates on Wednesday as the Iran conflict pushes energy prices higher and threatens to keep inflation elevated.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-sp-500-open-lower-as-ai-stocks-hold-steady-focus-shifts-to-fed-rate-decision/articleshow/134265991.cms",
+      "image": "https://img.etimg.com/thumb/msid-134266043,width-1200,height-630,imgsize-163426,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-15T13:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "European Markets Tumble Amid Oil Price Surge and Rate Hike Fears",
-      "description": "European shares fell, impacted by declining bank stocks as oil prices surged and bond yields rose. The STOXX 600 index decreased by 0.4%, with banks dropping by 1.3%. Inflation worries from Middle Eastern tensions are expected to lead to possible interest rate hikes by global central banks.",
-      "url": "https://www.devdiscourse.com/article/business/3977315-european-markets-tumble-amid-oil-price-surge-and-rate-hike-fears",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/16_08_2024_03_37_19_2724.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-15T07:18:53Z",
+      "title": "Crude above $100 could widen OMC losses if retail fuel prices remain unchanged: Analysts",
+      "description": "As oil prices rise above $100/bbl, marketing margins of oil marketing companies for the coming quarters can come under pressure. Elevated oil prices in the near term could squeeze marketing margins of OMCs by as much as 28 per cent particularly on diesel from May levels and could prod a rethink on retail prices, analysts say.",
+      "url": "https://www.moneycontrol.com/news/business/economy/crude-above-100-could-widen-omc-losses-if-retail-fuel-prices-remain-unchanged-analysts-14030455.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2020/07/petroldieselpetrol-pumpfuel-station.jpg",
+      "publishedAt": "2026-09-15T13:33:06Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Saudi Arabia warns it will respond 'firmly' to Houthi attacks, as oil prices surge",
-      "description": "Saudi Arabia responded to the attacks with more than 50 strikes of its own.",
-      "url": "https://www.sbs.com.au/news/article/saudi-arabia-warns-it-will-respond-firmly-to-houthi-attacks-as-oil-prices-surge/w0pgd7wld",
-      "image": "https://assets.sbs.com.au/dims4/default/ebbf171/2147483647/strip/true/crop/5114x2877+0+358/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2Ff0%2Ff0%2Fc15e882547c8ac381977eb1c1f66%2F20260914124390497530-original.jpg",
-      "publishedAt": "2026-09-15T07:15:19Z",
+      "title": "China\u2019s Yuan Crude Oil Futures Jump to Record High",
+      "description": "China's yuan crude futures hit a record high this week as a Saudi pipeline attack and rising Chinese refiner demand push oil prices higher.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Yuan-Crude-Oil-Futures-Jump-to-Record-High.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-15_we8ai3hnxt.jpg",
+      "publishedAt": "2026-09-15T13:30:00Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Gurugram petrol pumps to get 249 cameras to detect old, end-of-life vehicles",
+      "description": "The cameras are part of the first phase of a project to install 775 ANPR cameras in four National Capital Region districts | India News",
+      "url": "https://www.hindustantimes.com/india-news/gurugram-petrol-pumps-to-get-249-cameras-to-detect-old-end-of-life-vehicles-101789477702609.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/Gurugram-will-receive-the-highest-number-of-camera_1789477696155_psKo.jpg",
+      "publishedAt": "2026-09-15T13:08:22Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Wall Street points to more losses as oil, bond yields rise",
+      "description": "AI stocks slid overnight on growing safety fears and oil prices continued to climb as fighting in the Middle East squeezes the flow of crude",
+      "url": "https://www.baltimoresun.com/2026/09/15/wall-street-oil-bond-yields/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_64463.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-15T13:03:49Z",
+      "source": {
+        "name": "Baltimore Sun"
       }
     }
   ]
