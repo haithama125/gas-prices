@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-17T15:52:33+00:00",
+  "updated_at": "2026-09-17T20:44:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold and silver price today, September 17: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
-      "description": "At the same time, easing concerns about supply disruptions in the Middle East provided some support for gold as oil prices declined.",
-      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-september-17-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14031706.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917034713_Gold-and-silver-price-on-Septermber-17-representative-image.png",
-      "publishedAt": "2026-09-17T03:47:27Z",
+      "title": "Oil prices extend losses as supply disruption fears ease",
+      "description": "Saudi Arabia suspends Yanbu \u200bloading, offers more crude via Oman",
+      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-extend-losses-as-supply-disruption-fears-ease/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/DO5SKBMLU5HLHIGLQCUXAEMBB4.JPG?auth=87073c5e09fc6d3234ce77aa7963bbbff0b439f21b4019785a587558cd3e8db7&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-09-17T08:44:03Z",
+      "source": {
+        "name": "The Globe and Mail"
+      }
+    },
+    {
+      "title": "Global Market: Eurozone bond yields edge higher after Fed rate hike",
+      "description": "The eurozone bond yields edged higher after the Federal Reserve raised interest rates and signalled further tightening. German short-term yields increased, while the 10-year yield remained near a 17-year high. Rising oil and gas prices are also raising concerns about renewed ECB rate hikes, with markets pricing further increases amid persistent inflationary pressures.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-edge-higher-after-fed-rate-hike/articleshow/134306233.cms",
+      "image": "https://img.etimg.com/thumb/msid-134306299,width-1200,height-630,imgsize-178382,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-17T08:30:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "ED raids in 4 states in Ranchi RSS office bomb attack case; Shehzad Bhatti Network under lens",
+      "description": "New Delhi, Sep 17 (PTI) The Enforcement Directorate on Thursday conducted raids in four states as part of a money laundering investigation into a petrol bomb attack on the RSS office in Ranchi in June, officials said. According to officials, Pakistan-based banned terrorist outfit Shahzad Bhatti Network (SBN) is under the scanner of the probe [\u2026]",
+      "url": "https://theprint.in/india/ed-raids-in-4-states-in-ranchi-rss-office-bomb-attack-case-shehzad-bhatti-network-under-lens/3045275/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-09-17T08:15:53Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Gold rises as investors digest Fed hike, oil rally stalls",
+      "description": "GOLD rose on Thursday as investors digested the U.S. Federal Reserve's interest rate hike and its signal that further policy tightening could follow, while an earlier rally in oil prices faded.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/17/gold-rises-as-investors-digest-fed-hike-oil-rally-stalls",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4115309.jpeg",
+      "publishedAt": "2026-09-17T08:10:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Petrol bombing of homes should be treated as attempted murder, D\u00e1il told",
+      "description": "TD highlights drug dealers\u2019 criminal spree in Cork, says death by suicide of young people over drug intimidation should also be treated as attempted murder",
+      "url": "https://www.irishtimes.com/politics/oireachtas/2026/09/17/petrol-bombing-of-homes-should-be-treated-as-attempted-murder-dail-told/",
+      "image": "https://www.irishtimes.com/resizer/v2/7ZLOALRFYCY745JDS5D2Q2X3GI.jpg?smart=true&auth=b3c1968f42190ace9a2cc075f155d657a8515f71e419ab8d5d9aa92d9b38da3b&width=1200&height=630",
+      "publishedAt": "2026-09-17T08:00:00Z",
+      "source": {
+        "name": "The Irish Times"
+      }
+    },
+    {
+      "title": "European Markets Rally Amid Fed Rate Hike and Oil Price Decline",
+      "description": "European shares rose as risk sentiment improved with falling oil prices and a pause in the global bond selloff. The STOXX 600 increased by 0.5%, driven by gains in travel and technology stocks. The Federal Reserve's rate hike and Saudi Arabia's oil actions influenced market dynamics further.",
+      "url": "https://www.devdiscourse.com/article/business/3978302-european-markets-rally-amid-fed-rate-hike-and-oil-price-decline",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_07_28_06_600401.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-17T07:19:16Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "'No insurance, no fuel': IRDAI to test automated number-plate scanning to enforce SC directive",
+      "description": "The proposed system could eventually allow fuel stations to deny petrol or diesel to vehicles that do not have valid third-party motor insurance",
+      "url": "https://www.moneycontrol.com/banking/no-insurance-no-fuel-irdai-to-test-automated-number-plate-scanning-to-enforce-sc-directive-article-14031903.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814113203_motor-insurance.png",
+      "publishedAt": "2026-09-17T07:15:48Z",
       "source": {
         "name": "Moneycontrol"
       }
     },
     {
-      "title": "Stock market today: Will Sensex, Nifty rise or fall after Fed rate hike?",
-      "description": "Indian markets are set for a muted opening after the US Federal Reserve raised rates by 25 basis points and signalled another possible hike this year. Crude oil prices, foreign outflows and the NSE IPO are expected to keep sentiment cautious through the session.",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-today-sensex-nifty-fed-rate-hike-nse-ipo-crude-oil-fii-selling-2996468-2026-09-17",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/stock-market-in-green-311007714-16x9_4.jpg?VersionId=QwRElAb8wCq.kwfhmIguOCMc92ajW8F3",
-      "publishedAt": "2026-09-17T03:40:14Z",
+      "title": "Kochi man battles for life after friends set him ablaze; Gulf-returnee, history-sheeter among 4 booked",
+      "description": "A man is fighting for his life after a dispute over repeated phone calls, allegedly leading to him being doused with petrol and set alight by a.Kochi attack, man set ablaze, Piravom incident, friends quarrel, petrol doused attack, Kottayam Medical College, severe burn injuries, Arun Prakash, Jishnu accused, criminal charges Piravom, substance abuse history, attempt to murder case, grievous hurt charges, youth violence Kerala, phone call dispute escalation",
+      "url": "https://www.onmanorama.com/news/kerala/2026/09/17/kochi-man-battles-for-life-after-friends-set-him-ablaze-gulf-returnee-history-sheeter-among-4-booked.html",
+      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/6/17/hospital representational image.jpg",
+      "publishedAt": "2026-09-17T07:03:59Z",
       "source": {
-        "name": "India Today"
+        "name": "Malayala Manorama"
       }
     },
     {
-      "title": "Furious over rejection, man throws petrol bomb at woman's home, threatens her fiance",
-      "description": "A man allegedly hurled a petrol bomb into a 24-year-old woman's home in Bhopal after she refused to marry him. The case followed repeated threats to her and her fiance, and police are searching for the accused.",
-      "url": "https://www.indiatoday.in/cities/bhopal/story/madhya-pradesh-bhopal-man-throws-petrol-bomb-woman-home-after-marriage-refusal-threatens-fiance-2996444-2026-09-17",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/bhopal-17284017-16x9_0.png?VersionId=wmZGL0U9Bq4bBmAZr8Lp3QW._zBl6Vsa",
-      "publishedAt": "2026-09-17T03:35:10Z",
+      "title": "Oil prices extend losses on easing fears of Middle East supply disruption",
+      "description": "OIL prices eased on Thursday, extending losses on reports of Saudi Arabia offering extra crude cargoes through Oman, which reduced fears of supply disruptions, but stayed above $100 on concerns about the Middle East conflict expanding.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/17/oil-prices-extend-losses-on-easing-fears-of-middle-east-supply-disruption",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4115135.jpg",
+      "publishedAt": "2026-09-17T07:03:00Z",
       "source": {
-        "name": "India Today"
+        "name": "The Star"
       }
     },
     {
-      "title": "LPG, CNG, PNG prices today (September 17): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "Oil prices fell as reports that Saudi Arabia was offering additional crude shipments through Oman eased concerns about disruptions to regional supplies.",
-      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-17-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-556018-2026-09-17",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab582a91c13-lpg--cng--png-prices-today-check-latest-rates-across-major-cities-102142580-16x9.png",
-      "publishedAt": "2026-09-17T03:28:11Z",
+      "title": "year treasury yield at 5% is a warning signal for stocks",
+      "description": "Jefferies' Chris Wood expects the Iran-US standoff to outlast the midterms, keeping oil prices elevated and energy stocks a useful hedge. He also flagged the 10-year Treasury yield's move to 5% as a signal worth watching for equity markets. What does that mean for India's oil imports and market positioning heading into year-end?",
+      "url": "https://www.cnbctv18.com/market/exclusive-chris-wood-10-year-treasury-yield-at-5-is-a-warning-signal-for-stocks-geopolitical-tensions-west-asia-crisis-crude-oil-prices-us-fed-kevin-warsh-donald-trump-russia-ukraine-19992638.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/chriswood-sep17-2026-09-d609c02becb9f01525b0faf2de675d00.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-17T07:01:20Z",
       "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Government cuts windfall tax on petrol, diesel, ATF exports",
-      "description": "The government has cut windfall gains tax on export of petrol, diesel and ATF for the fortnight beginning September 16.",
-      "url": "https://www.tribuneindia.com/news/business/government-cuts-windfall-tax-on-petrol-diesel-atf-exports/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTM5OTAwZDAwLWIyNDctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-17T03:23:54Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Centre slashes windfall tax on export of petrol, diesel and aviation turbine fuel",
-      "description": "Under the revised levy structure, the export duty on diesel was reduced to \u20b920 per litre from \u20b925 per litre. The tax on ATF exports was lowered to \u20b915 per litre from \u20b919 per litre, while the levy on petrol exports was scaled back to \u20b90.5 per litre from \u20b91.5 per litre.",
-      "url": "https://www.businesstoday.in/india/story/centre-slashes-windfall-tax-on-export-of-petrol-diesel-and-aviation-turbine-fuel-556019-2026-09-17",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aab5a635f81f-the-government-periodically-reviews-windfall-duties-on-crude-oil-production-and-fuel-exports-to-bala-171129996-16x9.jpg",
-      "publishedAt": "2026-09-17T03:11:35Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Windfall Tax Cut: Government Slashes Petrol, Diesel And ATF Export Duty From September 16 Amid West Asia Tensions",
-      "description": "The government has reduced windfall tax on petrol, diesel and ATF exports from September 16. Diesel export duty is now Rs 20/litre, ATF Rs 15/litre and petrol Rs 0.5/litre. Domestic petrol and diesel duty rates remain unchanged amid ongoing tensions in West Asia.",
-      "url": "https://www.freepressjournal.in/business/windfall-tax-cut-government-slashes-petrol-diesel-and-atf-export-duty-from-september-16-amid-west-asia-tensions",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-17/gwy77y9h/Untitled-design-2026-09-17T083524.866.jpg",
-      "publishedAt": "2026-09-17T03:05:33Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Most stocks rise as Fed hikes and oil prices drop",
-      "description": "Equity markets across Asia were mostly higher on Thursday (Sep 17) as Tokyo, Singapore, Mumbai, Bangkok and Jakarta all advanced.",
-      "url": "https://www.channelnewsasia.com/business/stocks-markets-fed-rate-hike-inflation-us-6390891",
-      "image": "https://dam.mediacorp.sg/image/upload/s--kfnlzc5f--/c_crop,h_576,w_1024,x_0,y_106/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_mediacorp:cna:watermark:2023-11:afp_watermark_14112023,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2025/04/29/000_39t4647.jpg?itok=lEVKCmQI",
-      "publishedAt": "2026-09-17T03:04:00Z",
-      "source": {
-        "name": "CNA"
-      }
-    },
-    {
-      "title": "EV group wants petrol, diesel vehicle owners to be taxed twice",
-      "description": "The Australian Electric Vehicle Association wants a universal road-user charge to be implemented, but still wants fuel to be subject to an excise.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/ev-group-wants-petrol-diesel-vehicle-owners-to-be-taxed-twice-c-22883894",
-      "image": "https://images.perthnow.com.au/publication/C-22883894/539cb486a80d717122f7ce2a637d371492a72a3a-16x9-x0y198w3790h2132.jpg?imwidth=1200",
-      "publishedAt": "2026-09-17T03:02:16Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "EV group wants petrol, diesel vehicle owners to be taxed twice",
-      "description": "The Australian Electric Vehicle Association wants a universal road-user charge to be implemented, but still wants fuel to be subject to an excise.",
-      "url": "https://7news.com.au/motoring/ev-group-wants-petrol-diesel-vehicle-owners-to-be-taxed-twice-c-22883895",
-      "image": "https://images.7news.com.au/publication/C-22883895/539cb486a80d717122f7ce2a637d371492a72a3a-16x9-x0y198w3790h2132.jpg?imwidth=1200",
-      "publishedAt": "2026-09-17T03:02:16Z",
-      "source": {
-        "name": "7NEWS Australia"
+        "name": "CNBC TV18"
       }
     }
   ]
