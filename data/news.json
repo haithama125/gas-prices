@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-18T02:10:49+00:00",
+  "updated_at": "2026-09-18T10:14:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ghalibaf\u2019s maths missile at Trump decoded: Is Iran fixing US interest rates?",
-      "description": "Iran\u2019s speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
-      "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260325__A4MA49J__v1__MidRes__FilesIranUsIsraelWar-1775273004.jpg?resize=1200%2C630",
-      "publishedAt": "2026-09-17T14:10:41Z",
+      "title": "Which states have the highest gas prices? See the latest map",
+      "description": "Gas prices have climbed since the beginning of the Iran war more than six months ago. See prices in each state and region.",
+      "url": "https://www.azcentral.com/story/money/economy/inflation-cost-of-living/2026/09/17/state-by-state-gas-prices-map/91809246007/",
+      "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2026/09/17/USAT/91815301007-getty-images-2170622261.jpg?crop=2080,1170,x0,y144&width=2080&height=1170&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-17T22:00:26Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "The Arizona Republic"
       }
     },
     {
-      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
-      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
-      "url": "https://www.nj.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
-      "image": "https://www.nj.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-17T14:05:04Z",
+      "title": "Which states have the highest gas prices? See the latest map",
+      "description": "Gas prices have climbed since the beginning of the Iran war more than six months ago. See prices in each state and region.",
+      "url": "https://www.usatoday.com/story/money/economy/inflation-cost-of-living/2026/09/17/state-by-state-gas-prices-map/91809246007/",
+      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/17/USAT/91815301007-getty-images-2170622261.jpg?crop=2080,1170,x0,y144&width=2080&height=1170&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-17T22:00:26Z",
       "source": {
-        "name": "NJ.com"
+        "name": "USA TODAY"
       }
     },
     {
-      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
-      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
-      "url": "https://www.mlive.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
-      "image": "https://www.mlive.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-17T14:05:04Z",
+      "title": "US stocks gained in a reversal of the post-FOMC moves amid Fed credibility boost and lower oil prices - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-gained-reversal-post-fomc-moves-amid-fed-credibility-boost-and-lower-oil-prices",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_11.png?itok=KyGTz0NW",
+      "publishedAt": "2026-09-17T21:57:37Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
-      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
-      "url": "https://www.pennlive.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
-      "image": "https://www.pennlive.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-17T14:05:04Z",
+      "title": "Higher gas prices have yet to change driving habits for many Michiganders",
+      "description": "With gas prices continuing to rise, are Michiganders changing their habits?",
+      "url": "https://www.clickondetroit.com/news/local/2026/09/17/higher-gas-prices-have-yet-to-change-driving-habits-for-many-michiganders/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/239ccff0-cdca-4cc2-b596-de8805442ce8/image.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-09-17T21:57:20Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
-      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
-      "url": "https://www.cleveland.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
-      "image": "https://www.cleveland.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-17T14:05:04Z",
+      "title": "Stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
+      "description": "The U.S. stock market rallied to its best day in six weeks after oil prices fell and pressure from the bond market eased",
+      "url": "https://www.latimes.com/business/story/2026-09-17/stocks-rally-to-their-best-day-in-6-weeks-after-oil-prices-bond-yields-ease",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/f401ccf/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F6f%2F8649ec7b459797e3111c27f7b250%2F46ee573befcb42c4b101c2c75e693ca8.jpg",
+      "publishedAt": "2026-09-17T21:13:18Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Wall Street climbs as retreating oil prices boost investor sentiments",
-      "description": "The Dow Jones Industrial Average rose 0.82%, the S&P 500 rose 1.05%, the Nasdaq Composite rose 1.54%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-retreating-oil-prices-boost-investor-sentiments-11789653176183.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/wallstreet6_1789653287328_hQXp_1789653316047_d9AL_db5cc7a8-f7e3-4685-87d8-656e41ac2751_pmBW.jpg",
-      "publishedAt": "2026-09-17T14:03:40Z",
+      "title": "Global Shares Surge Amidst Central Bank Rate Decisions",
+      "description": "Global shares saw an increase on Thursday, rebounding from earlier losses, as central banks like the US Federal Reserve and the Bank of Japan take measures to tackle inflation. Meanwhile, the Bank of England maintained its interest rates amid rising oil prices, signaling potential future policy changes.",
+      "url": "https://www.devdiscourse.com/article/business/3978722-global-shares-surge-amidst-central-bank-rate-decisions",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_08_21_48_8147509.png&width=920&format=jpeg",
+      "publishedAt": "2026-09-17T21:10:44Z",
       "source": {
-        "name": "Livemint"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Petrol just broke \u20ac2 a litre in Spain, and 11 straight weeks of rises say it won\u2019t stop there",
-      "description": "Petrol has broken \u20ac2 a litre at forecourts across Spain after 11 weeks of rises, with a bigger jump possible once the fuel discount ends on September 30.",
-      "url": "https://euroweeklynews.com/2026/09/17/petrol-just-broke-e2-a-litre-in-spain-and-11-straight-weeks-of-rises-say-it-wont-stop-there/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/Petrol-Station-WEB.png",
-      "publishedAt": "2026-09-17T13:44:40Z",
+      "title": "Trading Day: Lower oil, yields boost stocks",
+      "description": "World stocks paused their recent slide and rebounded strongly on Thursday, and the global bond rout also took a breather, as investors digested the US Federal Reserve's interest rate hike the day before and cheered a second consecutive day of lower oil prices.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-17/",
+      "image": "https://www.reuters.com/resizer/v2/SJWL6S6Q6ZOSJJEAFOHRSCR7PE.jpg?auth=07360edf0b4c41ed6e8fca000ea97e8d1016c29fe1fed4c4cf0a0c1e35fd1fe0&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-17T21:00:34Z",
       "source": {
-        "name": "Euro Weekly News"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall",
-      "description": "U.S. stock indexes rose sharply Thursday morning, after the Federal Reserve hiked interest rates in a bid to rein in rising inflation.",
-      "url": "https://www.nbcnews.com/business/markets/stocks-bonds-fed-hikes-oil-prices-rcna598310",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/2260415-fed-rs-87ba89.jpg",
-      "publishedAt": "2026-09-17T13:41:23Z",
+      "title": "Why is gas so expensive right now?",
+      "description": "Gas prices are hurting motorists everywhere. Iowa's no exception. See just how high prices are in the state.",
+      "url": "https://www.desmoinesregister.com/story/news/local/des-moines/2026/09/17/why-is-gas-so-expensive-right-now-iowa-gas-prices/91811988007/",
+      "image": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2026/04/02/PDEM/89438611007-gas-prices-cs-10.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-17T21:00:14Z",
       "source": {
-        "name": "NBC News"
+        "name": "Des Moines Register"
       }
     },
     {
-      "title": "US stocks today: S&P, Nasdaq soar 1% at open as easing oil prices boost Fed hike relief",
-      "description": "US stocks opened higher on Thursday as falling oil prices improved investor sentiment following the Federal Reserve's first rate hike under Chair Kevin Warsh. The Dow rose 0.82%, the S&P 500 gained 1.05% and the Nasdaq climbed 1.54% at the open, extending gains across major indexes.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-easing-oil-prices-boost-fed-hike-relief/articleshow/134313818.cms",
-      "image": "https://img.etimg.com/thumb/msid-134313818,width-1200,height-630,imgsize-134476,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-17T13:40:00Z",
+      "title": "Why is gas so expensive right now?",
+      "description": "Gas prices are hurting motorists everywhere. Iowa's no exception. See just how high prices are in the state.",
+      "url": "https://www.amestrib.com/story/news/local/des-moines/2026/09/17/why-is-gas-so-expensive-right-now-iowa-gas-prices/91811988007/",
+      "image": "https://www.amestrib.com/gcdn/authoring/authoring-images/2026/04/02/PDEM/89438611007-gas-prices-cs-10.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-17T21:00:14Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Ames Tribune"
       }
     },
     {
-      "title": "The Iran war is driving clean energy development. It's not enough to help the planet, yet",
-      "description": "Countries are embracing clean power and taking steps to use less energy because of the war against Iran. But it is not yet enough to help address climate change. Some backers of renewables opined at the start of the war that it could drive a green transition as oil and gas prices spiked. So far, more than 30 governments have enacted policies to move away from fossil fuels or improve energy efficiency. Yet at the same time, climate pollution increased marginally and clean energy investments fell. A dozen experts told The Associated Press that while the Iran war appears to be helping clean energy adoption, the world is still heavily dependent on fossil fuels. And it'll take more time for the new policies to show results.",
-      "url": "https://www.ajc.com/news/2026/09/the-iran-war-is-driving-clean-energy-development-its-not-enough-to-help-the-planet-yet/",
-      "image": "https://images.ajc.com/resizer/v2/HUSVZK3CSVA23HVHTIIKYU5C2U.jpg?auth=8671c8ba1177e375282c4306461a75b3bf2b6333a9acfb87a05a9b1eb7418f92&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-17T13:32:13Z",
+      "title": "Markets live updates: ASX tipped to gain as Wall St rebounds, oil and bond yields retreat",
+      "description": "Australian shares head for a positive start after Wall Street rebounds, with tech stocks rallying as oil prices and global bond yields retreat. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "url": "https://www.abc.net.au/news/2026-09-18/asx-markets-business-news-live-updates-wall-st-rebounds/107160122",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ca64714984ce2d55e0a9f3af4412813f?impolicy=wcms_watermark_news&cropH=2806&cropW=4988&xPos=0&yPos=294&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-09-17T20:56:38Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     }
   ]
