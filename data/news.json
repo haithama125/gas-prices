@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-18T10:14:26+00:00",
+  "updated_at": "2026-09-18T15:26:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Which states have the highest gas prices? See the latest map",
-      "description": "Gas prices have climbed since the beginning of the Iran war more than six months ago. See prices in each state and region.",
-      "url": "https://www.azcentral.com/story/money/economy/inflation-cost-of-living/2026/09/17/state-by-state-gas-prices-map/91809246007/",
-      "image": "https://www.azcentral.com/gcdn/authoring/authoring-images/2026/09/17/USAT/91815301007-getty-images-2170622261.jpg?crop=2080,1170,x0,y144&width=2080&height=1170&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-17T22:00:26Z",
+      "title": "Asian shares mostly rise, cheered by a US rally and easing oil prices",
+      "description": "Asian shares are mostly up, as markets get a lift after Wall Street rallies to its best day in six weeks. Benchmarks have risen in early Friday trading in Tokyo, Sydney, Seoul, Hong Kong and Shanghai....",
+      "url": "https://www.sfgate.com/news/world/article/asian-shares-mostly-rise-cheered-by-a-us-rally-22437622.php",
+      "image": "https://s.hdnux.com/photos/01/67/27/45/31291753/6/rawImage.jpg",
+      "publishedAt": "2026-09-18T03:25:50Z",
       "source": {
-        "name": "The Arizona Republic"
+        "name": "SFGATE"
       }
     },
     {
-      "title": "Which states have the highest gas prices? See the latest map",
-      "description": "Gas prices have climbed since the beginning of the Iran war more than six months ago. See prices in each state and region.",
-      "url": "https://www.usatoday.com/story/money/economy/inflation-cost-of-living/2026/09/17/state-by-state-gas-prices-map/91809246007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/17/USAT/91815301007-getty-images-2170622261.jpg?crop=2080,1170,x0,y144&width=2080&height=1170&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-17T22:00:26Z",
-      "source": {
-        "name": "USA TODAY"
-      }
-    },
-    {
-      "title": "US stocks gained in a reversal of the post-FOMC moves amid Fed credibility boost and lower oil prices - Newsquawk Daily Asia-Pac Market Open",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/markets/us-stocks-gained-reversal-post-fomc-moves-amid-fed-credibility-boost-and-lower-oil-prices",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_11.png?itok=KyGTz0NW",
-      "publishedAt": "2026-09-17T21:57:37Z",
-      "source": {
-        "name": "ZeroHedge"
-      }
-    },
-    {
-      "title": "Higher gas prices have yet to change driving habits for many Michiganders",
-      "description": "With gas prices continuing to rise, are Michiganders changing their habits?",
-      "url": "https://www.clickondetroit.com/news/local/2026/09/17/higher-gas-prices-have-yet-to-change-driving-habits-for-many-michiganders/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/239ccff0-cdca-4cc2-b596-de8805442ce8/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-09-17T21:57:20Z",
+      "title": "Asian shares mostly rise, cheered by a US rally and easing oil prices",
+      "description": "Asian shares are mostly up, as markets get a lift after Wall Street rallies to its best day in six weeks.",
+      "url": "https://www.clickondetroit.com/business/2026/09/18/asian-shares-mostly-rise-cheered-by-a-us-rally-and-easing-oil-prices/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/HSF5DNXPJVH2FDE3RVMNV4U3BA.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-09-18T03:25:49Z",
       "source": {
         "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Stocks rally to their best day in 6 weeks after oil prices and bond yields ease",
-      "description": "The U.S. stock market rallied to its best day in six weeks after oil prices fell and pressure from the bond market eased",
-      "url": "https://www.latimes.com/business/story/2026-09-17/stocks-rally-to-their-best-day-in-6-weeks-after-oil-prices-bond-yields-ease",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/f401ccf/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F6f%2F8649ec7b459797e3111c27f7b250%2F46ee573befcb42c4b101c2c75e693ca8.jpg",
-      "publishedAt": "2026-09-17T21:13:18Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Global Shares Surge Amidst Central Bank Rate Decisions",
-      "description": "Global shares saw an increase on Thursday, rebounding from earlier losses, as central banks like the US Federal Reserve and the Bank of Japan take measures to tackle inflation. Meanwhile, the Bank of England maintained its interest rates amid rising oil prices, signaling potential future policy changes.",
-      "url": "https://www.devdiscourse.com/article/business/3978722-global-shares-surge-amidst-central-bank-rate-decisions",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/31_05_2024_08_21_48_8147509.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-17T21:10:44Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Trading Day: Lower oil, yields boost stocks",
-      "description": "World stocks paused their recent slide and rebounded strongly on Thursday, and the global bond rout also took a breather, as investors digested the US Federal Reserve's interest rate hike the day before and cheered a second consecutive day of lower oil prices.",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-17/",
-      "image": "https://www.reuters.com/resizer/v2/SJWL6S6Q6ZOSJJEAFOHRSCR7PE.jpg?auth=07360edf0b4c41ed6e8fca000ea97e8d1016c29fe1fed4c4cf0a0c1e35fd1fe0&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-17T21:00:34Z",
+      "title": "Indian shares edge higher as oil eases; IPO rush, IT and Tata drag cap gains",
+      "description": "Indian shares inched higher on Friday, as lower oil prices and bargain buying after recent losses outweighed a drop \u200bin IT companies and Tata Group firms, while strong demand \u200cfor domestic IPOs sucked out liquidity from secondary markets, capping gains.",
+      "url": "https://www.reuters.com/world/india/indian-shares-set-inch-higher-oil-eases-ipo-rush-cap-upside-2026-09-18/",
+      "image": "https://www.reuters.com/resizer/v2/KCHWVPXD7JJ7ZBWOCVNLCLXKZY.jpg?auth=408c63977f90cf3ad73c915d2ba58bdeb7bb8172c09b8831b4382d5c7df8141e&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-18T03:04:20Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Why is gas so expensive right now?",
-      "description": "Gas prices are hurting motorists everywhere. Iowa's no exception. See just how high prices are in the state.",
-      "url": "https://www.desmoinesregister.com/story/news/local/des-moines/2026/09/17/why-is-gas-so-expensive-right-now-iowa-gas-prices/91811988007/",
-      "image": "https://www.desmoinesregister.com/gcdn/authoring/authoring-images/2026/04/02/PDEM/89438611007-gas-prices-cs-10.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-17T21:00:14Z",
+      "title": "Aussie share market pares gains, heading for soft week",
+      "description": "The local bourse is on track for a flat week, as elevated oil prices and a subdued outlook for global growth keeps investors on the back foot.",
+      "url": "https://www.perthnow.com.au/news/business/aussie-share-market-pares-gains-heading-for-soft-week-c-22889818",
+      "image": "https://images.perthnow.com.au/publication/C-22889818/594c2855b157c80dac84f9ad55ffe1039ff17a27-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-18T03:00:52Z",
       "source": {
-        "name": "Des Moines Register"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Why is gas so expensive right now?",
-      "description": "Gas prices are hurting motorists everywhere. Iowa's no exception. See just how high prices are in the state.",
-      "url": "https://www.amestrib.com/story/news/local/des-moines/2026/09/17/why-is-gas-so-expensive-right-now-iowa-gas-prices/91811988007/",
-      "image": "https://www.amestrib.com/gcdn/authoring/authoring-images/2026/04/02/PDEM/89438611007-gas-prices-cs-10.jpg?crop=8639,4861,x0,y449&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-17T21:00:14Z",
+      "title": "Oil prices: Red lines crossed? No baseline view, JPMorgan sees $90 fair value",
+      "description": "JPMorgan said it simply does not know how to model the endgame as oil trades above levels it had earlier seen as economic red lines for the US administration.",
+      "url": "https://www.businesstoday.in/markets/stocks/story/oil-prices-red-lines-crossed-no-baseline-view-jpmorgan-sees-90-fair-value-556318-2026-09-18",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaca9075da64-based-on-current-supply-and-demand-conditions--jpmorgan-estimated-september-fair-value-at-90--while-185917914-16x9.jpg",
+      "publishedAt": "2026-09-18T02:59:42Z",
       "source": {
-        "name": "Ames Tribune"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Markets live updates: ASX tipped to gain as Wall St rebounds, oil and bond yields retreat",
-      "description": "Australian shares head for a positive start after Wall Street rebounds, with tech stocks rallying as oil prices and global bond yields retreat. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-09-18/asx-markets-business-news-live-updates-wall-st-rebounds/107160122",
-      "image": "https://live-production.wcms.abc-cdn.net.au/ca64714984ce2d55e0a9f3af4412813f?impolicy=wcms_watermark_news&cropH=2806&cropW=4988&xPos=0&yPos=294&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-17T20:56:38Z",
+      "title": "Rupee breathes easy, heavy central bank week puts focus on RBI course",
+      "description": "The Indian rupee traded modestly higher on Friday, steadied by portfolio inflows and lower oil prices, but was \u200bon track for a weekly decline as investors assessed the outlook \u200cfor domestic interest rates after a week of global central bank decisions.",
+      "url": "https://www.reuters.com/world/india/rupee-may-find-breathing-room-ipo-linked-inflows-oil-retreat-2026-09-18/",
+      "image": "https://www.reuters.com/resizer/v2/WKA2NTOXSFKH7J4UONMCNOUXYQ.jpg?auth=e167e7206279b26d9c48d658a1b40ea17bc1241eb7d391557038614ca09deda0&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-18T02:56:57Z",
       "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Asian stocks track Wall St rally as oil prices drop",
+      "description": "The Bank of Japan is widely expected to hike interest rates on Friday (Yuichi YAMAZAKI)",
+      "url": "https://www.europesays.com/3257404/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fafp.com_.sg2F411824fd2d2d3774513349c521a9ba07.jpg",
+      "publishedAt": "2026-09-18T02:54:21Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Asian stocks rise as Wall Street gains and falling oil ease inflation worries",
+      "description": "HONG KONG, Sept 18 \u2014 Asian stocks rose today in line with a rally on Wall Street as a drop in oil prices eased inflation concerns, while investors were awaiting a Bank of Japan...",
+      "url": "https://www.malaymail.com/news/money/2026/09/18/asian-stocks-rise-as-wall-street-gains-and-falling-oil-ease-inflation-worries/235608",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/18/363160.jpg",
+      "publishedAt": "2026-09-18T02:44:10Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "Mohali: Man torches mother\u2019s house after fleeing de-addiction centre",
+      "description": "According to information, the accused Parmeshwar Singh and his friend Harjeet Singh alias Pargat of Maroli Khurd, had allegedly arrived on a motorcycle, poured petrol in different rooms and set it alight",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/mohali-man-torches-mother-s-house-after-fleeing-de-addiction-centre-101789673074097.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/17/1600x900/logo/A-case-has-been-registered-under-Sections-326-g---_1789673071706_ZIRC.jpg",
+      "publishedAt": "2026-09-18T02:35:10Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "LPG, CNG, PNG prices today (September 18): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "LPG, CNG, and PNG prices today: This comes amid concerns over volatile global crude oil prices, with Brent crude nearing\u00a0$108 per barrel after rising more than 6 per cent in the previous session.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-18-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-556312-2026-09-18",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaca2618e64a-while-lpg-remains-the-most-used-cooking-fuel-for-many-indian-households--cng-and-png-are-also-emergi-012138870-16x9.png",
+      "publishedAt": "2026-09-18T02:31:30Z",
+      "source": {
+        "name": "Business Today"
       }
     }
   ]
