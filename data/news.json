@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-17T20:44:43+00:00",
+  "updated_at": "2026-09-18T02:10:49+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices extend losses as supply disruption fears ease",
-      "description": "Saudi Arabia suspends Yanbu \u200bloading, offers more crude via Oman",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-extend-losses-as-supply-disruption-fears-ease/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/DO5SKBMLU5HLHIGLQCUXAEMBB4.JPG?auth=87073c5e09fc6d3234ce77aa7963bbbff0b439f21b4019785a587558cd3e8db7&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-09-17T08:44:03Z",
+      "title": "Ghalibaf\u2019s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+      "description": "Iran\u2019s speaker mocks US interest rates, citing the Taylor equation amidst rising global oil prices and inflation.",
+      "url": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260325__A4MA49J__v1__MidRes__FilesIranUsIsraelWar-1775273004.jpg?resize=1200%2C630",
+      "publishedAt": "2026-09-17T14:10:41Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "Al Jazeera"
       }
     },
     {
-      "title": "Global Market: Eurozone bond yields edge higher after Fed rate hike",
-      "description": "The eurozone bond yields edged higher after the Federal Reserve raised interest rates and signalled further tightening. German short-term yields increased, while the 10-year yield remained near a 17-year high. Rising oil and gas prices are also raising concerns about renewed ECB rate hikes, with markets pricing further increases amid persistent inflationary pressures.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-eurozone-bond-yields-edge-higher-after-fed-rate-hike/articleshow/134306233.cms",
-      "image": "https://img.etimg.com/thumb/msid-134306299,width-1200,height-630,imgsize-178382,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-17T08:30:00Z",
+      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
+      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
+      "url": "https://www.nj.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
+      "image": "https://www.nj.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-17T14:05:04Z",
+      "source": {
+        "name": "NJ.com"
+      }
+    },
+    {
+      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
+      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
+      "url": "https://www.mlive.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
+      "image": "https://www.mlive.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-17T14:05:04Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
+      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
+      "url": "https://www.pennlive.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
+      "image": "https://www.pennlive.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-17T14:05:04Z",
+      "source": {
+        "name": "Mechanicsburg Patriot News "
+      }
+    },
+    {
+      "title": "Gas prices 2026: Trump calls $4.44 average 'very inexpensive' amid Iran war",
+      "description": "Gas prices across the U.S. have skyrocketed since Trump launched the war in Iran six months ago.",
+      "url": "https://www.cleveland.com/politics/2026/09/trump-calls-gas-a-very-inexpensive-price-to-pay-americans-say-otherwise.html",
+      "image": "https://www.cleveland.com/resizer/v2/CYNWOKLLURATBEKTTXBGKJWDJU.jpg?auth=b7d45cd67014ee9561613c8966755a9bac6241ef51b172e55dc5a9c6329bab95&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-17T14:05:04Z",
+      "source": {
+        "name": "cleveland.com"
+      }
+    },
+    {
+      "title": "Wall Street climbs as retreating oil prices boost investor sentiments",
+      "description": "The Dow Jones Industrial Average rose 0.82%, the S&P 500 rose 1.05%, the Nasdaq Composite rose 1.54%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-climbs-as-retreating-oil-prices-boost-investor-sentiments-11789653176183.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/wallstreet6_1789653287328_hQXp_1789653316047_d9AL_db5cc7a8-f7e3-4685-87d8-656e41ac2751_pmBW.jpg",
+      "publishedAt": "2026-09-17T14:03:40Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Petrol just broke \u20ac2 a litre in Spain, and 11 straight weeks of rises say it won\u2019t stop there",
+      "description": "Petrol has broken \u20ac2 a litre at forecourts across Spain after 11 weeks of rises, with a bigger jump possible once the fuel discount ends on September 30.",
+      "url": "https://euroweeklynews.com/2026/09/17/petrol-just-broke-e2-a-litre-in-spain-and-11-straight-weeks-of-rises-say-it-wont-stop-there/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/Petrol-Station-WEB.png",
+      "publishedAt": "2026-09-17T13:44:40Z",
+      "source": {
+        "name": "Euro Weekly News"
+      }
+    },
+    {
+      "title": "Stocks and bonds rally after Fed hikes rates and oil prices fall",
+      "description": "U.S. stock indexes rose sharply Thursday morning, after the Federal Reserve hiked interest rates in a bid to rein in rising inflation.",
+      "url": "https://www.nbcnews.com/business/markets/stocks-bonds-fed-hikes-oil-prices-rcna598310",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-04/2260415-fed-rs-87ba89.jpg",
+      "publishedAt": "2026-09-17T13:41:23Z",
+      "source": {
+        "name": "NBC News"
+      }
+    },
+    {
+      "title": "US stocks today: S&P, Nasdaq soar 1% at open as easing oil prices boost Fed hike relief",
+      "description": "US stocks opened higher on Thursday as falling oil prices improved investor sentiment following the Federal Reserve's first rate hike under Chair Kevin Warsh. The Dow rose 0.82%, the S&P 500 gained 1.05% and the Nasdaq climbed 1.54% at the open, extending gains across major indexes.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-us-stocks-open-higher-as-easing-oil-prices-boost-fed-hike-relief/articleshow/134313818.cms",
+      "image": "https://img.etimg.com/thumb/msid-134313818,width-1200,height-630,imgsize-134476,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-17T13:40:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "ED raids in 4 states in Ranchi RSS office bomb attack case; Shehzad Bhatti Network under lens",
-      "description": "New Delhi, Sep 17 (PTI) The Enforcement Directorate on Thursday conducted raids in four states as part of a money laundering investigation into a petrol bomb attack on the RSS office in Ranchi in June, officials said. According to officials, Pakistan-based banned terrorist outfit Shahzad Bhatti Network (SBN) is under the scanner of the probe [\u2026]",
-      "url": "https://theprint.in/india/ed-raids-in-4-states-in-ranchi-rss-office-bomb-attack-case-shehzad-bhatti-network-under-lens/3045275/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-09-17T08:15:53Z",
+      "title": "The Iran war is driving clean energy development. It's not enough to help the planet, yet",
+      "description": "Countries are embracing clean power and taking steps to use less energy because of the war against Iran. But it is not yet enough to help address climate change. Some backers of renewables opined at the start of the war that it could drive a green transition as oil and gas prices spiked. So far, more than 30 governments have enacted policies to move away from fossil fuels or improve energy efficiency. Yet at the same time, climate pollution increased marginally and clean energy investments fell. A dozen experts told The Associated Press that while the Iran war appears to be helping clean energy adoption, the world is still heavily dependent on fossil fuels. And it'll take more time for the new policies to show results.",
+      "url": "https://www.ajc.com/news/2026/09/the-iran-war-is-driving-clean-energy-development-its-not-enough-to-help-the-planet-yet/",
+      "image": "https://images.ajc.com/resizer/v2/HUSVZK3CSVA23HVHTIIKYU5C2U.jpg?auth=8671c8ba1177e375282c4306461a75b3bf2b6333a9acfb87a05a9b1eb7418f92&width=1200&height=630&smart=true",
+      "publishedAt": "2026-09-17T13:32:13Z",
       "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Gold rises as investors digest Fed hike, oil rally stalls",
-      "description": "GOLD rose on Thursday as investors digested the U.S. Federal Reserve's interest rate hike and its signal that further policy tightening could follow, while an earlier rally in oil prices faded.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/17/gold-rises-as-investors-digest-fed-hike-oil-rally-stalls",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4115309.jpeg",
-      "publishedAt": "2026-09-17T08:10:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Petrol bombing of homes should be treated as attempted murder, D\u00e1il told",
-      "description": "TD highlights drug dealers\u2019 criminal spree in Cork, says death by suicide of young people over drug intimidation should also be treated as attempted murder",
-      "url": "https://www.irishtimes.com/politics/oireachtas/2026/09/17/petrol-bombing-of-homes-should-be-treated-as-attempted-murder-dail-told/",
-      "image": "https://www.irishtimes.com/resizer/v2/7ZLOALRFYCY745JDS5D2Q2X3GI.jpg?smart=true&auth=b3c1968f42190ace9a2cc075f155d657a8515f71e419ab8d5d9aa92d9b38da3b&width=1200&height=630",
-      "publishedAt": "2026-09-17T08:00:00Z",
-      "source": {
-        "name": "The Irish Times"
-      }
-    },
-    {
-      "title": "European Markets Rally Amid Fed Rate Hike and Oil Price Decline",
-      "description": "European shares rose as risk sentiment improved with falling oil prices and a pause in the global bond selloff. The STOXX 600 increased by 0.5%, driven by gains in travel and technology stocks. The Federal Reserve's rate hike and Saudi Arabia's oil actions influenced market dynamics further.",
-      "url": "https://www.devdiscourse.com/article/business/3978302-european-markets-rally-amid-fed-rate-hike-and-oil-price-decline",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/28_05_2024_07_28_06_600401.png&width=920&format=jpeg",
-      "publishedAt": "2026-09-17T07:19:16Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "'No insurance, no fuel': IRDAI to test automated number-plate scanning to enforce SC directive",
-      "description": "The proposed system could eventually allow fuel stations to deny petrol or diesel to vehicles that do not have valid third-party motor insurance",
-      "url": "https://www.moneycontrol.com/banking/no-insurance-no-fuel-irdai-to-test-automated-number-plate-scanning-to-enforce-sc-directive-article-14031903.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814113203_motor-insurance.png",
-      "publishedAt": "2026-09-17T07:15:48Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Kochi man battles for life after friends set him ablaze; Gulf-returnee, history-sheeter among 4 booked",
-      "description": "A man is fighting for his life after a dispute over repeated phone calls, allegedly leading to him being doused with petrol and set alight by a.Kochi attack, man set ablaze, Piravom incident, friends quarrel, petrol doused attack, Kottayam Medical College, severe burn injuries, Arun Prakash, Jishnu accused, criminal charges Piravom, substance abuse history, attempt to murder case, grievous hurt charges, youth violence Kerala, phone call dispute escalation",
-      "url": "https://www.onmanorama.com/news/kerala/2026/09/17/kochi-man-battles-for-life-after-friends-set-him-ablaze-gulf-returnee-history-sheeter-among-4-booked.html",
-      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/news/india/images/2026/6/17/hospital representational image.jpg",
-      "publishedAt": "2026-09-17T07:03:59Z",
-      "source": {
-        "name": "Malayala Manorama"
-      }
-    },
-    {
-      "title": "Oil prices extend losses on easing fears of Middle East supply disruption",
-      "description": "OIL prices eased on Thursday, extending losses on reports of Saudi Arabia offering extra crude cargoes through Oman, which reduced fears of supply disruptions, but stayed above $100 on concerns about the Middle East conflict expanding.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/17/oil-prices-extend-losses-on-easing-fears-of-middle-east-supply-disruption",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/17/4115135.jpg",
-      "publishedAt": "2026-09-17T07:03:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "year treasury yield at 5% is a warning signal for stocks",
-      "description": "Jefferies' Chris Wood expects the Iran-US standoff to outlast the midterms, keeping oil prices elevated and energy stocks a useful hedge. He also flagged the 10-year Treasury yield's move to 5% as a signal worth watching for equity markets. What does that mean for India's oil imports and market positioning heading into year-end?",
-      "url": "https://www.cnbctv18.com/market/exclusive-chris-wood-10-year-treasury-yield-at-5-is-a-warning-signal-for-stocks-geopolitical-tensions-west-asia-crisis-crude-oil-prices-us-fed-kevin-warsh-donald-trump-russia-ukraine-19992638.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/chriswood-sep17-2026-09-d609c02becb9f01525b0faf2de675d00.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-17T07:01:20Z",
-      "source": {
-        "name": "CNBC TV18"
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
