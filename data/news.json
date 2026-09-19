@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-19T09:56:33+00:00",
+  "updated_at": "2026-09-19T15:01:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mixed Nevada economic news with record diesel price, unemployment drop",
-      "description": "Joe Lombardo and Aaron Ford \u2014 Nevada\u2019s main governor candidates \u2014 tout different economic news as a reason to vote for them: gas prices, unemployment.",
-      "url": "https://www.rgj.com/story/news/politics/elections/2026/09/18/mixed-nevada-economic-news-with-record-diesel-price-unemployment-drop/91832351007/",
-      "image": "https://www.rgj.com/gcdn/authoring/authoring-images/2026/09/18/PREN/91832380007-diesel-price-reno-nevada.jpeg?crop=4028,2267,x0,y526&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-18T21:42:28Z",
+      "title": "Over proposed MDR: Haryana petrol pump dealers warn off cash-only payments",
+      "description": "The association insisted that petroleum outlets must continue to be covered under the existing zero-MDR facility for digital payments, while also advocating for special financial protections for low-volume stations situated in rural regions and along highways",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/over-proposed-mdr-haryana-petrol-pump-dealers-warn-off-cash-only-payments-101789757270610.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/18/1600x900/logo/The-association-has-urged-immediate-intervention-f_1789757268319_icMS.jpg",
+      "publishedAt": "2026-09-19T02:22:00Z",
       "source": {
-        "name": "Reno Gazette-Journal"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Michigan gas prices soar to $4.89, some Metro Detroit stations top $5",
-      "description": "Gas prices across the country and throughout Michigan continue to skyrocket, with the average price of a gallon of regular at $4.89 as of Friday morning, with some Metro Detroit gas stations already topping $5 a gallon.",
-      "url": "https://www.clickondetroit.com/news/local/2026/09/18/michigan-gas-prices-soar-to-dollar489-some-metro-detroit-stations-top-dollar5/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/video/wdiv/eed5654b-5af0-435b-81d3-8783e67e7ff4/image.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-09-18T21:35:52Z",
+      "title": "Petrol, diesel prices today, September 19: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "The national average petrol price stands at \u20b9111.21 per litre, while diesel is priced at \u20b997.83 per litre.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-19-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556584-2026-09-19",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aadec94c60b5-for-daily-commuters--this-means-no-major-shock-at-the-pump--though-prices-remain-elevated-compared-t-195947860-16x9.jpg",
+      "publishedAt": "2026-09-19T02:00:39Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "Business Today"
       }
     },
     {
-      "title": "How major US stock indexes fared Friday 9",
-      "description": "Wall Street closed out an up-and-down week with a mixed finish for U.S. indexes as bond yields rose and oil prices swung. The S&P 500 rose 0.2% Friday. The",
-      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-friday-9-18-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon-300x300.png",
-      "publishedAt": "2026-09-18T20:30:02Z",
-      "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "Why high gas prices are not a 'small price to pay' as Trump says",
-      "description": "President Donald Trump says high gas prices are a \u201csmall price to pay\u201d for the ongoing war on Iran . The comments came as the average price of gas on Frida",
-      "url": "https://www.newsbreak.com/usa-today-560565/4894619547488-why-high-gas-prices-are-not-a-small-price-to-pay-as-trump-says",
-      "image": "https://img.particlenews.com/img/id/4aEYav_1FHw583f00",
-      "publishedAt": "2026-09-18T20:27:08Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Aramco to up oil exports to 60 mn barrels in September, October",
-      "description": "The rebound in state oil company Saudi Aramco's exports from inside the Gulf to 1 million to 1.5 million barrels per day on average, similar to or slightly higher than August's levels, has cooled global oil prices as it could make up for some of the volume lost at its Red Sea port of Yanbu, where exports slowed after the East-West pipeline was attacked.",
-      "url": "https://economictimes.indiatimes.com/news/international/business/aramco-to-up-oil-exports-to-60-mn-barrels-in-september-october/articleshow/134343647.cms",
-      "image": "https://img.etimg.com/thumb/msid-134343646,width-1200,height-630,imgsize-321644,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-18T20:03:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Find the cheapest petrol station near you as 100 more garages charge more than \u00a32 a litre",
-      "description": "Prices have increased once again for diesel motorists",
-      "url": "https://www.manchestereveningnews.co.uk/news/local-news/find-cheapest-petrol-station-near-34640781",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34640812.ece/ALTERNATES/s1200d/0_UK-Fuel-Price-Rises-Push-Inflation-Rate-Up-To-31.jpg",
-      "publishedAt": "2026-09-18T19:22:26Z",
-      "source": {
-        "name": "Manchester Evening News"
-      }
-    },
-    {
-      "title": "Germany plans cut in energy tax to lower petrol prices",
-      "description": "Read more about Germany plans cut in energy tax to lower petrol prices on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3979134-germany-plans-cut-in-energy-tax-to-lower-petrol-prices",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_10_0069135.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-18T19:20:48Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Euro slips back below 1.15, geopolitics and Oil prices 'take centre stage'",
-      "description": "The euro has fallen back below the 1.15 level versus the dollar this week, extending its month-to-date losses to more than one percent after the hawkish Fed",
-      "url": "https://www.europesays.com/3258665/",
-      "image": "https://www.europesays.com/wp-content/uploads/2025/12/West-Texas-Intermediate_3_Medium.png",
-      "publishedAt": "2026-09-18T19:10:53Z",
+      "title": "Junghietu states Moldova must maintain its strategic gas reserve, as it is not a surplus",
+      "description": "The Republic of Moldova's security gas stocks cannot be used to temporarily lower gas prices, as they are the country's strategic reserve for crises and can",
+      "url": "https://www.europesays.com/3259194/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/93543a72-41cd-49a9-9ab2-5c8958ce9541.jpg",
+      "publishedAt": "2026-09-19T01:49:29Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Mapped: 100 more UK garages charging over \u00a32 a litre for fuel",
-      "description": "Petrol and diesel prices have both hit the highest levels since 2022 as the war in the Middle East rages on",
-      "url": "https://www.express.co.uk/news/uk/2249871/mapped-100-uk-garages-over-2-fuel",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7149531.jpg",
-      "publishedAt": "2026-09-18T18:51:00Z",
+      "title": "Petrol, diesel prices today, September 19: Check rates in Delhi, Mumbai, Bengaluru",
+      "description": "In Mumbai, petrol price stands at \u20b9111.21 per litre today. No change has been recorded in petrol prices compared to yesterday.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-september-19-check-rates-in-delhi-mumbai-bengaluru-11789780532491.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/19/1600x900/logo/IRAN-CRISIS-SOUTHASIA-ENERGY-26_1789781043987_e0uZ_1789781071353_kgPm_b3b9af24-e9f9-422e-90c4-bf4d01ea6882_L4Pe.JPG",
+      "publishedAt": "2026-09-19T01:35:33Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Investor sentiment plunges to 16-month low, AAII survey shows",
-      "description": "Investor sentiment fell to its lowest level since May 2025, according to the latest AAII survey. Bearish investors rose to 53.3%, while bullish sentiment dropped to 28.8%. The bull-bear spread fell to -24.5%, as elevated oil prices, a Fed rate hike and market volatility fuelled caution among individual investors.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/investor-sentiment-plunges-to-16-month-low-aaii-survey-shows/articleshow/134342784.cms",
-      "image": "https://img.etimg.com/thumb/msid-134342815,width-1200,height-630,imgsize-92302,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-18T18:48:00Z",
+      "title": "Stocks gain but oil-driven inflation still a worry",
+      "description": "RECAP: Asian stocks rose on Friday, helped by a dip in oil prices, even as investors grappled with efforts by global central \u200cbanks to rein in oil-driven inflation, with Japan hiking its benchmark interest rate.",
+      "url": "https://www.bangkokpost.com/business/general/3322299/stocks-gain-but-oildriven-inflation-still-a-worry",
+      "image": "https://static.bangkokpost.com/media/content/20260919/c1_3322299_260919114235_700.jpg",
+      "publishedAt": "2026-09-19T01:10:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "Daily Voice: Mixed Q2FY27 earnings likely amid commodity inflation; Emkay Wealth CIO flags 7 sectors",
+      "description": "A rising rate environment and higher oil prices is definitely a huge challenge for the Indian Economy and the overall markets as a whole, said Ashish Ranawade of Emkay Wealth Management.",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-mixed-q2fy27-earnings-likely-amid-commodity-inflation-emkay-wealth-cio-flags-7-sectors-14033306.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260918195317_Ashish-Ranawade.jpg",
+      "publishedAt": "2026-09-19T01:05:50Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Oil prices are high but could be much worse. Trump has China's Xi to thank for that",
+      "description": "President Donald Trump\u2019s conflict with Iran has not led to the doomsday oil price spike many feared at the start of the war. WASHINGTON (AP) \u2014",
+      "url": "https://www.breitbart.com/news/oil-prices-are-high-but-could-be-much-worse-trump-has-chinas-xi-to-thank-for-that/",
+      "image": "https://media.breitbart.com/media/2026/09/wi/ap/trump-xi-2776-trump-xi-president-donald-trump-left-chinese-president-xi-jinping-tour-forbidden-city-640x335.jpg",
+      "publishedAt": "2026-09-18T23:49:27Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Gas prices are spiking in Chicago again. Why there may be no end in sight",
+      "description": "Ongoing geo-political conflicts have sparked the latest surge and record-high prices for diesel.",
+      "url": "https://chicago.suntimes.com/2026/09/why-gas-prices-high-chicago",
+      "image": "https://cst.brightspotcdn.com/dims4/default/6780d03/2147483647/strip/true/crop/4414x2520+0+212/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2Fb8%2Fe6%2F0baf1f434039a88d00b872ab6422%2Fgasexpl-260919-8.jpg",
+      "publishedAt": "2026-09-18T22:47:20Z",
+      "source": {
+        "name": "Chicago Sun-Times"
+      }
+    },
+    {
+      "title": "Mumbai Fuel Pumps Threaten To Drop UPI Over MDR Fees From Oct. 15",
+      "description": "The Petrol Dealers Association of Mumbai (PDAM) has written to the Reserve Bank of India and the Finance Ministry, seeking a complete waiver of the charges for fuel retailers. The association warned that dealers could withdraw UPI payment facilities if the MDR is not rolled back.",
+      "url": "https://www.deccanchronicle.com/nation/mumbai-fuel-pumps-threaten-to-drop-upi-over-mdr-fees-from-oct-15-1988658",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/09/18/2090620-2073315-upi.jpg",
+      "publishedAt": "2026-09-18T22:28:08Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "Goods transporters hike fares by 7pc amid rising fuel prices",
+      "description": "KARACHI\u00a0 -\u00a0 Goods trans\u00adporters have announced a seven percent increase in freight charges follow\u00ading a sharp rise in die\u00adsel and petrol prices.",
+      "url": "https://www.nation.com.pk/19-Sep-2026/goods-transporters-hike-fares-7pc-amid-rising-fuel-prices",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-09-18T22:23:00Z",
+      "source": {
+        "name": "The Nation"
       }
     }
   ]
