@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-09-20T15:05:22+00:00",
+  "updated_at": "2026-09-20T19:58:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Why we can't fix petrol prices in Nigeria",
+      "description": "The Nigerian Mainstream and Downstream Petroleum Regulatory Authority, NMDPRA, has revealed the real reason it cannot fix petrol price in Nigeria.",
+      "url": "https://www.europesays.com/3261666/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/NMDPRA.jpg",
+      "publishedAt": "2026-09-20T07:13:41Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "UPI Day' in Madhya Pradesh message is fake and misleading",
+      "description": "Indian Oil Corp debunks fake 'No-UPI Day' message in MP. Petrol pumps accept all UPI payments, no restrictions announced.",
+      "url": "https://www.cnbctv18.com/business/indian-oil-corporation-fact-check-no-upi-day-message-fake-misleading-madhya-pradesh-rs-2000-mdr-19994229.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/08/upi-2026-08-000da2eb8d952e5d6344ea2db1280d89.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-20T06:40:23Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "FPIs turn cautious; withdraw Rs 20,974 cr from equities in Sep amid global uncertainty",
+      "description": "NEW DELHI, Sept 20: \u00a0Foreign Portfolio Investors (FPIs) have turned cautious again, pulling out Rs 20,974 crore from Indian equities so far in September amid global uncertainties, higher US interest rates and bond yields, elevated crude oil prices and a...",
+      "url": "https://www.dailyexcelsior.com/fpis-turn-cautious-withdraw-rs-20974-cr-from-equities-in-sep-amid-global-uncertainty/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYThkYjRlZmUwLWI0YmQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-20T06:36:03Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "The Essex areas with some of the UK's most expensive petrol",
+      "description": "Drivers are facing the pinch at the petrol pump",
+      "url": "https://www.essexlive.news/news/essex-news/essex-areas-uks-most-expensive-11158302",
+      "image": "https://i2-prod.essexlive.news/article11133815.ece/ALTERNATES/s1200d/0_Fuels-at-a-Petrol-Station.jpg",
+      "publishedAt": "2026-09-20T06:00:00Z",
+      "source": {
+        "name": "Essexlive"
+      }
+    },
+    {
+      "title": "AA and RAC issue fresh petrol and diesel warning for drivers",
+      "description": "Last week, Brent Crude, considered the international benchmark, reached $100 a barrel on Wednesday in a 2.4% rise.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/aa-rac-issue-fresh-petrol-34619607",
+      "image": "https://i2-prod.birminghammail.co.uk/article34619694.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-09-20T05:33:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Trump supporters stay loyal despite high gas prices",
+      "description": "I was at the Kroger fuel station this morning; I told the cashier that I wanted to get some gas as I felt the price was going to go up",
+      "url": "https://roanoke.com/opinion/letters/article_1a37a10a-4128-4038-9ebc-3cdad82a6fa8.html",
+      "image": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/1/a3/1a37a10a-4128-4038-9ebc-3cdad82a6fa8/6aa8acbc914bb.preview.jpg?crop=640%2C336%2C0%2C11",
+      "publishedAt": "2026-09-20T04:00:00Z",
+      "source": {
+        "name": "Roanoke Times"
+      }
+    },
     {
       "title": "Oil prices are high, but could be much worse. China\u2019s energy strategy may be to thank for the relative stability",
       "description": "Drawing from a massive stockpile has allowed China to cut crude imports, easing global demand and softening price effects as oil exports stalled through the Strait of Hormuz.",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-09-20T02:27:29Z",
       "source": {
         "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Fuel 'shield' would spare drivers worst of price shocks",
-      "description": "The fuel excise could be halved whenever global oil prices exceed $US100 a barrel under a coalition policy...",
-      "url": "https://www.canberratimes.com.au/story/9353691/fuel-shield-would-spare-drivers-worst-of-price-shocks/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/9253a108-c8fd-455f-b6a3-e810864802f1.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-09-20T02:25:10Z",
-      "source": {
-        "name": "The Canberra Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today, September 20: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "With Brent crude dropping below $104\u00a0per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-20-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556659-2026-09-20",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaf3dc8a79aa-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-265843177-16x9.jpg",
-      "publishedAt": "2026-09-20T02:23:50Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "PM Shehbaz orders hassle-free provision of petrol subsidy",
-      "description": "ISLAMABAD\u00a0 -\u00a0 Prime Minister\u2019s Special Relief Scheme has been successfully rolled out across Pakistan, with petrol being provided at a discounted rate of",
-      "url": "https://www.nation.com.pk/20-Sep-2026/pm-shehbaz-orders-hassle-free-provision-petrol-subsidy",
-      "image": "https://www.nation.com.pk/print_images/large/2026-09-20/pm-shehbaz-orders-hassle-free-provision-petrol-subsidy-1789870387-4022.jpg",
-      "publishedAt": "2026-09-20T02:14:00Z",
-      "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "Daily Voice: Elevated oil prices may make broader earnings environment challenging; bond yields to remain high for next few months, says TRUST MF CEO",
-      "description": "Higher US rates could lead to temporary dollar strength and capital outflows from emerging markets, said Sandeep Bagla of TRUST Mutual Fund.",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-elevated-oil-prices-may-make-broader-earnings-environment-challenging-bond-yields-to-remain-high-for-next-few-months-says-trust-mf-ceo-14033659.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250513200237_Sandeep_Bagla.jpg",
-      "publishedAt": "2026-09-20T01:39:04Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
-      "description": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel",
-      "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_nf2k7esprs.jpg",
-      "publishedAt": "2026-09-19T23:00:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "China doesn\u2019t pump the most oil. So how did it gain so much energy power?",
-      "description": "Years of buying crude, expanding refineries and developing alternatives have left China with new leverage over fuel supplies and global oil prices.",
-      "url": "https://www.moneycontrol.com/world/china-doesn-t-pump-the-most-oil-so-how-did-it-gain-so-much-energy-power-article-14033630.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260806121356_China-Flag-2.jpg",
-      "publishedAt": "2026-09-19T16:41:38Z",
-      "source": {
-        "name": "Moneycontrol"
       }
     }
   ]
