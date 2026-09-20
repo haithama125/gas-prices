@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-09-20T02:22:10+00:00",
+  "updated_at": "2026-09-20T10:16:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "China doesn\u2019t pump the most oil. So how did it gain so much energy power?",
+      "description": "Years of buying crude, expanding refineries and developing alternatives have left China with new leverage over fuel supplies and global oil prices.",
+      "url": "https://www.moneycontrol.com/world/china-doesn-t-pump-the-most-oil-so-how-did-it-gain-so-much-energy-power-article-14033630.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260806121356_China-Flag-2.jpg",
+      "publishedAt": "2026-09-19T16:41:38Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Petrol-filled bottles hurled at house in Punjab's Phagwara",
+      "description": "Phagwara, Sep 19 (PTI) Three unidentified men hurled bottles allegedly filled with petrol at the roof of a house early Saturday in Jhapar Colony, Basant Nagar here, police said. A complaint in this regard was filed by Vimla Devi and her son Ravi Kumar. \u201cWe were asleep but our neighbours noticed flames and informed us,\u201d [\u2026]",
+      "url": "https://theprint.in/india/petrol-filled-bottles-hurled-at-house-in-punjabs-phagwara/3047688/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-09-19T16:21:26Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Mass. gas prices have risen dramatically. Here\u2019s what to expect this fall.",
+      "description": "While fall is typically when gas prices drop, AAA Northeast spokesperson Mark Schieldrop says this fall is an \u201cunusual\u201d situation.",
+      "url": "https://www.bostonglobe.com/2026/09/19/business/massachusetts-gas-prices/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BGOEV2D3GVRDJWJSJROMPD7I7E.jpg?auth=249d134ecd92f1318a2a530259877ba4c6a9095fa7d4be787960c0dd5a004e18&width=1440",
+      "publishedAt": "2026-09-19T16:21:09Z",
+      "source": {
+        "name": "The Boston Globe"
+      }
+    },
+    {
+      "title": "US Market Outlook: Yields eye higher",
+      "description": "US market outlook predicts potential yield increase driven by rate hikes and oil prices, while indices show mixed performance.",
+      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-yields-eye-higher/article71483837.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/u11w3o/article71484183.ece/alternates/LANDSCAPE_1200/PO20_Support_mountain.jpg",
+      "publishedAt": "2026-09-19T16:12:54Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Just SIX cheap fixed energy deals remain amid fears Middle East crisis could push bills to \u00a32,150",
+      "description": "CHEAP fixed energy deals are being axed and repriced by the day.\nSuppliers are scrambling to react to soaring wholesale gas prices.\nThat...",
+      "url": "https://www.thesun.co.uk/money/40426755/cheap-energy-deals-dwindle-amid-middle-east-crisis/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/picture-used-accompany-pa-feature-1083922236_98dd9f.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-09-19T16:04:47Z",
+      "source": {
+        "name": "The Sun"
+      }
+    },
+    {
+      "title": "Man arrested for setting woman on fire in Chennai",
+      "description": "Man arrested in Chennai\u2019s Washermanpet for pouring petrol on a 32-year-old woman and setting her on fire; victim has 50% burns, FIR filed under BNS.",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/man-arrested-for-setting-woman-on-fire-in-chennai/articleshow/134356819.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134356818,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-19T16:01:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Crude Check: Upside bias holds",
+      "description": "Crude oil prices show an upside bias with key support levels, indicating potential for recovery despite recent corrections.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-upside-bias-holds/article71484327.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/l9i5a3/article71484557.ece/alternates/LANDSCAPE_1200/bl16-Think1-MaiGPSG0BAC6.5.jpg.jpg",
+      "publishedAt": "2026-09-19T15:50:59Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "'We\u2019ve been free-riding off Beijing in a weird way' Trump has China to thank for limiting oil prices",
+      "description": "\u201cChina\u2019s doing it because they understand that they\u2019re on the train that Trump is driving off a cliff. If oil prices go way up, that hurts the global economy. If it hurts the global economy, it hurts them.\u201d",
+      "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26262010802776-e1789829252427.jpg?resize=1200,600",
+      "publishedAt": "2026-09-19T15:00:29Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
     {
       "title": "Gold, silver jump up to 3 pc over week amid softer crude oil prices",
       "description": "Gold, silver jump up to 3 pc over week amid softer crude oil prices - Mumbai, Sep 19 Gold and silver prices surged up to 3 per cent this week supported by softer ... Get Latest News on Business only on lokmattimes.com",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-09-19T13:50:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "MP petrol pump dealers to stop accepting UPI payments above \u20b92,000 from October 15",
-      "description": "The decision was taken unanimously at a meeting of the MP Petrol Pump Association, which represents 4,700 dealers statewide. | India News",
-      "url": "https://www.hindustantimes.com/india-news/mp-petrol-pump-dealers-to-stop-accepting-upi-payments-above-rs-2-000-from-october-15-101789824516576.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/19/1600x900/logo/petrol_price_today_mumbai_1774005513901_1774005514168_1789825027831_ouPm_540b6229-f35a-464c-ba76-f50e0a261c15_TojF.jpg",
-      "publishedAt": "2026-09-19T13:38:07Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "MP petrol pump dealers to stop accepting UPI payments above Rs 2,000 from Oct 16 over MDR charges",
-      "description": "The Madhya Pradesh Petroleum Dealers Association has announced that its members will not accept UPI payments above Rs 2,000 from October 16, citing the 0.4 per cent Merchant Discount Rate (MDR) charge proposed on such transactions.",
-      "url": "https://www.devdiscourse.com/article/headlines/3979417-mp-petrol-pump-dealers-to-stop-accepting-upi-payments-above-rs-2000-from-oct-16-over-mdr-charges",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/19_09_2026_18_46_49_9110522.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-19T13:16:54Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "MP petrol pump dealers to stop accepting UPI payments above Rs 2,000 from Oct 16 over MDR charges",
-      "description": "The Madhya Pradesh Petroleum Dealers Association has announced that its members will not accept UPI payments above Rs 2,000 from October 16, citing the 0.4 per cent Merchant Discount Rate (MDR) charge proposed on such transactions.",
-      "url": "https://www.aninews.in/news/national/general-news/mp-petrol-pump-dealers-to-stop-accepting-upi-payments-above-rs-2000-from-oct-16-over-mdr-charges20260919184249/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260919121122-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-19T13:12:49Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "U.S. Fuel Prices Surge As Iran War Rages With No End In Sight",
-      "description": "U.S. gas prices rise to $4.47 per gallon the day after hundreds of thousands attend a pro-government march in Tehran in show of support for the Iranian regime.",
-      "url": "https://www.ibtimes.com/us-fuel-prices-surge-iran-war-rages-no-end-sight-3807648",
-      "image": "https://d.ibtimes.com/en/full/4652812/trump-observes-iran-strikes.jpg",
-      "publishedAt": "2026-09-19T12:46:51Z",
-      "source": {
-        "name": "International Business Times"
-      }
-    },
-    {
-      "title": "PM Special Relief Scheme continues; PM desires expanded outreach",
-      "description": "Prime Minister\u2019s Special Relief Scheme has been successfully rolled out across Pakistan, with petrol being provided at a subsidized rate of Rs100 per liter under the",
-      "url": "https://www.nation.com.pk/19-Sep-2026/pm-special-relief-scheme-continues-pm-desires-expanded-outreach",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-09-19/pm-special-relief-scheme-continues-pm-desires-expanded-outreach-1789821573-8598.jpg",
-      "publishedAt": "2026-09-19T12:39:42Z",
-      "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "HC upholds order to remove ad panels from 5 Chandigarh petrol pumps",
-      "description": "The Division Bench of the Punjab and Haryana High Court has dismissed an appeal filed by advertising firm M/s AD STATION challenging a July 13, 2026, judgment of a Single Judge, which had dismissed the firm\u2019s writ petition against the withdrawal of permission to display advertisements at five petrol pump outlets in Chandigarh.",
-      "url": "https://www.tribuneindia.com/news/chandigarh/hc-upholds-order-to-remove-ad-panels-from-5-chandigarh-petrol-pumps/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWFlZTIzYTQwLWI0MjQtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-19T12:21:42Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Republican control of House, Senate odds fade on Trump backlash",
-      "description": "High gas prices, the lingering Iran war and growing voter discontent with President Trump are dragging House control away from Republicans -- with the Senate now in jeopardy, too.",
-      "url": "https://nypost.com/2026/09/19/us-news/republican-control-of-house-senate-odds-fade-on-trump-backlash/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141628661.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-19T12:14:43Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "This swing state Republican keeps distancing himself from Trump. It may not save him in the midterms",
-      "description": "It\u2019s hard to imagine a Republican who\u2019s done more to draw a sharp contrast with the president than Brian Fitzpatrick. The Pennsylvania congressman skipped the president\u2019s recent midterm convention. Fitzpatrick voted against Trump's tariffs, Trump's signature tax cut legislation and Trump's ability to wage war against Iran without congressional approval. But Democrats are hopeful that Trump's low approval ratings and rising gas prices will make it impossible for Fitzpatrick to win reelection this year. He's one of the few Republican lawmakers representing districts won by Democrat Kamala Harris in the White House race two years ago.",
-      "url": "https://www.ajc.com/news/2026/09/this-swing-state-republican-keeps-distancing-himself-from-trump-it-may-not-save-him-in-the-midterms/",
-      "image": "https://images.ajc.com/resizer/v2/OFWT6XQM5FDMTPCQB4BY64QIDE.jpg?auth=3f1b87f0d6c4c5c9d489e13d39aaf9e721c818fb79eada28935a32e9ffbb4f4b&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-19T12:03:12Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
