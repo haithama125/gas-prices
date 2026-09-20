@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-09-20T10:16:59+00:00",
+  "updated_at": "2026-09-20T15:05:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Oil prices are high, but could be much worse. China\u2019s energy strategy may be to thank for the relative stability",
+      "description": "Drawing from a massive stockpile has allowed China to cut crude imports, easing global demand and softening price effects as oil exports stalled through the Strait of Hormuz.",
+      "url": "https://www.adn.com/nation-world/2026/09/19/oil-prices-are-high-but-could-be-much-worse-chinas-energy-strategy-may-be-to-thank-for-the-relative-stability/",
+      "image": "https://www.adn.com/resizer/v2/6UI23Y4PQY6MITX5SUJHELMYMI.jpg?smart=true&auth=30891483781b8bd945d7c98a4fee38a9f301770e7328d13e008ced8c492893e6&width=1200&height=630",
+      "publishedAt": "2026-09-20T03:02:45Z",
+      "source": {
+        "name": "Anchorage Daily News"
+      }
+    },
+    {
+      "title": "Lahore commissioner reviews fuel subsidy arrangements at petrol pumps",
+      "description": "LAHORE\u00a0 \u00a0-\u00a0 The process of supplying subsidized fuel to citizens under the Prime Minister\u2019s petroleum products subsidy scheme, alongwith",
+      "url": "https://www.nation.com.pk/20-Sep-2026/lahore-commissioner-reviews-fuel-subsidy-arrangements-petrol-pumps",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-09-20T02:51:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "LPG, CNG, PNG prices today (September 20): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "LPG, CNG, and PNG prices today: Crude oil prices fell in early trading as Saudi Arabia Civil Defense issued second danger alerts for Riyadh and al-Kharj overnight after earlier warnings were lifted.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-20-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-556660-2026-09-20",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaf4274a4752-lpg--cng--png-prices-on-may-20-check-latest-rates-in-major-cities-204512626-16x9.jpg",
+      "publishedAt": "2026-09-20T02:29:24Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Fuel 'shield' would spare drivers worst of price shocks",
+      "description": "The fuel excise could be halved whenever global oil prices exceed $US100 a barrel under a coalition policy aimed at reducing cost-of-living pressures.",
+      "url": "https://www.perthnow.com.au/news/business/fuel-shield-would-spare-drivers-worst-of-price-shocks-c-22897520",
+      "image": "https://images.perthnow.com.au/publication/C-22897520/c55d413e90373f1cb5a85bb391a1845c730bab71-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-09-20T02:27:29Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "Fuel 'shield' would spare drivers worst of price shocks",
+      "description": "The fuel excise could be halved whenever global oil prices exceed $US100 a barrel under a coalition policy...",
+      "url": "https://www.canberratimes.com.au/story/9353691/fuel-shield-would-spare-drivers-worst-of-price-shocks/",
+      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/9253a108-c8fd-455f-b6a3-e810864802f1.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
+      "publishedAt": "2026-09-20T02:25:10Z",
+      "source": {
+        "name": "The Canberra Times"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, September 20: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "With Brent crude dropping below $104\u00a0per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-20-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556659-2026-09-20",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaf3dc8a79aa-a-combination-of-global--economic--and-domestic-factors-shapes-fuel-prices-at-the-pump-265843177-16x9.jpg",
+      "publishedAt": "2026-09-20T02:23:50Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "PM Shehbaz orders hassle-free provision of petrol subsidy",
+      "description": "ISLAMABAD\u00a0 -\u00a0 Prime Minister\u2019s Special Relief Scheme has been successfully rolled out across Pakistan, with petrol being provided at a discounted rate of",
+      "url": "https://www.nation.com.pk/20-Sep-2026/pm-shehbaz-orders-hassle-free-provision-petrol-subsidy",
+      "image": "https://www.nation.com.pk/print_images/large/2026-09-20/pm-shehbaz-orders-hassle-free-provision-petrol-subsidy-1789870387-4022.jpg",
+      "publishedAt": "2026-09-20T02:14:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Daily Voice: Elevated oil prices may make broader earnings environment challenging; bond yields to remain high for next few months, says TRUST MF CEO",
+      "description": "Higher US rates could lead to temporary dollar strength and capital outflows from emerging markets, said Sandeep Bagla of TRUST Mutual Fund.",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-elevated-oil-prices-may-make-broader-earnings-environment-challenging-bond-yields-to-remain-high-for-next-few-months-says-trust-mf-ceo-14033659.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250513200237_Sandeep_Bagla.jpg",
+      "publishedAt": "2026-09-20T01:39:04Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Europe Outbids Asia for LNG as Prices Surge 150%",
+      "description": "Liquefied natural gas prices on the spot market are moving higher as demand picks up seasonally and Asian importers are souring on the fuel",
+      "url": "https://oilprice.com/Energy/Natural-Gas/Europe-Outbids-Asia-for-LNG-as-Prices-Surge-150.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-09-18_nf2k7esprs.jpg",
+      "publishedAt": "2026-09-19T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
     {
       "title": "China doesn\u2019t pump the most oil. So how did it gain so much energy power?",
       "description": "Years of buying crude, expanding refineries and developing alternatives have left China with new leverage over fuel supplies and global oil prices.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-09-19T16:41:38Z",
       "source": {
         "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Petrol-filled bottles hurled at house in Punjab's Phagwara",
-      "description": "Phagwara, Sep 19 (PTI) Three unidentified men hurled bottles allegedly filled with petrol at the roof of a house early Saturday in Jhapar Colony, Basant Nagar here, police said. A complaint in this regard was filed by Vimla Devi and her son Ravi Kumar. \u201cWe were asleep but our neighbours noticed flames and informed us,\u201d [\u2026]",
-      "url": "https://theprint.in/india/petrol-filled-bottles-hurled-at-house-in-punjabs-phagwara/3047688/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-09-19T16:21:26Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Mass. gas prices have risen dramatically. Here\u2019s what to expect this fall.",
-      "description": "While fall is typically when gas prices drop, AAA Northeast spokesperson Mark Schieldrop says this fall is an \u201cunusual\u201d situation.",
-      "url": "https://www.bostonglobe.com/2026/09/19/business/massachusetts-gas-prices/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/BGOEV2D3GVRDJWJSJROMPD7I7E.jpg?auth=249d134ecd92f1318a2a530259877ba4c6a9095fa7d4be787960c0dd5a004e18&width=1440",
-      "publishedAt": "2026-09-19T16:21:09Z",
-      "source": {
-        "name": "The Boston Globe"
-      }
-    },
-    {
-      "title": "US Market Outlook: Yields eye higher",
-      "description": "US market outlook predicts potential yield increase driven by rate hikes and oil prices, while indices show mixed performance.",
-      "url": "https://www.thehindubusinessline.com/portfolio/technical-analysis/us-market-outlook-yields-eye-higher/article71483837.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/u11w3o/article71484183.ece/alternates/LANDSCAPE_1200/PO20_Support_mountain.jpg",
-      "publishedAt": "2026-09-19T16:12:54Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Just SIX cheap fixed energy deals remain amid fears Middle East crisis could push bills to \u00a32,150",
-      "description": "CHEAP fixed energy deals are being axed and repriced by the day.\nSuppliers are scrambling to react to soaring wholesale gas prices.\nThat...",
-      "url": "https://www.thesun.co.uk/money/40426755/cheap-energy-deals-dwindle-amid-middle-east-crisis/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/09/picture-used-accompany-pa-feature-1083922236_98dd9f.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-09-19T16:04:47Z",
-      "source": {
-        "name": "The Sun"
-      }
-    },
-    {
-      "title": "Man arrested for setting woman on fire in Chennai",
-      "description": "Man arrested in Chennai\u2019s Washermanpet for pouring petrol on a 32-year-old woman and setting her on fire; victim has 50% burns, FIR filed under BNS.",
-      "url": "https://timesofindia.indiatimes.com/city/chennai/man-arrested-for-setting-woman-on-fire-in-chennai/articleshow/134356819.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134356818,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-19T16:01:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Crude Check: Upside bias holds",
-      "description": "Crude oil prices show an upside bias with key support levels, indicating potential for recovery despite recent corrections.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-upside-bias-holds/article71484327.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/l9i5a3/article71484557.ece/alternates/LANDSCAPE_1200/bl16-Think1-MaiGPSG0BAC6.5.jpg.jpg",
-      "publishedAt": "2026-09-19T15:50:59Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "'We\u2019ve been free-riding off Beijing in a weird way' Trump has China to thank for limiting oil prices",
-      "description": "\u201cChina\u2019s doing it because they understand that they\u2019re on the train that Trump is driving off a cliff. If oil prices go way up, that hurts the global economy. If it hurts the global economy, it hurts them.\u201d",
-      "url": "https://fortune.com/2026/09/19/trump-xi-jinping-summit-oil-prices-iran-war-crude-reserves/",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/09/AP26262010802776-e1789829252427.jpg?resize=1200,600",
-      "publishedAt": "2026-09-19T15:00:29Z",
-      "source": {
-        "name": "Fortune"
-      }
-    },
-    {
-      "title": "Gold, silver jump up to 3 pc over week amid softer crude oil prices",
-      "description": "Gold, silver jump up to 3 pc over week amid softer crude oil prices - Mumbai, Sep 19 Gold and silver prices surged up to 3 per cent this week supported by softer ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/gold-silver-jump-up-to-3-pc-over-week-amid-softer-crude-oil-prices/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20251018100f_202609.jpg",
-      "publishedAt": "2026-09-19T14:07:42Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Petrol pump UPI payments above Rs 2,000 to stop from October 16 in Madhya Pradesh: Dealers cite 0.4% MDR charge; debit and credit cards to remain available",
-      "description": "Petrol pump dealers in Madhya Pradesh will stop accepting UPI payments above Rs 2,000 from October 16, citing a proposed 0.4 per cent Merchant Discount Rate (MDR). Fuel retailers say their narrow profit margins make it difficult to absorb the additional cost. Customers can continue to use debit and credit cards for fuel purchases, while the association has urged the government to extend existing MDR exemptions to UPI transactions.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-pump-upi-payments-above-rs-2000-to-stop-from-october-16-in-madhya-pradesh-dealers-cite-0-4-mdr-charge-debit-and-credit-cards-to-remain-available/articleshow/134355172.cms",
-      "image": "https://img.etimg.com/thumb/msid-134355314,width-1200,height-630,imgsize-1151266,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-19T13:50:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
