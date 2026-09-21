@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-09-21T17:24:56+00:00",
+  "updated_at": "2026-09-21T21:23:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Fall As Saudi Exports Recover: What It Means For Global Supply",
-      "description": "Oil prices fell as recovering Saudi exports eased some supply concerns, although continuing Houthi attacks and disruptions around the Strait of Hormuz kept pressure on the global energy market",
-      "url": "https://www.outlookindia.com/international/oil-prices-fall-as-saudi-exports-recover-what-it-means-for-global-supply",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-09-14/ae2f2dbr/Iran-War-Strait-of-Hormuz.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-21T05:23:44Z",
+      "title": "Sensex jumps 690 pts intraday, Nifty tops 23,400: 4 factors behind mkt rise",
+      "description": "Why Stock Market Rise Today?: Analysts at SBI Securities said that the gradual decline in crude oil prices over the last four trading sessions has provided some respite to Asian equities.",
+      "url": "https://www.business-standard.com/markets/news/sensex-jumps-690-pts-intraday-nifty-tops-23-400-4-factors-behind-mkt-rise-126092100555_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/13/thumb/fitandfill/1200X628/1765629334-2449.jpg",
+      "publishedAt": "2026-09-21T09:07:31Z",
       "source": {
-        "name": "Outlook India"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Sensex jumps 400 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
-      "description": "Indian equities gained in early trade as lower crude prices lifted sentiment, with Sensex rising 0.6% and Nifty 0.2%. Analysts expect volatility to persist amid geopolitical risks, elevated yields and sectoral rotation.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
-      "image": "https://img.etimg.com/thumb/msid-134380641,width-1200,height-630,imgsize-234612,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T05:20:00Z",
+      "title": "Global Market: European shares rise as oil slide boosts risk appetite",
+      "description": "European shares rose as technology stocks led gains and falling oil prices eased inflation concerns. The STOXX 600 advanced 0.56%, while investors also tracked the upcoming Trump-Xi meeting.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-rise-as-oil-slide-boosts-risk-appetite/articleshow/134381804.cms",
+      "image": "https://img.etimg.com/thumb/msid-134384953,width-1200,height-630,imgsize-269278,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T08:47:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Warning for diesel drivers filling up cars at UK petrol stations 'this week'",
-      "description": "The average price of a litre of diesel has climbed to 195.32p, just under 4p short of the record 199.09p set in June 2022.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/warning-diesel-drivers-filling-up-34646394",
-      "image": "https://i2-prod.birminghammail.co.uk/article34646409.ece/ALTERNATES/s1200d/0_diesel.jpg",
-      "publishedAt": "2026-09-21T05:13:06Z",
+      "title": "US Market: Equity funds see fourth straight week of outflows as oil, rate hike concerns mount",
+      "description": "US equity funds saw a fourth consecutive week of outflows as rising oil prices, inflation concerns and expectations of further Federal Reserve rate hikes weighed on investor sentiment. Investors withdrew $31.44 billion, led by large-cap funds, while sector funds attracted fresh money. Bond fund inflows also eased during the week.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-equity-funds-see-fourth-straight-week-of-outflows-as-oil-rate-hike-concerns-mount/articleshow/134384599.cms",
+      "image": "https://img.etimg.com/thumb/msid-134384777,width-1200,height-630,imgsize-2028941,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T08:35:00Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Brent Crude Falls Below $102 As West Asia Diplomacy Hopes Ease Supply Concerns",
-      "description": "Brent crude futures declined below $102 a barrel on Monday as markets reacted to hopes of diplomatic efforts easing West Asia tensions. US-Iran developments, continued Houthi attacks on Saudi Arabia and crude movement through the Strait of Hormuz remained key factors influencing oil prices and commodity market sentiment",
-      "url": "https://www.freepressjournal.in/business/brent-crude-falls-below-102-as-west-asia-diplomacy-hopes-ease-supply-concerns",
-      "image": "https://media.assettype.com/freepressjournal/2026-03-07/pbz5kz6v/Crude-oil.jpg",
-      "publishedAt": "2026-09-21T05:04:44Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Brent crude falls to $103 despite fresh Houthi attacks in Middle East; Check city wise petrol and diesel rates today",
-      "description": "City-wise petrol and diesel prices today on September 21",
-      "url": "https://www.moneycontrol.com/news/india/brent-crude-falls-to-103-despite-fresh-houthi-attacks-in-middle-east-check-city-wise-petrol-and-diesel-rates-today-14034280.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917133251_Petrol-pump.jpg",
-      "publishedAt": "2026-09-21T04:58:46Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Stock markets climb in early trade on easing oil prices, fresh foreign fund inflows",
-      "description": "Market benchmark indices Sensex and Nifty climbed in early trade on Monday amid cooling crude oil prices, fresh foreign fund inflows and a positive trend in Asian equities.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-climb-in-early-trade-on-easing-oil-prices-fresh-foreign-fund-inflows/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxYjIzZDMwLWI1NzctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-21T04:43:32Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Stock markets climb in early trade on easing oil prices, fresh foreign fund inflows",
-      "description": "The 30-share BSE Sensex jumped 448.32 points to 74,743.28 in early trade. The 50-share NSE Nifty was up 50.3 points to 23,396.70.",
-      "url": "https://www.newindianexpress.com/business/2026/Sep/21/stock-markets-climb-in-early-trade-on-easing-oil-prices-fresh-foreign-fund-inflows",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-03-21%2Fqs6yxr2h%2F20260201422f.jpg?rect=0%2C20%2C449%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-21T04:39:01Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Why Adani Total Gas lost 5%, Adani Ports fell 2% despite gains on Sensex, Nifty",
-      "description": "Adani Group stocks fell on Monday, diverging from a rising Indian equity market, supported by easing crude oil prices. While Adani Total Gas, Ports, and Power declined, others like Adani Green Energy saw gains.",
-      "url": "https://www.livemint.com/market/stock-market-news/why-adani-total-gas-lost-5-adani-ports-fell-2-despite-gains-on-sensex-nifty-check-how-other-adani-stocks-performed-11789964095418.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/adani1_1789965033358_RTjF_1789965044572_kECg_4d1a2063-428c-41f0-86a6-6b23c7bf041e_KoNZ.png",
-      "publishedAt": "2026-09-21T04:28:25Z",
+      "title": "Nifty Auto looks set to snap a 5-month winning streak - Should you buy the dip in auto, auto ancillary stocks?",
+      "description": "After a 5-month winning streak, Nifty Auto and major auto stocks are in decline due to profit booking and economic concerns. With rising oil prices and impending interest rate hikes, experts suggest selective buying.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-auto-looks-set-to-snap-a-5-month-winning-streak-should-you-buy-the-dip-in-auto-auto-ancillary-stocks-11789976254551.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Nifty_Auto_1789976513599_e9eN_1789976517923_RVT9_d5f7a00a-ea31-4b4f-88d6-2a6fba41a029_i6qp.png",
+      "publishedAt": "2026-09-21T08:17:43Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying",
-      "description": "Sensex gained over 400 points and Nifty opened higher as easing crude oil prices and buying in realty and auto stocks supported market sentiment.",
-      "url": "https://www.freepressjournal.in/business/sensex-nifty-begin-on-a-strong-note-as-easing-crude-prices-fuel-fresh-buying",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-21/98lf7cz7/market-tpoday.png",
-      "publishedAt": "2026-09-21T04:26:33Z",
+      "title": "A Shortage of Oil Tankers Is Threatening to Keep Gas Prices High",
+      "description": "Record shipping rates through the Strait of Hormuz could offset falling crude prices. | World News",
+      "url": "https://www.hindustantimes.com/world-news/a-shortage-of-oil-tankers-is-threatening-to-keep-gas-prices-high-101789977234397.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/21/1600x900/logo/im-71970372_1789977239305_3m0o_1789977253166_7YvE_db4d2f38-06bc-4a2c-901b-a489afdb0f7c_L9n2.jpg",
+      "publishedAt": "2026-09-21T07:55:06Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "US Market: Fed rate path, oil prices and AI concerns to shape Wall Street this week",
-      "description": "US investors are set to focus on Federal Reserve rate signals, Middle East tensions, oil prices and Treasury yields this week. Attention will also center on Trump-Xi talks, semiconductor trade and growing AI concerns. Technology stocks remain crucial for broader market momentum, while economic data and Fed officials comments may shape expectations.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-rate-path-oil-prices-and-ai-concerns-to-shape-wall-street-this-week/articleshow/134379579.cms",
-      "image": "https://img.etimg.com/thumb/msid-134379618,width-1200,height-630,imgsize-196024,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T04:15:00Z",
+      "title": "Oil prices slide on hopes of diplomacy in Iran war",
+      "description": "NEW DELHI: Oil prices slid to their lowest in more than a week on Monday as investors hoped for diplomatic progress on the Iran war due to this week's UN meeting and eyed a partial recovery in shipments from Saudi Arabia despite ongoing attacks by Yemen's Houthis.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/21/oil-prices-slide-on-hopes-of-diplomacy-in-iran-war",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/21/4121664.jpg",
+      "publishedAt": "2026-09-21T07:38:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Europe's STOXX 600 rises on tech rally, easing oil prices",
+      "description": "A rally in technology stocks led \u200bEuropean shares higher on Monday, while the fourth consecutive session of declines in \u200coil prices soothed investor nerves and boosted risk sentiment.",
+      "url": "https://www.reuters.com/markets/europe/europes-stoxx-600-gains-tech-rallies-oil-retreat-eases-nerves-2026-09-21/",
+      "image": "https://www.reuters.com/resizer/v2/JDIW34MV4VNUNB4T33XXVWOVJI.jpg?auth=f88278f3c8e03c408440ad7dbf7eb6f8c0121b947e41768b418dc02159b5be85&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-21T07:28:22Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Chevron: The Bull Case Goes Beyond $100 Oil",
+      "description": "Chevron benefits from elevated oil prices, improved capital efficiency, Hess synergies, and a robust balance sheet. Read why CVX stock remains a Buy.",
+      "url": "https://seekingalpha.com/article/4948205-chevron-the-bull-case-goes-beyond-100-oil",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2226304893/image_2226304893.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-09-21T07:06:18Z",
+      "source": {
+        "name": "Seeking Alpha"
+      }
+    },
+    {
+      "title": "Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add \u20b973K cr",
+      "description": "Bogged down by crude oil prices trading above $100, the Nifty 50 index has lost 5 per cent during the six-week selloff, which is also its longest since 2020.",
+      "url": "https://www.business-standard.com/markets/news/nifty-s-6-week-losing-run-9-stocks-fall-10-14-6-defy-trend-add-73k-cr-126092100326_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/12/thumb/fitandfill/1200X628/1783878541-5305.jpg",
+      "publishedAt": "2026-09-21T07:00:52Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Crude above $100 may push India inflation to 6%, RBI could hike rates 50 bps: Kotak",
+      "description": "The elevated crude oil prices pose a direct threat to India's macroeconomic stability, with retail inflation projected to inch toward the 5.8 to 6.0 per cent mark by next quarter if prices stay elevated, according to Anindya Banerjee, Head - Commodity and Currency, Kotak Securities.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/crude-above-100-may-push-india-inflation-to-6-rbi-could-hike-rates-50-bps-kotak/articleshow/134382333.cms",
+      "image": "https://img.etimg.com/thumb/msid-134382662,width-1200,height-630,imgsize-112640,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-21T06:55:00Z",
       "source": {
         "name": "The Economic Times"
       }
