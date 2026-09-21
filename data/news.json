@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-21T11:25:44+00:00",
+  "updated_at": "2026-09-21T17:24:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fuel could hit Rs1,000/litre if shortage emerges: Pervaiz Malik",
-      "description": "LAHORE\u00a0 -\u00a0 Petroleum Minister Ali Pervaiz Malik issued a stark warning on Sunday that petrol prices could reach Rs1,000 per litre if a fuel shortage emerged in",
-      "url": "https://www.nation.com.pk/21-Sep-2026/fuel-hit-rs1-000-litre-shortage-emerges-pervaiz-malik",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-09-20T23:03:00Z",
+      "title": "Oil Prices Fall As Saudi Exports Recover: What It Means For Global Supply",
+      "description": "Oil prices fell as recovering Saudi exports eased some supply concerns, although continuing Houthi attacks and disruptions around the Strait of Hormuz kept pressure on the global energy market",
+      "url": "https://www.outlookindia.com/international/oil-prices-fall-as-saudi-exports-recover-what-it-means-for-global-supply",
+      "image": "https://cf-images.assettype.com/outlookindia/2026-09-14/ae2f2dbr/Iran-War-Strait-of-Hormuz.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-09-21T05:23:44Z",
       "source": {
-        "name": "The Nation"
+        "name": "Outlook India"
       }
     },
     {
-      "title": "California gas prices set for big drop next month after weeks of hell",
-      "description": "California drivers could finally get some relief at the pump next month after weeks of punishing price hikes sent the statewide average above $6 a gallon.",
-      "url": "https://nypost.com/2026/09/20/us-news/california-gas-prices-set-for-big-drop-next-month-after-weeks-of-hell/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141884530.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-20T21:11:05Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Markets live updates: ASX set to slide despite Wall Street edging up and lower oil prices",
-      "description": "While Wall Street closed the volatile week with a small gain, the ASX looks like it will come under selling pressure again today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
-      "url": "https://www.abc.net.au/news/2026-09-21/asx-markets-business-live-news/107174464",
-      "image": "https://live-production.wcms.abc-cdn.net.au/2bcc5de27112144035164dd51dacf77e?impolicy=wcms_watermark_news&cropH=530&cropW=942&xPos=0&yPos=14&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-09-20T20:57:46Z",
-      "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
-      }
-    },
-    {
-      "title": "Two held with 31gm heroin in anti",
-      "description": "The Chandigarh Police arrested two persons and recovered 31.31 grams of heroin from them in separate cases as its special anti-drug drive continued across the city. In the first case, police arrested 21-year-old Sujal alias Bawa, a labourer and resident of Ramdarbar, near the Sector 31 petrol pump during patrolling. It recovered 9.46 grams of heroin from him. Police said a case under the POCSO Act was already registered against the accused.",
-      "url": "https://www.tribuneindia.com/news/chandigarh/two-held-with-31gm-heroin-in-anti-drug-drive-in-chandigarh/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRmZTY2NDQwLWI1MzEtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-20T20:24:40Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Amid levy concerns, petrol stations to shun UPI transfer over Rs 2K from Oct 16",
-      "description": "Fuel stations in Punjab have announced that they will not accept UPI payments above Rs 2,000 from October 16, opposing the proposed 0.4 per cent Merchant Discount Rate (MDR) on such high-value transactions.",
-      "url": "https://www.tribuneindia.com/news/punjab/amid-levy-concerns-petrol-stations-to-shun-upi-transfer-over-rs-2k-from-oct-16/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU5MzJlNzcwLWI1MjktMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-20T19:31:40Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Rising gas prices frustrate voters. Trump says Iran war justifies the costs",
-      "description": "Voters across the nation say skyrocketing gas prices are causing financial hardships for their families. President Trump has played down the surging prices, saying the Iran war justifies the cost.",
-      "url": "https://www.latimes.com/world-nation/story/2026-09-20/rising-gas-prices-frustrate-voters-as-trump-defens",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/2cca2dc/2147483647/strip/true/crop/3000x1575+0+205/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F60%2Fe3%2Ff8dd16c545718c2a31f8c23e275b%2Fd7be52cae6c04257ad6550af565f7f01.jpg",
-      "publishedAt": "2026-09-20T19:18:24Z",
-      "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Three More Held for Hurling Petrol Bombs at Pandalur Villagers",
-      "description": "Following this, the cops in Devala police station arrested Yogesh and Naveen and formed a team to nab their three accomplices.",
-      "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/three-more-held-for-hurling-petrol-bombs-at-pandalur-villagers-1989140",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/09/11/2088041-1888438-arrested.jpg",
-      "publishedAt": "2026-09-20T19:01:04Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Oil prices key external risk, but yet to derail growth outlook: Radhika Rao, Executive Director & Senior Economist, DBS Bank",
-      "description": "\"In the near term, priorities will be to manage liquidity, gradually lower the sizable forwards book and support the domestic currency. Long-end yields continue to be influenced by the hardening global yields.\"",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/oil-prices-key-external-risk-but-yet-to-derail-growth-outlook-radhika-rao-executive-director-senior-economist-dbs-bank/articleshow/134374493.cms",
-      "image": "https://img.etimg.com/thumb/msid-134374518,width-1200,height-630,imgsize-89182,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-20T18:58:00Z",
+      "title": "Sensex jumps 400 points, Nifty nears 23,400 as oil prices cool down despite Middle East tensions. What lies ahead?",
+      "description": "Indian equities gained in early trade as lower crude prices lifted sentiment, with Sensex rising 0.6% and Nifty 0.2%. Analysts expect volatility to persist amid geopolitical risks, elevated yields and sectoral rotation.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-jumps-400-points-nifty-nears-23400-as-oil-prices-cool-down-despite-middle-east-tensions-what-lies-ahead/articleshow/134380591.cms",
+      "image": "https://img.etimg.com/thumb/msid-134380641,width-1200,height-630,imgsize-234612,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T05:20:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Rising ga prices frustrate voters, but Trump says it's an 'inexpensive price to pay' for Iran war",
-      "description": "Voters across the nation and across the political spectrum say skyrocketing gas prices are causing financial hardships for their families.",
-      "url": "https://www.inquirer.com/politics/trump-gas-prices-iran-war-voters-midterms-20260920.html",
-      "image": "https://www.inquirer.com/resizer/v2/IXGPBF642PX5W7PK5U7TY2VLVE.jpg?auth=acf20fc2da6bb4c37593d064366916670c05688748fc104d09f57273dac0c850&width=760&height=507&smart=true",
-      "publishedAt": "2026-09-20T18:35:00Z",
+      "title": "Warning for diesel drivers filling up cars at UK petrol stations 'this week'",
+      "description": "The average price of a litre of diesel has climbed to 195.32p, just under 4p short of the record 199.09p set in June 2022.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/warning-diesel-drivers-filling-up-34646394",
+      "image": "https://i2-prod.birminghammail.co.uk/article34646409.ece/ALTERNATES/s1200d/0_diesel.jpg",
+      "publishedAt": "2026-09-21T05:13:06Z",
       "source": {
-        "name": "The Philadelphia Inquirer"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Quarrel at Petrol Bunk Ends in Firing, Owner Held in Vijayapura",
-      "description": "The SOCO team visited the spot and collected evidence as part of the investigation. Investigation is in progress.",
-      "url": "https://www.deccanchronicle.com/southern-states/karnataka/quarrel-at-petrol-bunk-ends-in-firing-owner-held-in-vijayapura-1989122",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/05/15/2041058-fuel-price.jpg",
-      "publishedAt": "2026-09-20T18:15:33Z",
+      "title": "Brent Crude Falls Below $102 As West Asia Diplomacy Hopes Ease Supply Concerns",
+      "description": "Brent crude futures declined below $102 a barrel on Monday as markets reacted to hopes of diplomatic efforts easing West Asia tensions. US-Iran developments, continued Houthi attacks on Saudi Arabia and crude movement through the Strait of Hormuz remained key factors influencing oil prices and commodity market sentiment",
+      "url": "https://www.freepressjournal.in/business/brent-crude-falls-below-102-as-west-asia-diplomacy-hopes-ease-supply-concerns",
+      "image": "https://media.assettype.com/freepressjournal/2026-03-07/pbz5kz6v/Crude-oil.jpg",
+      "publishedAt": "2026-09-21T05:04:44Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Brent crude falls to $103 despite fresh Houthi attacks in Middle East; Check city wise petrol and diesel rates today",
+      "description": "City-wise petrol and diesel prices today on September 21",
+      "url": "https://www.moneycontrol.com/news/india/brent-crude-falls-to-103-despite-fresh-houthi-attacks-in-middle-east-check-city-wise-petrol-and-diesel-rates-today-14034280.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917133251_Petrol-pump.jpg",
+      "publishedAt": "2026-09-21T04:58:46Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Stock markets climb in early trade on easing oil prices, fresh foreign fund inflows",
+      "description": "Market benchmark indices Sensex and Nifty climbed in early trade on Monday amid cooling crude oil prices, fresh foreign fund inflows and a positive trend in Asian equities.",
+      "url": "https://www.tribuneindia.com/news/business/stock-markets-climb-in-early-trade-on-easing-oil-prices-fresh-foreign-fund-inflows/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxYjIzZDMwLWI1NzctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-21T04:43:32Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Stock markets climb in early trade on easing oil prices, fresh foreign fund inflows",
+      "description": "The 30-share BSE Sensex jumped 448.32 points to 74,743.28 in early trade. The 50-share NSE Nifty was up 50.3 points to 23,396.70.",
+      "url": "https://www.newindianexpress.com/business/2026/Sep/21/stock-markets-climb-in-early-trade-on-easing-oil-prices-fresh-foreign-fund-inflows",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-03-21%2Fqs6yxr2h%2F20260201422f.jpg?rect=0%2C20%2C449%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-09-21T04:39:01Z",
+      "source": {
+        "name": "The New Indian Express"
+      }
+    },
+    {
+      "title": "Why Adani Total Gas lost 5%, Adani Ports fell 2% despite gains on Sensex, Nifty",
+      "description": "Adani Group stocks fell on Monday, diverging from a rising Indian equity market, supported by easing crude oil prices. While Adani Total Gas, Ports, and Power declined, others like Adani Green Energy saw gains.",
+      "url": "https://www.livemint.com/market/stock-market-news/why-adani-total-gas-lost-5-adani-ports-fell-2-despite-gains-on-sensex-nifty-check-how-other-adani-stocks-performed-11789964095418.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/adani1_1789965033358_RTjF_1789965044572_kECg_4d1a2063-428c-41f0-86a6-6b23c7bf041e_KoNZ.png",
+      "publishedAt": "2026-09-21T04:28:25Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying",
+      "description": "Sensex gained over 400 points and Nifty opened higher as easing crude oil prices and buying in realty and auto stocks supported market sentiment.",
+      "url": "https://www.freepressjournal.in/business/sensex-nifty-begin-on-a-strong-note-as-easing-crude-prices-fuel-fresh-buying",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-21/98lf7cz7/market-tpoday.png",
+      "publishedAt": "2026-09-21T04:26:33Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "US Market: Fed rate path, oil prices and AI concerns to shape Wall Street this week",
+      "description": "US investors are set to focus on Federal Reserve rate signals, Middle East tensions, oil prices and Treasury yields this week. Attention will also center on Trump-Xi talks, semiconductor trade and growing AI concerns. Technology stocks remain crucial for broader market momentum, while economic data and Fed officials comments may shape expectations.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-market-fed-rate-path-oil-prices-and-ai-concerns-to-shape-wall-street-this-week/articleshow/134379579.cms",
+      "image": "https://img.etimg.com/thumb/msid-134379618,width-1200,height-630,imgsize-196024,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-21T04:15:00Z",
+      "source": {
+        "name": "The Economic Times"
       }
     }
   ]
