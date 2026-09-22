@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-22T02:24:35+00:00",
+  "updated_at": "2026-09-22T10:34:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock markets climb worldwide after oil prices and bond yields give back some of last week's jumps",
-      "description": "U.S. stocks are climbing with markets worldwide after oil prices and yields in the bond market gave back some of their jumps from last week. The S&P 500 rose 0.6% Monday and pulled within 1.3% of its all-time high set last month. The Dow Jones Industrial Average added 224 points, and the Nasdaq composite climbed 0.8%. They benefited from the price for a barrel of Brent oil falling back toward $100, while the 10-year Treasury yield dropped to 4.96%. The easing pressure helped indexes rise more than 1% around much of the world, from Germany to Hong Kong to South Korea.",
-      "url": "https://www.ajc.com/news/2026/09/stock-markets-climb-worldwide-after-oil-prices-and-bond-yields-give-back-some-of-last-weeks-jumps/",
-      "image": "https://images.ajc.com/resizer/v2/7RE6VZBKXZAYBBKK5M7AADOXHQ.jpg?auth=3a00fa8574e48ef6759f2997b995610127c024570dba981f2742375f69e36914&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-21T14:01:58Z",
+      "title": "Why Trump is leaving Saudi Arabia alone to fight the Houthis",
+      "description": "Saudi Arabia has been left alone to deal with the Houthi threat in Yemen, with the US and other Arab allies turning their back on military alliances regardless of the risk of greater instability in the Middle East and surging oil prices, experts said.",
+      "url": "https://nypost.com/2026/09/21/world-news/why-trump-is-leaving-saudi-arabia-alone-to-fight-the-houthis-despite-oil-risk/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141958672.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-21T22:30:30Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Harrisburg area drivers see modest reprieve in still brutal gas prices",
-      "description": "The average gas price in central Pennsylvania dropped by a few cents to $4.41 a gallon Sept. 21.",
-      "url": "https://www.pennlive.com/news/2026/09/harrisburg-area-drivers-see-modest-reprieve-in-still-brutal-gas-prices.html",
-      "image": "https://www.pennlive.com/resizer/v2/ETXBE4IATVFLPFY4AKKFZ3JB5Y.jpg?auth=1909a06753b02d8cd2c544380de62bc38c71bdedbcde15e20175ff629fcf20e7&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-21T14:01:52Z",
+      "title": "US stocks rallied led by strength in tech and communications, while oil prices and yields declined - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-rallied-led-strength-tech-and-communications-while-oil-prices-and-yields-declined",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_13.png?itok=BvzsKFNe",
+      "publishedAt": "2026-09-21T22:04:35Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "Why is the Fed punishing us for Hormuz blockade?",
-      "description": "Supply shocks, not money supply, drive today's inflation. Fed interest rate hikes cannot fix oil blockades or lower gas prices.",
-      "url": "https://www.washingtonexaminer.com/op-eds/4732781/fed-rate-hikes-supply-shock-inflation/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/AP26218279433565.jpg?resize=1200,683",
-      "publishedAt": "2026-09-21T14:00:00Z",
+      "title": "Global stocks rally on lower oil prices, US-China hopes",
+      "description": "NEW YORK: Stock markets climbed on Monday (Sep 21), boosted by falling oil prices and positive signals from trade talks between Chinese and US officials over the weekend.Wall Street indices capped a buoyant day for global stocks with the Nasdaq piling on 2.3 per cent to finish at a fresh r",
+      "url": "https://www.channelnewsasia.com/world/global-stocks-rally-lower-oil-prices-us-china-hopes-6400661",
+      "image": "https://dam.mediacorp.sg/image/upload/s--O_swPgY9--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/22/063_2295586459.jpg?itok=kljYFQAI",
+      "publishedAt": "2026-09-21T21:43:00Z",
       "source": {
-        "name": "Washington Examiner"
+        "name": "CNA"
       }
     },
     {
-      "title": "Petrol pumps to not accept UPI payment: Punjab dealers warn of Rs 2,000 limit if MDR is imposed",
-      "description": "Petrol pump dealers in Punjab have warned of stopping UPI payments above Rs 2,000 if merchant discount rate or digital transaction charges are imposed. The state dealers association has sought an exemption from the Centre, citing thin margins and rising operational costs. Representatives from Mohali have backed the proposed payment restriction and urged authorities to protect petroleum outlets from additional transaction expenses.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-pumps-to-not-accept-upi-payment-punjab-dealers-warn-of-rs-2000-limit-if-mdr-is-imposed/articleshow/134391105.cms",
-      "image": "https://img.etimg.com/thumb/msid-134391599,width-1200,height-630,imgsize-201102,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-21T13:58:00Z",
+      "title": "UK drivers urged to fill up with petrol now before \u00a32.20 per litre charge",
+      "description": "The price of petrol and diesel is expected to continue rising as the war in the Middle East rages on.",
+      "url": "https://www.express.co.uk/life-style/cars/2250521/uk-drivers-fill-petrol-now",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7152751.jpg",
+      "publishedAt": "2026-09-21T21:31:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Current price of oil as of Sept. 21, 2026",
-      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
-      "url": "https://www.newsbreak.com/fortune-561435/4899270877062-current-price-of-oil-as-of-sept-21-2026",
-      "image": "https://img.particlenews.com/img/id/0T8ouz_1FMcLxnp00",
-      "publishedAt": "2026-09-21T13:55:58Z",
+      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "description": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-amd-intel-micron-nvidia-sandisk/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/04/stock-wallstreet-shutter.jpg",
+      "publishedAt": "2026-09-21T21:13:25Z",
       "source": {
-        "name": "NewsBreak"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "Wall Street rallies within 0.4% of its record after oil prices and bond yields ease",
-      "description": "Oil prices have been swinging up and down as some crude from the Middle East is able to sail through the Strait of Hormuz to get to customers, though nowhere near as much as the industry would like because of the war with Iran.",
-      "url": "https://cdapress.com/news/2026/sep/21/wall-street-rallies-within-04-of-its-record-after-oil-prices-and-bond-yields-ease/",
-      "image": "https://hagadone.media.clients.ellingtoncms.com/static-4/cdapress/images/default-social.jpg?v=4",
-      "publishedAt": "2026-09-21T13:50:00Z",
-      "source": {
-        "name": "Coeur d'Alene Press"
-      }
-    },
-    {
-      "title": "US stocks: US stocks rise as AI stocks rally, oil tumbles over 3% on Middle East hopes",
-      "description": "Wall Street indexes climbed on Monday, propelled by a surge in artificial intelligence stocks. Easing Treasury yields and declining crude oil prices alleviated some pressure on the market. Investor attention shifted towards increasing technology expenditures, enhancing corporate profit forecasts. Additionally, advancements in diplomatic negotiations and hopeful prospects for trade agreements contributed to a positive market atmosphere. Bitcoin's increase also suggested a renewed risk appetite among investors for the day.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-stocks-rise-as-ai-stocks-rally-oil-tumbles-over-3-on-middle-east-hopes/articleshow/134391246.cms",
-      "image": "https://img.etimg.com/thumb/msid-134391317,width-1200,height-630,imgsize-66554,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-21T13:50:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rising fuel prices revive cost-of-living pressure in Nigeria ahead of 2027 election",
-      "description": "Nigeria's \u200bfuel prices have climbed to record highs as tensions in the Middle East push up \u200cglobal oil prices, piling fresh cost-of-living pressure on President Bola Tinubu's government ahead of elections in less than six months.",
-      "url": "https://www.reuters.com/business/energy/rising-fuel-prices-revive-cost-of-living-pressure-nigeria-ahead-2027-election-2026-09-21/",
-      "image": "https://www.reuters.com/resizer/v2/6UPN7ZO7MNK4XCZF6JJWNU6TWI.jpg?auth=8eaa0b4536251973dc46fa0d2ac1b43d2ae2434d2c828be42fbe78b1ef8172de&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-21T13:48:12Z",
+      "title": "Trading Day: AI euphoria back with a bang",
+      "description": "Stocks roared higher on Monday, with the Nasdaq coming within 0.02% of June's record high, as the bullish AI narrative burst back into life, while investors also welcomed the fourth consecutive slide in global oil prices.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-21/",
+      "image": "https://www.reuters.com/resizer/v2/BIOLLJK6D5O67K4SREMQZKJG4U.jpg?auth=9632f5091e4691ff56f1e7bed71de3d93d73ec88020699c6c63cc955f54c910d&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-21T21:00:22Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Stock markets climb worldwide after oil prices and bond yields give back some of last week's jumps",
-      "description": "U.S. stocks are climbing with markets worldwide after oil prices and yields in the bond market gave back some of their jumps from last week. The S&P 500 rose 0.6% Monday and pulled within 1.3% of its all-time high set last month. The Dow Jones Industrial Average added 301 points, and the Nasdaq composite climbed 0.8%. They benefited from the price for a barrel of Brent oil falling back toward $100, while the 10-year Treasury yield dropped to 4.95%. The easing pressure helped indexes rise more than 1% around much of the world, from Germany to Hong Kong to South Korea.",
-      "url": "https://www.ajc.com/news/2026/09/us-futures-climb-as-oil-prices-drop-and-investors-await-expected-trump-xi-meeting/",
-      "image": "https://images.ajc.com/resizer/v2/7RE6VZBKXZAYBBKK5M7AADOXHQ.jpg?auth=3a00fa8574e48ef6759f2997b995610127c024570dba981f2742375f69e36914&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-21T13:41:25Z",
+      "title": "Forum: Consumers can compare prices of petrol through Price Kaki",
+      "description": "Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/opinion/forum/forum-consumers-can-compare-prices-of-petrol-through-price-kaki",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb28fe811008a878ec9021dab8ef9b29c525358a39d9f40b992e38b3dfd4f137",
+      "publishedAt": "2026-09-21T21:00:00Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Stock markets climb worldwide after oil prices and bond yields give back some of last week's jumps",
-      "description": "U.S. stocks are climbing with markets worldwide after oil prices and yields in the bond market gave back some of their jumps from last week.",
-      "url": "https://www.ocregister.com/2026/09/21/stock-markets-oil-prices-bond-yields/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_292_1_d312ec.jpg?w=2000&h=1333",
-      "publishedAt": "2026-09-21T13:37:33Z",
+      "title": "No HSRP, no fuel supply: Amritsar outlets directed not to serve violators",
+      "description": "Amritsar Police Commissioner Harmanbir Singh Gill on Monday directed all fuel stations in the city to immediately deny petrol, diesel, and CNG to any vehicle lacking a high security registration plate (HSRP).",
+      "url": "https://www.tribuneindia.com/news/amritsar/no-hsrp-no-supply-amritsar-fuel-outlets-directed-not-to-serve-violators/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNhMzI5N2YwLWI1ZmUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-21T20:55:32Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "How major US stock indexes fared Monday 9",
+      "description": "Wall Street climbed to the edge of its all-time high, and stocks rallied worldwide after oil prices and yields in the bond market surrendered their market-rattl",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-monday-9-21-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon-300x300.png",
+      "publishedAt": "2026-09-21T20:36:55Z",
+      "source": {
+        "name": "WTOP"
+      }
+    },
+    {
+      "title": "Wall Street rallies within 0.4% of its record after oil prices and bond yields ease",
+      "description": "Wall Street climbed to the edge of its all-time high, and stocks rallied worldwide after oil prices and yields in the bond market surrendered their market-rattling gains from last week",
+      "url": "https://www.latimes.com/business/story/2026-09-21/wall-street-rallies-within-0-4-of-its-record-after-oil-prices-bond-yields-ease",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/f401ccf/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F6f%2F8649ec7b459797e3111c27f7b250%2F46ee573befcb42c4b101c2c75e693ca8.jpg",
+      "publishedAt": "2026-09-21T20:33:04Z",
+      "source": {
+        "name": "Los Angeles Times"
       }
     }
   ]
