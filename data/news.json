@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-22T10:34:09+00:00",
+  "updated_at": "2026-09-22T15:56:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why Trump is leaving Saudi Arabia alone to fight the Houthis",
-      "description": "Saudi Arabia has been left alone to deal with the Houthi threat in Yemen, with the US and other Arab allies turning their back on military alliances regardless of the risk of greater instability in the Middle East and surging oil prices, experts said.",
-      "url": "https://nypost.com/2026/09/21/world-news/why-trump-is-leaving-saudi-arabia-alone-to-fight-the-houthis-despite-oil-risk/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/141958672.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-21T22:30:30Z",
+      "title": "22 September, 2026 Stock Market Updates: Sensex, Nifty open in green as crude oil prices cool off, IT stocks drag",
+      "description": "Asian stocks mostly gained today as Wall Street climbed to the edge of an all-time high on Monday after oil prices and bond yields surrendered their market-rattling gains from last week.",
+      "url": "https://www.indiatvnews.com/business/markets/22-september-2026-stock-market-updates-sensex-nifty-open-in-green-as-crude-oil-prices-cool-off-it-stocks-drag-2026-09-22-1054892",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/sensexindiatv-1790048548.jpg",
+      "publishedAt": "2026-09-22T03:50:00Z",
       "source": {
-        "name": "New York Post"
+        "name": "India TV News"
       }
     },
     {
-      "title": "US stocks rallied led by strength in tech and communications, while oil prices and yields declined - Newsquawk Daily Asia-Pac Market Open",
-      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
-      "url": "https://www.zerohedge.com/markets/us-stocks-rallied-led-strength-tech-and-communications-while-oil-prices-and-yields-declined",
-      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_13.png?itok=BvzsKFNe",
-      "publishedAt": "2026-09-21T22:04:35Z",
+      "title": "LPG, CNG, PNG prices today (September 22): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "LPG, CNG, and PNG prices today: Crude oil prices fell in early trading as Saudi Arabia Civil Defence issued second danger alerts for Riyadh and Al-Kharj overnight after earlier warnings were lifted.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-22-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-556913-2026-09-22",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab1ee2cedf88-lpg--cng--png-prices-on-august-19-check-latest-rates-across-major-cities-191215459-16x9.jpg",
+      "publishedAt": "2026-09-22T03:34:49Z",
       "source": {
-        "name": "ZeroHedge"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Global stocks rally on lower oil prices, US-China hopes",
-      "description": "NEW YORK: Stock markets climbed on Monday (Sep 21), boosted by falling oil prices and positive signals from trade talks between Chinese and US officials over the weekend.Wall Street indices capped a buoyant day for global stocks with the Nasdaq piling on 2.3 per cent to finish at a fresh r",
-      "url": "https://www.channelnewsasia.com/world/global-stocks-rally-lower-oil-prices-us-china-hopes-6400661",
-      "image": "https://dam.mediacorp.sg/image/upload/s--O_swPgY9--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/22/063_2295586459.jpg?itok=kljYFQAI",
-      "publishedAt": "2026-09-21T21:43:00Z",
+      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
+      "description": "Falling oil prices and optimism ahead of a summit between US President Donald Trump and China\u2019s Xi Jinping have buoyed markets more broadly.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally/article71494025.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/4047d0/article71490269.ece/alternates/LANDSCAPE_1200/iStock-1248674191.jpg",
+      "publishedAt": "2026-09-22T03:33:31Z",
       "source": {
-        "name": "CNA"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "UK drivers urged to fill up with petrol now before \u00a32.20 per litre charge",
-      "description": "The price of petrol and diesel is expected to continue rising as the war in the Middle East rages on.",
-      "url": "https://www.express.co.uk/life-style/cars/2250521/uk-drivers-fill-petrol-now",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7152751.jpg",
-      "publishedAt": "2026-09-21T21:31:00Z",
+      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
+      "description": "Bitcoin pulled back to about $85,500 after a surge of 13% in four days, supported by broader risk-asset gains, ETF inflows, bullish options positioning, and corporate buying. Analysts debate whether momentum reflects renewed conviction or short covering. Despite improved sentiment, elevated oil prices, Treasury yields, and competition from AI investments remain significant headwinds.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally/articleshow/134401373.cms",
+      "image": "https://img.etimg.com/thumb/msid-134401384,width-1200,height-630,imgsize-444878,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-22T03:25:00Z",
       "source": {
-        "name": "Daily Express"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
-      "description": "Dow Jones Futures: Falling oil prices and yields sparked a stock market rally. AMD, Intel, Micron, Nvidia and Sandisk are key movers.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-treasury-yields-amd-intel-micron-nvidia-sandisk/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/04/stock-wallstreet-shutter.jpg",
-      "publishedAt": "2026-09-21T21:13:25Z",
+      "title": "Rupee to edge higher as oil slips; inflow haul caps bearish bets",
+      "description": "The rupee is set to strengthen slightly as oil prices decline and inflows support its stability against the dollar.",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-to-edge-higher-as-oil-slips-inflow-haul-caps-bearish-bets/article71494036.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/go4xgm/article71494048.ece/alternates/LANDSCAPE_1200/Bengaluru_-13-yGJBGI4ISE.3.jpg.jpg",
+      "publishedAt": "2026-09-22T03:24:21Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Trading Day: AI euphoria back with a bang",
-      "description": "Stocks roared higher on Monday, with the Nasdaq coming within 0.02% of June's record high, as the bullish AI narrative burst back into life, while investors also welcomed the fourth consecutive slide in global oil prices.",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-09-21/",
-      "image": "https://www.reuters.com/resizer/v2/BIOLLJK6D5O67K4SREMQZKJG4U.jpg?auth=9632f5091e4691ff56f1e7bed71de3d93d73ec88020699c6c63cc955f54c910d&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-21T21:00:22Z",
+      "title": "Crude palm oil prices to remain above $1,154 per ton for rest of 2026, MPOC says",
+      "description": "Crude palm oil prices are projected to stay above $1,154 per ton through 2026, driven by weather uncertainties and energy markets.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-palm-oil-prices-to-remain-above-1154-per-tonfor-rest-of-2026-mpoc-says/article71494026.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/avkkxg/article70627306.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_worker_2_1_1OD4GDS6.jpg",
+      "publishedAt": "2026-09-22T03:22:05Z",
       "source": {
-        "name": "Reuters"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Forum: Consumers can compare prices of petrol through Price Kaki",
-      "description": "Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/opinion/forum/forum-consumers-can-compare-prices-of-petrol-through-price-kaki",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/cb28fe811008a878ec9021dab8ef9b29c525358a39d9f40b992e38b3dfd4f137",
-      "publishedAt": "2026-09-21T21:00:00Z",
+      "title": "Stocks rise on AI buzz, drop in oil prices",
+      "description": "Meta has poured billions of dollars into its AI division (Kirill KUDRYAVTSEV)",
+      "url": "https://www.europesays.com/3265462/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fafp.com_.sg2F94f725ef8c696720d39bd93df91bb021.jpg",
+      "publishedAt": "2026-09-22T03:09:17Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "No HSRP, no fuel supply: Amritsar outlets directed not to serve violators",
-      "description": "Amritsar Police Commissioner Harmanbir Singh Gill on Monday directed all fuel stations in the city to immediately deny petrol, diesel, and CNG to any vehicle lacking a high security registration plate (HSRP).",
-      "url": "https://www.tribuneindia.com/news/amritsar/no-hsrp-no-supply-amritsar-fuel-outlets-directed-not-to-serve-violators/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWNhMzI5N2YwLWI1ZmUtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-21T20:55:32Z",
+      "title": "Sensex, Nifty set for higher open as oil eases and US-Iran talks loom",
+      "description": "Indian benchmark indices are set for a higher open, tracking gains in global markets and easing oil prices. Investors are watching US-Iran diplomacy, foreign fund flows and key Nifty levels for direction.",
+      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-opening-today-gift-nifty-trade-setup-nse-bse-oil-prices-us-iran-talks-2999959-2026-09-22",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/stock-market-opening-211752786-16x9_1.jpeg?VersionId=XlxysXX1fKtPKusntHTMDexI5F3PwxAi",
+      "publishedAt": "2026-09-22T03:07:19Z",
       "source": {
-        "name": "The Tribune"
+        "name": "India Today"
       }
     },
     {
-      "title": "How major US stock indexes fared Monday 9",
-      "description": "Wall Street climbed to the edge of its all-time high, and stocks rallied worldwide after oil prices and yields in the bond market surrendered their market-rattl",
-      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-monday-9-21-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon-300x300.png",
-      "publishedAt": "2026-09-21T20:36:55Z",
+      "title": "Oil prices rise slightly ahead of potential US-Iran talks at UNGA",
+      "description": "The Brent crude futures November contract \u200bgained 22 cents, or 0.22%, to $100.57 a barrel at 0021 GMT",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-slightly-ahead-of-potential-us-iran-talks-at-unga-126092200068_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788802653-553.jpg",
+      "publishedAt": "2026-09-22T03:06:42Z",
       "source": {
-        "name": "WTOP"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Wall Street rallies within 0.4% of its record after oil prices and bond yields ease",
-      "description": "Wall Street climbed to the edge of its all-time high, and stocks rallied worldwide after oil prices and yields in the bond market surrendered their market-rattling gains from last week",
-      "url": "https://www.latimes.com/business/story/2026-09-21/wall-street-rallies-within-0-4-of-its-record-after-oil-prices-bond-yields-ease",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/f401ccf/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa9%2F6f%2F8649ec7b459797e3111c27f7b250%2F46ee573befcb42c4b101c2c75e693ca8.jpg",
-      "publishedAt": "2026-09-21T20:33:04Z",
+      "title": "Petrol, diesel prices today, September 22: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "With Brent crude dropping to around $101\u00a0per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-22-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556909-2026-09-22",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab1e771d4a29-the-national-average-petrol-price-stands-at-11121-per-litre--while-diesel-is-priced-at-9783-per-113535664-16x9.jpg",
+      "publishedAt": "2026-09-22T03:01:57Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Business Today"
       }
     }
   ]
