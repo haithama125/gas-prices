@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-22T15:56:09+00:00",
+  "updated_at": "2026-09-22T20:38:46+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "22 September, 2026 Stock Market Updates: Sensex, Nifty open in green as crude oil prices cool off, IT stocks drag",
-      "description": "Asian stocks mostly gained today as Wall Street climbed to the edge of an all-time high on Monday after oil prices and bond yields surrendered their market-rattling gains from last week.",
-      "url": "https://www.indiatvnews.com/business/markets/22-september-2026-stock-market-updates-sensex-nifty-open-in-green-as-crude-oil-prices-cool-off-it-stocks-drag-2026-09-22-1054892",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/sensexindiatv-1790048548.jpg",
-      "publishedAt": "2026-09-22T03:50:00Z",
+      "title": "Soaring Oil and Gas Prices Push Europe\u2019s Inflation Fight Into 2027",
+      "description": "The ECB expects elevated energy costs to keep eurozone inflation above target well into 2027.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-and-Gas-Prices-Push-Europes-Inflation-Fight-Into-2027.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-22_5kravejdhy.jpg",
+      "publishedAt": "2026-09-22T08:00:00Z",
       "source": {
-        "name": "India TV News"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "LPG, CNG, PNG prices today (September 22): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "LPG, CNG, and PNG prices today: Crude oil prices fell in early trading as Saudi Arabia Civil Defence issued second danger alerts for Riyadh and Al-Kharj overnight after earlier warnings were lifted.",
-      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-22-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-556913-2026-09-22",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab1ee2cedf88-lpg--cng--png-prices-on-august-19-check-latest-rates-across-major-cities-191215459-16x9.jpg",
-      "publishedAt": "2026-09-22T03:34:49Z",
+      "title": "Crude palm oil prices to remain above RM4,700 per ton for rest of 2026, MPOC says",
+      "description": "KUALA LUMPUR: Crude palm oil prices are expected to remain above RM4,700 per metric ton in October and through the rest of the year, underpinned by weather uncertainties and favourable energy markets, the Malaysian Palm Oil Council said on Tuesday.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/22/crude-palm-oil-prices-to-remain-above-rm4700-per-tonfor-rest-of-2026-mpoc-says",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/22/4123241.png",
+      "publishedAt": "2026-09-22T07:55:00Z",
       "source": {
-        "name": "Business Today"
+        "name": "The Star"
       }
     },
     {
-      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
-      "description": "Falling oil prices and optimism ahead of a summit between US President Donald Trump and China\u2019s Xi Jinping have buoyed markets more broadly.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/cryptocurrency/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally/article71494025.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/4047d0/article71490269.ece/alternates/LANDSCAPE_1200/iStock-1248674191.jpg",
-      "publishedAt": "2026-09-22T03:33:31Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Bitcoin retreats from eight-month high after dizzying 13% rally",
-      "description": "Bitcoin pulled back to about $85,500 after a surge of 13% in four days, supported by broader risk-asset gains, ETF inflows, bullish options positioning, and corporate buying. Analysts debate whether momentum reflects renewed conviction or short covering. Despite improved sentiment, elevated oil prices, Treasury yields, and competition from AI investments remain significant headwinds.",
-      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoin-retreats-from-eight-month-high-after-dizzying-13-rally/articleshow/134401373.cms",
-      "image": "https://img.etimg.com/thumb/msid-134401384,width-1200,height-630,imgsize-444878,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-22T03:25:00Z",
+      "title": "US stock market rally explained: Why did Nasdaq climb 2% to close at a fresh record high?",
+      "description": "Wall Street rallied sharply on Monday, with the Nasdaq gaining over 2% to a record close as easing oil prices and Treasury yields supported sentiment, while chip stocks surged on renewed optimism around AI spending.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rally-explained-why-did-nasdaq-climb-2-to-close-at-a-fresh-record-high/articleshow/134406348.cms",
+      "image": "https://img.etimg.com/thumb/msid-134406417,width-1200,height-630,imgsize-341114,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-22T07:52:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Rupee to edge higher as oil slips; inflow haul caps bearish bets",
-      "description": "The rupee is set to strengthen slightly as oil prices decline and inflows support its stability against the dollar.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-to-edge-higher-as-oil-slips-inflow-haul-caps-bearish-bets/article71494036.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/go4xgm/article71494048.ece/alternates/LANDSCAPE_1200/Bengaluru_-13-yGJBGI4ISE.3.jpg.jpg",
-      "publishedAt": "2026-09-22T03:24:21Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Crude palm oil prices to remain above $1,154 per ton for rest of 2026, MPOC says",
-      "description": "Crude palm oil prices are projected to stay above $1,154 per ton through 2026, driven by weather uncertainties and energy markets.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-palm-oil-prices-to-remain-above-1154-per-tonfor-rest-of-2026-mpoc-says/article71494026.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/avkkxg/article70627306.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__A_worker_2_1_1OD4GDS6.jpg",
-      "publishedAt": "2026-09-22T03:22:05Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Stocks rise on AI buzz, drop in oil prices",
-      "description": "Meta has poured billions of dollars into its AI division (Kirill KUDRYAVTSEV)",
-      "url": "https://www.europesays.com/3265462/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Fafp.com_.sg2F94f725ef8c696720d39bd93df91bb021.jpg",
-      "publishedAt": "2026-09-22T03:09:17Z",
+      "title": "European shares muted as investors eye US",
+      "description": "Sept 22 (Reuters) - European shares were subdued at open on Tuesday, as investors awaited \u200cdevelopments on potential US-Iran talks, while \u200coil prices gained",
+      "url": "https://www.europesays.com/3265854/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Freuters.com2Febc868338413c4273e7fe886f1d71323.jpg",
+      "publishedAt": "2026-09-22T07:39:22Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Sensex, Nifty set for higher open as oil eases and US-Iran talks loom",
-      "description": "Indian benchmark indices are set for a higher open, tracking gains in global markets and easing oil prices. Investors are watching US-Iran diplomacy, foreign fund flows and key Nifty levels for direction.",
-      "url": "https://www.indiatoday.in/business/market/story/sensex-nifty-opening-today-gift-nifty-trade-setup-nse-bse-oil-prices-us-iran-talks-2999959-2026-09-22",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/stock-market-opening-211752786-16x9_1.jpeg?VersionId=XlxysXX1fKtPKusntHTMDexI5F3PwxAi",
-      "publishedAt": "2026-09-22T03:07:19Z",
+      "title": "ECB's Lane sees inflation returning to target from mid",
+      "description": "ZURICH, Sept 22 (Reuters) - An energy shock pushing up oil and gas \u200cprices is likely to last \u200clonger than the European Central Bank had anticipated \u200bin March,",
+      "url": "https://www.europesays.com/3265850/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Freuters.com2Fc2ee324f6c3eb4111bb4e9a0c755b774.jpg",
+      "publishedAt": "2026-09-22T07:37:15Z",
       "source": {
-        "name": "India Today"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Oil prices rise slightly ahead of potential US-Iran talks at UNGA",
-      "description": "The Brent crude futures November contract \u200bgained 22 cents, or 0.22%, to $100.57 a barrel at 0021 GMT",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-slightly-ahead-of-potential-us-iran-talks-at-unga-126092200068_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788802653-553.jpg",
-      "publishedAt": "2026-09-22T03:06:42Z",
+      "title": "Drivers urged to fill up with petrol or diesel before end of Thursday",
+      "description": "Average UK diesel prices are expected to reach record highs within days \u2013 while across Europe and the US, pump prices have already surpassed all-time highs.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-urged-fill-up-petrol-34652028",
+      "image": "https://i2-prod.birminghammail.co.uk/article34652036.ece/ALTERNATES/s1200d/0_diesel.jpg",
+      "publishedAt": "2026-09-22T07:26:29Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Petrol, diesel prices today, September 22: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "With Brent crude dropping to around $101\u00a0per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-22-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-556909-2026-09-22",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab1e771d4a29-the-national-average-petrol-price-stands-at-11121-per-litre--while-diesel-is-priced-at-9783-per-113535664-16x9.jpg",
-      "publishedAt": "2026-09-22T03:01:57Z",
+      "title": "Healthcare stock gains amid rise in benchmark indices on easing crude oil prices, check details",
+      "description": "The stock gained further to touch the intraday high of Rs 289.35 on the BSE. However, it fell amid profit booking and touched a low of Rs 281.50, down Rs 3.15 or 1.10 per cent.",
+      "url": "https://www.indiatvnews.com/business/markets/healthcare-stock-gains-amid-rise-in-benchmark-indices-on-easing-crude-oil-prices-check-details-2026-09-22-1054918",
+      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/stockpixabay-2-1790060785.jpg",
+      "publishedAt": "2026-09-22T07:09:02Z",
       "source": {
-        "name": "Business Today"
+        "name": "India TV News"
+      }
+    },
+    {
+      "title": "Thai national among two arrested for misappropriating petrol",
+      "description": "KANGAR: The Perlis branch of the Domestic Trade and Cost of Living Ministry has arrested two people for allegedly misappropriating about 300 litres of petrol in a raid on an unnumbered house in Kampung Titi Tinggi Ulu, Padang Besar, on Monday (Sept 21) night.",
+      "url": "https://www.thestar.com.my/news/nation/2026/09/22/thai-national-among-two-arrested-for-misappropriating-petrol",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/22/4123097.jpg",
+      "publishedAt": "2026-09-22T07:07:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Denied cigarette, man hurls 'petrol-bomb' at Gwalior shop; 2 kids among 3 hurt",
+      "description": "BHOPAL: A row over a cigarette ended in an arson attack in Gwalior's Thatipur on Sunday, with a man allegedly hurling a burning petrol-filled bottle a.",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/denied-cigarette-man-hurls-petrol-bomb-at-gwalior-shop-2-kids-among-3-hurt/articleshow/134405219.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134405514,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-22T07:07:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "How will the U.S. refill its dwindling oil reserves?",
+      "description": "Whether it\u2019s oil from Venezuela or somewhere else, the U.S. Strategic Petroleum Reserve needs to be refilled. The SPR is widely considered critical for energy security. \u00a0On today\u2019s show, the challenges to refilling the reserves at a time of high federal debt and climbing gas prices.\u00a0Fact-checking by Sierra Juarez.\u00a0Your Next Listen\u00a0\u2014 So\u2026 how long before these oil prices get REALLY bad?\u00a0Connect with The Indicator\u00a0\u2014 Sign up for The Indicator\u2019s weekly newsletter!\u00a0\u2014 Buy the Planet Money book\u00a0\u2014 Find our socials, YouTube and more!\u00a0\u2014 For sponsor-free episodes, subscribe to NPR+\u00a0Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include sponsor-free listening. Learn more at plus.npr.org.",
+      "url": "https://www.npr.org/2026/09/22/nx-s1-5974239/how-will-the-u-s-refill-its-dwindling-oil-reserves",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Ffe%2F7218a1ca4bf6b8e5e06e32625cb8%2F23ffa71c-e26e-4c20-a9bf-3a68779e7f8d.jpg",
+      "publishedAt": "2026-09-22T07:00:00Z",
+      "source": {
+        "name": "NPR"
       }
     }
   ]
