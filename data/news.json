@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-23T15:46:09+00:00",
+  "updated_at": "2026-09-23T20:50:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee hooked to oil prices as markets gauge Iran diplomacy hopes",
-      "description": "The rupee is set to open flat as oil prices and US-Iran diplomatic hopes influence market movements.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-hooked-to-oil-prices-as-markets-gauge-iran-diplomacy-hopes/article71498130.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/1i873j/article71498169.ece/alternates/LANDSCAPE_1200/2026-08-18T033847Z_943858627_RC2HDJA2XNJY_RTRMADP_3_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2026-09-23T03:39:40Z",
+      "title": "Oil prices fall after Trump hails \u2018good\u2019 talks with Iran",
+      "description": "HONG KONG - Oil prices fell on Wednesday after President Donald Trump said US and Iranian representatives had met for \u201cvery good\u201d talks at the United Nations.",
+      "url": "https://www.bangkokpost.com/business/general/3324785/oil-prices-fall-after-trump-hails-good-talks-with-iran",
+      "image": "https://static.bangkokpost.com/media/content/20260923/c1_6239095_700.jpg",
+      "publishedAt": "2026-09-23T08:45:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Deficit Reduction Is Key to Improving Affordability",
-      "description": "Americans face many affordability challenges. High inflation, increasing interest rates, rising housing costs, growing health costs, elevated gas prices, and",
-      "url": "https://www.europesays.com/3267457/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/01/crfb-og.jpeg",
-      "publishedAt": "2026-09-23T03:19:30Z",
+      "title": "Asia stocks ride tech wave higher, oil slips again",
+      "description": "SYDNEY: Asian shares were aiming for a sixth session of gains on Wednesday as consumer hunger for AI apps continued to buoy tech stocks, while oil prices fell further on reports of increased supply out of the Middle East.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/23/asia-stocks-ride-tech-wave-higher-oil-slips-again",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4125426.png",
+      "publishedAt": "2026-09-23T08:37:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Star"
       }
     },
     {
-      "title": "Nasdaq hits record high as oil prices fall on improved West Asia flows",
-      "description": "The Nasdaq was boosted by Micron Technology and other \u200bAI-related stocks as AI demand showed no signs of abating and corporate earnings stayed resilient",
-      "url": "https://www.business-standard.com/markets/news/nasdaq-hits-record-high-as-oil-prices-fall-on-improved-west-asia-flows-126092300062_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/18/thumb/featurecrop/1200X628/1789712557-859.JPG",
-      "publishedAt": "2026-09-23T02:56:02Z",
+      "title": "Russia hits Kyiv petrol stations, kills one",
+      "description": "KYIV, Sept 23 - Russia slammed jet-powered drones into two petrol stations and other sites in Kyiv early on Wednesday, killing one, hours after President Volodymyr Zelenskiy met US President Donald Trump. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/russia-hits-kyiv-petrol-stations-kills-one",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8b28133084bc416e5a0b151de20f93c1b15ff4ab95d29816a47c02db65b32927",
+      "publishedAt": "2026-09-23T08:21:36Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Rupee hooked to oil prices as markets gauge Iran diplomacy hopes",
-      "description": "The Indian rupee is poised for a muted start on Wednesday and traders reckon that directional moves will be contingent on \u200boil prices amid hopes of a diplomatic solution to the US-Iran \u200cwar through talks at the UN.",
-      "url": "https://www.reuters.com/world/india/rupee-hooked-oil-prices-markets-gauge-iran-diplomacy-hopes-2026-09-23/",
-      "image": "https://www.reuters.com/resizer/v2/RTKAANLR7VPZ5JP7KFLDUMCK24.jpg?auth=480298ee2efc8c040da36c399e99f43a1af32297ac7e3c0314008d06dd53a7bf&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-23T02:46:20Z",
+      "title": "OMCs may see petrol, diesel margins recover in Q2FY27, LPG losses to limit gains: JM Financial",
+      "description": "India's oil marketing companies (OMCs) may see a sharp recovery in petrol and diesel margins in the second quarter of FY27, although continued losses on LPG sales could limit the overall benefit, according to a report by JM Financial Institutional Securities.",
+      "url": "https://www.tribuneindia.com/news/business/omcs-may-see-petrol-diesel-margins-recover-in-q2fy27-lpg-losses-to-limit-gains-jm-financial/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2OWEyMjMwLWI3MjctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-23T08:17:46Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Russia hits Kyiv petrol stations, kills one",
+      "description": "Russia \u200bhas in recent weeks been \u200battacking Kyiv and nearby areas with near constant barrages of the faster and high-flying jet drones that are harder \u200bto intercept.",
+      "url": "https://www.reuters.com/world/europe/russia-hits-kyiv-petrol-stations-kills-one-2026-09-23/",
+      "image": "https://www.reuters.com/resizer/v2/CIKOLSNC5ZLLXMFYLPQLPPNLKM.jpg?auth=0636f8177ad9e35ad16cb2bef74d6033ffcd212aa49f2dcd07ada70454125a3c&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-23T08:17:07Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Gold vs Silver: Which metal to invest in for maximum profit amid ongoing US-Iran war and oil on the boil?",
-      "description": "Amid the ongoing US-Iran conflict, investors may be weighing which metal could offer a better investment opportunity, particularly as crude oil prices have started to ease after witnessing a sharp rally since the war began.",
-      "url": "https://www.livemint.com/market/commodities/gold-vs-silver-which-metal-to-invest-in-for-maximum-profit-amid-ongoing-us-iran-war-and-oil-on-the-boil-11790129018853.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/gold_vs_silver_1790131408520_Kd9o_1790131408668_pa8o_c7d02978-2003-4f89-9820-710f2ffbb97f_GbKe.png",
-      "publishedAt": "2026-09-23T02:43:59Z",
+      "title": "Commodities: Brent Drops Below $100",
+      "description": "Oil prices continue\u00a0to retreat as expectations of increased Saudi crude exports, progress in US-Iran talks, and a larger-than-expected rise in US crude inventories help\u00a0ease supply concerns.",
+      "url": "https://seekingalpha.com/article/4948906-commodities-brent-drops-below-100",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2157602805/image_2157602805.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-09-23T08:15:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "Seeking Alpha"
       }
     },
     {
-      "title": "Ringgit opens higher against US dollar as oil prices slip",
-      "description": "KUALA LUMPUR, Sept 23 \u2014 The ringgit opened higher against the US dollar today, supported by easing Brent crude oil prices and geopolitical concerns.At 8am, the ringgit rose to...",
-      "url": "https://www.malaymail.com/news/money/2026/09/23/ringgit-opens-higher-against-us-dollar-as-oil-prices-slip/236184",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/23/364063.jpg",
-      "publishedAt": "2026-09-23T02:23:45Z",
+      "title": "OMCs may see petrol, diesel margins recover in Q2FY27, LPG losses to limit gains: JM Financial",
+      "description": "India's oil marketing companies (OMCs) may see a sharp recovery in petrol and diesel margins in the second quarter of FY27, although continued losses on LPG sales could limit the overall benefit, according to a report by JM Financial Institutional Securities.",
+      "url": "https://www.aninews.in/news/business/omcs-may-see-petrol-diesel-margins-recover-in-q2fy27-lpg-losses-to-limit-gains-jm-financial20260923134354/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260923081056-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-09-23T08:13:54Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "Oil prices fall below US$100 after Trump hails \u2018very good\u2019 US-Iran talks",
+      "description": "HONG KONG, Sept 23 \u2014 Oil prices fell today after President Donald Trump said US and Iranian representatives had met for \u201cvery good\u201d talks at the United Nations.The...",
+      "url": "https://www.malaymail.com/news/money/2026/09/23/oil-prices-fall-below-us100-after-trump-hails-very-good-us-iran-talks/236240",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/23/364156.jpg",
+      "publishedAt": "2026-09-23T08:00:40Z",
       "source": {
         "name": "Malay Mail"
       }
     },
     {
-      "title": "Commodity Corner: Oil prices ease, gold steady as US-Iran talks in focus",
-      "description": "Silver advanced 0.5% to $67.40 an ounce, after gaining 1.6% the day before. Platinum and palladium edged higher.",
-      "url": "https://www.moneycontrol.com/news/business/commodities/commodity-corner-oil-prices-ease-gold-steady-as-us-iran-talks-in-focus-14035873.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260603022129_oil_crude.jpg",
-      "publishedAt": "2026-09-23T02:14:14Z",
+      "title": "Indian central bank likely defending rupee, conducting swaps to drain excess cash, traders say",
+      "description": "The Reserve Bank of India likely intervened in the foreign exchange \u200bmarket on Wednesday, five traders said, \u200ccontinuing its interventions to support the currency as it navigates volatile oil prices and \u200bweak portfolio flows.",
+      "url": "https://www.reuters.com/world/india/indian-central-bank-likely-defending-rupee-conducting-swaps-drain-excess-cash-2026-09-23/",
+      "image": "https://www.reuters.com/resizer/v2/GWLWUCPZRNJC7AHNLHKL3CKXGE.jpg?auth=5bc83abbfc790c81025f3b7efdbc6a93ae341a2f9c1b483648b4bf697a4c401a&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-23T07:40:21Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Oil prices ease as Saudi Arabia restores key pipeline, traders remain optimistic on US-Iran talks",
-      "description": "International Business News: Oil prices slipped below the $100-a-barrel mark on Wednesday as Saudi Arabia began restoring crude supplies through a key pipeline to the Red Sea, whi.",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-ease-as-saudi-arabia-restores-key-pipeline-traders-remain-optimistic-for-us-iran-talks/articleshow/134424032.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134424135,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-23T02:10:00Z",
+      "title": "Madhya Pradesh Traders Observe \u2018No UPI Day\u2019: Shopkeepers In Bhopal, Indore Reject Payments Above \u20b92,000 Over MDR Charge | VIDEO",
+      "description": "Madhya Pradesh traders observed \u2018No UPI Day\u2019 protesting the proposed 0.4% MDR charge on UPI payments above \u20b92,000. Traders in Bhopal, Indore and other cities covered QR scanners with black cloth and avoided high-value UPI transactions. Trade bodies said the charge would increase business costs, while petrol pump dealers also announced opposition from October 16.",
+      "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-traders-observe-no-upi-day-shopkeepers-in-bhopal-indore-reject-payments-above-2000-over-mdr-charge-video",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-23/5yz9olkd/Add-a-subheading-25.png",
+      "publishedAt": "2026-09-23T07:36:58Z",
       "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Gold steady, silver gains over 1% as oil prices ease",
-      "description": "Gold prices steady, silver gains as investors eye US-Iran talks, oil prices, and US interest rates. COMEX gold at $4,380.90, silver at $67.360.",
-      "url": "https://www.cnbctv18.com/market/commodities/gold-steady-silver-gains-1-pc-oil-prices-ease-outlook-buying-19995922.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-422fc1bdfeae4f47b4ace324d0409fc7.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-23T02:01:16Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Dollar holds near 2-month high as markets weigh rate hikes, Iran diplomacy",
-      "description": "The dollar stands firm near a two-month high, driven by projections of interest rate hikes. In contrast, oil prices are retreating as optimism grows for a diplomatic solution in the Middle East. Market sentiment on currency values is swayed by the Federal Reserve's ongoing tightening strategy. Experts believe recent actions from the Bank of Japan might not cause substantial shifts in the yen.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/dollar-holds-near-2-month-high-as-markets-weigh-rate-hikes-iran-diplomacy/articleshow/134424038.cms",
-      "image": "https://img.etimg.com/thumb/msid-134424047,width-1200,height-630,imgsize-230788,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-23T02:00:00Z",
-      "source": {
-        "name": "The Economic Times"
+        "name": "Free Press Journal"
       }
     }
   ]
