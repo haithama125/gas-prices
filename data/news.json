@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-22T20:38:46+00:00",
+  "updated_at": "2026-09-23T02:24:57+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Soaring Oil and Gas Prices Push Europe\u2019s Inflation Fight Into 2027",
-      "description": "The ECB expects elevated energy costs to keep eurozone inflation above target well into 2027.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Soaring-Oil-and-Gas-Prices-Push-Europes-Inflation-Fight-Into-2027.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-09-22_5kravejdhy.jpg",
-      "publishedAt": "2026-09-22T08:00:00Z",
+      "title": "Oil Prices Fall As Trump Heads To Make-Or-Break U.N. Conference",
+      "description": "Oil prices fell back toward $90 a barrel as President Donald Trump heads to United Nations meetings. Negotiation or escalation is next.",
+      "url": "https://www.investors.com/news/oil-prices-trump-united-nations-iraq-hormuz/",
+      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-Trump-chinUp-shut.jpg",
+      "publishedAt": "2026-09-22T14:20:54Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "Crude palm oil prices to remain above RM4,700 per ton for rest of 2026, MPOC says",
-      "description": "KUALA LUMPUR: Crude palm oil prices are expected to remain above RM4,700 per metric ton in October and through the rest of the year, underpinned by weather uncertainties and favourable energy markets, the Malaysian Palm Oil Council said on Tuesday.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/22/crude-palm-oil-prices-to-remain-above-rm4700-per-tonfor-rest-of-2026-mpoc-says",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/22/4123241.png",
-      "publishedAt": "2026-09-22T07:55:00Z",
+      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
+      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
+      "url": "https://www.al.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
+      "image": "https://www.al.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-22T14:19:50Z",
       "source": {
-        "name": "The Star"
+        "name": "AL.com"
       }
     },
     {
-      "title": "US stock market rally explained: Why did Nasdaq climb 2% to close at a fresh record high?",
-      "description": "Wall Street rallied sharply on Monday, with the Nasdaq gaining over 2% to a record close as easing oil prices and Treasury yields supported sentiment, while chip stocks surged on renewed optimism around AI spending.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-rally-explained-why-did-nasdaq-climb-2-to-close-at-a-fresh-record-high/articleshow/134406348.cms",
-      "image": "https://img.etimg.com/thumb/msid-134406417,width-1200,height-630,imgsize-341114,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-22T07:52:00Z",
+      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
+      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
+      "url": "https://www.pennlive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
+      "image": "https://www.pennlive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-22T14:19:50Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "European shares muted as investors eye US",
-      "description": "Sept 22 (Reuters) - European shares were subdued at open on Tuesday, as investors awaited \u200cdevelopments on potential US-Iran talks, while \u200coil prices gained",
-      "url": "https://www.europesays.com/3265854/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Freuters.com2Febc868338413c4273e7fe886f1d71323.jpg",
-      "publishedAt": "2026-09-22T07:39:22Z",
+      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
+      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
+      "url": "https://www.mlive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
+      "image": "https://www.mlive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-22T14:19:50Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "ECB's Lane sees inflation returning to target from mid",
-      "description": "ZURICH, Sept 22 (Reuters) - An energy shock pushing up oil and gas \u200cprices is likely to last \u200clonger than the European Central Bank had anticipated \u200bin March,",
-      "url": "https://www.europesays.com/3265850/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/https3A2F2Fmedia.zenfs_.com2Fen2Freuters.com2Fc2ee324f6c3eb4111bb4e9a0c755b774.jpg",
-      "publishedAt": "2026-09-22T07:37:15Z",
+      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
+      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
+      "url": "https://www.silive.com/nation/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
+      "image": "https://www.silive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-22T14:19:50Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Staten Island Advance"
       }
     },
     {
-      "title": "Drivers urged to fill up with petrol or diesel before end of Thursday",
-      "description": "Average UK diesel prices are expected to reach record highs within days \u2013 while across Europe and the US, pump prices have already surpassed all-time highs.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-urged-fill-up-petrol-34652028",
-      "image": "https://i2-prod.birminghammail.co.uk/article34652036.ece/ALTERNATES/s1200d/0_diesel.jpg",
-      "publishedAt": "2026-09-22T07:26:29Z",
+      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
+      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
+      "url": "https://www.masslive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
+      "image": "https://www.masslive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-22T14:19:50Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "MassLive"
       }
     },
     {
-      "title": "Healthcare stock gains amid rise in benchmark indices on easing crude oil prices, check details",
-      "description": "The stock gained further to touch the intraday high of Rs 289.35 on the BSE. However, it fell amid profit booking and touched a low of Rs 281.50, down Rs 3.15 or 1.10 per cent.",
-      "url": "https://www.indiatvnews.com/business/markets/healthcare-stock-gains-amid-rise-in-benchmark-indices-on-easing-crude-oil-prices-check-details-2026-09-22-1054918",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/09/stockpixabay-2-1790060785.jpg",
-      "publishedAt": "2026-09-22T07:09:02Z",
+      "title": "Wall Street extends gains as oil prices retreat on hopes of US-Iran breakthrough",
+      "description": "At 09:32 a.m. ET, the Dow Jones Industrial Average rose 0.30%, the S&P 500 gained 0.19%, the Nasdaq Composite added 0.33%",
+      "url": "https://www.livemint.com/market/stock-market-news/wall-street-extends-gains-as-oil-prices-retreat-on-hopes-of-us-iran-breakthrough-11790085064437.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/USA-STOCKS-MIDTERM-0_1790085229668_qdbm_1790085271457_bnMu_b8812c11-af94-484b-ad72-c7231dadd4cf_41oT.JPG",
+      "publishedAt": "2026-09-22T14:08:58Z",
       "source": {
-        "name": "India TV News"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Thai national among two arrested for misappropriating petrol",
-      "description": "KANGAR: The Perlis branch of the Domestic Trade and Cost of Living Ministry has arrested two people for allegedly misappropriating about 300 litres of petrol in a raid on an unnumbered house in Kampung Titi Tinggi Ulu, Padang Besar, on Monday (Sept 21) night.",
-      "url": "https://www.thestar.com.my/news/nation/2026/09/22/thai-national-among-two-arrested-for-misappropriating-petrol",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/22/4123097.jpg",
-      "publishedAt": "2026-09-22T07:07:00Z",
+      "title": "Trump's Iran war is nearing 7 months. Here's why his UN speech matters for oil prices and markets",
+      "description": "Trump\u2019s UNGA speech comes as the Iran war nears seven months, with oil prices, Hormuz and global markets in focus.",
+      "url": "https://www.livemint.com/news/world/trumps-iran-war-is-nearing-7-months-heres-why-his-un-speech-matters-for-oil-prices-and-markets-11790081354434.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/UN-ASSEMBLY--60_1790085477112_YUws_1790085602879_c5U9_a5a9bca2-217e-456f-a452-9c09ed9ee96a_pz7h.JPG",
+      "publishedAt": "2026-09-22T14:07:35Z",
       "source": {
-        "name": "The Star"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Denied cigarette, man hurls 'petrol-bomb' at Gwalior shop; 2 kids among 3 hurt",
-      "description": "BHOPAL: A row over a cigarette ended in an arson attack in Gwalior's Thatipur on Sunday, with a man allegedly hurling a burning petrol-filled bottle a.",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/denied-cigarette-man-hurls-petrol-bomb-at-gwalior-shop-2-kids-among-3-hurt/articleshow/134405219.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134405514,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-22T07:07:00Z",
+      "title": "Sir Jim Ratcliffe mothballs three UK chemical plants over \u2018ridiculously\u2019 high energy prices",
+      "description": "Ineos said European gas prices were now 12 times higher than in the US",
+      "url": "https://www.independent.co.uk/news/uk/home-news/jim-ratcliffe-ineos-plants-hull-gas-prices-ukraine-iran-war-b3054240.html",
+      "image": "https://static.independent.co.uk/2026/09/19/09/2295272542..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-09-22T14:02:17Z",
       "source": {
-        "name": "Times of India"
+        "name": "The Independent"
       }
     },
     {
-      "title": "How will the U.S. refill its dwindling oil reserves?",
-      "description": "Whether it\u2019s oil from Venezuela or somewhere else, the U.S. Strategic Petroleum Reserve needs to be refilled. The SPR is widely considered critical for energy security. \u00a0On today\u2019s show, the challenges to refilling the reserves at a time of high federal debt and climbing gas prices.\u00a0Fact-checking by Sierra Juarez.\u00a0Your Next Listen\u00a0\u2014 So\u2026 how long before these oil prices get REALLY bad?\u00a0Connect with The Indicator\u00a0\u2014 Sign up for The Indicator\u2019s weekly newsletter!\u00a0\u2014 Buy the Planet Money book\u00a0\u2014 Find our socials, YouTube and more!\u00a0\u2014 For sponsor-free episodes, subscribe to NPR+\u00a0Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include sponsor-free listening. Learn more at plus.npr.org.",
-      "url": "https://www.npr.org/2026/09/22/nx-s1-5974239/how-will-the-u-s-refill-its-dwindling-oil-reserves",
-      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3377x1900+0+0/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2Ffe%2F7218a1ca4bf6b8e5e06e32625cb8%2F23ffa71c-e26e-4c20-a9bf-3a68779e7f8d.jpg",
-      "publishedAt": "2026-09-22T07:00:00Z",
+      "title": "WATCH: Tractor Driver Attempts To Run Over Biker At Petrol Pump In Rajasthan; CCTV Captures Attack",
+      "description": "A CCTV video from Rajasthan\u2019s Pingun village shows a tractor driver allegedly attempting to run over a biker at a petrol pump following a monetary dispute. The biker, Suresh Gurjar, escaped by running away, but his motorcycle was crushed. Police detained accused Shaitan Gurjar and registered a case based on Suresh\u2019s complaint. The investigation is underway",
+      "url": "https://www.freepressjournal.in/viral/watch-tractor-driver-attempts-to-run-over-biker-at-petrol-pump-in-rajasthan-cctv-captures-attack",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-22/wv2ri2xp/Tractor-Driver-Attempts-To-Run-Over-Biker-At-Petrol-Pump-In-Rajasthan-CCTV-Captures-Attack",
+      "publishedAt": "2026-09-22T13:59:43Z",
       "source": {
-        "name": "NPR"
+        "name": "Free Press Journal"
       }
     }
   ]
