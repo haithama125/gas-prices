@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-23T02:24:57+00:00",
+  "updated_at": "2026-09-23T10:27:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Fall As Trump Heads To Make-Or-Break U.N. Conference",
-      "description": "Oil prices fell back toward $90 a barrel as President Donald Trump heads to United Nations meetings. Negotiation or escalation is next.",
-      "url": "https://www.investors.com/news/oil-prices-trump-united-nations-iraq-hormuz/",
-      "image": "https://www.investors.com/wp-content/uploads/2025/11/Stock-Trump-chinUp-shut.jpg",
-      "publishedAt": "2026-09-22T14:20:54Z",
+      "title": "Sarah Godlewski discusses gas prices at La Crosse roundtable",
+      "description": "Godlewski, who is running for lieutenant governor of Wisconsin, says the war with Iran and tariffs have caused gas prices to rise significantly.",
+      "url": "https://www.weau.com/2026/09/22/sarah-godlewski-discusses-gas-prices-la-crosse-roundtable/",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/BJXJB3O64RFX3PKLWTUJWRCNUQ.png?auth=f8e62ceeac64a5d5ef230f1c78a676a7bd49ad7c612c43498e128cd4c7aaec65&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-22T21:44:12Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "WEAU"
       }
     },
     {
-      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
-      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
-      "url": "https://www.al.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
-      "image": "https://www.al.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-22T14:19:50Z",
+      "title": "2027 Hyundai Tucson: More powerful petrol, rugged XRT variants detailed ahead of Australian launch",
+      "description": "Hyundai will offer a more powerful turbo-petrol engine in its new-generation Tucson, which will also come with various new safety features.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2027-hyundai-tucson-more-powerful-petrol-rugged-xrt-variants-detailed-ahead-of-australian-launch-c-22912312",
+      "image": "https://images.perthnow.com.au/publication/C-22912312/2c02bde45eee926fe4ee63afce1b838357ced9c1-16x9-x0y52w1007h566.jpg?imwidth=1200",
+      "publishedAt": "2026-09-22T21:31:21Z",
       "source": {
-        "name": "AL.com"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
-      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
-      "url": "https://www.pennlive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
-      "image": "https://www.pennlive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-22T14:19:50Z",
+      "title": "2027 Hyundai Tucson: More powerful petrol, rugged XRT variants detailed ahead of Australian launch",
+      "description": "Hyundai will offer a more powerful turbo-petrol engine in its new-generation Tucson, which will also come with various new safety features.",
+      "url": "https://7news.com.au/motoring/2027-hyundai-tucson-more-powerful-petrol-rugged-xrt-variants-detailed-ahead-of-australian-launch-c-22912310",
+      "image": "https://images.7news.com.au/publication/C-22912310/2c02bde45eee926fe4ee63afce1b838357ced9c1-16x9-x0y52w1007h566.jpg?imwidth=1200",
+      "publishedAt": "2026-09-22T21:31:20Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
-      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
-      "url": "https://www.mlive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
-      "image": "https://www.mlive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-22T14:19:50Z",
+      "title": "Coalition fuel excise plan sparks political clash as Australian petrol prices soar amid inflation fears",
+      "description": "Should every driver get cheaper fuel, or should relief only go to Australians who need it most?",
+      "url": "https://www.perthnow.com.au/news/politics/federal-politics/coalition-fuel-excise-plan-sparks-political-clash-as-australian-petrol-prices-soar-amid-inflation-fears-c-22912222",
+      "image": "https://images.perthnow.com.au/publication/C-22912222/95b3148ee6f118754292df9d70521ac97f3c60f6-16x9-x565y0w6229h3504.jpg?imwidth=1200",
+      "publishedAt": "2026-09-22T21:13:30Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
-      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
-      "url": "https://www.silive.com/nation/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
-      "image": "https://www.silive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-22T14:19:50Z",
+      "title": "Oil price becoming increasingly important for ECB, Bundesbank chief says",
+      "description": "Oil prices are an increasingly important indicator for ECB policymakers in setting interest rates but other factors also play a crucial \u200brole, Bundesbank President Joachim Nagel said on Tuesday after markets raised rate-hike bets on \u200cexpensive energy.",
+      "url": "https://www.reuters.com/business/energy/oil-price-becoming-increasingly-important-ecb-bundesbank-chief-says-2026-09-22/",
+      "image": "https://www.reuters.com/resizer/v2/KZNU3RQ53FISNEGNY2ND4KYXSA.jpg?auth=b4b8646e09a20a8edacdf016d00fe4690241a2683f8d543f1a9c3799bae7168b&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-22T21:09:44Z",
       "source": {
-        "name": "Staten Island Advance"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Sept. 22, 2026 gas prices: National average remains at $4.47 per gallon",
-      "description": "The average cost for a gallon of regular unleaded fuel in the U.S. as of Sept. 22, 2026 is $4.47, according to AAA.",
-      "url": "https://www.masslive.com/news/2026/09/gas-prices-for-092226-national-average-remains-well-over-440-per-gallon.html",
-      "image": "https://www.masslive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-22T14:19:50Z",
+      "title": "Wall Street holds near its record after Brent oil falls below $100 per barrel",
+      "description": "The U.S. stock market held near its record high after oil prices eased again",
+      "url": "https://www.latimes.com/business/story/2026-09-22/wall-street-holds-near-its-record-after-brent-oil-falls-below-100-per-barrel",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/54613de/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2Fd1%2Fb455b4b44d1a890c073cf6917167%2F4e506affb51b44739997ab525a928a4f.jpg",
+      "publishedAt": "2026-09-22T20:47:40Z",
       "source": {
-        "name": "MassLive"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Wall Street extends gains as oil prices retreat on hopes of US-Iran breakthrough",
-      "description": "At 09:32 a.m. ET, the Dow Jones Industrial Average rose 0.30%, the S&P 500 gained 0.19%, the Nasdaq Composite added 0.33%",
-      "url": "https://www.livemint.com/market/stock-market-news/wall-street-extends-gains-as-oil-prices-retreat-on-hopes-of-us-iran-breakthrough-11790085064437.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/USA-STOCKS-MIDTERM-0_1790085229668_qdbm_1790085271457_bnMu_b8812c11-af94-484b-ad72-c7231dadd4cf_41oT.JPG",
-      "publishedAt": "2026-09-22T14:08:58Z",
+      "title": "Petrol cars dealt major blow as crucial MOT EV benefit revealed",
+      "description": "Petrol cars have been handed a major new MOT blow as electric cars take advantage of a little-known benefit.",
+      "url": "https://www.express.co.uk/life-style/cars/2250874/petrol-cars-electric-cars-mot-test",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7154467.jpg",
+      "publishedAt": "2026-09-22T20:36:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Trump's Iran war is nearing 7 months. Here's why his UN speech matters for oil prices and markets",
-      "description": "Trump\u2019s UNGA speech comes as the Iran war nears seven months, with oil prices, Hormuz and global markets in focus.",
-      "url": "https://www.livemint.com/news/world/trumps-iran-war-is-nearing-7-months-heres-why-his-un-speech-matters-for-oil-prices-and-markets-11790081354434.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/UN-ASSEMBLY--60_1790085477112_YUws_1790085602879_c5U9_a5a9bca2-217e-456f-a452-9c09ed9ee96a_pz7h.JPG",
-      "publishedAt": "2026-09-22T14:07:35Z",
+      "title": "McLaren family petrol station inspires new McLaren Racing logo",
+      "description": "A Remuera petrol station owned by Bruce McLaren\u2019s parents has been the inspiration behind a new logo for the Formula One team. McLaren Racing revealed a new...",
+      "url": "https://www.nzherald.co.nz/sport/motorsport/formula-1/mclaren-family-petrol-station-inspires-new-mclaren-racing-logo/5JEBBUYG2NBQ7JXRJA3JZKOBVY/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/ZL75DHJXQVGATIXTAWTDZUSP64.jpg?auth=cfd01960a7a9726eb4b464094e5aa3e942618facf65fa35d7ca0e17643a2d747&width=1200&height=675&quality=70&focal=569%2C405&smart=false",
+      "publishedAt": "2026-09-22T20:28:10Z",
       "source": {
-        "name": "Livemint"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "Sir Jim Ratcliffe mothballs three UK chemical plants over \u2018ridiculously\u2019 high energy prices",
-      "description": "Ineos said European gas prices were now 12 times higher than in the US",
-      "url": "https://www.independent.co.uk/news/uk/home-news/jim-ratcliffe-ineos-plants-hull-gas-prices-ukraine-iran-war-b3054240.html",
-      "image": "https://static.independent.co.uk/2026/09/19/09/2295272542..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-09-22T14:02:17Z",
+      "title": "Dow, S&P 500 slip as oil hovers near $100 despite Nasdaq\u2019s record close",
+      "description": "The Dow and S&P 500 declined sharply as oil prices rallied near the $100 mark, causing apprehension among investors. However, the Nasdaq soared to a historic high, fueled by the performance of Micron Technology and companies in the AI sector.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/dow-sp-500-slip-as-oil-hovers-near-100-despite-nasdaqs-record-close/articleshow/134420046.cms",
+      "image": "https://img.etimg.com/thumb/msid-134420046,width-1200,height-630,imgsize-14352,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-22T20:21:00Z",
       "source": {
-        "name": "The Independent"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "WATCH: Tractor Driver Attempts To Run Over Biker At Petrol Pump In Rajasthan; CCTV Captures Attack",
-      "description": "A CCTV video from Rajasthan\u2019s Pingun village shows a tractor driver allegedly attempting to run over a biker at a petrol pump following a monetary dispute. The biker, Suresh Gurjar, escaped by running away, but his motorcycle was crushed. Police detained accused Shaitan Gurjar and registered a case based on Suresh\u2019s complaint. The investigation is underway",
-      "url": "https://www.freepressjournal.in/viral/watch-tractor-driver-attempts-to-run-over-biker-at-petrol-pump-in-rajasthan-cctv-captures-attack",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-22/wv2ri2xp/Tractor-Driver-Attempts-To-Run-Over-Biker-At-Petrol-Pump-In-Rajasthan-CCTV-Captures-Attack",
-      "publishedAt": "2026-09-22T13:59:43Z",
+      "title": "How major US stock indexes fared Tuesday 9",
+      "description": "The U.S. stock market held near its record high after oil prices eased again. The S&P 500 edged down a fraction of a point and is sitting just 0.4% below it",
+      "url": "https://wtop.com/national/2026/09/how-major-us-stock-indexes-fared-tuesday-9-22-2026/",
+      "image": "https://wtop.com/wp-content/uploads/2026/08/favicon-300x300.png",
+      "publishedAt": "2026-09-22T20:20:53Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "WTOP"
       }
     }
   ]
