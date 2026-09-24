@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-24T02:13:07+00:00",
+  "updated_at": "2026-09-24T10:44:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Indian OMCs incur \u20b9530 cr daily losses; \u20b98 per litre on petrol, \u20b99 on diesel and \u20b9300 on LPG: ICRA",
-      "description": "Indian OMCs face \u20b9530 crore daily losses due to rising fuel prices, with significant under-recoveries on petrol, diesel, and LPG.",
-      "url": "https://www.thehindu.com/business/Economy/indian-omcs-incur-530-cr-daily-losses-8-per-litre-on-petrol-9-on-diesel-and-300-on-lpg-icra/article71500097.ece",
-      "image": "https://th-i.thgim.com/public/incoming/5zgto7/article71500382.ece/alternates/LANDSCAPE_1200/85_-of-fuel-disGNAGHO82G.3.jpg.jpg",
-      "publishedAt": "2026-09-23T14:06:42Z",
+      "title": "Stocks fall on soaring bond yields, higher oil prices",
+      "description": "NEW YORK: Stock markets fell Wednesday (Sep 23) as oil prices rose sharply and US bond yields jumped on inflation fears, with world leaders at the UN General Assembly offering little to suggest progress in ending turmoil in the Middle East.After several sessions of falls, the price of Nort",
+      "url": "https://www.channelnewsasia.com/world/stocks-fall-soaring-bond-yields-higher-oil-prices-6406516",
+      "image": "https://dam.mediacorp.sg/image/upload/s--BTrF6i2o--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/ap26257523028882.jpg?itok=i4uxSTzg",
+      "publishedAt": "2026-09-23T21:45:02Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CNA"
       }
     },
     {
-      "title": "Current price of oil as of September 23, 2026",
-      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
-      "url": "https://www.newsbreak.com/fortune-561435/4903463527847-current-price-of-oil-as-of-september-23-2026",
-      "image": "https://img.particlenews.com/img/id/2O3KNC_1FQqVPCH00",
-      "publishedAt": "2026-09-23T14:00:00Z",
+      "title": "Ryanair boss issues stark price warning to British tourists - 'I have no doubt!'",
+      "description": "Ryanair previously said it believes some of its competitors will 'struggle to maintain capacity or even survive' this winter if oil prices remain high.",
+      "url": "https://www.express.co.uk/news/uk/2251187/ryanair-warning-price-increase-summer-2027",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7156142.jpg",
+      "publishedAt": "2026-09-23T21:45:00Z",
       "source": {
-        "name": "NewsBreak"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "The U.S. And Iran Traded Fresh Threats. Oil Prices Climbed Back Above $100 a Barrel.",
-      "description": "Iran's General Staff said Trump's threats of annihilation are \"not a sign of power but a sign of their strategic desperation.\"",
-      "url": "https://www.ibtimes.com/us-iran-traded-fresh-threats-oil-prices-climbed-back-above-100-barrel-3807783",
-      "image": "https://d.ibtimes.com/en/full/4652633/oil-pump.jpg",
-      "publishedAt": "2026-09-23T13:53:45Z",
+      "title": "Costly Gas Prices Hits Contra Costa Animal Rescue",
+      "description": "Joybound says fuel costs add hundreds of dollars monthly to vehicles serving Contra Costa pets.",
+      "url": "https://patch.com/california/walnutcreek/costly-gas-prices-hits-contra-costa-animal-rescue",
+      "image": "https://patch.com/img/cdn20/users/27173486/20260923/051732/styles/patch_image/public/jb-2-patch-key-art___23165751207.png",
+      "publishedAt": "2026-09-23T21:39:58Z",
       "source": {
-        "name": "International Business Times"
+        "name": "Joliet, IL Patch"
       }
     },
     {
-      "title": "US stocks: US markets opens lower as oil, bond yields move higher",
-      "description": "On Wednesday, Wall Street's primary indexes began the day on a downtrend as escalating crude oil prices dampened market sentiment.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-opens-lower-as-oil-bond-yields-move-higher/articleshow/134439940.cms",
-      "image": "https://img.etimg.com/thumb/msid-134439940,width-1200,height-630,imgsize-7469171,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-23T13:49:00Z",
+      "title": "Hawke\u2019s Bay man pays $2500 to fill up car with petrol - for a good cause",
+      "description": "A Hawke\u2019s Bay man has paid $2500 to fill up a family car with petrol, and he\u2019s done it with a smile on his face. A gala dinner and auction event was held on...",
+      "url": "https://www.nzherald.co.nz/nz/hawkes-bay-man-pays-2500-to-fill-up-car-with-petrol-for-a-good-cause/4TSE5RMY5RACDMXDP6KIUT5FPY/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/YQNARWJKN5GMLAFRJHYHUBZZRU.jpg?auth=4b3d9c2255dc193c892ce3eb512419c348d330f7bb4012c790e25a387aa846c9&width=1200&height=675&quality=70&focal=1118%2C771&smart=false",
+      "publishedAt": "2026-09-23T21:29:53Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "U.S. stocks drift near their all time high",
-      "description": "The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing.",
-      "url": "https://www.cp24.com/news/money/2026/09/23/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher/",
-      "image": "https://www.cp24.com/resizer/v2/GGQUEXLANS4RE4YTGLK4NFHL2I.jpg?smart=true&auth=9fc71e55080dfd32d6e65940435cf902eaa89f5995e99a6ddf4f6e1cbae7fe82&width=1200&height=630",
-      "publishedAt": "2026-09-23T13:44:38Z",
+      "title": "\u2018Violent\u2019 Muni Rout Sends Yields to Highest Since at Least 2011",
+      "description": "Municipal bonds are tumbling and pushing yields on benchmark securities to the highest since at least 2011, as renewed inflation fears, expectations for more interest rate hikes and rising oil prices pressure financial markets.",
+      "url": "https://news.bloombergtax.com/daily-tax-report/violent-muni-rout-sends-yields-to-highest-since-at-least-2011",
+      "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
+      "publishedAt": "2026-09-23T21:01:54Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Bloomberg Tax News"
       }
     },
     {
-      "title": "U.S. stocks drift near their all time high",
-      "description": "The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing.",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/09/23/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/GGQUEXLANS4RE4YTGLK4NFHL2I.jpg?smart=true&auth=9fc71e55080dfd32d6e65940435cf902eaa89f5995e99a6ddf4f6e1cbae7fe82&width=1200&height=630",
-      "publishedAt": "2026-09-23T13:44:38Z",
+      "title": "Treasury yields surge to nearly 20",
+      "description": "The yields on U.S. Treasury bonds jumped Wednesday and oil prices rose, sending stocks tumbling as investors braced for the prospect of future Fed rate hikes.",
+      "url": "https://www.europesays.com/3268910/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/260515-U-e08d64.jpg",
+      "publishedAt": "2026-09-23T20:52:16Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "US stocks drift near their all time high as crude oil prices turn higher",
-      "description": "NEW YORK (AP) \u2014 The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing. The S&P 500 slipped 0.1% in early trading Wednesday.",
-      "url": "https://www.vancouverisawesome.com/national-business/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher-12812321",
-      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/e6eb8453fd2e1fe4b91ca81dd5cfe609f3a91c5d2a90316bc33cb9bee520ab5d.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-09-23T13:36:31Z",
+      "title": "Wall Street ends down as oil prices, Treasury yields rise",
+      "description": "The Dow Jones Industrial Average declined 0.68 per cent to 51,511.59 points. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-down-as-oil-prices-treasury-yields-rise",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8920a357bb500d354c40b778bb61c4aac8bbc451b88b08a19fbf382c7bc2e328",
+      "publishedAt": "2026-09-23T20:50:11Z",
       "source": {
-        "name": "Vancouver Is Awesome"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "The Iran war is a political catastrophe for Republicans",
-      "description": "Nearly seven months into the Iran war, rising gas prices and public disapproval threaten Republicans\u2019 midterm election prospects.",
-      "url": "https://www.washingtonexaminer.com/opinion/4738966/iran-war-political-catastrophe-republicans-2026-elections/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26210523417786.jpg?resize=1200,683",
-      "publishedAt": "2026-09-23T13:35:24Z",
+      "title": "Why are US natural gas prices rising today?",
+      "description": "It was also for the first time that the front-month was able to close above the $3 per mmBtu level of psychological technical resistance since early July.",
+      "url": "https://www.europesays.com/3268904/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1790196462_articleshow.jpg",
+      "publishedAt": "2026-09-23T20:47:34Z",
       "source": {
-        "name": "Washington Examiner"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "year mortgage rate climbs to 7.12% as borrowing costs surge",
-      "description": "The average US fixed 30-year mortgage rate jumped to 7.12 per cent, reaching its highest level in more than two years, according to Reuters. The surge followed a short-term policy interest rate hike by the Federal Reserve aimed at curbing persistent inflation, alongside rising oil prices that pushed up underlying residential borrowing benchmarks.",
-      "url": "https://www.tribuneindia.com/news/business/us-30-year-mortgage-rate-climbs-to-7-12-as-borrowing-costs-surge/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNjNDFmNDgwLWI3NTMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-23T13:32:27Z",
+      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
+      "description": "Dow Jones futures: The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/01/INCOME_yield_013017_shutter.jpg",
+      "publishedAt": "2026-09-23T20:46:57Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "US 30-year mortgage rate climbs to 7.12% as borrowing costs surge",
-      "description": "The average US fixed 30-year mortgage rate jumped to 7.12 per cent, reaching its highest level in more than two years, according to Reuters. The surge followed a short-term policy interest rate hike by the Federal Reserve aimed at curbing persistent inflation, alongside rising oil prices that pushed up underlying residential borrowing benchmarks.",
-      "url": "https://www.aninews.in/news/business/us-30-year-mortgage-rate-climbs-to-712-as-borrowing-costs-surge20260923190215/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260923125856-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-23T13:32:15Z",
+      "title": "Some Florida stations already charge over $5 for gas. Here's where.",
+      "description": "As gas prices soar, some parts of Florida are already charging more than $5 a gallon. Is the trend expected to continue?",
+      "url": "https://www.naplesnews.com/story/news/state/2026/09/23/some-florida-stations-already-charge-over-5-dollars-gallon-gas/91908263007/",
+      "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/09/23/NDNJ/91907902007-flacp-5-gas-02.jpeg?crop=2590,1457,x0,y0&width=2590&height=1457&format=pjpg&auto=webp",
+      "publishedAt": "2026-09-23T20:43:08Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Naples Daily News"
       }
     }
   ]
