@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-23T20:50:31+00:00",
+  "updated_at": "2026-09-24T02:13:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices fall after Trump hails \u2018good\u2019 talks with Iran",
-      "description": "HONG KONG - Oil prices fell on Wednesday after President Donald Trump said US and Iranian representatives had met for \u201cvery good\u201d talks at the United Nations.",
-      "url": "https://www.bangkokpost.com/business/general/3324785/oil-prices-fall-after-trump-hails-good-talks-with-iran",
-      "image": "https://static.bangkokpost.com/media/content/20260923/c1_6239095_700.jpg",
-      "publishedAt": "2026-09-23T08:45:00Z",
+      "title": "Indian OMCs incur \u20b9530 cr daily losses; \u20b98 per litre on petrol, \u20b99 on diesel and \u20b9300 on LPG: ICRA",
+      "description": "Indian OMCs face \u20b9530 crore daily losses due to rising fuel prices, with significant under-recoveries on petrol, diesel, and LPG.",
+      "url": "https://www.thehindu.com/business/Economy/indian-omcs-incur-530-cr-daily-losses-8-per-litre-on-petrol-9-on-diesel-and-300-on-lpg-icra/article71500097.ece",
+      "image": "https://th-i.thgim.com/public/incoming/5zgto7/article71500382.ece/alternates/LANDSCAPE_1200/85_-of-fuel-disGNAGHO82G.3.jpg.jpg",
+      "publishedAt": "2026-09-23T14:06:42Z",
       "source": {
-        "name": "Bangkok Post"
+        "name": "The Hindu"
       }
     },
     {
-      "title": "Asia stocks ride tech wave higher, oil slips again",
-      "description": "SYDNEY: Asian shares were aiming for a sixth session of gains on Wednesday as consumer hunger for AI apps continued to buoy tech stocks, while oil prices fell further on reports of increased supply out of the Middle East.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/23/asia-stocks-ride-tech-wave-higher-oil-slips-again",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/23/4125426.png",
-      "publishedAt": "2026-09-23T08:37:00Z",
+      "title": "Current price of oil as of September 23, 2026",
+      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
+      "url": "https://www.newsbreak.com/fortune-561435/4903463527847-current-price-of-oil-as-of-september-23-2026",
+      "image": "https://img.particlenews.com/img/id/2O3KNC_1FQqVPCH00",
+      "publishedAt": "2026-09-23T14:00:00Z",
       "source": {
-        "name": "The Star"
+        "name": "NewsBreak"
       }
     },
     {
-      "title": "Russia hits Kyiv petrol stations, kills one",
-      "description": "KYIV, Sept 23 - Russia slammed jet-powered drones into two petrol stations and other sites in Kyiv early on Wednesday, killing one, hours after President Volodymyr Zelenskiy met US President Donald Trump. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/europe/russia-hits-kyiv-petrol-stations-kills-one",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8b28133084bc416e5a0b151de20f93c1b15ff4ab95d29816a47c02db65b32927",
-      "publishedAt": "2026-09-23T08:21:36Z",
+      "title": "The U.S. And Iran Traded Fresh Threats. Oil Prices Climbed Back Above $100 a Barrel.",
+      "description": "Iran's General Staff said Trump's threats of annihilation are \"not a sign of power but a sign of their strategic desperation.\"",
+      "url": "https://www.ibtimes.com/us-iran-traded-fresh-threats-oil-prices-climbed-back-above-100-barrel-3807783",
+      "image": "https://d.ibtimes.com/en/full/4652633/oil-pump.jpg",
+      "publishedAt": "2026-09-23T13:53:45Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "OMCs may see petrol, diesel margins recover in Q2FY27, LPG losses to limit gains: JM Financial",
-      "description": "India's oil marketing companies (OMCs) may see a sharp recovery in petrol and diesel margins in the second quarter of FY27, although continued losses on LPG sales could limit the overall benefit, according to a report by JM Financial Institutional Securities.",
-      "url": "https://www.tribuneindia.com/news/business/omcs-may-see-petrol-diesel-margins-recover-in-q2fy27-lpg-losses-to-limit-gains-jm-financial/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTQ2OWEyMjMwLWI3MjctMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-23T08:17:46Z",
+      "title": "US stocks: US markets opens lower as oil, bond yields move higher",
+      "description": "On Wednesday, Wall Street's primary indexes began the day on a downtrend as escalating crude oil prices dampened market sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-markets-opens-lower-as-oil-bond-yields-move-higher/articleshow/134439940.cms",
+      "image": "https://img.etimg.com/thumb/msid-134439940,width-1200,height-630,imgsize-7469171,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-23T13:49:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "U.S. stocks drift near their all time high",
+      "description": "The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing.",
+      "url": "https://www.cp24.com/news/money/2026/09/23/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher/",
+      "image": "https://www.cp24.com/resizer/v2/GGQUEXLANS4RE4YTGLK4NFHL2I.jpg?smart=true&auth=9fc71e55080dfd32d6e65940435cf902eaa89f5995e99a6ddf4f6e1cbae7fe82&width=1200&height=630",
+      "publishedAt": "2026-09-23T13:44:38Z",
+      "source": {
+        "name": "CP24 Toronto"
+      }
+    },
+    {
+      "title": "U.S. stocks drift near their all time high",
+      "description": "The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing.",
+      "url": "https://www.bnnbloomberg.ca/markets/2026/09/23/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/GGQUEXLANS4RE4YTGLK4NFHL2I.jpg?smart=true&auth=9fc71e55080dfd32d6e65940435cf902eaa89f5995e99a6ddf4f6e1cbae7fe82&width=1200&height=630",
+      "publishedAt": "2026-09-23T13:44:38Z",
+      "source": {
+        "name": "Bnn Bloomberg"
+      }
+    },
+    {
+      "title": "US stocks drift near their all time high as crude oil prices turn higher",
+      "description": "NEW YORK (AP) \u2014 The U.S. stock market is drifting near its all-time high after oil prices halted their weeklong run of easing. The S&P 500 slipped 0.1% in early trading Wednesday.",
+      "url": "https://www.vancouverisawesome.com/national-business/us-stocks-drift-near-their-all-time-high-as-crude-oil-prices-turn-higher-12812321",
+      "image": "https://www.vmcdn.ca/f/files/shared/feeds/cp/2026/09/e6eb8453fd2e1fe4b91ca81dd5cfe609f3a91c5d2a90316bc33cb9bee520ab5d.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-09-23T13:36:31Z",
+      "source": {
+        "name": "Vancouver Is Awesome"
+      }
+    },
+    {
+      "title": "The Iran war is a political catastrophe for Republicans",
+      "description": "Nearly seven months into the Iran war, rising gas prices and public disapproval threaten Republicans\u2019 midterm election prospects.",
+      "url": "https://www.washingtonexaminer.com/opinion/4738966/iran-war-political-catastrophe-republicans-2026-elections/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26210523417786.jpg?resize=1200,683",
+      "publishedAt": "2026-09-23T13:35:24Z",
+      "source": {
+        "name": "Washington Examiner"
+      }
+    },
+    {
+      "title": "year mortgage rate climbs to 7.12% as borrowing costs surge",
+      "description": "The average US fixed 30-year mortgage rate jumped to 7.12 per cent, reaching its highest level in more than two years, according to Reuters. The surge followed a short-term policy interest rate hike by the Federal Reserve aimed at curbing persistent inflation, alongside rising oil prices that pushed up underlying residential borrowing benchmarks.",
+      "url": "https://www.tribuneindia.com/news/business/us-30-year-mortgage-rate-climbs-to-7-12-as-borrowing-costs-surge/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTNjNDFmNDgwLWI3NTMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-23T13:32:27Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Russia hits Kyiv petrol stations, kills one",
-      "description": "Russia \u200bhas in recent weeks been \u200battacking Kyiv and nearby areas with near constant barrages of the faster and high-flying jet drones that are harder \u200bto intercept.",
-      "url": "https://www.reuters.com/world/europe/russia-hits-kyiv-petrol-stations-kills-one-2026-09-23/",
-      "image": "https://www.reuters.com/resizer/v2/CIKOLSNC5ZLLXMFYLPQLPPNLKM.jpg?auth=0636f8177ad9e35ad16cb2bef74d6033ffcd212aa49f2dcd07ada70454125a3c&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-23T08:17:07Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Commodities: Brent Drops Below $100",
-      "description": "Oil prices continue\u00a0to retreat as expectations of increased Saudi crude exports, progress in US-Iran talks, and a larger-than-expected rise in US crude inventories help\u00a0ease supply concerns.",
-      "url": "https://seekingalpha.com/article/4948906-commodities-brent-drops-below-100",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2157602805/image_2157602805.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-09-23T08:15:00Z",
-      "source": {
-        "name": "Seeking Alpha"
-      }
-    },
-    {
-      "title": "OMCs may see petrol, diesel margins recover in Q2FY27, LPG losses to limit gains: JM Financial",
-      "description": "India's oil marketing companies (OMCs) may see a sharp recovery in petrol and diesel margins in the second quarter of FY27, although continued losses on LPG sales could limit the overall benefit, according to a report by JM Financial Institutional Securities.",
-      "url": "https://www.aninews.in/news/business/omcs-may-see-petrol-diesel-margins-recover-in-q2fy27-lpg-losses-to-limit-gains-jm-financial20260923134354/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260923081056-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-23T08:13:54Z",
+      "title": "US 30-year mortgage rate climbs to 7.12% as borrowing costs surge",
+      "description": "The average US fixed 30-year mortgage rate jumped to 7.12 per cent, reaching its highest level in more than two years, according to Reuters. The surge followed a short-term policy interest rate hike by the Federal Reserve aimed at curbing persistent inflation, alongside rising oil prices that pushed up underlying residential borrowing benchmarks.",
+      "url": "https://www.aninews.in/news/business/us-30-year-mortgage-rate-climbs-to-712-as-borrowing-costs-surge20260923190215/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260923125856-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-09-23T13:32:15Z",
       "source": {
         "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Oil prices fall below US$100 after Trump hails \u2018very good\u2019 US-Iran talks",
-      "description": "HONG KONG, Sept 23 \u2014 Oil prices fell today after President Donald Trump said US and Iranian representatives had met for \u201cvery good\u201d talks at the United Nations.The...",
-      "url": "https://www.malaymail.com/news/money/2026/09/23/oil-prices-fall-below-us100-after-trump-hails-very-good-us-iran-talks/236240",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/23/364156.jpg",
-      "publishedAt": "2026-09-23T08:00:40Z",
-      "source": {
-        "name": "Malay Mail"
-      }
-    },
-    {
-      "title": "Indian central bank likely defending rupee, conducting swaps to drain excess cash, traders say",
-      "description": "The Reserve Bank of India likely intervened in the foreign exchange \u200bmarket on Wednesday, five traders said, \u200ccontinuing its interventions to support the currency as it navigates volatile oil prices and \u200bweak portfolio flows.",
-      "url": "https://www.reuters.com/world/india/indian-central-bank-likely-defending-rupee-conducting-swaps-drain-excess-cash-2026-09-23/",
-      "image": "https://www.reuters.com/resizer/v2/GWLWUCPZRNJC7AHNLHKL3CKXGE.jpg?auth=5bc83abbfc790c81025f3b7efdbc6a93ae341a2f9c1b483648b4bf697a4c401a&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-23T07:40:21Z",
-      "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Madhya Pradesh Traders Observe \u2018No UPI Day\u2019: Shopkeepers In Bhopal, Indore Reject Payments Above \u20b92,000 Over MDR Charge | VIDEO",
-      "description": "Madhya Pradesh traders observed \u2018No UPI Day\u2019 protesting the proposed 0.4% MDR charge on UPI payments above \u20b92,000. Traders in Bhopal, Indore and other cities covered QR scanners with black cloth and avoided high-value UPI transactions. Trade bodies said the charge would increase business costs, while petrol pump dealers also announced opposition from October 16.",
-      "url": "https://www.freepressjournal.in/bhopal/madhya-pradesh-traders-observe-no-upi-day-shopkeepers-in-bhopal-indore-reject-payments-above-2000-over-mdr-charge-video",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-23/5yz9olkd/Add-a-subheading-25.png",
-      "publishedAt": "2026-09-23T07:36:58Z",
-      "source": {
-        "name": "Free Press Journal"
       }
     }
   ]
