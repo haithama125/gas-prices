@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-24T10:44:24+00:00",
+  "updated_at": "2026-09-24T16:07:38+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stocks fall on soaring bond yields, higher oil prices",
-      "description": "NEW YORK: Stock markets fell Wednesday (Sep 23) as oil prices rose sharply and US bond yields jumped on inflation fears, with world leaders at the UN General Assembly offering little to suggest progress in ending turmoil in the Middle East.After several sessions of falls, the price of Nort",
-      "url": "https://www.channelnewsasia.com/world/stocks-fall-soaring-bond-yields-higher-oil-prices-6406516",
-      "image": "https://dam.mediacorp.sg/image/upload/s--BTrF6i2o--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/24/ap26257523028882.jpg?itok=i4uxSTzg",
-      "publishedAt": "2026-09-23T21:45:02Z",
+      "title": "Stock market crash: Nifty 50, Sensex fall 1% as crude tops $102; financial, insurance stocks slide on IRDAI proposal",
+      "description": "Indian benchmark indices Nifty 50 and Sensex dropped about 1% on September 24, driven by rising crude oil prices and higher US bond yields. Key financial stocks like HDFC Life and Bajaj Finance contributed significantly to the decline.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-sensex-fall-1-as-crude-tops-102-financial-insurance-stocks-slide-on-irdai-proposal-11790221859967.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/stock_market_crash_1790222463855_kC4z_1790222468542_OXMo_4a847d28-f5a9-4026-9dfe-39ed04262c6b_kkTg.png",
+      "publishedAt": "2026-09-24T04:02:35Z",
       "source": {
-        "name": "CNA"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Ryanair boss issues stark price warning to British tourists - 'I have no doubt!'",
-      "description": "Ryanair previously said it believes some of its competitors will 'struggle to maintain capacity or even survive' this winter if oil prices remain high.",
-      "url": "https://www.express.co.uk/news/uk/2251187/ryanair-warning-price-increase-summer-2027",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7156142.jpg",
-      "publishedAt": "2026-09-23T21:45:00Z",
+      "title": "Fuel flows through Lindsey Oil Refinery for first time since shutdown a year ago",
+      "description": "Phillips 66 say it will increase the flow of petrol and diesel going through the site which is being used as extra storage capacity",
+      "url": "https://www.grimsbytelegraph.co.uk/news/local-news/fuel-flows-through-lindsey-oil-11168283",
+      "image": "https://i2-prod.grimsbytelegraph.co.uk/article10761334.ece/ALTERNATES/s1200d/1_Lindsey-Oil-Refinery-near-North-Killingholme-pictured-July-22-2025.jpg",
+      "publishedAt": "2026-09-24T04:00:00Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Grimsby Telegraph"
       }
     },
     {
-      "title": "Costly Gas Prices Hits Contra Costa Animal Rescue",
-      "description": "Joybound says fuel costs add hundreds of dollars monthly to vehicles serving Contra Costa pets.",
-      "url": "https://patch.com/california/walnutcreek/costly-gas-prices-hits-contra-costa-animal-rescue",
-      "image": "https://patch.com/img/cdn20/users/27173486/20260923/051732/styles/patch_image/public/jb-2-patch-key-art___23165751207.png",
-      "publishedAt": "2026-09-23T21:39:58Z",
+      "title": "Rupee weakens to 95.83 against dollar: Factors shaping the currency today",
+      "description": "Indian rupee weakens to 95.83 against US dollar amid rising crude oil prices, stronger dollar, and foreign investor outflows.",
+      "url": "https://www.cnbctv18.com/market/currency/rupee-weakens-against-dollar-factors-shaping-currency-forex-rate-19995070.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-8d94b0f54a506965d95e101e4769fdaf.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-24T03:56:53Z",
       "source": {
-        "name": "Joliet, IL Patch"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Hawke\u2019s Bay man pays $2500 to fill up car with petrol - for a good cause",
-      "description": "A Hawke\u2019s Bay man has paid $2500 to fill up a family car with petrol, and he\u2019s done it with a smile on his face. A gala dinner and auction event was held on...",
-      "url": "https://www.nzherald.co.nz/nz/hawkes-bay-man-pays-2500-to-fill-up-car-with-petrol-for-a-good-cause/4TSE5RMY5RACDMXDP6KIUT5FPY/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/YQNARWJKN5GMLAFRJHYHUBZZRU.jpg?auth=4b3d9c2255dc193c892ce3eb512419c348d330f7bb4012c790e25a387aa846c9&width=1200&height=675&quality=70&focal=1118%2C771&smart=false",
-      "publishedAt": "2026-09-23T21:29:53Z",
+      "title": "As fuel prices rise here's how to find the cheapest petrol in your city",
+      "description": "Australians are paying more at the bowser than they have in months, amid strikes between Yemen's Houthi's and Saudi Arabia leading to fuel shocks and the fuel excise being paid in full.",
+      "url": "https://www.sbs.com.au/news/article/the-tuesday-fill-up-myth-and-how-to-find-the-cheapest-fuel-in-your-city/sbj4s64uu",
+      "image": "https://assets.sbs.com.au/dims4/default/6ab9bc1/2147483647/strip/true/crop/5000x2813+0+260/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2e%2F1e%2Fd2f7694c4fb08fe1acd6108da9be%2F20260918163467838098-original.jpg",
+      "publishedAt": "2026-09-24T03:46:24Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "SBS Australia"
       }
     },
     {
-      "title": "\u2018Violent\u2019 Muni Rout Sends Yields to Highest Since at Least 2011",
-      "description": "Municipal bonds are tumbling and pushing yields on benchmark securities to the highest since at least 2011, as renewed inflation fears, expectations for more interest rate hikes and rising oil prices pressure financial markets.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/violent-muni-rout-sends-yields-to-highest-since-at-least-2011",
-      "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-      "publishedAt": "2026-09-23T21:01:54Z",
+      "title": "Rupee faces pressure from oil, US yields; RBI deputy flags case for gains",
+      "description": "The rupee faces pressure from rising oil prices and US yields, but RBI hints at potential stabilization and appreciation.",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-faces-pressure-from-oil-us-yields-rbi-deputy-flags-case-for-gains/article71502654.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/8lr9ug/article71502657.ece/alternates/LANDSCAPE_1200/BL13_Think_Women_money.jpg",
+      "publishedAt": "2026-09-24T03:22:32Z",
       "source": {
-        "name": "Bloomberg Tax News"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Treasury yields surge to nearly 20",
-      "description": "The yields on U.S. Treasury bonds jumped Wednesday and oil prices rose, sending stocks tumbling as investors braced for the prospect of future Fed rate hikes.",
-      "url": "https://www.europesays.com/3268910/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/260515-U-e08d64.jpg",
-      "publishedAt": "2026-09-23T20:52:16Z",
+      "title": "Street set for a negative start as oil stays above $100",
+      "description": "Indian shares are set for a weaker opening on Thursday as crude oil prices remain above $100 a barrel amid heightened US-Iran tensions. GIFT Nifty in",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-24-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134450265.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134450265,width-1280,height-720,imgsize-148450,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-24T03:07:15Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Wall Street ends down as oil prices, Treasury yields rise",
-      "description": "The Dow Jones Industrial Average declined 0.68 per cent to 51,511.59 points. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-down-as-oil-prices-treasury-yields-rise",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/8920a357bb500d354c40b778bb61c4aac8bbc451b88b08a19fbf382c7bc2e328",
-      "publishedAt": "2026-09-23T20:50:11Z",
+      "title": "LPG, CNG, PNG prices today (September 24): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "Oil prices are remain stable on Thursday, with Brent crude futures to $102.2 a barrel. While investors monitored potential diplomatic developments between the US and Iran during the United Nations General Assembly.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-24-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-557433-2026-09-24",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab490eb9d7b0-lpg--cng--png-prices-on-june-30-check-latest-rates-in-major-cities-305243399-16x9.jpg",
+      "publishedAt": "2026-09-24T03:06:21Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Why are US natural gas prices rising today?",
-      "description": "It was also for the first time that the front-month was able to close above the $3 per mmBtu level of psychological technical resistance since early July.",
-      "url": "https://www.europesays.com/3268904/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1790196462_articleshow.jpg",
-      "publishedAt": "2026-09-23T20:47:34Z",
+      "title": "Indian bonds set for selloff as RBI rate hike bets strengthen",
+      "description": "Indian government bonds face a selloff as higher US Treasury yields and oil prices strengthen expectations of an RBI repo rate hike.",
+      "url": "https://www.thehindubusinessline.com/markets/indian-bonds-set-for-selloff-as-us-yields-oil-prices-fuel-rate-hike-bets/article71502611.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/ldryj8/article69656460.ece/alternates/LANDSCAPE_1200/513319682",
+      "publishedAt": "2026-09-24T02:56:59Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Dow Jones Futures: Stocks Fall As Treasury Yields Soar; Palantir Flashes Buy Signal",
-      "description": "Dow Jones futures: The stock market fell as Treasury yields skyrocketed and oil prices rose, but Palantir and Palo Alto flashed buy signals.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-treasury-yields-soar-palantir-palo-alto-buy-signal/",
-      "image": "https://www.investors.com/wp-content/uploads/2017/01/INCOME_yield_013017_shutter.jpg",
-      "publishedAt": "2026-09-23T20:46:57Z",
+      "title": "Rupee faces pressure from oil, US yields; RBI deputy flags case for gains",
+      "description": "The Indian rupee is set to encounter headwinds on Thursday from a renewed rise in oil prices and a broadly firmer dollar on \u200baccount of growing US rate hike expectations, while central bank intervention is expected \u200cto limit losses.",
+      "url": "https://www.reuters.com/world/india/rupee-faces-pressure-oil-us-yields-rbi-deputy-flags-case-gains-2026-09-24/",
+      "image": "https://www.reuters.com/resizer/v2/RTKAANLR7VPZ5JP7KFLDUMCK24.jpg?auth=480298ee2efc8c040da36c399e99f43a1af32297ac7e3c0314008d06dd53a7bf&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-24T02:45:26Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Some Florida stations already charge over $5 for gas. Here's where.",
-      "description": "As gas prices soar, some parts of Florida are already charging more than $5 a gallon. Is the trend expected to continue?",
-      "url": "https://www.naplesnews.com/story/news/state/2026/09/23/some-florida-stations-already-charge-over-5-dollars-gallon-gas/91908263007/",
-      "image": "https://www.naplesnews.com/gcdn/authoring/authoring-images/2026/09/23/NDNJ/91907902007-flacp-5-gas-02.jpeg?crop=2590,1457,x0,y0&width=2590&height=1457&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-23T20:43:08Z",
+      "title": "Indian shares set to open lower as crude rises above $100; NSE listing in focus",
+      "description": "Indian shares are set to open lower on Thursday after oil prices rose above $100 a barrel in the previous session following Iranian President Masoud Pezeshkian's comments at the \u200bUN General Assembly that Tehran will never surrender to US pressure.",
+      "url": "https://www.reuters.com/world/india/indian-shares-set-open-lower-crude-rises-above-100-nse-listing-focus-2026-09-24/",
+      "image": "https://www.reuters.com/resizer/v2/VK5BUZ6XUVMKLHP3WADLLQ3XFM.jpg?auth=e701d71942134435fb0426734a96e3fde7ccfee58f7c946c642a3176d89786f2&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-24T02:39:24Z",
       "source": {
-        "name": "Naples Daily News"
+        "name": "Reuters"
       }
     }
   ]
