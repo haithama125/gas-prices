@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-24T16:07:38+00:00",
+  "updated_at": "2026-09-24T20:55:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stock market crash: Nifty 50, Sensex fall 1% as crude tops $102; financial, insurance stocks slide on IRDAI proposal",
-      "description": "Indian benchmark indices Nifty 50 and Sensex dropped about 1% on September 24, driven by rising crude oil prices and higher US bond yields. Key financial stocks like HDFC Life and Bajaj Finance contributed significantly to the decline.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-crash-nifty-50-sensex-fall-1-as-crude-tops-102-financial-insurance-stocks-slide-on-irdai-proposal-11790221859967.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/24/1600x900/logo/stock_market_crash_1790222463855_kC4z_1790222468542_OXMo_4a847d28-f5a9-4026-9dfe-39ed04262c6b_kkTg.png",
-      "publishedAt": "2026-09-24T04:02:35Z",
+      "title": "Asian stocks, currencies pressured by oil prices, bond rout",
+      "description": "Emerging Asian stocks and currencies retreated on Thursday, with Indonesian assets leading the decline, weighed down by oil-driven inflation risks and sharply higher US Treasury yields.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/24/asian-stocks-currencies-pressured-by-oil-prices-bond-rout",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/24/4127376.png",
+      "publishedAt": "2026-09-24T08:44:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Star"
       }
     },
     {
-      "title": "Fuel flows through Lindsey Oil Refinery for first time since shutdown a year ago",
-      "description": "Phillips 66 say it will increase the flow of petrol and diesel going through the site which is being used as extra storage capacity",
-      "url": "https://www.grimsbytelegraph.co.uk/news/local-news/fuel-flows-through-lindsey-oil-11168283",
-      "image": "https://i2-prod.grimsbytelegraph.co.uk/article10761334.ece/ALTERNATES/s1200d/1_Lindsey-Oil-Refinery-near-North-Killingholme-pictured-July-22-2025.jpg",
-      "publishedAt": "2026-09-24T04:00:00Z",
+      "title": "Oil extends gains on little sign of progress in US-Iran talks",
+      "description": "SINGAPORE: Oil prices extended gains on Thursday after climbing 4% in the previous session as diplomatic talks between the United States and Iran showed no concrete sign of progress.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/09/24/oil-extends-gains-on-little-sign-of-progress-in-us-iran-talks",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/24/4127295.png",
+      "publishedAt": "2026-09-24T08:39:00Z",
       "source": {
-        "name": "Grimsby Telegraph"
+        "name": "The Star"
       }
     },
     {
-      "title": "Rupee weakens to 95.83 against dollar: Factors shaping the currency today",
-      "description": "Indian rupee weakens to 95.83 against US dollar amid rising crude oil prices, stronger dollar, and foreign investor outflows.",
-      "url": "https://www.cnbctv18.com/market/currency/rupee-weakens-against-dollar-factors-shaping-currency-forex-rate-19995070.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-8d94b0f54a506965d95e101e4769fdaf.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-24T03:56:53Z",
+      "title": "Govt likely to examine demand for UPI MDR exemption for petrol pumps",
+      "description": "The All India Petroleum Dealers Association (AIPDA) sought a complete exemption for petrol pumps from MDR on UPI transactions above Rs 2,000",
+      "url": "https://www.moneycontrol.com/news/business/govt-likely-to-examine-demand-for-upi-mdr-exemption-for-petrol-pumps-14037301.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924083414_upi1.jpg",
+      "publishedAt": "2026-09-24T08:34:32Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Crude oil prices may ease to $75",
+      "description": "Iman Nasseri, MD-Middle East Research, FGE NexantECA, said the outlook factors in higher crude supply from non-OPEC producers, with Guyana, Brazil and Venezuela expected to add around 700,000-800,000 barrels per day year-on-year next year.",
+      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-may-ease-to-75-85-in-2027-says-fge-nexanteca-19997581.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/artificial-intelligence-5-2026-09-7c7e6b40a1cf13aada82502c15a8a1d6.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-24T08:34:24Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "As fuel prices rise here's how to find the cheapest petrol in your city",
-      "description": "Australians are paying more at the bowser than they have in months, amid strikes between Yemen's Houthi's and Saudi Arabia leading to fuel shocks and the fuel excise being paid in full.",
-      "url": "https://www.sbs.com.au/news/article/the-tuesday-fill-up-myth-and-how-to-find-the-cheapest-fuel-in-your-city/sbj4s64uu",
-      "image": "https://assets.sbs.com.au/dims4/default/6ab9bc1/2147483647/strip/true/crop/5000x2813+0+260/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F2e%2F1e%2Fd2f7694c4fb08fe1acd6108da9be%2F20260918163467838098-original.jpg",
-      "publishedAt": "2026-09-24T03:46:24Z",
+      "title": "India may examine demand to exempt select transactions from MDR charges: Report - CNBC TV18",
+      "description": "Government to examine exempting select UPI transactions, including those at petrol pumps, from MDR charges. This follows a decision to levy MDR on UPI transacti",
+      "url": "https://www.cnbctv18.com/personal-finance/upi-mdr-india-may-examine-demand-exempt-select-transactions-mdr-charges-19997613.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/photo-10-2026-09-8ebae55abe291624755a80242b78b2b3.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-24T08:25:48Z",
       "source": {
-        "name": "SBS Australia"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Rupee faces pressure from oil, US yields; RBI deputy flags case for gains",
-      "description": "The rupee faces pressure from rising oil prices and US yields, but RBI hints at potential stabilization and appreciation.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-faces-pressure-from-oil-us-yields-rbi-deputy-flags-case-for-gains/article71502654.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/8lr9ug/article71502657.ece/alternates/LANDSCAPE_1200/BL13_Think_Women_money.jpg",
-      "publishedAt": "2026-09-24T03:22:32Z",
+      "title": "Fuel prices \u2018heading for \u00a33 per litre\u2019 after rule change proposal",
+      "description": "Petrol and diesel drivers could be facing another staggering rise at the pumps as fuel prices continue to cause a serious headache for UK motorists.",
+      "url": "https://www.express.co.uk/life-style/cars/2251253/fuel-prices-petrol-diesel-rule-change",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7156432.jpg",
+      "publishedAt": "2026-09-24T08:23:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Street set for a negative start as oil stays above $100",
-      "description": "Indian shares are set for a weaker opening on Thursday as crude oil prices remain above $100 a barrel amid heightened US-Iran tensions. GIFT Nifty in",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-24-september-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134450265.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134450265,width-1280,height-720,imgsize-148450,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-24T03:07:15Z",
+      "title": "Major relief for Spain drivers",
+      "description": "Spain\u2019s major fuel companies have ruled out a French-style petrol shortage in the short term",
+      "url": "https://euroweeklynews.com/2026/09/24/major-relief-for-spain-drivers-as-france-style-fuel-crisis-ruled-out/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/fuelshortsagespain.png",
+      "publishedAt": "2026-09-24T07:46:51Z",
       "source": {
-        "name": "Times of India"
+        "name": "Euro Weekly News"
       }
     },
     {
-      "title": "LPG, CNG, PNG prices today (September 24): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "Oil prices are remain stable on Thursday, with Brent crude futures to $102.2 a barrel. While investors monitored potential diplomatic developments between the US and Iran during the United Nations General Assembly.",
-      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-24-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-557433-2026-09-24",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab490eb9d7b0-lpg--cng--png-prices-on-june-30-check-latest-rates-in-major-cities-305243399-16x9.jpg",
-      "publishedAt": "2026-09-24T03:06:21Z",
+      "title": "Why is the stock market crashing today? 4 factors behind the sharp fall in the Nifty and Sensex indices",
+      "description": "The Indian stock market, represented by the BSE Sensex and Nifty 50, experienced a sharp decline today, driven by a confluence of global and domestic economic pressures. A significant surge in global bond yields, particularly the US 10-year yield reaching a near two-decade high, and elevated crude oil prices above $102 per barrel, created substantial headwinds for investors. Compounding these issues, the banking and financial services sector faced a sell-off due to proposed stringent commission caps by the Insurance Regulatory and Development Authority of India, which heavily impacts these high-weightage stocks. While some IT and Pharma stocks showed resilience, the overall market sentiment was negative, with analysts suggesting that the market's recovery prospects remain dim as long as these global economic challenges persist.",
+      "url": "https://www.theweek.in/news/biz-tech/2026/09/24/why-is-the-stock-market-crashing-today-4-factors-behind-the-sharp-fall-in-the-nifty-and-sensex-indices.html",
+      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/4/30/sensex-nifty-india-stock-market-shutterstock.jpg",
+      "publishedAt": "2026-09-24T07:35:21Z",
       "source": {
-        "name": "Business Today"
+        "name": "THE WEEK"
       }
     },
     {
-      "title": "Indian bonds set for selloff as RBI rate hike bets strengthen",
-      "description": "Indian government bonds face a selloff as higher US Treasury yields and oil prices strengthen expectations of an RBI repo rate hike.",
-      "url": "https://www.thehindubusinessline.com/markets/indian-bonds-set-for-selloff-as-us-yields-oil-prices-fuel-rate-hike-bets/article71502611.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/ldryj8/article69656460.ece/alternates/LANDSCAPE_1200/513319682",
-      "publishedAt": "2026-09-24T02:56:59Z",
+      "title": "India bonds pummelled after Treasury rout, traders raise rate hike bets",
+      "description": "Indian government bonds experienced a decline following increases in U.S. Treasury yields and oil prices. The benchmark 6.94% 2036 bond yield rose to its highest level since September. Higher oil prices intensified inflation worries ahead of the Reserve Bank of India's monetary policy meeting. Market participants anticipate a repo rate hike on October 7 due to economic conditions.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pummelled-after-treasury-rout-traders-raise-rate-hike-bets/articleshow/134455217.cms",
+      "image": "https://img.etimg.com/thumb/msid-134455243,width-1200,height-630,imgsize-87352,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-24T07:32:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Rupee faces pressure from oil, US yields; RBI deputy flags case for gains",
-      "description": "The Indian rupee is set to encounter headwinds on Thursday from a renewed rise in oil prices and a broadly firmer dollar on \u200baccount of growing US rate hike expectations, while central bank intervention is expected \u200cto limit losses.",
-      "url": "https://www.reuters.com/world/india/rupee-faces-pressure-oil-us-yields-rbi-deputy-flags-case-gains-2026-09-24/",
-      "image": "https://www.reuters.com/resizer/v2/RTKAANLR7VPZ5JP7KFLDUMCK24.jpg?auth=480298ee2efc8c040da36c399e99f43a1af32297ac7e3c0314008d06dd53a7bf&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-24T02:45:26Z",
+      "title": "Trump's best bet to cool the Ukraine war and cut oil prices starts with Elon Musk",
+      "description": "If President Donald Trump really wants a ceasefire in Ukraine, he\u2019ll pressure Elon Musk to let Kyiv use his Starlink system over Russian territory.",
+      "url": "https://nypost.com/2026/09/24/opinion/trumps-best-bet-to-cool-the-ukraine-war-and-cut-oil-prices-starts-with-elon-musk/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/elon-musk-looks-stadium-memorial-111907413-e1790204680832.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-09-24T07:12:09Z",
       "source": {
-        "name": "Reuters"
-      }
-    },
-    {
-      "title": "Indian shares set to open lower as crude rises above $100; NSE listing in focus",
-      "description": "Indian shares are set to open lower on Thursday after oil prices rose above $100 a barrel in the previous session following Iranian President Masoud Pezeshkian's comments at the \u200bUN General Assembly that Tehran will never surrender to US pressure.",
-      "url": "https://www.reuters.com/world/india/indian-shares-set-open-lower-crude-rises-above-100-nse-listing-focus-2026-09-24/",
-      "image": "https://www.reuters.com/resizer/v2/VK5BUZ6XUVMKLHP3WADLLQ3XFM.jpg?auth=e701d71942134435fb0426734a96e3fde7ccfee58f7c946c642a3176d89786f2&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-09-24T02:39:24Z",
-      "source": {
-        "name": "Reuters"
+        "name": "New York Post"
       }
     }
   ]
