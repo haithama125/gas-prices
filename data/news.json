@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-25T02:29:57+00:00",
+  "updated_at": "2026-09-25T10:48:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "\u00a3100 charges for drivers with family cars at 200 petrol stations across UK",
-      "description": "Motorists in Maidstone, Kent, are paying the highest average for unleaded petrol this week, with road users splashing 175.2 per litre",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/100-charges-drivers-family-cars-34624741",
-      "image": "https://i2-prod.birminghammail.co.uk/article34624804.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-09-24T14:23:00Z",
+      "title": "As oil prices rise, so will airfare for holiday travelers, experts say",
+      "description": "Rising fuel prices are pushing airfare skyward \u2014 meaning travelers will need to plan even earlier for holiday trips.",
+      "url": "https://chicago.suntimes.com/travel/2026/09/24/holiday-flight-airfare-prices-planning",
+      "image": "https://cst.brightspotcdn.com/dims4/default/815cbec/2147483647/strip/true/crop/1024x585+0+49/resize/1461x834!/quality/90/?url=https%3A%2F%2Fchorus-production-cst-web.s3.us-east-1.amazonaws.com%2Fbrightspot%2F22%2F16%2F7a7a6e1a9e65e0b14c7a9216b6ee%2Fap19354765708003.jpg",
+      "publishedAt": "2026-09-24T22:48:09Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "Chicago Sun-Times"
       }
     },
     {
-      "title": "Drivers urged to fill up with petrol and diesel before Saturday arrives",
-      "description": "Fuel retailers adjust prices based on demand, experts have warned.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-urged-fill-up-petrol-34624553",
-      "image": "https://i2-prod.birminghammail.co.uk/article34624609.ece/ALTERNATES/s1200d/0_traffic.jpg",
-      "publishedAt": "2026-09-24T14:00:00Z",
+      "title": "US stocks finished flat, while oil prices and yields continued to climb - Newsquawk Daily Asia-Pac Market Open",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/markets/us-stocks-finished-flat-while-oil-prices-and-yields-continued-climb-newsquawk-daily-asia",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-09/Asia-Pac-Opening-News_16.png?itok=wDmJxz5_",
+      "publishedAt": "2026-09-24T21:59:29Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "ZeroHedge"
       }
     },
     {
-      "title": "US stocks: US stocks open lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
-      "description": "Wall Street's main stock indexes fell as Middle East tensions weighed on financial markets. Oil prices have risen, which is causing a spike in Treasury yields during this period. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all opened lower this morning. Investors are also showing caution ahead of a significant summit between Donald Trump and Xi Jinping.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-stocks-open-lower-as-oil-gains-on-mideast-uncertainty-eyes-on-trump-xi-talks/articleshow/134464197.cms",
-      "image": "https://img.etimg.com/thumb/msid-134464197,width-1200,height-630,imgsize-9342314,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-24T13:47:00Z",
+      "title": "Consumer Stocks Fall as Inflation Woes Grow -- Consumer Roundup",
+      "description": "Rising oil prices pressured inflation expectations higher, bringing in question the resilience of the American consumer -- and weakening stocks in the consumer sector.\nDarden Restaurants said...",
+      "url": "https://www.marketscreener.com/news/consumer-stocks-fall-as-inflation-woes-grow-consumer-roundup-ce785adfd88ff520",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-09-24T21:59:15Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Senate rejects resolution to halt the Iran war as gas prices upend midterms",
+      "description": "The Senate tally, 49-50, coming days after Trump's bombastic address to the United Nations in which he threatened to \u201cannihilate\u201d Iran, was likely the last chance for lawmakers to go on record about the war ahead of November.",
+      "url": "https://www.latimes.com/world-nation/story/2026-09-24/senate-rejects-resolution-to-halt-iran-war-as-gas-prices-upend-midterms",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/a6009f0/2147483647/strip/true/crop/5000x2625+0+354/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fdd%2F96%2F7316bac94082af91333558922872%2F937582db1654420ba7c0f6de42c721a3.jpg",
+      "publishedAt": "2026-09-24T21:50:13Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "D St Slumps on Oil Spike, Bond Rout & Irda Jolt",
+      "description": "Indian equity indices came under heavy selling pressure on Thursday, with rising US bond yields, elevated crude oil prices, weakness in the rupee and a sell-off in financials weighing on investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/et-front/d-st-slumps-onoil-spike-bondrout-irda-jolt/articleshow/134470026.cms",
+      "image": "https://img.etimg.com/thumb/msid-134471990,width-1200,height-630,imgsize-70652,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T21:33:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Gold Falls \u20b91,600 To \u20b91.52 Lakh Per 10 Grams As Strong Dollar, Crude Oil Surge Weigh On Bullion",
-      "description": "Gold prices fell Rs 1,600 to Rs 1.52 lakh per 10 grams in New Delhi, extending losses for a fourth session, while silver dropped Rs 5,000 to Rs 2.37 lakh per kg. A stronger US dollar, higher Treasury yields, rising crude oil prices and weak global cues weighed on precious metals.",
-      "url": "https://www.freepressjournal.in/business/gold-falls-1600-to-152-lakh-per-10-grams-as-strong-dollar-crude-oil-surge-weigh-on-bullion",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-24/rhlk4pel/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-77.jpg",
-      "publishedAt": "2026-09-24T13:37:37Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Food Ministry asks edible oil firms to pass on full benefit of import duty cuts",
-      "description": "The Food Ministry has requested edible oil companies to reduce distributor prices following recent import duty reductions. This directive aims to ensure consumers receive the full benefit of the cuts in import tariffs. The duty reductions are part of efforts to control inflation and stabilise domestic cooking oil prices. India's vegetable oil imports have risen, indicating increased demand influenced by factors like a weaker rupee.",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/food/food-ministry-asks-edible-oil-firms-to-pass-on-full-benefit-of-import-duty-cuts/articleshow/134463613.cms",
-      "image": "https://img.etimg.com/thumb/msid-134463670,width-1200,height-630,imgsize-100248,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-24T13:22:00Z",
+      "title": "D St Slumps on Oil Spike, Bond Rout & Irda Jolt",
+      "description": "Indian equity indices came under heavy selling pressure on Thursday, with rising US bond yields, elevated crude oil prices, weakness in the rupee and a sell-off in financials weighing on investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/sep/25/et-front/d-st-slumps-onoil-spike-bondrout-irda-jolt/articleshow/134470026.cms",
+      "image": "https://img.etimg.com/thumb/msid-134471990,width-1200,height-630,imgsize-70652,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T21:33:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Gold slides Rs 1,600 to Rs 1.52 lakh per 10 gm as oil surge, firm dollar deepen bullion selloff",
-      "description": "New Delhi, Sep 24 (PTI) Gold prices declined Rs 1,600 to Rs 1.52 lakh per 10 grams in the national capital on Thursday, extending the losing streak for the fourth consecutive session, as the rising US dollar and higher crude oil prices weighed on the precious metal. The yellow metal of 99.9 per cent purity [\u2026]",
-      "url": "https://theprint.in/economy/gold-slides-rs-1600-to-rs-1-52-lakh-per-10-gm-as-oil-surge-firm-dollar-deepen-bullion-selloff/3052485/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-09-24T13:19:20Z",
+      "title": "Dow Jones Futures: Market Rally Resilient As Yields, Oil Prices Keep Rising; Tesla Event On Deck",
+      "description": "Dow Jones futures: The stock market closed mixed even as yields and oil prices kept rising. Taiwan Semi is a buy. A Tesla Semi event is due.",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-rally-resilient-yields-oil-prices-rising-tesla-semi-event/",
+      "image": "https://www.investors.com/wp-content/uploads/2017/09/tesla-semi-musk-ec.jpg",
+      "publishedAt": "2026-09-24T21:00:24Z",
       "source": {
-        "name": "ThePrint"
+        "name": "Investor's Business Daily"
       }
     },
     {
-      "title": "Gold slides Rs 1,600 to Rs 1.52 lakh per 10 gm as oil surge, firm dollar deepen bullion selloff",
-      "description": "Gold prices declined Rs 1,600 to Rs 1.52 lakh per 10 grams in the national capital on Thursday, extending the losing streak for the fourth consecutive session, as the rising US dollar and higher crude oil prices weighed on the precious metal.",
-      "url": "https://www.greaterkashmir.com/national/gold-slides-rs-1600-to-rs-152-lakh-per-10-gm-as-oil-surge-firm-dollar-deepen-bullion-selloff-12572237",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/02/gold-loan-rate-2026-05-02-20-16-45.png",
-      "publishedAt": "2026-09-24T13:09:30Z",
+      "title": "S&P 500 steady as US-Iran tensions and oil prices rise",
+      "description": "The S&P 500 ended near flat amid US-Iran tensions, rising oil prices, mixed AI stock performance, and expectations of further US interest rate hikes. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/sp-500-ends-near-flat-as-investors-focus-on-us-iran-war",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/607ab8a8a6aefd35dd4ab5ba427ed093f8ad9bbaa2dc6c8df76f57593352cbab",
+      "publishedAt": "2026-09-24T20:57:38Z",
       "source": {
-        "name": "Greater Kashmir"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Global bond selloff continues, stock futures drop",
-      "description": "Stocks slid across globe in early European trade Thursday as implications of higher oil prices as well as strong U.S. growth data reverberated through markets | Business News",
-      "url": "https://www.hindustantimes.com/business/global-bond-selloff-continues-stock-futures-drop-101790242147289.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/im-93860772_1790242150734_x9Uo_1790242182108_Q4YQ_f379a1b7-79cf-4241-a5e0-2e9d2d69c963_lobi.jpg",
-      "publishedAt": "2026-09-24T13:00:07Z",
+      "title": "A shaky day for oil prices and the bond market leaves stocks little changed",
+      "description": "Stocks ended a shaky day of trading on Wall Street roughly where they began following a couple sudden reversals",
+      "url": "https://www.latimes.com/business/story/2026-09-24/shaky-day-for-oil-prices-bond-market-leaves-stocks-little-changed",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/ed33116/2147483647/strip/true/crop/7796x4093+0+552/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2F95%2Fcc0386af4a729963221297a721e2%2Fedff4c58daff476bbb62fdfc6a128202.jpg",
+      "publishedAt": "2026-09-24T20:40:54Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "US stocks slip after bond market keeps up pressure and oil prices rise",
-      "description": "Pressure continues to bear down on Wall Street from the bond market, and U.S. stocks are falling again as oil prices rise.",
-      "url": "https://www.nydailynews.com/2026/09/24/us-markets-treasury-yields/",
-      "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/AP26257517900348.jpg?w=2000&h=1333",
-      "publishedAt": "2026-09-24T12:59:01Z",
+      "title": "Senate rejects resolution to halt the Iran war as gas prices upend midterms",
+      "description": "This was the 14th time the Senate has considered a war powers resolution, since Trump launched the conflict on Feb. 28.",
+      "url": "https://www.inquirer.com/politics/nation/trump-senate-war-powers-iran-affordability-20260924.html",
+      "image": "https://www.inquirer.com/resizer/v2/PWHPQDKAIPUAWYAFGS7BEOGOQE.jpg?auth=5a02f686521cfd6b27db5ff5fb0f6d2fc54f88bba127e4fd5e6e9ae2585844a0&width=760&height=507&smart=true",
+      "publishedAt": "2026-09-24T20:36:38Z",
       "source": {
-        "name": "New York Daily News"
-      }
-    },
-    {
-      "title": "Budget 2027: Cuts to excise duty on petrol and diesel will be extended into the winter",
-      "description": "Energy costs are centre stage as it's crunch time for budget negotiations with less than two weeks until it is announced",
-      "url": "https://www.irishmirror.ie/news/irish-news/politics/budget-2027-cuts-excise-duty-37698422",
-      "image": "https://i2-prod.irishmirror.ie/article37604886.ece/ALTERNATES/s1200d/0_PA-85674765.jpg",
-      "publishedAt": "2026-09-24T12:52:56Z",
-      "source": {
-        "name": "Irish Mirror"
+        "name": "The Philadelphia Inquirer"
       }
     }
   ]
