@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-24T20:55:43+00:00",
+  "updated_at": "2026-09-25T02:29:57+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asian stocks, currencies pressured by oil prices, bond rout",
-      "description": "Emerging Asian stocks and currencies retreated on Thursday, with Indonesian assets leading the decline, weighed down by oil-driven inflation risks and sharply higher US Treasury yields.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/24/asian-stocks-currencies-pressured-by-oil-prices-bond-rout",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/24/4127376.png",
-      "publishedAt": "2026-09-24T08:44:00Z",
+      "title": "\u00a3100 charges for drivers with family cars at 200 petrol stations across UK",
+      "description": "Motorists in Maidstone, Kent, are paying the highest average for unleaded petrol this week, with road users splashing 175.2 per litre",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/100-charges-drivers-family-cars-34624741",
+      "image": "https://i2-prod.birminghammail.co.uk/article34624804.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-09-24T14:23:00Z",
       "source": {
-        "name": "The Star"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Oil extends gains on little sign of progress in US-Iran talks",
-      "description": "SINGAPORE: Oil prices extended gains on Thursday after climbing 4% in the previous session as diplomatic talks between the United States and Iran showed no concrete sign of progress.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/09/24/oil-extends-gains-on-little-sign-of-progress-in-us-iran-talks",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/24/4127295.png",
-      "publishedAt": "2026-09-24T08:39:00Z",
+      "title": "Drivers urged to fill up with petrol and diesel before Saturday arrives",
+      "description": "Fuel retailers adjust prices based on demand, experts have warned.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/drivers-urged-fill-up-petrol-34624553",
+      "image": "https://i2-prod.birminghammail.co.uk/article34624609.ece/ALTERNATES/s1200d/0_traffic.jpg",
+      "publishedAt": "2026-09-24T14:00:00Z",
       "source": {
-        "name": "The Star"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Govt likely to examine demand for UPI MDR exemption for petrol pumps",
-      "description": "The All India Petroleum Dealers Association (AIPDA) sought a complete exemption for petrol pumps from MDR on UPI transactions above Rs 2,000",
-      "url": "https://www.moneycontrol.com/news/business/govt-likely-to-examine-demand-for-upi-mdr-exemption-for-petrol-pumps-14037301.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924083414_upi1.jpg",
-      "publishedAt": "2026-09-24T08:34:32Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Crude oil prices may ease to $75",
-      "description": "Iman Nasseri, MD-Middle East Research, FGE NexantECA, said the outlook factors in higher crude supply from non-OPEC producers, with Guyana, Brazil and Venezuela expected to add around 700,000-800,000 barrels per day year-on-year next year.",
-      "url": "https://www.cnbctv18.com/market/commodities/crude-oil-prices-may-ease-to-75-85-in-2027-says-fge-nexanteca-19997581.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/artificial-intelligence-5-2026-09-7c7e6b40a1cf13aada82502c15a8a1d6.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-24T08:34:24Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "India may examine demand to exempt select transactions from MDR charges: Report - CNBC TV18",
-      "description": "Government to examine exempting select UPI transactions, including those at petrol pumps, from MDR charges. This follows a decision to levy MDR on UPI transacti",
-      "url": "https://www.cnbctv18.com/personal-finance/upi-mdr-india-may-examine-demand-exempt-select-transactions-mdr-charges-19997613.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/photo-10-2026-09-8ebae55abe291624755a80242b78b2b3.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-24T08:25:48Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Fuel prices \u2018heading for \u00a33 per litre\u2019 after rule change proposal",
-      "description": "Petrol and diesel drivers could be facing another staggering rise at the pumps as fuel prices continue to cause a serious headache for UK motorists.",
-      "url": "https://www.express.co.uk/life-style/cars/2251253/fuel-prices-petrol-diesel-rule-change",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7156432.jpg",
-      "publishedAt": "2026-09-24T08:23:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Major relief for Spain drivers",
-      "description": "Spain\u2019s major fuel companies have ruled out a French-style petrol shortage in the short term",
-      "url": "https://euroweeklynews.com/2026/09/24/major-relief-for-spain-drivers-as-france-style-fuel-crisis-ruled-out/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/fuelshortsagespain.png",
-      "publishedAt": "2026-09-24T07:46:51Z",
-      "source": {
-        "name": "Euro Weekly News"
-      }
-    },
-    {
-      "title": "Why is the stock market crashing today? 4 factors behind the sharp fall in the Nifty and Sensex indices",
-      "description": "The Indian stock market, represented by the BSE Sensex and Nifty 50, experienced a sharp decline today, driven by a confluence of global and domestic economic pressures. A significant surge in global bond yields, particularly the US 10-year yield reaching a near two-decade high, and elevated crude oil prices above $102 per barrel, created substantial headwinds for investors. Compounding these issues, the banking and financial services sector faced a sell-off due to proposed stringent commission caps by the Insurance Regulatory and Development Authority of India, which heavily impacts these high-weightage stocks. While some IT and Pharma stocks showed resilience, the overall market sentiment was negative, with analysts suggesting that the market's recovery prospects remain dim as long as these global economic challenges persist.",
-      "url": "https://www.theweek.in/news/biz-tech/2026/09/24/why-is-the-stock-market-crashing-today-4-factors-behind-the-sharp-fall-in-the-nifty-and-sensex-indices.html",
-      "image": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2026/4/30/sensex-nifty-india-stock-market-shutterstock.jpg",
-      "publishedAt": "2026-09-24T07:35:21Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "India bonds pummelled after Treasury rout, traders raise rate hike bets",
-      "description": "Indian government bonds experienced a decline following increases in U.S. Treasury yields and oil prices. The benchmark 6.94% 2036 bond yield rose to its highest level since September. Higher oil prices intensified inflation worries ahead of the Reserve Bank of India's monetary policy meeting. Market participants anticipate a repo rate hike on October 7 due to economic conditions.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-pummelled-after-treasury-rout-traders-raise-rate-hike-bets/articleshow/134455217.cms",
-      "image": "https://img.etimg.com/thumb/msid-134455243,width-1200,height-630,imgsize-87352,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-24T07:32:00Z",
+      "title": "US stocks: US stocks open lower as oil gains on Mideast uncertainty, eyes on Trump-Xi talks",
+      "description": "Wall Street's main stock indexes fell as Middle East tensions weighed on financial markets. Oil prices have risen, which is causing a spike in Treasury yields during this period. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite all opened lower this morning. Investors are also showing caution ahead of a significant summit between Donald Trump and Xi Jinping.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-stocks-open-lower-as-oil-gains-on-mideast-uncertainty-eyes-on-trump-xi-talks/articleshow/134464197.cms",
+      "image": "https://img.etimg.com/thumb/msid-134464197,width-1200,height-630,imgsize-9342314,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-24T13:47:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Trump's best bet to cool the Ukraine war and cut oil prices starts with Elon Musk",
-      "description": "If President Donald Trump really wants a ceasefire in Ukraine, he\u2019ll pressure Elon Musk to let Kyiv use his Starlink system over Russian territory.",
-      "url": "https://nypost.com/2026/09/24/opinion/trumps-best-bet-to-cool-the-ukraine-war-and-cut-oil-prices-starts-with-elon-musk/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/09/elon-musk-looks-stadium-memorial-111907413-e1790204680832.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-09-24T07:12:09Z",
+      "title": "Gold Falls \u20b91,600 To \u20b91.52 Lakh Per 10 Grams As Strong Dollar, Crude Oil Surge Weigh On Bullion",
+      "description": "Gold prices fell Rs 1,600 to Rs 1.52 lakh per 10 grams in New Delhi, extending losses for a fourth session, while silver dropped Rs 5,000 to Rs 2.37 lakh per kg. A stronger US dollar, higher Treasury yields, rising crude oil prices and weak global cues weighed on precious metals.",
+      "url": "https://www.freepressjournal.in/business/gold-falls-1600-to-152-lakh-per-10-grams-as-strong-dollar-crude-oil-surge-weigh-on-bullion",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-24/rhlk4pel/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-77.jpg",
+      "publishedAt": "2026-09-24T13:37:37Z",
       "source": {
-        "name": "New York Post"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Food Ministry asks edible oil firms to pass on full benefit of import duty cuts",
+      "description": "The Food Ministry has requested edible oil companies to reduce distributor prices following recent import duty reductions. This directive aims to ensure consumers receive the full benefit of the cuts in import tariffs. The duty reductions are part of efforts to control inflation and stabilise domestic cooking oil prices. India's vegetable oil imports have risen, indicating increased demand influenced by factors like a weaker rupee.",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/food/food-ministry-asks-edible-oil-firms-to-pass-on-full-benefit-of-import-duty-cuts/articleshow/134463613.cms",
+      "image": "https://img.etimg.com/thumb/msid-134463670,width-1200,height-630,imgsize-100248,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-24T13:22:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Gold slides Rs 1,600 to Rs 1.52 lakh per 10 gm as oil surge, firm dollar deepen bullion selloff",
+      "description": "New Delhi, Sep 24 (PTI) Gold prices declined Rs 1,600 to Rs 1.52 lakh per 10 grams in the national capital on Thursday, extending the losing streak for the fourth consecutive session, as the rising US dollar and higher crude oil prices weighed on the precious metal. The yellow metal of 99.9 per cent purity [\u2026]",
+      "url": "https://theprint.in/economy/gold-slides-rs-1600-to-rs-1-52-lakh-per-10-gm-as-oil-surge-firm-dollar-deepen-bullion-selloff/3052485/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-09-24T13:19:20Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Gold slides Rs 1,600 to Rs 1.52 lakh per 10 gm as oil surge, firm dollar deepen bullion selloff",
+      "description": "Gold prices declined Rs 1,600 to Rs 1.52 lakh per 10 grams in the national capital on Thursday, extending the losing streak for the fourth consecutive session, as the rising US dollar and higher crude oil prices weighed on the precious metal.",
+      "url": "https://www.greaterkashmir.com/national/gold-slides-rs-1600-to-rs-152-lakh-per-10-gm-as-oil-surge-firm-dollar-deepen-bullion-selloff-12572237",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/05/02/gold-loan-rate-2026-05-02-20-16-45.png",
+      "publishedAt": "2026-09-24T13:09:30Z",
+      "source": {
+        "name": "Greater Kashmir"
+      }
+    },
+    {
+      "title": "Global bond selloff continues, stock futures drop",
+      "description": "Stocks slid across globe in early European trade Thursday as implications of higher oil prices as well as strong U.S. growth data reverberated through markets | Business News",
+      "url": "https://www.hindustantimes.com/business/global-bond-selloff-continues-stock-futures-drop-101790242147289.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/24/1600x900/logo/im-93860772_1790242150734_x9Uo_1790242182108_Q4YQ_f379a1b7-79cf-4241-a5e0-2e9d2d69c963_lobi.jpg",
+      "publishedAt": "2026-09-24T13:00:07Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "US stocks slip after bond market keeps up pressure and oil prices rise",
+      "description": "Pressure continues to bear down on Wall Street from the bond market, and U.S. stocks are falling again as oil prices rise.",
+      "url": "https://www.nydailynews.com/2026/09/24/us-markets-treasury-yields/",
+      "image": "https://www.nydailynews.com/wp-content/uploads/2026/09/AP26257517900348.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-24T12:59:01Z",
+      "source": {
+        "name": "New York Daily News"
+      }
+    },
+    {
+      "title": "Budget 2027: Cuts to excise duty on petrol and diesel will be extended into the winter",
+      "description": "Energy costs are centre stage as it's crunch time for budget negotiations with less than two weeks until it is announced",
+      "url": "https://www.irishmirror.ie/news/irish-news/politics/budget-2027-cuts-excise-duty-37698422",
+      "image": "https://i2-prod.irishmirror.ie/article37604886.ece/ALTERNATES/s1200d/0_PA-85674765.jpg",
+      "publishedAt": "2026-09-24T12:52:56Z",
+      "source": {
+        "name": "Irish Mirror"
       }
     }
   ]
