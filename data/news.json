@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-25T16:08:10+00:00",
+  "updated_at": "2026-09-25T20:51:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee opens six paise higher to Rs 95.90 per dollar, oil prices down overnight",
-      "description": "Brent crude was trading near $105 a barrel, down a percent overnight",
-      "url": "https://www.moneycontrol.com/news/business/banks/rupee-opens-6-paise-higher-at-95-90-against-the-dollar-as-oil-cools-overnight-14037950.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250503042901_rupee_dollar.jpg",
-      "publishedAt": "2026-09-25T03:55:37Z",
+      "title": "Audi starts Q3 assembly in India; new SUV to launch on October 16",
+      "description": "Audi India has started local assembly of the new Q3 at the SAVWIPL plant in Chhatrapati Sambhajinagar ahead of its October 16 launch, with a 2.0-litre petrol engine and quattro AWD.",
+      "url": "https://www.cnbctv18.com/auto/audi-starts-q3-assembly-in-india-new-suv-to-launch-on-october-16-19998575.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/audi-q3-2026-09-551dcb7efdd5b24fa9224ab194ae4bb8.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-25T08:35:26Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil prices jump after Yemen\u2019s Houthis claim attacks on Saudi facilities",
-      "description": "Brent crude tops $106 a barrel after Iran-aligned rebel group claims to have successfully attacked Aramco facilities.",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/oil-prices-jump-after-yemens-houthis-claim-attacks-on-saudi-facilities",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/AP21180006065687-1790299683.jpg?resize=1920%2C1440",
-      "publishedAt": "2026-09-25T03:41:25Z",
+      "title": "Senate again rejects war powers resolution",
+      "description": "WASHINGTON -- Despite rising political anxiety over the Iran war, senators on Thursday narrowly rejected a war powers resolution seeking to halt President Donald Trump's military action, which has been largely blamed for the spike in gas prices and become a flashpoint in the midterm election.",
+      "url": "https://www.arkansasonline.com/news/2026/sep/25/senate-again-rejects-war-powers-resolution/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213723866_213723123-937582db1654420ba7c0f6de42c721a3_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-09-25T08:24:00Z",
       "source": {
-        "name": "Al Jazeera"
+        "name": "Arkansas Online"
       }
     },
     {
-      "title": "Oil prices fall as markets weigh Iran truce, oil facility attack risks",
-      "description": "Brent was down 87 cents, or \u200b0.82%, at $105.73 a barrel at 0212 GMT, while West Texas Intermediate (WTI) was down $1.56, or 1.65%, at $93.05 \u200ca barrel",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-markets-weigh-iran-truce-oil-facility-attack-risks-126092500081_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788802653-553.jpg",
-      "publishedAt": "2026-09-25T03:39:57Z",
+      "title": "Europe Is Still Waiting for Cheap Energy - Why It May Never Return as We Knew It",
+      "description": "Prices can fall, renewables are expanding and futures markets often point to further easing. But Europe\u2019s energy system has structurally changed: LNG instead of Russian pipeline gas, massive investment in grids and storage, higher security costs and a permanent geopolitical risk premium. The real question is no longer when gas prices will fall again \u2014 but whether Europe can ever return to the low-cost energy model of the previous era. Europe Is Still Waiting for Cheap Energy \u2014 Why It May Never Return as We Knew It",
+      "url": "https://www.pagenews.gr/2026/09/25/english-edition/europe-is-still-waiting-for-cheap-energy-why-it-may-never-return-as-we-knew-it/",
+      "image": "https://www.pagenews.gr/wp-content/uploads/2026/08/fuel-2-1200x630.jpg",
+      "publishedAt": "2026-09-25T08:12:30Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Pagenews.gr"
       }
     },
     {
-      "title": "Aussie shares on track for fourth straight losing week",
-      "description": "The ASX's benchmark index has fallen to a three-month low amid rising oil prices, higher bond yields, and the likelihood of a domestic interest rate hike.",
-      "url": "https://www.perthnow.com.au/news/business/aussie-shares-on-track-for-fourth-straight-losing-week-c-22925481",
-      "image": "https://images.perthnow.com.au/publication/C-22925481/fc6ed3a189b7980400a28d0684a9f0f9c5e58d1d-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-09-25T03:27:48Z",
+      "title": "why US 30-year yields are surging and markets are worried",
+      "description": "US 30-year Treasury yield hits 5.48%, its highest since 2004, as inflation risks, higher oil prices, resilient growth and rising government borrowing push global bond yields higher.",
+      "url": "https://www.firstpost.com/business/global-bond-selloff-why-us-30-year-yields-are-surging-and-markets-are-worried-14048352.html",
+      "image": "https://images.firstpost.com/uploads/2025/07/brics-dollar-2025-07-918aafea97292ea61bf4bed0361d006f.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-25T08:10:45Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Firstpost"
       }
     },
     {
-      "title": "Madras HC orders CCMC to stop use of motorised boats at Valankulam",
-      "description": "The court observed that the continued use of petrol-engine boats would certainly have a serious adverse impact on aquatic life in the lake.",
-      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Sep/25/madras-hc-orders-ccmc-to-stop-use-of-motorised-boats-at-valankulam",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-03%2Fkbl85rb7%2FHC-gives.jpg?rect=0%2C18%2C347%2C182&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-25T02:59:42Z",
+      "title": "Bitcoin, Ethereum outlook as US Iran talks revive Hormuz reopening hopes",
+      "description": "Bitcoin and Ethereum could face a changing macro backdrop as renewed US Iran talks raise hopes of reopening the Strait of Hormuz and lowering oil prices.",
+      "url": "https://crypto.news/bitcoin-ethereum-outlook-as-us-iran-talks-revive-hormuz-reopening-hopes/",
+      "image": "https://media.crypto.news/2026/06/Irannew.webp",
+      "publishedAt": "2026-09-25T07:53:06Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "Crypto News"
       }
     },
     {
-      "title": "Sensex, Nifty opening: Will the stock market fall again today?",
-      "description": "Indian markets head into Friday on a cautious note after a steep sell-off on Thursday. Oil prices, bond yields and the IRDAI commission proposal remain the main tests for sentiment.",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-opening-sensex-nifty-today-oil-bond-yields-irdai-reform-market-outlook-trade-setup-3002431-2026-09-25",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/stock-market-opening-254925904-16x9_0.jpeg?VersionId=ZkQxuF_BDm4Y35yxLJOtGfrQUuqurjEV",
-      "publishedAt": "2026-09-25T02:58:03Z",
+      "title": "Oil prices waver in face of Iran war truce and Houthi attacks",
+      "description": "Brent and WTI diverge amid potential export ban on US crude",
+      "url": "https://www.thenationalnews.com/business/energy/2026/09/25/oil-prices-waver-in-face-of-iran-war-truce-and-houthi-attacks/",
+      "image": "https://www.thenationalnews.com/resizer/v2/5TY5R4APVKFTQWN6LRQRKBM32A.jpg?auth=d81a8c21acf221b4c5b3f6429d83a7e3f7c5028a7f6ea894022502bcd4746ea1&smart=true&width=1200&height=630",
+      "publishedAt": "2026-09-25T07:48:39Z",
       "source": {
-        "name": "India Today"
+        "name": "The National"
       }
     },
     {
-      "title": "Diesel, gasoline prices to roll back next week",
-      "description": "MANILA, Philippines \u2014 Diesel and gasoline prices are estimated to go down next week, amid hopes that recent talks between the US and Iran at the UN would ease the conflict, local industry sources said.",
-      "url": "https://www.manilatimes.net/2026/09/25/business/top-business/diesel-gasoline-prices-to-roll-back-next-week/2432818",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/25/1233120.jpg",
-      "publishedAt": "2026-09-25T02:51:00Z",
+      "title": "Tata Aeris debuts at \u20b95.29 lakh with 6 airbags, five trims and CNG on top variant",
+      "description": "Tata Motors has launched the Aeris compact sedan, a Tigor replacement rivalling the Dzire and Amaze, at \u20b95.29 lakh with five trims, petrol-CNG engines and six airbags; deliveries begin October 11.",
+      "url": "https://www.cnbctv18.com/auto/tata-aeris-launched-price-specifications-features-cng-petrol-variants-safety-airbags-19998523.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/tata-aeris-2026-09-17b39d572ea6485db94d61a435d7bb03.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-25T07:42:12Z",
       "source": {
-        "name": "The Manila Times"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Commodity Corner: Oil prices trade marginally lower, gold heads for weekly loss",
-      "description": "Brent was down 0.65%, to $105.85 a barrel, while West Texas Intermediate (WTI) was down 1%, at $93.80 a barrel.",
-      "url": "https://www.moneycontrol.com/news/business/markets/commodity-corner-oil-prices-trade-marginally-lower-gold-heads-for-weekly-loss-14037836.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260715020244_crudeoilrtr6.png",
-      "publishedAt": "2026-09-25T02:34:23Z",
+      "title": "European stocks on track for weekly gain as oil prices ease",
+      "description": "European shares inched \u200chigher on Friday and were headed for a weekly gain as oil prices retreated, although investors remained cautious \u200babout developments in the Middle East.",
+      "url": "https://www.reuters.com/markets/europe/european-stocks-track-weekly-gain-oil-prices-ease-2026-09-25/",
+      "image": "https://www.reuters.com/resizer/v2/IM4DKLTHFBLB5MJWCYV6WYNOTE.jpg?auth=951ee1ab6ec56c4262596b45867513c45742981d80ec7afc533947d2943c49a8&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-25T07:32:57Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Reuters"
       }
     },
     {
-      "title": "off pushes NZ yields higher as oil prices stay above US$100",
-      "description": "New Zealand Government bond yields are at three-year highs in line with selling in the main overseas markets, as inflation and fiscal concerns continue to...",
-      "url": "https://www.nzherald.co.nz/business/markets/global-bond-sell-off-pushes-nz-yields-higher-as-oil-prices-stay-above-us100/premium/GIR4BV2ARBAN3MKP7GI6XNYHZM/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/4HAGR6IRFRLV3JPZ65FAVRDUMY.jpg?auth=d3b56d26351683fbaa57b848fe2c4f0d1b0ef2e8278e0aab6e703b8243325da2&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-09-25T02:30:52Z",
+      "title": "Expert shares the 'cheapest' time for petrol and diesel drivers to fill up this week",
+      "description": "This may be the cheapest time to refuel vehicles",
+      "url": "https://www.walesonline.co.uk/news/motoring/expert-shares-cheapest-time-petrol-34667634",
+      "image": "https://i2-prod.walesonline.co.uk/article34667633.ece/ALTERNATES/s1200d/0_The-best-time-to-fill-up-petrol-and-diesel-fuel-has-been-revealed.jpg",
+      "publishedAt": "2026-09-25T07:19:27Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "South Wales Echo"
       }
     },
     {
-      "title": "LPG, CNG, PNG prices today (September 25): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "Oil prices have remained volatile as the market stabilised following several sessions of declines, while investors remained on the edge due to the ongoing US-Iran conflict.",
-      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-september-25-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-557705-2026-09-25",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab5d978a85c6-while-lpg-remains-the-most-used-cooking-fuel-for-many-indian-households--cng-and-png-are-also-emergi-251615288-16x9.png",
-      "publishedAt": "2026-09-25T02:16:52Z",
+      "title": "Oil Prices Fall As US-Iran Talks Raise Hopes Of Strait Of Hormuz Reopening And Easing Supply Disruption Fears",
+      "description": "Oil prices fell as reports suggested the US and Iran were exploring a phased agreement that could reopen the Strait of Hormuz. Brent slipped toward $105.6 a barrel, while WTI traded below $94, amid easing supply fears despite continued Middle East tensions and market volatility.",
+      "url": "https://www.freepressjournal.in/business/oil-prices-fall-as-us-iran-talks-raise-hopes-of-strait-of-hormuz-reopening-and-easing-supply-disruption-fears",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-25/m5flbr9f/Untitled-design-18.png",
+      "publishedAt": "2026-09-25T06:55:45Z",
       "source": {
-        "name": "Business Today"
+        "name": "Free Press Journal"
       }
     }
   ]
