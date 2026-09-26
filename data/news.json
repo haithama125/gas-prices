@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-09-26T10:30:45+00:00",
+  "updated_at": "2026-09-26T15:21:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Petrol, diesel prices today, September 26: Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "Despite Brent crude rising over $100 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-26-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-558001-2026-09-26",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab733425988c-while-international-crude-continues-its-upward-trajectory--retail-prices-for-petrol--diesel--and-lpg-26514576-16x9.jpg",
+      "publishedAt": "2026-09-26T02:51:55Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Oil prices slide 2% as US-Iran seek path out of war, Saudi supply fears persist",
+      "description": "Oil prices fell over 2% as markets weighed growing hopes of a US-Iran truce against fresh concerns over oil supplies from Saudi Arabia.",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-slide-2-as-us-iran-seek-path-out-of-war-saudi-supply-fears-persist/articleshow/134495671.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134495723,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-26T02:15:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today, September 26: Here's how much fuel costs in Delhi, Mumbai, Bengaluru",
+      "description": "Across major metros, fuel rates held their ground. In Mumbai, the retail price of petrol stood at \u20b9111.21 per litre, remaining unchanged from the previous day.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-september-26-heres-how-much-fuel-costs-in-delhi-mumbai-bengaluru-11790385138692.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/fuel_1790385924838_RQsV_1790385925047_BuNj_0df959bd-505c-43f5-a7aa-cc4248041725_mOKn.jpg",
+      "publishedAt": "2026-09-26T01:31:34Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Wall Street gets a lift as oil drops on hopes for Hormuz reopening",
+      "description": "NEW YORK, Sept 26 \u2014 Wall Street stocks bounced Friday to finish a volatile week on a positive note, greeting a drop in oil prices on hopes for a US-Iran agreement that could lead...",
+      "url": "https://www.malaymail.com/news/money/2026/09/26/wall-street-gets-a-lift-as-as-oil-drops-on-hopes-for-hormuz-reopening/236539",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/09/26/364637.jpg",
+      "publishedAt": "2026-09-26T01:03:12Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "Petrol price rises by Rs2.02 per litre, diesel falls by Rs3.59",
+      "description": "ISLAMABAD\u00a0 \u00a0- The Oil and Gas Regulatory Authority (OGRA) on Friday revised the ex-depot prices of petroleum products for the period from September 26 to 28,",
+      "url": "https://www.nation.com.pk/26-Sep-2026/petrol-price-rises-rs2-02-per-litre-diesel-falls-rs3-59",
+      "image": "https://www.nation.com.pk/print_images/large/2026-09-26/petrol-price-rises-rs2-02-per-litre-diesel-falls-rs3-59-1790383562-8229.jpg",
+      "publishedAt": "2026-09-26T00:46:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Oil prices slide about 2% as US, Iran explore path out of war",
+      "description": "Published Sat, Sep 26, 2026 \u00b7 07:55 AM",
+      "url": "https://www.europesays.com/3272902/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/09/7cf5246c178355f54bc1fc53e2903e654ad6f20f1cd6b1044d4d614a9f3744f1.webp",
+      "publishedAt": "2026-09-26T00:31:26Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "European gas prices may stay elevated this winter as LNG disruptions persist: Goldman Sachs",
+      "description": "European gas prices have surged around 70% since July as disrupted Middle Eastern LNG supplies and slower-than-expected storage builds raise concerns ahead of winter. Goldman Sachs expects prices to average \u20ac70/MWh in the fourth quarter of 2026, while warning that a faster recovery in LNG flows could trigger a sharp decline.",
+      "url": "https://www.businesstoday.in/world/story/european-gas-prices-may-stay-elevated-this-winter-as-lng-disruptions-persist-goldman-sachs-557961-2026-09-26",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab67c69abdbb-goldman-sachs-expects-prices-to-average-70mwh-in-the-fourth-quarter--raising-its-earlier-forecast-255136513-16x9.jpeg",
+      "publishedAt": "2026-09-25T23:05:02Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
     {
       "title": "Utilities Shares Tick Higher as Energy Rally Cools -- Utilities Roundup",
       "description": "Shares of utility companies pared weekly losses as energy costs stabilized around elevated levels and the rapid rise in Treasury yields cooled a bit.\nOil prices fell as investors assessed...",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-09-25T21:09:17Z",
       "source": {
         "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:08 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df021",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:08:49Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:08 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df025",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:08:34Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:08 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df127",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:08:09Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:07 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df126",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:07:47Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:07 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df125",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:07:17Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks shrug off bonds",
-      "description": "Once again, financial markets endured a volatile week, with surging bond yields and sharp swings in oil prices in both directions. The major indices were broadly flat over the week, with the exception...\n-September 25, 2026 at 05:06 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/stocks-shrug-off-bonds-ce785adfd08df221",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4479026_800.jpg",
-      "publishedAt": "2026-09-25T21:06:37Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Wall Street rises as Microsoft and AI stocks rally",
-      "description": "Wall Street rises as Microsoft and AI stocks rally amid high oil prices and US Treasury yield concerns on a volatile week for investors. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-higher-as-investors-buy-ai-stocks-microsoft-rallies",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6128f87ea0be760e6ad23abd203a91dfd1a2b76aea481037cc14df1b5fccf755",
-      "publishedAt": "2026-09-25T21:02:58Z",
-      "source": {
-        "name": "The Straits Times"
       }
     }
   ]
