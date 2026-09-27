@@ -1,9 +1,49 @@
 {
-  "updated_at": "2026-09-27T11:01:22+00:00",
+  "updated_at": "2026-09-27T16:01:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "No end to motorist price pain as multiple Labor frontbenchers rule out another excise cut",
+      "description": "There\u2019s no end to motorist price pain in sight as multiple Labor frontbenchers rule out another excise cut despite the average cost of diesel nearing to $3 a litre and petrol above $2.30.",
+      "url": "https://www.perthnow.com.au/news/politics/no-end-to-motorist-price-pain-as-multiple-labor-frontbenchers-rule-out-another-excise-cut-c-22932517",
+      "image": "https://images.perthnow.com.au/publication/C-22932517/d61e9b9d6e487f6e03a9db815767271d33134453-16x9-x0y218w4176h2349.jpg?imwidth=1200",
+      "publishedAt": "2026-09-27T03:59:53Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "In bid to boost auto industry, lower prices, Trump to abolish Biden-era fuel economy standards",
+      "description": "Trump, struggling in the polls ahead of midterm elections, has been under fire for not doing more to address rising prices for consumer goods, as oil prices remain high.",
+      "url": "https://theprint.in/world/in-bid-to-boost-auto-industry-lower-prices-trump-to-abolish-biden-era-fuel-economy-standards/3054580/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/469184334-scaled-e1790479634878.jpg",
+      "publishedAt": "2026-09-27T03:28:29Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today (September 27): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "Despite Brent crude rising over $100 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-27-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-558058-2026-09-27",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab8769438c3d-for-daily-commuters--this-means-no-major-shock-at-the-pump--though-prices-remain-elevated-compared-t-195947860-16x9.jpg",
+      "publishedAt": "2026-09-27T02:23:48Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Muted demand, higher oil prices to cloud paints sector outlook in near term",
+      "description": "Dealer destocking, muted premium demand, rising crude-linked costs and sustained competitive intensity could keep near-term volume growth under pressure",
+      "url": "https://www.business-standard.com/markets/news/markets-news-weak-demand-input-costs-to-hit-paints-sector-in-near-term-126092700054_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790049100-2038.jpg",
+      "publishedAt": "2026-09-27T01:53:12Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
     {
       "title": "Hyundai opens bookings for Bayon SUV",
       "description": "Excelsior Correspondent JAMMU, Sept 26: Hyundai Motor India Limited (HMIL) today opened bookings for its upcoming Intelligent Utility Vehicle, Hyundai BAYON, with the new 4.2-metre mid-size SUV featuring an in-built generative AI voice assistant, advanced safety technologies and petrol powertrain...",
@@ -62,46 +102,6 @@
       "publishedAt": "2026-09-26T15:37:57Z",
       "source": {
         "name": "Livemint"
-      }
-    },
-    {
-      "title": "Petrol and diesel drivers facing new HMRC mileage charges - started in September",
-      "description": "HMRC confirmed the new rates from September 1.",
-      "url": "https://www.express.co.uk/life-style/cars/2252029/petrol-diesel-drivers-new-HMRC",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7160388.jpg",
-      "publishedAt": "2026-09-26T14:12:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Trump\u2019s red-carpet rollout for Xi was everything MAGA didn\u2019t need amid dire predictions",
-      "description": "While Trump is busy giving tours of his ballroom and dines with tech CEOs, Republicans now have to run in a midterm amid high gas prices and a backlash to AI, Eric Garcia writes",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-china-xi-meeting-midterms-b3056871.html",
-      "image": "https://static.independent.co.uk/2026/09/25/19/2297111210..?trim=34,0,34,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-09-26T13:43:24Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Richmond Fed chief says it's time to push back on inflation",
-      "description": "Richmond Federal Reserve President Tom Barkin says high gasoline prices and tariff costs haven't gone away, so it's time for the Federal Reserve Board to focus on curbing inflation.",
-      "url": "https://richmond.com/news/state-regional/government-politics/article_03bdf0da-fd72-4c78-a534-a26f030d326b.html",
-      "image": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/0/3b/03bdf0da-fd72-4c78-a534-a26f030d326b/6ab56c7ce3372.preview.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-      "publishedAt": "2026-09-26T13:24:00Z",
-      "source": {
-        "name": "Richmond Times-Dispatch"
-      }
-    },
-    {
-      "title": "Unleaded petrol drivers risk paying up to 21p per mile to stay on UK roads",
-      "description": "It means motorists with average 35 gallon to 40 gallon tanks face paying 21p per mile to stay on the roads in late September.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/unleaded-petrol-drivers-risk-paying-34636417",
-      "image": "https://i2-prod.birminghammail.co.uk/article34636490.ece/ALTERNATES/s1200d/0_petrol.jpg",
-      "publishedAt": "2026-09-26T11:57:00Z",
-      "source": {
-        "name": "Birmingham Live"
       }
     }
   ]
