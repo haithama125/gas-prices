@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-09-27T16:01:01+00:00",
+  "updated_at": "2026-09-27T20:35:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Geopolitical developments, crude oil to steer stock market in holiday",
+      "description": "Experts said US-Iran diplomatic talks and crude oil prices will drive global market sentiment.",
+      "url": "https://www.moneycontrol.com/news/business/markets/geopolitical-developments-crude-oil-to-steer-stock-market-in-holiday-shortened-week-analysts-14039204.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204012849_market_down_Sensex-Nifty1.jpg",
+      "publishedAt": "2026-09-27T08:29:49Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Mark mood check: Crude, US-Iran talks and economic data to drive Dalal Street this week",
+      "description": "Dalal Street is likely to begin the holiday-shortened week with investors tracking a mix of geopolitical developments, oil prices and global financial",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/mark-mood-check-crude-us-iran-talks-and-economic-data-to-drive-dalal-street-this-week/articleshow/134517140.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134517151,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T08:28:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Suzuki Working on New Turbo-Petrol Engine for India: Everything We Know So Far",
+      "description": "Suzuki is developing a new direct-injection turbo-petrol engine. It could power several upcoming models in key markets, including India.",
+      "url": "https://in.mashable.com/automobiles/114335/suzuki-working-on-new-turbo-petrol-engine-for-india-everything-we-know-so-far",
+      "image": "https://sm.mashable.com/mashable_in/seo/default/maruti-suzuki-mash_qe4c.jpg",
+      "publishedAt": "2026-09-27T07:36:53Z",
+      "source": {
+        "name": "Mashable India"
+      }
+    },
+    {
+      "title": "Geopolitical developments, crude oil likely to steer stock market this week",
+      "description": "According to experts, the US-Iran diplomatic talks and crude oil prices will drive global market sentiment",
+      "url": "https://www.business-standard.com/markets/news/geopolitical-developments-crude-oil-likely-to-steer-stock-market-this-week-126092700221_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/28/thumb/featurecrop/1200X628/1787894930-8896.jpg",
+      "publishedAt": "2026-09-27T07:21:25Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Geopolitical developments, crude oil to steer stock market in holiday-shortened week: Analysts",
+      "description": "Geopolitics and crude oil dominance, with U.S.-Iran talks and oil prices shaping markets in a holiday-shortened week.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/geopolitical-developments-crude-oil-to-steer-stock-market-in-holiday-shortened-week-analysts/article71515479.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/9egc0e/article71513518.ece/alternates/LANDSCAPE_1200/Crude-oil-jumpsGGNGCH6FL.4.jpg.jpg",
+      "publishedAt": "2026-09-27T07:18:13Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "driven growth faces headwinds from weak domestic demand, high oil prices",
+      "description": "Korea's economy is expected to maintain strong growth in the fourth quarter on the back of robust semiconductor exports, but weak domestic demand a...",
+      "url": "https://www.koreatimes.co.kr/economy/20260927/chip-driven-growth-faces-headwinds-from-weak-domestic-demand-high-oil-prices",
+      "image": "https://newsimg.koreatimes.co.kr/2026/09/27/6ade8645-fa00-40eb-8427-1220e17deabe.jpg",
+      "publishedAt": "2026-09-27T06:35:03Z",
+      "source": {
+        "name": "The Korea Times"
+      }
+    },
+    {
+      "title": "Toyota 100% Ethanol Innova To Launch In October; Gadkari Says Fuel Cost Could Drop To \u20b925 Per Litre Equivalent",
+      "description": "Union Minister Nitin Gadkari said Toyota\u2019s 100% ethanol-powered Innova flex-fuel vehicle will be launched in October and could bring running costs down significantly. The minister said the vehicle would not require petrol and its fuel cost could be equivalent to around \u20b925 per litre, amid India\u2019s push for alternative fuels.",
+      "url": "https://www.freepressjournal.in/business/toyota-100-ethanol-innova-to-launch-in-october-gadkari-says-fuel-cost-could-drop-to-25-per-litre-equivalent",
+      "image": "https://media.assettype.com/freepressjournal/2026-09-27/k1l3bc50/ChatGPT-Image-Sep-27-2026-113408-AM.png",
+      "publishedAt": "2026-09-27T06:04:45Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Swanson arsons: Parihaka O\u2019Connor sentenced for burning down Auckland home",
+      "description": "A tenant who was in the process of being evicted from his West Auckland home removed his belongings, then splashed petrol throughout the building and set it...",
+      "url": "https://www.nzherald.co.nz/nz/crime/swanson-arsons-parihaka-oconnor-sentenced-for-burning-down-auckland-home/TRQAF77MWFBHTCBKWIAQM2PSH4/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/LXAROOAJQVC5FNJIS3YM6HMR74.png?auth=d6031e8cfbf2793b28a1b6fd8421c35d99b916a3604ac8fe78125d97034b79eb&width=1200&height=675&quality=70&focal=610%2C325&smart=false",
+      "publishedAt": "2026-09-27T06:00:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Natural gas defies energy shock as strong supply keeps prices in check",
+      "description": "Despite crude oil volatility from West Asian geopolitical tensions, natural gas prices remain contained around $2.50-$3.50/MMBtu. Record US production of 110.6 Bcf/d, strong non-Gulf LNG output, and weak Asian demand have offset Strait of Hormuz supply disruptions, maintaining a mild bearish bias for Henry Hub.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/natural-gas-defies-energy-shock-as-strong-supply-keeps-prices-in-check/articleshow/134515059.cms",
+      "image": "https://img.etimg.com/thumb/msid-134515096,width-1200,height-630,imgsize-132706,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-27T05:21:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
     {
       "title": "No end to motorist price pain as multiple Labor frontbenchers rule out another excise cut",
       "description": "There\u2019s no end to motorist price pain in sight as multiple Labor frontbenchers rule out another excise cut despite the average cost of diesel nearing to $3 a litre and petrol above $2.30.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-09-27T03:59:53Z",
       "source": {
         "name": "PerthNow"
-      }
-    },
-    {
-      "title": "In bid to boost auto industry, lower prices, Trump to abolish Biden-era fuel economy standards",
-      "description": "Trump, struggling in the polls ahead of midterm elections, has been under fire for not doing more to address rising prices for consumer goods, as oil prices remain high.",
-      "url": "https://theprint.in/world/in-bid-to-boost-auto-industry-lower-prices-trump-to-abolish-biden-era-fuel-economy-standards/3054580/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/469184334-scaled-e1790479634878.jpg",
-      "publishedAt": "2026-09-27T03:28:29Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today (September 27): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "Despite Brent crude rising over $100 per barrel, fuel prices have remained relatively stable over the past week. The rupee-dollar exchange rate is a key variable, given that India relies heavily on imported crude.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-september-27-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-558058-2026-09-27",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab8769438c3d-for-daily-commuters--this-means-no-major-shock-at-the-pump--though-prices-remain-elevated-compared-t-195947860-16x9.jpg",
-      "publishedAt": "2026-09-27T02:23:48Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Muted demand, higher oil prices to cloud paints sector outlook in near term",
-      "description": "Dealer destocking, muted premium demand, rising crude-linked costs and sustained competitive intensity could keep near-term volume growth under pressure",
-      "url": "https://www.business-standard.com/markets/news/markets-news-weak-demand-input-costs-to-hit-paints-sector-in-near-term-126092700054_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/22/thumb/fitandfill/1200X628/1790049100-2038.jpg",
-      "publishedAt": "2026-09-27T01:53:12Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Hyundai opens bookings for Bayon SUV",
-      "description": "Excelsior Correspondent JAMMU, Sept 26: Hyundai Motor India Limited (HMIL) today opened bookings for its upcoming Intelligent Utility Vehicle, Hyundai BAYON, with the new 4.2-metre mid-size SUV featuring an in-built generative AI voice assistant, advanced safety technologies and petrol powertrain...",
-      "url": "https://www.dailyexcelsior.com/hyundai-opens-bookings-for-bayon-suv/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWJkNjMzYTUwLWI5ZmMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-26T22:50:12Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Honda weighs hybrid vehicle plant in Ohio at cost of up to \u00a5400 bil",
-      "description": "Honda Motor Co is considering a new hybrid vehicle plant in Ohio at a cost of between 300 billion yen ($1.9 billion) and 400 billion yen, as high gasoline prices keep demand for fuel-efficient vehicles solid, a person familiar with the matter said. The Japanese carmaker aims to build a\u2026",
-      "url": "https://japantoday.com/category/business/update1-honda-weighs-hybrid-vehicle-plant-in-ohio-at-cost-of-up-to-400-bil.-yen",
-      "image": "https://japantoday.com/images/japan-today-social.jpg",
-      "publishedAt": "2026-09-26T21:00:00Z",
-      "source": {
-        "name": "Japan Today"
-      }
-    },
-    {
-      "title": "Petrol drivers face new 27p per mile charges from HMRC",
-      "description": "A new rate has been confirmed and took effect this month.",
-      "url": "https://www.express.co.uk/life-style/cars/2252112/petrol-drivers-face-new-27p",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7160774.jpg",
-      "publishedAt": "2026-09-26T19:50:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Who gets first priority for diesel rationing confirmed by government",
-      "description": "Petrol and indeed diesel could be rationed and a new 50mph max speed limit could be introduced across all of the UK.",
-      "url": "https://www.express.co.uk/life-style/cars/2252076/who-gets-first-priority-diesel",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7160607.jpg",
-      "publishedAt": "2026-09-26T17:36:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "No cash, only clicks: Hubballi fuel pump sparks payment row",
-      "description": "Hubballi\u2019s KHDC-run IOC petrol pump stopped accepting cash from Sept 9, citing misappropriation fears; activists question legality and IOC seeks withdrawal.",
-      "url": "https://timesofindia.indiatimes.com/city/hubballi/no-cash-only-clicks-hubballi-fuel-pump-sparks-payment-row/articleshow/134508143.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134508141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-26T17:13:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "What if your car\u2019s fuel bill felt like \u20b925 petrol? The hybrid tech behind Gadkari\u2019s 100% ethanol car pitch",
-      "description": "Nitin Gadkari advocates for ethanol-powered cars, highlighting their comparable costs to petrol at \u20b925 per litre.",
-      "url": "https://www.livemint.com/news/india/what-if-your-car-s-fuel-bill-felt-like-25-petrol-the-hybrid-tech-behind-gadkari-s-100-ethanol-car-pitch-11790432714069.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/E20_1790436831512_jOA0_1790436831681_uN4v_29380244-a9ee-46f2-a714-d8d8b6eb18c3_OAHo.png",
-      "publishedAt": "2026-09-26T15:37:57Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
