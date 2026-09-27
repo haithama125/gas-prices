@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-09-27T02:30:44+00:00",
+  "updated_at": "2026-09-27T11:01:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Hyundai opens bookings for Bayon SUV",
+      "description": "Excelsior Correspondent JAMMU, Sept 26: Hyundai Motor India Limited (HMIL) today opened bookings for its upcoming Intelligent Utility Vehicle, Hyundai BAYON, with the new 4.2-metre mid-size SUV featuring an in-built generative AI voice assistant, advanced safety technologies and petrol powertrain...",
+      "url": "https://www.dailyexcelsior.com/hyundai-opens-bookings-for-bayon-suv/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWJkNjMzYTUwLWI5ZmMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-26T22:50:12Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Honda weighs hybrid vehicle plant in Ohio at cost of up to \u00a5400 bil",
+      "description": "Honda Motor Co is considering a new hybrid vehicle plant in Ohio at a cost of between 300 billion yen ($1.9 billion) and 400 billion yen, as high gasoline prices keep demand for fuel-efficient vehicles solid, a person familiar with the matter said. The Japanese carmaker aims to build a\u2026",
+      "url": "https://japantoday.com/category/business/update1-honda-weighs-hybrid-vehicle-plant-in-ohio-at-cost-of-up-to-400-bil.-yen",
+      "image": "https://japantoday.com/images/japan-today-social.jpg",
+      "publishedAt": "2026-09-26T21:00:00Z",
+      "source": {
+        "name": "Japan Today"
+      }
+    },
+    {
+      "title": "Petrol drivers face new 27p per mile charges from HMRC",
+      "description": "A new rate has been confirmed and took effect this month.",
+      "url": "https://www.express.co.uk/life-style/cars/2252112/petrol-drivers-face-new-27p",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7160774.jpg",
+      "publishedAt": "2026-09-26T19:50:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Who gets first priority for diesel rationing confirmed by government",
+      "description": "Petrol and indeed diesel could be rationed and a new 50mph max speed limit could be introduced across all of the UK.",
+      "url": "https://www.express.co.uk/life-style/cars/2252076/who-gets-first-priority-diesel",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7160607.jpg",
+      "publishedAt": "2026-09-26T17:36:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "No cash, only clicks: Hubballi fuel pump sparks payment row",
+      "description": "Hubballi\u2019s KHDC-run IOC petrol pump stopped accepting cash from Sept 9, citing misappropriation fears; activists question legality and IOC seeks withdrawal.",
+      "url": "https://timesofindia.indiatimes.com/city/hubballi/no-cash-only-clicks-hubballi-fuel-pump-sparks-payment-row/articleshow/134508143.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134508141,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-26T17:13:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "What if your car\u2019s fuel bill felt like \u20b925 petrol? The hybrid tech behind Gadkari\u2019s 100% ethanol car pitch",
+      "description": "Nitin Gadkari advocates for ethanol-powered cars, highlighting their comparable costs to petrol at \u20b925 per litre.",
+      "url": "https://www.livemint.com/news/india/what-if-your-car-s-fuel-bill-felt-like-25-petrol-the-hybrid-tech-behind-gadkari-s-100-ethanol-car-pitch-11790432714069.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/E20_1790436831512_jOA0_1790436831681_uN4v_29380244-a9ee-46f2-a714-d8d8b6eb18c3_OAHo.png",
+      "publishedAt": "2026-09-26T15:37:57Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
     {
       "title": "Petrol and diesel drivers facing new HMRC mileage charges - started in September",
       "description": "HMRC confirmed the new rates from September 1.",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-09-26T11:57:00Z",
       "source": {
         "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Suzuki Developing New Turbo-Petrol Engine For India-Spec Cars",
-      "description": "Suzuki's new turbo-petrol engine will be aimed at improving performance and efficiency in the future models.",
-      "url": "https://www.ndtv.com/auto/suzuki-developing-new-turbo-petrol-engine-for-india-spec-cars-12101605",
-      "image": "https://c.ndtvimg.com/2026-09/vu1mfcso_maruti-suzuki-brezza_625x300_26_September_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-09-26T11:10:55Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "Bike Theft Caught On CCTV: Man Spotted Unlocking & Fleeing With Bike Parked Outside Petrol Pump In MP\u2019s Jabalpur",
-      "description": "A motorcycle parked outside Jain Petrol Pump in Jabalpur\u2019s Bargi area was stolen, and the theft was captured on CCTV. The footage reportedly shows a person taking the bike away. Bargi police are examining the recording to identify and trace the suspect. No arrest has been reported, and the motorcycle has yet to be recovered.",
-      "url": "https://www.freepressjournal.in/bhopal/bike-theft-caught-on-cctv-man-spotted-unlocking-fleeing-with-bike-parked-outside-petrol-pump-in-mps-jabalpur",
-      "image": "https://media.assettype.com/freepressjournal/2026-09-26/jg56jx12/News-2026-09-26T160420.694.jpg",
-      "publishedAt": "2026-09-26T11:05:51Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Nifty 50 target: Will it hit 25,000 this year? Market experts weigh in on what could drive the recovery",
-      "description": "Achieving the 25,000 mark on the Nifty requires positive global cues, stronger corporate earnings, and manageable crude oil prices. The index, down 11% year-to-date, needs to overcome current hurdles related to external economic pressures.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-50-target-will-it-hit-25-000-this-year-market-experts-weigh-in-on-what-could-drive-the-recovery-11790417165969.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/nifty_outlook_1790417660022_I2H2_1790417664289_VtNR_236fbb61-abf2-4b25-b5e6-55527ae80497_7pQb.png",
-      "publishedAt": "2026-09-26T10:34:13Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Airfares could rise 20% next summer if oil prices stay high, Ryanair CEO says",
-      "description": "Airline cuts passenger forecast to 214 million from 216 million. O\u2019Leary said he expected more carriers to \u200bfail, adding that Ryanair was \u200calready \u200cin talks with airports concerned that capacity will be cut by further airline bankruptcies",
-      "url": "https://www.majorcadailybulletin.com/news/local/2026/09/26/146087/airfares-could-rise-next-summer-oil-prices-stay-high-ryanair-ceo-says.html",
-      "image": "https://md.gsstatic.es/sfAttachPlugin/social/196089.jpeg",
-      "publishedAt": "2026-09-26T09:56:12Z",
-      "source": {
-        "name": "Majorca Daily Bulletin"
-      }
-    },
-    {
-      "title": "Trump Predicts Midterm Success But His Approval Rating Dips To 37%",
-      "description": "Trump\u2019s approval rating falls to 37% as he prepares for the midterms, while the Iran conflict, inflation, oil prices and voter verification plans add pressure",
-      "url": "https://www.outlookindia.com/international/donald-trump-approval-rating-falls-to-37-lowest-in-wsj-midterm-polls-since-1990",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-09-21/yn2si5hj/Donald-Trump?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-09-26T09:05:36Z",
-      "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "Rupee gains from FCNR (B) boost reverse in September amid higher crude oil prices: RBI bulletin",
-      "description": "The Indian rupee, previously buoyed by FCNR(B) deposits, depreciated as crude oil prices rose. Will the pressure on INR ease in the near future? Here's what RBI DG said in an article published in the central bank's bulletin.",
-      "url": "https://www.livemint.com/money/rupee-gains-from-fcnr-b-boost-reverse-in-september-amid-higher-crude-oil-prices-rbi-bulletin-11790407432045.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/2-0-1422536355-iStock-503052802-0_1679748824621_1790411114886_TgnB_fb85353c-a05a-4506-9376-c95a50006c55_DIUk.jpg",
-      "publishedAt": "2026-09-26T08:27:52Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
