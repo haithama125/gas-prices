@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-28T02:34:18+00:00",
+  "updated_at": "2026-09-28T12:21:02+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Iraq imports petrol through Syria in another US",
-      "description": "Iraq has started importing petrol through Syria, an Oil Ministry official said on Sunday, in a significant deepening of ties with Damascus as Baghdad deals",
-      "url": "https://www.europesays.com/3275630/",
-      "image": "https://www.europesays.com/wp-content/uploads/2025/04/eu-1200x1200-1.png",
-      "publishedAt": "2026-09-27T13:37:20Z",
+      "title": "Oil prices rise more than 1% as Trump rejects Iran\u2019s Hormuz proposal",
+      "description": "Crude oil prices climb as Trump rejects Tehran\u2019s proposal to reopen the Strait of Hormuz, raising concerns over global energy supplies and the outlook for US-Iran peace talks",
+      "url": "https://www.firstpost.com/business/oil-prices-trump-rejects-iran-hormuz-proposal-14048704.html",
+      "image": "https://images.firstpost.com/uploads/2026/08/saudi-aramco-2026-08-e06694fa9328ee6befc8f0f57b88decd-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-28T00:05:06Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Firstpost"
       }
     },
     {
-      "title": "Average gas price in Virginia rises as crude oil costs climb",
-      "description": "LYNCHBURG, Va. (WSET) \u2014 Gas prices are climbing across Virginia, with the average price now about $4.24 a gallon.",
-      "url": "https://www.europesays.com/3275628/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/09/1c345645-5ac5-4e13-aff4-f104083777e3-processedF6D25B2857D14A259E9E7F003DC1C345.jpeg",
-      "publishedAt": "2026-09-27T13:36:22Z",
+      "title": "Rupee's likely to slip despite RBI push for stability",
+      "description": "The rupee could decline to 96-97 per dollar by the end of FY27 due to several factors. Persistent outflows from Indian financial assets and elevated crude oil prices create additional pressure. Although the Reserve Bank of India argues for potential stabilization, economists remain skeptical of this outlook. Recent foreign exchange actions indicate ongoing depreciation pressures on the currency.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-likely-to-slip-despite-rbi-push-for-stability/articleshow/134528883.cms",
+      "image": "https://img.etimg.com/thumb/msid-134528923,width-1200,height-630,imgsize-35218,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-28T00:04:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Syrigos: \u201cWe will seek an EU exemption\u201d - Energy crisis moves into escape-clause debate",
-      "description": "New signal from ND MP Angelos Syrigos on Greece\u2019s response to the energy shock: Athens will seek European fiscal flexibility for temporary support measures, as high oil prices put growing pressure on households, transport and the wider economy. Syrigos: \u201cWe will seek an EU exemption\u201d \u2013 Energy crisis moves into escape-clause debate",
-      "url": "https://www.pagenews.gr/2026/09/27/english-edition/syrigos-we-will-seek-an-eu-exemption-energy-crisis-moves-into-escape-clause-debate/",
-      "image": "https://www.pagenews.gr/wp-content/uploads/2026/08/syrigos-1200x630.jpg",
-      "publishedAt": "2026-09-27T12:59:43Z",
+      "title": "Eni cap on fuel prices comes into force, Sicily's truckers announce strike",
+      "description": "The 30-day price caps state-controlled energy giant Eni announced last week for its gas stations in Italy, limiting prices at \u20ac2.19 per litre for diesel and \u20ac1.99 for unleaded petrol, came into force on Monday. (ANSA)",
+      "url": "https://www.ansa.it/english/news/business/2026/09/28/eni-cap-on-fuel-prices-comes-into-force-sicilys-truckers-announce_64e8b16a-a512-4ed2-a73d-6dc64fa73b27.html",
+      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/3f4b6c321e9114593a2e9f24400f0611.jpg",
+      "publishedAt": "2026-09-28T00:00:00Z",
       "source": {
-        "name": "Pagenews.gr"
+        "name": "Agenzia ANSA"
       }
     },
     {
-      "title": "US diesel export curbs could lower diesel prices initially, lift gasoline prices later: Report",
-      "description": "A potential US restriction on diesel exports could initially lower domestic diesel prices but eventually push up gasoline prices as rising inventories force refiners to cut output, Goldman Sachs said, while warning that the effects could extend to diesel markets in Europe and other regions.",
-      "url": "https://www.tribuneindia.com/news/business/us-diesel-export-curbs-could-lower-diesel-prices-initially-lift-gasoline-prices-later-report/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA5M2M1M2YwLWJhNzMtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-27T12:57:39Z",
+      "title": "WTI, Brent, Trump, Iran",
+      "description": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
+      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
+      "publishedAt": "2026-09-27T23:58:57Z",
       "source": {
-        "name": "The Tribune"
+        "name": "CNBC"
       }
     },
     {
-      "title": "US diesel export curbs could lower diesel prices initially, lift gasoline prices later: Report",
-      "description": "A potential US restriction on diesel exports could initially lower domestic diesel prices but eventually push up gasoline prices as rising inventories force refiners to cut output, Goldman Sachs said, while warning that the effects could extend to diesel markets in Europe and other regions.",
-      "url": "https://www.aninews.in/news/business/us-diesel-export-curbs-could-lower-diesel-prices-initially-lift-gasoline-prices-later-report20260927182117/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260927123938-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-27T12:51:17Z",
+      "title": "Asian shares trade mixed as oil prices rise",
+      "description": "Asian shares are trading mixed Monday after a cooldown in oil prices last week helped U.S. stock close out their first winning week in the last three.",
+      "url": "https://www.breitbart.com/news/asian-shares-trade-mixed-as-oil-prices-rise/",
+      "image": "https://media.breitbart.com/media/2026/09/wi/ap/financial-markets-wall-street-45-14-financial-markets-wall-street-michael-pistillo-floor-at-york-640x335.jpg",
+      "publishedAt": "2026-09-27T23:35:33Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Dalal Street This Week: Crude Oil, West Asia Crisis To Steer Market Sentiment",
-      "description": "Following a period of decline, with the Nifty 50 and Sensex down for seven weeks, investors are concerned about rising oil prices and bond yields. , Markets, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/markets/dalal-street-this-week-crude-oil-west-asia-crisis-to-steer-market-sentiment-article-156235074",
-      "image": "https://images.timesnownews.com/thumb/msid-156235073,thumbsize-977657,width-1280,height-720,resizemode-75/156235073.jpg",
-      "publishedAt": "2026-09-27T12:38:19Z",
+      "title": "Dow futures fall close to 200 points, oil prices rise as Trump rejects Iran proposal",
+      "description": "The Dow futures were down over 160 points on Sunday evening local time, while the S&P 500 futures declined 25 points. The Nasdaq futures were down 100 points as well. The Dow Jones had managed a 0.3% weekly gain after three weeks of losses, having gained nearly 500 points last Friday. The S&P 500 and the Nasdaq had their best weeks since early August, with gains of 1.2% and 2.1% respectively on a weekly basis.",
+      "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-important-week-ahead-for-wall-street-crude-oil-prices-iran-war-trump-yields-jobs-report-19999539.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/bilder-2026-07-11t082905907-2026-07-c1f4631e9dc3ced46978331ece93c988.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-27T23:14:51Z",
       "source": {
-        "name": "Times Now"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Editorial cartoons for Sept. 27, 2026: Gas prices, China, the First Amendment",
-      "description": "The week in visual commentary.",
-      "url": "https://www.oregonlive.com/opinion/2026/09/editorial-cartoons-for-sept-27-2026-gas-prices-china-the-first-amendment.html",
-      "image": "https://www.oregonlive.com/resizer/v2/QVHPYGQPBBDE7HCE74MAFXQ5V4.jpg?auth=d323ee68c811b61af451341af9edb0cf8a2f1a83090f0e57ab9e664874ff59cb&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-27T12:00:00Z",
+      "title": "Geopolitical developments, oil prices to steer markets this week",
+      "description": "NEW DELHI: Investors will focus on geopolitical developments, crude oil prices, bond yields and macroeconomic data announcements to determine market",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/geopolitical-developments-oil-prices-to-steer-mkts-this-week/articleshow/134528849.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134528880,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-09-27T23:12:00Z",
       "source": {
-        "name": "The Oregonian"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Editorial cartoons for Sept. 27, 2026: Gas prices, China, the First Amendment",
-      "description": "The week in visual commentary.",
-      "url": "https://www.syracuse.com/opinion/2026/09/editorial-cartoons-for-sept-27-2026-gas-prices-china-the-first-amendment.html",
-      "image": "https://www.syracuse.com/resizer/v2/QVHPYGQPBBDE7HCE74MAFXQ5V4.jpg?auth=d323ee68c811b61af451341af9edb0cf8a2f1a83090f0e57ab9e664874ff59cb&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-09-27T12:00:00Z",
+      "title": "Oil prices up, and S&P 500 and Nasdaq futures down as Trump rejects Iran peace deal",
+      "description": "Oil prices rise more than 1% while S&P 500 futures and Nasdaq futures are down by 0.1%. President Donald Trump has publicly rejected Iran's proposal to reopen the Strait of Hormuz.",
+      "url": "https://economictimes.indiatimes.com/world/money/oil-prices-up-and-sp-500-and-nasdaq-futures-down-as-trump-rejects-iran-peace-deal/articleshow/134528819.cms",
+      "image": "https://img.etimg.com/thumb/msid-134528823,width-1200,height-630,imgsize-72334,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-27T22:41:00Z",
       "source": {
-        "name": "syracuse.com"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Iraq imports petrol through Syria in another US-backed step towards closer ties",
-      "description": "Tanker loaded with refined fuel bound for Iraq unloaded at Syria's Baniyas port",
-      "url": "https://www.thenationalnews.com/news/mena/2026/09/27/iraq-syria-oil/",
-      "image": "https://www.thenationalnews.com/resizer/v2/ZTPKWFIZ5ZHMHKTLGBCC7LCAQ4.JPG?auth=451e51d7170152fd23b6c588ef1e7ee0332619b4fdc900db07ee56a2ca7ca581&smart=true&width=1200&height=630",
-      "publishedAt": "2026-09-27T11:49:14Z",
+      "title": "Shares poised for a cautious start; oil prices fall to $US104",
+      "description": "Shares to open flat; August inflation, building approvals, private sector credit, trade figures, and housing prices are due this week.",
+      "url": "https://www.afr.com/markets/equity-markets/asx-set-for-a-steady-start-oil-prices-fall-to-us104-20260928-p610tf",
+      "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/15a06e3ea125277d9bb346c23acfb3860406afeefef87d61a2ee6065057f4371",
+      "publishedAt": "2026-09-27T21:33:44Z",
       "source": {
-        "name": "The National"
+        "name": "Australian Financial Review"
       }
     },
     {
-      "title": "EU tells countries to curb energy demand as gas prices face winter squeeze",
-      "description": "Energy Commissioner J\u00f8rgensen warned capitals that the EU is not facing an immediate gas-security crisis, but it is facing a price-and-supply squeeze that could become more difficult as winter approaches, according to a letter seen by Euronews.",
-      "url": "https://www.euronews.com/2026/09/27/eu-tells-countries-to-curb-energy-demand-as-gas-prices-face-winter-squeeze",
-      "image": "https://images.euronews.com/articles/stories/09/57/27/31/1200x675_cmsv2_1e29541d-9c54-5fb8-b3d5-693f58218af8-9572731.jpg",
-      "publishedAt": "2026-09-27T11:33:43Z",
+      "title": "Petrol thieves in Spain see their getaway go spectacularly wrong",
+      "description": "Doing a runner without paying for your petrol is already a fairly questionable life choice. Doing it in a stolen car, fleeing for more than 100 kilometres and\u2026",
+      "url": "https://euroweeklynews.com/2026/09/27/petrol-thieves-in-spain-see-their-getaway-go-spectacularly-wrong/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/lJg7E.jpg",
+      "publishedAt": "2026-09-27T21:09:54Z",
       "source": {
-        "name": "Euronews"
+        "name": "Euro Weekly News"
       }
     }
   ]
