@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-28T12:21:02+00:00",
+  "updated_at": "2026-09-28T22:44:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices rise more than 1% as Trump rejects Iran\u2019s Hormuz proposal",
-      "description": "Crude oil prices climb as Trump rejects Tehran\u2019s proposal to reopen the Strait of Hormuz, raising concerns over global energy supplies and the outlook for US-Iran peace talks",
-      "url": "https://www.firstpost.com/business/oil-prices-trump-rejects-iran-hormuz-proposal-14048704.html",
-      "image": "https://images.firstpost.com/uploads/2026/08/saudi-aramco-2026-08-e06694fa9328ee6befc8f0f57b88decd-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-28T00:05:06Z",
+      "title": "Sensex tanks over 1100 points as global tensions rattle investor sentiment",
+      "description": "Sensex tanks over 1100 points as global tensions rattle investor sentiment - Mumbai, Sep 28 Indian equity benchmarks ended sharply lower on Monday as rising crude oil prices, escalating tensions ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/sensex-tanks-over-1100-points-as-global-tensions-rattle-investor-sentiment/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609283958236_202609.jpg",
+      "publishedAt": "2026-09-28T10:31:54Z",
       "source": {
-        "name": "Firstpost"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Rupee's likely to slip despite RBI push for stability",
-      "description": "The rupee could decline to 96-97 per dollar by the end of FY27 due to several factors. Persistent outflows from Indian financial assets and elevated crude oil prices create additional pressure. Although the Reserve Bank of India argues for potential stabilization, economists remain skeptical of this outlook. Recent foreign exchange actions indicate ongoing depreciation pressures on the currency.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupees-likely-to-slip-despite-rbi-push-for-stability/articleshow/134528883.cms",
-      "image": "https://img.etimg.com/thumb/msid-134528923,width-1200,height-630,imgsize-35218,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-28T00:04:00Z",
+      "title": "Indian rupee now just shy of 96 against US dollar",
+      "description": "The Indian rupee slightly dipped due to rising oil prices from Middle East tensions, but RBI intervention kept it above 96/USD, reducing India's foreign exchange reserves.",
+      "url": "https://www.newsbytesapp.com/news/business/rbi-intervenes-as-rupee-slips-to-95-95-usd/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l62620260928132938.jpeg",
+      "publishedAt": "2026-09-28T10:30:12Z",
+      "source": {
+        "name": "NewsBytes"
+      }
+    },
+    {
+      "title": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
+      "description": "On Monday, the Indian rupee plummeted to its lowest mark in over a week, driven by soaring oil prices. Investors reacted to mounting geopolitical tensions, leading to an uptick in bond yields and a dip in stock values within the region. State-run banks intervened by selling dollars, likely under the guidance of the Reserve Bank of India, which helped to mitigate further declines in the currency's value.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms",
+      "image": "https://img.etimg.com/thumb/msid-134539291,width-1200,height-630,imgsize-35218,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-28T10:27:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Eni cap on fuel prices comes into force, Sicily's truckers announce strike",
-      "description": "The 30-day price caps state-controlled energy giant Eni announced last week for its gas stations in Italy, limiting prices at \u20ac2.19 per litre for diesel and \u20ac1.99 for unleaded petrol, came into force on Monday. (ANSA)",
-      "url": "https://www.ansa.it/english/news/business/2026/09/28/eni-cap-on-fuel-prices-comes-into-force-sicilys-truckers-announce_64e8b16a-a512-4ed2-a73d-6dc64fa73b27.html",
-      "image": "https://www.ansa.it/webimages/img_1280x720/2026/9/27/3f4b6c321e9114593a2e9f24400f0611.jpg",
-      "publishedAt": "2026-09-28T00:00:00Z",
+      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
+      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
+      "url": "https://www.tribuneindia.com/news/business/nifty-falls-1-56-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-107/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzNzVmYTkwLWJiMjYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
+      "publishedAt": "2026-09-28T10:22:51Z",
       "source": {
-        "name": "Agenzia ANSA"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "WTI, Brent, Trump, Iran",
-      "description": "Oil prices jumped on Monday after U.S. President Donald Trump rejected an Iranian peace proposal aimed at ending the conflict.",
-      "url": "https://www.cnbc.com/2026/09/28/oil-price-today-wti-brent-trump-iran.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108364362-1789650415422-gettyimages-2294896131-AA_15092026_2952056.jpeg?v=1789650470&w=1920&h=1080",
-      "publishedAt": "2026-09-27T23:58:57Z",
+      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
+      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
+      "url": "https://www.devdiscourse.com/article/business/3983110-nifty-falls-156-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-107",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_50_39_1904922.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-09-28T10:20:41Z",
       "source": {
-        "name": "CNBC"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Asian shares trade mixed as oil prices rise",
-      "description": "Asian shares are trading mixed Monday after a cooldown in oil prices last week helped U.S. stock close out their first winning week in the last three.",
-      "url": "https://www.breitbart.com/news/asian-shares-trade-mixed-as-oil-prices-rise/",
-      "image": "https://media.breitbart.com/media/2026/09/wi/ap/financial-markets-wall-street-45-14-financial-markets-wall-street-michael-pistillo-floor-at-york-640x335.jpg",
-      "publishedAt": "2026-09-27T23:35:33Z",
+      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
+      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
+      "url": "https://www.aninews.in/news/business/nifty-falls-156-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-10720260928154656/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260928093107-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-09-28T10:16:56Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Dow futures fall close to 200 points, oil prices rise as Trump rejects Iran proposal",
-      "description": "The Dow futures were down over 160 points on Sunday evening local time, while the S&P 500 futures declined 25 points. The Nasdaq futures were down 100 points as well. The Dow Jones had managed a 0.3% weekly gain after three weeks of losses, having gained nearly 500 points last Friday. The S&P 500 and the Nasdaq had their best weeks since early August, with gains of 1.2% and 2.1% respectively on a weekly basis.",
-      "url": "https://www.cnbctv18.com/market/dow-jones-snp-500-nasdaq-important-week-ahead-for-wall-street-crude-oil-prices-iran-war-trump-yields-jobs-report-19999539.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/bilder-2026-07-11t082905907-2026-07-c1f4631e9dc3ced46978331ece93c988.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-27T23:14:51Z",
+      "title": "Rising oil prices, inflation to create headwinds for India\u2019s economic growth: BNP Paribas",
+      "description": "India\u2019s economic outlook is likely to face increasing pressure in the coming months as higher crude oil prices and rising inflation weigh on consumption, rural activity and industrial momentum, BNP Paribas said in a research report.",
+      "url": "https://www.devdiscourse.com/article/business/3983107-rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_45_11_9938048.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-09-28T10:15:15Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Geopolitical developments, oil prices to steer markets this week",
-      "description": "NEW DELHI: Investors will focus on geopolitical developments, crude oil prices, bond yields and macroeconomic data announcements to determine market",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/geopolitical-developments-oil-prices-to-steer-mkts-this-week/articleshow/134528849.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134528880,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-09-27T23:12:00Z",
+      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday",
+      "description": "On September 28, the Indian stock market faced significant selling pressure, with indices dropping due to rising crude oil prices and global monetary tightening fears. The Nifty 50 fell 1.54%, closing below 23,000 for the first time since April, as multiple sectors showed losses.",
+      "url": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-cues-to-watch-29-sept-2026-11790589056945.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/SM_Duplicate_1790590439805_lrCH_1790590444527_56eB_ff39a085-c877-4615-ba9b-b9d33d994453_66uz.png",
+      "publishedAt": "2026-09-28T10:15:08Z",
       "source": {
-        "name": "Times of India"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Oil prices up, and S&P 500 and Nasdaq futures down as Trump rejects Iran peace deal",
-      "description": "Oil prices rise more than 1% while S&P 500 futures and Nasdaq futures are down by 0.1%. President Donald Trump has publicly rejected Iran's proposal to reopen the Strait of Hormuz.",
-      "url": "https://economictimes.indiatimes.com/world/money/oil-prices-up-and-sp-500-and-nasdaq-futures-down-as-trump-rejects-iran-peace-deal/articleshow/134528819.cms",
-      "image": "https://img.etimg.com/thumb/msid-134528823,width-1200,height-630,imgsize-72334,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-27T22:41:00Z",
+      "title": "Rising oil prices, inflation to create headwinds for India's economic growth: BNP Paribas",
+      "description": "BNP Paribas expects Indias economic outlook to come under greater pressure as higher crude prices, rising inflation and weaker rural and industrial indicators weigh on growth. While credit growth, auto sales and food-grain stocks remain supportive, the brokerage says elevated oil prices could also leave the RBI with less room to keep interest rates unchanged.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas/articleshow/134539068.cms",
+      "image": "https://img.etimg.com/thumb/msid-134539067,width-1200,height-630,imgsize-60728,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T10:15:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Shares poised for a cautious start; oil prices fall to $US104",
-      "description": "Shares to open flat; August inflation, building approvals, private sector credit, trade figures, and housing prices are due this week.",
-      "url": "https://www.afr.com/markets/equity-markets/asx-set-for-a-steady-start-oil-prices-fall-to-us104-20260928-p610tf",
-      "image": "https://static.ffx.io/images/$zoom_0.5519%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_live_no_age_social_wm/15a06e3ea125277d9bb346c23acfb3860406afeefef87d61a2ee6065057f4371",
-      "publishedAt": "2026-09-27T21:33:44Z",
+      "title": "Rising oil prices, inflation to create headwinds for India\u2019s economic growth: BNP Paribas",
+      "description": "India\u2019s economic outlook is likely to face increasing pressure in the coming months as higher crude oil prices and rising inflation weigh on consumption, rural activity and industrial momentum, BNP Paribas said in a research report.",
+      "url": "https://www.devdiscourse.com/article/business/3983105-rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_43_19_8732084.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-09-28T10:13:24Z",
       "source": {
-        "name": "Australian Financial Review"
-      }
-    },
-    {
-      "title": "Petrol thieves in Spain see their getaway go spectacularly wrong",
-      "description": "Doing a runner without paying for your petrol is already a fairly questionable life choice. Doing it in a stolen car, fleeing for more than 100 kilometres and\u2026",
-      "url": "https://euroweeklynews.com/2026/09/27/petrol-thieves-in-spain-see-their-getaway-go-spectacularly-wrong/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/09/lJg7E.jpg",
-      "publishedAt": "2026-09-27T21:09:54Z",
-      "source": {
-        "name": "Euro Weekly News"
+        "name": "Devdiscourse"
       }
     }
   ]
