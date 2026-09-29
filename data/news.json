@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-28T22:44:52+00:00",
+  "updated_at": "2026-09-29T03:16:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex tanks over 1100 points as global tensions rattle investor sentiment",
-      "description": "Sensex tanks over 1100 points as global tensions rattle investor sentiment - Mumbai, Sep 28 Indian equity benchmarks ended sharply lower on Monday as rising crude oil prices, escalating tensions ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/sensex-tanks-over-1100-points-as-global-tensions-rattle-investor-sentiment/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202609283958236_202609.jpg",
-      "publishedAt": "2026-09-28T10:31:54Z",
+      "title": "Drivers issued warning as diesel prices soar amid 50mph speed limit talks for UK",
+      "description": "Petrol could be rationed to coincide with an ongoing rise in prices",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/drivers-issued-warning-diesel-prices-34683744",
+      "image": "https://i2-prod.liverpoolecho.co.uk/article34681562.ece/ALTERNATES/s1200d/0_01M3KPV9N3BSDM02JY1RDEZNS6.jpg",
+      "publishedAt": "2026-09-28T15:16:19Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "Liverpool Echo"
       }
     },
     {
-      "title": "Indian rupee now just shy of 96 against US dollar",
-      "description": "The Indian rupee slightly dipped due to rising oil prices from Middle East tensions, but RBI intervention kept it above 96/USD, reducing India's foreign exchange reserves.",
-      "url": "https://www.newsbytesapp.com/news/business/rbi-intervenes-as-rupee-slips-to-95-95-usd/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l62620260928132938.jpeg",
-      "publishedAt": "2026-09-28T10:30:12Z",
+      "title": "Will the UK actually ration diesel and petrol?",
+      "description": "Diesel prices have hit an all-time high of 199.18p per litre, new figures released today show. But are rumours of a diesel and petrol ration real?",
+      "url": "https://metro.co.uk/2026/09/28/will-uk-actually-ration-diesel-petrol-29660180/",
+      "image": "https://metro.co.uk/wp-content/uploads/2026/09/SEI_291810940-3543_1790608209.jpg?quality=90&strip=all&w=1200&h=630&crop=1",
+      "publishedAt": "2026-09-28T15:10:02Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "Metro.co.uk"
       }
     },
     {
-      "title": "Oil woes push rupee to over one-week low, RBI caps fall near 96/USD",
-      "description": "On Monday, the Indian rupee plummeted to its lowest mark in over a week, driven by soaring oil prices. Investors reacted to mounting geopolitical tensions, leading to an uptick in bond yields and a dip in stock values within the region. State-run banks intervened by selling dollars, likely under the guidance of the Reserve Bank of India, which helped to mitigate further declines in the currency's value.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/oil-woes-push-rupee-to-over-one-week-low-rbi-caps-fall-near-96/usd/articleshow/134539275.cms",
-      "image": "https://img.etimg.com/thumb/msid-134539291,width-1200,height-630,imgsize-35218,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-28T10:27:00Z",
+      "title": "It\u2019s likely you\u2019re going to see gas prices go even higher. Here\u2019s why",
+      "description": "In the US, 47 states experienced record-high diesel prices on Sept. 22, with the national average reaching $6.52 per gallon",
+      "url": "https://www.independent.co.uk/news/world/americas/gas-prices-higher-iran-war-trump-b3057702.html",
+      "image": "https://static.independent.co.uk/2026/09/28/15/2296974915..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-09-28T14:56:38Z",
+      "source": {
+        "name": "The Independent"
+      }
+    },
+    {
+      "title": "ICE Canola Off to Rough Start",
+      "description": "WINNIPEG, Manitoba--Canola futures on the Intercontinental Exchange tumbled on Monday morning, falling below their major averages.\nCrude oil prices jumped after United States President Donald...",
+      "url": "https://www.marketscreener.com/news/ice-canola-off-to-rough-start-ce785adcde8df420",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-09-28T14:38:33Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Gas prices are slightly lower, but you\u2019re still paying way more than last year",
+      "description": "Analysts cite crude oil costs and geopolitical tensions as the main forces keeping prices historically high.",
+      "url": "https://www.pennlive.com/news/2026/09/gas-prices-are-slightly-lower-but-youre-still-paying-way-more-than-last-year.html",
+      "image": "https://www.pennlive.com/resizer/v2/5VUEM5KIBNFATBXMQKJERCFU44.jpeg?auth=0184824635f6a4be8a9c76f5c8fa80a72a6170d6ad4140d117d3c0c48188ef94&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-28T14:37:46Z",
+      "source": {
+        "name": "Mechanicsburg Patriot News "
+      }
+    },
+    {
+      "title": "West Asia worries send benchmark indices to six-month low; third 1% plunge in 10 sessions",
+      "description": "Sensex and Nifty plummet to six-month lows amid West Asia tensions after US ceasefire rejection, broad-based selling, and risk to oil prices.",
+      "url": "https://www.thehindu.com/business/west-asia-worries-send-benchmark-indices-to-six-month-low-third-1-plunge-in-10-sessions/article71520364.ece",
+      "image": "https://th-i.thgim.com/public/incoming/ph2r41/article71520526.ece/alternates/LANDSCAPE_1200/UPI-MDR-may-squG7MGHOFIN.4.jpg.jpg",
+      "publishedAt": "2026-09-28T14:31:05Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "SK Hynix ADRs Slump Over 4% On Reports Of Subsidiary's US Listing Plans",
+      "description": "Solidigm IPO reports weigh on SK Hynix, while higher oil prices fuel broader risk-off selling across South Korean equities.",
+      "url": "https://www.ndtvprofit.com/markets/sk-hynix-adrs-slump-over-4-on-reports-of-subsidiarys-us-listing-plans-12110367",
+      "image": "https://c.ndtvimg.com/2026-09/f67ugi78_stock_625x300_28_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-09-28T14:18:12Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Cheaper at pumps, costlier in bulk: Jio-bp, Nayara cap diesel sales; PSUs may follow: Report",
+      "description": "Jio-bp and Nayara Energy have capped diesel purchases at their petrol pumps as industrial and bulk buyers shift to cheaper retail fuel, widening pressure on station inventories. The price gap between retail and bulk diesel has reached up to Rs 40 a litre, with IOC, BPCL and HPCL likely to follow.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/cheaper-at-pumps-costlier-in-bulk-jio-bp-nayara-cap-diesel-sales-psus-may-follow-report/articleshow/134544705.cms",
+      "image": "https://img.etimg.com/thumb/msid-134545130,width-1200,height-630,imgsize-289434,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-28T14:15:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
-      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
-      "url": "https://www.tribuneindia.com/news/business/nifty-falls-1-56-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-107/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTkzNzVmYTkwLWJiMjYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-28T10:22:51Z",
+      "title": "Despite Duty Cut, Edible Oil Prices May Remain Elevated During Festive Season",
+      "description": "The government had reduced import duties of different edible oils by around 5 to 10 per cent to cool prices ahead of the festive season.",
+      "url": "https://www.deccanchronicle.com/southern-states/tamil-nadu/despite-duty-cut-edible-oil-prices-may-remain-elevated-during-festive-season-1991313",
+      "image": "https://images.deccanchronicle.com/dc-Cover-fvbeu2h35hig7349jdu1il3n91-20170531015754.Medi.jpeg",
+      "publishedAt": "2026-09-28T14:10:56Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
-      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
-      "url": "https://www.devdiscourse.com/article/business/3983110-nifty-falls-156-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-107",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_50_39_1904922.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-28T10:20:41Z",
+      "title": "TotalEnergies raises buybacks and pledges higher dividends as oil trades around $100",
+      "description": "TotalEnergies will buy back $2.5 billion (\u20ac2.2bn) of its own shares in the fourth quarter, up from $1.5 billion (\u20ac1.3bn) authorised for the third, and raise its dividend by more than 5% a year through 2030, as high oil prices boost the French energy giant\u2019s earnings.",
+      "url": "https://www.euronews.com/2026/09/28/totalenergies-raises-buybacks-and-pledges-higher-dividends-as-oil-trades-around-100",
+      "image": "https://images.euronews.com/articles/stories/09/93/06/64/1200x675_cmsv2_ccd9ec39-1214-5a95-a2f2-72b6f8aa5a4d-9930664.jpg",
+      "publishedAt": "2026-09-28T14:10:18Z",
       "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107",
-      "description": "The stock markets in the country witnessed sharp selling on Monday, with both benchmark indices falling more than 1.5 per cent as rising crude oil prices, elevated US bond yields and a weakening rupee heightened concerns over inflation and global fund flows.",
-      "url": "https://www.aninews.in/news/business/nifty-falls-156-sensex-tanks-1124-points-as-psu-banks-plunge-crude-tops-usd-10720260928154656/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260928093107-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-09-28T10:16:56Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Rising oil prices, inflation to create headwinds for India\u2019s economic growth: BNP Paribas",
-      "description": "India\u2019s economic outlook is likely to face increasing pressure in the coming months as higher crude oil prices and rising inflation weigh on consumption, rural activity and industrial momentum, BNP Paribas said in a research report.",
-      "url": "https://www.devdiscourse.com/article/business/3983107-rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_45_11_9938048.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-28T10:15:15Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Stock market prediction for tomorrow: Sensex, Nifty outlook for Tuesday",
-      "description": "On September 28, the Indian stock market faced significant selling pressure, with indices dropping due to rising crude oil prices and global monetary tightening fears. The Nifty 50 fell 1.54%, closing below 23,000 for the first time since April, as multiple sectors showed losses.",
-      "url": "https://www.livemint.com/market/stock-market-news/stock-market-prediction-for-tomorrow-sensex-nifty-outlook-for-tuesday-kospi-taiwan-cues-to-watch-29-sept-2026-11790589056945.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/SM_Duplicate_1790590439805_lrCH_1790590444527_56eB_ff39a085-c877-4615-ba9b-b9d33d994453_66uz.png",
-      "publishedAt": "2026-09-28T10:15:08Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Rising oil prices, inflation to create headwinds for India's economic growth: BNP Paribas",
-      "description": "BNP Paribas expects Indias economic outlook to come under greater pressure as higher crude prices, rising inflation and weaker rural and industrial indicators weigh on growth. While credit growth, auto sales and food-grain stocks remain supportive, the brokerage says elevated oil prices could also leave the RBI with less room to keep interest rates unchanged.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas/articleshow/134539068.cms",
-      "image": "https://img.etimg.com/thumb/msid-134539067,width-1200,height-630,imgsize-60728,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-28T10:15:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rising oil prices, inflation to create headwinds for India\u2019s economic growth: BNP Paribas",
-      "description": "India\u2019s economic outlook is likely to face increasing pressure in the coming months as higher crude oil prices and rising inflation weigh on consumption, rural activity and industrial momentum, BNP Paribas said in a research report.",
-      "url": "https://www.devdiscourse.com/article/business/3983105-rising-oil-prices-inflation-to-create-headwinds-for-indias-economic-growth-bnp-paribas",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/28_09_2026_15_43_19_8732084.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-09-28T10:13:24Z",
-      "source": {
-        "name": "Devdiscourse"
+        "name": "Euronews"
       }
     }
   ]
