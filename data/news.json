@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-29T17:15:31+00:00",
+  "updated_at": "2026-09-29T21:38:40+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asian stocks mostly fall after Wall Street losses, oil prices rise",
-      "description": "Asian stocks mostly fall after Wall Street losses, oil prices rise",
-      "url": "https://www.news18.com/agency-feeds/asian-stocks-mostly-fall-after-wall-street-losses-oil-prices-rise-10358603.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
-      "publishedAt": "2026-09-29T05:15:05Z",
+      "title": "Asda hands diesel drivers 5p a litre off as prices hit all time high",
+      "description": "Asda is handing diesel drivers 5p per litre off fuel - and it also applies to petrol.",
+      "url": "https://www.express.co.uk/finance/personalfinance/2252737/asda-hands-diesel-drivers-5p",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7163854.jpg",
+      "publishedAt": "2026-09-29T09:38:00Z",
       "source": {
-        "name": "News18"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "Oil Prices Rise For Second Day As US-Iran Conflict Fuels Middle East Supply Concerns",
-      "description": "Oil prices climbed for a second consecutive session as concerns over Middle East supply disruptions linked to the US-Iran conflict outweighed signs of improving crude exports. Brent and WTI futures gained over 1%, while diplomatic efforts continued. Markets remained focused on the Strait of Hormuz and its impact on energy supplies",
-      "url": "https://www.freepressjournal.in/business/oil-prices-rise-for-second-day-as-us-iran-conflict-fuels-middle-east-supply-concerns",
-      "image": "https://media.assettype.com/freepressjournal/2026-03-26/91zjdvtx/crude-oil-price-rise.jpg",
-      "publishedAt": "2026-09-29T05:05:06Z",
+      "title": "Ineos idles Europe's last world",
+      "description": "Ineos has announced the mothballing of all three acetyls production units at its Hull facility in the United Kingdom, citing European gas prices now running at 12 times the level of those in the United States. The shutdown affects Europe's last remaining world-scale acetyls plants, with implications for a broad range of downstream industries, including coatings and construction materials.",
+      "url": "https://www.european-coatings.com/news/markets-companies/ineos-idles-europes-last-world-scale-acetyls-plant/",
+      "image": "https://www.european-coatings.com/wp-content/uploads/sites/2/2026/09/thawornnurak-stock.adobe_.com-AdobeStock_167746554-1024x683.jpeg",
+      "publishedAt": "2026-09-29T09:32:33Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "European Coatings"
       }
     },
     {
-      "title": "Asian stocks mostly fall after Wall Street losses and oil prices rise",
-      "description": "HONG KONG (AP) \u2014 Asian shares mostly fell on Tuesday following Wall Street losses , while U.S. Treasury yields paused their runup after reaching their highest l",
-      "url": "https://wtop.com/news/2026/09/asian-stocks-mostly-fall-after-wall-street-losses-and-oil-prices-rise/",
-      "image": "https://wtop.com/wp-content/uploads/2026/09/Financial_Markets_Wall_Street_53819-scaled.jpg",
-      "publishedAt": "2026-09-29T05:04:57Z",
+      "title": "Why global diesel prices are rising and Indian retailers are limiting sales",
+      "description": "A global diesel supply squeeze has pushed up prices as Gulf and Russian supplies face disruptions; in India, industrial buyers are turning to petrol pumps, putting pressure on retail outlets",
+      "url": "https://www.business-standard.com/economy/news/global-diesel-prices-us-iran-conflict-west-asia-war-india-petrol-supply-126092900632_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/12/thumb/fitandfill/1200X628/1786506997-0539.jpg",
+      "publishedAt": "2026-09-29T09:21:53Z",
       "source": {
-        "name": "WTOP"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Dollar firms near two-month peak as oil, US yields rise; jobs data looms",
-      "description": "The dollar inched higher on Tuesday to hover near a two-month high as volatile oil prices and a rapid climb in Treasury yields lent support, though gains were limited as traders awaited US data this...",
-      "url": "https://www.marketscreener.com/news/dollar-firms-near-two-month-peak-as-oil-us-yields-rise-jobs-data-looms-ce785addd88ff720",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T020551Z_1_LYNXMPEL3E01K_RTROPTP_4_USA-TRUMP-TARIFFS-INDONESIA.JPG",
-      "publishedAt": "2026-09-29T05:03:49Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Asian stocks mostly fall after Wall Street losses and oil prices rise",
-      "description": "Asian shares have mostly declined following Wall Street losses, and U.S. Treasury yields steadied after reaching their highest in roughly two decades. U.S. futures have edged lower. Meanwhile, oil prices have risen over uncertainties over U.S.-Iran negotiations and the possibility of a reopening of the Strait of Hormuz, the crucial waterway for oil transport. On Monday, Wall Street's benchmark S&P 500 slipped 0.8%. The Dow Jones Industrial Average fell 0.7%, and the Nasdaq composite dropped 0.9%. Stocks were under pressure in part as the yields on U.S. Treasuries continued to gain, with investors looking for higher returns under growing worries about inflation and rising government debt in the United States.",
-      "url": "https://www.ajc.com/news/2026/09/asian-stocks-mostly-fall-after-wall-street-losses-and-oil-prices-rise/",
-      "image": "https://images.ajc.com/resizer/v2/KNV6VJEIKFDBRLAVHHAXFDF2BU.jpg?auth=1c2abcb04970fb283961d904552885daf46ad7f99d283987de4d396cfb24dca9&width=1200&height=630&smart=true",
-      "publishedAt": "2026-09-29T05:03:22Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Gold rate today: Check prices of precious metal in Bengaluru, Delhi, other cities",
-      "description": "Gold prices have been affected by concerns over elevated oil prices, inflation and expectations of higher US interest rates. | Business News",
-      "url": "https://www.hindustantimes.com/business/today-gold-rate-september-29-gold-rate-in-bangalore-mumbai-chennai-gold-price-full-list-101790656000266.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/today_gold_rate_1790658003259_ufMg_1790658003384_4Ydk_2c1d901b-b6a6-462c-8cf9-f964c57138bd_htKi.JPG",
-      "publishedAt": "2026-09-29T05:00:26Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Asian stocks mostly fall after Wall Street losses and oil prices rise",
-      "description": "Asian shares have mostly declined following Wall Street losses, and U.S. Treasury yields steadied after reaching their highest in roughly two decades.",
-      "url": "https://www.clickondetroit.com/business/2026/09/29/asian-stocks-mostly-fall-after-wall-street-losses-and-oil-prices-rise/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/BAO53KKGWBCK3MDFQJUOQ2UYX4.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-09-29T05:00:11Z",
-      "source": {
-        "name": "WDIV ClickOnDetroit"
-      }
-    },
-    {
-      "title": "Asian Stocks Mostly Fall After Wall Street Losses and Oil Prices Rise",
-      "description": "HONG KONG (AP) \u2014 Asian shares mostly fell on Tuesday following Wall Street losses, while U.S. Treasury yields paused their runup after reaching their highest level in roughly two decades.",
-      "url": "https://www.usnews.com/news/business/articles/2026-09-29/asian-stocks-mostly-fall-after-wall-street-losses-and-oil-prices-rise",
-      "image": "https://www.usnews.com/dims4/USNEWS/0c9df54/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff9%2F9212716619b1e9e890a4351d82bc73%2Fe2f9f097ea8545b89e24d295c5cde3fcFinancial_Markets_Wall_Street_53819.jpg",
-      "publishedAt": "2026-09-29T05:00:00Z",
-      "source": {
-        "name": "U.S. News & World Report"
-      }
-    },
-    {
-      "title": "Stock markets tumble in early trade dragged by elevated crude oil prices, foreign fund outflows",
-      "description": "Equity benchmark indices Sensex and Nifty tumbled in early trade on Tuesday as elevated crude oil prices due\u00a0 to uncertainty over the West Asia situation and foreign fund outflows weighed on investors\u2019 sentiment.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-tumble-in-early-trade-dragged-by-elevated-crude-oil-prices-foreign-fund-outflows/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWViM2ZmMTYwLWJiYmYtMTFmMS1iN2M0LWQ5MzYzYTY1OTBjNy5qcGc=",
-      "publishedAt": "2026-09-29T04:40:34Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Rupee falls 16 paise to 96.13 against US dollar in early trade",
-      "description": "Rupee slips 16 paise to 96.13 against the dollar amid firm oil prices and portfolio outflows, with equities falling early trade.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-16-paise-to-9613-against-us-dollar-in-early-trade/article71522527.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/qayzk3/article71522532.ece/alternates/LANDSCAPE_1200/IMG_iStock-1134368552.jp_2_1_OAANUF38.jpg",
-      "publishedAt": "2026-09-29T04:38:54Z",
+      "title": "Gold edges up from 7-week low; all eyes on West Asia, US economic data",
+      "description": "Oil prices rise for a second successive session amid lingering \u200cconcern over West Asia supply disruption. Elevated oil prices \u200bcan fuel inflation by increasing costs across the economy",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-up-from-7-week-low-all-eyes-on-west-asia-us-economic-data/article71522988.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/jma2p3/article71512338.ece/alternates/LANDSCAPE_1200/2026-02-15T095423Z_55170278_RC2OFJAZ4CF0_RTRMADP_3_GLOBAL-PRECIOUS-GOLD-EGYPT.JPG",
+      "publishedAt": "2026-09-29T09:19:56Z",
       "source": {
         "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Seoul stocks fall for 2nd day on inflation woes",
+      "description": "Seoul stocks fall for 2nd day on inflation woes - Seoul, Sep 29 South Korean shares retreated on Tuesday as rising oil prices fuelled inflation concerns and pushed ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/seoul-stocks-fall-for-2nd-day-on-inflation-woes-1/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260420391f_202609.jpg",
+      "publishedAt": "2026-09-29T09:09:29Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Premarket: Elevated yields, higher oil prices test global stocks as rate fears persist",
+      "description": "U.S. futures point to a mixed open",
+      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-elevated-yields-higher-oil-prices-test-global-stocks-as-rate/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/7UE4RXYHWBFEHMK4ZO4RIG7CUY.jpg?auth=25fc1d090a535c5f030ce071e27978c907ad199c86c13bafe17c34333d32c6c3&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-09-29T09:09:28Z",
+      "source": {
+        "name": "The Globe and Mail"
+      }
+    },
+    {
+      "title": "Donald Trump denies offering Iran sanctions relief, Tehran says ready for talks",
+      "description": "Donald Trump denies offering Iran anything to end the war, rejecting reports of easing sanctions. Iran insists on diplomacy for a nuclear deal, as oil prices ri",
+      "url": "https://www.cnbctv18.com/world/donald-trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-20000813.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/antonio-gracias-9-2026-09-fbf76591129af132172ec1d24de544ab.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-29T09:08:46Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Oil prices rise on continued Middle East supply concerns",
+      "description": "U.S. crude and \u200bgasoline inventories expected to have fallen: poll",
+      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-rise-on-continued-middle-east-supply-concerns/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/TJCNJJBQFFAT5FCCNPQOIDCPIU.JPG?auth=15a9fe8248e01478949e97d669ea37126640d1da1b97e79c67572018f13d0738&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-09-29T09:07:17Z",
+      "source": {
+        "name": "The Globe and Mail"
+      }
+    },
+    {
+      "title": "LIZ PEEK: America can\u2019t afford to hand the economy back to Democrats",
+      "description": "Donald Trump's war with Iran and rising gas prices shouldn't push voters toward candidates like Michigan Senate hopeful Abdul El-Sayed, an opinion columnist argues.",
+      "url": "https://www.foxnews.com/opinion/liz-peek-americans-dont-vote-crazy-over-normal-midterms",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/abdul-el-sayed-february-2026.jpg",
+      "publishedAt": "2026-09-29T09:00:46Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
+    {
+      "title": "US Dollar keeps climbing as oil, US yields stay high; jobs data looms",
+      "description": "The US dollar rose on Tuesday, set to surpass several-month highs against major peers, as volatile oil prices and a rapid climb in Treasury yields lent support, while the Aussie struggled as traders saw a dovish message hidden inside a rate hike",
+      "url": "https://www.thestar.com.my/business/2026/09/29/us-dollar-keeps-climbing-as-oil-us-yields-stay-high-jobs-data-looms",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/29/4135913.jpg",
+      "publishedAt": "2026-09-29T08:52:00Z",
+      "source": {
+        "name": "The Star"
       }
     }
   ]
