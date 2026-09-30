@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-30T17:13:37+00:00",
+  "updated_at": "2026-09-30T21:39:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex rises 130 points, Nifty falls below 22,700 amid cooling oil, rising bond yields. What lies ahead?",
-      "description": "Indian shares traded mixed as easing oil prices supported sentiment, while surging US bond yields kept investors cautious. Sensex gained around 130 points, while Nifty slipped below 22,700 amid weak global cues.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-130-points-nifty-falls-below-22700-amid-cooling-oil-rising-bond-yields-what-lies-ahead/articleshow/134582066.cms",
-      "image": "https://img.etimg.com/thumb/msid-134582105,width-1200,height-630,imgsize-2497600,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-30T05:04:00Z",
+      "title": "Govt Notifies CAFE-3 Norms: Small Cars Get No Special Relief, EV Incentives Retained",
+      "description": "The Ministry of Power has notified CAFE-3 fuel efficiency norms, ending a long debate over concessions for small cars. The final rules remove a proposed special benefit for lightweight petrol vehicles while changing the fleet-weight formula. EVs retain compliance advantages through super credits, and manufacturers get a credit-debit mechanism",
+      "url": "https://www.freepressjournal.in/business/govt-notifies-cafe-3-norms-small-cars-get-no-special-relief-ev-incentives-retained",
+      "image": "https://media.assettype.com/freepressjournal/2023-11/a9f6977f-6171-411b-bb8e-a7e332995b10/Car_Dhanteras.jpg",
+      "publishedAt": "2026-09-30T09:23:54Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Cost of living tops voter concerns as Trump approval on prices sags",
+      "description": "Donald Trump faces a growing cost of living problem as 34% of voters name it the top issue. Grocery prices, gas prices and housing dominate voter concerns.",
+      "url": "https://www.foxnews.com/opinion/lee-carter-trump-get-attention-distract-voters-bills",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/05/trump-no-tax-on-tips-fox-news.jpeg",
+      "publishedAt": "2026-09-30T09:00:51Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
+    {
+      "title": "Stock Futures Rise as Oil Prices, Rate Hike Bets Ease",
+      "description": "By Joe Stonor\nU.S. stock futures rose as market sentiment strengthened in early European trade, with investors checking expectations for near-term Federal Reserve rate hikes and bracing for...",
+      "url": "https://www.marketscreener.com/news/stock-futures-rise-as-oil-prices-rate-hike-bets-ease-ce785ad2dc8cf62c",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-09-30T08:59:23Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "GMB ITV Scottish star Nick Dixon makes fuel 'schoolboy error' at petrol station say fans",
+      "description": "GMB correspondent Nick Dixon, a former Scotland Today reporter, was given some plain-speaking advice by his followers",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/motoring/gmb-itv-scottish-star-nick-37717424",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37717503.ece/ALTERNATES/s1200d/0_nickdixon2.jpg",
+      "publishedAt": "2026-09-30T08:52:41Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Crude surged. Why didn\u2019t India\u2019s petrol prices?",
+      "description": "As the West Asia conflict drove up oil costs, India kept a much larger rise from reaching the pump. This explainer dives into how protection came from diversified supplies, a tax cut, losses absorbed by fuel retailers and an ethanol programme built before the crisis.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/crude-surged-why-didnt-indias-petrol-prices/articleshow/134586836.cms",
+      "image": "https://img.etimg.com/thumb/msid-134587077,width-1200,height-630,imgsize-92646,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-30T08:21:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Sensex rises 190 points in early trade after two days of losses",
-      "description": "Market benchmark indices Sensex and Nifty rebounded in early trade on Wednesday after two days of losses amid easing crude oil prices and buying in blue-chip IT stocks.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-rises-190-points-in-early-trade-after-two-days-of-losses/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWZmNDJmNDEwLWJjOGItMTFmMS1iZDA1LWIxMjRhNDIyZDM2Yi5qcGc=",
-      "publishedAt": "2026-09-30T05:01:25Z",
+      "title": "Global Market: Euro under pressure from energy shock and political risks",
+      "description": "The euro has fallen nearly 2% in September as energy prices, political uncertainty and a stronger dollar weigh on the currency. Concerns over German and French politics, rising borrowing-cost spreads and elevated European gas prices threaten growth. ECB rate expectations offer some support, but markets remain cautious about further euro weakness.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-euro-under-pressure-from-energy-shock-and-political-risks/articleshow/134587000.cms",
+      "image": "https://img.etimg.com/thumb/msid-134587074,width-1200,height-630,imgsize-186898,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-30T08:20:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Diesel taxes in Europe: Which countries charge the most?",
-      "description": "Diesel has overtaken petrol as Europe's most expensive fuel, at a record \u20ac2.226 per litre. Yet EU governments still tax it about 12 cents less than petrol.",
-      "url": "https://www.euronews.com/2026/09/30/diesel-taxes-in-europe-which-countries-charge-the-most",
-      "image": "https://images.euronews.com/articles/stories/09/93/27/75/1200x675_cmsv2_c2bcf933-113a-516d-ae4a-f4f967bdd9c5-9932775.jpg",
-      "publishedAt": "2026-09-30T05:00:17Z",
+      "title": "2027 BMW i3: Electric 3 Series to deliver solid performance and driving range",
+      "description": "BMW\u2019s all-new electric 3 Series will be sandwiched between two petrol variants, with the i3 50xDrive offering more than 900km of range.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2027-bmw-i3-electric-3-series-to-deliver-solid-performance-and-driving-range-c-22949926",
+      "image": "https://images.perthnow.com.au/publication/C-22949926/3a7f9cb56127bd71825ce1f2ef7602201740244d-16x9-x0y227w4372h2459.jpg?imwidth=1200",
+      "publishedAt": "2026-09-30T08:19:24Z",
       "source": {
-        "name": "Euronews"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Stockport criminal arrested at Florida petrol station is hauled back into court",
-      "description": "Steven Wright was ordered to hand over thousands of pounds at a court hearing",
-      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/stockport-criminal-arrested-florida-petrol-34692022",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34692028.ece/ALTERNATES/s1200d/0_stevenwright.jpg",
-      "publishedAt": "2026-09-30T04:59:11Z",
+      "title": "2027 BMW i3: Electric 3 Series to deliver solid performance and driving range",
+      "description": "BMW\u2019s all-new electric 3 Series will be sandwiched between two petrol variants, with the i3 50xDrive offering more than 900km of range.",
+      "url": "https://7news.com.au/motoring/2027-bmw-i3-electric-3-series-to-deliver-solid-performance-and-driving-range-c-22949925",
+      "image": "https://images.7news.com.au/publication/C-22949925/3a7f9cb56127bd71825ce1f2ef7602201740244d-16x9-x0y227w4372h2459.jpg?imwidth=1200",
+      "publishedAt": "2026-09-30T08:19:24Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Electric cars more reliable than petrol vehicles after 60,000 miles",
-      "description": "Experts have called for the battery health of EVs to be monitored during MOT tests.",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/electric-cars-more-reliable-petrol-34653470",
-      "image": "https://i2-prod.birminghammail.co.uk/article34653498.ece/ALTERNATES/s1200d/0_ev.jpg",
-      "publishedAt": "2026-09-30T04:56:00Z",
+      "title": "BMW reinvents the petrol 3 Series for the Neue Klasse era - but there\u2019s a price",
+      "description": "Massive update for the ever popular sports saloon as it gets the styling and cabin of its electric cousin",
+      "url": "https://www.irishtimes.com/motors/2026/09/30/bmw-reinvents-the-petrol-3-series-for-the-neue-klasse-era-but-theres-a-price/",
+      "image": "https://www.irishtimes.com/resizer/v2/O6HTAZRSTVHLPOT5KJFX7BNVQA.jpg?smart=true&auth=36d8f5c40b2a640715484668add89c0e91f6d99a5417940b3614f04b9332b4de&width=1200&height=630",
+      "publishedAt": "2026-09-30T08:04:02Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "The Irish Times"
       }
     },
     {
-      "title": "Rupee trades in narrow range against U.S. dollar in early trade",
-      "description": "Rupee trades narrowly near 95.97 per dollar as dollar demand, outflows, and oil prices weigh, with RBI intervention and global cues in focus.",
-      "url": "https://www.thehindu.com/business/markets/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71526794.ece",
-      "image": "https://th-i.thgim.com/public/incoming/7nwbo7/article71526827.ece/alternates/LANDSCAPE_1200/iStock-2230945418.jpg",
-      "publishedAt": "2026-09-30T04:54:15Z",
+      "title": "BMW 3 Series enters eighth generation with new i3 and M350 xDrive",
+      "description": "BMW has unveiled the eighth-generation 3 Series with Neue Klasse-inspired styling, new electric i3 variants, petrol engines with mild-hybrid technology, and the performance-focused M350 xDrive flagship.",
+      "url": "https://www.indiatoday.in/auto/cars/story/bmw-3-series-enters-eighth-generation-with-new-i3-and-m350-xdrive-3006375-2026-09-30",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/bmw-3-series-304129935-16x9_0.jpg?VersionId=dBvGw7JzmWqJuQXYUc6bJOUpRuhAy26h",
+      "publishedAt": "2026-09-30T07:41:36Z",
       "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "Newsom seeks cheaper fuel blend as gas prices soar",
-      "description": "We're just a few cents away from breaking another gas-prices record in Southern California.",
-      "url": "https://abc7.com/post/california-governor-gavin-newsom-seeks-cheaper-fuel-blend-as-gas-prices-soar/19890264/",
-      "image": "https://cdn.abcotvs.com/dip/images/19890388_gas-prices.jpg?w=1600",
-      "publishedAt": "2026-09-30T04:52:00Z",
-      "source": {
-        "name": "KABC-TV"
-      }
-    },
-    {
-      "title": "Inflation leaps to 4% stoking fears of fifth interest rate hike before Christmas",
-      "description": "Jim Chalmers says \u2018higher global oil prices flowing through to oil prices in Australia\u2019 are to blame for inflation rising from 3.5%",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/30/australia-inflation-rise-stokes-fears-fifth-interest-rate-hike-before-christmas",
-      "image": "https://i.guim.co.uk/img/media/8e91d809446ddce2562ab99dea42f3fe65e322d1/150_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7bec58f4ea7fbf5491db0e97c556dcd",
-      "publishedAt": "2026-09-30T04:40:25Z",
-      "source": {
-        "name": "The Guardian"
-      }
-    },
-    {
-      "title": "Man injured in Bidor petrol station shooting",
-      "description": "IPOH: A 41-year-old man was injured after two gunmen fired several shots at his vehicle at a petrol station in Bidor.",
-      "url": "https://www.thestar.com.my/news/nation/2026/09/30/man-injured-in-bidor-petrol-station-shooting",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/30/4137258.jpg",
-      "publishedAt": "2026-09-30T04:18:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Nifty slips 0.16%, Sensex gains 132 points as investors weigh volatile crude",
-      "description": "The Nifty 50 opened lower on Wednesday while the Sensex gained 0.18 per cent, as investors remained cautious amid volatile crude prices and concerns over global yields, with analysts expecting the market's near-term direction to depend on oil prices and key technical levels.",
-      "url": "https://www.tribuneindia.com/news/business/nifty-slips-0-16-sensex-gains-132-points-as-investors-weigh-volatile-crude/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWUzNjljY2IwLWJjODUtMTFmMS1iZDA1LWIxMjRhNDIyZDM2Yi5qcGc=",
-      "publishedAt": "2026-09-30T04:17:36Z",
-      "source": {
-        "name": "The Tribune"
+        "name": "India Today"
       }
     }
   ]
