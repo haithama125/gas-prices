@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-30T02:59:22+00:00",
+  "updated_at": "2026-09-30T11:34:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "EU warns of 'very high' energy prices",
-      "description": "The EU's energy commissioner has warned the bloc was headed for a tough winter with \"very high\" oil and gas prices owing to the US-Iran war, but did not forecast security of supply issues.",
-      "url": "https://www.rte.ie/news/business/2026/0929/1593394-eu-warns-of-very-high-energy-prices/",
-      "image": "https://www.rte.ie/images/001c8121-1600.jpg",
-      "publishedAt": "2026-09-29T14:59:00Z",
+      "title": "Squeezed at the pump: Rising gas prices strain Midlands as local rideshare driver navigates surging costs",
+      "description": "Across the Capital City, drivers pulling up to the fuel pump are facing an expensive reality: regular unleaded gasoline has climbed well past $4 a gallon, while diesel prices are topping $6 a gallon.",
+      "url": "https://www.wistv.com/2026/09/29/squeezed-pump-rising-gas-prices-strain-midlands-local-rideshare-driver-navigates-surging-costs/",
+      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/NR4QQWOH2RBWDNAXGTYAK5KS3A.png?auth=ef2e4e8fff948c0ee3826c26e34142947f353520b1991e59cb0efdbadd05e31c&width=1200&height=600&smart=true",
+      "publishedAt": "2026-09-29T22:34:22Z",
       "source": {
-        "name": "RTE.ie"
+        "name": "WIS10"
       }
     },
     {
-      "title": "Petrol and Diesel drivers urged to fill up before Thursday",
-      "description": "Drivers need to take action, according to an expert.",
-      "url": "https://www.express.co.uk/life-style/cars/2252949/petrol-diesel-drivers-fill-thursday",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7165063.jpg",
-      "publishedAt": "2026-09-29T14:46:00Z",
+      "title": "Sen. Tim Kaine weighs in on rising gas prices in Virginia",
+      "description": "For many Virginians, filling up the gas tank isn\u2019t getting any easier. Gas prices continue to climb.",
+      "url": "https://wjla.com/news/local/sen-tim-kaine-weighs-in-on-rising-gas-prices-in-virginia-september-2026",
+      "image": "https://wjla.com/resources/media2/16x9/5000/1320/0x261/90/9490c10e-5354-4cb7-9843-998e0553d7f9-AP26062803692334.jpg",
+      "publishedAt": "2026-09-29T22:10:27Z",
       "source": {
-        "name": "Daily Express"
+        "name": "WJLA"
       }
     },
     {
-      "title": "Gov. Newsom moves to lower gas prices as California sees record costs at the pump",
-      "description": "California is switching early to winter-blend gasoline as Newsom directs the suspension of summer fuel as a way to combat high gas prices, his office announced Monday.",
-      "url": "https://www.mercurynews.com/2026/09/29/newsom-moves-to-lower-gas-prices-as-california-sees-record-costs-at-the-pump-3/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609282049MCT_____PHOTO____US-NEWS-CALIF-GAS-PRICES-FILEPIC-LA_33f5f7.jpg?w=2000&h=1334",
-      "publishedAt": "2026-09-29T14:45:56Z",
+      "title": "Gas is expensive! Here\u2019s how to get it cheaper",
+      "description": "Gas prices getting you down? Can't believe how much it costs to fill your tank? There is a solution. You can fill up for less. Here's how.",
+      "url": "https://www.nj.com/shopping-deals/2026/09/gas-is-expensive-heres-how-to-get-it-cheaper.html",
+      "image": "https://www.nj.com/resizer/v2/YFG5MX7T7JDUZGTNADDVMV3WRA.png?auth=88042dbcf5e2287bd8fac0329cd9bc88698b71be4175e1c37d34ebb35e404044&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-29T21:35:00Z",
       "source": {
-        "name": "The Mercury News"
+        "name": "NJ.com"
       }
     },
     {
-      "title": "Gold price today: Why is gold near a 7-week low as oil prices rise?",
-      "description": "Gold price today stays near a 7-week low as oil prices and US Treasury yields rise, raising inflation and Fed rate hike concerns for gold investors.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/gold-price-today-why-is-gold-near-a-7-week-low-as-oil-prices-rise-101790692133955.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/pexels-photo-8442322_1790692245833_b12E_1790692257542_vuw0_41b195d6-33c3-4d5b-b469-876ba501b2d3_5k0w.jpeg",
-      "publishedAt": "2026-09-29T14:37:08Z",
+      "title": "Gas is expensive! Here\u2019s how to get it cheaper",
+      "description": "Gas prices getting you down? Can't believe how much it costs to fill your tank? There is a solution. You can fill up for less. Here's how.",
+      "url": "https://www.silive.com/shopping-deals/2026/09/gas-is-expensive-heres-how-to-get-it-cheaper.html",
+      "image": "https://www.silive.com/resizer/v2/YFG5MX7T7JDUZGTNADDVMV3WRA.png?auth=88042dbcf5e2287bd8fac0329cd9bc88698b71be4175e1c37d34ebb35e404044&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-09-29T21:35:00Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Staten Island Advance"
       }
     },
     {
-      "title": "Americans growing more pessimistic about economy as prices stay high",
-      "description": "Americans\u2019 confidence in the economy deteriorated this month as gas prices remain elevated and wages stagnate amid the ongoing Iran war.",
-      "url": "https://www.twincities.com/2026/09/29/consumer-confidence-september/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/09/Gasoline_Prices_Colorado_123_9-1.jpg?w=2000&h=1500",
-      "publishedAt": "2026-09-29T14:20:58Z",
+      "title": "UK airbase mystery deepens as police find petrol, not explosives",
+      "description": "A new theory about the five men arrested near RAF Fairford on Sunday suggests they could be little more than fuel thieves.",
+      "url": "https://www.sbs.com.au/news/article/uk-airbase-mystery-deepens-as-police-find-petrol-not-explosives/1yi6vaka1",
+      "image": "https://assets.sbs.com.au/dims4/default/a7e139b/2147483647/strip/true/crop/3864x2174+0+185/resize/1280x720!/quality/90/?url=https%3A%2F%2Fsbs-au-brightspot.s3.ap-southeast-2.amazonaws.com%2F84%2Fbc%2F1691c05548d2bf2519605e9cea35%2F20260929120904527114-original.jpg",
+      "publishedAt": "2026-09-29T21:26:34Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "SBS Australia"
       }
     },
     {
-      "title": "British police find no explosives in vans linked to 5 men detained near U.S.-run military base",
-      "description": "The UK's Counter Terrorism Policing said petrol was recovered from three vans near RAF Fairford.",
-      "url": "https://www.pbs.org/newshour/world/british-police-find-no-explosives-in-vans-linked-to-5-men-detained-near-u-s-run-military-base",
-      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-27T101656Z_1944823561_RC2MRNAVCTNA_RTRMADP_3_BRITAIN-USA-FAIRFORD-1024x683.jpg",
-      "publishedAt": "2026-09-29T14:14:29Z",
+      "title": "US states take steps to curb diesel and gasoline prices",
+      "description": "US states are taking a range of steps to curb diesel and gasoline prices that have soared in recent months due to \u200bsupply disruptions stemming from the US war on Iran, Ukrainian strikes on Russia's refineries, and dwindling global inventories.",
+      "url": "https://www.reuters.com/business/energy/us-states-take-steps-curb-diesel-gasoline-prices-2026-09-29/",
+      "image": "https://www.reuters.com/resizer/v2/QU4BRWTDEVPXRI2SPTG5ISDGTU.jpg?auth=79d1f2d8b49475fd6b22d76497ecc72add1de6679a69f9a13d737f31dd189abc&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-09-29T21:25:05Z",
       "source": {
-        "name": "PBS News"
+        "name": "Reuters"
       }
     },
     {
-      "title": "US stocks open higher as tech shares gain, oil prices ease; Treasury yield hits 2004 high",
-      "description": "US stocks opened mixed on Tuesday, with the Nasdaq and S&P 500 rising as tech shares gained and oil prices and Treasury yields eased. AMD, Nvidia and Meta Platforms advanced, while investors awaited key US economic data.",
-      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-jones-tech-oil-treasury-yields-20001254.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-29T14:05:22Z",
+      "title": "Utilities Shares Among Top Winners -- Utilities Roundup",
+      "description": "The utilities sector rode high on declining energy costs. Crude oil prices fell, with the WTI closing at its lowest levels in a month, at $89.38 a barrel. Meanwhile, natural gas futures approached the...\n-September 29, 2026 at 05:22 pm EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/utilities-shares-among-top-winners-utilities-roundup-ce785ad2d88cf622",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-09-29T21:22:12Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Construction Ban, Dust Control: Delhi's Winter Action Plan Explained",
-      "description": "Starting November 1, petrol and diesel vehicles registered outside Delhi and not meeting BS-VI standards will be banned from entering the city, though CNG and electric vehicles are exempt.",
-      "url": "https://www.ndtv.com/india-news/construction-ban-dust-control-delhis-winter-action-plan-explained-12115511",
-      "image": "https://c.ndtvimg.com/2026-01/heamaqt_delhi-pollution_625x300_02_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-09-29T13:55:59Z",
+      "title": "Toyota global sales, production in August fall for 2nd straight month",
+      "description": "Toyota Motor Corp said Tuesday its global sales fell 6.4 percent from a year earlier to 790,743 units in August, marking the second straight month of decline, due to weak demand in China amid rising gasoline prices stemming from the Middle East conflict. Global production dropped 5.9 percent from the\u2026",
+      "url": "https://japantoday.com/category/business/update1-toyota-global-sales-production-in-aug.-fall-for-2nd-straight-month",
+      "image": "https://media.japantoday.com/img/store/43/69/65c515a88d7ce9951d23bab9a45e53e3afca/_w1700-35-1/_w1700.jpg",
+      "publishedAt": "2026-09-29T21:00:00Z",
       "source": {
-        "name": "NDTV.com"
+        "name": "Japan Today"
       }
     },
     {
-      "title": "US stocks: S&P, Nasdaq open higher on oil retreat, tech optimism",
-      "description": "The S&P 500 and Nasdaq experienced gains as oil prices retreated, bolstering optimism among technology stocks, partly due to media buzz surrounding Anthropic's impending public offering.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-nasdaq-open-higher-on-oil-retreat-tech-optimism/articleshow/134568670.cms",
-      "image": "https://img.etimg.com/thumb/msid-134568687,width-1200,height-630,imgsize-94660,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-09-29T13:50:00Z",
+      "title": "RAF Fairford 'terror plot' foiled after suspect called police",
+      "description": "Scotland Yard also confirmed no improvised explosive devices were found in the three vans discovered near RAF Fairford, but a \u2018quantity of petrol was recovered\u2019",
+      "url": "https://www.standard.co.uk/news/london/raf-fairford-terror-plot-suspect-police-call-b1298897.html",
+      "image": "https://static.standard.co.uk/2026/09/29/18/01M3PHX37WJN0HCJ5RKTXAMDJF.jpg?width=1200&auto=webp&quality=75",
+      "publishedAt": "2026-09-29T19:59:17Z",
+      "source": {
+        "name": "Evening Standard"
+      }
+    },
+    {
+      "title": "No explosives found in UK airbase probe",
+      "description": "Britain's counter-terrorism police investigated a suspected plot related to a British airbase utilised by US forces. No improvised explosive devices were discovered during the investigation, which focused on search operations. A quantity of petrol was recovered from vehicles at the scene, while searches of properties in London were conducted. Five men were arrested on Sunday and are under investigation but have been released on bail.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/no-explosives-found-in-uk-airbase-probe/articleshow/134573521.cms",
+      "image": "https://img.etimg.com/thumb/msid-134573546,width-1200,height-630,imgsize-99970,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-09-29T19:35:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Why are Dow, S&P 500 and Nasdaq futures wavering today? AI concerns, oil prices in focus",
-      "description": "Dow, S&P 500 and Nasdaq futures waver as AI safety concerns, oil prices, AMD, Nvidia, Anthropic, OpenAI and key US economic data remain in focus.\u00a0 | Business News",
-      "url": "https://www.hindustantimes.com/business/why-are-dow-s-p-500-and-nasdaq-futures-wavering-today-ai-concerns-oil-prices-in-focus-101790688919361.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/US-MARKETS-TAKE-A-PLUNGE-AMID-NEW-INFLATION-NUMBER_1790689000215_BQPS_1790689000327_5ds5_6240b9ea-6bfc-43ae-9a64-9b9d816e75a0_nKpF.jpg",
-      "publishedAt": "2026-09-29T13:43:39Z",
-      "source": {
-        "name": "Hindustan Times"
       }
     }
   ]
