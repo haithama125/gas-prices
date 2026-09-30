@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-09-29T21:38:40+00:00",
+  "updated_at": "2026-09-30T02:59:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Asda hands diesel drivers 5p a litre off as prices hit all time high",
-      "description": "Asda is handing diesel drivers 5p per litre off fuel - and it also applies to petrol.",
-      "url": "https://www.express.co.uk/finance/personalfinance/2252737/asda-hands-diesel-drivers-5p",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7163854.jpg",
-      "publishedAt": "2026-09-29T09:38:00Z",
+      "title": "EU warns of 'very high' energy prices",
+      "description": "The EU's energy commissioner has warned the bloc was headed for a tough winter with \"very high\" oil and gas prices owing to the US-Iran war, but did not forecast security of supply issues.",
+      "url": "https://www.rte.ie/news/business/2026/0929/1593394-eu-warns-of-very-high-energy-prices/",
+      "image": "https://www.rte.ie/images/001c8121-1600.jpg",
+      "publishedAt": "2026-09-29T14:59:00Z",
+      "source": {
+        "name": "RTE.ie"
+      }
+    },
+    {
+      "title": "Petrol and Diesel drivers urged to fill up before Thursday",
+      "description": "Drivers need to take action, according to an expert.",
+      "url": "https://www.express.co.uk/life-style/cars/2252949/petrol-diesel-drivers-fill-thursday",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7165063.jpg",
+      "publishedAt": "2026-09-29T14:46:00Z",
       "source": {
         "name": "Daily Express"
       }
     },
     {
-      "title": "Ineos idles Europe's last world",
-      "description": "Ineos has announced the mothballing of all three acetyls production units at its Hull facility in the United Kingdom, citing European gas prices now running at 12 times the level of those in the United States. The shutdown affects Europe's last remaining world-scale acetyls plants, with implications for a broad range of downstream industries, including coatings and construction materials.",
-      "url": "https://www.european-coatings.com/news/markets-companies/ineos-idles-europes-last-world-scale-acetyls-plant/",
-      "image": "https://www.european-coatings.com/wp-content/uploads/sites/2/2026/09/thawornnurak-stock.adobe_.com-AdobeStock_167746554-1024x683.jpeg",
-      "publishedAt": "2026-09-29T09:32:33Z",
+      "title": "Gov. Newsom moves to lower gas prices as California sees record costs at the pump",
+      "description": "California is switching early to winter-blend gasoline as Newsom directs the suspension of summer fuel as a way to combat high gas prices, his office announced Monday.",
+      "url": "https://www.mercurynews.com/2026/09/29/newsom-moves-to-lower-gas-prices-as-california-sees-record-costs-at-the-pump-3/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/09/202609282049MCT_____PHOTO____US-NEWS-CALIF-GAS-PRICES-FILEPIC-LA_33f5f7.jpg?w=2000&h=1334",
+      "publishedAt": "2026-09-29T14:45:56Z",
       "source": {
-        "name": "European Coatings"
+        "name": "The Mercury News"
       }
     },
     {
-      "title": "Why global diesel prices are rising and Indian retailers are limiting sales",
-      "description": "A global diesel supply squeeze has pushed up prices as Gulf and Russian supplies face disruptions; in India, industrial buyers are turning to petrol pumps, putting pressure on retail outlets",
-      "url": "https://www.business-standard.com/economy/news/global-diesel-prices-us-iran-conflict-west-asia-war-india-petrol-supply-126092900632_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/12/thumb/fitandfill/1200X628/1786506997-0539.jpg",
-      "publishedAt": "2026-09-29T09:21:53Z",
+      "title": "Gold price today: Why is gold near a 7-week low as oil prices rise?",
+      "description": "Gold price today stays near a 7-week low as oil prices and US Treasury yields rise, raising inflation and Fed rate hike concerns for gold investors.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/gold-price-today-why-is-gold-near-a-7-week-low-as-oil-prices-rise-101790692133955.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/pexels-photo-8442322_1790692245833_b12E_1790692257542_vuw0_41b195d6-33c3-4d5b-b469-876ba501b2d3_5k0w.jpeg",
+      "publishedAt": "2026-09-29T14:37:08Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Gold edges up from 7-week low; all eyes on West Asia, US economic data",
-      "description": "Oil prices rise for a second successive session amid lingering \u200cconcern over West Asia supply disruption. Elevated oil prices \u200bcan fuel inflation by increasing costs across the economy",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-up-from-7-week-low-all-eyes-on-west-asia-us-economic-data/article71522988.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/jma2p3/article71512338.ece/alternates/LANDSCAPE_1200/2026-02-15T095423Z_55170278_RC2OFJAZ4CF0_RTRMADP_3_GLOBAL-PRECIOUS-GOLD-EGYPT.JPG",
-      "publishedAt": "2026-09-29T09:19:56Z",
+      "title": "Americans growing more pessimistic about economy as prices stay high",
+      "description": "Americans\u2019 confidence in the economy deteriorated this month as gas prices remain elevated and wages stagnate amid the ongoing Iran war.",
+      "url": "https://www.twincities.com/2026/09/29/consumer-confidence-september/",
+      "image": "https://www.twincities.com/wp-content/uploads/2026/09/Gasoline_Prices_Colorado_123_9-1.jpg?w=2000&h=1500",
+      "publishedAt": "2026-09-29T14:20:58Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "St. Paul Pioneer Press"
       }
     },
     {
-      "title": "Seoul stocks fall for 2nd day on inflation woes",
-      "description": "Seoul stocks fall for 2nd day on inflation woes - Seoul, Sep 29 South Korean shares retreated on Tuesday as rising oil prices fuelled inflation concerns and pushed ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/seoul-stocks-fall-for-2nd-day-on-inflation-woes-1/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260420391f_202609.jpg",
-      "publishedAt": "2026-09-29T09:09:29Z",
+      "title": "British police find no explosives in vans linked to 5 men detained near U.S.-run military base",
+      "description": "The UK's Counter Terrorism Policing said petrol was recovered from three vans near RAF Fairford.",
+      "url": "https://www.pbs.org/newshour/world/british-police-find-no-explosives-in-vans-linked-to-5-men-detained-near-u-s-run-military-base",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/09/2026-09-27T101656Z_1944823561_RC2MRNAVCTNA_RTRMADP_3_BRITAIN-USA-FAIRFORD-1024x683.jpg",
+      "publishedAt": "2026-09-29T14:14:29Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "PBS News"
       }
     },
     {
-      "title": "Premarket: Elevated yields, higher oil prices test global stocks as rate fears persist",
-      "description": "U.S. futures point to a mixed open",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-elevated-yields-higher-oil-prices-test-global-stocks-as-rate/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/7UE4RXYHWBFEHMK4ZO4RIG7CUY.jpg?auth=25fc1d090a535c5f030ce071e27978c907ad199c86c13bafe17c34333d32c6c3&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-09-29T09:09:28Z",
-      "source": {
-        "name": "The Globe and Mail"
-      }
-    },
-    {
-      "title": "Donald Trump denies offering Iran sanctions relief, Tehran says ready for talks",
-      "description": "Donald Trump denies offering Iran anything to end the war, rejecting reports of easing sanctions. Iran insists on diplomacy for a nuclear deal, as oil prices ri",
-      "url": "https://www.cnbctv18.com/world/donald-trump-denies-offering-iran-sanctions-relief-tehran-says-ready-for-talks-20000813.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/antonio-gracias-9-2026-09-fbf76591129af132172ec1d24de544ab.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-09-29T09:08:46Z",
+      "title": "US stocks open higher as tech shares gain, oil prices ease; Treasury yield hits 2004 high",
+      "description": "US stocks opened mixed on Tuesday, with the Nasdaq and S&P 500 rising as tech shares gained and oil prices and Treasury yields eased. AMD, Nvidia and Meta Platforms advanced, while investors awaited key US economic data.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-dow-jones-tech-oil-treasury-yields-20001254.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-15t181421872-2026-07-f66e24a65e74dab1770597c1c643e3f3.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-09-29T14:05:22Z",
       "source": {
         "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil prices rise on continued Middle East supply concerns",
-      "description": "U.S. crude and \u200bgasoline inventories expected to have fallen: poll",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-rise-on-continued-middle-east-supply-concerns/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/TJCNJJBQFFAT5FCCNPQOIDCPIU.JPG?auth=15a9fe8248e01478949e97d669ea37126640d1da1b97e79c67572018f13d0738&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-09-29T09:07:17Z",
+      "title": "Construction Ban, Dust Control: Delhi's Winter Action Plan Explained",
+      "description": "Starting November 1, petrol and diesel vehicles registered outside Delhi and not meeting BS-VI standards will be banned from entering the city, though CNG and electric vehicles are exempt.",
+      "url": "https://www.ndtv.com/india-news/construction-ban-dust-control-delhis-winter-action-plan-explained-12115511",
+      "image": "https://c.ndtvimg.com/2026-01/heamaqt_delhi-pollution_625x300_02_January_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-09-29T13:55:59Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "NDTV.com"
       }
     },
     {
-      "title": "LIZ PEEK: America can\u2019t afford to hand the economy back to Democrats",
-      "description": "Donald Trump's war with Iran and rising gas prices shouldn't push voters toward candidates like Michigan Senate hopeful Abdul El-Sayed, an opinion columnist argues.",
-      "url": "https://www.foxnews.com/opinion/liz-peek-americans-dont-vote-crazy-over-normal-midterms",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/abdul-el-sayed-february-2026.jpg",
-      "publishedAt": "2026-09-29T09:00:46Z",
+      "title": "US stocks: S&P, Nasdaq open higher on oil retreat, tech optimism",
+      "description": "The S&P 500 and Nasdaq experienced gains as oil prices retreated, bolstering optimism among technology stocks, partly due to media buzz surrounding Anthropic's impending public offering.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-sp-nasdaq-open-higher-on-oil-retreat-tech-optimism/articleshow/134568670.cms",
+      "image": "https://img.etimg.com/thumb/msid-134568687,width-1200,height-630,imgsize-94660,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-09-29T13:50:00Z",
       "source": {
-        "name": "Fox News"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "US Dollar keeps climbing as oil, US yields stay high; jobs data looms",
-      "description": "The US dollar rose on Tuesday, set to surpass several-month highs against major peers, as volatile oil prices and a rapid climb in Treasury yields lent support, while the Aussie struggled as traders saw a dovish message hidden inside a rate hike",
-      "url": "https://www.thestar.com.my/business/2026/09/29/us-dollar-keeps-climbing-as-oil-us-yields-stay-high-jobs-data-looms",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/09/29/4135913.jpg",
-      "publishedAt": "2026-09-29T08:52:00Z",
+      "title": "Why are Dow, S&P 500 and Nasdaq futures wavering today? AI concerns, oil prices in focus",
+      "description": "Dow, S&P 500 and Nasdaq futures waver as AI safety concerns, oil prices, AMD, Nvidia, Anthropic, OpenAI and key US economic data remain in focus.\u00a0 | Business News",
+      "url": "https://www.hindustantimes.com/business/why-are-dow-s-p-500-and-nasdaq-futures-wavering-today-ai-concerns-oil-prices-in-focus-101790688919361.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/29/1600x900/logo/US-MARKETS-TAKE-A-PLUNGE-AMID-NEW-INFLATION-NUMBER_1790689000215_BQPS_1790689000327_5ds5_6240b9ea-6bfc-43ae-9a64-9b9d816e75a0_nKpF.jpg",
+      "publishedAt": "2026-09-29T13:43:39Z",
       "source": {
-        "name": "The Star"
+        "name": "Hindustan Times"
       }
     }
   ]
