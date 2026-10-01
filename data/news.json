@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-01T03:05:38+00:00",
+  "updated_at": "2026-10-01T12:03:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The 10 most vulnerable House members just over a month before Election Day",
-      "description": "With less than five weeks to go until the midterm elections, Republicans face historical headwinds as the party in power and must also contend with high gas prices amid the ongoing Iran war.",
-      "url": "https://www.spokesman.com/stories/2026/sep/30/the-10-most-vulnerable-house-members-just-over-a-m/",
-      "image": "https://thumb.spokesman.com/-8fAApRbxxlqve5n9LP3yWXUE0A=/2400x1260/smart/media.spokesman.com/photos/2026/09/30/6abd5f27d9a8d.hires.jpg",
-      "publishedAt": "2026-09-30T15:04:00Z",
+      "title": "Usual October cheer could be missing after rout last month",
+      "description": "As investors approach October, the landscape is shaped by high crude oil prices, increasing bond yields, and continued foreign selling. Historically, October has favored positive market returns, yet recent downturns could challenge this pattern. With the earnings season on the horizon, corporate profitability, particularly within large-cap stocks, will be under scrutiny.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/usual-october-cheer-could-be-missing-after-rout-last-month/articleshow/134605523.cms",
+      "image": "https://img.etimg.com/thumb/msid-134605561,width-1200,height-900,imgsize-123813,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-01T00:02:00Z",
       "source": {
-        "name": "Spokane Spokesman-Review"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Cigs stolen in early morning burglary at Teesside Park Morrisons petrol station",
-      "description": "The garage at the shopping park in Thornaby was targeted early on Wednesday, September 30",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/burglary-teesside-park-morrisons-cigarettes-34696649",
-      "image": "https://i2-prod.gazettelive.co.uk/article34696766.ece/ALTERNATES/s1200d/1_NCR_MGA_300926_petrol1_result.jpg",
-      "publishedAt": "2026-09-30T15:03:27Z",
+      "title": "Inflation comes in cooler than expected. Diesel could change that",
+      "description": "STORY: :: Dan Burns, US Economics Editor\n:: September 30, 2026\nIt appears that not a lot can slow down this economy. Not a war, not high oil prices, not a lot of...",
+      "url": "https://www.marketscreener.com/news/inflation-comes-in-cooler-than-expected-diesel-could-change-that-ce785ad3da8bf023",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2017-02/2017-02-08T030825Z_1_LYNXMPED17043_RTROPTP_2_OIL-ARBITRAGE.JPG",
+      "publishedAt": "2026-10-01T00:00:47Z",
       "source": {
-        "name": "Teessidelive"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "If turbocharged petrol prices are driving up inflation, then why are Australia\u2019s unemployed on the line?",
-      "description": "Avoiding a rise in unemployment is important for the RBA \u2013 but apparently not a dealbreaker",
-      "url": "https://www.theguardian.com/business/grogonomics/2026/oct/01/turbocharged-petrol-prices-driving-inflation-rba-rates-recession-employment",
-      "image": "https://i.guim.co.uk/img/media/f5bdc6606af42b8de3cc53fe51257a89fe2a77d9/288_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=dc27e47e06f967ca439ffd3a695d0530",
-      "publishedAt": "2026-09-30T15:00:48Z",
+      "title": "President Trump Goes Off on Newsom and California Democrats For State\u2019s Disastrous Oil Policies, High Gas Prices (VIDEO)",
+      "description": "President Trump on Wednesday announced a major $54 billion investment in Alaska liquefied natural gas as part of a broader $350 billion investment deal with\u2026",
+      "url": "https://www.thegatewaypundit.com/2026/09/president-trump-goes-governor-newsom-californias-high-gas/",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2026/09/img_7724-1-1200x630.jpg",
+      "publishedAt": "2026-10-01T00:00:01Z",
       "source": {
-        "name": "The Guardian"
+        "name": "The Gateway Pundit"
       }
     },
     {
-      "title": "A diesel export ban today spells a weaker America tomorrow",
-      "description": "Banning U.S. diesel exports will tighten domestic fuel supplies, drive up gas prices at the pump, and harm global energy security.",
-      "url": "https://www.washingtonexaminer.com/restoring-america/fairness-justice/4745352/us-diesel-export-ban-fuel-prices/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/09/AP26265851530910-e1790201237317.jpg?resize=1200,683",
-      "publishedAt": "2026-09-30T15:00:00Z",
+      "title": "Thar Block II\u2019s Phase III expansion to commence on Oct 5",
+      "description": "ISLAMABAD\u00a0 -\u00a0 Pakistan\u2019s energy sector continues to face mounting challenges as rising demand, costly fuel imports, and volatile global oil prices",
+      "url": "https://www.nation.com.pk/01-Oct-2026/thar-block-ii-s-phase-iii-expansion-commence-oct-5",
+      "image": "https://www.nation.com.pk/print_images/large/2026-10-01/thar-block-ii-s-phase-iii-expansion-commence-oct-5-1790811449-1052.jpg",
+      "publishedAt": "2026-09-30T23:37:00Z",
       "source": {
-        "name": "Washington Examiner"
+        "name": "The Nation"
       }
     },
     {
       "title": "High gas prices are spurring states to waive taxes and regulations amid midterm election",
-      "description": "State officials nationwide are focusing on rising gas and diesel prices tied to the war in Iran. COLUMBUS, Ohio (AP) \u2014 State officials nationwide",
-      "url": "https://www.breitbart.com/news/high-gas-prices-are-spurring-states-to-waive-taxes-and-regulations-amid-midterm-election/",
-      "image": "https://media.breitbart.com/media/2026/09/wi/ap/us-gas-prices-17151-us-gas-prices-customer-checks-gas-price-he-fills-up-vehicle-tank-at-gas-station-640x335.jpg",
-      "publishedAt": "2026-09-30T14:49:27Z",
+      "description": "State officials nationwide are focusing on rising gas and diesel prices tied to the war in Iran. They're offering gas tax holidays and other measures to ease costs as affordability remains a top voter...",
+      "url": "https://www.sfgate.com/news/politics/article/high-gas-prices-are-spurring-states-to-waive-22456960.php",
+      "image": "https://s.hdnux.com/photos/01/67/37/66/31325587/3/rawImage.jpg",
+      "publishedAt": "2026-09-30T22:54:39Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "SFGATE"
       }
     },
     {
-      "title": "No petrol or CNG without valid PUC from October 1: Delhi NCR pollution rules tighten",
-      "description": "The CAQM reviewed preparations and enforcement measures during the 26th meeting of its sub-committee on monitoring and enforcement, chaired by Rajesh Verma on September 29",
-      "url": "https://www.businesstoday.in/india/story/no-petrol-or-cng-without-valid-puc-from-october-1-delhi-ncr-pollution-rules-tighten-558912-2026-09-30",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6abd1a4997237-no-petrol--diesel-or-cng-without-valid-puc-in-delhi-ncr-301848510-16x9.png",
-      "publishedAt": "2026-09-30T14:39:05Z",
+      "title": "4 hurt in Katra road accident",
+      "description": "Excelsior Correspondent KATRA, Sept 30 : Four persons were injured in a road accident in Katra area of district Reasi today. Reports said the mishap took place at Didi Bhangal, near the Petrol Pump on Katra- Reasi road in when...",
+      "url": "https://www.dailyexcelsior.com/4-hurt-in-katra-road-accident/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWEwMjUzYjcwLWJkMWEtMTFmMS1iZDA1LWIxMjRhNDIyZDM2Yi5qcGc=",
+      "publishedAt": "2026-09-30T22:02:19Z",
       "source": {
-        "name": "Business Today"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "High Gas Prices Starting to Hurt High-Income Americans: Meredith Whitney",
-      "description": "Meredith Whitney said there are signs that even high earners are starting to pull back on spending due to higher gas prices.",
-      "url": "https://www.businessinsider.com/high-gas-prices-higer-income-meredith-whitney-iran-war-oil-2026-9",
-      "image": "https://i.insider.com/6abd01e3265e3f8e338f8e8a?width=1200&format=jpeg",
-      "publishedAt": "2026-09-30T14:34:12Z",
+      "title": "High gas prices are spurring states to waive taxes and regulations amid midterm election",
+      "description": "Some states have suspended their fuel taxes. Others have temporarily reduced taxes.",
+      "url": "https://www.baltimoresun.com/2026/09/30/us-gas-tax-states-what-to-know/",
+      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/09/US_Gas_Prices_17151-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-30T21:41:47Z",
       "source": {
-        "name": "Business Insider"
+        "name": "Baltimore Sun"
       }
     },
     {
-      "title": "'I've been monitoring fuel prices for 16 years - here's why I won't buy an EV'",
-      "description": "Rebecca Cook, from York, has kept a record of diesel and petrol prices since 2010 \u2013 a period during which fuel costs have skyrocketed, with diesel now hitting a record high of 199p per litre",
-      "url": "https://www.walesonline.co.uk/news/motoring/motoring-news/ive-been-monitoring-fuel-prices-34695884",
-      "image": "https://i2-prod.walesonline.co.uk/article34695883.ece/ALTERNATES/s1200d/2_Man-charging-car-using-electric-plug-closeup.jpg",
-      "publishedAt": "2026-09-30T14:12:13Z",
+      "title": "High gas prices are spurring states to waive taxes and regulations amid midterm election",
+      "description": "Some states have suspended their fuel taxes. Others have temporarily reduced taxes.",
+      "url": "https://www.bostonherald.com/2026/09/30/us-gas-tax-states-what-to-know/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/09/US_Gas_Prices_17151-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-30T21:41:47Z",
       "source": {
-        "name": "South Wales Echo"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "CAFE-III could push carmakers towards cheaper EVs, costlier ICE vehicles",
-      "description": "Threefold sales weightage for battery EVs could encourage affordable models, while carmakers may price some higher-emission petrol and diesel vehicles higher to meet targets",
-      "url": "https://www.business-standard.com/industry/auto/cafe-iii-could-push-carmakers-towards-cheaper-evs-costlier-ice-vehicles-126093001199_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-12/04/thumb/fitandfill/1200X628/1733296590-0775.jpg",
-      "publishedAt": "2026-09-30T13:44:36Z",
+      "title": "High gas prices are spurring states to waive taxes and regulations amid midterm election",
+      "description": "Some states have suspended their fuel taxes. Others have temporarily reduced taxes.",
+      "url": "https://www.courant.com/2026/09/30/us-gas-tax-states-what-to-know/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/09/US_Gas_Prices_17151-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-30T21:41:47Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Hartford Courant"
       }
     },
     {
-      "title": "'I've been tracking diesel prices since 2010 - but I won't go electric'",
-      "description": "A motorist has been keeping track of fuel prices since 2010 and has seen the cost of diesel and petrol rise dramatically",
-      "url": "https://www.express.co.uk/life-style/cars/2253274/diesel-prices-2010-wont-go-electric",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7166709.jpg",
-      "publishedAt": "2026-09-30T13:35:00Z",
+      "title": "High gas prices are spurring states to waive taxes and regulations amid midterm election",
+      "description": "Some states have suspended their fuel taxes. Others have temporarily reduced taxes.",
+      "url": "https://www.dailycamera.com/2026/09/30/us-gas-tax-states-what-to-know/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/09/US_Gas_Prices_17151-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-09-30T21:41:47Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Boulder Daily Camera"
       }
     }
   ]
