@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-10-02T11:34:19+00:00",
+  "updated_at": "2026-10-02T17:01:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ampol buys Evie in $225m EV charging network deal",
-      "description": "The deal will see the petrol retailer more than triple its charging bay count, creating one of Australia\u2019s largest public EV charging networks",
-      "url": "https://7news.com.au/motoring/ampol-buys-evie-in-225m-ev-charging-network-deal-c-22956851",
-      "image": "https://images.7news.com.au/publication/C-22956851/51025ec90914309bb011fb4708dd679e3823f143-16x9-x0y156w3000h1688.jpg?imwidth=1200",
-      "publishedAt": "2026-10-01T23:17:36Z",
+      "title": "off deepens and ahead of US jobs data \u2013 WTOP News",
+      "description": "HONG KONG (AP) \u2014 Asian shares were mixed Friday after a global bond sell-off deepened and ahead of a U.S. monthly jobs report due later in the day. Oil prices s",
+      "url": "https://wtop.com/news/2026/10/asian-shares-mixed-after-global-bond-sell-off-deepens-and-ahead-of-us-jobs-data/",
+      "image": "https://wtop.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street_57_15-scaled.jpg",
+      "publishedAt": "2026-10-02T04:59:04Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Ampol buys Evie in $225m EV charging network deal",
-      "description": "The deal will see the petrol retailer more than triple its charging bay count, creating one of Australia\u2019s largest public EV charging networks",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/ampol-buys-evie-in-225m-ev-charging-network-deal-c-22956848",
-      "image": "https://images.perthnow.com.au/publication/C-22956848/51025ec90914309bb011fb4708dd679e3823f143-16x9-x0y156w3000h1688.jpg?imwidth=1200",
-      "publishedAt": "2026-10-01T23:17:35Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Ethanol blending a step towards diversification of agri sector: Gadkari",
-      "description": "PATNA, Oct 1 :Union minister Nitin Gadkari on Thursday debunked claims that blending ethanol with petrol was damaging motor vehicles, asserting that it facilitated diversification of the agriculture sector. Addressing the inaugural session of the 'Bihar Investor Summit 2026: The...",
-      "url": "https://www.dailyexcelsior.com/ethanol-blending-a-step-towards-diversification-of-agri-sector-gadkari/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWVhY2ZmZWUwLWJkZWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-01T23:00:21Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "2027 Hyundai Tucson: Australian launch timing confirmed for hybrid-only mid-size SUV",
-      "description": "Hyundai Australia has confirmed its next-generation Tucson is due here in mid-2027 and won't offer any pure petrol powertrains, at least not at first.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/2027-hyundai-tucson-australian-launch-timing-confirmed-for-hybrid-only-mid-size-suv-c-22956648",
-      "image": "https://images.perthnow.com.au/publication/C-22956648/7f17cac390f4a62072e7f20697de430f7dc180b7-16x9-x0y152w2914h1639.jpg?imwidth=1200",
-      "publishedAt": "2026-10-01T22:17:06Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "2027 Hyundai Tucson: Australian launch timing confirmed for hybrid-only mid-size SUV",
-      "description": "Hyundai Australia has confirmed its next-generation Tucson is due here in mid-2027 and won't offer any pure petrol powertrains, at least not at first.",
-      "url": "https://7news.com.au/motoring/2027-hyundai-tucson-australian-launch-timing-confirmed-for-hybrid-only-mid-size-suv-c-22956649",
-      "image": "https://images.7news.com.au/publication/C-22956649/7f17cac390f4a62072e7f20697de430f7dc180b7-16x9-x0y152w2914h1639.jpg?imwidth=1200",
-      "publishedAt": "2026-10-01T22:17:06Z",
-      "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "Energy Secretary Chris Wright defends strategy to combat high diesel and gas prices",
-      "description": "Energy Secretary Chris Wright sat down with The National News Desk's Matt Galka to talk about the high cost of energy.",
-      "url": "https://foxbaltimore.com/news/nation-world/energy-secretary-chris-wright-defends-strategy-to-combat-high-diesel-and-gas-prices-united-states-holiday",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/4092/1320/0x305/90/0dbc719d-7e1b-476e-841a-e73557dfc14a-GettyImages2297605800.jpg",
-      "publishedAt": "2026-10-01T21:14:50Z",
-      "source": {
-        "name": "Baltimore News"
-      }
-    },
-    {
-      "title": "Energy Secretary Chris Wright defends strategy to combat high diesel and gas prices",
-      "description": "Energy Secretary Chris Wright sat down with The National News Desk's Matt Galka to talk about the high cost of energy.",
-      "url": "https://wjla.com/news/nation-world/energy-secretary-chris-wright-defends-strategy-to-combat-high-diesel-and-gas-prices-united-states-holiday",
-      "image": "https://wjla.com/resources/media2/16x9/4092/1320/0x305/90/0dbc719d-7e1b-476e-841a-e73557dfc14a-GettyImages2297605800.jpg",
-      "publishedAt": "2026-10-01T21:14:50Z",
-      "source": {
-        "name": "WJLA"
-      }
-    },
-    {
-      "title": "Western Sydney first home buyers hit hard by interest rate hikes, falling property prices",
-      "description": "Between interest rate and petrol price rises and falling house values, Western Sydney residents say making ends meet is getting tough.",
-      "url": "https://www.abc.net.au/news/2026-10-02/nsw-western-sydney-homebuyers-hit-by-interest-rate-increase-/107217008",
-      "image": "https://live-production.wcms.abc-cdn.net.au/592030fdc4d7ae61d31302491fc22796?impolicy=wcms_watermark_news&cropH=2783&cropW=4949&xPos=0&yPos=259&width=862&height=485&imformat=generic",
-      "publishedAt": "2026-10-01T20:28:58Z",
-      "source": {
-        "name": "ABC (Australian Broadcasting Corporation)"
-      }
-    },
-    {
-      "title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East -- 2nd Update",
-      "description": "By Farhan Rafid and Kirk Maltais\nOil prices extended early gains on a Wall Street Journal report that the Pentagon has deployed a third aircraft carrier to the Middle East, adding as many as...",
-      "url": "https://www.marketscreener.com/news/oil-climbs-as-u-s-sends-another-aircraft-carrier-to-middle-east-2nd-update-ce785ddadb8ff124",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-08-23T153946Z_1_LYNXNPEC7M102_RTROPTP_2_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-01T20:12:18Z",
+      "title": "Oil Slips But Supported by Sustained Middle East Tensions --Update",
+      "description": "By Ronnie Harui and Sherry Qin\nOil prices slipped but looked supported by persistent supply fears amid continuing tensions in the Middle East, while Asian government bond yields were mostly...",
+      "url": "https://www.marketscreener.com/news/oil-slips-but-supported-by-sustained-middle-east-tensions-update-ce785ddadc88f62d",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-02T04:58:17Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "US stocks: US market rebounds to close higher as surging Treasury yields recede",
-      "description": "US stocks recovered from earlier losses, with the S&P 500 bouncing back after a global bond selloff. The Labor Department reported a dip in weekly initial jobless claims, indicating a solid labor market. Oil prices surged, raising inflation concerns as Brent crude settled significantly higher. Technology shares also showed strength, particularly after Accenture's positive revenue forecast.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rebounds-to-close-higher-as-surging-treasury-yields-recede/articleshow/134626994.cms",
-      "image": "https://img.etimg.com/thumb/msid-134626996,width-1200,height-900,imgsize-3812883,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-01T20:12:00Z",
+      "title": "Market crash wipes out Rs 26 lakh cr in 8 weeks! Why soaring bond yields may hurt Sensex, Nifty more than elevated oil prices",
+      "description": "The Sensex and Nifty have fallen for eight straight weeks, wiping out more than Rs 26 lakh crore in market capitalisation. While elevated oil prices have pressured equities, soaring bond yields, foreign outflows, a stronger dollar and tighter liquidity are adding to the selling pressure and weighing on investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-crash-wipes-out-rs-26-lakh-cr-in-8-weeks-why-soaring-bond-yields-may-hurt-sensex-nifty-more-than-elevated-oil-prices/articleshow/134632014.cms",
+      "image": "https://img.etimg.com/thumb/msid-134632050,width-1200,height-900,imgsize-2362837,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-02T04:52:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Beed Court Panic As Accused Pours Petrol On Himself, Threatens To Set Himself Ablaze",
+      "description": "Beed Court Panic As Accused Pours Petrol On Himself, Threatens To Set Himself Ablaze inside an Ambajogai courtroom. Lawyers intervened, snatched the matchbox and restrained him before police took him into custody. Get Latest News on Maharashtra only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/maharashtra/beed-court-panic-as-man-threatens-suicide-pours-petrol-on-himself-inside-courtroom-a527/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/self-immolation-in-beed_2026101134424.jpg",
+      "publishedAt": "2026-10-02T04:30:13Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "Asian stocks drop as oil spike fans rate hike bets, eyes on US jobs",
+      "description": "HONG KONG, Oct 2 \u2014 Asian stocks dropped Friday as investors grow increasingly concerned about surging oil prices and bond yields, while key jobs data later in the day will be...",
+      "url": "https://www.malaymail.com/news/money/2026/10/02/asian-stocks-drop-as-oil-spike-fans-rate-hike-bets-eyes-on-us-jobs/237351",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/02/365834.jpg",
+      "publishedAt": "2026-10-02T03:55:44Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "Top 2 stocks to buy or sell for short-term: Laurus Labs, Canara Bank by Chandan Taparia - Check stop-loss, targets",
+      "description": "Domestic markets will close on October 2 for Gandhi Jayanti, resuming trading on October 5. The BSE Sensex and NSE indices fell for a record eighth week, impacted by foreign selling and rising oil prices. The Indian rupee weakened to \u20b996.3150 against the dollar.",
+      "url": "https://www.livemint.com/market/stock-market-news/top-2-stocks-to-buy-or-sell-for-short-term-laurus-labs-canara-bank-by-chandan-taparia-check-stop-loss-targets-11790853898347.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Chandan_Taparia_1788834234050_af1895d2-d413-4eaa-9_1790913040234_R9Jn_1790913040415_7THr_e9348256-9463-458f-b063-41367e78999b_28hT.png",
+      "publishedAt": "2026-10-02T03:53:49Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Trump says Iran was weeks away from nuclear weapon, defends US action",
+      "description": "Iran is reportedly just weeks away from having a nuclear weapon, which concerns global leaders. US President Donald Trump highlighted the urgency of the situation, emphasizing that action is necessary. He stated that this situation could lead to broader conflict in the Middle East and beyond, particularly affecting Israel. Additionally, he mentioned that oil prices have remained stable despite earlier fears of significant increases.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-warns-iran-on-nuclear-threat-weeks-away-from-weapon-development-justifies-us-intervention/articleshow/134631335.cms",
+      "image": "https://img.etimg.com/thumb/msid-134631395,width-1200,height-900,imgsize-85994,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-02T03:52:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Beed Court Panic As Accused Pours Petrol On Himself, Threatens To Set Himself Ablaze Before Lawyers Intervene",
+      "description": "An accused allegedly poured around half a litre of petrol over himself and threatened to set himself on fire inside a court in Maharashtra",
+      "url": "https://www.freepressjournal.in/mumbai/beed-court-panic-as-accused-pours-petrol-on-himself-threatens-to-set-himself-ablaze-before-lawyers-intervene",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-02/5xa3cam4/Untitled-design-2026-10-02T085918.870.jpg",
+      "publishedAt": "2026-10-02T03:29:28Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Asian shares fall after wild swings in bonds, FX before US jobs data",
+      "description": "SYDNEY: Asian shares fell on Friday as investors grappled with wild swings in bond and currency markets ahead of key US jobs data, while a widening military buildup in the Gulf kept oil prices elevated.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/10/02/asian-shares-fall-after-wild-swings-in-bonds-fx-before-us-jobs-data",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/02/4140588.png",
+      "publishedAt": "2026-10-02T03:25:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "US Treasury yield hits the Highest Since 2002 at 5.34%",
+      "description": "The yield on the 10-year Treasury note has surged past its 2007 high, now sitting at 5.34%. At the same time, 30-year US bonds have hit a 24-year peak this week. The rise in global sovereign debt is primarily driven by escalating oil prices amid the ongoing Middle Eastern conflict. Investors are now bracing for potentially further interest rate hikes from central banks.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/us-treasury-yield-hits-the-highest-since-2002-at-5-34/articleshow/134631069.cms",
+      "image": "https://img.etimg.com/thumb/msid-134631085,width-1200,height-900,imgsize-2399965,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-02T03:17:00Z",
       "source": {
         "name": "The Economic Times"
       }
