@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-02T03:07:49+00:00",
+  "updated_at": "2026-10-02T11:34:19+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "UK bank stocks slide as 30-year borrowing costs hit 1998 high",
-      "description": "UK bank stocks fell sharply as 30-year borrowing costs hit their highest since 1998, amid concerns over Britain\u2019s finances, oil prices and inflation.",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/uk-bank-stocks-slide-as-30-year-borrowing-costs-hit-highest-since-1998/article71533791.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/4cpsju/article71533800.ece/alternates/LANDSCAPE_1200/2026-09-30T050010Z_1738272628_RC2YE2A6UOGS_RTRMADP_3_BRITAIN-REALESTATE-DEFENCE.JPG",
-      "publishedAt": "2026-10-01T15:00:30Z",
+      "title": "Ampol buys Evie in $225m EV charging network deal",
+      "description": "The deal will see the petrol retailer more than triple its charging bay count, creating one of Australia\u2019s largest public EV charging networks",
+      "url": "https://7news.com.au/motoring/ampol-buys-evie-in-225m-ev-charging-network-deal-c-22956851",
+      "image": "https://images.7news.com.au/publication/C-22956851/51025ec90914309bb011fb4708dd679e3823f143-16x9-x0y156w3000h1688.jpg?imwidth=1200",
+      "publishedAt": "2026-10-01T23:17:36Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "Swiss gas sector views coming winter with concern",
-      "description": "Gas prices have tripled since the start of the year.",
-      "url": "https://www.europesays.com/3283145/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1790866542_keystone-highres-728497849.jpg",
-      "publishedAt": "2026-10-01T14:55:34Z",
+      "title": "Ampol buys Evie in $225m EV charging network deal",
+      "description": "The deal will see the petrol retailer more than triple its charging bay count, creating one of Australia\u2019s largest public EV charging networks",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/ampol-buys-evie-in-225m-ev-charging-network-deal-c-22956848",
+      "image": "https://images.perthnow.com.au/publication/C-22956848/51025ec90914309bb011fb4708dd679e3823f143-16x9-x0y156w3000h1688.jpg?imwidth=1200",
+      "publishedAt": "2026-10-01T23:17:35Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "UK banks tumble as gilt yields hit highest since 1998, budget jitters mount",
-      "description": "UK bank stocks fell sharply on Thursday, as British 30-year borrowing costs hit their highest since 1998, as jitters mounted about Britain's finances and vulnerability to high oil prices and inflation...",
-      "url": "https://www.marketscreener.com/news/uk-banks-tumble-as-gilt-yields-hit-highest-since-1998-budget-jitters-mount-ce785ddad98df426",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-08T090416Z_2_LYNXMPEL770B8_RTROPTP_4_BRITAIN-ECONOMY.JPG",
-      "publishedAt": "2026-10-01T14:35:29Z",
+      "title": "Ethanol blending a step towards diversification of agri sector: Gadkari",
+      "description": "PATNA, Oct 1 :Union minister Nitin Gadkari on Thursday debunked claims that blending ethanol with petrol was damaging motor vehicles, asserting that it facilitated diversification of the agriculture sector. Addressing the inaugural session of the 'Bihar Investor Summit 2026: The...",
+      "url": "https://www.dailyexcelsior.com/ethanol-blending-a-step-towards-diversification-of-agri-sector-gadkari/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWVhY2ZmZWUwLWJkZWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-01T23:00:21Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "2027 Hyundai Tucson: Australian launch timing confirmed for hybrid-only mid-size SUV",
+      "description": "Hyundai Australia has confirmed its next-generation Tucson is due here in mid-2027 and won't offer any pure petrol powertrains, at least not at first.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2027-hyundai-tucson-australian-launch-timing-confirmed-for-hybrid-only-mid-size-suv-c-22956648",
+      "image": "https://images.perthnow.com.au/publication/C-22956648/7f17cac390f4a62072e7f20697de430f7dc180b7-16x9-x0y152w2914h1639.jpg?imwidth=1200",
+      "publishedAt": "2026-10-01T22:17:06Z",
+      "source": {
+        "name": "PerthNow"
+      }
+    },
+    {
+      "title": "2027 Hyundai Tucson: Australian launch timing confirmed for hybrid-only mid-size SUV",
+      "description": "Hyundai Australia has confirmed its next-generation Tucson is due here in mid-2027 and won't offer any pure petrol powertrains, at least not at first.",
+      "url": "https://7news.com.au/motoring/2027-hyundai-tucson-australian-launch-timing-confirmed-for-hybrid-only-mid-size-suv-c-22956649",
+      "image": "https://images.7news.com.au/publication/C-22956649/7f17cac390f4a62072e7f20697de430f7dc180b7-16x9-x0y152w2914h1639.jpg?imwidth=1200",
+      "publishedAt": "2026-10-01T22:17:06Z",
+      "source": {
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "Energy Secretary Chris Wright defends strategy to combat high diesel and gas prices",
+      "description": "Energy Secretary Chris Wright sat down with The National News Desk's Matt Galka to talk about the high cost of energy.",
+      "url": "https://foxbaltimore.com/news/nation-world/energy-secretary-chris-wright-defends-strategy-to-combat-high-diesel-and-gas-prices-united-states-holiday",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/4092/1320/0x305/90/0dbc719d-7e1b-476e-841a-e73557dfc14a-GettyImages2297605800.jpg",
+      "publishedAt": "2026-10-01T21:14:50Z",
+      "source": {
+        "name": "Baltimore News"
+      }
+    },
+    {
+      "title": "Energy Secretary Chris Wright defends strategy to combat high diesel and gas prices",
+      "description": "Energy Secretary Chris Wright sat down with The National News Desk's Matt Galka to talk about the high cost of energy.",
+      "url": "https://wjla.com/news/nation-world/energy-secretary-chris-wright-defends-strategy-to-combat-high-diesel-and-gas-prices-united-states-holiday",
+      "image": "https://wjla.com/resources/media2/16x9/4092/1320/0x305/90/0dbc719d-7e1b-476e-841a-e73557dfc14a-GettyImages2297605800.jpg",
+      "publishedAt": "2026-10-01T21:14:50Z",
+      "source": {
+        "name": "WJLA"
+      }
+    },
+    {
+      "title": "Western Sydney first home buyers hit hard by interest rate hikes, falling property prices",
+      "description": "Between interest rate and petrol price rises and falling house values, Western Sydney residents say making ends meet is getting tough.",
+      "url": "https://www.abc.net.au/news/2026-10-02/nsw-western-sydney-homebuyers-hit-by-interest-rate-increase-/107217008",
+      "image": "https://live-production.wcms.abc-cdn.net.au/592030fdc4d7ae61d31302491fc22796?impolicy=wcms_watermark_news&cropH=2783&cropW=4949&xPos=0&yPos=259&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-01T20:28:58Z",
+      "source": {
+        "name": "ABC (Australian Broadcasting Corporation)"
+      }
+    },
+    {
+      "title": "Oil Climbs as U.S. Sends Another Aircraft Carrier to Middle East -- 2nd Update",
+      "description": "By Farhan Rafid and Kirk Maltais\nOil prices extended early gains on a Wall Street Journal report that the Pentagon has deployed a third aircraft carrier to the Middle East, adding as many as...",
+      "url": "https://www.marketscreener.com/news/oil-climbs-as-u-s-sends-another-aircraft-carrier-to-middle-east-2nd-update-ce785ddadb8ff124",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2016-08-23T153946Z_1_LYNXNPEC7M102_RTROPTP_2_USA-STOCKS.JPG",
+      "publishedAt": "2026-10-01T20:12:18Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices",
-      "description": "India\u2019s oil minister says disrupted trade routes and soaring freight costs, rather than an outright lack of crude, are keeping oil prices elevated and increasing India\u2019s import costs.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Emphasizes-That-Shipping-Chaos-Not-Supply-Is-Driving-High-Oil-Prices.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_eft7s2exor.jpg",
-      "publishedAt": "2026-10-01T14:30:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
-      "description": "The pound has hit a three-month low against the dollar, triggered by mounting economic apprehensions. Investors are anxious about the effects of soaring oil prices and persistent inflation on market stability. The FTSE 100 index has notably declined, reflecting burdens in government borrowing. Prime Minister Andy Burnham and Chancellor John Healey confront escalating gilt yields.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
-      "image": "https://img.etimg.com/thumb/msid-134621876,width-1200,height-900,imgsize-175730,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-01T14:23:00Z",
+      "title": "US stocks: US market rebounds to close higher as surging Treasury yields recede",
+      "description": "US stocks recovered from earlier losses, with the S&P 500 bouncing back after a global bond selloff. The Labor Department reported a dip in weekly initial jobless claims, indicating a solid labor market. Oil prices surged, raising inflation concerns as Brent crude settled significantly higher. Technology shares also showed strength, particularly after Accenture's positive revenue forecast.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-rebounds-to-close-higher-as-surging-treasury-yields-recede/articleshow/134626994.cms",
+      "image": "https://img.etimg.com/thumb/msid-134626996,width-1200,height-900,imgsize-3812883,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-01T20:12:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
-      "description": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors anticipate possible interest rate hikes by the Central Bank in November or December. The financial market is reacting to ongoing economic pressures like rising food and energy prices.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
-      "image": "https://img.etimg.com/thumb/msid-134621862,width-1200,height-900,imgsize-97312,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-01T14:22:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Attackers douse teacher in gasoline as student protests rage across France",
-      "description": "Attackers doused a headteacher in petrol and started fires in at least two schools on Thursday, officials said, as increasingly violent student protests raged across France.",
-      "url": "https://nypost.com/2026/10/01/world-news/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143299941.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-01T14:16:33Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "AI optimism is fueling tech stocks amid rising oil prices and bond yields",
-      "description": "Strength for artificial-intelligence stocks is helping the U.S. market to hold firmer on Thursday, even as pressure from the bond market continues to rattle financial markets.",
-      "url": "https://globalnews.ca/news/12083866/stock-markets-bond-yields-oil-ai/",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Wall-Street-Thursday-e1790863215222.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-10-01T14:15:08Z",
-      "source": {
-        "name": "Global News"
-      }
-    },
-    {
-      "title": "Global headwinds pose fresh risks to Indian assets, rupee: Monthly Economic Review",
-      "description": "India\u2019s strong domestic growth is facing renewed external headwinds as higher oil prices, rising global bond yields and trade uncertainty put pressure on the rupee and Indian assets. The Monthly Economic Review said attracting global capital will remain a key challenge as developed economies compete for investment.",
-      "url": "https://www.businesstoday.in/latest/economy/story/global-headwinds-pose-fresh-risks-to-indian-assets-rupee-monthly-economic-review-559157-2026-10-01",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6abe648af1648-the-mer-said-indian-bond-yields-have-risen-by-less-than-global-yields--narrowing-the-risk-premium-an-014753723-16x9.jpg",
-      "publishedAt": "2026-10-01T13:48:04Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Surging energy prices drive inflation to almost 4%",
-      "description": "Motorists have been the worst-hit by the latest spike in oil prices",
-      "url": "https://www.irishtimes.com/business/2026/10/01/surging-energy-prices-drive-inflation-to-almost-4/",
-      "image": "https://www.irishtimes.com/resizer/v2/LM45BRYLEMPJU5SXCZPGMTQYGE.jpg?smart=true&auth=967e8e1736d35a144ee134a98a94b0731b025efa1b2ac6f46b57bda6a991964f&width=1200&height=630",
-      "publishedAt": "2026-10-01T13:42:57Z",
-      "source": {
-        "name": "The Irish Times"
       }
     }
   ]
