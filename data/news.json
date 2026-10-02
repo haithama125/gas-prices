@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-01T22:07:00+00:00",
+  "updated_at": "2026-10-02T03:07:49+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12834972",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-9-29goodmorningnorthbaybct-3-garden-in-a-boat-arif.jpeg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-01T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Bidor shooting motive unknown after statements recorded from 10",
-      "description": "IPOH: Police have recorded statements from 10 people concerning a shooting at a Bidor petrol station on Tuesday (Sept 29), says Perak police chief Comm Datuk Mohd Alwi Zainal Abidin.",
-      "url": "https://www.thestar.com.my/news/nation/2026/10/01/bidor-shooting-motive-unknown-after-statements-recorded-from-10",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/01/4139538.jpeg",
-      "publishedAt": "2026-10-01T09:39:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Global shares are trading mixed as market optimism about AI gets tempered by Iran worries",
-      "description": "Global shares are trading mixed amid investor interest in technology-related issues and ongoing worries about the war in Iran. Benchmarks declined in early Thursday trading in France, Germany and Britain. In Asia, shares finished higher in Tokyo and Seoul, while falling in Sydney. In Tokyo trading, issues expected to get a boost from the solid demand in computer chips and AI-related growth finished higher, including Advantest Corp., Tokyo Electron and SoftBank Group Corp. Hong Kong and Shanghai markets were closed for a holiday. Oil prices rose. Dow futures fell, while S&P 500 futures were little changed.",
-      "url": "https://www.ajc.com/news/2026/10/asian-shares-mostly-rise-amid-market-optimism-about-ai-despite-iran-worries/",
-      "image": "https://images.ajc.com/resizer/v2/YFZLG5JF4RFSFJGXS3BPX4YWTU.jpg?auth=55015550ddbfc30f944c24b7809b899259513e0fbd49952ee8e95b9983c9a9e7&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-01T09:32:25Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Global Market: European shares slide as surging bond yields hit risk appetite",
-      "description": "European shares opened the final quarter lower as elevated global bond yields and persistent inflation concerns weighed on investor sentiment. The STOXX 600 fell 1%, with banks among the biggest decliners. Higher energy costs and expectations of prolonged interest rates pressured equities, while softer oil prices offered limited relief to markets.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-shares-slide-as-surging-bond-yields-hit-risk-appetite/articleshow/134614446.cms",
-      "image": "https://img.etimg.com/thumb/msid-134614470,width-1200,height-900,imgsize-232560,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-01T09:32:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "US trade relations remain unsettled after passage of Russia sanctions: Finance Ministry",
-      "description": "Oil prices have spiked in September, while global bond yields have moved sharply higher. India's bond yield has risen by less, but the lower risk premium is putting pressure on the rupee, states Finance Ministry's latest Monthly Economic Review.",
-      "url": "https://www.newindianexpress.com/business/2026/Oct/01/us-trade-relations-remain-unsettled-after-passage-of-russia-sanctions-finance-ministry",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2024-12-17%2Fyv6wg5jv%2FANI_20241217063747.jpeg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-10-01T09:10:36Z",
-      "source": {
-        "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "PM Netanyahu says Israel warned UK of suspected Iran attack plot on RAF airbase",
-      "description": "After three days of investigations, including using a bomb disposal team, police said on Tuesday they had found no explosives in the vehicles, but they had retrieved a \"quantity of petrol.\"",
-      "url": "https://www.euronews.com/2026/10/01/pm-netanyahu-says-israel-warned-uk-of-suspected-iran-attack-plot-on-raf-airbase",
-      "image": "https://images.euronews.com/articles/stories/09/93/49/71/1200x675_cmsv2_63225fde-1a22-518f-80f6-1183ecf12803-9934971.jpg",
-      "publishedAt": "2026-10-01T08:58:01Z",
-      "source": {
-        "name": "Euronews"
-      }
-    },
-    {
-      "title": "India\u2019s Q2 growth seen at 7.3%, global risks test outlook: Finance Ministry",
-      "description": "Review flags oil prices, tighter global financial conditions and US trade uncertainty as risks to momentum",
-      "url": "https://www.thehindubusinessline.com/economy/indias-q2-growth-seen-at-73-global-risks-test-outlook-finance-ministry/article71531631.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/vnz7t1/article71529793.ece/alternates/LANDSCAPE_1200/PO19_Percent_3.jpg",
-      "publishedAt": "2026-10-01T08:57:40Z",
+      "title": "UK bank stocks slide as 30-year borrowing costs hit 1998 high",
+      "description": "UK bank stocks fell sharply as 30-year borrowing costs hit their highest since 1998, amid concerns over Britain\u2019s finances, oil prices and inflation.",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/uk-bank-stocks-slide-as-30-year-borrowing-costs-hit-highest-since-1998/article71533791.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/4cpsju/article71533800.ece/alternates/LANDSCAPE_1200/2026-09-30T050010Z_1738272628_RC2YE2A6UOGS_RTRMADP_3_BRITAIN-REALESTATE-DEFENCE.JPG",
+      "publishedAt": "2026-10-01T15:00:30Z",
       "source": {
         "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Oil hovers around $100 as US bonds suffer their worst quarter since 1994",
-      "description": "Oil prices bounced back above $100 a barrel on Thursday as a US-Iran deal remained elusive, while European stocks fell and US government bonds came off their worst quarter since 1994, with the 10-year Treasury yield at its highest since 2007.",
-      "url": "https://www.euronews.com/2026/10/01/oil-rebounds-above-100-as-us-bonds-suffer-their-worst-quarter-since-1994",
-      "image": "https://images.euronews.com/articles/stories/09/92/56/54/1200x675_cmsv2_e1cabd86-6974-55ff-9779-ffa29be0ae70-9925654.jpg",
-      "publishedAt": "2026-10-01T08:57:26Z",
+      "title": "Swiss gas sector views coming winter with concern",
+      "description": "Gas prices have tripled since the start of the year.",
+      "url": "https://www.europesays.com/3283145/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1790866542_keystone-highres-728497849.jpg",
+      "publishedAt": "2026-10-01T14:55:34Z",
       "source": {
-        "name": "Euronews"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "FOREX-Euro slides to 17-month low, hit by rates and inflation cocktail",
-      "description": "As political instabilities linger, the euro has descended to its lowest point in over 17 months when measured against the dollar. This shift has prompted investors to favor the dollar, which is showing strength across various currencies. Meanwhile, the Australian dollar has reached a two-month low due to disappointing local inflation forecasts. European markets, burdened by surging oil prices and escalating inflation, are facing a formidable set of economic hurdles.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-euro-slides-to-17-month-low-hit-by-rates-and-inflation-cocktail/articleshow/134613639.cms",
-      "image": "https://img.etimg.com/thumb/msid-134613663,width-1200,height-900,imgsize-471208,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-01T08:55:00Z",
+      "title": "UK banks tumble as gilt yields hit highest since 1998, budget jitters mount",
+      "description": "UK bank stocks fell sharply on Thursday, as British 30-year borrowing costs hit their highest since 1998, as jitters mounted about Britain's finances and vulnerability to high oil prices and inflation...",
+      "url": "https://www.marketscreener.com/news/uk-banks-tumble-as-gilt-yields-hit-highest-since-1998-budget-jitters-mount-ce785ddad98df426",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-08/2025-08-08T090416Z_2_LYNXMPEL770B8_RTROPTP_4_BRITAIN-ECONOMY.JPG",
+      "publishedAt": "2026-10-01T14:35:29Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "India Emphasizes That Shipping Chaos, Not Supply, Is Driving High Oil Prices",
+      "description": "India\u2019s oil minister says disrupted trade routes and soaring freight costs, rather than an outright lack of crude, are keeping oil prices elevated and increasing India\u2019s import costs.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Emphasizes-That-Shipping-Chaos-Not-Supply-Is-Driving-High-Oil-Prices.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-01_eft7s2exor.jpg",
+      "publishedAt": "2026-10-01T14:30:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "UK pound falls to three-month lows as investors fret over rates, oil",
+      "description": "The pound has hit a three-month low against the dollar, triggered by mounting economic apprehensions. Investors are anxious about the effects of soaring oil prices and persistent inflation on market stability. The FTSE 100 index has notably declined, reflecting burdens in government borrowing. Prime Minister Andy Burnham and Chancellor John Healey confront escalating gilt yields.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-pound-falls-to-three-month-lows-as-investors-fret-over-rates-oil/articleshow/134621868.cms",
+      "image": "https://img.etimg.com/thumb/msid-134621876,width-1200,height-900,imgsize-175730,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-01T14:23:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Why Indian stocks are falling: CA Sarthak Ahuja explains US bond yield impact on markets",
-      "description": "Indian equities have faced renewed pressure as rising US Treasury yields, elevated crude oil prices and foreign investor selling weigh on market sentiment. CA Sarthak Ahuja has highlighted how higher US bond yields could influence global capital flows and the relative attractiveness of Indian equities.",
-      "url": "https://www.businesstoday.in/markets/story/why-indian-stocks-are-falling-ca-sarthak-ahuja-explains-us-bond-yield-impact-on-markets-559042-2026-10-01",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6abe1e9189c9e-ca-sarthak-ahujas-central-argument-is-that-rising-us-treasury-yields-can-make-dollar-denominated-as-014920306-16x9.jpg",
-      "publishedAt": "2026-10-01T08:49:39Z",
+      "title": "UK 30-year gilt yields top 6% for the first time since 1998",
+      "description": "British 30-year government bond yields have surged to their highest level since early 1998. This surge follows a significant increase in U.S. Treasury yields despite steadied oil prices. Short-dated gilt yields also rose sharply, reflecting concerns about the UK's fiscal vulnerabilities. Investors anticipate possible interest rate hikes by the Central Bank in November or December. The financial market is reacting to ongoing economic pressures like rising food and energy prices.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/uk-30-year-gilt-yields-top-6-for-the-first-time-since-1998/articleshow/134621852.cms",
+      "image": "https://img.etimg.com/thumb/msid-134621862,width-1200,height-900,imgsize-97312,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-01T14:22:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Attackers douse teacher in gasoline as student protests rage across France",
+      "description": "Attackers doused a headteacher in petrol and started fires in at least two schools on Thursday, officials said, as increasingly violent student protests raged across France.",
+      "url": "https://nypost.com/2026/10/01/world-news/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/143299941.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-01T14:16:33Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "AI optimism is fueling tech stocks amid rising oil prices and bond yields",
+      "description": "Strength for artificial-intelligence stocks is helping the U.S. market to hold firmer on Thursday, even as pressure from the bond market continues to rattle financial markets.",
+      "url": "https://globalnews.ca/news/12083866/stock-markets-bond-yields-oil-ai/",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/Wall-Street-Thursday-e1790863215222.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-10-01T14:15:08Z",
+      "source": {
+        "name": "Global News"
+      }
+    },
+    {
+      "title": "Global headwinds pose fresh risks to Indian assets, rupee: Monthly Economic Review",
+      "description": "India\u2019s strong domestic growth is facing renewed external headwinds as higher oil prices, rising global bond yields and trade uncertainty put pressure on the rupee and Indian assets. The Monthly Economic Review said attracting global capital will remain a key challenge as developed economies compete for investment.",
+      "url": "https://www.businesstoday.in/latest/economy/story/global-headwinds-pose-fresh-risks-to-indian-assets-rupee-monthly-economic-review-559157-2026-10-01",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6abe648af1648-the-mer-said-indian-bond-yields-have-risen-by-less-than-global-yields--narrowing-the-risk-premium-an-014753723-16x9.jpg",
+      "publishedAt": "2026-10-01T13:48:04Z",
       "source": {
         "name": "Business Today"
+      }
+    },
+    {
+      "title": "Surging energy prices drive inflation to almost 4%",
+      "description": "Motorists have been the worst-hit by the latest spike in oil prices",
+      "url": "https://www.irishtimes.com/business/2026/10/01/surging-energy-prices-drive-inflation-to-almost-4/",
+      "image": "https://www.irishtimes.com/resizer/v2/LM45BRYLEMPJU5SXCZPGMTQYGE.jpg?smart=true&auth=967e8e1736d35a144ee134a98a94b0731b025efa1b2ac6f46b57bda6a991964f&width=1200&height=630",
+      "publishedAt": "2026-10-01T13:42:57Z",
+      "source": {
+        "name": "The Irish Times"
       }
     }
   ]
