@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-03T02:54:18+00:00",
+  "updated_at": "2026-10-03T10:48:24+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "G-7 to release up to 100 million barrels of diesel and crude",
-      "description": "Group of Seven countries agreed to release tens of millions of barrels of diesel fuel and crude to cap soaring gas prices.",
-      "url": "https://www.nbcnews.com/business/energy/g-7-diesel-crude-release-trump-macron-rcna601132",
-      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261002-diesel-truck-mn-1015-2f7c75.jpg",
-      "publishedAt": "2026-10-02T14:22:46Z",
+      "title": "Oil shock bypasses petrol pumps, hits Indian businesses through raw material costs",
+      "description": "India\u2019s oil shock is increasingly showing up in industrial input costs rather than at petrol pumps, with several raw materials seeing sharp price increases. IndiaMART data shows PP granules rose 32% between July and September, highlighting mounting pressure on businesses.",
+      "url": "https://www.businesstoday.in/latest/economy/story/oil-shock-bypasses-petrol-pumps-hits-indian-businesses-through-raw-material-costs-559246-2026-10-03",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6abf9ae4bcaf1-according-to-indiamarts-september-2026-marketplace-insights--the-median-quoted-price-of-pp-granules-025203160-16x9.jpg",
+      "publishedAt": "2026-10-02T22:05:03Z",
       "source": {
-        "name": "NBC News"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Petrol station and shop plan 'will cause irreparable damage to Menai Bridge'",
-      "description": "Objectors believe the development is 'inappropriate' and will negatively affect residents and businesses. Consultants for the scheme said the plan will respect the townscape",
-      "url": "https://www.dailypost.co.uk/news/north-wales-news/petrol-station-shop-plan-will-34708021",
-      "image": "https://i2-prod.dailypost.co.uk/article34707970.ece/ALTERNATES/s1200d/0_The-site-earmarked-for-development-at-the-centre-of-Menai-Bridge-Image-IoACC-plans.jpg",
-      "publishedAt": "2026-10-02T14:12:24Z",
+      "title": "Americans keep on spending, but how long can they go?",
+      "description": "Despite mounting frustrations over the economy, high gas prices and years of elevated inflation, Americans have continued to open their wallets.",
+      "url": "https://foxbaltimore.com/news/nation-world/americans-keep-on-spending-but-how-long-can-they-go",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/8007/1320/0x418/90/7db48ecc-3a2f-4fec-af45-ef6169c65ed0-GettyImages2248285294.jpg",
+      "publishedAt": "2026-10-02T21:02:55Z",
       "source": {
-        "name": "Daily Post"
+        "name": "Baltimore News"
       }
     },
     {
-      "title": "Middle East war: Oil prices rally as US deploys more troops in the region",
-      "description": "Crude oil prices have moved higher once again, amid fresh escalation in the Middle East.",
-      "url": "https://www.europesays.com/3285342/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/06/6a01a9bee51b982eb6f68e62_72ee832e-dc7f-4550-909f-ba0a59c8ba75-1200w.jpeg",
-      "publishedAt": "2026-10-02T14:07:26Z",
+      "title": "Americans keep on spending, but how long can they go?",
+      "description": "Despite mounting frustrations over the economy, high gas prices and years of elevated inflation, Americans have continued to open their wallets.",
+      "url": "https://wjla.com/news/nation-world/americans-keep-on-spending-but-how-long-can-they-go",
+      "image": "https://wjla.com/resources/media2/16x9/8007/1320/0x418/90/7db48ecc-3a2f-4fec-af45-ef6169c65ed0-GettyImages2248285294.jpg",
+      "publishedAt": "2026-10-02T21:02:55Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "WJLA"
       }
     },
     {
-      "title": "East London diners \u2018frozen in terror\u2019 as arsonists set fire to restaurant with them inside",
-      "description": "Customers at an Indian restaurant were \u201cfrozen in terror\u201d as masked attackers doused the room in petrol before holding the door shut and setting the room and them alight, a court has heard.",
-      "url": "https://www.mylondon.news/news/east-london-news/east-london-diners-frozen-terror-34708264",
-      "image": "https://i2-prod.mylondon.news/article32339987.ece/ALTERNATES/s1200d/0_indian-aroma-pa.jpg",
-      "publishedAt": "2026-10-02T13:59:36Z",
-      "source": {
-        "name": "My London"
-      }
-    },
-    {
-      "title": "The EU Is Reportedly Discussing Releasing Diesel Stocks Over U.S. Pressure. Oil Prices Are Falling.",
-      "description": "The proposal calls for European countries to release 50 million barrels and International Energy Agency members to release another 50 million.",
-      "url": "https://www.ibtimes.com/eu-reportedly-discussing-releasing-diesel-stocks-over-us-pressure-oil-prices-are-falling-3808164",
-      "image": "https://d.ibtimes.com/en/full/4652633/oil-pump.jpg",
-      "publishedAt": "2026-10-02T13:27:08Z",
-      "source": {
-        "name": "International Business Times"
-      }
-    },
-    {
-      "title": "Why soaring gas prices could cost a Californian their job",
-      "description": "When gasoline prices soar, California's unemployment averages 6.5%. But one year later, it jumps to 7.2%.",
-      "url": "https://www.mercurynews.com/2026/10/02/why-soaring-gas-prices-could-cost-you-your-job/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/Californias-economy-vs.-gas-prices@2x_1b33c5.jpeg?w=2000&h=1125",
-      "publishedAt": "2026-10-02T13:24:29Z",
-      "source": {
-        "name": "The Mercury News"
-      }
-    },
-    {
-      "title": "Why soaring gas prices could cost a Californian their job",
-      "description": "When gasoline prices soar, California's unemployment averages 6.5%. But one year later, it jumps to 7.2%.",
-      "url": "https://www.ocregister.com/2026/10/02/why-soaring-gas-prices-could-cost-you-your-job/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Californias-economy-vs.-gas-prices@2x.jpeg?w=2000&h=1125",
-      "publishedAt": "2026-10-02T13:24:29Z",
-      "source": {
-        "name": "Santa Ana Orange County Register"
-      }
-    },
-    {
-      "title": "Why soaring gas prices could cost a Californian their job",
-      "description": "When gasoline prices soar, California's unemployment averages 6.5%. But one year later, it jumps to 7.2%.",
-      "url": "https://www.sandiegouniontribune.com/2026/10/02/why-soaring-gas-prices-could-cost-you-your-job/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/Californias-economy-vs.-gas-prices@2x.jpeg?w=2000&h=1125",
-      "publishedAt": "2026-10-02T13:24:29Z",
-      "source": {
-        "name": "San Diego Union-Tribune"
-      }
-    },
-    {
-      "title": "Current price of oil as of Oct. 2, 2026",
-      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
-      "url": "https://www.newsbreak.com/fortune-561435/4921394786245-current-price-of-oil-as-of-oct-2-2026",
-      "image": "https://img.particlenews.com/img/id/1w3vrE_1FiumxyS00",
-      "publishedAt": "2026-10-02T13:20:12Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "Ford's quarterly US sales dip after phasing out some models",
-      "description": "Ford said on Friday its\nthird-quarter sales fell 6.6%, as the Detroit automaker phased\nout its Escape and Lincoln Corsair crossover models.\nSky-high gasoline prices after the U.S.-Iran...",
-      "url": "https://www.marketscreener.com/news/ford-s-quarterly-us-sales-dip-after-phasing-out-some-models-ce785ddad088f126",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-02T13:16:33Z",
+      "title": "Energy Shares Rise Amid Broad Stocks Rally -- Energy Roundup",
+      "description": "Shares of energy companies edged higher as oil prices recovered from early declines, despite efforts by developed countries to increase global supplies.\nThe Group of Seven major economies agreed...\n-October 02, 2026 at 04:58 pm EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/energy-shares-rise-amid-broad-stocks-rally-energy-roundup-ce785ddbdb8af023",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-10-02T20:58:15Z",
       "source": {
         "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "In Graphics: How the cost of Iran war piled up",
+      "description": "As crude oil prices rose, India paid more for this critical import even though it got less of it, data shows. Trade with major partners in the region remains affected, households and companies are staring at high inflation, and the govt is footing an elevated subsidy bill.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/in-graphics-how-the-cost-of-iran-war-piled-up/articleshow/134646373.cms",
+      "image": "https://img.etimg.com/thumb/msid-134646382,width-1200,height-900,imgsize-76952,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-02T19:53:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Natural gas prices down as solar power generation jumps 22%",
+      "description": "By Alton Wallace |\u00a0The Center Square The price of natural gas at the Henry Hub in Louisiana averaged $2.93 per million British thermal units from June through August, about 6% [\u2026]",
+      "url": "https://americanpress.com/2026/10/02/natural-gas-prices-down-as-solar-power-generation-jumps-22/",
+      "image": "https://americanpress.com/wp-content/uploads/sites/65/2024/07/Solar-farm.jpg?w=622",
+      "publishedAt": "2026-10-02T19:27:28Z",
+      "source": {
+        "name": "American Press"
+      }
+    },
+    {
+      "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
+      "description": "U.S. stocks are rising near their record after the latest jobs report cooled worries that a potentially hot U.S economy could make inflation worse. The S&P 500 climbed 0.7% Friday and pulled within 1% of its all-time high. The Dow Jones Industrial Average added 233 points, and the Nasdaq composite rose 1.2%. They got a boost after a report showed U.S. employers slowed their hiring last month. That pushed traders to pare bets that the Federal Reserve will hike interest rates later this month. Treasury yields initially tumbled but later retraced their losses as oil prices recovered most of an early swoon.",
+      "url": "https://www.ajc.com/news/2026/10/us-stocks-rise-near-their-record-after-the-latest-jobs-report-eases-worries-about-inflation/",
+      "image": "https://images.ajc.com/resizer/v2/5AOLQ3DPNVF4THKYTEHUX4D7KI.jpg?auth=a4755685a67d0446c4df4e8186850ce8058f5c447d6548bff224ee7f103630dd&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-02T19:22:10Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Oil Prices Hover Near $100 As G7 Unleashes 100 Million Barrels",
+      "description": "Oil prices experienced mixed trends following the G7's decision to release up to 100 million barrels from emergency reserves to alleviate global energy market pressures., World News, Times Now",
+      "url": "https://www.timesnownews.com/world/oil-prices-hover-near-100-as-g7-unleashes-100-million-barrels-article-156265185",
+      "image": "https://images.timesnownews.com/thumb/msid-156265184,thumbsize-20254,width-1280,height-720,resizemode-75/156265184.jpg",
+      "publishedAt": "2026-10-02T19:14:14Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "10 get life imprisonment in Navghatkhedi murder case, 3 acquitted",
+      "description": "Special SC/ST court in Mandleshwar sentenced 10 men to life for the 2022 Navghatkhedi petrol pump murder in Khargone; 3 accused acquitted.",
+      "url": "https://timesofindia.indiatimes.com/city/indore/10-get-life-imprisonment-in-navghatkhedi-murder-case-3-acquitted/articleshow/134646121.cms",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-10-02T19:12:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "NMC urges commercial establishments to offer free toilet access to women",
+      "description": "Nashik Municipal Corporation urges malls, hotels, restaurants and petrol pumps to offer women free toilet access, with hygiene, water, lighting and signage.",
+      "url": "https://timesofindia.indiatimes.com/city/nashik/nmc-urges-commercial-establishments-to-offer-free-toilet-access-to-women/articleshow/134645864.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134645863,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-02T18:58:00Z",
+      "source": {
+        "name": "Times of India"
       }
     }
   ]
