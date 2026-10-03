@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-03T15:24:35+00:00",
+  "updated_at": "2026-10-03T20:20:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why bad policy feels as good in 2026 as it ever did - Andrew Ketels",
-      "description": "In October 2018, Dame Jacinda Ardern declared that New Zealanders were being \u201cfleeced\u201d by petrol companies. New Zealanders were concerned about rising petrol...",
-      "url": "https://www.nzherald.co.nz/nz/why-bad-policy-feels-as-good-in-2026-as-it-ever-did-andrew-ketels/premium/UH4DSJ4LONCUTM4KVMSNUG5EMY/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/R6WLYELDFFGR5JJEAG5WFLCT6Q.jpg?auth=b35c5214be697ecdc51d959966b229864543ea8bdb15663a579908eca6848402&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-10-03T03:14:14Z",
+      "title": "Nayara Energy Hikes Petrol By Rs 5 And Diesel By Rs 3, Higher Global Oil Costs Squeeze Retailers",
+      "description": "Nayara Energy raises petrol prices by Rs 5 and diesel by Rs 3 per litre from October 3 as rising global costs squeeze retailers and widen the gap with state-owned fuel pump prices.",
+      "url": "https://www.freepressjournal.in/business/nayara-energy-hikes-petrol-by-rs-5-and-diesel-by-rs-3-higher-global-oil-costs-squeeze-retailers",
+      "image": "https://media.assettype.com/freepressjournal/2026-03-26/ojikhdgf/Nayara-Energy.jpg",
+      "publishedAt": "2026-10-03T07:32:18Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Petrol, Diesel Prices On October 3: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More",
-      "description": "Petrol and diesel prices varied across Indian cities on October 3, as global crude crossed $100 amid Middle East tensions, while state-run oil companies kept national average fuel rates largely stable.",
-      "url": "https://www.ndtvprofit.com/india/petrol-diesel-prices-on-october-3-check-new-fuel-rates-in-mumbai-bengaluru-chennai-kolkata-and-more-12132263",
-      "image": "https://c.ndtvimg.com/2026-10/7febp6m_petrol-pump_625x300_03_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-03T02:18:11Z",
+      "title": "Stock Market Outlook Next Week: RBI MPC Decision, Q2 Earnings, FII Outflows, and Crude Oil to Drive the Nifty and Sensex",
+      "description": "The Indian stock market faces key triggers: RBI MPC decision, Q2 corporate earnings, heavy FII outflows, and elevated international crude oil prices.",
+      "url": "https://www.outlookmoney.com/invest/key-factors-set-to-affect-stock-market-next-week-rbi-policy-q2-earnings-and-fii-outflows-in-focus",
+      "image": "https://media.assettype.com/outlookmoney/2025-12-05/5yi4bph2/stock-market-cues-today.jpg?w=1200",
+      "publishedAt": "2026-10-03T07:28:23Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "Outlook Money"
       }
     },
     {
-      "title": "McCAUGHEY: Gas prices are high. So is the price of liberty",
-      "description": "Gas supplies were also interrupted during the Second World War, but the public didn\u2019t beg Franklin Roosevelt to stop fighting.",
-      "url": "https://torontosun.com/opinion/columnists/mccaughey-gas-prices-are-high-but-so-is-the-price-of-liberty",
-      "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/10/1003gaspricesmall-scaled-e1790986216102.jpg",
-      "publishedAt": "2026-10-03T00:18:26Z",
+      "title": "Nayara Energy hikes petrol by Rs 5, diesel by Rs 3",
+      "description": "The latest increase comes amid renewed pressure on fuel retailers from higher global energy prices and follows a series of price adjustments by Nayara this year as refiners grapple with the impact of geopolitical disruptions on crude and product markets.",
+      "url": "https://www.moneycontrol.com/news/business/nayara-energy-hikes-petrol-by-rs-5-diesel-by-rs-3-14043773.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261003072238_Nayara-E.jpg",
+      "publishedAt": "2026-10-03T07:24:41Z",
       "source": {
-        "name": "Toronto Sun"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Kathy Hochul delivers obscene electric and home-heating bills",
-      "description": "If high summer energy bills felt painful, brace yourself: Electric rates are set to keep climbing, and home-heating oil prices will surge by 70% this winter.",
-      "url": "https://nypost.com/2026/10/02/opinion/kathy-hochul-delivers-obscene-electric-and-home-heating-bills/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/KEKDHEDLED.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-03T00:13:41Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "G7 to release 100 million barrels of oil and diesel to curb skyrocketing gas prices",
-      "description": "The G7 nations announced on Friday they plan to release 100 million barrels of oil and diesel fuel amid skyrocketing prices.",
-      "url": "https://www.fox9.com/news/g7-release-100-million-barrels-oil-diesel-curb-skyrocketing-gas-prices",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/diesel.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-02T22:59:27Z",
-      "source": {
-        "name": "FOX 9"
-      }
-    },
-    {
-      "title": "Oil shock bypasses petrol pumps, hits Indian businesses through raw material costs",
-      "description": "India\u2019s oil shock is increasingly showing up in industrial input costs rather than at petrol pumps, with several raw materials seeing sharp price increases. IndiaMART data shows PP granules rose 32% between July and September, highlighting mounting pressure on businesses.",
-      "url": "https://www.businesstoday.in/latest/economy/story/oil-shock-bypasses-petrol-pumps-hits-indian-businesses-through-raw-material-costs-559246-2026-10-03",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6abf9ae4bcaf1-according-to-indiamarts-september-2026-marketplace-insights--the-median-quoted-price-of-pp-granules-025203160-16x9.jpg",
-      "publishedAt": "2026-10-02T22:05:03Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Americans keep on spending, but how long can they go?",
-      "description": "Despite mounting frustrations over the economy, high gas prices and years of elevated inflation, Americans have continued to open their wallets.",
-      "url": "https://foxbaltimore.com/news/nation-world/americans-keep-on-spending-but-how-long-can-they-go",
-      "image": "https://foxbaltimore.com/resources/media2/16x9/8007/1320/0x418/90/7db48ecc-3a2f-4fec-af45-ef6169c65ed0-GettyImages2248285294.jpg",
-      "publishedAt": "2026-10-02T21:02:55Z",
-      "source": {
-        "name": "Baltimore News"
-      }
-    },
-    {
-      "title": "Americans keep on spending, but how long can they go?",
-      "description": "Despite mounting frustrations over the economy, high gas prices and years of elevated inflation, Americans have continued to open their wallets.",
-      "url": "https://wjla.com/news/nation-world/americans-keep-on-spending-but-how-long-can-they-go",
-      "image": "https://wjla.com/resources/media2/16x9/8007/1320/0x418/90/7db48ecc-3a2f-4fec-af45-ef6169c65ed0-GettyImages2248285294.jpg",
-      "publishedAt": "2026-10-02T21:02:55Z",
-      "source": {
-        "name": "WJLA"
-      }
-    },
-    {
-      "title": "Energy Shares Rise Amid Broad Stocks Rally -- Energy Roundup",
-      "description": "Shares of energy companies edged higher as oil prices recovered from early declines, despite efforts by developed countries to increase global supplies.\nThe Group of Seven major economies agreed...\n-October 02, 2026 at 04:58 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/energy-shares-rise-amid-broad-stocks-rally-energy-roundup-ce785ddbdb8af023",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-10-02T20:58:15Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "In Graphics: How the cost of Iran war piled up",
-      "description": "As crude oil prices rose, India paid more for this critical import even though it got less of it, data shows. Trade with major partners in the region remains affected, households and companies are staring at high inflation, and the govt is footing an elevated subsidy bill.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/in-graphics-how-the-cost-of-iran-war-piled-up/articleshow/134646373.cms",
-      "image": "https://img.etimg.com/thumb/msid-134646382,width-1200,height-900,imgsize-76952,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-02T19:53:00Z",
+      "title": "Nayara Energy raises petrol price by Rs 5, diesel by Rs 3",
+      "description": "Nayara Energy has raised petrol prices by Rs 5 a litre and diesel by Rs 3 across its more than 7,000 fuel stations as higher crude and refined-product prices squeeze margins. The move could widen the price gap with state-run retailers, which have largely kept pump prices unchanged despite rising international costs.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/nayara-energy-raises-petrol-price-by-rs-5-diesel-by-rs-3/articleshow/134653793.cms",
+      "image": "https://img.etimg.com/thumb/msid-134653914,width-1200,height-900,imgsize-101432,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-03T06:55:00Z",
       "source": {
         "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Nayara Energy hikes petrol by \u20b95, diesel by \u20b93",
+      "description": "Nayara Energy hikes petrol by \u20b95 and diesel by \u20b93 amid rising global prices and shifting private-retailer pricing strategies.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/nayara-energy-hikes-petrol-by-5-diesel-by-3/article71539877.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/3czvun/article71539896.ece/alternates/LANDSCAPE_1200/Nayara-Energy-cGMFG6KDRJ.4.jpg.jpg",
+      "publishedAt": "2026-10-03T06:54:50Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Nayara Energy increases petrol price by \u20b95 per litre, diesel by \u20b93",
+      "description": "The fuel retailer, which operates 7,108 petrol pumps across India, has raised prices with immediate effect as higher international crude oil and refined-product costs put pressure on fuel margins",
+      "url": "https://www.business-standard.com/industry/news/nayara-energy-increases-petrol-price-by-5-per-litre-diesel-by-3-126100300246_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/10/thumb/featurecrop/1200X628/1760094071-1655.JPG",
+      "publishedAt": "2026-10-03T06:49:22Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Trump declines to reveal next move on Iran, says conflict 'won't be long'",
+      "description": "The US president said the situation was \"working out very well\" and predicted oil prices would fall once the Iran conflict ends, without giving details of his next steps or a timeline",
+      "url": "https://www.business-standard.com/world-news/trump-declines-to-reveal-next-move-on-iran-says-conflict-won-t-be-long-126100300169_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/29/thumb/fitandfill/1200X628/1790654960-0013.jpg",
+      "publishedAt": "2026-10-03T05:59:30Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Oil prices fall as G7 agrees to release 100 million barrels of reserves",
+      "description": "International benchmark Brent crude briefly fell below $100 per barrel before stabilising around $102, while US oil prices slumped by up to 5 per cent.",
+      "url": "https://www.africanews.com/2026/10/03/oil-prices-fall-as-g7-agrees-to-release-100-million-barrels-of-reserves/",
+      "image": "https://images.euronews.com/articles/stories/09/93/78/13/1024x538_cmsv2_b87a4cb6-0739-550e-81ee-1615729ddfa8-9937813.jpg",
+      "publishedAt": "2026-10-03T05:57:59Z",
+      "source": {
+        "name": "Africanews"
+      }
+    },
+    {
+      "title": "LPG consumption down, diesel & petrol sales up in September",
+      "description": "NEW DELHI: LPG demand fell by over 9% year-on-year in Sept, while petrol and diesel sales registered growth of 7% and 5%, respectively, provisional data",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/lpg-consumption-down-diesel-petrol-sales-up-in-september/articleshow/134652982.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134653006,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-03T05:51:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Oil prices retreat as Middle East export recovery tempers Iran war fears",
+      "description": "Oil prices fell sharply on Tuesday \u2013 with Brent crude dropping 1.5% to $103.72 and WTI declining 2.2% to $90.62\u00a0\u2013 as Middle Eastern crude exports recovered to 15.5 million barrels per day, the highest since the conflict began seven months ago. Saudi Arabia spearheaded the recovery by more than doubling its crude exports from 2.45 [\u2026]",
+      "url": "https://www.naturalnews.com/2026-10-03-oil-retreats-export-recovery-tempers-war-fears.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/Fuel-Oil-Barrels-Gas.jpg",
+      "publishedAt": "2026-10-03T05:15:38Z",
+      "source": {
+        "name": "Natural News"
       }
     }
   ]
