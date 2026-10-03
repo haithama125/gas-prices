@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-10-03T10:48:24+00:00",
+  "updated_at": "2026-10-03T15:24:35+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Why bad policy feels as good in 2026 as it ever did - Andrew Ketels",
+      "description": "In October 2018, Dame Jacinda Ardern declared that New Zealanders were being \u201cfleeced\u201d by petrol companies. New Zealanders were concerned about rising petrol...",
+      "url": "https://www.nzherald.co.nz/nz/why-bad-policy-feels-as-good-in-2026-as-it-ever-did-andrew-ketels/premium/UH4DSJ4LONCUTM4KVMSNUG5EMY/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/R6WLYELDFFGR5JJEAG5WFLCT6Q.jpg?auth=b35c5214be697ecdc51d959966b229864543ea8bdb15663a579908eca6848402&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-10-03T03:14:14Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Petrol, Diesel Prices On October 3: Check New Fuel Rates In Mumbai, Bengaluru, Chennai, Kolkata And More",
+      "description": "Petrol and diesel prices varied across Indian cities on October 3, as global crude crossed $100 amid Middle East tensions, while state-run oil companies kept national average fuel rates largely stable.",
+      "url": "https://www.ndtvprofit.com/india/petrol-diesel-prices-on-october-3-check-new-fuel-rates-in-mumbai-bengaluru-chennai-kolkata-and-more-12132263",
+      "image": "https://c.ndtvimg.com/2026-10/7febp6m_petrol-pump_625x300_03_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-03T02:18:11Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "McCAUGHEY: Gas prices are high. So is the price of liberty",
+      "description": "Gas supplies were also interrupted during the Second World War, but the public didn\u2019t beg Franklin Roosevelt to stop fighting.",
+      "url": "https://torontosun.com/opinion/columnists/mccaughey-gas-prices-are-high-but-so-is-the-price-of-liberty",
+      "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/10/1003gaspricesmall-scaled-e1790986216102.jpg",
+      "publishedAt": "2026-10-03T00:18:26Z",
+      "source": {
+        "name": "Toronto Sun"
+      }
+    },
+    {
+      "title": "Kathy Hochul delivers obscene electric and home-heating bills",
+      "description": "If high summer energy bills felt painful, brace yourself: Electric rates are set to keep climbing, and home-heating oil prices will surge by 70% this winter.",
+      "url": "https://nypost.com/2026/10/02/opinion/kathy-hochul-delivers-obscene-electric-and-home-heating-bills/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/KEKDHEDLED.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-03T00:13:41Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "G7 to release 100 million barrels of oil and diesel to curb skyrocketing gas prices",
+      "description": "The G7 nations announced on Friday they plan to release 100 million barrels of oil and diesel fuel amid skyrocketing prices.",
+      "url": "https://www.fox9.com/news/g7-release-100-million-barrels-oil-diesel-curb-skyrocketing-gas-prices",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/diesel.jpg?ve=1&tl=1",
+      "publishedAt": "2026-10-02T22:59:27Z",
+      "source": {
+        "name": "FOX 9"
+      }
+    },
     {
       "title": "Oil shock bypasses petrol pumps, hits Indian businesses through raw material costs",
       "description": "India\u2019s oil shock is increasingly showing up in industrial input costs rather than at petrol pumps, with several raw materials seeing sharp price increases. IndiaMART data shows PP granules rose 32% between July and September, highlighting mounting pressure on businesses.",
@@ -52,56 +102,6 @@
       "publishedAt": "2026-10-02T19:53:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Natural gas prices down as solar power generation jumps 22%",
-      "description": "By Alton Wallace |\u00a0The Center Square The price of natural gas at the Henry Hub in Louisiana averaged $2.93 per million British thermal units from June through August, about 6% [\u2026]",
-      "url": "https://americanpress.com/2026/10/02/natural-gas-prices-down-as-solar-power-generation-jumps-22/",
-      "image": "https://americanpress.com/wp-content/uploads/sites/65/2024/07/Solar-farm.jpg?w=622",
-      "publishedAt": "2026-10-02T19:27:28Z",
-      "source": {
-        "name": "American Press"
-      }
-    },
-    {
-      "title": "US stocks rise near their record after the latest jobs report eases worries about inflation",
-      "description": "U.S. stocks are rising near their record after the latest jobs report cooled worries that a potentially hot U.S economy could make inflation worse. The S&P 500 climbed 0.7% Friday and pulled within 1% of its all-time high. The Dow Jones Industrial Average added 233 points, and the Nasdaq composite rose 1.2%. They got a boost after a report showed U.S. employers slowed their hiring last month. That pushed traders to pare bets that the Federal Reserve will hike interest rates later this month. Treasury yields initially tumbled but later retraced their losses as oil prices recovered most of an early swoon.",
-      "url": "https://www.ajc.com/news/2026/10/us-stocks-rise-near-their-record-after-the-latest-jobs-report-eases-worries-about-inflation/",
-      "image": "https://images.ajc.com/resizer/v2/5AOLQ3DPNVF4THKYTEHUX4D7KI.jpg?auth=a4755685a67d0446c4df4e8186850ce8058f5c447d6548bff224ee7f103630dd&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-02T19:22:10Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Oil Prices Hover Near $100 As G7 Unleashes 100 Million Barrels",
-      "description": "Oil prices experienced mixed trends following the G7's decision to release up to 100 million barrels from emergency reserves to alleviate global energy market pressures., World News, Times Now",
-      "url": "https://www.timesnownews.com/world/oil-prices-hover-near-100-as-g7-unleashes-100-million-barrels-article-156265185",
-      "image": "https://images.timesnownews.com/thumb/msid-156265184,thumbsize-20254,width-1280,height-720,resizemode-75/156265184.jpg",
-      "publishedAt": "2026-10-02T19:14:14Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "10 get life imprisonment in Navghatkhedi murder case, 3 acquitted",
-      "description": "Special SC/ST court in Mandleshwar sentenced 10 men to life for the 2022 Navghatkhedi petrol pump murder in Khargone; 3 accused acquitted.",
-      "url": "https://timesofindia.indiatimes.com/city/indore/10-get-life-imprisonment-in-navghatkhedi-murder-case-3-acquitted/articleshow/134646121.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-10-02T19:12:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "NMC urges commercial establishments to offer free toilet access to women",
-      "description": "Nashik Municipal Corporation urges malls, hotels, restaurants and petrol pumps to offer women free toilet access, with hygiene, water, lighting and signage.",
-      "url": "https://timesofindia.indiatimes.com/city/nashik/nmc-urges-commercial-establishments-to-offer-free-toilet-access-to-women/articleshow/134645864.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134645863,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-02T18:58:00Z",
-      "source": {
-        "name": "Times of India"
       }
     }
   ]
