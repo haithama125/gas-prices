@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-10-04T16:09:16+00:00",
+  "updated_at": "2026-10-04T20:38:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Ministry probing claims of vehicle problems after refuelling at Batu Kawan petrol stations",
+      "description": "GEORGE TOWN: The Domestic Trade and Cost of Living Ministry in Penang is investigating claims that several vehicles experienced problems after refuelling at petrol stations near Batu Kawan.",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/04/ministry-probing-claims-of-vehicle-problems-after-refuelling-at-batu-kawan-petrol-stations",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/04/4143758.jpeg",
+      "publishedAt": "2026-10-04T07:16:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
+      "description": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concerns. Higher domestic rates could support the rupee but raise borrowing costs for the government and companies while pressuring equities and consumption.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
+      "image": "https://img.etimg.com/thumb/msid-134671133,width-1200,height-900,imgsize-87850,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-04T07:07:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Woman's car ran out of petrol then she suffered horrifying death as niece and nephew fled",
+      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/womans-ran-out-petrol-suffered-37724564",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
+      "publishedAt": "2026-10-04T06:00:00Z",
+      "source": {
+        "name": "Daily Record"
+      }
+    },
+    {
+      "title": "Woman's horrifying death boiled to death in own car after running out of petrol",
+      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
+      "url": "https://www.dailystar.co.uk/news/us-news/womans-horrifying-death-boiled-death-37718969",
+      "image": "https://i2-prod.dailystar.co.uk/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
+      "publishedAt": "2026-10-04T06:00:00Z",
+      "source": {
+        "name": "The daily Star"
+      }
+    },
+    {
+      "title": "Woman ran out of petrol and then boiled to death in her own car",
+      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
+      "url": "https://www.irishmirror.ie/news/world-news/woman-ran-out-petrol-boiled-37724537",
+      "image": "https://i2-prod.irishmirror.ie/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
+      "publishedAt": "2026-10-04T06:00:00Z",
+      "source": {
+        "name": "Irish Mirror"
+      }
+    },
+    {
+      "title": "RBI May Raise Rates By 25 Basis Points In October, Economists Flag Rising Oil Prices And Inflation",
+      "description": "Economists expect an RBI rate hike in October as oil prices and inflation rise. BofA and SBI see a 25 basis point increase, while Nomura sees limited tightening in this rate cycle.",
+      "url": "https://www.freepressjournal.in/business/rbi-may-raise-rates-by-25-basis-points-in-october-economists-flag-rising-oil-prices-and-inflation",
+      "image": "https://media.assettype.com/freepressjournal/2025-12-06/fyskofyy/RBI-RBI-1.jpg",
+      "publishedAt": "2026-10-04T05:10:07Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
     {
       "title": "week losing streak puts focus on RBI policy, earnings and global yields",
       "description": "Indian equities could remain under pressure in the near term as elevated US Treasury yields, firm crude oil prices and continued foreign outflows weigh on sentiment. The upcoming RBI policy, GST Council meeting and earnings season will be key triggers for the market, while 22,200 remains a crucial support level.",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-10-04T02:56:33Z",
       "source": {
         "name": "Business Today"
-      }
-    },
-    {
-      "title": "Trump\u2019s Ukraine Peace Talks Now Include $20 Billion Lukoil Oil Deal Tied To His 'Friends'",
-      "description": "The proposed deal involves Lukoil\u2019s sprawling international portfolio of oil fields, refineries and petrol stations, which the company valued at around $20 billion.",
-      "url": "https://www.news18.com/world/trumps-ukraine-peace-talks-now-include-20-billion-lukoil-oil-deal-tied-to-his-friends-10366417.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/Trump-Putin-Zelensky-2026-09-18bc672774e07aedf8f2445065ec4cc0-1200x675.jpg",
-      "publishedAt": "2026-10-04T01:55:56Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Tankers Hit Near Strait of Hormuz as Oil Prices Stay Near $100 Despite G7 Reserve Release",
-      "description": "At least three tankers have been struck by unidentified projectiles in and around the Strait of Hormuz since October 1, according to UKMTO warnings. Meanwhile, the G7 has agreed to release 100 million barrels of emergency oil, but Brent crude is still hovering around $100 a barrel., World News, Times Now",
-      "url": "https://www.timesnownews.com/world/tankers-hit-near-strait-of-hormuz-as-oil-prices-stay-near-100-despite-g7-reserve-release-article-156270243",
-      "image": "https://images.timesnownews.com/thumb/msid-156270268,thumbsize-81279,width-1280,height-720,resizemode-75/156270268.jpg",
-      "publishedAt": "2026-10-04T00:55:00Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Trump says Iran has been \u2018decimated\u2019, warns will decide on Tehran the \u2018easy\u2019 or \u2018hard\u2019 way",
-      "description": "US President Donald Trump indicated a decision regarding Iran will be made soon, emphasizing potential outcomes. He highlighted that Iran is experiencing significant economic and military challenges, with high inflation and depleted military resources. Trump suggested that any conflict with Iran could end quickly, implying favorable conditions for the US. He also mentioned that oil prices would significantly decline following the resolution of hostilities.",
-      "url": "https://economictimes.indiatimes.com/news/defence/trump-says-iran-has-been-decimated-warns-will-decide-on-tehran-the-easy-or-hard-way/articleshow/134668571.cms",
-      "image": "https://img.etimg.com/thumb/msid-134668570,width-1200,height-900,imgsize-116482,overlay-etdefence/articleshow.jpg",
-      "publishedAt": "2026-10-04T00:44:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "US midterms 2026 and the affordability election: How grocery, petrol, gas and rent costs are hitting Americans",
-      "description": "As the US midterms approach, affordability is emerging as a key voter concern despite 2.2% GDP growth. Rising grocery, gasoline, housing and utility costs are squeezing households, while Trump\u2019s $5,000 dividend proposal seeks to address growing demands for more money in Americans\u2019 pockets",
-      "url": "https://www.wionews.com/world/us-midterms-2026-and-the-affordability-election-how-grocery-petrol-gas-and-rent-costs-are-hitting-americans-1791089230911",
-      "image": "https://cdn3.wionews.com/prod/wion/images/2026/20260619/image-1781863321211.jpg?imwidth=1200&imheight=900",
-      "publishedAt": "2026-10-04T00:00:00Z",
-      "source": {
-        "name": "WION"
-      }
-    },
-    {
-      "title": "Election 2026: Green Party transport policy sees free travel for children, $2 adult fares, light rail for key cities",
-      "description": "The Green Party has launched a policy to provide affordable public transport to combat the use of fossil fuels and avoid pain at the pump as petrol prices...",
-      "url": "https://www.nzherald.co.nz/nz/politics/green-party-transport-policy-free-travel-for-children-and-2-adult-fares-light-rail-for-key-cities/W4OUFTFYNFAY5MME5FNIOSRIJA/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/UAABYOO2HJDSLM2CV3ZK3L6QYQ.jpg?auth=75d6089404c41102e6148a4c7add23e3849017e958143cdf4a022f1c6432a09a&width=1200&height=675&quality=70&smart=true",
-      "publishedAt": "2026-10-03T23:00:00Z",
-      "source": {
-        "name": "The New Zealand Herald"
-      }
-    },
-    {
-      "title": "Nayara hikes petrol by Rs 5, diesel by Rs 3",
-      "description": "Private retailer raises prices as marketing losses mount; petrol at Rs 107.12/litre in New Delhi",
-      "url": "https://www.financialexpress.com/policy/economy/nayara-hikes-petrol-by-rs-5-diesel-by-rs-3/4353110/",
-      "image": "https://images.financialexpressdigital.com/2026/10/nayara-fuel-station-1_20260326134613_20261003183431.jpg",
-      "publishedAt": "2026-10-03T18:38:02Z",
-      "source": {
-        "name": "The Financial Express"
       }
     }
   ]
