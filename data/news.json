@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-10-04T03:24:00+00:00",
+  "updated_at": "2026-10-04T11:30:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Election 2026: Green Party transport policy sees free travel for children, $2 adult fares, light rail for key cities",
+      "description": "The Green Party has launched a policy to provide affordable public transport to combat the use of fossil fuels and avoid pain at the pump as petrol prices...",
+      "url": "https://www.nzherald.co.nz/nz/politics/green-party-transport-policy-free-travel-for-children-and-2-adult-fares-light-rail-for-key-cities/W4OUFTFYNFAY5MME5FNIOSRIJA/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/UAABYOO2HJDSLM2CV3ZK3L6QYQ.jpg?auth=75d6089404c41102e6148a4c7add23e3849017e958143cdf4a022f1c6432a09a&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-10-03T23:00:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Nayara hikes petrol by Rs 5, diesel by Rs 3",
+      "description": "Private retailer raises prices as marketing losses mount; petrol at Rs 107.12/litre in New Delhi",
+      "url": "https://www.financialexpress.com/policy/economy/nayara-hikes-petrol-by-rs-5-diesel-by-rs-3/4353110/",
+      "image": "https://images.financialexpressdigital.com/2026/10/nayara-fuel-station-1_20260326134613_20261003183431.jpg",
+      "publishedAt": "2026-10-03T18:38:02Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Iran war to end 'very soon' and ' oil prices will come tumbling down'",
+      "description": "Iranian Supreme National Security Council Secretary Mohsen Rezaei claimed President Donald Trump is \"worst\" president in U.S. history, before Trump took a",
+      "url": "https://www.europesays.com/3287987/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/7a1a2aeb4511a281d6b8eaf7f0c6be9f.jpg",
+      "publishedAt": "2026-10-03T18:27:18Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Petrol and diesel drivers set to face new 57p per litre charges",
+      "description": "Motorists will be charged more at the pump when fuel duty rises for the first time in 15 years.",
+      "url": "https://www.express.co.uk/news/uk/2254197/petrol-diesel-drivers-new-57p-charges",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7171795.jpg",
+      "publishedAt": "2026-10-03T17:31:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Pastures Past: Stolen petrol, butter and other tales of theft",
+      "description": "Kem Ormond takes a look at the world of farming back in the day. In this week\u2019s Pastures Past, she has uncovered newspaper articles from the 1930s and 1940s...",
+      "url": "https://www.nzherald.co.nz/nz/pastures-past-thieves-target-petrol-butter-and-farm-supplies-in-the-1930s-and-1940s/GTPHATIGFVDNVPMBDWSAZK64ZE/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/PT4ROJTGTZBCTHS3PRDC6P36LM.jpg?auth=31c0cbd09cc8a91a5e90f251d8e0fff810e41005c9e0e5d6e5c35802f566bab3&width=1200&height=675&quality=70&focal=303%2C177&smart=false",
+      "publishedAt": "2026-10-03T16:15:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "Please, Donald Trump: Fresh petrol pump pain threatens NZ\u2019s fragile recovery - Liam Dann",
+      "description": "It\u2019s great that US President Donald Trump is a fan of Kiwi golfer Ryan Fox. But it\u2019s a shame that his erratic foreign policy approach continues to undermine...",
+      "url": "https://www.nzherald.co.nz/business/please-mr-trump-fresh-petrol-pump-pain-threatens-our-fragile-recovery-liam-dann/premium/74WMANDTRJDP5AGJFUVPVYBLE4/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/PWXEPEEJWZFL5BQAC7KOQDQ2DE.jpg?auth=529635df0cca0c9bd1e0b383dd178b24e168608e7b49c001e52ceb7b832bf672&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-10-03T16:00:00Z",
+      "source": {
+        "name": "The New Zealand Herald"
+      }
+    },
+    {
+      "title": "West Asia conflict has \u2018massive\u2019 economic and geopolitical impact, says UBC Economist Amartya Lahiri",
+      "description": "The ongoing conflict in West Asia is having significant economic and geopolitical repercussions globally, particularly through its impact on oil prices, inflation and political outcomes, according to economist Amartya Lahiri, Professor of Economics at the University of British Columbia.",
+      "url": "https://www.devdiscourse.com/article/business/3986331-west-asia-conflict-has-massive-economic-and-geopolitical-impact-says-ubc-economist-amartya-lahiri",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/03_10_2026_21_19_20_5805925.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-03T15:49:24Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "West Asia conflict has \u2018massive\u2019 economic and geopolitical impact, says UBC Economist Amartya Lahiri",
+      "description": "The ongoing conflict in West Asia is having significant economic and geopolitical repercussions globally, particularly through its impact on oil prices, inflation and political outcomes, according to economist Amartya Lahiri, Professor of Economics at the University of British Columbia.",
+      "url": "https://www.tribuneindia.com/news/business/west-asia-conflict-has-massive-economic-and-geopolitical-impact-says-ubc-economist-amartya-lahiri/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMwMjdmNmEwLWJmNDEtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-03T15:47:27Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "West Asia conflict has \u2018massive\u2019 economic and geopolitical impact, says UBC Economist Amartya Lahiri",
+      "description": "The ongoing conflict in West Asia is having significant economic and geopolitical repercussions globally, particularly through its impact on oil prices, inflation and political outcomes, according to economist Amartya Lahiri, Professor of Economics at the University of British Columbia.",
+      "url": "https://www.aninews.in/news/business/west-asia-conflict-has-8216massive8217-economic-and-geopolitical-impact-says-ubc-economist-amartya-lahiri20261003211515/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261003154506-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-03T15:45:15Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
     {
       "title": "New GRAP Rules in Delhi; restrictions in NCR October 2026: Is your car allowed? Check eligibility here from govt PDF",
       "description": "Delhi-NCR's revised GRAP rules tighten vehicle curbs as pollution rises. BS-III petrol and BS-IV diesel cars face Stage III restrictions in Delhi, Noida, Gurugram, Ghaziabad, Faridabad and Sonipat, while PUC norms remain strictly enforced.",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-10-03T15:16:18Z",
       "source": {
         "name": "Livemint"
-      }
-    },
-    {
-      "title": "Over 7% growth looks certain this year, but next year needs lower oil prices says Nilesh Shah",
-      "description": "Nilesh Shah, MD, Kotak Mahindra AMC, discusses India's Q2 growth momentum, forecasting over 7% for the year. He highlights challenges like monsoon deficit, oil",
-      "url": "https://www.cnbctv18.com/market/over-7-growth-looks-certain-this-year-but-next-year-needs-lower-oil-prices-says-nilesh-shah-20003961.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/business-growth-capacity-expansion-chatgptmitz-1600x900-11sep-2026-09-3cfc5eb0279163a0f6cafd8fbd81460b.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-03T15:02:37Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "\u2018No PUC, no fuel\u2019: Haryana orders strict compliance at petrol pumps in NCR districts",
-      "description": "Transport department says driving or operating a vehicle without a valid PUCC may attract a fine of up to Rs 10,000 under the applicable Motor Vehicle Rules",
-      "url": "https://www.tribuneindia.com/news/haryana/no-puc-no-fuel-haryana-orders-strict-compliance-at-petrol-pumps-in-ncr-districts/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE4NzU2MGMwLWJmMzYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-03T14:28:03Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Haryana-NCR petrol pumps to deny fuel to vehicles without valid PUC",
-      "description": "As per the directions, petrol, diesel and CNG stations will be required to ensure that vehicles have a valid PUC before they are refuelled | India News",
-      "url": "https://www.hindustantimes.com/india-news/haryanancr-petrol-pumps-to-deny-fuel-to-vehicles-without-valid-puc-101791037612066.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/logo/The-transport-department-order-said-that-if-a-vehi_1791037605958_d7pz.jpg",
-      "publishedAt": "2026-10-03T14:26:51Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "CCTV appeal as watches stolen at Midland petrol station",
-      "description": "Police have issued an image of a man who may have information about the crimes",
-      "url": "https://www.birminghammail.co.uk/black-country/cctv-appeal-watches-stolen-midland-34712243",
-      "image": "https://i2-prod.birminghammail.co.uk/article34712258.ece/ALTERNATES/s1200d/3_cctv-appeal-robbery-oldbury-road-rowley-regis.jpg",
-      "publishedAt": "2026-10-03T14:26:22Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Rs 530 Crore Daily Loss! Is This Why Nayara Just Raised Petrol By Rs 5 And Diesel By Rs 3?",
-      "description": "Nayara Energy has raised petrol prices by Rs 5 and diesel by Rs 3 per litre across its network, as rising global crude and fuel costs put pressure on retail margins.",
-      "url": "https://www.newsx.com/business/rs-530-crore-daily-loss-is-this-why-nayara-just-raised-petrol-by-rs-5-and-diesel-by-rs-3-279159/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/06/petrol.jpg",
-      "publishedAt": "2026-10-03T14:14:00Z",
-      "source": {
-        "name": "NewsX"
-      }
-    },
-    {
-      "title": "Europe enters winter with gas storage at 71%, raising fears of supply shortages and higher prices",
-      "description": "Europe is heading into the winter heating season with gas inventories well below levels seen in previous years, leaving a thinner buffer against demand spikes. Rising LNG imports, elevated global gas prices and growing reliance on US supplies are adding to the region\u2019s energy security challenges.",
-      "url": "https://www.businesstoday.in/world/story/europe-enters-winter-with-gas-storage-at-71-raising-fears-of-supply-shortages-and-higher-prices-559334-2026-10-03",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac1087a60e5e-the-shortfall-has-increased-the-importance-of-additional-gas-purchases-at-a-time-when-lng-and-power-03515331-16x9.png",
-      "publishedAt": "2026-10-03T13:57:14Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Cheaper Fuel Blend Could Help Fight CA's Soaring Gas Prices",
-      "description": "Gas in California is expensive, but Governor Gavin Newsom is hoping to bring down prices by introducing winter blend gasoline sooner, which is usually cheaper.",
-      "url": "https://www.slashgear.com/2276350/california-gas-prices-cheaper-winter-fuel-blend/",
-      "image": "https://www.slashgear.com/img/gallery/cheaper-fuel-blend-could-help-fight-cas-soaring-gas-prices/l-intro-1790973210.jpg",
-      "publishedAt": "2026-10-03T13:45:00Z",
-      "source": {
-        "name": "SlashGear"
-      }
-    },
-    {
-      "title": "No PUC, no petrol: Haryana NCR pumps told to verify certificates before refuelling from October 1",
-      "description": "This comes after a directive issued by Haryana transport department on October 30. | India News",
-      "url": "https://www.hindustantimes.com/india-news/haryana-ncr-petrol-pumps-told-to-verify-certificates-before-fuel-from-october-1-puc-transport-department-101791033915928.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/03/1600x900/logo/NO-PUC-No-Fuel--2_1791034260509_IZuO_1791034271303_khfE_9ed5650a-7fe7-47b6-a83a-42f65ca53ebc_jv1u.jpg",
-      "publishedAt": "2026-10-03T13:36:38Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Trump Says U.S. Strategic Petroleum Reserve Will Soon Be Refilled, Energy Prices to Drop After Iran Conflict",
-      "description": "U.S. President Donald Trump expressed confidence in stabilizing oil prices during a campaign rally supporting midterm elections on the 2nd (local time).",
-      "url": "https://www.europesays.com/3287547/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/202228196_1280.jpg",
-      "publishedAt": "2026-10-03T13:24:31Z",
-      "source": {
-        "name": "EUROPE SAYS"
       }
     }
   ]
