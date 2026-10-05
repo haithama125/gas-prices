@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-04T20:38:29+00:00",
+  "updated_at": "2026-10-05T03:01:27+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Ministry probing claims of vehicle problems after refuelling at Batu Kawan petrol stations",
-      "description": "GEORGE TOWN: The Domestic Trade and Cost of Living Ministry in Penang is investigating claims that several vehicles experienced problems after refuelling at petrol stations near Batu Kawan.",
-      "url": "https://www.thestar.com.my/news/nation/2026/10/04/ministry-probing-claims-of-vehicle-problems-after-refuelling-at-batu-kawan-petrol-stations",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/04/4143758.jpeg",
-      "publishedAt": "2026-10-04T07:16:00Z",
+      "title": "Two Arrested in Murcia as Police Seize 700 Litres of Fuel Linked to Suspected Smuggling Support",
+      "description": "Two Arrested in Murcia as Police Seize 700 Litres of Fuel Linked to Suspected Smuggling Support - Guardia Civil officers have arrested two people at a Murcia city petrol station after discovering a hired van carrying more than 70 fuel containers and - The Leader - The No. 1 Spanish Newspaper",
+      "url": "https://theleader.info/2026/10/04/two-arrested-in-murcia-as-police-seize-700-litres-of-fuel-linked-to-suspected-smuggling-support/",
+      "image": "https://j6n3r3q2.delivery.rocketcdn.me/wp-content/uploads/2026/10/20261002-DETENIDOS-PETAQUEO-SANTOMERA-04.jpg",
+      "publishedAt": "2026-10-04T14:11:40Z",
+      "source": {
+        "name": "The Leader Newspaper"
+      }
+    },
+    {
+      "title": "Diesel prices could fall below $2 a litre in coming months: expert",
+      "description": "Diesel prices could fall below $2 a litre in the coming months as oil prices ease, but ongoing tensions between the United States and Iran remain a major wildcard, an energy expert says.",
+      "url": "https://www.cp24.com/news/canada/2026/10/04/diesel-prices-could-fall-below-2-a-litre-in-coming-months-expert/",
+      "image": "https://www.cp24.com/resizer/v2/YOQZ4CNQH5B2FPP7KXCIVPQZHE.png?smart=true&auth=0361fcefcd02bc7aadd209f3fcc00312fc0dc6f32a660b1a00f7890c955542e1&width=1200&height=630",
+      "publishedAt": "2026-10-04T13:45:21Z",
+      "source": {
+        "name": "CP24 Toronto"
+      }
+    },
+    {
+      "title": "Diesel prices could fall below $2 a litre in coming months: expert",
+      "description": "Diesel prices could fall below $2 a litre in the coming months as oil prices ease, but ongoing tensions between the United States and Iran remain a major wildcard, an energy expert says.",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/10/04/diesel-prices-could-fall-below-2-a-litre-in-coming-months-expert/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/YOQZ4CNQH5B2FPP7KXCIVPQZHE.png?smart=true&auth=0361fcefcd02bc7aadd209f3fcc00312fc0dc6f32a660b1a00f7890c955542e1&width=1200&height=630",
+      "publishedAt": "2026-10-04T13:45:21Z",
+      "source": {
+        "name": "Bnn Bloomberg"
+      }
+    },
+    {
+      "title": "Mideast-stocks-most Gulf shares end higher on firmer oil, US rate bets",
+      "description": "Most Gulf stock markets ended higher on Sunday, with the Saudi index buoyed by firm oil prices, softer US rate expectations and renewed investor appetite after recent heavy selling.\nSaudi Arabia's...",
+      "url": "https://www.marketscreener.com/news/mideast-stocks-most-gulf-shares-end-higher-on-firmer-oil-us-rate-bets-ce785ddbdc8ff026",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-04T13:26:19Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "'Can't Pretend Things Are Normal With Oil Prices Hitting $100': Jaishankar On Global Energy Shock",
+      "description": "Jaishankar said the global energy situation remains \"deeply unsettling\", pointing to the sharp rise in oil prices as a reflection of market uncertainty.",
+      "url": "https://www.news18.com/india/jaishankar-on-global-energy-shock-iran-war-cant-pretend-things-are-normal-with-oil-prices-hitting-100-10366915.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/08/External-Affairs-Minister-Jaishankar-2025-08-04dbdaf4130a93d6ddb6e975e3bbd526-16x9.jpg",
+      "publishedAt": "2026-10-04T12:54:18Z",
+      "source": {
+        "name": "News18"
+      }
+    },
+    {
+      "title": "Trump's Ohio rally: How gas prices and AI data centres could shape November 2026 midterm elections",
+      "description": "Trump's Ohio rally highlights how rising gas prices, AI data centres and key Senate and governor races could affect Republicans in the November 2026 midterms.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/trumps-ohio-rally-how-gas-prices-and-ai-data-centres-could-shape-november-2026-midterm-elections-101791116026228.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/04/1600x900/logo/USA-TRUMP--116_1791116263189_EFiJ_1791116268991_vTC1_60102292-2a92-4dd3-92f1-390623f3bbec_30CT.JPG",
+      "publishedAt": "2026-10-04T12:47:24Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "RBI May Reverse Rate-Cut Cycle With 25 Bps Hike In October Policy: Economists",
+      "description": "RBI may raise repo rate by 25 bps in October as oil prices, West Asia tensions and rising inflation fuel expectations of policy tightening., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/rbi-may-reverse-rate-cut-cycle-with-25-bps-hike-in-october-policy-economists-article-156272256",
+      "image": "https://images.timesnownews.com/thumb/msid-156272253,thumbsize-72954,width-1280,height-720,resizemode-75/156272253.jpg",
+      "publishedAt": "2026-10-04T12:16:43Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "HMRC could take 89p from diesel drivers after January 2027 rule change",
+      "description": ". Fuel duty is a flat tax charged on every litre of petrol or diesel sold in the UK.",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/hmrc-could-take-89p-diesel-34698745",
+      "image": "https://i2-prod.birminghammail.co.uk/article34698777.ece/ALTERNATES/s1200d/0_diesel1.jpg",
+      "publishedAt": "2026-10-04T12:15:42Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "A record not worth cheering? California gas prices near all-time high",
+      "description": "SAN JOSE, California \u2014 A march to an all-time record is on again, and the path to it is likely to unite Californians \u2014 in their anger at gas prices, boiling as drivers watch their totals reach higher and higher. \u201cIt\u2019s nothing but a financial burden, man,\u201d 31-year-old Saleh Abdullah said as he pumped gas at the Costco station on Monument Boulevard, where regular unleaded was $5.89 a gallon ...",
+      "url": "https://www.spokesman.com/stories/2026/oct/04/a-record-not-worth-cheering-california-gas-prices-/",
+      "image": "https://thumb.spokesman.com/1xNC2bmJhxUU079GTmwLgt2UIpw=/2400x1260/smart/media.spokesman.com/photos/2026/10/01/6abef7e0c2686.hires.jpg",
+      "publishedAt": "2026-10-04T11:30:00Z",
+      "source": {
+        "name": "Spokane Spokesman-Review"
+      }
+    },
+    {
+      "title": "No water found in RON95 petrol from Batu Kawan station",
+      "description": "BATU KAWAN: The Penang Domestic Trade and Cost of Living Ministry has found no sign of water in RON95 storage tanks at a petrol station here following claims on social media.",
+      "url": "https://www.thestar.com.my/news/nation/2026/10/04/no-water-found-in-ron95-petrol-from-batu-kawan-station",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/04/4144254.jpg",
+      "publishedAt": "2026-10-04T11:24:00Z",
       "source": {
         "name": "The Star"
-      }
-    },
-    {
-      "title": "Rate cut cycle near turning point. What lies ahead for Indian bonds?",
-      "description": "The RBI is expected to signal monetary tightening at its October policy meeting as stronger economic growth, rising oil prices and elevated US Treasury yields fuel inflation concerns. Higher domestic rates could support the rupee but raise borrowing costs for the government and companies while pressuring equities and consumption.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rate-cut-cycle-near-turning-point-what-lies-ahead-for-indian-bonds/articleshow/134671117.cms",
-      "image": "https://img.etimg.com/thumb/msid-134671133,width-1200,height-900,imgsize-87850,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-04T07:07:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Woman's car ran out of petrol then she suffered horrifying death as niece and nephew fled",
-      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/womans-ran-out-petrol-suffered-37724564",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
-      "publishedAt": "2026-10-04T06:00:00Z",
-      "source": {
-        "name": "Daily Record"
-      }
-    },
-    {
-      "title": "Woman's horrifying death boiled to death in own car after running out of petrol",
-      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
-      "url": "https://www.dailystar.co.uk/news/us-news/womans-horrifying-death-boiled-death-37718969",
-      "image": "https://i2-prod.dailystar.co.uk/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
-      "publishedAt": "2026-10-04T06:00:00Z",
-      "source": {
-        "name": "The daily Star"
-      }
-    },
-    {
-      "title": "Woman ran out of petrol and then boiled to death in her own car",
-      "description": "A 36-year-old woman, paralysed from the waist down, was left stranded on a highway in the USA, inside her overheating car",
-      "url": "https://www.irishmirror.ie/news/world-news/woman-ran-out-petrol-boiled-37724537",
-      "image": "https://i2-prod.irishmirror.ie/article37718962.ece/ALTERNATES/s1200d/0_Paralysed-woman-36-dies-trapped-in-hot-car-after-running-out-of-fuel-during-road-trip-with-young-n.jpg",
-      "publishedAt": "2026-10-04T06:00:00Z",
-      "source": {
-        "name": "Irish Mirror"
-      }
-    },
-    {
-      "title": "RBI May Raise Rates By 25 Basis Points In October, Economists Flag Rising Oil Prices And Inflation",
-      "description": "Economists expect an RBI rate hike in October as oil prices and inflation rise. BofA and SBI see a 25 basis point increase, while Nomura sees limited tightening in this rate cycle.",
-      "url": "https://www.freepressjournal.in/business/rbi-may-raise-rates-by-25-basis-points-in-october-economists-flag-rising-oil-prices-and-inflation",
-      "image": "https://media.assettype.com/freepressjournal/2025-12-06/fyskofyy/RBI-RBI-1.jpg",
-      "publishedAt": "2026-10-04T05:10:07Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "week losing streak puts focus on RBI policy, earnings and global yields",
-      "description": "Indian equities could remain under pressure in the near term as elevated US Treasury yields, firm crude oil prices and continued foreign outflows weigh on sentiment. The upcoming RBI policy, GST Council meeting and earnings season will be key triggers for the market, while 22,200 remains a crucial support level.",
-      "url": "https://www.cnbctv18.com/market/nifty-outlook-monday-october-5-eight-week-losing-streak-puts-focus-on-rbi-policy-earnings-and-global-yields-20004036.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-40d89c520faf5562ca538098bbb069ec.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-04T04:08:29Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "E85 may need to be 25% cheaper than petrol for cost parity, says IIT Delhi-AIDA paper",
-      "description": "Paper proposes dynamic pricing based on cost per kilometre and vehicle-specific fuel economy, calls for separate ethanol strategy for two-wheelers.",
-      "url": "https://theprint.in/economy/e85-may-need-to-be-25-cheaper-than-petrol-for-cost-parity-says-iit-delhi-aida-paper/3060877/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/10/Untitled-design-2026-10-03T132430.393.png",
-      "publishedAt": "2026-10-04T03:49:31Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Will Nifty, Sensex plunge for 9th straight week? TCS Q2, 4 factors to drive Dalal Street from Monday",
-      "description": "India's stock market has faced a challenging downturn, marking eight weeks of losses, the longest in 25 years. Driving this trend are soaring oil prices and rising US bond yields. The sell-off by foreign institutional investors has intensified the downturn. As companies like TCS and DMart prepare for their Q2 earnings, investors hope for signs of resilience amidst a weaker rupee fueling their concerns.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-plunge-for-9th-straight-week-tcs-q2-4-factors-to-drive-dalal-street-from-monday/articleshow/134669285.cms",
-      "image": "https://img.etimg.com/thumb/msid-134669302,width-1200,height-900,imgsize-244634,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-04T03:44:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today (October 4): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "Consumers should monitor local rates, as city-specific taxes vary even within the same state, leading to differences in retail fuel prices.",
-      "url": "https://www.businesstoday.in/latest/economy/story/petrol-diesel-prices-today-october-4-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-559358-2026-10-04",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac1b51b34b85-no-valid-pucc-no-fuel-231623978-16x9.jpg",
-      "publishedAt": "2026-10-04T02:56:33Z",
-      "source": {
-        "name": "Business Today"
       }
     }
   ]
