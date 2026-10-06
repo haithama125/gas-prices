@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-06T12:25:00+00:00",
+  "updated_at": "2026-10-06T22:00:35+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Retail figures: Spending falls in September as consumers cope with rising petrol prices, interest rates, bad weather",
-      "description": "Paymark figures show consumer spending fell again in September as consumers dealt with a triple-whammy of higher petrol prices, rising interest rates and bad...",
-      "url": "https://www.nzherald.co.nz/business/retail-figures-spending-falls-in-september-as-consumers-cope-with-rising-petrol-prices-interest-rates-bad-weather/BC24F3PVWVCBPMXNNAAUQCFW3E/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/QZ5UPZ4XX6DNCJU67JXBBVVSRE.jpg?auth=0ffe1f338341eb936962a1839c0fd563e649d3c934735a04d28dbf9788b3ff57&width=1200&height=675&quality=70&focal=680%2C605&smart=false",
-      "publishedAt": "2026-10-06T00:00:57Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12858359",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-1-sunset-strolling-lake-nipissing-north-bay-gisele-m-gauthier.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-10-06T10:00:00Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "BayToday"
       }
     },
     {
-      "title": "Burnham's care service plan needs radical planning and bold implementation",
-      "description": "I don\u2019t really know Andy Burnham. I remember back in 2015 he came to a Labour leadership hustings at the GMB Congress in Dublin and revealed himself to be badly out of touch with the day-to-day cost of living when asked by a delegate what the price of petrol was.And I recall that in 2017 when I stood for the Scottish Labour leadership he came out during the campaign to back Anas Sarwar \u201chaving worked closely with Anas in Westminster\u201d which rather belies this idea that he eschews the Westminster club.",
-      "url": "https://morningstaronline.co.uk/article/burnhams-care-service-plan-needs-radical-planning-and-bold-implementation",
-      "image": "https://morningstaronline.co.uk/sites/default/files/styles/wide/public/2026-10/Richard%20Leonard%20web.jpg.webp?itok=NBEWPGLA",
-      "publishedAt": "2026-10-06T00:00:00Z",
+      "title": "Hiltzik: The mystery of Trump's Venezuela oil deal",
+      "description": "Trump is concealing the details of his deal for Venezuelan oil, but what's known is that it won't do anything to lower U.S. gas prices.",
+      "url": "https://www.latimes.com/business/story/2026-10-06/trump-deal-for-venezuela-oil-is-secretive-exaggerated-and-suspicious",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/ca12370/2147483647/strip/true/crop/6736x3536+0+607/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2Fbb%2F3897c824481985f39caec9117dc0%2Fgettyimages-2253891367.jpg",
+      "publishedAt": "2026-10-06T10:00:00Z",
       "source": {
-        "name": "The Morning Star"
+        "name": "Los Angeles Times"
       }
     },
     {
-      "title": "Trump Blames Ukraine for Gas Prices: Where Diesel Costs Are Highest",
-      "description": "President Trump blamed Ukraine and refinery closures for fuel costs as AAA data showed California has the highest diesel prices.",
-      "url": "https://www.newsweek.com/trump-blames-ukraine-for-gas-prices-where-diesel-costs-are-highest-12526665",
-      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/AP26278710459072.jpg?w=1200&crop=1",
-      "publishedAt": "2026-10-05T22:55:46Z",
+      "title": "Honda Elevate facelift 2026: Check expected features, design changes, engine and price",
+      "description": "Honda is set to launch the Elevate facelift on October 6, marking the SUVs first mid-cycle update since its 2023 debut. The updated model is expected to receive exterior styling changes, new cabin features and additional equipment, while retaining the 1.5-litre petrol engine. Honda has already opened pre-bookings for the facelift at Rs 21,000.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/honda-elevate-facelift-2026-check-expected-features-design-changes-engine-and-price/articleshow/134734173.cms",
+      "image": "https://img.etimg.com/thumb/msid-134735041,width-1200,height-900,imgsize-60538,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-06T09:57:00Z",
       "source": {
-        "name": "Newsweek"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "G7 Oil Stocks Release Is A Band",
-      "description": "Crude oil prices and middle distillate cracks slumped at the end of last week as the G7 group of nations announced the release of 100 million barrels of oil",
-      "url": "https://www.europesays.com/3292444/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/2026-10-05_q6qzglilen.jpg",
-      "publishedAt": "2026-10-05T22:47:22Z",
+      "title": "India faces new challenges amid growing oil shock",
+      "description": "GST 2.0 now focuses on simpler compliance and better tax efficiency. Rising oil prices add pressure on India\u2019s economy and import costs",
+      "url": "https://www.moneycontrol.com/news/opinion/gst-council-meeting-india-faces-new-challenges-amid-growing-oil-shock-14045631.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250902100507_GST-AFP-news.jpg",
+      "publishedAt": "2026-10-06T09:12:37Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Nissan X-Trail Rock Creek e-Power: More rugged-looking hybrid SUV a possibility for Australia",
-      "description": "Nissan has launched the new X-Trail Rock Creek here only with petrol power to reduce complexity, but says it could bring a hybrid option.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/nissan-x-trail-rock-creek-e-power-more-rugged-looking-hybrid-suv-a-possibility-for-australia-c-22972692",
-      "image": "https://images.perthnow.com.au/publication/C-22972692/fe1e06c9041e3ccdb28ccf95ceea6930fa35d561-16x9-x0y205w3939h2216.jpg?imwidth=1200",
-      "publishedAt": "2026-10-05T22:42:33Z",
+      "title": "RBI October MPC meet: 7 factors behind expectations of a 25 bps repo rate hike",
+      "description": "RBI is expected to raise the repo rate by 25 bps to 5.5% amid rising inflation, global risks, and excess liquidity. Experts highlight factors like oil prices, exports, and consumer credit growth shaping future rate paths.",
+      "url": "https://www.financialexpress.com/policy/economy/rbi-october-mpc-meet-7-factors-behind-expectations-of-a-25-bps-repo-rate-hike/4354678/",
+      "image": "https://images.financialexpressdigital.com/2026/10/RBI-Governor-SanjayMalhotra_20260907130320_20261006090703.jpg",
+      "publishedAt": "2026-10-06T09:08:09Z",
       "source": {
-        "name": "PerthNow"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Nissan X-Trail Rock Creek e-Power: More rugged-looking hybrid SUV a possibility for Australia",
-      "description": "Nissan has launched the new X-Trail Rock Creek here only with petrol power to reduce complexity, but says it could bring a hybrid option.",
-      "url": "https://7news.com.au/motoring/nissan-x-trail-rock-creek-e-power-more-rugged-looking-hybrid-suv-a-possibility-for-australia-c-22972690",
-      "image": "https://images.7news.com.au/publication/C-22972690/fe1e06c9041e3ccdb28ccf95ceea6930fa35d561-16x9-x0y205w3939h2216.jpg?imwidth=1200",
-      "publishedAt": "2026-10-05T22:42:33Z",
+      "title": "GOP Rep. Steube Predicts Gas Prices Will Ease After Trump Venezuela Deal",
+      "description": "Monday, during an appearance on Fox Business Network's \"The Evening Edit,\" Rep. Greg Steube (R-FL) urged Americans to be patient about fuel prices because relief is coming thanks to President Donald Trump's deal with Venezuelan producers. | Clips",
+      "url": "https://www.breitbart.com/politics/2026/10/06/gop-rep-steube-predicts-gas-prices-will-ease-after-trump-venezuela-deal/",
+      "image": "https://media.breitbart.com/media/2026/08/Steube8192026-640x335.jpg",
+      "publishedAt": "2026-10-06T09:04:27Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Oil exports top pre-war levels, tanker attacks increase",
-      "description": "Attacks on oil tankers in the Middle East continue, with at least seven incidents reported in the past week, as oil and petrol prices skyrocket.",
-      "url": "https://www.perthnow.com.au/news/conflict/oil-exports-top-pre-war-levels-tanker-attacks-increase-c-22972484",
-      "image": "https://images.perthnow.com.au/publication/C-22972484/c59f6573cbfa9c56cd0eac2762dad83971f1959b-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-10-05T21:50:56Z",
+      "title": "GOP Rep. Steube Predicts Gas Prices Will Ease After Trump Venezuela Deal",
+      "description": "Monday, during an appearance on Fox Business Network's \"The Evening Edit,\" Rep. Greg Steube (R-FL) urged Americans to be patient about fuel prices because relief is coming thanks to President Donald Trump's deal with Venezuelan producers. | Clips",
+      "url": "https://www.breitbart.com/clips/2026/10/06/gop-rep-steube-predicts-gas-prices-will-ease-after-trump-venezuela-deal/",
+      "image": "https://media.breitbart.com/media/2026/08/Steube8192026-640x335.jpg",
+      "publishedAt": "2026-10-06T09:04:27Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Electric vehicle sales hit new high as petrol shock continues, overall market booms",
-      "description": "New electric vehicle sales continued to gain momentum in September, as Brent Crude climbed back over US$100 ($178) per barrel. Pure battery electric vehicle...",
-      "url": "https://www.nzherald.co.nz/business/electric-vehicle-sales-hit-new-high-as-petrol-shock-continues-overall-market-booms/premium/GNPWSC7G3FA27IXUPNWT4CCQUI/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/QJWRE54CAROODIUASMSAGHWYVM.jpg?auth=9de605f98ee3981f5a4ac802feda4b4bd74ab4449f2b457cab308982008152a1&width=1200&height=675&quality=70&focal=545%2C486&smart=false",
-      "publishedAt": "2026-10-05T21:41:15Z",
+      "title": "Nouriel Roubini: The world is in turmoil but the global economy has been chugging along-how come?",
+      "description": "Tariffs, high oil prices and wars have spelt high uncertainty, yet economic activity has broadly kept pace so far. The most important explanation for this resilience is a positive supply shock in the shape of AI investment. If this goes wrong, the world will face severe consequences.",
+      "url": "https://www.livemint.com/opinion/online-views/nouriel-roubini-world-is-in-turmoil-but-the-global-economy-has-been-chugging-along-how-come-11791196008961.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/AI_reuters_1791276422858_fzly_1791276430651_mHfp_421d0310-a889-415e-b7a0-f523ad653439_fy4v.jpg",
+      "publishedAt": "2026-10-06T09:00:40Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Amazon Prime members could get a discount on gas prices",
-      "description": "Prime members can save 20 cents per gallon when they fill up on Fridays at eligible stations, like bp, Amoco, AmPm and Thorntons locations.",
-      "url": "https://www.nbcboston.com/news/national-international/amazon-prime-members-discount-on-gas-prices-heres-how/4026220/",
-      "image": "https://media.nbcboston.com/2019/09/gas23.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-05T21:30:36Z",
+      "title": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
+      "description": "By Joe Stonor\nU.S. stock futures extended gains and oil prices fell back below $100 a barrel in early European trade, as investors brushed off stubbornly elevated Treasury yields to push equities...",
+      "url": "https://www.marketscreener.com/news/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-ce785dd8df80ff25",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-06T08:13:26Z",
       "source": {
-        "name": "NBC10 Boston"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Amazon Prime members could get a discount on gas prices",
-      "description": "Prime members can save 20 cents per gallon when they fill up on Fridays at eligible stations, like bp, Amoco, AmPm and Thorntons locations.",
-      "url": "https://www.nbcchicago.com/news/national-international/amazon-prime-members-discount-on-gas-prices-heres-how/3998135/",
-      "image": "https://media.nbcchicago.com/2019/09/gas23.jpg?quality=85&strip=all&resize=1200%2C675",
-      "publishedAt": "2026-10-05T21:30:36Z",
+      "title": "Stocks perk up as oil falls and yields retreat",
+      "description": "Stock prices in Europe opened higher on Tuesday, making a positive start as oil prices ease and government bond yields cool.\nUS tech shares shone on Monday, but in Europe, the start of the week was...",
+      "url": "https://www.marketscreener.com/news/stocks-perk-up-as-oil-falls-and-yields-retreat-ce785dd8df81f724",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-06T08:00:27Z",
       "source": {
-        "name": "NBC 5 Chicago"
+        "name": "MarketScreener"
       }
     }
   ]
