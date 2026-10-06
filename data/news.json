@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-05T23:28:15+00:00",
+  "updated_at": "2026-10-06T03:50:29+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee falls 5 paise to close at 96.30 against US dollar",
-      "description": "The rupee depreciated 5 paise to close at 96.30 against the US dollar amid oil prices and foreign fund outflows, as markets await the RBI monetary policy decisi",
-      "url": "https://www.cnbctv18.com/market/rupee-falls-5-paise-to-close-at-96-30-against-us-dollar-20004803.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/artificial-intelligence-30-2026-09-c130548f1227ec19c55d104a40d99bf3.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-05T11:20:49Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Stock markets rebound; Sensex climbs 473 points",
-      "description": "Stock markets rebounded as Sensex and Nifty closed higher, aided by softer US jobs data, easing oil prices, and a shift in risk appetite.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-rebound-sensex-climbs-473-points/article71546832.ece",
-      "image": "https://th-i.thgim.com/public/incoming/hpnxlv/article69500031.ece/alternates/LANDSCAPE_1200/PTI04_08_2025_000179B.jpg",
-      "publishedAt": "2026-10-05T11:06:57Z",
-      "source": {
-        "name": "The Hindu"
-      }
-    },
-    {
-      "title": "MPC rate hikes imminent amid crude shock and yield surge; private capex to remain resilient: Crisil\u2019s Dipti Deshpande",
-      "description": "Rising crude oil prices and monsoon deficiencies are escalating cost pressures, making a compelling case for monetary tightening, according to Dipti Deshpande, Principal Economist at Crisil.",
-      "url": "https://www.tribuneindia.com/news/business/mpc-rate-hikes-imminent-amid-crude-shock-and-yield-surge-private-capex-to-remain-resilient-crisils-dipti-deshpande/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTYzMTRlMzkwLWMwYWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-05T10:56:08Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "UK petrol and diesel shortages \u2018severe risk\u2019 update issued",
-      "description": "UK petrol and diesel supplies could be affected by the action.",
-      "url": "https://www.express.co.uk/life-style/cars/2254474/uk-petrol-diesel-shortages-severe",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7173369.jpg",
-      "publishedAt": "2026-10-05T10:56:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Crisil\u2019s Dipti Deshpande",
-      "description": "Rising crude oil prices and monsoon deficiencies are escalating cost pressures, making a compelling case for monetary tightening, according to Dipti Deshpande, Principal Economist at Crisil.",
-      "url": "https://www.aninews.in/news/business/mpc-rate-hikes-imminent-amid-crude-shock-and-yield-surge-private-capex-to-remain-resilient-crisil8217s-dipti-deshpande20261005162443/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261005105411-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-05T10:54:43Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Gas prices in Michigan dropped 22 cents per gallon in the past week, AAA says",
-      "description": "Michigan motorists are now paying an average of $4.47 a gallon for regular unleaded gas, AAA says.",
-      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-drop-22-cents/",
-      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/05/603fb0f6-aa3c-471b-997f-f169d5ca8fc9/thumbnail/1200x630/1f6dccd93a7e647869a7d1bb4a04dd4d/gettyimages-2297447644.jpg",
-      "publishedAt": "2026-10-05T10:48:25Z",
-      "source": {
-        "name": "CBS News"
-      }
-    },
-    {
-      "title": "Wall St futures dip as tech stocks take a breather",
-      "description": "US stock index futures dipped on Monday, as technology stocks eased from record highs, while investors looked for fresh clues on the monetary policy path with Treasury yields and oil prices still...",
-      "url": "https://www.marketscreener.com/news/wall-st-futures-dip-as-tech-stocks-take-a-breather-ce785ddbd08af120",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-29T155458Z_1_LYNXMPEM8S1H9_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-05T10:46:47Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Rupee ends flat, anchored by RBI intervention in face of global strains",
-      "description": "The Indian rupee ended little changed on Monday, bolstered by central bank interventions during ongoing pressures. A firmer dollar was observed, approaching a 17-month high due to a weak euro's impact. Crude oil prices increased to nearly $103 per barrel, posing risks to India's economy. India's Finance Minister Nirmala Sitharaman stated that trade talks with the United States reached a plateau.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-ends-flat-anchored-by-rbi-intervention-in-face-of-global-strains/articleshow/134700361.cms",
-      "image": "https://img.etimg.com/thumb/msid-134700428,width-1200,height-900,imgsize-35218,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-05T10:46:00Z",
+      "title": "Broadening rally in stocks hits an economic roadblock",
+      "description": "Elevated oil prices and surging bond yields are narrowing Wall Streets rally, leaving investors concentrated in AI-related stocks while broader market participation weakens. Strong economic and earnings growth offers support, but a widening gap between bond and equity volatility signals that stocks could face sharper swings ahead.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/broadening-rally-in-stocks-hits-an-economic-roadblock/articleshow/134711680.cms",
+      "image": "https://img.etimg.com/thumb/msid-134711692,width-1200,height-900,imgsize-91508,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-05T15:45:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "UK's FTSE 100 steadies after worst week since April as miners gain",
-      "description": "The UK's FTSE 100 rose on Monday, steadying after its steepest drop since April last week, as mining shares led gains and oil prices stayed in check.\nThe blue-chip FTSE 100 index rose...",
-      "url": "https://www.marketscreener.com/news/uk-s-ftse-100-steadies-after-worst-week-since-april-as-miners-gain-ce785ddbd08bf122",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-09T093620Z_1_LYNXMPEM880RX_RTROPTP_4_BRITAIN-ECONOMY.JPG",
-      "publishedAt": "2026-10-05T10:39:49Z",
+      "title": "Oil market turmoil could last for years, executives say",
+      "description": "Shipping bottlenecks, deep cuts in refinery output and inventory draws\u00a0that could take years to replace will keep global oil prices high beyond this year, industry executives said at a conference in...",
+      "url": "https://www.marketscreener.com/news/oil-market-turmoil-could-last-for-years-executives-say-ce785dd8db8df724",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-05T105010Z_2_LYNXMPEM940L3_RTROPTP_4_DAVOS-MEETING.JPG",
+      "publishedAt": "2026-10-05T15:42:30Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "October monetary policy meeting: Why a 25-basis-point rate hike is likely this time",
-      "description": "If inflation begins to moderate and oil prices fall, the RBI could stop at 5.50 percent. Conversely, if oil remains above 100 dollars a barrel and inflation continues moving higher, the market could begin pricing a much more aggressive tightening cycle.",
-      "url": "https://www.newindianexpress.com/business/2026/Oct/05/october-monetary-policy-meeting-why-a-25-basis-point-rate-hike-is-likely-this-time",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-09-15%2F5zzs0qcz%2F202609153942622.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-10-05T10:30:46Z",
+      "title": "Aramco Cuts Asia Oil Prices To Six-Year Low, Warns Global Oil Supply Buffer \"Scarily Thin\"",
+      "description": "ZeroHedge - On a long enough timeline, the survival rate for everyone drops to zero",
+      "url": "https://www.zerohedge.com/energy/aramco-cuts-asia-oil-prices-six-year-low-warns-global-oil-supply-buffer-scarily-thin",
+      "image": "https://cms.zerohedge.com/s3/files/styles/16_9_max_700/public/2026-10/2026-10-05_07-47-21.jpg?h=49fb5fb3&itok=xkZVm9AQ",
+      "publishedAt": "2026-10-05T15:40:00Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "ZeroHedge"
+      }
+    },
+    {
+      "title": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: Petrol vs Diesel vs CNG vs EV - Know car ban guidelines here",
+      "description": "The revised GRAP in Delhi-NCR enforces plying restrictions on BS-III petrol and BS-IV diesel vehicles, excluding BS-VI, CNG, and electric cars. Measures now include earlier implementation for interstate buses and expanded monitoring of construction sites to combat air pollution.",
+      "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-petrol-vs-diesel-vs-cng-vs-ev-know-car-ban-guidelines-here-11791207178162.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/05/1600x900/logo/AI_1791210734809_8YhA_1791210735134_oQaE_a9762d20-e7d2-4339-9a8c-d5e116d205c0_xJEa.png",
+      "publishedAt": "2026-10-05T15:01:35Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Gas prices dip in Michigan, though decline may be temporary",
+      "description": "The state average of $4.46 per gallon remains $1.35 higher than last October, driven by seven months of supply constraints from Middle East conflicts and refinery disruptions.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-dip-in-michigan-though-decline-may-be-temporary.html",
+      "image": "https://www.mlive.com/resizer/v2/IMRGTDOXGBEP3LBSCLCIDXXT7E.JPG?auth=2b483a06875769087179aaf75ae1d8308d790b20b54b44a03ed525db2b002d45&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-05T14:49:03Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Yemen Says Its Forces Have Seized a Key Global Waterway From The Houthis. Oil Prices Are Edging Down.",
+      "description": "The head of Yemen's presidential council, Rashad al-Alimi, said the internationally-recognized government has \"exhausted all opportunities for de-escalation\" with the Houthis.",
+      "url": "https://www.ibtimes.com/yemen-says-its-forces-have-seized-key-global-waterway-houthis-oil-prices-are-edging-down-3808233",
+      "image": "https://d.ibtimes.com/en/full/4653198/bab-al-mandeb.jpg",
+      "publishedAt": "2026-10-05T14:48:18Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "US stocks edge toward their records after oil prices ease a bit",
+      "description": "U.S. stocks are holding relatively steady following the latest yo-yo moves for oil prices. The S&P 500 rose 0.3% Monday and pulled within 0.7% of its all-time high set during the summer. The Dow Jones Industrial Average fell 135 points, while the Nasdaq composite climbed 0.5% and was on track to set its own record. The moves were sharper in the oil market, where the price for a barrel of Brent crude edged down after swinging earlier between $100 and $103. In the bond market, the 10-year U.S. Treasury yield rose to 5.29%.",
+      "url": "https://www.ajc.com/news/2026/10/us-stocks-hold-near-their-records-after-oil-prices-swing-lower/",
+      "image": "https://images.ajc.com/resizer/v2/NMNVOTDLOFGD3CCFYBUKBI33LQ.jpg?auth=ec7587a6794f9ad940be0fb1a0009563e8e4c894eb1b77030ce7d6c9f27764fc&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-05T14:32:30Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Energy stocks weigh on TSX as oil prices ease",
+      "description": "Canada's resource-heavy main stock index fell on Monday as lower oil prices weighed on energy stocks, though gains in technology shares limited losses, while investors parsed economic data and...",
+      "url": "https://www.marketscreener.com/news/energy-stocks-weigh-on-tsx-as-oil-prices-ease-ce785dd8d881f324",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-17T103518Z_1_LYNXMPEL3G0E9_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2026-10-05T14:26:52Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "US stocks mixed, while euro slides on France worries and Brazil markets surge",
+      "description": "US stocks were mixed in early trading on Monday, as easing bets on a Federal Reserve rate hike helped cushion broader market sentiment, although Treasury yields and oil prices remained elevated.\u00a0\u00a0\n...",
+      "url": "https://www.marketscreener.com/news/us-stocks-mixed-while-euro-slides-on-france-worries-and-brazil-markets-surge-ce785dd8d88ef52c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-28T010934Z_1_LYNXMPEM3R029_RTROPTP_4_GLOBAL-MARKETS.JPG",
+      "publishedAt": "2026-10-05T14:13:29Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Michelle Pearson died in hospital clutching photo of four children killed in tragic Walkden petrol bomb attack",
+      "description": "An inquest into the tragic house fire which claimed the lives of five members of the same family has opened at Bolton Coroner's Court today",
+      "url": "https://www.manchestereveningnews.co.uk/news/greater-manchester-news/michelle-pearson-died-hospital-clutching-34719068",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article16990168.ece/ALTERNATES/s1200d/1_Michelle.jpg",
+      "publishedAt": "2026-10-05T14:04:53Z",
+      "source": {
+        "name": "Manchester Evening News"
       }
     }
   ]
