@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-07T12:17:48+00:00",
+  "updated_at": "2026-10-07T22:25:21+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Bank stocks lift indices ahead of RBI policy",
-      "description": "The Indian stock markets saw an upswing fueled by the performance of banking stocks amid falling oil prices. The Sensex and Nifty enjoyed substantial rises, as market participants eagerly anticipated the upcoming Reserve Bank of India monetary policy decision. Key players like Axis Bank and Kotak Mahindra Bank reported strong quarterly figures, lifting investor mood.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-lift-indices-ahead-of-rbi-policy/articleshow/134752640.cms",
-      "image": "https://img.etimg.com/thumb/msid-134752731,width-1200,height-900,imgsize-253652,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-07T00:14:00Z",
+      "title": "Sensex, Nifty End Lower; RBI Rate Hike, Rising Oil Prices Could Keep Markets Volatile: Expert",
+      "description": "Sensex, Nifty End Lower; RBI Rate Hike, Rising Oil Prices Could Keep Markets Volatile: Expert, Markets, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/markets/sensex-nifty-end-lower-rbi-rate-hike-rising-oil-prices-could-keep-markets-volatile-expert-article-156289907",
+      "image": "https://images.timesnownews.com/thumb/msid-156289915,thumbsize-98376,width-1280,height-720,resizemode-75/156289915.jpg",
+      "publishedAt": "2026-10-07T10:23:32Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Petrol margins turn positive as OMC fuel marketing losses ease in Q2FY27: Report",
+      "description": "Fuel marketing losses of state-run oil marketing companies (OMCs) narrowed sharply in the September quarter, helped by lower crude oil prices and the full impact of retail fuel price hikes, according to Emkay Research.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/state-run-oil-marketing-companies-report-sharp-turnaround-in-fuel-marketing-margins-for-q2fy27-amid-falling-crude-prices/articleshow/134762970.cms",
+      "image": "https://img.etimg.com/thumb/msid-134762969,width-1200,height-900,imgsize-351178,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-07T10:19:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
-      "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America\u2019s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of events showcasing factory investments, amid high gasoline prices and inflation affecting Trump\u2019s approval ratings. With less than a month before the midterm elections, Trump is rallying support for his party. He has been traveling to deep red states like Oklahoma, Alabama, and Nebraska to boost Republican candidates.",
-      "url": "https://www.ajc.com/news/2026/10/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/",
-      "image": "https://images.ajc.com/resizer/v2/TMMIHG5GDZHBTOUCFGW65FECT4.jpg?auth=20122ce7b0d3b2768ccd61d103c2f47c8f9301ac340f13555b1f72323f7a285a&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-07T00:01:34Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "No, he didn't ask Iran to attack",
-      "description": "Trump was arguing that the temporary spike in gas prices is a very small price to pay, compared to the terrible cost of Iran going nuclear and destroying American city.",
-      "url": "https://nypost.com/2026/10/06/opinion/trump-derangement-syndrome-no-he-didnt-ask-iran-to-attack/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/JEDJEDL.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-06T23:06:01Z",
-      "source": {
-        "name": "New York Post"
-      }
-    },
-    {
-      "title": "Home heating oil prices spike, and New Englanders could freeze",
-      "description": "Some homeowners are anticipating heating costs to double this season, as prices have risen more than $2 per gallon across the region.",
-      "url": "https://www.bostonglobe.com/2026/10/06/business/home-heating-oil-prices/",
-      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/2BEZHT56J47OWKYIY5APMKUCMA.jpg?auth=4cfa7a10891325d39d19bdcd547f776721176959674c0fd5ea8e931bd88f4903&width=1440",
-      "publishedAt": "2026-10-06T22:54:36Z",
-      "source": {
-        "name": "The Boston Globe"
-      }
-    },
-    {
-      "title": "Trump highlights big new defense project in Maryland, a blue state whose governor didn\u2019t attend",
-      "description": "BALTIMORE \u2014 President Donald Trump on Tuesday touted a $3.7 billion investment by the military technology company Anduril to build components for nuclear-powered submarines at a Baltimore-area shipyard. It\u2019s one of a series of events Trump is holding across the country to showcase investments in factories, as high gasoline prices",
-      "url": "https://triblive.com/news/world/trump-highlights-big-new-defense-project-in-maryland-a-blue-state-whose-governor-didnt-attend/",
-      "image": "https://assets-varnish.triblive.com/2026/10/10012907_web1_10012907-9cdc46c32c1e4d128c0149d2ba495aef.jpg",
-      "publishedAt": "2026-10-06T22:43:10Z",
-      "source": {
-        "name": "Pittsburgh Tribune-Review"
-      }
-    },
-    {
-      "title": "Man held on $1.5 million bond in St. Clair County traffic stop drug bust",
-      "description": "Bharatkumar Patel is the 67-year-old owner and operator of Petrol World Package Store in Ragland.",
-      "url": "https://www.al.com/crime/2026/10/man-held-on-15-million-bond-in-st-clair-county-traffic-stop-drug-bust.html",
-      "image": "https://www.al.com/resizer/v2/MXBV43IWSVFVVJ4KLFCYJG4XVY.png?auth=8204d791ef37aea20005b5d25db39f53255bad1156c9265317ccb28d328f3d0d&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T22:21:41Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "US stocks hit fresh records as oil stabilizes on rising supplies",
-      "description": "NEW YORK - Stock markets firmed Tuesday with the Nasdaq and S&P 500 hitting record highs in the United States, as oil prices retreated on easing supply worries, which helped temper concerns about rising government borrowing costs.",
-      "url": "https://www.bangkokpost.com/business/general/3332835/us-stocks-hit-fresh-records-as-oil-stabilizes-on-rising-supplies",
-      "image": "https://static.bangkokpost.com/media/content/20261007/c1_6256745_700.jpg",
-      "publishedAt": "2026-10-06T21:45:00Z",
-      "source": {
-        "name": "Bangkok Post"
-      }
-    },
-    {
-      "title": "Trump loves to bash California to rally the base. \u2018Let \u2019em take out\u2019 LA is just the latest",
-      "description": "As President Donald Trump zigzags across the country in the final weeks before the midterm elections, he has made California his favorite foil as he tries to fire up his base. On Monday, he blamed the Golden State for the rising cost of gas prices, claimed without evidence that its elections are rigged, and at a Nebraska rally suggested Iran could \"take out\" Los Angeles and San Diego. \"It's a ...",
-      "url": "https://www.pressdemocrat.com/2026/10/06/trump-loves-to-bash-california-to-rally-the-base-let-em-take-out-la-is-just-the-latest-2/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/202610061728MCT_____PHOTO____WORLD-NEWS-USISRAEL-IRAN-TRUMP-ASSESS-FILEPIC-GET.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-06T21:28:00Z",
-      "source": {
-        "name": "Santa Rosa Press Democrat"
-      }
-    },
-    {
-      "title": "Trading Day: Running with the bulls",
-      "description": "The S&P 500 and Nasdaq hit record highs on Tuesday as a pause in the bond market sell-off and steady oil prices paved the way for a tech- and AI-led wave of buying, with investors entering the...",
-      "url": "https://www.marketscreener.com/news/trading-day-running-with-the-bulls-ce785dd9dc81f621",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-01T210432Z_1_LYNXMPEM9043V_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-06T21:02:09Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Trading Day: Running with the bulls",
-      "description": "The S&P 500 and Nasdaq hit record highs on Tuesday as a pause in the bond market sell-off and steady oil prices paved the way for a tech- and AI-led wave of buying, with investors entering the third-quarter earnings season with a great sense of optimism.",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-10-06/",
-      "image": "https://www.reuters.com/resizer/v2/2HLGIA6MF5JSNEXSQPFKHTYKVU.jpg?auth=d74b3acfae82ecf85fd2fb741084e7a32c6f043434ec0bb557d26ad054e9ffa3&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-10-06T21:00:25Z",
+      "title": "Banks lead FTSE 100 lower as gilt yields, oil prices climb",
+      "description": "UK's FTSE 100 edged \u200blower on Wednesday after three consecutive sessions of gains, weighed \u200cdown by banking stocks, as rising oil prices and surging bond yields kept investors cautious.",
+      "url": "https://www.reuters.com/business/energy/banks-lead-ftse-100-lower-gilt-yields-oil-prices-climb-2026-10-07/",
+      "image": "https://www.reuters.com/resizer/v2/JNATFJECJFKFNAK2LFDFVUBK6Q.jpg?auth=1c5d1001969d59e6b5bc5859efce21e3da124ce74addbda45819c971581aaa37&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-10-07T10:11:12Z",
       "source": {
         "name": "Reuters"
+      }
+    },
+    {
+      "title": "Global Market: UK Gilt yields rise as oil, US Treasury yields weigh on bonds",
+      "description": "British 10-year gilt yields jumped 6 basis points to 5.44%, nearing a 19-year high, as rising oil prices and US Treasury yields fueled inflation concerns. Investors also focused on Britains upcoming October 28 budget and fiscal outlook. Potentially higher borrowing needs and weak global bond markets added pressure to government debt.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-uk-gilt-yields-rise-as-oil-us-treasury-yields-weigh-on-bonds/articleshow/134762712.cms",
+      "image": "https://img.etimg.com/thumb/msid-134762923,width-1200,height-900,imgsize-204506,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-07T10:11:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Mapping the Market: Warning signs flash for US energy shares rally",
+      "description": "US energy shares have climbed just over 42% this year as the Iran war pushed oil prices higher, making them the best-performing sector in the S&P 500. The impressive run may be coming to an end, technical \u200banalysis indicates.",
+      "url": "https://www.reuters.com/markets/commodities/global-markets-technicals-graphic-2026-10-07/",
+      "image": "https://www.reuters.com/resizer/v2/2HLGIA6MF5JSNEXSQPFKHTYKVU.jpg?auth=d74b3acfae82ecf85fd2fb741084e7a32c6f043434ec0bb557d26ad054e9ffa3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-10-07T10:10:13Z",
+      "source": {
+        "name": "Reuters"
+      }
+    },
+    {
+      "title": "Man rushed to hospital after petrol bomb attack in Dublin",
+      "description": "Gardai and emergency services rushed to the scene of the latest petrol bomb attack in Drimnagh, Dublin 12, in the early hours of Wednesday morning",
+      "url": "https://www.irishmirror.ie/news/irish-news/man-rushed-hospital-after-petrol-37744354",
+      "image": "https://i2-prod.irishmirror.ie/article36878736.ece/ALTERNATES/s1200d/68_Garda-Stock.jpg",
+      "publishedAt": "2026-10-07T10:06:49Z",
+      "source": {
+        "name": "Irish Mirror"
+      }
+    },
+    {
+      "title": "Hardeep Singh Puri condemns killing of IOC officer during petrol pump sealing in Maharashtra, recalls Manjunath case",
+      "description": "IndianOil officer Mahesh Shelke was stabbed to death during a petrol pump sealing in Maharashtra, sparking outrage and demands for strict action.",
+      "url": "https://www.cnbctv18.com/india/hardeep-singh-puri-condemns-killing-of-ioc-officer-during-petrol-pump-sealing-in-maharashtra-recalls-manjunath-case-20006715.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/untitled-design-2026-10-07t153104488-2026-10-5c8194d0a9eef634d5119006aa9970e4.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-07T10:01:49Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862273",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-2-horse-riders-on-the-cranberry-trail-callander-pat-stack.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-10-07T10:00:00Z",
+      "source": {
+        "name": "BayToday"
+      }
+    },
+    {
+      "title": "Petrol margins turn positive as OMC fuel marketing losses ease in Q2FY27: Report",
+      "description": "Fuel marketing losses of state-run oil marketing companies (OMCs) narrowed sharply in the September quarter, helped by lower crude oil prices and the full impact of retail fuel price hikes, according to Emkay Research.",
+      "url": "https://www.devdiscourse.com/article/business/3988243-petrol-margins-turn-positive-as-omc-fuel-marketing-losses-ease-in-q2fy27-report",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/07_10_2026_15_26_54_0363687.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-07T09:56:56Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Petrol margins turn positive as OMC fuel marketing losses ease in Q2FY27: Report",
+      "description": "Fuel marketing losses of state-run oil marketing companies (OMCs) narrowed sharply in the September quarter, helped by lower crude oil prices and the full impact of retail fuel price hikes, according to Emkay Research.",
+      "url": "https://www.tribuneindia.com/news/business/petrol-margins-turn-positive-as-omc-fuel-marketing-losses-ease-in-q2fy27-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU1ZDBkMjgwLWMyMzUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-07T09:56:08Z",
+      "source": {
+        "name": "The Tribune"
       }
     }
   ]
