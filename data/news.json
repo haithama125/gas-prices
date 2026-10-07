@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-07T03:18:31+00:00",
+  "updated_at": "2026-10-07T12:17:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "G-Sec yields thaw on crude oil prices dipping below $100 a barrel",
-      "description": "Yields of government securities (G-Secs) thawed on Tuesday as crude oil prices dipped below the $100 a barrel mark and value buying emerged on bond markets discounting an expected 25 basis points (bps) repo rate hike announcement by the RBI\u2019s rate setting panel, whose three-day meeting will conclude on October 7",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/g-sec-yields-thaw-on-crude-oil-prices-dipping-below-100-a-barrel/article71552337.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/qs8ccq/article71552526.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
-      "publishedAt": "2026-10-06T15:10:38Z",
+      "title": "Bank stocks lift indices ahead of RBI policy",
+      "description": "The Indian stock markets saw an upswing fueled by the performance of banking stocks amid falling oil prices. The Sensex and Nifty enjoyed substantial rises, as market participants eagerly anticipated the upcoming Reserve Bank of India monetary policy decision. Key players like Axis Bank and Kotak Mahindra Bank reported strong quarterly figures, lifting investor mood.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bank-stocks-lift-indices-ahead-of-rbi-policy/articleshow/134752640.cms",
+      "image": "https://img.etimg.com/thumb/msid-134752731,width-1200,height-900,imgsize-253652,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-07T00:14:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "SP 500 hits all-time high on AI bets as oil drops",
-      "description": "A pullback in oil prices sent stocks to all-time highs, with Wall Street also buoyed by renewed enthusiasm about the AI trade. Read here now",
-      "url": "https://financialpost.com/investing/sp-500-hits-all-time-high",
-      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1007-mg-sp-5001.png",
-      "publishedAt": "2026-10-06T14:54:29Z",
+      "title": "The Latest: Trump heads to Maryland in effort to tout factory investments amid economic fears",
+      "description": "President Donald Trump headed to Maryland to tout a $3.7 billion investment by Anduril in nuclear-powered submarines. The Trump administration aims to revive America\u2019s shipbuilding capabilities for national security and economic reasons. This visit is part of a series of events showcasing factory investments, amid high gasoline prices and inflation affecting Trump\u2019s approval ratings. With less than a month before the midterm elections, Trump is rallying support for his party. He has been traveling to deep red states like Oklahoma, Alabama, and Nebraska to boost Republican candidates.",
+      "url": "https://www.ajc.com/news/2026/10/the-latest-trump-heads-to-maryland-in-effort-to-tout-factory-investments-amid-economic-fears/",
+      "image": "https://images.ajc.com/resizer/v2/TMMIHG5GDZHBTOUCFGW65FECT4.jpg?auth=20122ce7b0d3b2768ccd61d103c2f47c8f9301ac340f13555b1f72323f7a285a&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-07T00:01:34Z",
       "source": {
-        "name": "Financial Post"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
-      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
-      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
-      "image": "https://www.pennlive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T14:53:31Z",
+      "title": "No, he didn't ask Iran to attack",
+      "description": "Trump was arguing that the temporary spike in gas prices is a very small price to pay, compared to the terrible cost of Iran going nuclear and destroying American city.",
+      "url": "https://nypost.com/2026/10/06/opinion/trump-derangement-syndrome-no-he-didnt-ask-iran-to-attack/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/JEDJEDL.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-06T23:06:01Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "New York Post"
       }
     },
     {
-      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
-      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
-      "url": "https://www.silive.com/nation/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
-      "image": "https://www.silive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T14:53:31Z",
+      "title": "Home heating oil prices spike, and New Englanders could freeze",
+      "description": "Some homeowners are anticipating heating costs to double this season, as prices have risen more than $2 per gallon across the region.",
+      "url": "https://www.bostonglobe.com/2026/10/06/business/home-heating-oil-prices/",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/2BEZHT56J47OWKYIY5APMKUCMA.jpg?auth=4cfa7a10891325d39d19bdcd547f776721176959674c0fd5ea8e931bd88f4903&width=1440",
+      "publishedAt": "2026-10-06T22:54:36Z",
       "source": {
-        "name": "Staten Island Advance"
+        "name": "The Boston Globe"
       }
     },
     {
-      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
-      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
-      "url": "https://www.cleveland.com/nation/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
-      "image": "https://www.cleveland.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T14:53:31Z",
+      "title": "Trump highlights big new defense project in Maryland, a blue state whose governor didn\u2019t attend",
+      "description": "BALTIMORE \u2014 President Donald Trump on Tuesday touted a $3.7 billion investment by the military technology company Anduril to build components for nuclear-powered submarines at a Baltimore-area shipyard. It\u2019s one of a series of events Trump is holding across the country to showcase investments in factories, as high gasoline prices",
+      "url": "https://triblive.com/news/world/trump-highlights-big-new-defense-project-in-maryland-a-blue-state-whose-governor-didnt-attend/",
+      "image": "https://assets-varnish.triblive.com/2026/10/10012907_web1_10012907-9cdc46c32c1e4d128c0149d2ba495aef.jpg",
+      "publishedAt": "2026-10-06T22:43:10Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "Pittsburgh Tribune-Review"
       }
     },
     {
-      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
-      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
-      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
-      "image": "https://www.mlive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T14:53:31Z",
+      "title": "Man held on $1.5 million bond in St. Clair County traffic stop drug bust",
+      "description": "Bharatkumar Patel is the 67-year-old owner and operator of Petrol World Package Store in Ragland.",
+      "url": "https://www.al.com/crime/2026/10/man-held-on-15-million-bond-in-st-clair-county-traffic-stop-drug-bust.html",
+      "image": "https://www.al.com/resizer/v2/MXBV43IWSVFVVJ4KLFCYJG4XVY.png?auth=8204d791ef37aea20005b5d25db39f53255bad1156c9265317ccb28d328f3d0d&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T22:21:41Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "AL.com"
       }
     },
     {
-      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
-      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
-      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
-      "image": "https://www.masslive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-06T14:53:31Z",
+      "title": "US stocks hit fresh records as oil stabilizes on rising supplies",
+      "description": "NEW YORK - Stock markets firmed Tuesday with the Nasdaq and S&P 500 hitting record highs in the United States, as oil prices retreated on easing supply worries, which helped temper concerns about rising government borrowing costs.",
+      "url": "https://www.bangkokpost.com/business/general/3332835/us-stocks-hit-fresh-records-as-oil-stabilizes-on-rising-supplies",
+      "image": "https://static.bangkokpost.com/media/content/20261007/c1_6256745_700.jpg",
+      "publishedAt": "2026-10-06T21:45:00Z",
       "source": {
-        "name": "MassLive"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "Canada's TSX edges up as bond yields retreat, utility shares advance",
-      "description": "Canada's benchmark stock index inched higher on Tuesday, with utilities leading gains, as a pullback in global bond yields and easing oil prices supported sentiment, although weakness in energy and...",
-      "url": "https://www.marketscreener.com/news/canada-s-tsx-edges-up-as-bond-yields-retreat-utility-shares-advance-ce785dd9db8cf12d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T123359Z_1_LYNXMPEL3K0HI_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2026-10-06T14:43:40Z",
+      "title": "Trump loves to bash California to rally the base. \u2018Let \u2019em take out\u2019 LA is just the latest",
+      "description": "As President Donald Trump zigzags across the country in the final weeks before the midterm elections, he has made California his favorite foil as he tries to fire up his base. On Monday, he blamed the Golden State for the rising cost of gas prices, claimed without evidence that its elections are rigged, and at a Nebraska rally suggested Iran could \"take out\" Los Angeles and San Diego. \"It's a ...",
+      "url": "https://www.pressdemocrat.com/2026/10/06/trump-loves-to-bash-california-to-rally-the-base-let-em-take-out-la-is-just-the-latest-2/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/202610061728MCT_____PHOTO____WORLD-NEWS-USISRAEL-IRAN-TRUMP-ASSESS-FILEPIC-GET.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-06T21:28:00Z",
+      "source": {
+        "name": "Santa Rosa Press Democrat"
+      }
+    },
+    {
+      "title": "Trading Day: Running with the bulls",
+      "description": "The S&P 500 and Nasdaq hit record highs on Tuesday as a pause in the bond market sell-off and steady oil prices paved the way for a tech- and AI-led wave of buying, with investors entering the...",
+      "url": "https://www.marketscreener.com/news/trading-day-running-with-the-bulls-ce785dd9dc81f621",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-01T210432Z_1_LYNXMPEM9043V_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-10-06T21:02:09Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Rupee hits two-month low amid foreign outflows, higher oil prices",
-      "description": "The Indian rupee fell to a two-month low at 96.43 against the dollar amid foreign investor selling, high oil prices, and stronger US yields, making it Asia's worst-performing currency this year. RBI intervention and the upcoming monetary policy are key focuses.",
-      "url": "https://www.financialexpress.com/policy/economy-rupee-hits-two-month-low-amid-foreign-outflows-higher-oil-prices-4354915/",
-      "image": "https://images.financialexpressdigital.com/2026/10/rupee.pti__20251202112230_20251204112345_20251204145416_20251218122349_20251223122007_20260121165909_20260203055038_20260312123454_20260427062831_20260617123516_20261001124215_20261006143825.jpg",
-      "publishedAt": "2026-10-06T14:38:46Z",
+      "title": "Trading Day: Running with the bulls",
+      "description": "The S&P 500 and Nasdaq hit record highs on Tuesday as a pause in the bond market sell-off and steady oil prices paved the way for a tech- and AI-led wave of buying, with investors entering the third-quarter earnings season with a great sense of optimism.",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-10-06/",
+      "image": "https://www.reuters.com/resizer/v2/2HLGIA6MF5JSNEXSQPFKHTYKVU.jpg?auth=d74b3acfae82ecf85fd2fb741084e7a32c6f043434ec0bb557d26ad054e9ffa3&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-10-06T21:00:25Z",
       "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Urgent appeal after three men, one armed with screwdriver, rob petrol station",
-      "description": "An urgent appeal has been issued following the robbery",
-      "url": "https://www.irishmirror.ie/news/irish-news/crime/urgent-appeal-after-three-men-37741367",
-      "image": "https://i2-prod.irishmirror.ie/article35767939.ece/ALTERNATES/s1200d/2_GettyImages-520839356-1.jpg",
-      "publishedAt": "2026-10-06T14:36:38Z",
-      "source": {
-        "name": "Irish Mirror"
+        "name": "Reuters"
       }
     }
   ]
