@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-06T22:00:35+00:00",
+  "updated_at": "2026-10-07T03:18:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12858359",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-1-sunset-strolling-lake-nipissing-north-bay-gisele-m-gauthier.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-06T10:00:00Z",
+      "title": "G-Sec yields thaw on crude oil prices dipping below $100 a barrel",
+      "description": "Yields of government securities (G-Secs) thawed on Tuesday as crude oil prices dipped below the $100 a barrel mark and value buying emerged on bond markets discounting an expected 25 basis points (bps) repo rate hike announcement by the RBI\u2019s rate setting panel, whose three-day meeting will conclude on October 7",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/g-sec-yields-thaw-on-crude-oil-prices-dipping-below-100-a-barrel/article71552337.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/qs8ccq/article71552526.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
+      "publishedAt": "2026-10-06T15:10:38Z",
       "source": {
-        "name": "BayToday"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Hiltzik: The mystery of Trump's Venezuela oil deal",
-      "description": "Trump is concealing the details of his deal for Venezuelan oil, but what's known is that it won't do anything to lower U.S. gas prices.",
-      "url": "https://www.latimes.com/business/story/2026-10-06/trump-deal-for-venezuela-oil-is-secretive-exaggerated-and-suspicious",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/ca12370/2147483647/strip/true/crop/6736x3536+0+607/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc1%2Fbb%2F3897c824481985f39caec9117dc0%2Fgettyimages-2253891367.jpg",
-      "publishedAt": "2026-10-06T10:00:00Z",
+      "title": "SP 500 hits all-time high on AI bets as oil drops",
+      "description": "A pullback in oil prices sent stocks to all-time highs, with Wall Street also buoyed by renewed enthusiasm about the AI trade. Read here now",
+      "url": "https://financialpost.com/investing/sp-500-hits-all-time-high",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1007-mg-sp-5001.png",
+      "publishedAt": "2026-10-06T14:54:29Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "Financial Post"
       }
     },
     {
-      "title": "Honda Elevate facelift 2026: Check expected features, design changes, engine and price",
-      "description": "Honda is set to launch the Elevate facelift on October 6, marking the SUVs first mid-cycle update since its 2023 debut. The updated model is expected to receive exterior styling changes, new cabin features and additional equipment, while retaining the 1.5-litre petrol engine. Honda has already opened pre-bookings for the facelift at Rs 21,000.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/honda-elevate-facelift-2026-check-expected-features-design-changes-engine-and-price/articleshow/134734173.cms",
-      "image": "https://img.etimg.com/thumb/msid-134735041,width-1200,height-900,imgsize-60538,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-06T09:57:00Z",
+      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
+      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
+      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
+      "image": "https://www.pennlive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T14:53:31Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "India faces new challenges amid growing oil shock",
-      "description": "GST 2.0 now focuses on simpler compliance and better tax efficiency. Rising oil prices add pressure on India\u2019s economy and import costs",
-      "url": "https://www.moneycontrol.com/news/opinion/gst-council-meeting-india-faces-new-challenges-amid-growing-oil-shock-14045631.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2025/09/20250902100507_GST-AFP-news.jpg",
-      "publishedAt": "2026-10-06T09:12:37Z",
+      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
+      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
+      "url": "https://www.silive.com/nation/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
+      "image": "https://www.silive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T14:53:31Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Staten Island Advance"
       }
     },
     {
-      "title": "RBI October MPC meet: 7 factors behind expectations of a 25 bps repo rate hike",
-      "description": "RBI is expected to raise the repo rate by 25 bps to 5.5% amid rising inflation, global risks, and excess liquidity. Experts highlight factors like oil prices, exports, and consumer credit growth shaping future rate paths.",
-      "url": "https://www.financialexpress.com/policy/economy/rbi-october-mpc-meet-7-factors-behind-expectations-of-a-25-bps-repo-rate-hike/4354678/",
-      "image": "https://images.financialexpressdigital.com/2026/10/RBI-Governor-SanjayMalhotra_20260907130320_20261006090703.jpg",
-      "publishedAt": "2026-10-06T09:08:09Z",
+      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
+      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
+      "url": "https://www.cleveland.com/nation/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
+      "image": "https://www.cleveland.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T14:53:31Z",
+      "source": {
+        "name": "cleveland.com"
+      }
+    },
+    {
+      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
+      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
+      "image": "https://www.mlive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T14:53:31Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Gas prices for 10/06/26: National average at $4.36 per gallon",
+      "description": "The average price is down about 9 cents from last week, but remains up by roughly 22 cents from last month.",
+      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-100626-national-average-at-436-per-gallon.html",
+      "image": "https://www.masslive.com/resizer/v2/CIGZKE5OUZC6JAM37NFQG3PKJM.jpg?auth=30a15dd1cb9f0336f4f377774326b20e4d9914ef3c152887c3edab86848af7dc&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-06T14:53:31Z",
+      "source": {
+        "name": "MassLive"
+      }
+    },
+    {
+      "title": "Canada's TSX edges up as bond yields retreat, utility shares advance",
+      "description": "Canada's benchmark stock index inched higher on Tuesday, with utilities leading gains, as a pullback in global bond yields and easing oil prices supported sentiment, although weakness in energy and...",
+      "url": "https://www.marketscreener.com/news/canada-s-tsx-edges-up-as-bond-yields-retreat-utility-shares-advance-ce785dd9db8cf12d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T123359Z_1_LYNXMPEL3K0HI_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2026-10-06T14:43:40Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Rupee hits two-month low amid foreign outflows, higher oil prices",
+      "description": "The Indian rupee fell to a two-month low at 96.43 against the dollar amid foreign investor selling, high oil prices, and stronger US yields, making it Asia's worst-performing currency this year. RBI intervention and the upcoming monetary policy are key focuses.",
+      "url": "https://www.financialexpress.com/policy/economy-rupee-hits-two-month-low-amid-foreign-outflows-higher-oil-prices-4354915/",
+      "image": "https://images.financialexpressdigital.com/2026/10/rupee.pti__20251202112230_20251204112345_20251204145416_20251218122349_20251223122007_20260121165909_20260203055038_20260312123454_20260427062831_20260617123516_20261001124215_20261006143825.jpg",
+      "publishedAt": "2026-10-06T14:38:46Z",
       "source": {
         "name": "The Financial Express"
       }
     },
     {
-      "title": "GOP Rep. Steube Predicts Gas Prices Will Ease After Trump Venezuela Deal",
-      "description": "Monday, during an appearance on Fox Business Network's \"The Evening Edit,\" Rep. Greg Steube (R-FL) urged Americans to be patient about fuel prices because relief is coming thanks to President Donald Trump's deal with Venezuelan producers. | Clips",
-      "url": "https://www.breitbart.com/politics/2026/10/06/gop-rep-steube-predicts-gas-prices-will-ease-after-trump-venezuela-deal/",
-      "image": "https://media.breitbart.com/media/2026/08/Steube8192026-640x335.jpg",
-      "publishedAt": "2026-10-06T09:04:27Z",
+      "title": "Urgent appeal after three men, one armed with screwdriver, rob petrol station",
+      "description": "An urgent appeal has been issued following the robbery",
+      "url": "https://www.irishmirror.ie/news/irish-news/crime/urgent-appeal-after-three-men-37741367",
+      "image": "https://i2-prod.irishmirror.ie/article35767939.ece/ALTERNATES/s1200d/2_GettyImages-520839356-1.jpg",
+      "publishedAt": "2026-10-06T14:36:38Z",
       "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "GOP Rep. Steube Predicts Gas Prices Will Ease After Trump Venezuela Deal",
-      "description": "Monday, during an appearance on Fox Business Network's \"The Evening Edit,\" Rep. Greg Steube (R-FL) urged Americans to be patient about fuel prices because relief is coming thanks to President Donald Trump's deal with Venezuelan producers. | Clips",
-      "url": "https://www.breitbart.com/clips/2026/10/06/gop-rep-steube-predicts-gas-prices-will-ease-after-trump-venezuela-deal/",
-      "image": "https://media.breitbart.com/media/2026/08/Steube8192026-640x335.jpg",
-      "publishedAt": "2026-10-06T09:04:27Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Nouriel Roubini: The world is in turmoil but the global economy has been chugging along-how come?",
-      "description": "Tariffs, high oil prices and wars have spelt high uncertainty, yet economic activity has broadly kept pace so far. The most important explanation for this resilience is a positive supply shock in the shape of AI investment. If this goes wrong, the world will face severe consequences.",
-      "url": "https://www.livemint.com/opinion/online-views/nouriel-roubini-world-is-in-turmoil-but-the-global-economy-has-been-chugging-along-how-come-11791196008961.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/AI_reuters_1791276422858_fzly_1791276430651_mHfp_421d0310-a889-415e-b7a0-f523ad653439_fy4v.jpg",
-      "publishedAt": "2026-10-06T09:00:40Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "U.S. Stock Futures Nudge Higher as Oil Falls Below $100",
-      "description": "By Joe Stonor\nU.S. stock futures extended gains and oil prices fell back below $100 a barrel in early European trade, as investors brushed off stubbornly elevated Treasury yields to push equities...",
-      "url": "https://www.marketscreener.com/news/u-s-stock-futures-nudge-higher-as-oil-falls-below-100-ce785dd8df80ff25",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-06T08:13:26Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stocks perk up as oil falls and yields retreat",
-      "description": "Stock prices in Europe opened higher on Tuesday, making a positive start as oil prices ease and government bond yields cool.\nUS tech shares shone on Monday, but in Europe, the start of the week was...",
-      "url": "https://www.marketscreener.com/news/stocks-perk-up-as-oil-falls-and-yields-retreat-ce785dd8df81f724",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-06T08:00:27Z",
-      "source": {
-        "name": "MarketScreener"
+        "name": "Irish Mirror"
       }
     }
   ]
