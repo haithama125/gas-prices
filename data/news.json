@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-08T22:38:40+00:00",
+  "updated_at": "2026-10-09T03:39:08+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices jump amid record tanker attacks in Hormuz",
-      "description": "Oil prices climbed Thursday on continued worries about global supply and as record tanker attacks in the Middle East sent crossings through the Strait of Hormuz to a two-month low.",
-      "url": "https://edition.cnn.com/2026/10/08/business/oil-diesel-prices-tanker-attacks-hormuz-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2297102806.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-10-08T10:34:48Z",
-      "source": {
-        "name": "Cable News Network"
-      }
-    },
-    {
-      "title": "Oil prices jump amid record tanker attacks in Hormuz",
-      "description": "By Hanna Ziady, CNN London (CNN) \u2014 Oil prices climbed Thursday on continued worries about global supply following a record number of tanker attacks that sent crossings through the Strait of Hormuz to a two-month low. Brent crude, the global oil benchmark, rose 4.3% to $104.48 a barrel early on Thursday. West Texas Intermediate, the",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/08/oil-prices-jump-amid-record-tanker-attacks-in-hormuz/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXV6YzI1bGUwMDBlM2I2cTJ0dW5hc3V6-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2NtdXpjMDZpdzAwMXIyN3FvZzBrdzA5Nm0-860x574.jpg",
-      "publishedAt": "2026-10-08T10:34:48Z",
-      "source": {
-        "name": "ABC17News.com"
-      }
-    },
-    {
-      "title": "How to find fuel prices on Google Maps as drivers can now see cheapest forecourts",
-      "description": "The fuel feature launched on Google Maps today amid the rising cost of petrol and diesel",
-      "url": "https://www.dailyrecord.co.uk/lifestyle/how-find-fuel-prices-google-37748155",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37748693.ece/ALTERNATES/s1200d/0_61f2068d-6732-4c6e-801c-5f1ca9ed3eee.jpg",
-      "publishedAt": "2026-10-08T10:19:09Z",
-      "source": {
-        "name": "Daily Record"
-      }
-    },
-    {
-      "title": "Why EV sales are lukewarm in America, but hot in Europe",
-      "description": "US car shoppers have been slow to warm back up to electric vehicles since a key federal subsidy expired a year ago, despite persistently high gas prices, while Europeans have flocked to the cars.\u00a0\n...",
-      "url": "https://www.marketscreener.com/news/why-ev-sales-are-lukewarm-in-america-but-hot-in-europe-ce785dded08bff24",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-08T101541Z_1_LYNXMPEM970RT_RTROPTP_4_USA-AUTOS-EV-SALES.JPG",
-      "publishedAt": "2026-10-08T10:06:53Z",
+      "title": "Euro zone yields rise as oil prices surge, spread widening slows",
+      "description": "Euro zone borrowing costs rose\non Thursday as a surge in oil prices intensified inflation\nconcerns, though investors took a breather from selling bonds of\nheavily indebted countries such as France and...",
+      "url": "https://www.marketscreener.com/news/euro-zone-yields-rise-as-oil-prices-surge-spread-widening-slows-ce785ddfda88f222",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-08T15:32:46Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Global Market: European stocks slide as oil surge revives inflation concerns",
-      "description": "European shares fell as banks hit over three-month lows amid rising bond yields and oil prices. Investors worried persistent inflation could constrain central bank rate cuts and hurt growth, while markets awaited ECB, Federal Reserve and Bank of England signals.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-european-stocks-slide-as-oil-surge-revives-inflation-concerns/articleshow/134786755.cms",
-      "image": "https://img.etimg.com/thumb/msid-134786776,width-1200,height-900,imgsize-71416,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-08T10:06:00Z",
+      "title": "Large petrol-vehicles non-existent: Karnataka high court questions rejection of inspectors\u2019 candidature on experience issue",
+      "description": "Karnataka HC orders reconsideration of motor vehicle inspector rejections over HGV/HPV petrol-engine experience, citing ambiguity and no such vehicles existing.",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/large-petrol-vehicles-non-existent-karnataka-high-court-questions-rejection-of-inspectors-candidature-on-experience-issue/articleshow/134794316.cms",
+      "image": "https://static.toiimg.com/thumb/msid-132928236,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-08T15:16:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "New GRAP Rules in Delhi; Restrictions in NCR October 2026: How AQI will decide car entry - Where to check updates daily",
+      "description": "Under the revised GRAP framework, restrictions tighten as Delhi-NCR\u2019s AQI worsens. Stage III limits certain BS-III petrol and BS-IV diesel cars, while Stage IV adds stricter curbs. Check daily AQI and GRAP status via SAMEER and CAQM.",
+      "url": "https://www.livemint.com/news/india/new-grap-rules-in-delhi-restrictions-in-ncr-october-2026-how-aqi-will-decide-car-entry-where-to-check-updates-daily-11791471316517.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Delhi_grap_1791471869896_q1kd_1791471873851_jUBr_dfd97ff8-eaf8-4892-ad8e-7ee636f29e77_odHU.png",
+      "publishedAt": "2026-10-08T15:06:37Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Houthis Claim Fresh Attack on Riyadh Airport, Witnesses Report Evacuation",
+      "description": "The blasts had an immediate effect on markets and oil prices as the price of crude jumped, and Saudi Arabia slid further into the latest front in the Iran war.",
+      "url": "https://www.deccanchronicle.com/world/houthis-claim-fresh-attack-on-riyadh-airport-witnesses-report-evacuation-1994175",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/10/08/2098533-aa-8346695.jpg",
+      "publishedAt": "2026-10-08T15:01:55Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "Hurricane Isaias threatens to raise gas prices",
+      "description": "Hurricane Isaias threatens to disrupt U.S. oil and gasoline production at a moment when retail gas and diesel prices are squeezing American consumers.",
+      "url": "https://www.nbcnews.com/business/energy/gas-prices-hurricane-isaias-gulf-mexico-rcna602258",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261008-oil-rig-gulf-mexico-mn-0915-0791d4.jpg",
+      "publishedAt": "2026-10-08T14:57:38Z",
+      "source": {
+        "name": "NBC News"
+      }
+    },
+    {
+      "title": "Oil surges, stocks sink as US reportedly eyes new Iran strikes",
+      "description": "LONDON \u2014 Oil prices soared more than five percent Thursday following reports that the United States could launch fresh attacks on Iran before next month's midterm elections, risking further supply disruptions.",
+      "url": "https://www.bangkokpost.com/business/general/3333704/oil-surges-stocks-sink-as-us-reportedly-eyes-new-iran-strikes",
+      "image": "https://static.bangkokpost.com/media/content/20261008/c1_6259239_700.jpg",
+      "publishedAt": "2026-10-08T14:45:00Z",
+      "source": {
+        "name": "Bangkok Post"
+      }
+    },
+    {
+      "title": "Energy shares lift TSX despite higher yields",
+      "description": "Canada's main stock index inched higher on Thursday, with gains in energy stocks offsetting the drag in financials as rising bond yields and oil prices kept investors wary of inflation and higher...",
+      "url": "https://www.marketscreener.com/news/energy-shares-lift-tsx-despite-higher-yields-ce785ddfdb8ff324",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-20T133358Z_1_LYNXMPEM3J0Q8_RTROPTP_4_MARKETS-CANADA-STOCKS-OPENER.JPG",
+      "publishedAt": "2026-10-08T14:19:36Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "US stocks: US markets fall as higher yields and oil prices flag inflation risk",
+      "description": "US stocks fell as crude oil prices surged and Treasury yields remained high, raising inflation concerns. Major companies like Amazon, Tesla, and Nvidia experienced losses, contributing to a broader decline in the technology sector. Investors are now focused on upcoming third-quarter earnings reports, particularly from financial institutions. The Federal Reserve is expected to keep interest rates unchanged in October, while considering future hikes.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-as-higher-yields-and-oil-prices-flag-inflation-risk/articleshow/134793270.cms",
+      "image": "https://img.etimg.com/thumb/msid-134793324,width-1200,height-900,imgsize-23908,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-08T14:19:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Why EV sales are lukewarm in America, but hot in Europe",
-      "description": "US car shoppers have been slow to warm back up to electric vehicles since a key federal subsidy expired a year \u200bago, despite persistently high gas prices, while Europeans have flocked to the cars.",
-      "url": "https://www.reuters.com/business/autos-transportation/why-ev-sales-are-lukewarm-america-hot-europe-2026-10-08/",
-      "image": "https://www.reuters.com/resizer/v2/ZQHNIIZGOFLABMEVTBRKEDIYWA.jpg?auth=619137d3e557772d9d3074994327746872253cebfba036f2d22ba78100c7043d&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-10-08T10:03:47Z",
+      "title": "Explosions Rock Riyadh Airport As Houthis Claim Fresh Missile Attack, Flights Halted & Oil Prices Jump",
+      "description": "Explosions rocked Riyadh on October 8, disrupting operations at King Khalid International Airport and prompting passenger evacuations. Yemen",
+      "url": "https://www.freepressjournal.in/world/explosions-rock-riyadh-airport-as-houthis-claim-fresh-missile-attack-flights-halted-oil-prices-jump",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-08/83n3efrb/saudi.jpg",
+      "publishedAt": "2026-10-08T14:08:48Z",
       "source": {
-        "name": "Reuters"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Hiltzik: Gas prices are soaring but Trump wants to make U.S. cars less fuel",
-      "description": "Trump continues his attack on anti-pollution regulations by falsely claiming that it will save Americans money.",
-      "url": "https://www.latimes.com/business/story/2026-10-08/trump-rolls-back-fuel-economy-standards-just-as-gas-prices-are-soaring",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/e51b42c/2147483647/strip/true/crop/5616x2948+0+398/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F81%2Fa6%2F5402b9e04008a067c6d0ab05a1f1%2Fap26147624135972.jpg",
-      "publishedAt": "2026-10-08T10:00:00Z",
+      "title": "Stock market crash today: Sensex falls 1,045 points, Nifty down 371; 5 reasons behind market rout",
+      "description": "RBI rate hike, surging crude oil prices, FII outflows and rupee weakness weigh on Dalal Street",
+      "url": "https://www.firstpost.com/business/stock-market-crash-today-sensex-falls-1045-points-nifty-down-371-5-reasons-behind-market-rout-14051502.html",
+      "image": "https://images.firstpost.com/uploads/2026/01/Firstpost-2026-01-02T175751.691-2026-01-3c8904dfa71bf2db90b57c83e4d93492.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-08T14:05:08Z",
       "source": {
-        "name": "Los Angeles Times"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862433",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-3-wings-of-the-dragon-north-bay-al-o.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-08T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "UK's FTSE 100 dips as oil surges; investors eye BoE Governor's speech",
-      "description": "UK stocks fell on Thursday as oil prices saw their biggest jump in nearly a month, while investors awaited remarks from Bank of England Governor Andrew Bailey and other central bank policymakers for...",
-      "url": "https://www.marketscreener.com/news/uk-s-ftse-100-dips-as-oil-surges-investors-eye-boe-governor-s-speech-ce785dded088f62d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-18T160608Z_1_LYNXMPEL5H0X5_RTROPTP_4_BRITAIN-FTSE.JPG",
-      "publishedAt": "2026-10-08T09:56:44Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Bursa ends at 1,601 as geopolitical fears eclipse Budget 2027 optimism",
-      "description": "KUALA LUMPUR, Oct 8 \u2014 Bursa Malaysia ended lower today, remaining under selling pressure ahead of Budget 2027 announcement tomorrow, as a renewed surge in oil prices and...",
-      "url": "https://www.malaymail.com/news/money/2026/10/08/bursa-ends-at-1601-as-geopolitical-fears-eclipse-budget-2027-optimism/238273",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/08/367164.jpg",
-      "publishedAt": "2026-10-08T09:50:13Z",
-      "source": {
-        "name": "Malay Mail"
+        "name": "Firstpost"
       }
     }
   ]
