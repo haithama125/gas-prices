@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-09T22:00:08+00:00",
+  "updated_at": "2026-10-10T03:20:46+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862438",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-4-perfect-reflections-temiskaming-shores-gerry-jelly.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-09T10:00:00Z",
+      "title": "The oil market that sets today's gas prices was invented in western Pennsylvania",
+      "description": "The fall of 2026 is a moment when energy takes center stage, as geopolitics unfolding far away shows up in Americans' everyday lives.",
+      "url": "https://phys.org/news/2026-10-oil-today-gas-prices-western.html",
+      "image": "https://scx2.b-cdn.net/gfx/news/hires/2026/a-group-of-businessmen.jpg",
+      "publishedAt": "2026-10-09T15:20:15Z",
       "source": {
-        "name": "BayToday"
+        "name": "Phys.org"
       }
     },
     {
-      "title": "Why crude oil prices may remain near $100 despite changing geopolitical risks",
-      "description": "X-Analysts CEO Mukesh Sahdev says shipping costs four to five times above normal and disruptions to oil flows could keep crude near $100 a barrel, despite expectations of a supply surplus in 2027.",
-      "url": "https://www.cnbctv18.com/market/commodities/mukesh-sahdev-sees-crude-oil-holding-near-100-bbl-as-freight-costs-keep-prices-elevated-geopolitical-tensions-west-asia-refinery-us-elections-20008459.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/08/1787047485_ZzB9dCSkTR-crude-oiljpg-BnH5HMlLRS.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-09T09:54:44Z",
+      "title": "Vasai-Virar City Municipal Corporation Seizes 3 Tonnes Of Banned Plastic In Dhumal Nagar; Shopkeeper Threatens To Set Shop Ablaze",
+      "description": "Vasai-Virar City Municipal Corporation (VVMC) seized nearly 3 tonnes of banned plastic from two commercial establishments in Dhumal Nagar, Vasai East, during a crackdown on Friday. A shopkeeper allegedly poured petrol inside his shop and threatened to set it ablaze in protest. Municipal staff intervened and alerted the police, while officials warned of strict action against violations.",
+      "url": "https://www.freepressjournal.in/mumbai/vasai-virar-city-municipal-corporation-seizes-3-tonnes-of-banned-plastic-in-dhumal-nagar-shopkeeper-threatens-to-set-shop-ablaze",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-09/ntmpp8nx/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-10-09T201422.700.jpg",
+      "publishedAt": "2026-10-09T14:44:51Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Stocks rise as oil prices ease; focus on upcoming IMF meetings",
-      "description": "Emerging market stocks rose on Friday\nand currencies steadied as concerns over a near-term flare-up in\nUS-Iranian fighting eased, although elevated oil prices and\ngovernment bond yields kept investors...",
-      "url": "https://www.marketscreener.com/news/stocks-rise-as-oil-prices-ease-focus-on-upcoming-imf-meetings-ce785ddfd18ef72d",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-09T09:48:38Z",
+      "title": "Stocks rise as tech shares rebound, oil prices slip after Trump vows not to strike Iran before midterms",
+      "description": "Stocks rose Friday morning as tech shares bounced back from a rough trading session and oil prices fell after President Trump vowed not to strike Iran before the midterm elections.",
+      "url": "https://nypost.com/2026/10/09/business/stocks-rise-as-tech-shares-rebound-oil-prices-slip-after-trump-vows-not-to-strike-iran-before-midterms/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/144365172.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-09T14:13:06Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Wall St climbs as oil slips; SpaceX spectrum deal weighs on telecoms",
+      "description": "US stock indexes edged higher on\u00a0Friday as oil prices retreated on easing Middle East supply concerns, though telecom shares remained under pressure after SpaceX's spectrum acquisition raised...",
+      "url": "https://www.marketscreener.com/news/wall-st-climbs-as-oil-slips-spacex-spectrum-deal-weighs-on-telecoms-ce785ddcd88af526",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-30T094946Z_1_LYNXMPEM8T0PV_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-10-09T14:10:26Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "One area in Ayrshire has the cheapest petrol prices in Scotland",
-      "description": "Petrol averages 171.21p a litre across the 15 forecourts in East Ayrshire, making it the sixth cheapest of 328 council areas in Britain.",
-      "url": "https://www.dailyrecord.co.uk/ayrshire/one-area-ayrshire-cheapest-petrol-37750393",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37750417.ece/ALTERNATES/s1200d/0_File-photo-dated-010921-of-an-E10-petrol-pump-at-a-petrol-station-Picture-Joe-GiddensPA-Wire.jpg",
-      "publishedAt": "2026-10-09T09:39:25Z",
+      "title": "Authorities said Houthi-claimed attacks on airport killed 3 Saudi citizens, 124 flights suspended",
+      "description": "A deadly attack on Riyadh\u2019s King Khalid International Airport marks a new escalation in the Iran war as oil prices and air travel stay volatile",
+      "url": "https://fortune.com/2026/10/09/iran-saudi-arabia-houthis-riyadh-airport-attack/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/AP26281691480367-e1791552739983.jpg?resize=1200,600",
+      "publishedAt": "2026-10-09T14:00:20Z",
       "source": {
-        "name": "Daily Record"
+        "name": "Fortune"
       }
     },
     {
-      "title": "ELSTAT: Inflation jumped to 5% in September, fuel prices rallied, rents rose by 14.7%",
-      "description": "Natural gas surged by 55.2%, heating oil by 53.2%, diesel by 38.8% and petrol by 22.5% \u2014 Hotels rose by 29.8%, transport by 11.3%",
-      "url": "https://en.protothema.gr/2026/10/09/elstat-inflation-jumped-to-5-in-september-fuel-prices-rallied-rents-rose-by-14-7/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/10/plithorismos_2.webp",
-      "publishedAt": "2026-10-09T09:37:46Z",
+      "title": "US stocks: US market opens higher as oil slips; telecoms hit by SpaceX spectrum deal",
+      "description": "Wall Street opened on a positive note this Friday as oil prices dipped, easing worries over Middle Eastern supply issues. The Dow Jones Industrial Average, S&P 500, and Nasdaq Composite each experienced a rise at the open. Nonetheless, the telecom industry faced headwinds following SpaceX's spectrum purchase, sparking competitive anxiety among its players, showcasing the market's mixed responses to sector-specific events.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-us-market-opens-higher-as-oil-slips-telecoms-hit-by-spacex-spectrum-deal/articleshow/134836014.cms",
+      "image": "https://img.etimg.com/thumb/msid-134836060,width-1200,height-900,imgsize-3818941,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-09T13:56:00Z",
       "source": {
-        "name": "Proto Thema"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Gold adds over 1% on easing oil prices, softer dollar",
-      "description": "Gold advanced more than 1% on Friday on a combination of cooling oil prices and a softer US dollar, with markets weighing the likelihood of further Federal Reserve interest-rate hikes.\n...",
-      "url": "https://www.marketscreener.com/news/gold-adds-over-1-on-easing-oil-prices-softer-dollar-ce785ddfd18cff24",
+      "title": "Gold hits one-week high on softer oil prices",
+      "description": "Gold rose to a one-week high on Friday, as falling oil prices eased concerns around inflation and pressure on US Treasuries, while traders assessed the likelihood of further US Federal Reserve...",
+      "url": "https://www.marketscreener.com/news/gold-hits-one-week-high-on-softer-oil-prices-ce785ddcd888f12d",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-15T103849Z_1_LYNXMPEM8E0X1_RTROPTP_4_GHANA-MINING.JPG",
-      "publishedAt": "2026-10-09T09:32:28Z",
+      "publishedAt": "2026-10-09T13:54:57Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Oil prices retreat after Trump appears to rule out Iran strikes before midterms",
-      "description": "Oil fell Friday after surging previous day, as traders weighed Trump\u2019s pledge not to attack Iran before the US midterm elections\u00a0 | World News",
-      "url": "https://www.hindustantimes.com/world-news/oil-prices-retreat-after-trump-appears-to-rule-out-iran-strikes-before-midterms-101791536819554.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/09/1600x900/logo/im-41281708_1791536823378_wvSm_1791536883140_qe5R_29fab746-c9df-425e-be40-15669dbb3aae_vlQq.jpg",
-      "publishedAt": "2026-10-09T09:30:38Z",
+      "title": "Gas prices for Oct. 9, 2026: National average hits $4.37 per gallon",
+      "description": "While gas prices are down slightly this week, drivers are still paying 15 cents more per gallon than they were one month ago.",
+      "url": "https://www.mlive.com/news/us-world/2026/10/gas-prices-for-100926-what-you-will-pay-heading-into-the-weekend.html",
+      "image": "https://www.mlive.com/resizer/v2/NLLQET5BD5CBJAGCN6DQBO2S7Y.JPG?auth=67cf438da3e405987b0cacd7e302a8289629ebc6a7408ef494c0a67bbe2742c0&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-09T13:52:09Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "Oil relief lifts European stocks, but telecoms tumble on SpaceX's US spectrum deal",
-      "description": "European stocks rebounded on Friday as oil prices and bond yields eased on hopes of a pause in the Middle East war, though telecom stocks slid after SpaceX's deal to acquire a nationwide spectrum...",
-      "url": "https://www.marketscreener.com/news/oil-relief-lifts-european-stocks-but-telecoms-tumble-on-spacex-s-us-spectrum-deal-ce785ddfd18df024",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-06T073401Z_1_LYNXMPEM950IP_RTROPTP_4_EUROPE-STOCKS.JPG",
-      "publishedAt": "2026-10-09T09:16:05Z",
+      "title": "Gas prices for Oct. 9, 2026: National average hits $4.37 per gallon",
+      "description": "While gas prices are down slightly this week, drivers are still paying 15 cents more per gallon than they were one month ago.",
+      "url": "https://www.al.com/news/2026/10/gas-prices-for-100926-what-you-will-pay-heading-into-the-weekend.html",
+      "image": "https://www.al.com/resizer/v2/NLLQET5BD5CBJAGCN6DQBO2S7Y.JPG?auth=67cf438da3e405987b0cacd7e302a8289629ebc6a7408ef494c0a67bbe2742c0&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-09T13:52:09Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "AL.com"
       }
     },
     {
-      "title": "Bitcoin Recovers Some Ground on Falling Yields, Oil",
-      "description": "By Joseph Wilkins\nBitcoin recovered some ground on Friday after bond yields and oil prices retreated, easing pressure on risk assets across the board.\nThe flagship cryptocurrency rose 0.9%...",
-      "url": "https://www.marketscreener.com/news/bitcoin-recovers-some-ground-on-falling-yields-oil-ce785ddfd18aff22",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-10-09T09:03:59Z",
+      "title": "Gas prices for Oct. 9, 2026: National average hits $4.37 per gallon",
+      "description": "While gas prices are down slightly this week, drivers are still paying 15 cents more per gallon than they were one month ago.",
+      "url": "https://www.cleveland.com/nation/2026/10/gas-prices-for-100926-what-you-will-pay-heading-into-the-weekend.html",
+      "image": "https://www.cleveland.com/resizer/v2/NLLQET5BD5CBJAGCN6DQBO2S7Y.JPG?auth=67cf438da3e405987b0cacd7e302a8289629ebc6a7408ef494c0a67bbe2742c0&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-09T13:52:09Z",
       "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "If the Strait of Hormuz is open, why are gas and diesel so expensive?",
-      "description": "By Matt Egan, CNN New York (CNN) \u2014 The Strait of Hormuz is no longer paralyzed and yet fuel prices remain painfully high. It\u2019s a vexing problem with profound financial, political and economic consequences. Gasoline prices, averaging $4.36 a gallon nationally, have never been this high at this time of year, according to AAA data.",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/09/if-the-strait-of-hormuz-is-open-why-are-gas-and-diesel-so-expensive/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-      "publishedAt": "2026-10-09T09:00:45Z",
-      "source": {
-        "name": "ABC17News.com"
+        "name": "cleveland.com"
       }
     }
   ]
