@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-10-10T16:35:14+00:00",
+  "updated_at": "2026-10-10T20:52:02+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "RBI Opens Dollar Window For 3 PSU Oil Firms Amid Rising Oil Prices, Rupee Pressure",
+      "description": "RBI Opens Dollar Window For 3 PSU Oil Firms Amid Rising Oil Prices, Rupee Pressure, Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/rbi-opens-dollar-window-for-3-psu-oil-firms-amid-rising-oil-prices-rupee-pressure-article-156309569",
+      "image": "https://images.timesnownews.com/thumb/msid-156309579,thumbsize-2736269,width-1280,height-720,resizemode-75/156309579.jpg",
+      "publishedAt": "2026-10-10T08:35:18Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "G7 Flow, Russian Diesel: What New Supply Streams Mean For Crude Oil Prices?",
+      "description": "The G7 agreed last week to release 100 million barrels from emergency reserves and to refrain from energy export bans.",
+      "url": "https://www.ndtvprofit.com/world/g7-flow-russian-diesel-what-new-supply-streams-mean-for-crude-oil-prices-12165587",
+      "image": "https://i.ndtvimg.com/i/2015-07/oil-market-oil-brent_625x332_51437644626.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-10T08:34:17Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "US bond market under strain: 5 factors fuelling the Treasury selloff",
+      "description": "US Treasury yields have surged to two-decade highs due to heavy AI company borrowing, rising oil prices, mortgage selling, and government debt concerns, sparking investor uncertainty about future bond market trends.",
+      "url": "https://www.financialexpress.com/market/global-markets/us-bond-market-under-strain-5-factors-fuelling-the-treasury-selloff/4358091/",
+      "image": "https://images.financialexpressdigital.com/2026/08/Global-business.jpg",
+      "publishedAt": "2026-10-10T08:11:43Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "RBI Opens Special Dollar Window for Oil PSUs as Rupee Nears 97",
+      "description": "The Reserve Bank of India will provide a special dollar window for Indian Oil, HPCL and BPCL from October 12 to meet their entire daily foreign currency requirements as crude oil prices cross $100 a barrel and the rupee nears 97 against the US dollar.",
+      "url": "https://indianexpress.com/article/business/rbi-special-dollar-window-oil-psus-rupee-crude-prices-reserve-bank-of-india-10915196/",
+      "image": "https://images.indianexpress.com/2026/09/rbi_68addb.jpg",
+      "publishedAt": "2026-10-10T06:25:26Z",
+      "source": {
+        "name": "The Indian Express"
+      }
+    },
+    {
+      "title": "Honda Elevate facelift review, first drive: A no-nonsense SUV",
+      "description": "The 2026 Honda Elevate facelift brings refreshed styling, improved cabin comfort and new features while retaining its 1.5-litre petrol engine. But is this update enough to challenge its rivals?",
+      "url": "https://www.indiatoday.in/auto/reviews/story/honda-elevate-facelift-review-first-drive-a-no-nonsense-suv-3013875-2026-10-10",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/honda-elevate-facelift-review-100117219-16x9_0.jpg?VersionId=5ROX5j1EsSmJRufOYqt6L2nZD0ygDnfq",
+      "publishedAt": "2026-10-10T05:30:00Z",
+      "source": {
+        "name": "India Today"
+      }
+    },
+    {
+      "title": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
+      "description": "RBI to provide a daily dollar window to three PSU oil firms to meet $300M import needs and curb rupee volatility.",
+      "url": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
+      "image": "https://th-i.thgim.com/public/news/national/7wfg7c/article71567168.ece/alternates/LANDSCAPE_1200/iStock-586946352.jpg",
+      "publishedAt": "2026-10-10T05:28:49Z",
+      "source": {
+        "name": "The Hindu"
+      }
+    },
+    {
+      "title": "Drivers who use Asda petrol stations urged to fill up before Wednesday",
+      "description": "Customers must spend \u00a340 or more in store, receiving a voucher via the Asda Rewards app for future fuel purchases.",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/drivers-who-use-asda-petrol-34688713",
+      "image": "https://i2-prod.birminghammail.co.uk/article34688772.ece/ALTERNATES/s1200d/0_asda.jpg",
+      "publishedAt": "2026-10-10T04:42:00Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
     {
       "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
       "description": "The euro has experienced a significant drop as concerns about France's public debt continue to affect investor confidence. Global bond markets have stabilized following US President Donald Trump's remarks on potential military action against Iran. Oil prices fluctuated significantly, impacting market dynamics and investor sentiment. US consumer sentiment has worsened amid rising living costs attributed to the ongoing Middle East conflict.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-10-10T04:10:00Z",
       "source": {
         "name": "Bangkok Post"
-      }
-    },
-    {
-      "title": "Nissan Tekton revealed with bold design, premium features and prices starting at \u20b910.49 lakh",
-      "description": "Nissan launched the Tecton, a bold mid-size SUV featuring Patrol-inspired design, a premium tech cabin, two turbo-petrol engines, and a five-star",
-      "url": "https://www.onmanorama.com/news/india/2026/10/09/nissan-tekton-review.html",
-      "image": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/fasttrack/suvs/images/2026/9/28/nissan-tekton-new.jpg",
-      "publishedAt": "2026-10-10T04:08:17Z",
-      "source": {
-        "name": "Malayala Manorama"
-      }
-    },
-    {
-      "title": "Trump and Iran agree on one thing. The US election calendar isn\u2019t driving their decisions on the war",
-      "description": "By AAMER MADHANI and AMIR-HUSSEIN RADJY WASHINGTON (AP) \u2014 President Donald Trump and Iran\u2019s leadership appear to agree on one thing about their seven-month-old war: they each insist the U.S. election calendar isn\u2019t motivating them to find an end to it. Persistent inflation and high gas prices fueled by the conflict have driven widespread American [\u2026]",
-      "url": "https://www.pressdemocrat.com/2026/10/09/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Trump__2319-1.jpg?w=4096&h=2728",
-      "publishedAt": "2026-10-10T04:03:39Z",
-      "source": {
-        "name": "Santa Rosa Press Democrat"
-      }
-    },
-    {
-      "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
-      "description": "After an eight-week slump, Indian equities experienced a robust rebound, highlighted by a notable rise in the BSE Sensex. This recovery was buoyed by declining crude oil prices, which eased from their recent peaks. While foreign portfolio investors remained in a selling mood, local institutional investors stepped in with strong buying activity.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
-      "image": "https://img.etimg.com/thumb/msid-134847017,width-1200,height-900,imgsize-2067387,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-10T03:59:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "\"War will end either through battle\" or through deal: Trump says Iran conflict to end \"very soon\"",
-      "description": "US President Donald Trump on Friday (local time) said the war with Iran would end \"very soon\", either through continued fighting or Tehran agreeing to sign an agreement on Washington's terms, while claiming that Russia was sending the United States millions of barrels of oil and oil prices were falling rapidly.",
-      "url": "https://www.aninews.in/news/world/us/war-will-end-either-through-battle-or-through-deal-trump-says-iran-conflict-to-end-very-soon20261010091305/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261010033031-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-10T03:43:05Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Daily Voice: Alpha Capital\u2019s Mukesh Jindal sees 7%+ growth within reach if oil prices cool",
-      "description": "Mukesh Jindal of Alpha Capital believes bank stocks are close to fair valuations, but not cheap across the board.",
-      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-alpha-capital-s-mukesh-jindal-sees-7-growth-within-reach-if-oil-prices-cool-14048893.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260428192600_Mukesh_Jindal.jpg",
-      "publishedAt": "2026-10-10T03:00:19Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today (October 10): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "State-run oil marketing companies have kept retail fuel rates steady, providing some relief to consumers amid volatility in international oil markets.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-10-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-560780-2026-10-10",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac99d8f85bc1-consumers-should-monitor-local-rates--as-city-specific-taxes-vary-even-within-the-same-state--leadin-100606232-16x9.jpg",
-      "publishedAt": "2026-10-10T02:06:14Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "Petrol and diesel prices today, October 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
-      "description": "In Mumbai, the retail price of petrol stood at \u20b9111.31 per litre, reflecting a slight increase from yesterday's \u20b9111.21.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791594403477.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/ANI-20260523128-0_1779589143364_1779589273427_142be4b3-363a-4a6b-8f4e-10a81dbb6723_1791595704423_5iHa_139377e3-ac52-402d-b092-3f2a40413219_tuEk.jpg",
-      "publishedAt": "2026-10-10T01:36:27Z",
-      "source": {
-        "name": "Livemint"
       }
     }
   ]
