@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-10T11:34:22+00:00",
+  "updated_at": "2026-10-10T16:35:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why is Donald Trump buying diesel from Vladimir Putin's Russia despite heavy sanctions? What will be impact on Oil prices?",
-      "description": "Donald Trumps shocking announcement comes after he signed a sweeping Russia sanctions law last month that aimed at clamping down on the Russian oil and gas revenues that fuel its war against Ukraine.",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-donald-trump-buying-diesel-from-vladimir-putins-russia-despite-heavy-sanctions-what-will-be-impact-on-oil-prices/articleshow/134845594.cms",
-      "image": "https://img.etimg.com/thumb/msid-134845595,width-1200,height-900,imgsize-92200,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-09T23:30:00Z",
+      "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
+      "description": "The euro has experienced a significant drop as concerns about France's public debt continue to affect investor confidence. Global bond markets have stabilized following US President Donald Trump's remarks on potential military action against Iran. Oil prices fluctuated significantly, impacting market dynamics and investor sentiment. US consumer sentiment has worsened amid rising living costs attributed to the ongoing Middle East conflict.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
+      "image": "https://img.etimg.com/thumb/msid-134847285,width-1200,height-900,imgsize-3529863,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-10T04:25:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "S&P 500 Top Stock Gainers Today, 10/9/26",
-      "description": "The\u00a0S&P 500\u00a0(SPX)\u00a0closed with a 0.59% return on Friday as oil prices eased following President Trump\u2019s pledge to hold off on ...",
-      "url": "https://markets.businessinsider.com/news/stocks/s-p-500-top-stock-gainers-today-10-9-26-1036614195",
-      "image": "https://markets.businessinsider.com/favicon-32x32.png",
-      "publishedAt": "2026-10-09T22:02:19Z",
+      "title": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
+      "description": "President Donald Trump and Iranian officials seem to agree on one thing about their seven-month-old war. They each insist that the U.S. election calendar isn't motivating them to find an end to it. American concerns about high gas prices and inflation are hanging over the November 3 midterms. Despite economic sanctions and a naval blockade, Iran insists there will be no deal until the U.S. lifts these measures. Trump has dispatched more military resources to the region, but he's also declared he won't launch strikes before Nov. 3. Some Republicans are trying to distance themselves from Trump's stance, but it's challenging with the election so close.",
+      "url": "https://www.ajc.com/news/2026/10/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/",
+      "image": "https://images.ajc.com/resizer/v2/7WEQHQSZ6ND5REHIFJWU6KUX7I.jpg?auth=4bb107fa76d098a19c3306c6dd5728ff20da952c956a980e976344bee47f3a91&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-10T04:12:22Z",
       "source": {
-        "name": "Markets Insider"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Meet the 'transit baddies\u2019 on a mission to make LA Metro cool again",
-      "description": "With gas prices spiking and parking at a premium, Los Angeles influencers are building audiences sharing their journey into the city\u2019s public transit system.",
-      "url": "https://nypost.com/2026/10/09/lifestyle/meet-the-transit-baddies-on-a-mission-to-make-la-metro-cool-again/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/newspress-collage-u6777jio0-1791577665283.jpg?quality=75&strip=all&1791563414&w=1200",
-      "publishedAt": "2026-10-09T21:46:38Z",
+      "title": "Bond market turmoil keeps lid on equity gains",
+      "description": "RECAP: Asian stocks were mixed on Friday as investors fretted about bond \u200cmarket turmoil and the sustainability of the AI investment boom, while support came from a drop in oil prices after US President Donald Trump ruled out a pre-election strike on Iran.",
+      "url": "https://www.bangkokpost.com/business/general/3334628/bond-market-turmoil-keeps-lid-on-equity-gains",
+      "image": "https://static.bangkokpost.com/media/content/20261010/c1_3334628_261010112010_700.jpg",
+      "publishedAt": "2026-10-10T04:10:00Z",
       "source": {
-        "name": "New York Post"
+        "name": "Bangkok Post"
       }
     },
     {
-      "title": "A Mixed Week Before Earnings",
-      "description": "Financial markets endured a turbulent week, marked by surging oil prices and rising bond yields amid renewed tensions in the Persian Gulf. Wall Street nevertheless managed to outperform, with the S&P...\n-October 09, 2026 at 05:09 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/a-mixed-week-before-earnings-ce785ddcda88f224",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4507229_800.png",
-      "publishedAt": "2026-10-09T21:09:39Z",
+      "title": "Nissan Tekton revealed with bold design, premium features and prices starting at \u20b910.49 lakh",
+      "description": "Nissan launched the Tecton, a bold mid-size SUV featuring Patrol-inspired design, a premium tech cabin, two turbo-petrol engines, and a five-star",
+      "url": "https://www.onmanorama.com/news/india/2026/10/09/nissan-tekton-review.html",
+      "image": "https://img-mm.manoramaonline.com/content/dam/mm/mo/archive/fasttrack/suvs/images/2026/9/28/nissan-tekton-new.jpg",
+      "publishedAt": "2026-10-10T04:08:17Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Malayala Manorama"
       }
     },
     {
-      "title": "A Mixed Week Before Earnings",
-      "description": "Financial markets endured a turbulent week, marked by surging oil prices and rising bond yields amid renewed tensions in the Persian Gulf. Wall Street nevertheless managed to outperform, with the S&P...\n-October 09, 2026 at 05:09 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/a-mixed-week-before-earnings-ce785ddcda88f323",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4507229_800.png",
-      "publishedAt": "2026-10-09T21:09:19Z",
+      "title": "Trump and Iran agree on one thing. The US election calendar isn\u2019t driving their decisions on the war",
+      "description": "By AAMER MADHANI and AMIR-HUSSEIN RADJY WASHINGTON (AP) \u2014 President Donald Trump and Iran\u2019s leadership appear to agree on one thing about their seven-month-old war: they each insist the U.S. election calendar isn\u2019t motivating them to find an end to it. Persistent inflation and high gas prices fueled by the conflict have driven widespread American [\u2026]",
+      "url": "https://www.pressdemocrat.com/2026/10/09/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Trump__2319-1.jpg?w=4096&h=2728",
+      "publishedAt": "2026-10-10T04:03:39Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "A Mixed Week Before Earnings",
-      "description": "Financial markets endured a turbulent week, marked by surging oil prices and rising bond yields amid renewed tensions in the Persian Gulf. Wall Street nevertheless managed to outperform, with the S&P...\n-October 09, 2026 at 05:09 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/a-mixed-week-before-earnings-ce785ddcda88f321",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4507229_800.png",
-      "publishedAt": "2026-10-09T21:09:00Z",
+      "title": "D-Street breaks 8-week losing run, outlook stays cautious though",
+      "description": "After an eight-week slump, Indian equities experienced a robust rebound, highlighted by a notable rise in the BSE Sensex. This recovery was buoyed by declining crude oil prices, which eased from their recent peaks. While foreign portfolio investors remained in a selling mood, local institutional investors stepped in with strong buying activity.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-street-breaks-8-week-losing-run-outlook-stays-cautious-though/articleshow/134847017.cms",
+      "image": "https://img.etimg.com/thumb/msid-134847017,width-1200,height-900,imgsize-2067387,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-10T03:59:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "A Mixed Week Before Earnings",
-      "description": "Financial markets endured a turbulent week, marked by surging oil prices and rising bond yields amid renewed tensions in the Persian Gulf. Wall Street nevertheless managed to outperform, with the S&P...\n-October 09, 2026 at 05:08 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/a-mixed-week-before-earnings-ce785ddcda88f42c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4507229_800.png",
-      "publishedAt": "2026-10-09T21:08:32Z",
+      "title": "\"War will end either through battle\" or through deal: Trump says Iran conflict to end \"very soon\"",
+      "description": "US President Donald Trump on Friday (local time) said the war with Iran would end \"very soon\", either through continued fighting or Tehran agreeing to sign an agreement on Washington's terms, while claiming that Russia was sending the United States millions of barrels of oil and oil prices were falling rapidly.",
+      "url": "https://www.aninews.in/news/world/us/war-will-end-either-through-battle-or-through-deal-trump-says-iran-conflict-to-end-very-soon20261010091305/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261010033031-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-10T03:43:05Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "A Mixed Week Before Earnings",
-      "description": "Financial markets endured a turbulent week, marked by surging oil prices and rising bond yields amid renewed tensions in the Persian Gulf. Wall Street nevertheless managed to outperform, with the S&P...\n-October 09, 2026 at 05:06 pm EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/a-mixed-week-before-earnings-ce785ddcda88f623",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/ImagesTagged/zbimg_4507229_800.png",
-      "publishedAt": "2026-10-09T21:06:37Z",
+      "title": "Daily Voice: Alpha Capital\u2019s Mukesh Jindal sees 7%+ growth within reach if oil prices cool",
+      "description": "Mukesh Jindal of Alpha Capital believes bank stocks are close to fair valuations, but not cheap across the board.",
+      "url": "https://www.moneycontrol.com/news/business/markets/daily-voice-alpha-capital-s-mukesh-jindal-sees-7-growth-within-reach-if-oil-prices-cool-14048893.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/04/20260428192600_Mukesh_Jindal.jpg",
+      "publishedAt": "2026-10-10T03:00:19Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Home heating oil tax relief falls short as Irish prices continue to climb after budget",
-      "description": "The cost of home heating oil was supposed to have come down after the Government made their big announcement on carbon tax in this week's budget \u2014 but the latest figures claim that home heating oil prices in Ireland have actually increased and remain on an upward trend",
-      "url": "https://www.rsvplive.ie/news/irish-news/home-heating-oil-tax-relief-37756466",
-      "image": "https://i2-prod.rsvplive.ie/article37756465.ece/ALTERNATES/s1200d/0_GettyImages-1289920656.jpg",
-      "publishedAt": "2026-10-09T20:58:32Z",
+      "title": "Petrol, diesel prices today (October 10): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "State-run oil marketing companies have kept retail fuel rates steady, providing some relief to consumers amid volatility in international oil markets.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-10-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-560780-2026-10-10",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac99d8f85bc1-consumers-should-monitor-local-rates--as-city-specific-taxes-vary-even-within-the-same-state--leadin-100606232-16x9.jpg",
+      "publishedAt": "2026-10-10T02:06:14Z",
       "source": {
-        "name": "RSVP Live"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Stocks advance ahead of earnings, navigating still-high Treasury yields and oil prices",
-      "description": "World stocks rose on Friday, with government bond yields and oil prices only incrementally higher, ahead of key economic data next week, along with quarterly earnings reports from the largest US...",
-      "url": "https://www.marketscreener.com/news/stocks-advance-ahead-of-earnings-navigating-still-high-treasury-yields-and-oil-prices-ce785ddcda89f322",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-24T133640Z_1_LYNXMPEM8N16A_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-09T20:52:31Z",
+      "title": "Petrol and diesel prices today, October 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+      "description": "In Mumbai, the retail price of petrol stood at \u20b9111.31 per litre, reflecting a slight increase from yesterday's \u20b9111.21.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11791594403477.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/10/1600x900/logo/ANI-20260523128-0_1779589143364_1779589273427_142be4b3-363a-4a6b-8f4e-10a81dbb6723_1791595704423_5iHa_139377e3-ac52-402d-b092-3f2a40413219_tuEk.jpg",
+      "publishedAt": "2026-10-10T01:36:27Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Livemint"
       }
     }
   ]
