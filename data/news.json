@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-10T20:52:02+00:00",
+  "updated_at": "2026-10-11T02:53:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "RBI Opens Dollar Window For 3 PSU Oil Firms Amid Rising Oil Prices, Rupee Pressure",
-      "description": "RBI Opens Dollar Window For 3 PSU Oil Firms Amid Rising Oil Prices, Rupee Pressure, Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/rbi-opens-dollar-window-for-3-psu-oil-firms-amid-rising-oil-prices-rupee-pressure-article-156309569",
-      "image": "https://images.timesnownews.com/thumb/msid-156309579,thumbsize-2736269,width-1280,height-720,resizemode-75/156309579.jpg",
-      "publishedAt": "2026-10-10T08:35:18Z",
+      "title": "Gas prices for Oct.10, 2026: Where prices rose and fell overnight",
+      "description": "The national average dropped by about half a cent overnight bringing the price down to $4.366 per gallon.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-101026-trio-of-midwest-states-see-prices-jump-by-at-least-3-cents.html",
+      "image": "https://www.mlive.com/resizer/v2/HZ64KM2OQZGTNMUQJMV5NKCFSA.jpg?auth=889fa259500704916ebfad25ae37a6e94c06d4d494adc9f57bdc5b9175b81079&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-10T14:13:58Z",
       "source": {
-        "name": "Times Now"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "G7 Flow, Russian Diesel: What New Supply Streams Mean For Crude Oil Prices?",
-      "description": "The G7 agreed last week to release 100 million barrels from emergency reserves and to refrain from energy export bans.",
-      "url": "https://www.ndtvprofit.com/world/g7-flow-russian-diesel-what-new-supply-streams-mean-for-crude-oil-prices-12165587",
-      "image": "https://i.ndtvimg.com/i/2015-07/oil-market-oil-brent_625x332_51437644626.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-10T08:34:17Z",
+      "title": "Gas prices for Oct.10, 2026: Where prices rose and fell overnight",
+      "description": "The national average dropped by about half a cent overnight bringing the price down to $4.366 per gallon.",
+      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-101026-trio-of-midwest-states-see-prices-jump-by-at-least-3-cents.html",
+      "image": "https://www.cleveland.com/resizer/v2/HZ64KM2OQZGTNMUQJMV5NKCFSA.jpg?auth=889fa259500704916ebfad25ae37a6e94c06d4d494adc9f57bdc5b9175b81079&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-10T14:13:58Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "US bond market under strain: 5 factors fuelling the Treasury selloff",
-      "description": "US Treasury yields have surged to two-decade highs due to heavy AI company borrowing, rising oil prices, mortgage selling, and government debt concerns, sparking investor uncertainty about future bond market trends.",
-      "url": "https://www.financialexpress.com/market/global-markets/us-bond-market-under-strain-5-factors-fuelling-the-treasury-selloff/4358091/",
-      "image": "https://images.financialexpressdigital.com/2026/08/Global-business.jpg",
-      "publishedAt": "2026-10-10T08:11:43Z",
+      "title": "Gas prices for Oct.10, 2026: Where prices rose and fell overnight",
+      "description": "The national average dropped by about half a cent overnight bringing the price down to $4.366 per gallon.",
+      "url": "https://www.al.com/news/2026/10/gas-prices-for-101026-trio-of-midwest-states-see-prices-jump-by-at-least-3-cents.html",
+      "image": "https://www.al.com/resizer/v2/HZ64KM2OQZGTNMUQJMV5NKCFSA.jpg?auth=889fa259500704916ebfad25ae37a6e94c06d4d494adc9f57bdc5b9175b81079&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-10T14:13:58Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "AL.com"
       }
     },
     {
-      "title": "RBI Opens Special Dollar Window for Oil PSUs as Rupee Nears 97",
-      "description": "The Reserve Bank of India will provide a special dollar window for Indian Oil, HPCL and BPCL from October 12 to meet their entire daily foreign currency requirements as crude oil prices cross $100 a barrel and the rupee nears 97 against the US dollar.",
-      "url": "https://indianexpress.com/article/business/rbi-special-dollar-window-oil-psus-rupee-crude-prices-reserve-bank-of-india-10915196/",
-      "image": "https://images.indianexpress.com/2026/09/rbi_68addb.jpg",
-      "publishedAt": "2026-10-10T06:25:26Z",
+      "title": "\u2018Ship has sailed\u2019: New poll shows even an end to the war or lower gas prices may not save Republicans",
+      "description": "A new POLITICO Poll shows most Americans, especially Democratic and undecided voters, would not be moved even if Trump ended the Iran war or brought down gas prices.",
+      "url": "https://www.politico.com/news/2026/10/10/ship-has-sailed-new-poll-shows-even-an-end-to-the-war-or-lower-gas-prices-may-not-save-republicans-01114385",
+      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fae%2Fb5%2Fc782232f42fd8801ef145b4b2c40%2Ftpp-baked.png",
+      "publishedAt": "2026-10-10T14:01:00Z",
       "source": {
-        "name": "The Indian Express"
+        "name": "POLITICO"
       }
     },
     {
-      "title": "Honda Elevate facelift review, first drive: A no-nonsense SUV",
-      "description": "The 2026 Honda Elevate facelift brings refreshed styling, improved cabin comfort and new features while retaining its 1.5-litre petrol engine. But is this update enough to challenge its rivals?",
-      "url": "https://www.indiatoday.in/auto/reviews/story/honda-elevate-facelift-review-first-drive-a-no-nonsense-suv-3013875-2026-10-10",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/honda-elevate-facelift-review-100117219-16x9_0.jpg?VersionId=5ROX5j1EsSmJRufOYqt6L2nZD0ygDnfq",
-      "publishedAt": "2026-10-10T05:30:00Z",
+      "title": "Putin Makes Act of Generosity for World by Reaching Fuel Deal With US - Finnish Politician",
+      "description": "Russian President Vladimir Putin made an incredible act of generosity for the world by facilitating stabilization of oil prices, Finnish politician and member of the Freedom Alliance party, Armando Mema, said on Saturday, commenting on the US-Russia deal on diesel fuel supplies.",
+      "url": "https://sputnikglobe.com/20261010/putin-makes-act-of-generosity-for-world-by-reaching-fuel-deal-with-us---finnish-politician-1124860677.html",
+      "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124860677.jpg?11226338491791637304",
+      "publishedAt": "2026-10-10T13:01:00Z",
       "source": {
-        "name": "India Today"
+        "name": "Sputnik News"
       }
     },
     {
-      "title": "As oil prices rise, RBI opens special window for PSU oil firms to meet their daily dollar need",
-      "description": "RBI to provide a daily dollar window to three PSU oil firms to meet $300M import needs and curb rupee volatility.",
-      "url": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece",
-      "image": "https://th-i.thgim.com/public/news/national/7wfg7c/article71567168.ece/alternates/LANDSCAPE_1200/iStock-586946352.jpg",
-      "publishedAt": "2026-10-10T05:28:49Z",
+      "title": "Trump gets richer while gas prices soar",
+      "description": "The Iran war and energy crisis aren\u2019t problems for the president. They\u2019re a business model",
+      "url": "https://www.salon.com/2026/10/10/trump-gets-richer-while-gas-prices-soar/",
+      "image": "https://www.salon.com/app/uploads/2026/10/DONALD-TRUMP-NEW-YORK-GettyImages-2299458057.jpg",
+      "publishedAt": "2026-10-10T13:00:41Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Salon"
       }
     },
     {
-      "title": "Drivers who use Asda petrol stations urged to fill up before Wednesday",
-      "description": "Customers must spend \u00a340 or more in store, receiving a voucher via the Asda Rewards app for future fuel purchases.",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/drivers-who-use-asda-petrol-34688713",
-      "image": "https://i2-prod.birminghammail.co.uk/article34688772.ece/ALTERNATES/s1200d/0_asda.jpg",
-      "publishedAt": "2026-10-10T04:42:00Z",
+      "title": "Euro hits 17-month low against dollar: What's the reason?",
+      "description": "The euro is on track for its fifth consecutive weekly decline, influenced by concerns over France's public debt and fluctuating oil prices impacting investor sentiment.",
+      "url": "https://www.newsbytesapp.com/news/business/euro-hits-17-month-low-as-french-debt-concerns-mount/story",
+      "image": "https://i.cdn.newsbytesapp.com/images/l47820261010123237.jpeg",
+      "publishedAt": "2026-10-10T12:10:09Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Euro falls, set for fifth straight weekly drop as oil prices rise",
-      "description": "The euro has experienced a significant drop as concerns about France's public debt continue to affect investor confidence. Global bond markets have stabilized following US President Donald Trump's remarks on potential military action against Iran. Oil prices fluctuated significantly, impacting market dynamics and investor sentiment. US consumer sentiment has worsened amid rising living costs attributed to the ongoing Middle East conflict.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/euro-falls-set-for-fifth-straight-weekly-drop-as-oil-prices-rise/articleshow/134847274.cms",
-      "image": "https://img.etimg.com/thumb/msid-134847285,width-1200,height-900,imgsize-3529863,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-10T04:25:00Z",
+      "title": "India unveils tough curbs on dollar demand to defend rupee",
+      "description": "Persistent pressure on the rupee, fueled by surging oil prices and global bond yields, has driven the currency down more than 7% this year.",
+      "url": "https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107392609-1711426789103-gettyimages-1370313314-indiaflagrs.jpeg?v=1711427417&w=1920&h=1080",
+      "publishedAt": "2026-10-10T11:12:58Z",
+      "source": {
+        "name": "CNBC"
+      }
+    },
+    {
+      "title": "RBI may raise repo rate by 75-100 bps in current cycle: Report",
+      "description": "SBI Capital Markets expects the Reserve Bank of India (RBI) to raise the repo rate by 75-100 basis points during the current tightening cycle, with a larger hike in December 2026 possible depending on inflation data. The report projects consumer inflation to peak in Q3 FY27 before easing, while warning that high crude oil prices, geopolitical tensions and rising borrowing costs could weigh on consumption. Higher rates may support bank margins in FY27, with bonds potentially regaining investor interest in FY28.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-may-raise-repo-rate-by-75-100-bps-in-current-cycle-report/articleshow/134852172.cms",
+      "image": "https://img.etimg.com/thumb/msid-134852171,width-1200,height-900,imgsize-92746,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-10T10:26:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Trump and Iran agree on one thing. The US election calendar isn't driving their decisions on the war",
-      "description": "President Donald Trump and Iranian officials seem to agree on one thing about their seven-month-old war. They each insist that the U.S. election calendar isn't motivating them to find an end to it. American concerns about high gas prices and inflation are hanging over the November 3 midterms. Despite economic sanctions and a naval blockade, Iran insists there will be no deal until the U.S. lifts these measures. Trump has dispatched more military resources to the region, but he's also declared he won't launch strikes before Nov. 3. Some Republicans are trying to distance themselves from Trump's stance, but it's challenging with the election so close.",
-      "url": "https://www.ajc.com/news/2026/10/trump-and-iran-agree-on-one-thing-the-us-election-calendar-isnt-driving-their-decisions-on-the-war/",
-      "image": "https://images.ajc.com/resizer/v2/7WEQHQSZ6ND5REHIFJWU6KUX7I.jpg?auth=4bb107fa76d098a19c3306c6dd5728ff20da952c956a980e976344bee47f3a91&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-10T04:12:22Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862441",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-5-stained-glass-artists-grouting-their-artwork-powassan-brenda.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-10-10T10:00:00Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Bond market turmoil keeps lid on equity gains",
-      "description": "RECAP: Asian stocks were mixed on Friday as investors fretted about bond \u200cmarket turmoil and the sustainability of the AI investment boom, while support came from a drop in oil prices after US President Donald Trump ruled out a pre-election strike on Iran.",
-      "url": "https://www.bangkokpost.com/business/general/3334628/bond-market-turmoil-keeps-lid-on-equity-gains",
-      "image": "https://static.bangkokpost.com/media/content/20261010/c1_3334628_261010112010_700.jpg",
-      "publishedAt": "2026-10-10T04:10:00Z",
-      "source": {
-        "name": "Bangkok Post"
+        "name": "BayToday"
       }
     }
   ]
