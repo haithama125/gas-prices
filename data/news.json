@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-10-11T02:53:59+00:00",
+  "updated_at": "2026-10-11T11:48:03+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "The Ride to Work A Journey from Cycling for Health to a Healthier India",
+      "description": "Rizwan Uddin rizwanepfo@gmail.com Every morning, while most commuters in Delhi prepare themselves for another battle with traffic, fuel costs and pollution, there is one commuter who chooses a different route-one powered not by petrol or diesel, but by his own...",
+      "url": "https://www.dailyexcelsior.com/the-ride-to-work-a-journey-from-cycling-for-health-to-a-healthier-india/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTU2ZWRiNmMwLWM0ZmYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-10T23:07:17Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Supreme Court weighs climate lawsuits that could bankrupt oil firms",
+      "description": "Supreme Court heard oral arguments in Suncor v. Boulder, a climate lawsuit that energy experts warn could bankrupt oil companies and drive up gas prices nationwide.",
+      "url": "https://www.foxnews.com/politics/supreme-court-climate-case-could-bankrupt-oil-companies-send-gas-prices-soaring-experts-warn",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Supreme-Court-justices.jpg",
+      "publishedAt": "2026-10-10T20:05:53Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
+    {
+      "title": "She Was Cleaning Her House When a Neighbour Poured 5-litre Petrol on Her, Daughter Claims Police Ignored Repeated 112 Calls",
+      "description": "A 32-year-old woman in Banda suffered around 40% burns after her neighbour allegedly poured petrol on her and set her on fire. Her daughter claims repeated police complaints failed to stop the abuse.",
+      "url": "https://www.newsx.com/regionals/she-was-cleaning-her-house-when-a-neighbour-poured-5-litre-petrol-on-her-daughter-claims-police-ignored-repeated-112-calls-281922/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/07/crime.jpg",
+      "publishedAt": "2026-10-10T18:03:10Z",
+      "source": {
+        "name": "NewsX"
+      }
+    },
+    {
+      "title": "Trump Pledge on Iran Strikes Fails to Soothe Oil Markets",
+      "description": "President Donald Trump\u2019s surprise pledge that the U.S. would not resume airstrikes against Iran before the midterm elections failed to reverse a sharp jump in oil prices Thursday, according to market data cited by NBC News. Oil markets largely ignored the pledge. After having risen as high as almost $106 per barrel, Brent crude oil [\u2026]",
+      "url": "https://www.naturalnews.com/2026-10-10-trump-pledge-iran-strikes-fails-soothe-markets.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/oil-markets-iran-strikes-brent-crude-4933-39fd24cb-original.jpg",
+      "publishedAt": "2026-10-10T17:10:38Z",
+      "source": {
+        "name": "Natural News"
+      }
+    },
+    {
+      "title": "Brazil scraps gasoline taxes, raises diesel subsidies ahead of October 25 runoff",
+      "description": "Brazil has scrapped federal gasoline taxes for 30 days and increased diesel import subsidies as rising global oil prices add pressure ahead of the October 25 presidential runoff between Luiz In\u00e1cio Lula da Silva and Fl\u00e1vio Bolsonaro.",
+      "url": "https://www.moneycontrol.com/world/brazil-scraps-gasoline-taxes-raises-diesel-subsidies-ahead-of-october-25-runoff-article-14049226.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/07/20250707182220_brazil-lula-brics.png",
+      "publishedAt": "2026-10-10T16:51:41Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Ranveer Singh Adds BMW i7 Luxury Electric Sedan To His Car Collection",
+      "description": "BMW India recently launched the 7 Series with both petrol and electric powertrains and named Singh as its new brand ambassador.",
+      "url": "https://www.ndtvprofit.com/trending/ranveer-singh-adds-bmw-i7-luxury-electric-sedan-to-his-car-collection-12166478",
+      "image": "https://c.ndtvimg.com/2026-10/m2r1bqmc_ent_625x300_10_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-10T16:44:11Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "White House press secretary Katie Zacharia defends Trump diesel deal",
+      "description": "Incoming White House press secretary Katie Zacharia says President Donald Trump's diesel deal with Russia will help lower gas prices and grocery prices amid inflation concerns.",
+      "url": "https://www.foxnews.com/media/incoming-press-chief-hits-ground-running-promises-trump-diesel-deal-delivers-cheaper-gas-americans",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/katie-zacharia.png",
+      "publishedAt": "2026-10-10T15:53:59Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
     {
       "title": "Gas prices for Oct.10, 2026: Where prices rose and fell overnight",
       "description": "The national average dropped by about half a cent overnight bringing the price down to $4.366 per gallon.",
@@ -32,76 +102,6 @@
       "publishedAt": "2026-10-10T14:13:58Z",
       "source": {
         "name": "AL.com"
-      }
-    },
-    {
-      "title": "\u2018Ship has sailed\u2019: New poll shows even an end to the war or lower gas prices may not save Republicans",
-      "description": "A new POLITICO Poll shows most Americans, especially Democratic and undecided voters, would not be moved even if Trump ended the Iran war or brought down gas prices.",
-      "url": "https://www.politico.com/news/2026/10/10/ship-has-sailed-new-poll-shows-even-an-end-to-the-war-or-lower-gas-prices-may-not-save-republicans-01114385",
-      "image": "https://www.politico.com/dims4/default/resize/1200/quality/90/format/jpg?url=https%3A%2F%2Fstatic.politico.com%2Fae%2Fb5%2Fc782232f42fd8801ef145b4b2c40%2Ftpp-baked.png",
-      "publishedAt": "2026-10-10T14:01:00Z",
-      "source": {
-        "name": "POLITICO"
-      }
-    },
-    {
-      "title": "Putin Makes Act of Generosity for World by Reaching Fuel Deal With US - Finnish Politician",
-      "description": "Russian President Vladimir Putin made an incredible act of generosity for the world by facilitating stabilization of oil prices, Finnish politician and member of the Freedom Alliance party, Armando Mema, said on Saturday, commenting on the US-Russia deal on diesel fuel supplies.",
-      "url": "https://sputnikglobe.com/20261010/putin-makes-act-of-generosity-for-world-by-reaching-fuel-deal-with-us---finnish-politician-1124860677.html",
-      "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1124860677.jpg?11226338491791637304",
-      "publishedAt": "2026-10-10T13:01:00Z",
-      "source": {
-        "name": "Sputnik News"
-      }
-    },
-    {
-      "title": "Trump gets richer while gas prices soar",
-      "description": "The Iran war and energy crisis aren\u2019t problems for the president. They\u2019re a business model",
-      "url": "https://www.salon.com/2026/10/10/trump-gets-richer-while-gas-prices-soar/",
-      "image": "https://www.salon.com/app/uploads/2026/10/DONALD-TRUMP-NEW-YORK-GettyImages-2299458057.jpg",
-      "publishedAt": "2026-10-10T13:00:41Z",
-      "source": {
-        "name": "Salon"
-      }
-    },
-    {
-      "title": "Euro hits 17-month low against dollar: What's the reason?",
-      "description": "The euro is on track for its fifth consecutive weekly decline, influenced by concerns over France's public debt and fluctuating oil prices impacting investor sentiment.",
-      "url": "https://www.newsbytesapp.com/news/business/euro-hits-17-month-low-as-french-debt-concerns-mount/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l47820261010123237.jpeg",
-      "publishedAt": "2026-10-10T12:10:09Z",
-      "source": {
-        "name": "NewsBytes"
-      }
-    },
-    {
-      "title": "India unveils tough curbs on dollar demand to defend rupee",
-      "description": "Persistent pressure on the rupee, fueled by surging oil prices and global bond yields, has driven the currency down more than 7% this year.",
-      "url": "https://www.cnbc.com/2026/10/10/india-unveils-tough-curbs-on-dollar-demand-to-defend-rupee.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107392609-1711426789103-gettyimages-1370313314-indiaflagrs.jpeg?v=1711427417&w=1920&h=1080",
-      "publishedAt": "2026-10-10T11:12:58Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "RBI may raise repo rate by 75-100 bps in current cycle: Report",
-      "description": "SBI Capital Markets expects the Reserve Bank of India (RBI) to raise the repo rate by 75-100 basis points during the current tightening cycle, with a larger hike in December 2026 possible depending on inflation data. The report projects consumer inflation to peak in Q3 FY27 before easing, while warning that high crude oil prices, geopolitical tensions and rising borrowing costs could weigh on consumption. Higher rates may support bank margins in FY27, with bonds potentially regaining investor interest in FY28.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-may-raise-repo-rate-by-75-100-bps-in-current-cycle-report/articleshow/134852172.cms",
-      "image": "https://img.etimg.com/thumb/msid-134852171,width-1200,height-900,imgsize-92746,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-10T10:26:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862441",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-5-stained-glass-artists-grouting-their-artwork-powassan-brenda.jpeg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-10T10:00:00Z",
-      "source": {
-        "name": "BayToday"
       }
     }
   ]
