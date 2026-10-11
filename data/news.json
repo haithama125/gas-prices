@@ -1,9 +1,79 @@
 {
-  "updated_at": "2026-10-11T17:00:18+00:00",
+  "updated_at": "2026-10-11T21:12:56+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Saudi Arabia extends closure of airport after 12 killed in suspected Houthi missile attack",
+      "description": "Saudi Arabia has extended the closure of its main international airport following a missile attack that killed 12 people and wounded over 300. The attack on Saturday was blamed on Yemen\u2019s Iran-backed Houthis. It marked the deadliest assault in a Gulf Arab country since the Iran war began. The Houthis have threatened further escalation, targeting Saudi airports. The Houthi-run Health Ministry says 91 Yemenis have been killed by the Saudi-led coalition in five weeks. International leaders, including U.S. President Donald Trump, condemned the attack. Trump said he was considering whether to join Saudi strikes against the rebels. The attack has increased tensions and pushed oil prices up.",
+      "url": "https://www.ajc.com/news/2026/10/saudi-arabia-extends-closure-of-airport-after-12-killed-in-suspected-houthi-missile-attack/",
+      "image": "https://images.ajc.com/resizer/v2/Q7HVF6XOHREUPLYR2CUB3MPHGM.jpg?auth=6314edeffd62e3469e873167fd99d3ee6f32841d17e1b5364cd9782a98b68c40&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-11T07:22:34Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
+      "description": "Saudi Arabia has extended the closure of its main international airport and moved Riyadh schools online following a missile attack that killed 12 people and wounded over 300. The attack on Saturday was blamed on Yemen\u2019s Iran-backed Houthis. It marked the deadliest assault in a Gulf Arab country since the Iran war began. The Houthis have threatened further escalation, targeting Saudi airports. The Houthi-run Health Ministry says 91 Yemenis have been killed by the Saudi-led coalition in five weeks. International leaders, including U.S. President Donald Trump, condemned the attack. Trump said he was considering whether to join Saudi strikes against the rebels. The attack has increased tensions and pushed oil prices up.",
+      "url": "https://www.ajc.com/news/2026/10/saudi-arabia-extends-airport-closure-and-moves-riyadh-schools-online-as-attack-threats-continue/",
+      "image": "https://images.ajc.com/resizer/v2/Q7HVF6XOHREUPLYR2CUB3MPHGM.jpg?auth=6314edeffd62e3469e873167fd99d3ee6f32841d17e1b5364cd9782a98b68c40&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-11T07:22:34Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "Saudi Arabia extends airport closure and moves Riyadh schools online after deadly strike",
+      "description": "Saudi Arabia has extended the closure of its main international airport and moved Riyadh schools online following a missile attack that killed 12 people and wounded over 300. The attack on Saturday was blamed on Yemen\u2019s Iran-backed Houthis. It marked the deadliest assault in a Gulf Arab country since the Iran war began. The Houthis have threatened further escalation, targeting Saudi airports. The Houthi-run Health Ministry says 91 Yemenis have been killed by the Saudi-led coalition in five weeks. International leaders, including U.S. President Donald Trump, condemned the attack. Trump said he was considering whether to join Saudi strikes against the rebels. The attack has increased tensions and pushed oil prices up.",
+      "url": "https://www.ajc.com/news/2026/10/saudi-arabia-extends-airport-closure-and-moves-riyadh-schools-online-after-deadly-strike/",
+      "image": "https://images.ajc.com/resizer/v2/Q7HVF6XOHREUPLYR2CUB3MPHGM.jpg?auth=6314edeffd62e3469e873167fd99d3ee6f32841d17e1b5364cd9782a98b68c40&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-11T07:22:34Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
+      }
+    },
+    {
+      "title": "FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. What can reverse the trend?",
+      "description": "Foreign investors sold Indian equities worth Rs 45,125 crore in October's first six sessions, nearly matching September's outflows. Elevated US bond yields and crude oil prices continue to pressure markets, while inflation data and geopolitical developments could influence the selling trend.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-selloff-intensifies-foreign-investors-sell-indian-equities-worth-rs-45000-crore-in-just-6-sessions-what-can-reverse-the-trend/articleshow/134866745.cms",
+      "image": "https://img.etimg.com/thumb/msid-134866768,width-1200,height-900,imgsize-179976,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-11T07:14:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Crude oil, inflation data among top factors to drive stock market next week",
+      "description": "Crude oil, inflation data among top factors to drive stock market next week - New Delhi, Oct 11 Crude oil prices above $100 a barrel, key inflation data in India and the ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/crude-oil-inflation-data-among-top-factors-to-drive-stock-market-next-week/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202610113974310_202610.jpg",
+      "publishedAt": "2026-10-11T06:14:45Z",
+      "source": {
+        "name": "Lokmat Times"
+      }
+    },
+    {
+      "title": "India\u2019s rupee defence raises question of how far RBI will go",
+      "description": "The Reserve Bank of India implemented strong measures to stabilise the rupee as external pressures intensify. This includes opening a dollar window for state-owned oil refiners and introducing a new reserve requirement for foreign-exchange derivatives. Analysts expect the rupee to rally but caution that sustaining those gains may be difficult due to high oil prices and foreign fund outflows.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/indias-rupee-defence-raises-question-of-how-far-rbi-will-go/articleshow/134865786.cms",
+      "image": "https://img.etimg.com/thumb/msid-134865838,width-1200,height-900,imgsize-202392,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-11T05:59:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Nifty target: 27,000 in 1-year - Why Emkay stock market experts are bullish despite poor performance",
+      "description": "Emkay expects Nifty 50 to rise nearly 20% to 27,000 by Sept 2027, supported by reasonable valuations, resilient earnings and strong domestic fundamentals. However, elevated oil prices, global uncertainty, uneven earnings growth pose risks, with index potentially falling to 21,000 in a downside case.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-target-27-000-in-1-year-why-emkay-stock-market-experts-are-bullish-despite-poor-performance-11791692144256.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/11/1600x900/logo/Nifty_Bullish_Market_Outlook_1791695007224_jW9f_1791695012611_5QIj_f2b366d6-47ee-4d03-bb6e-aacf549ae4d8_cnKn.png",
+      "publishedAt": "2026-10-11T05:21:02Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
     {
       "title": "India\u2019s Rupee defence raises question of how far RBI will go",
       "description": "The RBI has introduced fresh measures to defend the rupee against record-low levels, including a dollar window for state-owned oil refiners and tighter foreign-exchange derivative rules, amid high oil prices and foreign investor outflows.",
@@ -17,41 +87,11 @@
     {
       "title": "Expert warns of one item never to buy from 'unnamed online brand'",
       "description": "It comes as energy bills have hit a three-year high as wholesale gas prices surge",
-      "url": "https://www.cambridge-news.co.uk/news/cost-of-living/expert-warns-one-item-never-34735723",
-      "image": "https://i2-prod.walesonline.co.uk/incoming/article34736589.ece/ALTERNATES/s1200/0_BBC-Morning-Live.jpg",
-      "publishedAt": "2026-10-11T03:30:00Z",
-      "source": {
-        "name": "Cambridge Evening News"
-      }
-    },
-    {
-      "title": "Expert warns of one item never to buy from 'unnamed online brand'",
-      "description": "It comes as energy bills have hit a three-year high as wholesale gas prices surge",
-      "url": "https://www.gazettelive.co.uk/news/cost-of-living/expert-warns-one-item-never-34735723",
-      "image": "https://i2-prod.walesonline.co.uk/incoming/article34736589.ece/ALTERNATES/s1200/0_BBC-Morning-Live.jpg",
-      "publishedAt": "2026-10-11T03:30:00Z",
-      "source": {
-        "name": "Teessidelive"
-      }
-    },
-    {
-      "title": "Expert warns of one item never to buy from 'unnamed online brand'",
-      "description": "It comes as energy bills have hit a three-year high as wholesale gas prices surge",
       "url": "https://www.dailypost.co.uk/news/cost-of-living/expert-warns-one-item-never-34735723",
       "image": "https://i2-prod.walesonline.co.uk/incoming/article34736589.ece/ALTERNATES/s1200/0_BBC-Morning-Live.jpg",
       "publishedAt": "2026-10-11T03:30:00Z",
       "source": {
         "name": "Daily Post"
-      }
-    },
-    {
-      "title": "Expert warns of one item never to buy from 'unnamed online brand' - 'there's a risk'",
-      "description": "It comes as energy bills have hit a three-year high as wholesale gas prices surge",
-      "url": "https://www.walesonline.co.uk/news/cost-of-living/expert-warns-one-item-never-34735723",
-      "image": "https://i2-prod.walesonline.co.uk/article34736589.ece/ALTERNATES/s1200d/0_BBC-Morning-Live.jpg",
-      "publishedAt": "2026-10-11T03:30:00Z",
-      "source": {
-        "name": "South Wales Echo"
       }
     },
     {
@@ -62,46 +102,6 @@
       "publishedAt": "2026-10-11T03:30:00Z",
       "source": {
         "name": "Surrey Advertiser"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices today (October 11): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
-      "description": "State-run oil marketing companies have kept retail fuel rates steady, providing some relief to consumers amid volatility in international oil markets.",
-      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-11-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-560841-2026-10-11",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6acaed136e680-motorcyclists-line-up-to-fuel-up-at-a-petrol-station-in-karachi-on-september-17-image-reuters-17022638-16x9.jpg",
-      "publishedAt": "2026-10-11T02:41:18Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "BT Market Outlook: The drivers, risks and opportunities for the week ahead",
-      "description": "Nifty snapped its eight-week losing streak, but rising crude oil prices, bond yields and FII selling remain risks, while CPI inflation, Q2 earnings and rupee movements are set to guide markets.",
-      "url": "https://www.businesstoday.in/markets/story/bt-market-outlook-the-drivers-risks-and-opportunities-for-the-week-ahead-560840-2026-10-11",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6acae39553c68-the-direction-of-crude-oil-prices--us-treasury-yields--the-rupee-and-fii-flows-will-remain-critical-111708162-16x9.jpg",
-      "publishedAt": "2026-10-11T01:17:20Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "The Ride to Work A Journey from Cycling for Health to a Healthier India",
-      "description": "Rizwan Uddin rizwanepfo@gmail.com Every morning, while most commuters in Delhi prepare themselves for another battle with traffic, fuel costs and pollution, there is one commuter who chooses a different route-one powered not by petrol or diesel, but by his own...",
-      "url": "https://www.dailyexcelsior.com/the-ride-to-work-a-journey-from-cycling-for-health-to-a-healthier-india/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTU2ZWRiNmMwLWM0ZmYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-10T23:07:17Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Supreme Court weighs climate lawsuits that could bankrupt oil firms",
-      "description": "Supreme Court heard oral arguments in Suncor v. Boulder, a climate lawsuit that energy experts warn could bankrupt oil companies and drive up gas prices nationwide.",
-      "url": "https://www.foxnews.com/politics/supreme-court-climate-case-could-bankrupt-oil-companies-send-gas-prices-soaring-experts-warn",
-      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/Supreme-Court-justices.jpg",
-      "publishedAt": "2026-10-10T20:05:53Z",
-      "source": {
-        "name": "Fox News"
       }
     }
   ]
