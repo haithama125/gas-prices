@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-13T13:10:00+00:00",
+  "updated_at": "2026-10-13T22:04:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil Prices Today: Brent Crude Near $106 As Middle East Tensions Escalate",
-      "description": "Oil Prices Today: Oil prices remain elevated as traders assess the risk of further supply disruptions amid escalating geopolitical tensions in the Middle East.",
-      "url": "https://www.ndtvprofit.com/markets/oil-prices-today-brent-crude-oil-price-wti-us-iran-war-russia-ukrai-war-energy-infrastructure-houthis-attack-middle-east-conflict-12176507",
-      "image": "https://c.ndtvimg.com/2026-09/nm5gktoc_brent_625x300_09_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-13T01:03:15Z",
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12862453",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-6goodmorningnorthbaybct-8-fall-les-couchi.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-10-13T10:00:00Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "BayToday"
       }
     },
     {
-      "title": "US Treasury Yields could stay high for the rest of the decade \u2014 Here\u2019s what economists say",
-      "description": "US Treasury yields are expected to remain high throughout the decade due to inflation, Federal Reserve rate hikes, and rising government debt, impacting borrowing costs and mortgage rates significantly. Economists predict sustained elevated yields despite easing oil prices and gradual inflation decline.",
-      "url": "https://www.financialexpress.com/market/global-markets/us-treasury-yields-could-stay-high-for-the-rest-of-the-decade-heres-what-economists-say/4359783/",
-      "image": "https://images.financialexpressdigital.com/2026/10/pictures-2026-10-07T202004.753.jpg",
-      "publishedAt": "2026-10-13T00:49:03Z",
+      "title": "Man racially abused staff and slashed van's tyres at petrol station",
+      "description": "The man's behaviour has been described as 'completely unacceptable and totally unprovoked'",
+      "url": "https://www.cambridge-news.co.uk/news/local-news/man-racially-abused-staff-slashed-34756399",
+      "image": "https://i2-prod.cambridge-news.co.uk/article34756418.ece/ALTERNATES/s1200d/1_Lewis-Marsh-27.jpg",
+      "publishedAt": "2026-10-13T09:58:48Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Cambridge Evening News"
       }
     },
     {
-      "title": "Sensex, Nifty fall 0.7% as oil surge erases early gains",
-      "description": "On Monday, Indian equities dipped as crude oil prices surged dramatically after recent attacks on Saudi Arabia. The NSE Nifty 50 and BSE Sensex reversed their earlier positive trajectories, influenced by notable foreign selling. Additionally, worries over the rupee's stability and continual sell-offs from foreign investors decreased market optimism. A reported 1.2% rise in Brent crude intensified fears of potential supply interruptions.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-fall-0-7-as-oil-surge-erases-early-gains/articleshow/134905402.cms",
-      "image": "https://img.etimg.com/thumb/msid-134905418,width-1200,height-900,imgsize-180286,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-13T00:35:00Z",
+      "title": "94.5/USD in near term but pressure remains if oil rises or remain at USD 104: Report",
+      "description": "The Indian rupee is expected to appreciate to 94\u201394.5 against the US dollar in the near term following the Reserve Bank of India's (RBI) recent measures to stabilise the currency, but sustained high crude oil prices could bring renewed pressure, according to a report by JM Financial.",
+      "url": "https://www.tribuneindia.com/news/business/rupee-may-appreciate-to-94-94-5-usd-in-near-term-but-pressure-remains-if-oil-rises-or-remain-at-usd-104-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTVmMjgzYzkwLWM2ZWMtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-13T09:56:27Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Rupee may appreciate to 94-94.5/USD in near term but pressure remains if oil rises or remain at USD 104: Report",
+      "description": "The Indian rupee is expected to appreciate to 94\u201394.5 against the US dollar in the near term following the Reserve Bank of India's (RBI) recent measures to stabilise the currency, but sustained high crude oil prices could bring renewed pressure, according to a report by JM Financial.",
+      "url": "https://www.aninews.in/news/business/rupee-may-appreciate-to-94-945usd-in-near-term-but-pressure-remains-if-oil-rises-or-remain-at-usd-104-report20261013152431/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261013080935-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-13T09:54:31Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "IMF's bullish call: Why is India sprinting when the world stumbles?",
+      "description": "The IMF has raised India's growth forecast to 7% for both FY27 and FY28, highlighting the country's resilience despite higher oil prices and a slowing global economy. Strong domestic consumption, infrastructure spending, recovering private investment and AI-related capital expenditure are supporting growth, though inflation, energy costs and weaker rural demand remain risks.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/imfs-bullish-call-why-is-india-sprinting-when-the-world-stumbles/articleshow/134913766.cms",
+      "image": "https://img.etimg.com/thumb/msid-134914228,width-1200,height-900,imgsize-271592,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-13T09:46:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "BT BIG STORY: India Inc is more confident about Q3, but unwilling to hire or invest",
-      "description": "India Inc\u2019s confidence improves ahead of the festive season, but the West Asia conflict, high oil prices, and uncertain consumer demand keep businesses on guard",
-      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-india-inc-is-more-confident-about-q3-but-unwilling-to-hire-or-invest-561111-2026-10-13",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6acce4e065551-indian-businesses-cautiously-optimistic-for-q3-fy27-limited-hiring-expected-this-festive-season-124711376-16x9.jpg",
-      "publishedAt": "2026-10-13T00:30:05Z",
+      "title": "Multiple people killed in 'petrol bomb arson attack' as kids feared among dead",
+      "description": "Fire crews were called to a house fire in Waterford early this morning with multiple fatalities including children feared in what is believed to be a targeted arson attack",
+      "url": "https://www.dailystar.co.uk/news/latest-news/breaking-multiple-people-killed-petrol-37765547",
+      "image": "https://i2-prod.dailystar.co.uk/article37766057.ece/ALTERNATES/s1200d/0_Birchwood-estate-fatal-house-fire.jpg",
+      "publishedAt": "2026-10-13T09:28:12Z",
+      "source": {
+        "name": "The daily Star"
+      }
+    },
+    {
+      "title": "Hyundai Bayon bookings start: 7 things family car buyers should check before choosing the new SUV",
+      "description": "Hyundai Bayon launches on October 26 with \u20b911,000 bookings, a petrol engine and an AI assistant. Check its confirmed features, safety wording and delivery details before making a decision.",
+      "url": "https://www.businesstoday.in/auto/photo/hyundai-bayon-bookings-start-7-things-family-car-buyers-should-check-before-choosing-the-new-suv-561281-2026-10-13",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/photo_gallery/202610/6acdf885c0086-hyundai-bayon-revealed-13100474-16x9.jpg",
+      "publishedAt": "2026-10-13T09:26:46Z",
       "source": {
         "name": "Business Today"
       }
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "Benchmark Nifty encountered a decline of 0.7% on Monday, driven by growing geopolitical tensions. Market analysts foresee a cautious atmosphere in India, primarily due to volatile crude oil prices and the crisis in West Asia. Foreign portfolio investors exited the market, selling shares worth Rs 1,708 crore, whereas domestic institutional investors invested Rs 3,045 crore. The rupee's strength increased by 96 paise, marking its largest gain in six months.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134902377.cms",
-      "image": "https://img.etimg.com/thumb/msid-134902383,width-1200,height-900,imgsize-202614,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-13T00:30:00Z",
+      "title": "Food inflation, crude oil prices to determine extent of RBI rate hikes; 50",
+      "description": "Persistent food inflation and elevated crude oil prices are likely to determine the extent of further interest rate hikes by the Reserve Bank of India (RBI), with the monetary tightening cycle expected to remain shallow at 50-75 basis points, according to a research report by domestic brokerage firm JM Financial.",
+      "url": "https://www.tribuneindia.com/news/business/food-inflation-crude-oil-prices-to-determine-extent-of-rbi-rate-hikes-50-75-bps-cycle-likely-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgxZDU0OWUwLWM2ZTctMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-13T09:21:37Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Nasdaq ends lower as oil prices surge ahead of earnings, economic data",
-      "description": "THE Nasdaq composite closed lower on Monday as oil prices jumped nearly $2 a barrelafter attacks on a Saudi airport, and investors waited for banks to kick off the third-quarter earnings season and for economic data this week.",
-      "url": "https://www.thestar.com.my/business/2026/10/13/nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4158734.jpg",
-      "publishedAt": "2026-10-13T00:09:00Z",
+      "title": "Gold gains as oil, dollar retreat; investors brace for US inflation test",
+      "description": "Gold edged higher on Tuesday as oil prices and the US dollar retreated, while expectations of a Federal Reserve rate hike this month remained subdued ahead of key US inflation data due this week.\n...",
+      "url": "https://www.marketscreener.com/news/gold-gains-as-oil-dollar-retreat-investors-brace-for-us-inflation-test-ce785ddddc8df22c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-06T103836Z_1_LYNXMPELA50II_RTROPTP_4_MERCADOS-METALES-PRECIOSOS.JPG",
+      "publishedAt": "2026-10-13T09:20:24Z",
       "source": {
-        "name": "The Star"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "What\u2019s likely to move the market",
-      "description": "Higher oil prices and memory chip stock losses kept the market in check Monday, with the S&P 500 closing near flat. Tune in to CNBC on Tuesday for Michael Dell.",
-      "url": "https://www.cnbc.com/2026/10/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/108225852-1763076093763-gettyimages-2246002629-AFP_83YT9HU.jpeg?v=1791846959&w=1920&h=1080",
-      "publishedAt": "2026-10-12T23:16:26Z",
+      "title": "Food inflation, crude oil prices to determine extent of RBI rate hikes; 50-75 bps cycle likely: Report",
+      "description": "Persistent food inflation and elevated crude oil prices are likely to determine the extent of further interest rate hikes by the Reserve Bank of India (RBI), with the monetary tightening cycle expected to remain shallow at 50-75 basis points, according to a research report by domestic brokerage firm JM Financial.",
+      "url": "https://www.aninews.in/news/business/food-inflation-crude-oil-prices-to-determine-extent-of-rbi-rate-hikes-50-75-bps-cycle-likely-report20261013144754/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261013091402-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-13T09:17:54Z",
       "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Will Nevadans actually save money with the \"dyed diesel\" order?",
-      "description": "Gas prices have hit record highs across the nation this year and new diesel deals are happening at the state and federal level. But will they help?",
-      "url": "https://www.rgj.com/story/life/2026/10/12/new-diesel-order-signed-by-nevada-governor-will-it-save-you-at-the-pump/92219050007/",
-      "image": "https://www.rgj.com/gcdn/authoring/authoring-images/2026/09/21/PREN/91881191007-getty-images-2163991709.jpg?crop=2166,1218,x0,y82&width=2166&height=1218&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-12T22:28:55Z",
-      "source": {
-        "name": "Reno Gazette-Journal"
-      }
-    },
-    {
-      "title": "Oil rises as Saudi Arabia vows response to attacks",
-      "description": "NEW YORK: Oil prices rose Monday (Oct 12) as Yemen's Iran-backed Houthi movement launched additional strikes on Saudi Arabia, adding to worries about tight global supplies heading",
-      "url": "https://www.channelnewsasia.com/world/oil-rises-saudi-arabia-vows-response-attacks-6454351",
-      "image": "https://dam.mediacorp.sg/image/upload/s--_F5oSCpj--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/ap26281545989503.jpg?itok=fZLg4F8J",
-      "publishedAt": "2026-10-12T21:56:17Z",
-      "source": {
-        "name": "CNA"
-      }
-    },
-    {
-      "title": "Oil rises as Saudi Arabia vows response to attacks",
-      "description": "NEW YORK: Oil prices rose on Monday (Oct 12) as Yemen's Iran-backed Houthi movement launched additional strikes on Saudi Arabia, adding to worries about tight global supplies headin",
-      "url": "https://www.channelnewsasia.com/world/oil-rises-saudi-arabia-attacks-6454351",
-      "image": "https://dam.mediacorp.sg/image/upload/s--tbqAgCvY--/c_crop,h_576,w_1024,x_0,y_69/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/ap26281545989503.jpg?itok=fZLg4F8J",
-      "publishedAt": "2026-10-12T21:56:00Z",
-      "source": {
-        "name": "CNA"
+        "name": "ANI (Asian News International)"
       }
     }
   ]
