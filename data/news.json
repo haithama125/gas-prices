@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-13T05:01:54+00:00",
+  "updated_at": "2026-10-13T13:10:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "European Natural Gas Prices Headed for Multi-Year Highs",
-      "description": "Dutch TTF futures trade around 83 euros per megawatt-hour, the highest level since early 2023. The September pullback to around 70 euros per megawatt-hour was short-lived.",
-      "url": "https://oilprice.com/Energy/Natural-Gas/European-Natural-Gas-Prices-Headed-for-Multi-Year-Highs.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-12_8yi1uzz6bv.jpg",
-      "publishedAt": "2026-10-12T17:00:00Z",
+      "title": "Oil Prices Today: Brent Crude Near $106 As Middle East Tensions Escalate",
+      "description": "Oil Prices Today: Oil prices remain elevated as traders assess the risk of further supply disruptions amid escalating geopolitical tensions in the Middle East.",
+      "url": "https://www.ndtvprofit.com/markets/oil-prices-today-brent-crude-oil-price-wti-us-iran-war-russia-ukrai-war-energy-infrastructure-houthis-attack-middle-east-conflict-12176507",
+      "image": "https://c.ndtvimg.com/2026-09/nm5gktoc_brent_625x300_09_September_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-13T01:03:15Z",
       "source": {
-        "name": "OilPrice"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "Oct. 12 gas prices: Gas holds steady at $4.35 per gallon nationally",
-      "description": "The average price per gallon nationally is down one cent from a week ago, but is up four cents from a month ago. The current average is $1.27 more per gallon than it was a year ago.",
-      "url": "https://www.al.com/news/2026/10/gas-prices-for-101226-average-price-holds-steady-to-kick-off-the-week-how-much-will-you-pay.html",
-      "image": "https://www.al.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-12T16:59:02Z",
+      "title": "US Treasury Yields could stay high for the rest of the decade \u2014 Here\u2019s what economists say",
+      "description": "US Treasury yields are expected to remain high throughout the decade due to inflation, Federal Reserve rate hikes, and rising government debt, impacting borrowing costs and mortgage rates significantly. Economists predict sustained elevated yields despite easing oil prices and gradual inflation decline.",
+      "url": "https://www.financialexpress.com/market/global-markets/us-treasury-yields-could-stay-high-for-the-rest-of-the-decade-heres-what-economists-say/4359783/",
+      "image": "https://images.financialexpressdigital.com/2026/10/pictures-2026-10-07T202004.753.jpg",
+      "publishedAt": "2026-10-13T00:49:03Z",
       "source": {
-        "name": "AL.com"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Oct. 12 gas prices: Gas holds steady at $4.35 per gallon nationally",
-      "description": "The average price per gallon nationally is down one cent from a week ago, but is up four cents from a month ago. The current average is $1.27 more per gallon than it was a year ago.",
-      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-101226-average-price-holds-steady-to-kick-off-the-week-how-much-will-you-pay.html",
-      "image": "https://www.cleveland.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-12T16:59:02Z",
+      "title": "Sensex, Nifty fall 0.7% as oil surge erases early gains",
+      "description": "On Monday, Indian equities dipped as crude oil prices surged dramatically after recent attacks on Saudi Arabia. The NSE Nifty 50 and BSE Sensex reversed their earlier positive trajectories, influenced by notable foreign selling. Additionally, worries over the rupee's stability and continual sell-offs from foreign investors decreased market optimism. A reported 1.2% rise in Brent crude intensified fears of potential supply interruptions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-fall-0-7-as-oil-surge-erases-early-gains/articleshow/134905402.cms",
+      "image": "https://img.etimg.com/thumb/msid-134905418,width-1200,height-900,imgsize-180286,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-13T00:35:00Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Jump 2% on Saudi Attacks as OPEC Sees Demand Rebound",
-      "description": "Oil prices climbed to their highest levels in nearly two weeks on Monday morning as fresh attacks on Saudi Arabia and oil tankers near the Strait of Hormuz put Middle East supply risks back at the center of the market",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-2-on-Saudi-Attacks-as-OPEC-Sees-Demand-Rebound.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-10-12T16:50:00Z",
+      "title": "BT BIG STORY: India Inc is more confident about Q3, but unwilling to hire or invest",
+      "description": "India Inc\u2019s confidence improves ahead of the festive season, but the West Asia conflict, high oil prices, and uncertain consumer demand keep businesses on guard",
+      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-india-inc-is-more-confident-about-q3-but-unwilling-to-hire-or-invest-561111-2026-10-13",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6acce4e065551-indian-businesses-cautiously-optimistic-for-q3-fy27-limited-hiring-expected-this-festive-season-124711376-16x9.jpg",
+      "publishedAt": "2026-10-13T00:30:05Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Oil prices rise amid Trump's plan to buy Russian diesel",
-      "description": "Crude oil prices rose on Monday following President Donald Trump\u2019s announcement last week that the United States reached an agreement to purchase Russian diesel imports.",
-      "url": "https://www.fox9.com/news/oil-prices-rise-trump-russian-diesel",
-      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/10/1200/630/consumer-at-the-gas-pump-.jpg?ve=1&tl=1",
-      "publishedAt": "2026-10-12T16:31:37Z",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "Benchmark Nifty encountered a decline of 0.7% on Monday, driven by growing geopolitical tensions. Market analysts foresee a cautious atmosphere in India, primarily due to volatile crude oil prices and the crisis in West Asia. Foreign portfolio investors exited the market, selling shares worth Rs 1,708 crore, whereas domestic institutional investors invested Rs 3,045 crore. The rupee's strength increased by 96 paise, marking its largest gain in six months.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/134902377.cms",
+      "image": "https://img.etimg.com/thumb/msid-134902383,width-1200,height-900,imgsize-202614,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-13T00:30:00Z",
       "source": {
-        "name": "FOX 9"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Bitcoin Bids Line Up at $82,000 as Oil Gains on Ukraine, Iran Woes",
-      "description": "Bitcoin abandons its latest low-time frame rebound at $84,250 amid market nerves over rising oil prices, with options traders \u201cdefensively\u201d positioned.",
-      "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4RB17YHE9XP8RNRDSEGNYJY/oil-bitcoin-petrol-2-960x640.webp",
-      "publishedAt": "2026-10-12T16:30:21Z",
+      "title": "Nasdaq ends lower as oil prices surge ahead of earnings, economic data",
+      "description": "THE Nasdaq composite closed lower on Monday as oil prices jumped nearly $2 a barrelafter attacks on a Saudi airport, and investors waited for banks to kick off the third-quarter earnings season and for economic data this week.",
+      "url": "https://www.thestar.com.my/business/2026/10/13/nasdaq-ends-lower-as-oil-prices-surge-ahead-of-earnings-economic-data",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/13/4158734.jpg",
+      "publishedAt": "2026-10-13T00:09:00Z",
       "source": {
-        "name": "Cointelegraph"
+        "name": "The Star"
       }
     },
     {
-      "title": "Voters admit that even if gas prices magically drop by $1, they still won\u2019t back Republicans",
-      "description": "Even an abrupt end to the Iran war would do little to sway voters, a new survey found",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/gas-prices-midterms-republicans-trump-b3065324.html",
-      "image": "https://static.independent.co.uk/2026/10/12/14/19/GettyImages-2297729401.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-10-12T16:27:17Z",
+      "title": "What\u2019s likely to move the market",
+      "description": "Higher oil prices and memory chip stock losses kept the market in check Monday, with the S&P 500 closing near flat. Tune in to CNBC on Tuesday for Michael Dell.",
+      "url": "https://www.cnbc.com/2026/10/12/tuesdays-big-stock-stories-whats-likely-to-move-the-market.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108225852-1763076093763-gettyimages-2246002629-AFP_83YT9HU.jpeg?v=1791846959&w=1920&h=1080",
+      "publishedAt": "2026-10-12T23:16:26Z",
       "source": {
-        "name": "The Independent"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Stocks up ahead of US earnings data but oil prices stays high",
-      "description": "The FTSE 100 index ended up 104.23 points, 1.0%, at 10,656.28.",
-      "url": "https://www.lbc.co.uk/article/1847f672051e4e909b80835cc1f4ed2d-5HjdjnR_2/",
-      "image": "https://images.globalplayer.com/images/848272?crop=16_9&width=1200&signature=6dDZVZEa98Xu0YB9mUU8oU2EMJo=",
-      "publishedAt": "2026-10-12T16:24:09Z",
+      "title": "Will Nevadans actually save money with the \"dyed diesel\" order?",
+      "description": "Gas prices have hit record highs across the nation this year and new diesel deals are happening at the state and federal level. But will they help?",
+      "url": "https://www.rgj.com/story/life/2026/10/12/new-diesel-order-signed-by-nevada-governor-will-it-save-you-at-the-pump/92219050007/",
+      "image": "https://www.rgj.com/gcdn/authoring/authoring-images/2026/09/21/PREN/91881191007-getty-images-2163991709.jpg?crop=2166,1218,x0,y82&width=2166&height=1218&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-12T22:28:55Z",
       "source": {
-        "name": "LBC"
+        "name": "Reno Gazette-Journal"
       }
     },
     {
-      "title": "Zelensky: Ukraine attacks no energy facilities last night, while Russia struck petrol stations and energy infrastructure",
-      "description": "President Volodymyr Zelensky stated that Ukraine did not attack any energy facilities in Russia last night, while Russian forces targeted petrol stations, energy infrastructure, and other facilities in Ukraine. \u2014 Ukrinform.",
-      "url": "https://www.ukrinform.net/rubric-ato/4173694-zelensky-ukraine-attacks-no-energy-facilities-last-night-while-russia-struck-petrol-stations-and-energy-infrastructure.html",
-      "image": "https://static.ukrinform.com/photos/2026_02/thumb_files/630_360_1770317086-469.jpeg",
-      "publishedAt": "2026-10-12T16:21:00Z",
+      "title": "Oil rises as Saudi Arabia vows response to attacks",
+      "description": "NEW YORK: Oil prices rose Monday (Oct 12) as Yemen's Iran-backed Houthi movement launched additional strikes on Saudi Arabia, adding to worries about tight global supplies heading",
+      "url": "https://www.channelnewsasia.com/world/oil-rises-saudi-arabia-vows-response-attacks-6454351",
+      "image": "https://dam.mediacorp.sg/image/upload/s--_F5oSCpj--/c_fill,g_auto,h_676,w_1200/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/ap26281545989503.jpg?itok=fZLg4F8J",
+      "publishedAt": "2026-10-12T21:56:17Z",
       "source": {
-        "name": "Ukrinform"
+        "name": "CNA"
       }
     },
     {
-      "title": "Stocks up ahead of US earnings data but oil prices stays high",
-      "description": "The FTSE 100 index ended up 104.23 points, 1.0%, at 10,656.28.",
-      "url": "https://www.standard.co.uk/business/business-news/stocks-jp-morgan-brent-aim-wall-street-b1300508.html",
-      "image": "https://static.standard.co.uk/2026/10/12/17/671db21fd2514d59f079b6b5f790ba82Y29udGVudHNlYXJjaGFwaSwxNzkxOTA1NTA3-2.82985241.jpg?width=1200&auto=webp&quality=75",
-      "publishedAt": "2026-10-12T16:14:09Z",
+      "title": "Oil rises as Saudi Arabia vows response to attacks",
+      "description": "NEW YORK: Oil prices rose on Monday (Oct 12) as Yemen's Iran-backed Houthi movement launched additional strikes on Saudi Arabia, adding to worries about tight global supplies headin",
+      "url": "https://www.channelnewsasia.com/world/oil-rises-saudi-arabia-attacks-6454351",
+      "image": "https://dam.mediacorp.sg/image/upload/s--tbqAgCvY--/c_crop,h_576,w_1024,x_0,y_69/c_fill,g_auto,h_676,w_1200/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/13/ap26281545989503.jpg?itok=fZLg4F8J",
+      "publishedAt": "2026-10-12T21:56:00Z",
       "source": {
-        "name": "Evening Standard"
+        "name": "CNA"
       }
     }
   ]
