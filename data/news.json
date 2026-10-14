@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-14T16:09:40+00:00",
+  "updated_at": "2026-10-14T21:06:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex, Nifty open flat as crude oil and FII outflows weigh",
-      "description": "Sensex and Nifty surrendered early gains to trade marginally lower on Wednesday. Rising crude oil prices and sustained foreign outflows overshadowed continued strength in IT shares.",
-      "url": "https://www.indiatoday.in/business/market/story/market-opening-sensex-nifty-turn-flat-crude-oil-fii-outflows-weigh-3016860-2026-10-14",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/stock-market-in-red-010631891-16x9_2.jpg?VersionId=ez1fAgoSax9c0oj2p7Q3OEhi0ye5Z8YV",
-      "publishedAt": "2026-10-14T04:07:48Z",
+      "title": "Oil prices rise as Iran deploys new tactics to target ships transiting Hormuz",
+      "description": "Brent, WTI rise over $1/barrel \u200bin early trade before paring gains",
+      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-rise-as-iran-deploys-new-tactics-to-target-ships-transiting/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/I6FMHU4CAFCMJBDA3TKYZYL3DI.JPG?auth=7b27f71b5dd7ccc49c70c6c238de64af0f8d58a77514c5b3e5c9c5d2583f2184&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-10-14T08:52:07Z",
       "source": {
-        "name": "India Today"
+        "name": "The Globe and Mail"
       }
     },
     {
-      "title": "High gasoline prices expected to boost US consumer inflation in September",
-      "description": "US consumer prices likely surged in September, driven by rising gasoline and food costs, and adding to a string of unfavorable developments for President Donald Trump and his Republican Party heading...",
-      "url": "https://www.marketscreener.com/news/high-gasoline-prices-expected-to-boost-us-consumer-inflation-in-september-ce785dd2db89fe26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-04/2026-04-24T164423Z_1_LYNXMPEM3N13I_RTROPTP_4_IRAN-CRISIS-ENERGY.JPG",
-      "publishedAt": "2026-10-14T04:01:08Z",
+      "title": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
+      "description": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
+      "image": "https://img.etimg.com/thumb/msid-134936253,width-1200,height-900,imgsize-2331152,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-14T07:45:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "High gasoline prices expected to boost US consumer inflation in September",
-      "description": "Read more about High gasoline prices expected to boost US consumer inflation in September on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3991894-high-gasoline-prices-expected-to-boost-us-consumer-inflation-in-september",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_36_53_1759644.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-14T04:00:28Z",
+      "title": "Young boys killed alongside parents in suspected 'petrol bomb' attack named as tributes pour in",
+      "description": "Philip, Kim, and their two boys died after a suspected petrol bomb struck their home while their two younger children are currently in hospital",
+      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/young-boys-killed-alongside-parents-37769584",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37769493.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
+      "publishedAt": "2026-10-14T07:34:29Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Daily Record"
       }
     },
     {
-      "title": "Indian shares off to a muted start as oil prices, foreign outflows weigh",
-      "description": "Indian shares opened little changed on Wednesday after logging gains in the previous session, with rising oil prices and sustained foreign outflows weighing on sentiment while investors assess...",
-      "url": "https://www.marketscreener.com/news/indian-shares-off-to-a-muted-start-as-oil-prices-foreign-outflows-weigh-ce785dd2db89f126",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-04T022840Z_1_LYNXMPEM23040_RTROPTP_4_IRAN-CRISIS-INDIA-STOCKS.JPG",
-      "publishedAt": "2026-10-14T03:50:19Z",
+      "title": "Two boys killed in suspected arson attack on Irish home named",
+      "description": "It is suspected a petrol bomb was thrown at their front door in the early hours",
+      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/two-boys-killed-suspected-arson-34761192",
+      "image": "https://i2-prod.liverpoolecho.co.uk/article34761182.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
+      "publishedAt": "2026-10-14T07:27:23Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Liverpool Echo"
       }
     },
     {
-      "title": "Iran steps up Hormuz ship attacks to keep oil prices high, influence US midterm elections",
-      "description": "Tehran is deploying new tactics, including using spotters in small boats and expanding attacks beyond the Strait of Hormuz, as it seeks to pressure Washington ahead of the November elections.",
-      "url": "https://www.moneycontrol.com/world/iran-steps-up-hormuz-ship-attacks-to-keep-oil-prices-high-influence-us-midterm-elections-article-14051536.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924180002_Hormuz-New-12.jpg",
-      "publishedAt": "2026-10-14T03:34:16Z",
+      "title": "Family of four 'killed in petrol bomb fire over debt' pictured as siblings still critical",
+      "description": "Philip English and his wife Kim, both in their late 40s, and their two young sons Callum and Jayden English, both under 10, died in a suspected arson attack at their Co Waterford home",
+      "url": "https://www.dailystar.co.uk/news/latest-news/family-four-killed-petrol-bomb-37769530",
+      "image": "https://i2-prod.dailystar.co.uk/article37769534.ece/ALTERNATES/s1200d/0_English-Family-waterford.jpg",
+      "publishedAt": "2026-10-14T07:04:48Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "The daily Star"
       }
     },
     {
-      "title": "Iran shifting tactics to step up attacks on shipping before U.S. vote, officials say",
-      "description": "The strategy is designed to keep oil prices high, according to two senior Iranian officials.",
-      "url": "https://www.japantimes.co.jp/news/2026/10/14/world/politics/iran-tactics-shipping-attacks/",
-      "image": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/10/14/568400.JPG?v=3.1",
-      "publishedAt": "2026-10-14T03:26:55Z",
+      "title": "Two boys killed in horror suspected arson attack on Irish home named",
+      "description": "It is suspected the home went up in flames after a petrol bomb was thrown at their front door",
+      "url": "https://www.walesonline.co.uk/news/uk-news/two-boys-killed-horror-suspected-34761178",
+      "image": "https://i2-prod.walesonline.co.uk/article34761182.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
+      "publishedAt": "2026-10-14T06:57:24Z",
       "source": {
-        "name": "The Japan Times "
+        "name": "South Wales Echo"
       }
     },
     {
-      "title": "Oil Prices Rise After Saudi Aramco Facility Attack; Brent Crude Nears $107",
-      "description": "Oil prices rises nearly 1 per cent after an attack on a Saudi Aramco facility, with Brent at $106.06 as Middle East tensions fuel supply disruption fears., Markets, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/markets/oil-prices-rise-after-saudi-aramco-facility-attack-brent-crude-nears-107-article-156335675",
-      "image": "https://images.timesnownews.com/thumb/msid-156335687,thumbsize-20254,width-1280,height-720,resizemode-75/156335687.jpg",
-      "publishedAt": "2026-10-14T03:21:22Z",
+      "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
+      "description": "Surging energy prices are expected to drive U.S. inflation higher in September, increasing financial pressure on American households.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_fncxrd5kfm.jpg",
+      "publishedAt": "2026-10-14T06:45:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "China\u2019s producer prices jolted by oil as inflation rebounds",
-      "description": "China producer inflation jumped 5 percent in September, reaching its fastest pace since 2022 as Middle East conflict pushed oil prices past 100 dollars.",
-      "url": "https://www.cnbctv18.com/economy/chinas-producer-prices-jolted-by-oil-as-inflation-rebounds-20011370.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/china-2026-09-84ce8ab289383217f62064d4a031b919.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-14T03:17:48Z",
+      "title": "Drivers fill up with UK\u2019s cheapest fuel at Tesco for one reason",
+      "description": "Tesco currently has the most expensive supermarket petrol in the UK, but for a brief moment, a technical glitch saw some motorists bank savings.",
+      "url": "https://www.express.co.uk/life-style/cars/2257035/tesco-fuel-station-petrol-diesel-supermarket",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7186402.jpg",
+      "publishedAt": "2026-10-14T06:40:00Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Daily Express"
       }
     },
     {
-      "title": "British energy giant BP cuts debt as higher oil prices boost finances",
-      "description": "LONDON, Oct 14 \u2014 British energy giant BP reported yesterday that it had slashed its debt pile as the US-Iran war pushes up oil and gas prices.In a trading update ahead of its...",
-      "url": "https://www.malaymail.com/news/money/2026/10/14/british-energy-giant-bp-cuts-debt-as-higher-oil-prices-boost-finances/239027",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/14/368267.jpg",
-      "publishedAt": "2026-10-14T03:09:12Z",
+      "title": "Young brothers killed with parents in suspected petrol bomb attack named",
+      "description": "It is suspected that a petrol bomb was thrown at their home in Ireland just after 5am",
+      "url": "https://www.manchestereveningnews.co.uk/news/world-news/young-brothers-killed-parents-suspected-34761084",
+      "image": "https://i2-prod.manchestereveningnews.co.uk/article34761109.ece/ALTERNATES/s1200d/0_ECR_141026_waterford.png",
+      "publishedAt": "2026-10-14T06:34:15Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "Manchester Evening News"
       }
     },
     {
-      "title": "Here\u2019s what brokers tip next",
-      "description": "The Santos Ltd (ASX: STO) share price has been propelled higher by a jump in oil prices this week.",
-      "url": "https://www.fool.com.au/2026/10/14/santos-share-price-jumps-to-fresh-multi-year-high-heres-what-brokers-tip-next/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2023/08/oil-3-16.9-1200x675.jpeg",
-      "publishedAt": "2026-10-14T03:02:25Z",
+      "title": "Oil prices rise after reported attacks on ships in Strait of Hormuz",
+      "description": "Oil prices rose as fresh attacks in the Middle East fuelled supply concerns. European gas prices hovered near a four-year high, while Asian shares were mixed and European stock futures edged lower.",
+      "url": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz",
+      "image": "https://images.euronews.com/articles/stories/09/95/12/24/1200x675_cmsv2_688fcf11-969f-5171-b980-8f14d31d4357-9951224.jpg",
+      "publishedAt": "2026-10-14T06:28:49Z",
       "source": {
-        "name": "The Motley Fool Australia"
+        "name": "Euronews"
       }
     }
   ]
