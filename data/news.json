@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-15T02:21:18+00:00",
+  "updated_at": "2026-10-15T10:32:57+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gas prices above $4 for record 158 days in 2026",
-      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
-      "url": "https://www.al.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
-      "image": "https://www.al.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-14T14:13:15Z",
+      "title": "Pictured: Family killed in 'petrol bomb' attack on house in Ireland",
+      "description": "Two other children were removed from the scene and are receiving hospital treatment for critical injuries.",
+      "url": "https://www.lbc.co.uk/article/pictured-family-killed-in-petrol-bomb-attack-on-house-in-ireland-5Hjdjw8_2/",
+      "image": "https://images.globalplayer.com/images/848889?crop=16_9&width=1200&signature=gg4bUrb2tKqycDM3hWXvvTa6GsA=",
+      "publishedAt": "2026-10-14T22:01:19Z",
       "source": {
-        "name": "AL.com"
+        "name": "LBC"
       }
     },
     {
-      "title": "Gas prices above $4 for record 158 days in 2026",
-      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
-      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
-      "image": "https://www.cleveland.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-14T14:13:15Z",
+      "title": "Oil prices rise as Iran steps up attacks and Houthi-Saudi fighting intensifies",
+      "description": "More ships were attacked by Iran in the Strait of Hormuz in the past week than in the entire month of September. and a Houthi strike hit a building owned by energy giant Saudi Aramco.",
+      "url": "https://www.inquirer.com/news/nation-world/iran-attacks-strait-hormuz-houthi-strikes-saudi-aramco-riyadh-airport-oil-prices-up-20261014.html",
+      "image": "https://www.inquirer.com/resizer/v2/VKIEGBAYZDZTQJW4YC7JC6YKGM.jpg?auth=97cc20425c4dd82c960cf7cfc185e605d66b9dcc3ac0321f0fdb7cc2fb8d1e2e&width=760&height=507&smart=true",
+      "publishedAt": "2026-10-14T21:46:56Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "The Philadelphia Inquirer"
       }
     },
     {
-      "title": "Gas prices above $4 for record 158 days in 2026",
-      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
-      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
-      "image": "https://www.mlive.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
-      "publishedAt": "2026-10-14T14:13:15Z",
+      "title": "Sydney hospital petrol attack: Patient allegedly set on fire at Prince of Wales Hospital Randwick",
+      "description": "October 15, 2026 \u2014 7:13am",
+      "url": "https://www.europesays.com/3310787/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792013857.png",
+      "publishedAt": "2026-10-14T21:37:34Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "US inflation accelerates to 3.7% in September as gasoline prices surge",
-      "description": "US consumer inflation accelerated in September as a surge in gasoline prices and firmer underlying price pressures added to the cost-of-living burden for",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/us-inflation-accelerates-to-3-7-in-september-as-gasoline-prices-surge/articleshow/134944527.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134944716,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-14T14:07:00Z",
+      "title": "Trump makes a startling admission to Arizona rally crowd: \u2018I hated to do it\u2019",
+      "description": "President Donald Trump admitted Wednesday that he expected gasoline prices to soar after launching military strikes against Iran, revealing that he initially expected an even bigger spike.Speaking at a rally in Arizona, Trump defended his months-long military campaign, claiming Iran had been just tw...",
+      "url": "https://www.rawstory.com/trump-iran-gas-prices-2678087134/",
+      "image": "https://www.rawstory.com/media-library/us-president-donald-trump-delivers-remarks-during-a-campaign-rally-at-laughlin-bullhead-international-airport-in-bullhead-city.jpg?id=68434587&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
+      "publishedAt": "2026-10-14T21:36:29Z",
       "source": {
-        "name": "Times of India"
+        "name": "Raw Story"
       }
     },
     {
-      "title": "US CPI rises on petrol costs, core inflation firmer",
-      "description": "US consumer prices accelerate in September as petrol costs rise, with core CPI firmer and Fed rate hike bets returning. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/us-consumer-prices-accelerate-in-september-on-costlier-petrol-core-cpi-firmer",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/802167f6c9ea0804af237817afea2b839efc086648e6b1221fc78cbf08e9274d?w=1200",
-      "publishedAt": "2026-10-14T13:44:00Z",
+      "title": "Car bursts into flames near Glasgow petrol station as 'residents evacuated'",
+      "description": "Emergency services locked down the scene near Sainsbury's on Woodlands Road in Glasgow shortly before 6.45pm on Wednesday.",
+      "url": "https://www.dailyrecord.co.uk/news/scottish-news/car-bursts-flames-near-glasgow-37773362",
+      "image": "https://i2-prod.dailyrecord.co.uk/article37773368.ece/ALTERNATES/s1200d/3_fire-1.jpg",
+      "publishedAt": "2026-10-14T20:14:58Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Daily Record"
       }
     },
     {
-      "title": "Can India absorb another oil shock without hurting growth? IMF warns of risks",
-      "description": "India\u2019s economic growth remains strong despite rising oil prices, but prolonged energy shocks could test resilience by increasing inflation, import costs, and fiscal pressure according to the IMF\u2019s October 2026 outlook.",
-      "url": "https://www.financialexpress.com/business/news/can-india-absorb-another-oil-shock-without-hurting-growth-imf-warns-of-risks/4361266/",
-      "image": "https://images.financialexpressdigital.com/2026/10/pictures-2026-10-14T182424.441.jpg",
-      "publishedAt": "2026-10-14T13:36:14Z",
+      "title": "Newfoundland and Labrador expects windfall from oil prices",
+      "description": "Newfoundland and Labrador\u2019s finance minister says skyrocketing oil prices are expected to deliver a windfall for the province.",
+      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/14/newfoundland-and-labrador-expecting-windfall-from-soaring-oil-prices/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/UZOCISKARW5YAFZQW62JNUCXIE.jpg?smart=true&auth=dd1d7ab00fb7c2c90f3d1551c7afbe11545a141347cdbdf94822880fc59b9a6c&width=1200&height=630",
+      "publishedAt": "2026-10-14T19:49:08Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "US inflation jumps to 3.7% in September as Iran war drives gasoline prices higher",
-      "description": "This was a notable acceleration from the 3.4 percent reading in August.",
-      "url": "https://www.livemint.com/news/us-news/us-inflation-jumps-to-3-7-in-september-as-iran-war-drives-gasoline-prices-higher-11791983003587.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/i_1791983601038_p20k_1791983615011_ApKI_3bd86bd1-27ed-48a5-881c-ad8b502fd953_h0bW.jpg",
-      "publishedAt": "2026-10-14T13:15:15Z",
+      "title": "Newfoundland and Labrador expects windfall from oil prices",
+      "description": "Newfoundland and Labrador\u2019s finance minister says skyrocketing oil prices are expected to deliver a windfall for the province.",
+      "url": "https://www.cp24.com/news/canada/2026/10/14/newfoundland-and-labrador-expecting-windfall-from-soaring-oil-prices/",
+      "image": "https://www.cp24.com/resizer/v2/UZOCISKARW5YAFZQW62JNUCXIE.jpg?smart=true&auth=dd1d7ab00fb7c2c90f3d1551c7afbe11545a141347cdbdf94822880fc59b9a6c&width=1200&height=630",
+      "publishedAt": "2026-10-14T19:49:08Z",
       "source": {
-        "name": "Livemint"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
-      "description": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
-      "url": "https://www.news18.com/agency-feeds/us-inflation-rises-to-3-7-in-september-as-gasoline-prices-jump-9-1-10382050.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
-      "publishedAt": "2026-10-14T13:15:03Z",
+      "title": "Gas prices averaged $4.20 in Iowa the week of Oct. 14",
+      "description": "The price of regular unleaded gasoline fell 10 cents from last week's price and is currently averaging $4.20 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
+      "url": "https://siouxcityjournal.com/news/local/business/article_4e13e08f-e028-4baf-a5eb-1e7b42f27589.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/4/e1/4e13e08f-e028-4baf-a5eb-1e7b42f27589/69d6a8bb1931b.social.jpg",
+      "publishedAt": "2026-10-14T19:30:00Z",
       "source": {
-        "name": "News18"
+        "name": "Sioux City Journal"
       }
     },
     {
-      "title": "Oil prices today: Brent crude hits $106.60 after Saudi Aramco attack, ship strikes near Hormuz",
-      "description": "Oil prices today: Brent crude hits $106.60 after a Saudi Aramco attack and ship strikes near Hormuz raise global oil supply concerns.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-today-brent-crude-hits-106-60-after-saudi-aramco-attack-ship-strikes-near-hormuz-101791982617184.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/14/1600x900/logo/UKRAINE-CRISIS-USA-ENERGY-0_1645917509503_1791982738231_QDD3_67097fa2-e2c5-45c9-805b-d016df60a8a4_WawS.JPG",
-      "publishedAt": "2026-10-14T13:13:11Z",
+      "title": "San Diego inflation hits highest level in nearly 3 years. Here\u2019s what will cost you more",
+      "description": "Gas prices surged in September and other categories, like food, were up as well.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/14/san-diego-inflation-hits-highest-level-in-nearly-3-years-heres-what-will-cost-you-more/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/SUT-L-DIESEL-WOES-Print-3.jpg?w=2000&h=1388",
+      "publishedAt": "2026-10-14T19:23:57Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "US inflation rises to 3.7% as fuel costs climb ahead of midterms",
-      "description": "Higher petrol prices and airfares pushed US inflation to 3.7% in September, adding pressure on households and the Federal Reserve weeks before the midterm elections.",
-      "url": "https://www.euronews.com/2026/10/14/us-inflation-rises-to-37-as-fuel-costs-climb-ahead-of-midterms",
-      "image": "https://images.euronews.com/articles/stories/09/95/19/92/1200x675_cmsv2_589d55c8-4c0b-5b74-9fb5-fbee2362cda3-9951992.jpg",
-      "publishedAt": "2026-10-14T13:07:23Z",
+      "title": "Harry Enten Says Trump Broke Biden's 'Unwanted Record' On Gas Prices",
+      "description": "The data guru said the president\u2019s record could prove to be an \u201cabsolute backbreaker\u201d for GOP candidates in the midterms.",
+      "url": "https://www.huffpost.com/entry/harry-enten-trump-biden-unwanted-record-gas-prices_n_6acfc3d5e4b0bfd25653a7ba",
+      "image": "https://img.huffingtonpost.com/asset/6acfd0211c00005601265526.jpeg?cache=HWZTQCVzlm&ops=1200_630",
+      "publishedAt": "2026-10-14T19:21:49Z",
       "source": {
-        "name": "Euronews"
+        "name": "HuffPost"
       }
     }
   ]
