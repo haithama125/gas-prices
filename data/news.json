@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-15T10:32:57+00:00",
+  "updated_at": "2026-10-15T15:57:35+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Pictured: Family killed in 'petrol bomb' attack on house in Ireland",
-      "description": "Two other children were removed from the scene and are receiving hospital treatment for critical injuries.",
-      "url": "https://www.lbc.co.uk/article/pictured-family-killed-in-petrol-bomb-attack-on-house-in-ireland-5Hjdjw8_2/",
-      "image": "https://images.globalplayer.com/images/848889?crop=16_9&width=1200&signature=gg4bUrb2tKqycDM3hWXvvTa6GsA=",
-      "publishedAt": "2026-10-14T22:01:19Z",
-      "source": {
-        "name": "LBC"
-      }
-    },
-    {
-      "title": "Oil prices rise as Iran steps up attacks and Houthi-Saudi fighting intensifies",
-      "description": "More ships were attacked by Iran in the Strait of Hormuz in the past week than in the entire month of September. and a Houthi strike hit a building owned by energy giant Saudi Aramco.",
-      "url": "https://www.inquirer.com/news/nation-world/iran-attacks-strait-hormuz-houthi-strikes-saudi-aramco-riyadh-airport-oil-prices-up-20261014.html",
-      "image": "https://www.inquirer.com/resizer/v2/VKIEGBAYZDZTQJW4YC7JC6YKGM.jpg?auth=97cc20425c4dd82c960cf7cfc185e605d66b9dcc3ac0321f0fdb7cc2fb8d1e2e&width=760&height=507&smart=true",
-      "publishedAt": "2026-10-14T21:46:56Z",
-      "source": {
-        "name": "The Philadelphia Inquirer"
-      }
-    },
-    {
-      "title": "Sydney hospital petrol attack: Patient allegedly set on fire at Prince of Wales Hospital Randwick",
-      "description": "October 15, 2026 \u2014 7:13am",
-      "url": "https://www.europesays.com/3310787/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792013857.png",
-      "publishedAt": "2026-10-14T21:37:34Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Trump makes a startling admission to Arizona rally crowd: \u2018I hated to do it\u2019",
-      "description": "President Donald Trump admitted Wednesday that he expected gasoline prices to soar after launching military strikes against Iran, revealing that he initially expected an even bigger spike.Speaking at a rally in Arizona, Trump defended his months-long military campaign, claiming Iran had been just tw...",
-      "url": "https://www.rawstory.com/trump-iran-gas-prices-2678087134/",
-      "image": "https://www.rawstory.com/media-library/us-president-donald-trump-delivers-remarks-during-a-campaign-rally-at-laughlin-bullhead-international-airport-in-bullhead-city.jpg?id=68434587&width=1200&height=600&coordinates=0%2C416%2C0%2C417",
-      "publishedAt": "2026-10-14T21:36:29Z",
-      "source": {
-        "name": "Raw Story"
-      }
-    },
-    {
-      "title": "Car bursts into flames near Glasgow petrol station as 'residents evacuated'",
-      "description": "Emergency services locked down the scene near Sainsbury's on Woodlands Road in Glasgow shortly before 6.45pm on Wednesday.",
-      "url": "https://www.dailyrecord.co.uk/news/scottish-news/car-bursts-flames-near-glasgow-37773362",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37773368.ece/ALTERNATES/s1200d/3_fire-1.jpg",
-      "publishedAt": "2026-10-14T20:14:58Z",
-      "source": {
-        "name": "Daily Record"
-      }
-    },
-    {
-      "title": "Newfoundland and Labrador expects windfall from oil prices",
-      "description": "Newfoundland and Labrador\u2019s finance minister says skyrocketing oil prices are expected to deliver a windfall for the province.",
-      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/10/14/newfoundland-and-labrador-expecting-windfall-from-soaring-oil-prices/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/UZOCISKARW5YAFZQW62JNUCXIE.jpg?smart=true&auth=dd1d7ab00fb7c2c90f3d1551c7afbe11545a141347cdbdf94822880fc59b9a6c&width=1200&height=630",
-      "publishedAt": "2026-10-14T19:49:08Z",
-      "source": {
-        "name": "Bnn Bloomberg"
-      }
-    },
-    {
-      "title": "Newfoundland and Labrador expects windfall from oil prices",
-      "description": "Newfoundland and Labrador\u2019s finance minister says skyrocketing oil prices are expected to deliver a windfall for the province.",
-      "url": "https://www.cp24.com/news/canada/2026/10/14/newfoundland-and-labrador-expecting-windfall-from-soaring-oil-prices/",
-      "image": "https://www.cp24.com/resizer/v2/UZOCISKARW5YAFZQW62JNUCXIE.jpg?smart=true&auth=dd1d7ab00fb7c2c90f3d1551c7afbe11545a141347cdbdf94822880fc59b9a6c&width=1200&height=630",
-      "publishedAt": "2026-10-14T19:49:08Z",
-      "source": {
-        "name": "CP24 Toronto"
-      }
-    },
-    {
-      "title": "Gas prices averaged $4.20 in Iowa the week of Oct. 14",
-      "description": "The price of regular unleaded gasoline fell 10 cents from last week's price and is currently averaging $4.20 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
-      "url": "https://siouxcityjournal.com/news/local/business/article_4e13e08f-e028-4baf-a5eb-1e7b42f27589.html",
-      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/4/e1/4e13e08f-e028-4baf-a5eb-1e7b42f27589/69d6a8bb1931b.social.jpg",
-      "publishedAt": "2026-10-14T19:30:00Z",
-      "source": {
-        "name": "Sioux City Journal"
-      }
-    },
-    {
-      "title": "San Diego inflation hits highest level in nearly 3 years. Here\u2019s what will cost you more",
-      "description": "Gas prices surged in September and other categories, like food, were up as well.",
-      "url": "https://www.sandiegouniontribune.com/2026/10/14/san-diego-inflation-hits-highest-level-in-nearly-3-years-heres-what-will-cost-you-more/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/SUT-L-DIESEL-WOES-Print-3.jpg?w=2000&h=1388",
-      "publishedAt": "2026-10-14T19:23:57Z",
-      "source": {
-        "name": "San Diego Union-Tribune"
-      }
-    },
-    {
-      "title": "Harry Enten Says Trump Broke Biden's 'Unwanted Record' On Gas Prices",
-      "description": "The data guru said the president\u2019s record could prove to be an \u201cabsolute backbreaker\u201d for GOP candidates in the midterms.",
-      "url": "https://www.huffpost.com/entry/harry-enten-trump-biden-unwanted-record-gas-prices_n_6acfc3d5e4b0bfd25653a7ba",
-      "image": "https://img.huffingtonpost.com/asset/6acfd0211c00005601265526.jpeg?cache=HWZTQCVzlm&ops=1200_630",
-      "publishedAt": "2026-10-14T19:21:49Z",
+      "title": "'Who Is We?': Trump Blasted For Saying 'We're Making A Fortune' From High Oil Prices",
+      "description": "\u201cTrump is completely detached from reality,\u201d one commenter on X wrote.",
+      "url": "https://www.huffpost.com/entry/trump-says-were-making-a-fortune-from-oil_n_6ad002a5e4b08a0fe855c58b",
+      "image": "https://img.huffingtonpost.com/asset/6ad040ea1c00005b1726558c.jpeg?cache=Cqyf0IZXdh&ops=1200_630",
+      "publishedAt": "2026-10-15T03:53:21Z",
       "source": {
         "name": "HuffPost"
+      }
+    },
+    {
+      "title": "Exclusive Interview: Trump says Iran war will end soon, oil prices will drop fast",
+      "description": "On the cost of living -- a top concern of supporters lining up for his rally -- Trump blamed former President Joe Biden.",
+      "url": "https://foxbaltimore.com/news/nation-world/exclusive-interview-trump-says-iran-war-will-end-soon-oil-prices-will-drop-fast",
+      "image": "https://foxbaltimore.com/resources/media2/16x9/1920/1320/center/90/9c5375f7-0de2-432d-8b81-1cf9ceeb7bed-TRUMPRAWINTERVIEW.jpg",
+      "publishedAt": "2026-10-15T03:44:06Z",
+      "source": {
+        "name": "Baltimore News"
+      }
+    },
+    {
+      "title": "Exclusive Interview: Trump says Iran war will end soon, oil prices will drop fast",
+      "description": "On the cost of living -- a top concern of supporters lining up for his rally -- Trump blamed former President Joe Biden.",
+      "url": "https://wjla.com/news/nation-world/exclusive-interview-trump-says-iran-war-will-end-soon-oil-prices-will-drop-fast",
+      "image": "https://wjla.com/resources/media2/16x9/1920/1320/center/90/9c5375f7-0de2-432d-8b81-1cf9ceeb7bed-TRUMPRAWINTERVIEW.jpg",
+      "publishedAt": "2026-10-15T03:44:06Z",
+      "source": {
+        "name": "WJLA"
+      }
+    },
+    {
+      "title": "Markets To Crash Before Diwali? Key Nifty, Sensex Levels, Trends Investors Must Watch",
+      "description": "Stock Market News: Crude oil prices, global market cues, institutional investor flows and earnings season could influence sentiment around Diwali.",
+      "url": "https://www.ndtv.com/business-news/markets-to-crash-before-diwali-key-nifty-sensex-levels-trends-stock-market-investors-must-watch-12187520",
+      "image": "https://c.ndtvimg.com/2026-10/op7p5844_stock-market_625x300_07_October_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-15T03:38:44Z",
+      "source": {
+        "name": "NDTV.com"
+      }
+    },
+    {
+      "title": "Crude Oil Prices Fall By Over $1 After Touching Three-Week-High",
+      "description": "Iran announced new tactics to target vessels passing through the Strait of Hormuz, with the stated aim of keeping oil prices high., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/crude-oil-prices-fall-by-over-1-after-touching-three-week-high-article-156342734",
+      "image": "https://images.timesnownews.com/thumb/msid-156342753,thumbsize-41376,width-1280,height-720,resizemode-75/156342753.jpg",
+      "publishedAt": "2026-10-15T03:30:20Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Stock market today: GIFT Nifty hints at weak start for Dalal Street as US inflation lifts rate",
+      "description": "Dalal Street's direction is expected to depend on global inflation, interest rates, crude oil prices and foreign investor flows. GIFT Nifty futures i",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-15-october-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/134956119.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134956119,width-1280,height-720,imgsize-2096393,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-15T03:01:47Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Gold and silver price today, October 15: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
+      "description": "Bullion recovered from the previous session\u2019s losses as easing crude oil prices helped relieve pressure across markets.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-october-15-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14052523.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261015025415_Gold-Prices-Across-India-representative-image.png",
+      "publishedAt": "2026-10-15T02:55:03Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "GIFT Nifty signals flat start for Sensex, Nifty amid global market rout; hot US inflation, Asian selloff weigh",
+      "description": "GIFT Nifty was trading mostly flat on Thursday, even as Asian markets fell sharply following a rout in the US equities overnight. Hotter-than-expected US inflation has raised concerns that the Fed will need more interest rate hikes, while elevated crude oil prices and persistent FII selling continue to add pressure on Indian equities.",
+      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-signals-flat-start-for-sensex-nifty-amid-global-market-rout-hot-us-inflation-asian-selloff-weigh-14052524.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/07/20260716050253_volatile.jpeg",
+      "publishedAt": "2026-10-15T02:52:47Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today (October 15): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "The recent volatility in global crude oil prices reflects continued concerns over Middle East supply disruptions and the security of key oil infrastructure and shipping routes.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-15-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-561678-2026-10-15",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad03db12bea8-the-national-average-petrol-price-stands-at-11121-per-litre--while-diesel-is-priced-at-9783-per-125637202-16x9.jpg",
+      "publishedAt": "2026-10-15T02:50:36Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Fuel Shortage In MP As 10% Petrol Pumps Face Temporary Supply Disruptions; Diesel Demand Rises Amid Harvesting Season",
+      "description": "Around 10% of petrol pumps in Madhya Pradesh are experiencing temporary fuel shortages due to supply constraints, limited tankers and storage issues. Diesel demand is rising as farmers harvest paddy and prepare for rabi sowing. Dealers say disruptions last briefly, fuel remains available and consumers need not panic.",
+      "url": "https://www.freepressjournal.in/bhopal/fuel-shortage-in-mp-as-10-petrol-pumps-face-temporary-supply-disruptions-diesel-demand-rises-amid-harvesting-season",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-14/8teflcm5/3pic14-with-Rajan.jpg",
+      "publishedAt": "2026-10-15T02:34:00Z",
+      "source": {
+        "name": "Free Press Journal"
       }
     }
   ]
