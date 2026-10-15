@@ -1,105 +1,105 @@
 {
-  "updated_at": "2026-10-14T21:06:01+00:00",
+  "updated_at": "2026-10-15T02:21:18+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices rise as Iran deploys new tactics to target ships transiting Hormuz",
-      "description": "Brent, WTI rise over $1/barrel \u200bin early trade before paring gains",
-      "url": "https://www.theglobeandmail.com/investing/article-oil-prices-rise-as-iran-deploys-new-tactics-to-target-ships-transiting/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/I6FMHU4CAFCMJBDA3TKYZYL3DI.JPG?auth=7b27f71b5dd7ccc49c70c6c238de64af0f8d58a77514c5b3e5c9c5d2583f2184&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-10-14T08:52:07Z",
+      "title": "Gas prices above $4 for record 158 days in 2026",
+      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
+      "url": "https://www.al.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
+      "image": "https://www.al.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-14T14:13:15Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "AL.com"
       }
     },
     {
-      "title": "Global Market | European companies better positioned to withstand energy price shock than in 2022: Analysts",
-      "description": "European companies appear better equipped to withstand rising oil and gas prices than during the 2022 energy crisis, supported by changing stock market composition, AI-related spending, global operations and stronger risk management. However, a prolonged energy shock could still pressure earnings and consumer demand.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/global-market-european-companies-better-positioned-to-withstand-energy-price-shock-than-in-2022-analysts/articleshow/134936175.cms",
-      "image": "https://img.etimg.com/thumb/msid-134936253,width-1200,height-900,imgsize-2331152,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-14T07:45:00Z",
+      "title": "Gas prices above $4 for record 158 days in 2026",
+      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
+      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
+      "image": "https://www.cleveland.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-14T14:13:15Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "Young boys killed alongside parents in suspected 'petrol bomb' attack named as tributes pour in",
-      "description": "Philip, Kim, and their two boys died after a suspected petrol bomb struck their home while their two younger children are currently in hospital",
-      "url": "https://www.dailyrecord.co.uk/news/uk-world-news/young-boys-killed-alongside-parents-37769584",
-      "image": "https://i2-prod.dailyrecord.co.uk/article37769493.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
-      "publishedAt": "2026-10-14T07:34:29Z",
+      "title": "Gas prices above $4 for record 158 days in 2026",
+      "description": "As of Oct. 14, the national average is down three cents from a week prior, but remains two cents higher than it was one month ago.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-101426-price-remains-above-4-per-gallon-for-record-breaking-158th-day-this-year.html",
+      "image": "https://www.mlive.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true&quality=90",
+      "publishedAt": "2026-10-14T14:13:15Z",
       "source": {
-        "name": "Daily Record"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "Two boys killed in suspected arson attack on Irish home named",
-      "description": "It is suspected a petrol bomb was thrown at their front door in the early hours",
-      "url": "https://www.liverpoolecho.co.uk/news/uk-world-news/two-boys-killed-suspected-arson-34761192",
-      "image": "https://i2-prod.liverpoolecho.co.uk/article34761182.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
-      "publishedAt": "2026-10-14T07:27:23Z",
+      "title": "US inflation accelerates to 3.7% in September as gasoline prices surge",
+      "description": "US consumer inflation accelerated in September as a surge in gasoline prices and firmer underlying price pressures added to the cost-of-living burden for",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/us-inflation-accelerates-to-3-7-in-september-as-gasoline-prices-surge/articleshow/134944527.cms",
+      "image": "https://static.toiimg.com/thumb/msid-134944716,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-14T14:07:00Z",
       "source": {
-        "name": "Liverpool Echo"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Family of four 'killed in petrol bomb fire over debt' pictured as siblings still critical",
-      "description": "Philip English and his wife Kim, both in their late 40s, and their two young sons Callum and Jayden English, both under 10, died in a suspected arson attack at their Co Waterford home",
-      "url": "https://www.dailystar.co.uk/news/latest-news/family-four-killed-petrol-bomb-37769530",
-      "image": "https://i2-prod.dailystar.co.uk/article37769534.ece/ALTERNATES/s1200d/0_English-Family-waterford.jpg",
-      "publishedAt": "2026-10-14T07:04:48Z",
+      "title": "US CPI rises on petrol costs, core inflation firmer",
+      "description": "US consumer prices accelerate in September as petrol costs rise, with core CPI firmer and Fed rate hike bets returning. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/us-consumer-prices-accelerate-in-september-on-costlier-petrol-core-cpi-firmer",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/802167f6c9ea0804af237817afea2b839efc086648e6b1221fc78cbf08e9274d?w=1200",
+      "publishedAt": "2026-10-14T13:44:00Z",
       "source": {
-        "name": "The daily Star"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Two boys killed in horror suspected arson attack on Irish home named",
-      "description": "It is suspected the home went up in flames after a petrol bomb was thrown at their front door",
-      "url": "https://www.walesonline.co.uk/news/uk-news/two-boys-killed-horror-suspected-34761178",
-      "image": "https://i2-prod.walesonline.co.uk/article34761182.ece/ALTERNATES/s1200d/2_English-Family-waterford.jpg",
-      "publishedAt": "2026-10-14T06:57:24Z",
+      "title": "Can India absorb another oil shock without hurting growth? IMF warns of risks",
+      "description": "India\u2019s economic growth remains strong despite rising oil prices, but prolonged energy shocks could test resilience by increasing inflation, import costs, and fiscal pressure according to the IMF\u2019s October 2026 outlook.",
+      "url": "https://www.financialexpress.com/business/news/can-india-absorb-another-oil-shock-without-hurting-growth-imf-warns-of-risks/4361266/",
+      "image": "https://images.financialexpressdigital.com/2026/10/pictures-2026-10-14T182424.441.jpg",
+      "publishedAt": "2026-10-14T13:36:14Z",
       "source": {
-        "name": "South Wales Echo"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Rising Gasoline Prices Fuel Fresh Inflation Fears in the U.S.",
-      "description": "Surging energy prices are expected to drive U.S. inflation higher in September, increasing financial pressure on American households.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Rising-Gasoline-Prices-Fuel-Fresh-Inflation-Fears-in-the-US.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-14_fncxrd5kfm.jpg",
-      "publishedAt": "2026-10-14T06:45:00Z",
+      "title": "US inflation jumps to 3.7% in September as Iran war drives gasoline prices higher",
+      "description": "This was a notable acceleration from the 3.4 percent reading in August.",
+      "url": "https://www.livemint.com/news/us-news/us-inflation-jumps-to-3-7-in-september-as-iran-war-drives-gasoline-prices-higher-11791983003587.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/14/1600x900/logo/i_1791983601038_p20k_1791983615011_ApKI_3bd86bd1-27ed-48a5-881c-ad8b502fd953_h0bW.jpg",
+      "publishedAt": "2026-10-14T13:15:15Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Drivers fill up with UK\u2019s cheapest fuel at Tesco for one reason",
-      "description": "Tesco currently has the most expensive supermarket petrol in the UK, but for a brief moment, a technical glitch saw some motorists bank savings.",
-      "url": "https://www.express.co.uk/life-style/cars/2257035/tesco-fuel-station-petrol-diesel-supermarket",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7186402.jpg",
-      "publishedAt": "2026-10-14T06:40:00Z",
+      "title": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
+      "description": "US inflation rises to 3.7% in September as gasoline prices jump 9.1%",
+      "url": "https://www.news18.com/agency-feeds/us-inflation-rises-to-3-7-in-september-as-gasoline-prices-jump-9-1-10382050.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+      "publishedAt": "2026-10-14T13:15:03Z",
       "source": {
-        "name": "Daily Express"
+        "name": "News18"
       }
     },
     {
-      "title": "Young brothers killed with parents in suspected petrol bomb attack named",
-      "description": "It is suspected that a petrol bomb was thrown at their home in Ireland just after 5am",
-      "url": "https://www.manchestereveningnews.co.uk/news/world-news/young-brothers-killed-parents-suspected-34761084",
-      "image": "https://i2-prod.manchestereveningnews.co.uk/article34761109.ece/ALTERNATES/s1200d/0_ECR_141026_waterford.png",
-      "publishedAt": "2026-10-14T06:34:15Z",
+      "title": "Oil prices today: Brent crude hits $106.60 after Saudi Aramco attack, ship strikes near Hormuz",
+      "description": "Oil prices today: Brent crude hits $106.60 after a Saudi Aramco attack and ship strikes near Hormuz raise global oil supply concerns.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-today-brent-crude-hits-106-60-after-saudi-aramco-attack-ship-strikes-near-hormuz-101791982617184.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/14/1600x900/logo/UKRAINE-CRISIS-USA-ENERGY-0_1645917509503_1791982738231_QDD3_67097fa2-e2c5-45c9-805b-d016df60a8a4_WawS.JPG",
+      "publishedAt": "2026-10-14T13:13:11Z",
       "source": {
-        "name": "Manchester Evening News"
+        "name": "Hindustan Times"
       }
     },
     {
-      "title": "Oil prices rise after reported attacks on ships in Strait of Hormuz",
-      "description": "Oil prices rose as fresh attacks in the Middle East fuelled supply concerns. European gas prices hovered near a four-year high, while Asian shares were mixed and European stock futures edged lower.",
-      "url": "https://www.euronews.com/2026/10/14/oil-prices-rise-after-reported-attacks-on-ships-in-strait-of-hormuz",
-      "image": "https://images.euronews.com/articles/stories/09/95/12/24/1200x675_cmsv2_688fcf11-969f-5171-b980-8f14d31d4357-9951224.jpg",
-      "publishedAt": "2026-10-14T06:28:49Z",
+      "title": "US inflation rises to 3.7% as fuel costs climb ahead of midterms",
+      "description": "Higher petrol prices and airfares pushed US inflation to 3.7% in September, adding pressure on households and the Federal Reserve weeks before the midterm elections.",
+      "url": "https://www.euronews.com/2026/10/14/us-inflation-rises-to-37-as-fuel-costs-climb-ahead-of-midterms",
+      "image": "https://images.euronews.com/articles/stories/09/95/19/92/1200x675_cmsv2_589d55c8-4c0b-5b74-9fb5-fbee2362cda3-9951992.jpg",
+      "publishedAt": "2026-10-14T13:07:23Z",
       "source": {
         "name": "Euronews"
       }
