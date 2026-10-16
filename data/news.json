@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-16T02:14:21+00:00",
+  "updated_at": "2026-10-16T10:20:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Judge tells dad to 'shut up and listen' after what happened at petrol station",
-      "description": "The three-time convicted robber's accomplices remain at large but he says he'll 'get what he deserves'",
-      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/judge-tells-dad-shut-up-34768600",
-      "image": "https://i2-prod.liverpoolecho.co.uk/article34769004.ece/ALTERNATES/s1200d/0_Kevin-Burke.jpg",
-      "publishedAt": "2026-10-15T14:07:10Z",
+      "title": "Dave McCormick says GOP earned \u2018pretty good\u2019 report card on economy, but agrees gas prices are too high",
+      "description": "Asked how his party can regain voters' trust on economic issues, McCormick touted the GOP's \"law and order\" accomplishments while acknowledging high healthcare and gas prices.",
+      "url": "https://www.inquirer.com/politics/pennsylvania/dave-mccormick-trump-gop-report-card-20261015.html",
+      "image": "https://www.inquirer.com/resizer/v2/VOGZPHE25VFCXJXGHDAJUQRKW4.jpg?auth=9747c1987048f1c5db59d64a23a647756b4b3cfe88ee604ea3785235cda87a84&width=760&height=507&smart=true",
+      "publishedAt": "2026-10-15T22:16:29Z",
       "source": {
-        "name": "Liverpool Echo"
+        "name": "The Philadelphia Inquirer"
       }
     },
     {
-      "title": "US PPI inflation surges 1.3% as gasoline prices jump 20.3% - why are Treasury yields falling?",
-      "description": "In September, US wholesale prices rose sharply by 1.3%, fueled by a significant increase in gasoline costs, marking the biggest monthly gain since March 2022. The Producer Price Index saw a 6.3% year-over-year rise, indicating broader inflation pressures across goods and services. Learn more about the impact on the economy and Federal Reserve interest rate decisions.",
-      "url": "https://economictimes.indiatimes.com/world/money/us-ppi-inflation-surges-1-3-as-gasoline-prices-jump-20-3-why-are-treasury-yields-falling/articleshow/134969660.cms",
-      "image": "https://img.etimg.com/thumb/msid-134969961,width-1200,height-900,imgsize-97982,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-15T14:04:00Z",
+      "title": "2027 Porsche Mission S concept: Petrol hypercar previews new flagship",
+      "description": "Stuttgart has ditched hybrid and electric power for old-fashioned internal combustion for its new hypercar to belatedly replace the 918 Spyder.",
+      "url": "https://7news.com.au/motoring/2027-porsche-mission-s-concept-petrol-hypercar-previews-new-flagship-c-23027399",
+      "image": "https://images.7news.com.au/publication/C-23027399/39987be6eb69053176e4a8fc62745a8243d2819e-16x9-x0y250w4811h2706.jpg?imwidth=1200",
+      "publishedAt": "2026-10-15T21:48:23Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "7NEWS Australia"
       }
     },
     {
-      "title": "U.S. consumers are muscling through higher prices, but for how long?",
-      "description": "WASHINGTON \u2014 High gas prices are intensifying inflation and vacuuming up more of Americans\u2019 dollars, yet consumers are still digging deep to spend, powering the economy, at least for now. A slew of economic data Thursday showed that inflation accelerated last month as more expensive oil and gas began to",
-      "url": "https://triblive.com/news/world/u-s-consumers-are-muscling-through-higher-prices-but-for-how-long/",
-      "image": "https://assets-varnish.triblive.com/2026/10/10038599_web1_10038599-4bb0ca0f4d6643558ef1a54a622fefbe.jpg",
-      "publishedAt": "2026-10-15T14:01:36Z",
+      "title": "2027 Porsche Mission S concept: Petrol hypercar previews new flagship",
+      "description": "Stuttgart has ditched hybrid and electric power for old-fashioned internal combustion for its new hypercar to belatedly replace the 918 Spyder.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/2027-porsche-mission-s-concept-petrol-hypercar-previews-new-flagship-c-23027397",
+      "image": "https://images.perthnow.com.au/publication/C-23027397/39987be6eb69053176e4a8fc62745a8243d2819e-16x9-x0y250w4811h2706.jpg?imwidth=1200",
+      "publishedAt": "2026-10-15T21:48:23Z",
       "source": {
-        "name": "Pittsburgh Tribune-Review"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Rupee extends rally for fifth consecutive session as crude, dollar soften",
-      "description": "The rupee gained for a fifth straight session to close at 95.06 against the dollar as crude oil prices and US yields eased, while forward premiums surged on FERR-related unwinding",
-      "url": "https://www.business-standard.com/economy/news/rupee-extends-rally-for-fifth-consecutive-session-as-crude-dollar-soften-126101501313_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/25/thumb/fitandfill/1200X628/1782407878-7939.jpg",
-      "publishedAt": "2026-10-15T13:51:29Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.burlingtonfreepress.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.burlingtonfreepress.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "Business Standard"
+        "name": "Burlington Free Press"
       }
     },
     {
-      "title": "Jhajjar intensifies push to scrap end-of-life vehicles amid NCR pollution concerns",
-      "description": "Jhajjar urges scrapping 10-year diesel and 15-year petrol vehicles to curb NCR pollution, warning of legal action and promoting authorised scrapping facilities.",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/jhajjar-intensifies-push-to-scrap-end-of-life-vehicles-amid-ncr-pollution-concerns/articleshow/134969139.cms",
-      "image": "https://static.toiimg.com/thumb/msid-134969137,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-15T13:18:00Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.beaconjournal.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.beaconjournal.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "Times of India"
+        "name": "Akron Beacon Journal"
       }
     },
     {
-      "title": "U.S. retail sales beat expectations on higher gasoline prices",
-      "description": "Sales rose 0.8% in September after an upwardly revised 1.3% jump in August",
-      "url": "https://www.theglobeandmail.com/business/economy/article-us-retail-sales-september-2026-gasoline-prices/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/5MKXBQMISFHL5FAAQKC3337T3E.jpg?auth=f4308c1218de51a5189203343228b55549276c0bcd5372d4f07b9c0e0532760d&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-10-15T12:53:22Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.amarillo.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.amarillo.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "Amarillo Globe-News"
       }
     },
     {
-      "title": "Silver spot prices crash 7% overnight; Indian ETFs fall up to 2.75%",
-      "description": "Spot silver prices plunged nearly 7% overnight due to hotter US inflation data and stronger Fed rate hike bets, pressured further by high crude oil prices and a stronger dollar. Indian Silver ETFs also saw significant declines.",
-      "url": "https://www.financialexpress.com/market/silver/silver-spot-prices-crash-7-overnight-indian-etfs-fall-up-to-2-75/4362251/",
-      "image": "https://images.financialexpressdigital.com/2026/10/silr_20261015124623.jpg",
-      "publishedAt": "2026-10-15T12:50:23Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.augustachronicle.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.augustachronicle.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Augusta Chronicle"
       }
     },
     {
-      "title": "Wholesale inflation jumped last month by most in four years",
-      "description": "Wholesale inflation rose more quickly than expected last month on a big jump in gas prices, showing high costs remain challenging.",
-      "url": "https://www.pilotonline.com/2026/10/15/wholesale-inflation-september/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/10/US-GDP_5754_-1.jpg?w=2000&h=1175",
-      "publishedAt": "2026-10-15T12:49:50Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.cjonline.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.cjonline.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "Topeka Capital-Journal"
       }
     },
     {
-      "title": "Wholesale inflation jumped last month by most in four years",
-      "description": "Wholesale inflation rose more quickly than expected last month on a big jump in gas prices, showing high costs remain challenging.",
-      "url": "https://www.bostonherald.com/2026/10/15/wholesale-inflation-september/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/US-GDP_5754_-1.jpg?w=2000&h=1175",
-      "publishedAt": "2026-10-15T12:49:50Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.gainesville.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.gainesville.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "Gainesville Sun"
       }
     },
     {
-      "title": "Wholesale inflation jumped last month by most in four years",
-      "description": "Wholesale inflation rose more quickly than expected last month on a big jump in gas prices, showing high costs remain challenging.",
-      "url": "https://www.mercurynews.com/2026/10/15/wholesale-inflation-september/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/US-GDP_5754_-1.jpg?w=2000&h=1175",
-      "publishedAt": "2026-10-15T12:49:50Z",
+      "title": "Tesla still dominates as EV sales rebound in 2026",
+      "description": "High gas prices have prompted car shoppers to reconsider EVs this year, and sales so far show Tesla is still the most dominant player in the market.",
+      "url": "https://www.freep.com/story/cars/shopping/evs/2026/10/15/what-top-selling-evs-reveal-market/92267770007/",
+      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/05/29/USAT/90319610007-20260516-t-140509-z-823929691-rc-2-faja-3-ayv-4-rtrmadp-3-teslapricehike.JPG?crop=5872,3304,x0,y305&width=3200&height=1801&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-15T21:18:47Z",
       "source": {
-        "name": "The Mercury News"
+        "name": "Detroit Free Press"
       }
     }
   ]
