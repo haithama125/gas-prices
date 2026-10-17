@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-10-17T09:53:25+00:00",
+  "updated_at": "2026-10-17T14:38:44+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
+      "description": "The S&P 500 was down 1.22% at 7,649.71 points. The Nasdaq \u200bdeclined 2.19% to 26,128.13 points, while the Dow Jones Industrial Average was down 0.55% at 51,891.77 points.",
+      "url": "https://www.moneycontrol.com/news/business/markets/wall-street-tumbles-as-worries-about-ai-trade-and-high-oil-prices-weigh-14054246.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/03/20250305164211_wall-street-.jpg",
+      "publishedAt": "2026-10-17T02:25:42Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today, October 17: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "description": "US President Donald Trump has issued a waiver of sanctions, restrictions, and duties under the Sanctions on Russia and Iran Act, citing national interest.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-17-check-fuel-cost-in-delhi-mumbai-bengaluru-11792200993259.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/17/1600x900/logo/fuel_1792203485709_Kzd1_1792203485948_LPkC_c71432cf-4544-4d86-a298-ff40692c5c8e_Q9P6.jpg",
+      "publishedAt": "2026-10-17T02:24:09Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "$17.5K Gas Station Fine Shows Why You Can't Always Trust The Price On The Sign",
+      "description": "This recent case of prices at the pump not matching what's advertised is reflective of a broader trend of deceptively high gas prices.",
+      "url": "https://www.slashgear.com/2283855/new-jersey-deceptive-gas-prices-station-owner-fine/",
+      "image": "https://www.slashgear.com/img/gallery/17-5k-gas-station-fine-shows-why-you-cant-always-trust-the-price-on-the-sign/l-intro-1791504183.jpg",
+      "publishedAt": "2026-10-17T01:45:00Z",
+      "source": {
+        "name": "SlashGear"
+      }
+    },
+    {
+      "title": "Ukraine's strikes on Russian oil refineries is not impacting US gas prices: report",
+      "description": "Ukraine\u2019s strikes on Russian oil refineries did not appear to have any impact on diesel prices in the US.",
+      "url": "https://nypost.com/2026/10/16/world-news/ukraines-strikes-on-russian-oil-refineries-is-not-impacting-us-gas-prices-report/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145311411.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-17T00:48:52Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Even with high gas prices, EV sales in California are flat",
+      "description": "Consumers keep flocking to \"traditional hybrids,\" which are not considered zero-emission by state officials.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/16/even-with-high-gas-prices-ev-sales-in-california-are-flat/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2024/08/SUT-L-EV-Auto_005.jpg?w=2000&h=1500",
+      "publishedAt": "2026-10-16T23:35:27Z",
+      "source": {
+        "name": "San Diego Union-Tribune"
+      }
+    },
+    {
+      "title": "S&P 500 Top Stock Gainers Today, 10/16/26",
+      "description": "The\u00a0S&P 500\u00a0(SPX)\u00a0closed with a 1.09% loss on Friday amid weakness in tech stocks and rising oil prices. Energy led all secto...",
+      "url": "https://markets.businessinsider.com/news/stocks/s-p-500-top-stock-gainers-today-10-16-26-1036636201",
+      "image": "https://markets.businessinsider.com/favicon-32x32.png",
+      "publishedAt": "2026-10-16T22:03:36Z",
+      "source": {
+        "name": "Markets Insider"
+      }
+    },
     {
       "title": "Consumer Cos Down on Energy Cost Concerns -- Consumer Roundup",
       "description": "Consumer companies declined amid fears that consumers will be further squeezed by energy costs.\nDiesel and gasoline prices had retreated from recent highs in the U.S., but a resurgence in oil...\n-October 16, 2026 at 05:51 pm EDT\n- MarketScreener",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-10-16T21:25:49Z",
       "source": {
         "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "NY Stocks Fall on AI Investment Jitters; Crude Oil Tops $100 for First Time in a Month - BigGo Finance",
-      "description": "New York stocks fell across the board on Friday, October 16, as caution over artificial intelligence (AI) capital spending and surging crude oil prices",
-      "url": "https://www.europesays.com/3314118/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792185139.jpeg",
-      "publishedAt": "2026-10-16T21:12:16Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "US STOCKS-Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
-      "description": "Read more about US STOCKS-Wall Street ends down sharply, worries about AI trade and high oil prices weigh on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3993880-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-16T20:32:58Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
-      "description": "Wall Street faced a sharp decline on Friday as AI-related technology stocks came under renewed pressure. Concerns regarding debt-laden AI infrastructure companies affected investor sentiment heading into the weekend. Additionally, a rise in oil prices fueled market fears about economic stability and rising borrowing costs. The S&P 500, Dow Jones, and Nasdaq all recorded substantial losses amid these uncertainties.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
-      "image": "https://img.etimg.com/thumb/msid-135003269,width-1200,height-900,imgsize-134964,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-16T20:08:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
-      "description": "Wall Street ended sharply lower on Friday, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, while a jump in oil prices spooked traders heading into the weekend.\n...",
-      "url": "https://www.marketscreener.com/news/wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh-ce785cdadf8bf621",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-08/2026-08-11T102532Z_1_LYNXMPEM7A0OR_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-16T20:01:50Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
-      "description": "Read more about US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3993874-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_59_5183121.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-16T20:01:01Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Hormuz attacks likely double as vessels hide strikes from UKMTO",
-      "description": "UKMTO reports most struck vessels refuse to report incidents, hiding true attack volume. True number of attacks since October 1 estimated at 60-100 versus 30 confirmed. Tanker Mt St 3 with 15 Indian seafarers struck by projectile on October 16. Oil prices fell despite escalation, with WTI at $94.02 and Brent at $104.43. Polymarket odds for normal Hormuz traffic by year-end stand at just 15%.",
-      "url": "https://scanx.trade/stock-market-news/global/supertanker-2-5-million-barrel-capacity-fire-near-oman/52429362",
-      "image": "https://news-images.dhan.co/supertanker-2-5-million-barrel-capacity-fire-near-oman.jpg",
-      "publishedAt": "2026-10-16T19:25:19Z",
-      "source": {
-        "name": "scanx.trade"
       }
     }
   ]
