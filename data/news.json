@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-17T02:07:15+00:00",
+  "updated_at": "2026-10-17T09:53:25+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fuel prices rise again in Switzerland",
-      "description": "Both petrol and diesel have recently gone up by five cents per litre.",
-      "url": "https://www.swissinfo.ch/eng/global-trade/fuel-prices-in-switzerland-are-rising-again/92228358",
-      "image": "https://www.swissinfo.ch/content/wp-content/uploads/sites/13/2026/10/66ca1cc3c729185256b5ad0f4004fa7bfc99f5a9-92227022.jpg?ver=dffa95f2&fit=1200,900",
-      "publishedAt": "2026-10-16T13:24:59Z",
+      "title": "Consumer Cos Down on Energy Cost Concerns -- Consumer Roundup",
+      "description": "Consumer companies declined amid fears that consumers will be further squeezed by energy costs.\nDiesel and gasoline prices had retreated from recent highs in the U.S., but a resurgence in oil...\n-October 16, 2026 at 05:51 pm EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/consumer-cos-down-on-energy-cost-concerns-consumer-roundup-ce785cdadf8efe22",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-16T21:51:19Z",
       "source": {
-        "name": "Swissinfo (EN)"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "India's forex reserves shed $60 billion in six weeks as RBI steps in to support rupee, one of Asia's worst-performing currencies this year",
-      "description": "Indias foreign exchange reserves declined by nearly $60 billion in six weeks to $726.027 billion as of October 9, from a record high of $785.706 billion on September 4. The fall was largely attributed to the Reserve Bank of Indias intervention to support the rupee amid rising crude oil prices, higher US yields and sustained foreign investor outflows. Foreign currency assets and gold reserves also recorded significant declines during the reporting week.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-forex-reserves-shed-60-billion-in-six-weeks-as-rbi-steps-in-to-support-rupee-one-of-asias-worst-performing-currencies-this-year/articleshow/134994757.cms",
-      "image": "https://img.etimg.com/thumb/msid-134994774,width-1200,height-900,imgsize-159642,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-16T12:17:00Z",
+      "title": "US STOCKS-Wall Street tumbles as worries about AI trade and high oil prices weigh",
+      "description": "Read more about US STOCKS-Wall Street tumbles as worries about AI trade and high oil prices weigh on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3993898-us-stocks-wall-street-tumbles-as-worries-about-ai-trade-and-high-oil-prices-weigh",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-16T21:37:43Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
+      "description": "Read more about US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3993897-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_02_9568411.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-16T21:37:33Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "US stocks close sharply lower, worries about AI trade and high oil prices weigh",
+      "description": "The S&P 500 declined 1.09% to end the session at 7,659.44 points while the Nasdaq declined 2.15% to 26,140.03 points. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/companies-markets/us-stocks-close-sharply-lower-worries-about-ai-trade-and-high-oil-prices-weigh",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4056ccc5a0ae05da24d14723db2113712db4069dd46605d54b7701d41b4b8a7c?w=1200",
+      "publishedAt": "2026-10-16T21:25:49Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "NY Stocks Fall on AI Investment Jitters; Crude Oil Tops $100 for First Time in a Month - BigGo Finance",
+      "description": "New York stocks fell across the board on Friday, October 16, as caution over artificial intelligence (AI) capital spending and surging crude oil prices",
+      "url": "https://www.europesays.com/3314118/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792185139.jpeg",
+      "publishedAt": "2026-10-16T21:12:16Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "US STOCKS-Wall Street ends down sharply, worries about AI trade and high oil prices weigh",
+      "description": "Read more about US STOCKS-Wall Street ends down sharply, worries about AI trade and high oil prices weigh on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3993880-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_12_06_3802569.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-16T20:32:58Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "US stocks: US market ends down sharply; worries about AI trade and high oil prices weigh",
+      "description": "Wall Street faced a sharp decline on Friday as AI-related technology stocks came under renewed pressure. Concerns regarding debt-laden AI infrastructure companies affected investor sentiment heading into the weekend. Additionally, a rise in oil prices fueled market fears about economic stability and rising borrowing costs. The S&P 500, Dow Jones, and Nasdaq all recorded substantial losses amid these uncertainties.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-us-market-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh/articleshow/135003266.cms",
+      "image": "https://img.etimg.com/thumb/msid-135003269,width-1200,height-900,imgsize-134964,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-16T20:08:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Rep. Frasco Gives P100K Fuel Aid to Drivers in Ronda, Cebu",
-      "description": "Cebu Rep. Duke Frasco provides P100,000 in personal fuel assistance to Ronda transport drivers amid rising gasoline prices.",
-      "url": "https://www.sunstar.com.ph/cebu/frasco-gives-p100k-in-fuel-aid-outside-his-district-amid-2028-buzz",
-      "image": "https://cf-images.assettype.com/sunstar%2F2025-10-22%2Fkbw6ly6e%2FDuke-Frasco.jpg?rect=0%2C0%2C750%2C394&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-10-16T12:11:57Z",
+      "title": "Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
+      "description": "Wall Street ended sharply lower on Friday, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, while a jump in oil prices spooked traders heading into the weekend.\n...",
+      "url": "https://www.marketscreener.com/news/wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh-ce785cdadf8bf621",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-08/2026-08-11T102532Z_1_LYNXMPEM7A0OR_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-10-16T20:01:50Z",
       "source": {
-        "name": "SunStar Philippines"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Trump says Zelenskyy harder to deal with than Putin, calls Ukraine\u2019s end to energy truce \u2018a disgrace\u2019",
-      "description": "Trump accused Ukraine of driving up global oil prices by resuming attacks on Russian energy facilities, as tensions between Kyiv and Washington deepen over the US-brokered energy truce",
-      "url": "https://www.firstpost.com/world/trump-says-zelenskyy-harder-to-deal-with-than-putin-calls-ukraines-end-to-energy-truce-a-disgrace-14053395.html",
-      "image": "https://images.firstpost.com/uploads/2026/09/Representational-image-2026-09-13T205408.280-2026-09-3c4190a133f6299e2df3fd036a69090f-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-16T12:11:00Z",
+      "title": "US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh",
+      "description": "Read more about US STOCKS-Wall Street ends down sharply; worries about AI trade and high oil prices weigh on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/3993874-us-stocks-wall-street-ends-down-sharply-worries-about-ai-trade-and-high-oil-prices-weigh",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/25_06_2019_19_11_59_5183121.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-16T20:01:01Z",
       "source": {
-        "name": "Firstpost"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "'C'mon man': 'Sweating too much' Trump walloped on MS NOW for pushing obvious lie",
-      "description": "Donald Trump was called out on Friday morning for once again claiming gas prices are lower than under President Joe Biden, with a comparison to a \u201csweaty\u201d Elvis Presley playing the greatest hits at the end of his career.On MS NOW, \u201cMorning Joe\u201d co-host Joe Scarborough shared a clip of Trump claiming...",
-      "url": "https://www.rawstory.com/c-mon-man-sweating-too-much-trump-walloped-on-ms-now-for-pushing-obvious-lie/",
-      "image": "https://www.rawstory.com/media-library/image.jpg?id=68445553&width=1200&height=600&coordinates=0%2C30%2C0%2C31",
-      "publishedAt": "2026-10-16T11:59:55Z",
+      "title": "Hormuz attacks likely double as vessels hide strikes from UKMTO",
+      "description": "UKMTO reports most struck vessels refuse to report incidents, hiding true attack volume. True number of attacks since October 1 estimated at 60-100 versus 30 confirmed. Tanker Mt St 3 with 15 Indian seafarers struck by projectile on October 16. Oil prices fell despite escalation, with WTI at $94.02 and Brent at $104.43. Polymarket odds for normal Hormuz traffic by year-end stand at just 15%.",
+      "url": "https://scanx.trade/stock-market-news/global/supertanker-2-5-million-barrel-capacity-fire-near-oman/52429362",
+      "image": "https://news-images.dhan.co/supertanker-2-5-million-barrel-capacity-fire-near-oman.jpg",
+      "publishedAt": "2026-10-16T19:25:19Z",
       "source": {
-        "name": "Raw Story"
-      }
-    },
-    {
-      "title": "Govt cuts windfall tax on diesel, hikes levy on petrol exports",
-      "description": "Duty on ATF exports remains unchanged, effective October 16",
-      "url": "https://www.financialexpress.com/policy/economy/govt-cuts-windfall-tax-on-diesel-hikes-levy-on-petrol-exports/4363099/",
-      "image": "https://images.financialexpressdigital.com/2026/10/Fuel-Reuters-1_20251226163452_20260523130449_20260531131432_20260616114256_20260702164612_20260721141139_20260802125359_20261016114931.jpg",
-      "publishedAt": "2026-10-16T11:50:21Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Drug-related intimidation: \u2018When people lose their house or get shot in the leg, then they report it\u2019",
-      "description": "Drug-related intimidation in Ireland, often with petrol bombings, as in the fatal arson attack on a family in Waterford this week, is getting worse",
-      "url": "https://www.irishtimes.com/crime-law/2026/10/17/when-people-lose-their-house-their-car-get-shot-in-the-leg-then-they-report-it/",
-      "image": "https://www.irishtimes.com/resizer/v2/HEFDHBH3SIL5BGHULVNOVZNNFM.JPG?smart=true&auth=490ec1ffb5c7c9f4bf6080aa6c7e5467bd1ef172cc932eecdd847364de8255d3&width=1200&height=630",
-      "publishedAt": "2026-10-16T11:45:00Z",
-      "source": {
-        "name": "The Irish Times"
-      }
-    },
-    {
-      "title": "2026 Audi Q3 India Launch: Expected price, 204hp engine, mileage and features",
-      "description": "The new Audi Q3 is set to launch in India on October 16, with an expected ex-showroom price of \u20b955 lakh to \u20b960 lakh. The luxury SUV gets a 2.0-litre turbo-petrol engine producing up to 204hp, a seven-speed automatic gearbox and Quattro all-wheel drive.",
-      "url": "https://www.livemint.com/auto-news/2026-audi-q3-india-launch-expected-price-204hp-engine-mileage-and-features-11792147576569.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/16/1600x900/logo/audi_1792147876144_0sgQ_1792147901670_19fB_ebd74bd6-6098-4d64-a6b0-69455c57af7f_Osxj.webp",
-      "publishedAt": "2026-10-16T11:34:47Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "MINI Cooper Oxford Edition launched in India at Rs 55.5 lakh: Check features, specifications, colours and availability",
-      "description": "MINI Cooper Oxford Edition specifications: MINI has launched the Cooper Oxford Edition in India at Rs 55.50 lakh (ex-showroom) on Friday, October 16, celebrating 25 years of modern MINI production at Plant Oxford in the UK. Available in limited quantities, the special edition features Union Jack-inspired styling, two exterior colour options, JCW sport seats, a 240mm circular OLED touchscreen and a 204 hp petrol engine. Bookings are open at authorised MINI India dealerships, with deliveries commencing immediately.",
-      "url": "https://economictimes.indiatimes.com/industry/auto/cars-uvs/mini-cooper-oxford-edition-launched-in-india-at-rs-55-50-lakh-check-features-specifications-colours-and-availability/articleshow/134992680.cms",
-      "image": "https://img.etimg.com/thumb/msid-134992792,width-1200,height-900,imgsize-169936,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-16T11:18:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Wall Street tumbles as worries about AI trade and high oil prices weigh",
-      "description": "Wall Street tumbled on Friday, with CoreWeave, Broadcom and other AI-related technology stocks under renewed pressure, \u200bwhile a jump in oil prices spooked traders heading into the weekend.",
-      "url": "https://www.reuters.com/business/wall-st-futures-mixed-tech-wobbles-again-tesla-gains-2026-10-16/",
-      "image": "https://www.reuters.com/resizer/v2/JE7IP25MXJLTTNVQLOR6RCSKUI.jpg?auth=646f641632f3b50ccaff99a1b87771df3c8c36af4e89412b7f80d8c7491035b5&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-10-16T11:01:57Z",
-      "source": {
-        "name": "Reuters"
+        "name": "scanx.trade"
       }
     }
   ]
