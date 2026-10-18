@@ -1,9 +1,89 @@
 {
-  "updated_at": "2026-10-18T10:05:12+00:00",
+  "updated_at": "2026-10-18T15:05:05+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "JD Vance claims US has destroyed Iran's nuclear program at town hall",
+      "description": "JD Vance faced Michigan voters at a town hall, addressing gas prices, Iran's nuclear program, H-1B visa policy and antisemitism ahead of the Michigan Senate race.",
+      "url": "https://www.foxnews.com/politics/top-takeaways-from-jd-vance-town-hall-costly-gas-dc-corruption-immigration-hot-takes-war",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/jd-vance-fox-news-interview.jpg",
+      "publishedAt": "2026-10-18T02:32:15Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
+    {
+      "title": "Petrol, diesel prices today (October 18): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "The jump in crude oil prices came after Iran escalated attacks in the Strait of Hormuz, severely disrupting commercial shipping and petroleum transit through the strategically vital waterway.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-18-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-562276-2026-10-18",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad4251fcba6f-traders-and-local-business-owners-have-voiced-immediate-concern-over-the-early-closing-hours--warnin-182207435-16x9.jpg",
+      "publishedAt": "2026-10-18T02:28:29Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "LPG, CNG, PNG prices today (October 18): Check latest rates in Delhi, Mumbai, Kolkata, other cities",
+      "description": "CNG and piped natural gas (PNG) prices also remain an important consideration for households, commuters and businesses, with rates varying across cities depending on local taxes, input gas prices, transportation costs and distribution charges.",
+      "url": "https://www.businesstoday.in/india/story/lpg-cng-png-prices-today-october-18-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-562277-2026-10-18",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad425fb474c2-the-government-has-also-approved-an-incentive-scheme-for-city-gas-distributors-to-increase-domestic-235656150-16x9.jpg",
+      "publishedAt": "2026-10-18T02:26:20Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Trump predicts quick end to Iran war, lower US gas prices",
+      "description": "Donald Trump predicts a quick end to the Iran war and lower US gas prices, while Tehran calls for an end to hostilities across the region.",
+      "url": "https://www.thehindubusinessline.com/news/world/trump-says-iran-war-will-end-very-quickly-predicts-lower-us-gas-prices/article71598997.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/gtfmfl/article71598998.ece/alternates/LANDSCAPE_1200/2026-10-17T212606Z_264142626_RC275OAU4746_RTRMADP_3_USA-TRUMP-KENTUCKY.JPG",
+      "publishedAt": "2026-10-18T02:16:57Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Trump asserts Iran war will end 'very quickly,' touts military strikes on Tehran's nuclear sites",
+      "description": "During a rally in Kentucky, Donald Trump stated that the ongoing conflict with Iran would conclude quickly. He claimed that falling gas prices would follow the end of hostilities. Trump's earlier military actions against Iran were described as necessary to prevent nuclear armament. Meanwhile, Iran's Deputy Foreign Minister emphasized the importance of ceasefire to achieve regional peace.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trump-asserts-iran-war-will-end-very-quickly-touts-military-strikes-on-tehrans-nuclear-sites/articleshow/135022688.cms",
+      "image": "https://img.etimg.com/thumb/msid-135022687,width-1200,height-900,imgsize-84612,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-18T01:19:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Could the Rupee Fall to \u20b9100? Insights on India's Currency Crisis, ETBFSI",
+      "description": "Elevated oil prices and foreign portfolio outflows of over $20 billion have intensified pressure on the Indian currency.",
+      "url": "https://www.europesays.com/3316563/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792283603.jpeg",
+      "publishedAt": "2026-10-18T00:33:20Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Markets Next Week: Jio Platforms IPO, high crude oil prices and Q2 earnings in focus",
+      "description": "Nifty logs a second straight weekly gain after an eight-week losing streak, led by IT stocks and DII buying, while elevated crude oil prices and persistent FII selling remain key concerns.",
+      "url": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-jio-platforms-ipo-high-crude-oil-prices-and-q2-earnings-in-focus-562260-2026-10-18",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad36ce1a0f2c-the-coming-week-will-be-crucial-in-determining-whether-the-market-recovery-can-sustain-its-momentum-174104329-16x9.jpg",
+      "publishedAt": "2026-10-18T00:30:07Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Oil Prices Stay High as War Keeps Supply Tight Into 2027",
+      "description": "Oil prices are expected to remain elevated well into 2027, with Brent futures reflecting persistent supply risks from the prolonged Iran war.",
+      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Prices-Stay-High-as-War-Keeps-Supply-Tight-Into-2027.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-16_2lw6yw3rjs.jpg",
+      "publishedAt": "2026-10-17T23:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
     {
       "title": "UK should scrap \u2018stupid\u2019 ban on petrol cars to close EU trade deal, says Renault boss",
       "description": "The UK government has pledged to ban the sale of new petrol and diesel cars by 2030",
@@ -22,86 +102,6 @@
       "publishedAt": "2026-10-17T20:45:00Z",
       "source": {
         "name": "SlashGear"
-      }
-    },
-    {
-      "title": "How 'splintered' Dublin drugs gang's territory war after Itseli hit is causing mayhem with 'cowboy' petrol bomb violence",
-      "description": "THE members of a south Dublin drugs gang \u2014 once united in a bitter feud with young criminal Josh Itseli \u2014 are now sworn enemies.\nAlmost...",
-      "url": "https://www.thesun.ie/news/17749205/splintered-dublin-drugs-gang-feud-josh-itseli-petrolbombs/",
-      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/10/newspress-collage-y0ugevnid-1791744619727.jpg?quality=90&strip=all&1791748234&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-10-17T19:30:00Z",
-      "source": {
-        "name": "The Irish Sun"
-      }
-    },
-    {
-      "title": "First FIR registered against Rapido for unauthorised bike taxi operations",
-      "description": "Pune police filed first FIR against Rapido for allegedly running unauthorised petrol bike taxis without permits, defying RTA stop order; probe, seizures planned.",
-      "url": "https://timesofindia.indiatimes.com/city/pune/first-fir-registered-against-rapido-for-unauthorised-bike-taxi-operations/articleshow/135019915.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135018436,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-17T19:27:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Crude Check: Bulls gain strength",
-      "description": "Oil prices rally: MCX crude futures show bullish momentum with key resistance near \u20b910,200\u2013\u20b910,500, potential breakout to \u20b9115/\u20b9120 for Brent.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-bulls-gain-strength/article71596186.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/ml6ro8/article71596273.ece/alternates/LANDSCAPE_1200/PO05_Crudeoil_bull.jpg",
-      "publishedAt": "2026-10-17T16:05:07Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
-      "description": "US President Donald Trump's decision to waive additional tariffs of 100 per cent on major buyers of Russian oil has provided immediate relief to India, reducing the risk of fresh trade penalties and offering Indian refiners greater flexibility in crude purchases. However, experts warned that the benefits remain uncertain and will depend on global oil prices, supply conditions and future US trade policy.",
-      "url": "https://www.devdiscourse.com/article/business/3994219-trumps-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/17_10_2026_21_22_41_7324718.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-17T15:52:48Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
-      "description": "US President Donald Trump's decision to waive additional tariffs of 100 per cent on major buyers of Russian oil has provided immediate relief to India, reducing the risk of fresh trade penalties and offering Indian refiners greater flexibility in crude purchases. However, experts warned that the benefits remain uncertain and will depend on global oil prices, supply conditions and future US trade policy.",
-      "url": "https://www.tribuneindia.com/news/business/trumps-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTk1YjFiNjIwLWNhNDItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-17T15:51:08Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Trump's Russian oil tariff waiver offers India relief, but experts warn of renewed US pressure",
-      "description": "US President Donald Trump's decision to waive additional tariffs of 100 per cent on major buyers of Russian oil has provided immediate relief to India, reducing the risk of fresh trade penalties and offering Indian refiners greater flexibility in crude purchases. However, experts warned that the benefits remain uncertain and will depend on global oil prices, supply conditions and future US trade policy.",
-      "url": "https://www.aninews.in/news/business/trumps-russian-oil-tariff-waiver-offers-india-relief-but-experts-warn-of-renewed-us-pressure20261017211750/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261017153012-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-17T15:47:50Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Zelensky Isn't the Reason Oil Prices Are Elevated, It's the Middle East",
-      "description": "On Friday's broadcast of the Fox Business Network's \"Kudlow,\" host Larry Kudlow said that oil prices have risen due to issues in the Middle East, not due | Clips",
-      "url": "https://www.breitbart.com/clips/2026/10/17/kudlow-zelensky-isnt-the-reason-oil-prices-are-elevated-its-the-middle-east/",
-      "image": "https://media.breitbart.com/media/2026/10/Kudlow-1016-Thumbnail-640x335.jpg",
-      "publishedAt": "2026-10-17T15:32:42Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "Zelensky Isn't the Reason Oil Prices Are Elevated, It's the Middle East",
-      "description": "On Friday's broadcast of the Fox Business Network's \"Kudlow,\" host Larry Kudlow said that oil prices have risen due to issues in the Middle East, not due | Clips",
-      "url": "https://www.breitbart.com/politics/2026/10/17/kudlow-zelensky-isnt-the-reason-oil-prices-are-elevated-its-the-middle-east/",
-      "image": "https://media.breitbart.com/media/2026/10/Kudlow-1016-Thumbnail-640x335.jpg",
-      "publishedAt": "2026-10-17T15:32:42Z",
-      "source": {
-        "name": "Breitbart News Network"
       }
     }
   ]
