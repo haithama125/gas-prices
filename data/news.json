@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-19T02:23:26+00:00",
+  "updated_at": "2026-10-19T11:33:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why Brent crude could hit $120 amid Iran war? What it means for India as analysts warn oil prices to remain volatile",
-      "description": "Crude oil prices are expected to remain volatile amid stalled US-Iran talks, Hormuz risks and rising tensions in West Asia. Analysts warn Brent crude could hit $120 per barrel if supply disruptions worsen. For India, higher oil prices could raise import costs, fuel prices and inflation.",
-      "url": "https://www.livemint.com/news/india/why-brent-crude-could-hit-120-amid-iran-war-what-it-means-for-india-as-analysts-warn-oil-prices-to-remain-volatile-11792328648362.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/crude_oi_1792330002717_3kOz_1792330002981_suAW_9a07c83d-2170-46a5-806d-f125d922a709_0Iz7.png",
-      "publishedAt": "2026-10-18T14:10:20Z",
+      "title": "India pays nearly $29 billion more for almost same crude volumes in H1",
+      "description": "India spent $90.6 billion on crude oil imports in H1 FY27\u2014up $29 billion year-on-year\u2014as elevated global oil prices drove up the energy bill despite flat import volumes.",
+      "url": "https://www.financialexpress.com/policy/economy/india-pays-nearly-29-billion-more-for-almost-same-crude-volumes-in-h1/4364400/",
+      "image": "https://images.financialexpressdigital.com/2026/10/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260729155540_20260819194920_20260903193207_20261014050312_20261018191152.jpg",
+      "publishedAt": "2026-10-18T19:15:45Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Bus crashes into dhaba on Dhar Road, driver seriously injured",
+      "description": "Bus from Dhar to Indore crashes into Sher-e-Punjab dhaba on Dhar Road near a petrol pump; driver seriously injured, passengers minor injuries; probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/indore/bus-crashes-into-dhaba-on-dhar-road-driver-seriously-injured/articleshow/135033750.cms",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-10-18T18:09:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "How Hyundai Bayon will bridge the Venue-Creta gap",
+      "description": "Hyundai India opens bookings for the Bayon SUV, positioning it between the Venue and Creta with advanced AI tech, dual 12.3-inch screens, and a 1.5-litre petrol engine.",
+      "url": "https://www.financialexpress.com/auto/car-news/how-hyundai-bayon-will-bridge-the-venue-creta-gap/4364348/",
+      "image": "https://images.financialexpressdigital.com/2026/10/venuee.jpg",
+      "publishedAt": "2026-10-18T17:28:53Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "Trump dominated rural America. Iowa is testing whether Democrats can win them back",
+      "description": "With tariffs disrupting the agricultural economy and the war in Iran driving up gas prices \u2014 diesel surpasses $6 a gallon in Iowa \u2014 U.S. House Speaker Mike Johnson, R-La., swung through Iowa to ask voters to keep his fragile majority in place. \u201cThis state is so important to us,\u201d Johnson said in Cedar Falls.",
+      "url": "https://www.ocregister.com/2026/10/18/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Election_2_28_Rural_Voters_67_91-1-1.jpg?w=3821&h=2547",
+      "publishedAt": "2026-10-18T17:17:09Z",
+      "source": {
+        "name": "Santa Ana Orange County Register"
+      }
+    },
+    {
+      "title": "Woman crashes car into Farmfoods in UK city as emergency crews swarm",
+      "description": "Firefighters attended after fluid believed to be petrol was seen leaking from the car.",
+      "url": "https://www.express.co.uk/news/uk/2258287/Woman-crashes-car-into-Farmfoods-in-UK-city-as-emergency-crews-swarm-scene",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/1/1200x630/7192861.jpg",
+      "publishedAt": "2026-10-18T17:16:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Dalal Street Week Ahead: Jio IPO, Q2 earnings, China GDP, oil prices, PMI flash numbers among 10 key factors to watch",
+      "description": "Going forward, in the truncated trading week beginning October 19, the market is expected to witness a gradual recovery accompanied by consolidation. Investors will focus on the Q2FY27, the Jio Platforms IPO, China's GDP data, crude oil prices, and flash PMI data.",
+      "url": "https://www.moneycontrol.com/news/business/markets/dalal-street-week-ahead-jio-ipo-q2-earnings-china-gdp-oil-prices-pmi-flash-numbers-among-10-key-factors-to-watch-14054878.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260821070454_stock-market-call.jpg",
+      "publishedAt": "2026-10-18T17:10:55Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Policy action, GCash to steer stock market",
+      "description": "THE Philippine stock market is expected to take cues from the Bangko Sentral ng Pilipinas\u2019 (BSP) policy decision and the stock market debut of GCash operator Mynt Inc. this week, with investors weighing inflation risks, a weakening peso and elevated oil prices.",
+      "url": "https://www.manilatimes.net/2026/10/19/business/top-business/policy-action-gcash-to-steer-stock-market/2448184",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/18/1265061.jpg",
+      "publishedAt": "2026-10-18T16:14:00Z",
+      "source": {
+        "name": "The Manila Times"
+      }
+    },
+    {
+      "title": "India\u2019s crude import bill surges 46% in Sept as oil prices soar",
+      "description": "NEW DELHI: India\u2019s crude import bill surged 46% year-on-year in Sept, while import volumes rose only 7%, as oil prices remained elevated amid concerns",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/indias-crude-import-bill-surges-46-in-sept-as-oil-prices-soar/articleshow/135031383.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135031466,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-18T16:08:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "OMCs exclude sugarcane-based ethanol from FY27 tender, cut maize incentive",
+      "description": "Bharat Petroleum Corporation invites bids for 11 billion litres to meet 20% petrol blending target",
+      "url": "https://www.livemint.com/industry/omcs-exclude-sugarcane-based-ethanol-from-fy27-tender-cut-maize-incentive-11792326945637.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/18/1600x900/logo/maize_1792328768697_yoKW_1792328792855_QvLc_db676c50-a588-4f30-8e60-0a17564977b2_kqxB.png",
+      "publishedAt": "2026-10-18T16:03:00Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
-      "description": "Gulf markets ended mixed on Sunday as geopolitical tensions weighed. Saudi Arabia was lifted by higher oil prices, while Qatar fell to a six-year low and Egypt slipped as it was drawn further into the...",
-      "url": "https://www.marketscreener.com/news/oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions-ce785cdad18af32d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-18T135100Z_1_LYNXMPEM9H09U_RTROPTP_4_IRAN-CRISIS-SAUDI-YEMEN-EGYPT.JPG",
-      "publishedAt": "2026-10-18T13:52:19Z",
+      "title": "The startup that added a petrol generator to Tesla cars is bankrupt: Report",
+      "description": "Austrian engineering firm Obrist has filed for bankruptcy, halting its unconventional Tesla range-extender technology after years of development.",
+      "url": "https://www.cnbctv18.com/auto/the-startup-that-added-a-petrol-generator-to-tesla-cars-is-bankrupt-report-20014499.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/tesla-pune-2026-07-e86650282a3b04afb9d9121146a28a41.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-18T15:04:55Z",
       "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Mideast stocks - Oil lifts Saudi bourse; Egypt tumbles on regional tensions",
-      "description": "Gulf markets ended mixed on Sunday as geopolitical tensions weighed. Saudi Arabia was lifted by higher oil prices, while Qatar fell to a six-year low and Egypt slipped as it was drawn further into the...",
-      "url": "https://www.marketscreener.com/news/mideast-stocks-oil-lifts-saudi-bourse-egypt-tumbles-on-regional-tensions-ce785cdad18af32c",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-10-18T13:47:20Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Hyundai Bayon: Features, Launch Date, Interior & Engine Options",
-      "description": "Hyundai's upcoming SUV will bring conversational AI, over the air software updates and a 115 PS petrol engine to its India lineup. Prices, variants and fuel efficiency figures are yet to be announced.",
-      "url": "https://www.ndtvprofit.com/business/hyundai-bayon-features-launch-date-interior-engine-options-12198129",
-      "image": "https://www.hyundai.com/content/dam/hyundai/in/en/data/find-a-car/bayon/highlights/bay-ext-inner-pc.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-18T13:46:36Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "Five Arrested as Guardia Civil Dismantles C\u00e1diz Narco-Boat Supply Base",
-      "description": "Five Arrested as Guardia Civil Dismantles C\u00e1diz Narco-Boat Supply Base - More than 10,000 litres of petrol intended for high-speed drug-smuggling boats have been seized during an investigation in Conil de la Frontera The - The Leader - The No. 1 Spanish Newspaper",
-      "url": "https://theleader.info/2026/10/18/five-arrested-as-guardia-civil-dismantles-cadiz-narco-boat-supply-base/",
-      "image": "https://j6n3r3q2.delivery.rocketcdn.me/wp-content/uploads/2026/10/download-3-3.jpg",
-      "publishedAt": "2026-10-18T13:17:45Z",
-      "source": {
-        "name": "The Leader Newspaper"
-      }
-    },
-    {
-      "title": "Petrol and diesel drivers paying \u00a3330 more for work travel as Labour urged to slash fuel duty",
-      "description": "Petrol and diesel drivers paying \u00a3330 more for work travel as Labour urged to slash fuel duty . The AA has reiterated its calls for the Government to cut the rate of fuel duty as new data shows workers are paying hundreds of pounds more every year to fill up",
-      "url": "https://www.gbnews.com/lifestyle/cars/petrol-diesel-work-travel-labour-fuel-duty",
-      "image": "https://www.gbnews.com/media-library/petrol-station-and-a-diesel-pump.jpg?id=68036303&width=1200&height=600&coordinates=0%2C100%2C0%2C100",
-      "publishedAt": "2026-10-18T13:00:03Z",
-      "source": {
-        "name": "GB News"
-      }
-    },
-    {
-      "title": "Top analysts are bullish on the growth potential of these 3 stocks",
-      "description": "Amid fear of rate hikes and oil prices, investors can look past volatility and track Street analysts' stock picks with strong long-term growth potential.",
-      "url": "https://www.cnbc.com/2026/10/18/top-analysts-are-bullish-on-the-growth-potential-of-these-3-stocks.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/107389628-17108719542022-11-09t164207z_798327205_rc2eix9j5b73_rtrmadp_0_meta-layoffs.jpeg?v=1737658509&w=1920&h=1080",
-      "publishedAt": "2026-10-18T12:34:51Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "OMCs Bar Ethanol Made From Sugarcane Juice, Sugar Syrup, B-heavy Molasses From Procurement Tenders",
-      "description": "Bharat Petroleum Corporation Ltd (BPCL) on behalf of OMCs last week floated a tender, seeking bids for around 11 billion litres of ethanol for the supply year beginning November to meet the requirement of doping 20 per cent ethanol in petrol. It also cuts the incentive for maize-based ethanol, lowering the procurement price to Rs 68.86 per litre from Rs 71.86",
-      "url": "https://www.deccanchronicle.com/business/omcs-bar-ethanol-made-from-sugarcane-juice-sugar-syrup-b-heavy-molasses-from-procurement-tenders-1996934",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/10/18/2102205-omc.jpg",
-      "publishedAt": "2026-10-18T12:31:54Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Trump dominated rural America. Iowa is testing whether Democrats can win them back",
-      "description": "Dave Roethler is a former Donald Trump supporter in Iowa who feels disillusioned about the economy and believes middle-class families are suffering while the president benefits. It's a sentiment echoed by others in rural Iowa, where Democrats are trying to gain ground this election year. Economic concerns such as tariffs and rising gas prices may give Democrats an opening in November\u2019s midterms. But rural voters remain skeptical of large-scale support for Democrats. Democratic Senate candidate Josh Turek is emphasizing the need to engage those voters, and his party is focusing on rural investments. Other Democrats in the state are reaching out to these communities, too.",
-      "url": "https://www.ajc.com/news/2026/10/trump-dominated-rural-america-iowa-is-testing-whether-democrats-can-win-them-back/",
-      "image": "https://images.ajc.com/resizer/v2/BZONDJJHFNC7RMT4PCRZTINENQ.jpg?auth=2c693a264225db1ec953e32f352e71caaf4b3d16d756dd9e3a53bb1d65f187c6&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-18T12:12:50Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "27 tender, cuts maize incentive",
-      "description": "NEW DELHI, Oct 18: \u00a0State-run oil marketing companies have barred ethanol made from sugarcane juice, sugar syrup and B-heavy molasses from their latest procurement tender for the 2026-27 supply year for blending in petrol, as the government seeks to protect...",
-      "url": "https://www.dailyexcelsior.com/india-bars-sugar-based-ethanol-in-2026-27-tender-cuts-maize-incentive-2/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTYxMTU3ZWMwLWNhZWItMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-18T11:59:30Z",
-      "source": {
-        "name": "Daily Excelsior"
+        "name": "CNBC TV18"
       }
     }
   ]
