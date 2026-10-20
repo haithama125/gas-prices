@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-20T16:01:04+00:00",
+  "updated_at": "2026-10-20T20:59:32+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "'Foolish' drink driver caught near Merry Hill was spotted swigging from bottle at Asda petrol station",
-      "description": "The 25-year-old was seen 'speeding' and 'swerving around vehicles' in a Ford Focus",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/foolish-drink-driver-caught-near-34720278",
-      "image": "https://i2-prod.birminghammail.co.uk/article34724400.ece/ALTERNATES/s1200d/0_KA_BEM_061026_brierleyhill.png",
-      "publishedAt": "2026-10-20T04:01:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "How people in their 20s and 30s could be affected by the Budget",
-      "description": "With high mortgage costs, rising energy bills, and petrol prices through the roof, we spoke to the experts to see what measures might affect youngsters most on 28 October",
-      "url": "https://inews.co.uk/inews-lifestyle/money/people-20s-30s-affected-budget-4828986",
-      "image": "https://inews.co.uk/wp-content/uploads/2026/10/SEI_316221162.jpg?crop=0px,99px,1920px,1085px&resize=1200,675",
-      "publishedAt": "2026-10-20T04:00:00Z",
-      "source": {
-        "name": "The i Paper"
-      }
-    },
-    {
-      "title": "Brent crude holds near five-month high on Middle East tension",
-      "description": "Oil prices advanced on Tuesday, with Brent hovering around a five-month high as traders priced in a geopolitical risk premium from Houthi attacks on Saudi infrastructure and reports of vessel attacks...",
-      "url": "https://www.marketscreener.com/news/brent-crude-holds-near-five-month-high-on-middle-east-tension-ce785cdbde8cf722",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-07T170331Z_1_LYNXNPEL960RP_RTROPTP_4_USA-OIL-OUTLOOK.JPG",
-      "publishedAt": "2026-10-20T03:48:19Z",
+      "title": "AI Selloff Returns, Oil Tops $110 a Barrel",
+      "description": "By Joe Stonor\nA recovery in artificial intelligence stocks faltered while oil prices ticked back above $110 a barrel, as investors once again pulled back from risk.\nNasdaq futures fell 0.3%...",
+      "url": "https://www.marketscreener.com/news/ai-selloff-returns-oil-tops-110-a-barrel-ce785cdbd08cff21",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-20T08:50:26Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Sensex, Nifty closed today for Dussehra, trading to resume on Wednesday",
-      "description": "The market holiday comes a day after benchmark indices registered sharp losses amid selling pressure in private bank stocks and rising crude oil prices. | Business News",
-      "url": "https://www.hindustantimes.com/business/sensex-nifty-closed-today-for-dussehra-trading-to-resume-on-wednesday-101792467765679.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/20/1600x900/logo/sensex_nifty_1792467872926_uUCb_1792467873052_fKm9_1123f364-5709-4b3c-837a-c7fdc36cb8df_07US.JPG",
-      "publishedAt": "2026-10-20T03:45:50Z",
+      "title": "When Does Switching to an EV Make Financial Sense?",
+      "description": "Gurugram (Haryana) [India], October 20: As EVs become more competitive in India, the maths of switching from petrol to electric is getting easier to calculate. For buyers considering models such as the VinFast VF 6 and VF 7, ownership incentives, free charging and ICE-to-EV switching support can help bring the breakeven point forward.",
+      "url": "https://www.aninews.in/news/business/when-does-switching-to-an-ev-make-financial-sense20261020134129/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261020081120-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-20T08:11:29Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Oil Prices Touch $110 As Middle East Tensions Keep Supply Concerns Alive",
-      "description": "Iran-backed Houthi militants claimed attacks on Saudi Arabia and Ukraine struck oil facilities in Russia., Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/oil-prices-touch-110-as-middle-east-tensions-keep-supply-concerns-alive-article-156370645",
-      "image": "https://images.timesnownews.com/thumb/msid-156370641,thumbsize-34106,width-1280,height-720,resizemode-75/156370641.jpg",
-      "publishedAt": "2026-10-20T03:43:22Z",
+      "title": "Oil prices top $110 as traders weigh Middle East risks",
+      "description": "The price of Brent crude remained at a five-month high as uncertainty over when energy supplies will return to normal amid the war with Iran keeps oil inflated.",
+      "url": "https://www.euronews.com/2026/10/20/oil-prices-top-110-as-traders-weigh-middle-east-risks",
+      "image": "https://images.euronews.com/articles/stories/09/95/95/03/1200x675_cmsv2_8be8657f-81a6-53c9-aa59-06c986201dfa-9959503.jpg",
+      "publishedAt": "2026-10-20T08:02:59Z",
       "source": {
-        "name": "Times Now"
+        "name": "Euronews"
       }
     },
     {
-      "title": "Donald Trump approval hits record low of 31% as midterms near, Democrats lead by 12 points",
-      "description": "US President Donald Trump\u2019s approval rating has fallen to a record low of 31%, with rising gasoline prices and concerns over the economy weighing on",
-      "url": "https://timesofindia.indiatimes.com/world/us/donald-trump-approval-hits-record-low-of-31-as-midterms-near-democrats-lead-by-12-points/articleshow/135060566.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135060609,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-20T03:29:00Z",
+      "title": "Trump\u2019s plan to revive sanctioned tankers may do little to ease oil prices",
+      "description": "The US plan to return sanctioned tankers to mainstream trade may have limited impact on oil supply, with lucrative freight rates, ageing vessels and complex compliance requirements discouraging shipowners from selling.",
+      "url": "https://www.moneycontrol.com/world/trump-s-plan-to-revive-sanctioned-tankers-may-do-little-to-ease-oil-prices-article-14055942.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261007163728_470219178.jpg",
+      "publishedAt": "2026-10-20T07:50:46Z",
       "source": {
-        "name": "Times of India"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "description": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices stayed high. Benchmarks fell in early Tuesday trading in Japan, Australia and South Korea. Shares also fell in Hong Kong but were little changed in Shanghai. The S&P 500 rose 0.4%, coming off its worst week since June, and the Nasdaq composite rallied 1.1%. The majority of U.S. stocks outside of AI and tech fell, though, and the Dow Jones Industrial Average finished with a 0.1% drop. Nvidia added 1.4%, one of the strongest forces lifting the S&P 500.",
-      "url": "https://www.ajc.com/news/2026/10/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
-      "image": "https://images.ajc.com/resizer/v2/MLMWMP7A3JFQJFRC65RBHZPCSI.jpg?auth=4c173842e3bfb4aec4dd0ea3e25b0493364b7ab298390e3692860f87bc7bc3d1&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-20T03:22:49Z",
+      "title": "India outlook: Crude at $90 a barrel, rupee at 96/dollar; trade deficit to stay elevated",
+      "description": "Crude oil prices near $108.96 per barrel are pressuring India's import bill and trade deficit, with expectations of elevated petroleum imports and rupee depreciation amid global economic factors.",
+      "url": "https://www.financialexpress.com/policy/economy/india-outlook-crude-at-90-a-barrel-rupee-at-96-per-dollar-trade-deficit-to-stay-elevated/4365316/",
+      "image": "https://images.financialexpressdigital.com/2026/10/IndiaEconomy.jpg",
+      "publishedAt": "2026-10-20T07:30:36Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "US stocks rise after oil prices retreat and companies deliver strong profits",
-      "description": "The U.S. stock market is rising following reports showing strong profits for Equifax, Hasbro and other companies, while oil prices eased back after nearing their highest levels since the war with Iran began. The S&P 500 climbed 0.6% Tuesday. The Dow Jones Industrial Average added 667 points, while more swings for the artificial-intelligence industry had the Nasdaq composite up a more modest 0.5%. After nearing $112 in the morning, the price for a barrel of Brent crude oil fell back below $107. That helped the broad U.S. stock market erase early-morning losses. So did a swing for several AI stocks from drops to gains.",
-      "url": "https://www.ajc.com/news/2026/10/most-of-wall-street-rises-as-ai-stocks-keep-swinging/",
-      "image": "https://images.ajc.com/resizer/v2/ZZLAUKGFUZBP3HX7LIMO2UTFFI.jpg?auth=9d08d671ef53750ad3daca3546500f29fd4afbda62523cbdffd41116fdf5eb9b&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-20T03:22:49Z",
+      "title": "Trump\u2019s approval rating hits record-low 31% - Are Democrats leading?",
+      "description": "US President Donald Trump\u2019s approval rating drops to 31% amid rising petrol prices and economic concerns, as Democrats build a 12-point lead over Republicans ahead of the 2022 midterm elections.",
+      "url": "https://www.financialexpress.com/world-news/us-news/trumps-approval-rating-hits-record-low-31-are-democrats-leading/4365298/",
+      "image": "https://images.financialexpressdigital.com/2026/10/trump-eu-starlink.jpg",
+      "publishedAt": "2026-10-20T07:26:36Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "US futures dip as AI sell-off returns and oil prices rise sharply",
-      "description": "U.S. futures are mostly lower as artificial-intelligence-related stocks are under pressure again and oil prices rise while fighting continues in the Middle East. Futures for the S&P 500 fell 0.1% on Tuesday, while those for the Nasdaq declined 0.5%. Futures for the Dow Jones Industrial Average gained 0.2%. Shares of South Korea\u2019s AI company Elice Group tumbled 30% in their first day of trading as investors remain wary following a recent tech selloff. Elice\u2019s slump pulled down others in the sector, including CoreWeave, whose stock slipped 4.5% before the market open.",
-      "url": "https://www.ajc.com/news/2026/10/global-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
-      "image": "https://images.ajc.com/resizer/v2/OAYWRTEU3VHPVDL6IQNDHV5N3M.jpg?auth=22a63518159bc733e91fa78f8db1aecff39d51dbeff1ee8556ed7927530ff1ca&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-20T03:22:49Z",
+      "title": "Oil and debt tensions hold back an IBEX awaiting corporate results",
+      "description": "The IBEX 35 opened little changed on Tuesday, as rising oil prices and geopolitical risks urged caution, with investors awaiting results from major AI companies and unease still lingering in the...",
+      "url": "https://www.marketscreener.com/news/oil-and-debt-tensions-hold-back-an-ibex-awaiting-corporate-results-ce785cdbd180f625",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-06T071408Z_1_LYNXMPEM950HM_RTROPTP_4_SPAIN-ECONOMY.JPG",
+      "publishedAt": "2026-10-20T07:20:13Z",
       "source": {
-        "name": "The Atlanta Journal-Constitution"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Asian shares mostly decline after AI stocks lead a rebound on Wall Street",
-      "description": "Asian shares are mostly lower after stocks artificial-intelligence-related stocks bounced back on Wall Street while other sectors continued to be shaky and oil prices stayed high.",
-      "url": "https://www.clickondetroit.com/business/2026/10/20/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/MM5RZTY2OJHZHA24H5A2MUS24A.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-10-20T03:20:02Z",
+      "title": "Gold eases as elevated oil prices keep inflation risks in focus",
+      "description": "Gold eased on Tuesday as firmer oil prices heightened inflation concerns, while investors awaited next week's Federal Reserve policy meeting for signals on the US interest rate outlook.\n...",
+      "url": "https://www.marketscreener.com/news/gold-eases-as-elevated-oil-prices-keep-inflation-risks-in-focus-ce785cdbd18cf020",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-06T103836Z_1_LYNXMPELA50II_RTROPTP_4_MERCADOS-METALES-PRECIOSOS.JPG",
+      "publishedAt": "2026-10-20T06:42:09Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Mother, 46, who helped arrange gangland feud hit is jailed for six years",
+      "description": "A mother who helped to commission a murder in a gangland feud by buying petrol to destroy the getaway car has been jailed for six years and three months.",
+      "url": "https://extra.ie/2026/10/20/news/courts/gangland-feud-mother-jailed",
+      "image": "https://extra.ie/wp-content/uploads/2026/10/Ciara_Mahony_1.jpg",
+      "publishedAt": "2026-10-20T06:39:14Z",
+      "source": {
+        "name": "Extra.ie"
+      }
+    },
+    {
+      "title": "Brent crude holds near five-month high on Middle East tension",
+      "description": "Oil prices advanced, with Brent hovering around a five-month high as traders priced in a geopolitical risk premium from Houthi attacks on Saudi infrastructure.",
+      "url": "https://www.cnbc.com/2026/10/20/brent-crude-holds-near-five-month-high-middle-east-tension.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108421353-1792180540035-gettyimages-2300550126-_m0a2067_eredzuqs.jpeg?v=1792180665&w=1920&h=1080",
+      "publishedAt": "2026-10-20T06:20:02Z",
+      "source": {
+        "name": "CNBC"
       }
     }
   ]
