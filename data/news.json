@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-19T21:56:38+00:00",
+  "updated_at": "2026-10-20T02:36:33+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "How State Fuel Tax Cuts Are Affecting Pump Prices",
-      "description": "State fuel tax suspensions are helping lower gas prices nationwide, though Minnesota saw prices edge up to $4.25 per gallon.",
-      "url": "https://kdhlradio.com/ixp/67/p/gas-prices-rise-minnesota-week/",
-      "image": "https://townsquare.media/site/67/files/2026/05/attachment-gettyimages-72907293.jpg?w=1200&q=75&format=natural",
-      "publishedAt": "2026-10-19T09:52:47Z",
-      "source": {
-        "name": "kdhlradio.com"
-      }
-    },
-    {
-      "title": "Wall St futures climb as AI stocks rebound; oil, yields fall",
-      "description": "US stock index futures gained on Monday\u00a0as AI-related shares rebounded from last week's sharp selloff, with easing oil prices and Treasury yields adding to investor optimism.\nThe...",
-      "url": "https://www.marketscreener.com/news/wall-st-futures-climb-as-ai-stocks-rebound-oil-yields-fall-ce785cdbd889f325",
+      "title": "S&P 500, Nasdaq climb as AI-linked stocks recover ahead of earnings",
+      "description": "The benchmark S&P 500 and the Nasdaq Composite gained on Monday, as AI-related stocks rebounded from last week's sharp\u00a0selloff, with easing oil prices providing additional support ahead of key...",
+      "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-climb-as-ai-linked-stocks-recover-ahead-of-earnings-ce785cdbda8ff725",
       "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-07/2026-07-30T055528Z_1_LYNXMPEM6T0AQ_RTROPTP_4_USA-MARKETS-FED.JPG",
-      "publishedAt": "2026-10-19T09:43:29Z",
+      "publishedAt": "2026-10-19T14:32:29Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Serica Energy cuts production outlook as Triton restart delayed",
-      "description": "Serica Energy PLC on Monday lowered its annual production forecast after extending maintenance at its Triton facility in the North Sea, but maintained its cash flow guidance amid strong gas prices and...",
-      "url": "https://www.marketscreener.com/news/serica-energy-cuts-production-outlook-as-triton-restart-delayed-ce785cdbd980f422",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-19T09:23:24Z",
+      "title": "Andy Burnham and John Healey told to make petrol station rule change by 30,000 drivers",
+      "description": "It comes after a \u00a3330 warning",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-john-healey-told-34783224",
+      "image": "https://i2-prod.birminghammail.co.uk/article34783233.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-10-19T14:26:22Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Iowa is testing whether Democrats can win rural voters",
+      "description": "Economic concerns such as tariffs and rising gas prices may give Democrats an opening in November\u2019s midterms. But rural voters remain skeptical of large-scale support for Democrats.",
+      "url": "https://www.pbs.org/newshour/politics/iowa-is-testing-whether-democrats-can-win-rural-voters",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-09-29T100128Z_818013291_RC2GGNAYX42T_RTRMADP_3_USA-ELECTION-IOWA-CANCER-1024x576.jpg",
+      "publishedAt": "2026-10-19T14:12:04Z",
+      "source": {
+        "name": "PBS News"
+      }
+    },
+    {
+      "title": "US stocks today: S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+      "description": "US stocks open higher as AI-related shares rebound from last weeks sharp selloff. The S&P 500 and Nasdaq gain at the open, supported by lower oil prices ahead of a busy earnings week. The Dow slips marginally, while investors track technology stocks and upcoming corporate results.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings/articleshow/135050156.cms",
+      "image": "https://img.etimg.com/thumb/msid-135050156,width-1200,height-900,imgsize-180348,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-19T13:38:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Trump Eased Sanctions on Russian Energy. Oil Prices Are Climbing Down.",
+      "description": "Donald Trump blocked the application of several of the Russia-related sanctions mandated by the bill just two days before they were meant to come into effect.",
+      "url": "https://www.ibtimes.com/trump-eased-sanctions-russian-energy-oil-prices-are-climbing-down-3808722",
+      "image": "https://d.ibtimes.com/en/full/4653512/oil.jpg",
+      "publishedAt": "2026-10-19T13:36:54Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "S&P 500, Nasdaq open higher as AI stocks rebound ahead of major earnings",
+      "description": "The S&P 500 and Nasdaq opened higher on Monday as AI-related stocks rebounded from last week's sharp selloff, while a decline in oil prices provided additional support ahead of key earnings reports...",
+      "url": "https://www.marketscreener.com/news/s-p-500-nasdaq-open-higher-as-ai-stocks-rebound-ahead-of-major-earnings-ce785cdbda8bf124",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-15T102808Z_1_LYNXMPEM9E0YI_RTROPTP_4_GLOBAL-MARKETS.JPG",
+      "publishedAt": "2026-10-19T13:36:20Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Gold edges up as oil retreat lends support; Fed decision in focus",
-      "description": "Gold prices edged higher on Monday as lower oil prices alleviated inflation concerns ahead of next week's Federal Reserve monetary policy meeting, where the central bank is widely expected to hold...",
-      "url": "https://www.marketscreener.com/news/gold-edges-up-as-oil-retreat-lends-support-fed-decision-in-focus-ce785cdbd980f727",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-12/2025-12-10T102040Z_1_LYNXMPELB90FY_RTROPTP_4_GLOBAL-PRECIOUS-GOLD-AUSTRALIA.JPG",
-      "publishedAt": "2026-10-19T09:16:24Z",
+      "title": "Sensex, Nifty fall over 1% each as selling in private banks and elevated oil prices rattle markets",
+      "description": "The Benchmark NSE Nifty50 declined 1.11% to close at 22,888, while the BSE Sensex fell 1.17% to 73,852.",
+      "url": "https://www.newindianexpress.com/business/2026/Oct/19/sensex-nifty-fall-over-1-each-as-selling-in-private-banks-and-elevated-oil-prices-rattle-markets",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-05-11%2Fhtesq359%2Fb147a57ddd7c5871e5ea5604cf9fa152.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-10-19T13:26:47Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Andy Burnham slammed as petrol and diesel drivers treated like \u2018cash cows\u2019",
-      "description": "Andy Burnham and Labour have been called out by campaigners as concerns rise over petrol and diesel fuel costs.",
-      "url": "https://www.express.co.uk/life-style/cars/2258368/andy-burnham-petrol-diesel-fuel-prices-duty",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7193223.jpg",
-      "publishedAt": "2026-10-19T08:56:00Z",
+      "title": "Michigan gas prices drop 15 cents from last week",
+      "description": "Gas prices in Michigan have dropped roughly 15 cents since last week, according to AAA, with Michigan drivers now paying an average of $4.51 per gallon for regular unleaded.",
+      "url": "https://www.clickondetroit.com/news/local/2026/10/19/michigan-gas-prices-drop-15-cents-from-last-week/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/2QIP7CDVHRHM3JIRZ564KOMX5M.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-10-19T13:24:35Z",
       "source": {
-        "name": "Daily Express"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Stock Futures Rise as Investors Make Cautious Return to Risk",
-      "description": "By Joe Stonor\nNasdaq futures rebounded as investors tentatively turned back to artificial-intelligence stocks after heavy selling last week, while oil prices pulled back from Friday highs.\n...",
-      "url": "https://www.marketscreener.com/news/stock-futures-rise-as-investors-make-cautious-return-to-risk-ce785cdbd98ffe25",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-19T08:42:47Z",
+      "title": "As voters question high gas prices, Republicans keep blaming Biden",
+      "description": "Fewer people now also seem to be buying Republican claims that former President Joe Biden is still to blame.",
+      "url": "https://www.freep.com/story/news/local/michigan/2026/10/19/michigan-gas-prices-midterm-election/92326539007/",
+      "image": "https://www.freep.com/gcdn/authoring/authoring-images/2026/09/10/PDTF/91689519007-090926-gas-prices-rg-01.jpg?crop=2399,1350,x0,y0&width=2399&height=1350&format=pjpg&auto=webp",
+      "publishedAt": "2026-10-19T13:22:34Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Detroit Free Press"
       }
     },
     {
-      "title": "India's Crude Oil Import Bill Soars 46% as Middle East Crisis Drives Up Prices",
-      "description": "India's crude oil import bill surged 46% in September to $15.4 billion as soaring global oil prices and Middle East shipping disruptions drove costs sharply higher.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Import-Bill-Soars-46-as-Middle-East-Crisis-Drives-Up-Prices.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-10-19T08:35:00Z",
+      "title": "Gas prices drove inflation up to 3.1% in September, says StatCan",
+      "description": "The annual pace of inflation rose to 3.1 per cent in September as war in the Middle East continued to drive up gas prices, Statistics Canada said Monday.",
+      "url": "https://globalnews.ca/news/12107706/consumer-price-index-inflation-september/",
+      "image": "https://globalnews.ca/wp-content/uploads/2026/10/gas-prices-inflation-e1792412491387.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "publishedAt": "2026-10-19T13:17:55Z",
       "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Bitcoin Rebounds as Falling Yields, Oil Ease Mood",
-      "description": "By Joseph Wilkins\nBitcoin rebounded above $82,000 on Monday, as falling U.S. Treasury yields and lower oil prices helped risk assets begin the week higher.\nThe flagship cryptocurrency rose...",
-      "url": "https://www.marketscreener.com/news/bitcoin-rebounds-as-falling-yields-oil-ease-mood-ce785cdbd98ff126",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-10-19T08:33:55Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "European countries could scrap upcoming ban on diesel and petrol cars",
-      "description": "European Union countries could be about to water down plans to scrap petrol and diesel cars, with France and Germany joining forces.",
-      "url": "https://www.express.co.uk/life-style/cars/2258357/petrol-diesel-car-ban-rule-change",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7193169.jpg",
-      "publishedAt": "2026-10-19T08:16:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Investors Lose Rs 4 Lakh Crore As Sensex, Nifty Tank. 3 Reasons Behind Market Crash Today",
-      "description": "Share Market Today: Weakness in heavyweight private banks, persistent foreign investor outflows and crude oil prices kept investors on edge.",
-      "url": "https://www.ndtv.com/business-news/stock-market-crash-today-sensex-nifty-high-oil-prices-fii-foreign-investors-12205439",
-      "image": "https://c.ndtvimg.com/2026-05/4j1ip1k4_market-crash_625x300_29_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-19T08:06:20Z",
-      "source": {
-        "name": "NDTV.com"
+        "name": "Global News"
       }
     }
   ]
