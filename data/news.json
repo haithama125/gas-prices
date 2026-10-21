@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-21T10:49:05+00:00",
+  "updated_at": "2026-10-21T16:17:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mukerian road pose serious accident risk",
-      "description": "Deep potholes on the Hajipur-Mukerian road near the T-point and a petrol pump have become a cause for concern, posing a serious risk to commuters and other road users. The damaged stretch has sparked public concern, with a video highlighting its poor condition also going viral.",
-      "url": "https://www.tribuneindia.com/news/jalandhar/potholes-on-hajipur-mukerian-road-pose-serious-accident-risk/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWQ5NDAyOWYwLWNjZDQtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-20T22:23:14Z",
+      "title": "After Mumbai, why is Marco Rubio visiting Gujarat\u2019s Jamnagar?",
+      "description": "US Secretary of State Marco Rubio will travel to Reliance\u2019s refinery in Jamnagar today (October 21), where he is expected to urge the firm to process more Venezuelan crude. The visit is also aimed at trying to diversify India\u2019s energy supplies and contain oil prices amid the war on Iran",
+      "url": "https://www.firstpost.com/explainers/us-secretary-of-state-marco-rubio-india-visit-jamnagar-reliance-refinery-significance-analysis-14054194.html",
+      "image": "https://images.firstpost.com/uploads/2026/10/rubio1-2026-10-08063a70de9814d366c625dc43d222d9.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-21T04:16:54Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Firstpost"
       }
     },
     {
-      "title": "Victorian Premier Ben Carroll admits to accidentally doing a runner after filling up car",
-      "description": "Victorian Premier Ben Carroll has admitted to accidentally driving off without paying for petrol.",
-      "url": "https://www.perthnow.com.au/news/victorian-premier-ben-carroll-admits-to-accidentally-doing-a-runner-after-filling-up-car-c-23051006",
-      "image": "https://images.perthnow.com.au/publication/C-23051006/51e6646c5fb920cbefc327d84b51659deab1195a-16x9-x0y15w2000h1125.jpg?imwidth=1200",
-      "publishedAt": "2026-10-20T22:17:54Z",
+      "title": "Sensex jumps 571 points, Nifty rises 167 points on India-US trade deal optimism",
+      "description": "Indian equity benchmarks Sensex and Nifty opened higher on Wednesday, supported by optimism over a possible India-US trade deal, although elevated crude oil prices and US bond yields are expected to keep markets under pressure.",
+      "url": "https://www.devdiscourse.com/article/business/3995459-sensex-jumps-571-points-nifty-rises-167-points-on-india-us-trade-deal-optimism",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/21_10_2026_09_44_02_7989106.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-21T04:14:05Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Australia's Woodside narrows annual production forecast, posts higher quarterly revenue",
-      "description": "Australia's Woodside Energy\non Wednesday narrowed its annual production forecast and posted\na 27% rise in its third-quarter revenue on higher oil and gas\nprices.\nThe country's top...",
-      "url": "https://www.marketscreener.com/news/australia-s-woodside-narrows-annual-production-forecast-posts-higher-quarterly-revenue-ce785cd8dc8dfe23",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-10-20T22:14:48Z",
+      "title": "Sensex jumps 571 points, Nifty rises 167 points on India-US trade deal optimism",
+      "description": "Indian equity benchmarks Sensex and Nifty opened higher on Wednesday, supported by optimism over a possible India-US trade deal, although elevated crude oil prices and US bond yields are expected to keep markets under pressure.",
+      "url": "https://www.aninews.in/news/business/sensex-jumps-571-points-nifty-rises-167-points-on-india-us-trade-deal-optimism20261021093820/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261021040302-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-21T04:08:20Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "Bitcoin surges over 1 percent as oil prices ease; inflation worries keep markets on edge",
+      "description": "Investors should avoid chasing short-term rallies. Consider staggered entries, maintain measured position sizes and monitor ETF flows and Fed signals before increasing exposure.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/bitcoin-surges-over-1-percent-as-oil-prices-ease-inflation-worries-keep-markets-on-edge-14056376.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260522223310_nasdaqbitcoinbbg.png",
+      "publishedAt": "2026-10-21T03:56:28Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Gold dips for fourth session as oil rally fans inflation concerns",
+      "description": "Gold prices eased for a fourth session on Wednesday as higher oil prices stoked inflationary concerns, while investors looked ahead to next week's Federal Reserve policy meeting for clues on the...",
+      "url": "https://www.marketscreener.com/news/gold-dips-for-fourth-session-as-oil-rally-fans-inflation-concerns-ce785cd8df8df223",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-11/2025-11-06T103836Z_1_LYNXMPELA50II_RTROPTP_4_MERCADOS-METALES-PRECIOSOS.JPG",
+      "publishedAt": "2026-10-21T03:45:22Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Petrol pump staffer hurt in attack over fuel payment dispute",
-      "description": "An alleged armed attack at a petrol pump near Dana Mandi in Sultanpur Lodhi, Kapurthala district, left an employee seriously injured after a dispute over fuel payment reportedly turned violent in broad daylight. The incident was captured on CCTV cameras installed at the petrol pump and police have launched an investigation based on the available footage.",
-      "url": "https://www.tribuneindia.com/news/jalandhar/petrol-pump-staffer-hurt-in-attack-over-fuel-payment-dispute/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBmNGMzZDYwLWNjY2UtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-20T21:34:02Z",
+      "title": "Victorian Premier Ben Carroll settles bill after forgetting to pay at petrol pump",
+      "description": "Ben Carroll says he was running errands on Monday night when he forgot to pay for fuel at a Melbourne petrol station.",
+      "url": "https://www.abc.net.au/news/2026-10-21/vic-premier-ben-carroll-forgot-to-pay-for-fuel/107291426",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c81a15358124ebde3c47b1e9b1a9f37e?impolicy=wcms_watermark_news&cropH=1336&cropW=2375&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-21T03:07:08Z",
       "source": {
-        "name": "The Tribune"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "Dow Jones Futures: Indexes At Key Levels; SpaceX Earnings Strong With Tesla, Meta Due",
-      "description": "Dow Jones futures: The Dow and S&P 500 reclaimed their 50-day lines as oil prices retreated. SpaceX earnings beat late with Tesla, Meta due.",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-spacex-earnings-tesla-meta-oil-prices/",
-      "image": "https://www.investors.com/wp-content/uploads/2018/09/stock-SpaceX-Moon2-company.jpg",
-      "publishedAt": "2026-10-20T21:08:27Z",
+      "title": "Driver hits Democratic policies over soaring California gas prices",
+      "description": "At a Los Angeles gas station, a motorist blamed high fuel prices on Democratic policies while backing candidate Steve Hilton's plan to slash gas prices.",
+      "url": "https://nypost.com/2026/10/20/us-news/driver-hits-democratic-policies-over-soaring-california-gas-prices/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/145888488-1.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-21T02:58:33Z",
       "source": {
-        "name": "Investor's Business Daily"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Trading Day: Oil reversal lifts spirits",
-      "description": "US stocks rose on Tuesday, shrugging off global weakness earlier in the day as oil prices pulled back sharply from six-month highs, a reversal that also pushed longer-dated Treasury yields lower....",
-      "url": "https://www.marketscreener.com/news/trading-day-oil-reversal-lifts-spirits-ce785cd8dc88fe26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-30T103730Z_1_LYNXMPEM8T0U2_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-20T21:01:27Z",
+      "title": "Petrol, diesel prices today (October 21): Check latest rates in Delhi, Mumbai, Chennai, Kolkata & more",
+      "description": "The attacks on vessels near the Strait of Hormuz and growing risks to shipping in the Red Sea have heightened concerns about the security of global energy supplies.",
+      "url": "https://www.businesstoday.in/india/story/petrol-diesel-prices-today-october-21-check-latest-rates-in-delhi-mumbai-chennai-kolkata-more-562659-2026-10-21",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ad8240ec902b-with-brent-crude-nearing-106per-barrel--fuel-prices-have-remained-relatively-stable-over-the-past-173540107-16x9.png",
+      "publishedAt": "2026-10-21T02:53:52Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
+    {
+      "title": "Indian shares poised to open higher as focus shifts to Jio Platforms IPO",
+      "description": "Indian shares are on track to open higher on Wednesday as focus shifts to the launch of Jio Platforms' record IPO, although elevated crude oil prices could cap gains.\nOptimism over a...",
+      "url": "https://www.marketscreener.com/news/indian-shares-poised-to-open-higher-as-focus-shifts-to-jio-platforms-ipo-ce785cd8df8af626",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-21T023542Z_1_LYNXMPEM9K04W_RTROPTP_4_RELIANCE-JIO-IPO.JPG",
+      "publishedAt": "2026-10-21T02:35:20Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Most US stocks rise following strong profit reports from Equifax, Hasbro and other big companies",
-      "description": "NEW YORK (AP) \u2014 Most of the U.S. stock market rose Tuesday following strong profit reports from Equifax, Hasbro and other companies, while oil prices eased back",
-      "url": "https://wtop.com/world/2026/10/asian-shares-mostly-decline-after-ai-stocks-lead-a-rebound-on-wall-street/",
-      "image": "https://wtop.com/wp-content/uploads/2026/10/Japan_Financial_Markets_318_6-scaled.jpg",
-      "publishedAt": "2026-10-20T20:50:27Z",
+      "title": "Oil prices rise on Red Sea shipping risks, threats to Saudi oil sites",
+      "description": "Brent crude futures rose 85 cents, \u200bor 0.78%, to $109.64 per barrel as of 0022 GMT. US West Texas Intermediate (WTI) crude \u200crose 76 cents, or 0.78%, to $98.58 per barrel",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-rise-on-red-sea-shipping-risks-threats-to-saudi-oil-sites-126102100052_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/07/thumb/fitandfill/1200X628/1788802653-553.jpg",
+      "publishedAt": "2026-10-21T02:15:39Z",
       "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "TSX rises as drop in oil prices helps lower interest rates",
-      "description": "Canada's main stock index rose on Tuesday, helped by gains for financial and telecommunication stocks, as oil pulled back from its highest level since April and investors looked ahead to a more...",
-      "url": "https://www.marketscreener.com/news/tsx-rises-as-drop-in-oil-prices-helps-lower-interest-rates-ce785cd8dc89fe26",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T105314Z_1_LYNXMPEL3F0FZ_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2026-10-20T20:39:47Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "How major US stock indexes fared Tuesday 10",
-      "description": "The U.S. stock market mostly rose following strong profit reports from Equifax, Hasbro and other companies, while oil prices eased back after nearing their high",
-      "url": "https://wtop.com/national/2026/10/how-major-us-stock-indexes-fared-tuesday-10-20-2026/",
-      "image": "https://wtop.com/wp-content/uploads/2026/10/cropped-WTOP_favicon_512x512-32x32.png",
-      "publishedAt": "2026-10-20T20:25:40Z",
-      "source": {
-        "name": "WTOP"
-      }
-    },
-    {
-      "title": "Dow Gains 529 Points on 3M Data Center Deal: Stock Market Today",
-      "description": "Declining Treasury yields and oil prices boosted the broad market Tuesday, while several stocks rose on solid earnings.",
-      "url": "https://www.kiplinger.com/investing/stocks/dow-gains-529-points-on-3m-data-center-deal-stock-market-today",
-      "image": "https://cdn.mos.cms.futurecdn.net/85Cbi3KStYzVCD39knx6rS-724-80.jpg",
-      "publishedAt": "2026-10-20T20:12:09Z",
-      "source": {
-        "name": "Kiplinger"
+        "name": "Business Standard"
       }
     }
   ]
