@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-22T02:27:23+00:00",
+  "updated_at": "2026-10-22T10:50:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold And Silver Prices Fall In Delhi As Rupee Appreciation And Elevated Crude Oil Weigh On Bullion",
-      "description": "Gold prices in New Delhi fell Rs 1,300 to Rs 1,49,000 per 10 grams on Wednesday, while silver dropped Rs 1,600 to Rs 2,13,400 per kg. A stronger rupee, elevated crude oil prices and weak global trends pressured bullion, as investors watched oil-market developments and the US Federal Reserve\u2019s policy meeting next week.",
-      "url": "https://www.freepressjournal.in/business/gold-and-silver-prices-fall-in-delhi-as-rupee-appreciation-and-elevated-crude-oil-weigh-on-bullion",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-21/hbr3r77e/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-10-21T191431.249.jpg",
-      "publishedAt": "2026-10-21T13:44:48Z",
+      "title": "Treasuries Slide After Middle East Strife Report Spurs Oil Gains",
+      "description": "Treasuries fell after reports suggesting the Middle East war is heating up lifted oil prices.",
+      "url": "https://www.livemint.com/market/treasuries-slide-after-middle-east-strife-report-spurs-oil-gains-11792613769755.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market1_1733465997762_1733466008348.jpg",
+      "publishedAt": "2026-10-21T20:16:09Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Gold, silver fall as rupee appreciation, elevated crude prices weigh on bullion",
-      "description": "New Delhi, Oct 21 (PTI) Gold and silver prices declined in the national capital on Wednesday as appreciation in the rupee, elevated crude oil prices and weak global trends dampened the sentiment of investors. The yellow metal of 99.9 per cent purity dropped Rs 1,300 to Rs 1,49,000 per 10 grams (inclusive of all taxes), [\u2026]",
-      "url": "https://theprint.in/economy/gold-silver-fall-as-rupee-appreciation-elevated-crude-prices-weigh-on-bullion/3077967/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
-      "publishedAt": "2026-10-21T13:16:40Z",
+      "title": "Ukrainian capital under missile attack, explosions seen in city",
+      "description": "Oct 21 - Russian forces attacked the Ukrainian capital\u00a0Kyiv with ballistic missiles on Wednesday evening, damaging homes and a petrol station and causing injuries, officials said. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/ukrainian-capital-under-missile-attack-explosions-seen-in-city",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4e77bf2f50f582021268b732c0c75bc468d09bd4549f5672fd2ca6140ad0dada?w=1200",
+      "publishedAt": "2026-10-21T20:11:43Z",
       "source": {
-        "name": "ThePrint"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Nigeria says private capital to drive next growth phase, petrol subsidy gone",
-      "description": "Nigeria will increasingly turn to private investors at home and abroad to finance its next phase of growth rather than relying on state borrowing, Finance Minister Taiwo Oyedele said on Wednesday,...\n-October 21, 2026 at 09:05 am EDT\n- MarketScreener",
-      "url": "https://www.marketscreener.com/news/nigeria-says-private-capital-to-drive-next-growth-phase-petrol-subsidy-gone-ce785cd9d88ff120",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-21T130337Z_1_LYNXMPEM9K1BX_RTROPTP_4_IMF-WORLDBANK.JPG",
-      "publishedAt": "2026-10-21T13:05:19Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Nigeria says private capital to drive next growth phase, petrol subsidy gone",
-      "description": "Nigeria will increasingly turn to \u200bprivate investors at home and abroad to finance its next phase \u200cof growth rather than relying on state borrowing, Finance Minister Taiwo Oyedele said on Wednesday, while ruling out any return to petrol subsidies.",
-      "url": "https://www.reuters.com/world/africa/nigeria-says-private-capital-drive-next-growth-phase-petrol-subsidy-gone-2026-10-21/",
-      "image": "https://www.reuters.com/resizer/v2/AYZQ26BLMBNABIYNMQQ4HNKKL4.jpg?auth=db20134ec56f124fc9d995abedd4f3fc8cd2531ddb8710e338629607158f4465&height=1005&width=1920&quality=80&smart=true",
-      "publishedAt": "2026-10-21T13:03:46Z",
+      "title": "Six injured in Russian missile attack on Ukrainian capital",
+      "description": "Russian forces attacked the Ukrainian capital Kyiv with \u200bballistic missiles on \u200bWednesday evening, damaging homes, a \u2060petrol station and transport \u200bequipment and injuring six people, officials \u200bsaid.",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukrainian-capital-under-missile-attack-explosions-seen-city-2026-10-21/",
+      "image": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-10-21T20:07:18Z",
       "source": {
         "name": "Reuters"
       }
     },
     {
-      "title": "Fuel duty freeze nets Treasury extra \u00a3155m",
-      "description": "Labour criticised for refusing to cut levy as drivers forced to stomach soaring petrol prices",
-      "url": "https://www.telegraph.co.uk/money/tax/news/fuel-duty-freeze-nets-treasury-extra-155m/",
-      "image": "https://www.telegraph.co.uk/content/dam/money/2026/10/21/TELEMMGLPICT000508349295_17925860402090_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
-      "publishedAt": "2026-10-21T12:58:00Z",
+      "title": "Bitcoin Price Prediction: Could a US-Iran Deal Send BTC to $100K This Month? AlphaPepe Offers a 100x Presale Entry",
+      "description": "Bitcoin is\u00a0hovering near $83,000 as traders search for news that can push it toward $100,000 before October ends. Latest diplomatic reports point to stalled US-Iran talks. AlphaPepe offers a different buying decision at $0.03402, where the 100x conversation begins before the token has a public exchange chart. BTC buyers are following diplomats, oil prices and [\u2026]",
+      "url": "https://techbullion.com/bitcoin-price-prediction-could-a-us-iran-deal-send-btc-to-100k-this-month-alphapepe-offers-a-100x-presale-entry/",
+      "image": "https://techbullion.com/wp-content/uploads/2026/10/Picture13-14.png",
+      "publishedAt": "2026-10-21T20:05:58Z",
       "source": {
-        "name": "The Telegraph"
+        "name": "TechBullion"
       }
     },
     {
-      "title": "Nine ways to beat rising prices as inflation hits 3.5% - from petrol prices to food bills",
-      "description": "ANALYSIS - KATIE ELLIOTT: Prices are on the rise, but you might be able to offset some of the pain with a few quick checks.",
-      "url": "https://www.express.co.uk/finance/personalfinance/2259199/nine-ways-beat-rising-prices-inflation-uk",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/23/1200x630/7197490.jpg",
-      "publishedAt": "2026-10-21T12:56:00Z",
+      "title": "Trump Faces Supermajority Disapproval on Gas Prices 2 Weeks Before Midterms",
+      "description": "A New York Times/Siena poll found that 73 percent of voters disapprove of President Donald Trump's handling of gas prices.",
+      "url": "https://www.newsweek.com/trump-faces-supermajority-disapproval-on-gas-prices-2-weeks-before-midterms-12601839",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/10/GettyImages-2299378687-5467f9.jpg?w=1200&crop=1",
+      "publishedAt": "2026-10-21T19:55:39Z",
       "source": {
-        "name": "Daily Express"
+        "name": "Newsweek"
       }
     },
     {
-      "title": "Nasdaq Futures Higher After Asian AI Rally, Brent Crude Holds Close to $110 -- Update",
-      "description": "By Joe Stonor\nNasdaq futures rose after artificial-intelligence stocks rallied in Asia and Europe, though investor sentiment remained muted as oil prices held close to $110 a barrel.\nAfter...",
-      "url": "https://www.marketscreener.com/news/nasdaq-futures-higher-after-asian-ai-rally-brent-crude-holds-close-to-110-update-ce785cd9d88cf62c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2023-03-22T062237Z_1_LYNXMPEJ2L05F_RTROPTP_3_GLOBAL-MARKETS.JPG",
-      "publishedAt": "2026-10-21T12:54:30Z",
+      "title": "Gas prices averaged $4.13 in Iowa the week of Oct. 21",
+      "description": "The price of regular unleaded gasoline fell 7 cents from last week's price and is currently averaging $4.13 across Iowa, according to AAA and the Iowa Department of Agriculture and Land Stewardship's weekly fuel report.",
+      "url": "https://siouxcityjournal.com/news/local/business/article_2f3af3e5-c68e-4c62-8f48-86bc83d17460.html",
+      "image": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/f3/2f3af3e5-c68e-4c62-8f48-86bc83d17460/69d6a8bb1931b.social.jpg",
+      "publishedAt": "2026-10-21T19:00:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Sioux City Journal"
       }
     },
     {
-      "title": "UAE\u2019s air smells like petrol, and no one knows why",
-      "description": "Complaints from residents prompt authorities to investigate the source of the foul fuel-like smell across several regions of the country.",
-      "url": "https://theprint.in/feature/uaes-air-smells-like-petrol-and-no-one-knows-why/3077879/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/05/uae-opec-1-1.jpg",
-      "publishedAt": "2026-10-21T12:44:57Z",
+      "title": "DOE taps Northeast heating oil reserve to ease New England prices",
+      "description": "The DOE plans to loan up to 315,000 barrels of fuel oil from the Northeast Home Heating Oil Reserve to ease heating oil prices amid global supply disruptions.",
+      "url": "https://www.foxbusiness.com/politics/energy-dept-loan-part-home-heating-oil-reserve-ease-prices-drawing-bipartisan-praise",
+      "image": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2026/03/0/0/us-energy-secretary-chris-wright.png?ve=1&tl=1",
+      "publishedAt": "2026-10-21T18:58:06Z",
       "source": {
-        "name": "ThePrint"
+        "name": "Fox Business"
       }
     },
     {
-      "title": "Rupee rises 46 paise to 94.45 on India-US trade deal hopes; oil prices cap gains",
-      "description": "The rupee gained 46 paise to 94.45 against the dollar on optimism over a potential India-US trade deal and RBI measures. However, elevated crude prices, foreign outflows and global financial pressures continue to threaten the currency's recovery.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-rises-46-paise-to-94-45-on-india-us-trade-deal-hopes-oil-prices-cap-gains/articleshow/135092741.cms",
-      "image": "https://img.etimg.com/thumb/msid-135092764,width-1200,height-900,imgsize-27390,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-21T12:37:00Z",
+      "title": "Higher bond yields offer attractive income opportunities",
+      "description": "Brenda O\u2019Connor Juanas examines Q3 earnings, stock valuations and portfolio positioning amid higher oil prices and Treasury yields.",
+      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/10/21/market-outlook-strong-earnings-support-stocks-as-oil-rises/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/DID4WDPA6RBJTKBJE6UZEOCD3A.jpg?smart=true&auth=a2cea06768bae5f498f6db5503565f0f7d57b01646e0368a3c00dd49e8a8d9d5&width=1200&height=630",
+      "publishedAt": "2026-10-21T18:30:52Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Bnn Bloomberg"
       }
     },
     {
-      "title": "Maruti Suzuki Ertiga gets costlier by up to \u20b910,000: 16,911 units sold last month; check new variant-wise prices",
-      "description": "Maruti Suzuki has raised prices on select Ertiga variants by up to \u20b910,000. The ZXi Plus petrol manual and automatic versions saw the biggest increases, while Tour M petrol and CNG variants rose by \u20b92,500. Other variants remain unchanged; prices now range from \u20b98.90 lakh to \u20b913.14 lakh.",
-      "url": "https://www.livemint.com/auto-news/maruti-suzuki-ertiga-gets-costlier-by-up-to-10-000-check-new-variant-wise-prices-16-911-units-sold-last-month-11792581256569.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/21/1600x900/logo/Untitled_Design_1792583897332_uomx_1792583902086_pYfV_78d40ee1-ef2d-44bc-8818-22f08eb4e583_2KJH.png",
-      "publishedAt": "2026-10-21T12:22:17Z",
+      "title": "Jhunjhunu Murder: Jhunjhunu police arrest 2 brothers for killing father, burning body",
+      "description": "Jhunjhunu police arrested brothers Shiv and Deependra Jangid for allegedly killing father Jugal Kishore, burning the body with petrol and burying it.",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/jhunjhunu-police-arrest-2-brothers-for-killing-father-burning-body/articleshow/135099042.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135105658,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-10-21T18:29:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Trump rally supporters back higher gas prices to stop Iran nuclear threat",
+      "description": "Trump rally supporters in North Carolina say they're willing to pay higher gas prices if it means preventing Iran from acquiring a nuclear weapon amid the ongoing war.",
+      "url": "https://www.foxnews.com/politics/trump-supporters-confronted-painful-gas-prices-deliver-striking-response-ill-take-that-any-day",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/Voters-NC.jpg",
+      "publishedAt": "2026-10-21T18:18:50Z",
+      "source": {
+        "name": "Fox News"
       }
     }
   ]
