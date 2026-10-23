@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-22T20:58:08+00:00",
+  "updated_at": "2026-10-23T02:32:12+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil supply improves as Middle East crude exports recover, but high fuel costs may persist: Jefferies",
-      "description": "Crude oil supplies from the Middle East have recovered to more than 90 per cent of pre-conflict levels, but high freight rates, elevated diesel margins and rising gas prices are likely to keep energy costs under pressure, according to a report by Jefferies.",
-      "url": "https://www.tribuneindia.com/news/business/oil-supply-improves-as-middle-east-crude-exports-recover-but-high-fuel-costs-may-persist-jefferies/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWIxZmEzNjEwLWNkZjYtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
-      "publishedAt": "2026-10-22T08:57:57Z",
+      "title": "European Natural Gas Prices Rise on Middle East Escalation",
+      "description": "European natural gas prices climbed to nearly 90 euros per MWh, the highest since 2022, as Middle East escalation and low storage threaten winter supply.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Rise-on-Middle-East-Escalation.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_zoumrgciqk.jpg",
+      "publishedAt": "2026-10-22T14:30:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Oil jumps US$2 on escalating Middle East tensions",
-      "description": "Oil prices jump on Middle East tensions after Houthi attacks in Saudi Arabia and concerns over crude supply disruptions. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/oil-jumps-us2-on-escalating-middle-east-tensions",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b85c53e820cbcafae2216c5922cbff928dab14add95a16cb1275a5a7b84863ff?w=1200",
-      "publishedAt": "2026-10-22T08:54:00Z",
+      "title": "Spain\u2019s olive oil prices approach \u20ac3 a kilo: what it means for your supermarket bill",
+      "description": "Olive oil prices in Spain have dropped to about \u20ac3.10 a kilo at source, yet Mercadona\u2019s litre costs \u20ac4.35. Farmers want oil stored to halt the fall.",
+      "url": "https://euroweeklynews.com/2026/10/22/spains-olive-oil-prices-approach-e3-a-kilo-what-it-means-for-your-supermarket-bill/",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/10/Olive-oil-price-Spain-WEB.png",
+      "publishedAt": "2026-10-22T14:10:18Z",
       "source": {
-        "name": "The Straits Times"
+        "name": "Euro Weekly News"
       }
     },
     {
-      "title": "RBI MPC Minutes Signal More Repo Rate Hikes, Economists Expect 50 Bps Increase In December Amid Rising Inflation Risks",
-      "description": "RBI MPC minutes signal further monetary tightening as economists expect a 50 bps rate hike in December. Rising inflation, rupee movements and crude oil prices remain key concerns.",
-      "url": "https://www.freepressjournal.in/business/rbi-mpc-minutes-signal-more-repo-rate-hikes-economists-expect-50-bps-increase-in-december-amid-rising-inflation-risks",
-      "image": "https://media.assettype.com/freepressjournal/2025-12-01/k9f1rmix/RBI-RBI-1.jpg",
-      "publishedAt": "2026-10-22T08:43:39Z",
+      "title": "Trump's midterm alarm bells are ringing: Five new polls hold clues",
+      "description": "National polling ahead of the US midterm elections indicates a Democratic lead over Republicans in congressional races. Various surveys show that dissatisfaction with the current administration is affecting voter preferences. President Trump is experiencing low approval ratings, particularly regarding his economic management. Economic concerns, particularly rising gas prices, are influencing voter sentiment as the elections approach.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-midterm-alarm-bells-are-ringing-five-new-polls-hold-clues/articleshow/135121017.cms",
+      "image": "https://img.etimg.com/thumb/msid-135121039,width-1200,height-900,imgsize-67508,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-22T14:10:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Caught On CCTV: Pump Operator Attacked With Iron Rods At Petrol Pump In Maharashtra, Three Accused Flee",
-      "description": "CCTV footage shows a pump operator being attacked at a petrol pump in Umarga, Maharashtra. Three men allegedly fled after the assault as police investigate.",
-      "url": "https://www.newsx.com/regionals/caught-on-cctv-pump-operator-attacked-with-iron-rods-at-petrol-pump-in-maharashtra-three-accused-flee-286027/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/10/petrol-pump-attack-cctv.jpg",
-      "publishedAt": "2026-10-22T08:35:08Z",
+      "title": "Surging oil prices and fresh tech jitters are hammering stocks",
+      "description": "A sell-off hit US stocks on Thursday as traders took in higher oil prices and as upbeat Meta and Tesla earnings failed to spark fresh tech bullishness.",
+      "url": "https://www.businessinsider.com/stock-market-today-tech-sell-off-meta-tesla-oil-prices-2026-10",
+      "image": "https://i.insider.com/6ad9fefc510d67c758d85b26?width=1200&format=jpeg",
+      "publishedAt": "2026-10-22T14:06:09Z",
       "source": {
-        "name": "NewsX"
+        "name": "Business Insider"
       }
     },
     {
-      "title": "In A Rare Reversal, Petrol And Diesel Now Cheaper In India Than Dubai",
-      "description": "Petrol in Delhi is nearly Rs 8 cheaper per litre than Dubai, while the difference for diesel is over Rs 28, according to October 22 prices.",
-      "url": "https://www.news18.com/world/in-a-rare-reversal-petrol-and-diesel-now-cheaper-in-india-than-dubai-ws-l-10392604.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/05/petrol-diesel-price-hike-today-2026-05-e4f5a7024e1f892c759fdab6b7db0e03-1200x675.png",
-      "publishedAt": "2026-10-22T08:18:10Z",
+      "title": "From mountain fighters to 'regional power': the rise of Yemen's Houthis",
+      "description": "The Houthis emerged from obscurity in Yemen's hardscrabble north to control swathes of the country and pose a perennial threat to neighbouring Saudi Arabia, the world's top oil exporter. From their origins in the 1990s, the Iran-backed former mountain fighters now command the status of regional players capable of inflicting pain on global shipping and oil prices. Like the other armed members of Iran's \"Axis of Resistance\", the Houthis are hostile to the West, as befits their slogan: \"Death to America, death to Israel.\"",
+      "url": "https://www.al-monitor.com/originals/2026/10/mountain-fighters-regional-power-rise-yemens-houthis",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/000_c8py767.jpg?h=199d8c1f&itok=RHc-ndqT",
+      "publishedAt": "2026-10-22T13:44:10Z",
       "source": {
-        "name": "News18"
+        "name": "Al-Monitor"
       }
     },
     {
-      "title": "Milan Stock Market Falls, Banks and Technology Stocks Weigh Amid Bond Tensions and Rising Oil Prices",
-      "description": "Below are the latest updates on trading in Milan:\n9:25 - After yesterday's recovery, selling has returned to Piazza Affari in a market weakened by continued signs of tension in the bond...",
-      "url": "https://www.marketscreener.com/news/milan-stock-market-falls-banks-and-technology-stocks-weigh-amid-bond-tensions-and-rising-oil-prices-ce785cd9d181ff21",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T123224Z_1_LYNXMPEL3E0JM_RTROPTP_4_ITALY-STOCK-EXCHANGE.JPG",
-      "publishedAt": "2026-10-22T08:12:15Z",
+      "title": "Rupee snaps eight-day winning streak as rise in crude offsets inflows",
+      "description": "The rupee weakened to 94.83 against the dollar after eight sessions of gains as rising crude oil prices and dollar buying offset foreign inflows linked to the Jio Platforms IPO",
+      "url": "https://www.business-standard.com/finance/news/rupee-snaps-eight-day-winning-streak-as-rise-in-crude-offsets-inflows-126102201371_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/03/thumb/fitandfill/1200X628/1788457742-1907.jpg",
+      "publishedAt": "2026-10-22T13:42:01Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Oil jumps US$2 on escalating Middle East tension",
-      "description": "SINGAPORE: Oil prices rallied over $2 a barrel on Thursday after more Houthi attacks in Saudi Arabia stoked concerns over a broader escalation of conflict and further disruptions to crude supplies from the world's key exporting region.",
-      "url": "https://www.thestar.com.my/business/business-news/2026/10/22/oil-jumps-us2-on-escalating-middle-east-tension",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/22/4174881.png",
-      "publishedAt": "2026-10-22T07:45:00Z",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
+      "url": "https://www.readingeagle.com/2026/10/22/ai-stocks-financial-markets/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-22T13:39:09Z",
       "source": {
-        "name": "The Star"
+        "name": "Reading Eagle"
       }
     },
     {
-      "title": "STOXX 600 slips as Barclays, Hermes disappoint; oil climbs",
-      "description": "The European STOXX 600 dropped on Thursday, nearly giving back all of the prior session's gains as investors weighed a heavy slate of earnings reports, while higher oil prices further dampened risk...",
-      "url": "https://www.marketscreener.com/news/stoxx-600-slips-as-barclays-hermes-disappoint-oil-climbs-ce785cd9d18dff23",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-22T043333Z_1_LYNXMPEM9L0A5_RTROPTP_4_EUROPE-STOCKS.JPG",
-      "publishedAt": "2026-10-22T07:33:10Z",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
+      "url": "https://www.pressdemocrat.com/2026/10/22/ai-stocks-financial-markets/",
+      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-22T13:39:09Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Santa Rosa Press Democrat"
       }
     },
     {
-      "title": "Oil supply improves as Middle East crude exports recover, but high fuel costs may persist: Jefferies",
-      "description": "Crude oil supplies from the Middle East have recovered to more than 90 per cent of pre-conflict levels, but high freight rates, elevated diesel margins and rising gas prices are likely to keep energy costs under pressure, according to a report by Jefferies.",
-      "url": "https://www.aninews.in/news/business/oil-supply-improves-as-middle-east-crude-exports-recover-but-high-fuel-costs-may-persist-jefferies20261022125838/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261022072425-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-22T07:28:39Z",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
+      "url": "https://www.ocregister.com/2026/10/22/ai-stocks-financial-markets/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-22T13:39:09Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "Crude Oil Prices Today: Brent Crosses $111 As Fresh Attacks In Saudi Stoke Supply Fears",
-      "description": "Brent crude futures rise $2.48, or 2.28%, to $111.30 per barrel, while US West Texas Intermediate (WTI) crude gains $2.11, or 2.17%, to $99.26 per barrel.",
-      "url": "https://www.news18.com/business/economy/crude-oil-prices-today-brent-crosses-111-as-fresh-attacks-in-saudi-stoke-supply-fears-10392538.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/04/image-2026-04-71446a3c826c320d40458d228900416b.jpg",
-      "publishedAt": "2026-10-22T07:27:57Z",
+      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
+      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
+      "url": "https://www.mercurynews.com/2026/10/22/ai-stocks-financial-markets/",
+      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-22T13:39:09Z",
       "source": {
-        "name": "News18"
+        "name": "The Mercury News"
       }
     }
   ]
