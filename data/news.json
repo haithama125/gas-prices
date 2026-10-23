@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-23T02:32:12+00:00",
+  "updated_at": "2026-10-23T10:41:58+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "European Natural Gas Prices Rise on Middle East Escalation",
-      "description": "European natural gas prices climbed to nearly 90 euros per MWh, the highest since 2022, as Middle East escalation and low storage threaten winter supply.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Natural-Gas-Prices-Rise-on-Middle-East-Escalation.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_zoumrgciqk.jpg",
-      "publishedAt": "2026-10-22T14:30:00Z",
+      "title": "WPI inflation surges to 11.39%: How high oil prices are complicating India's inflation outlook",
+      "description": "The report flagged crude oil price volatility as a key risk to India's inflation outlook, even as manufacturing and consumption indicators improved. Sustained high oil prices could raise input costs for energy-intensive industries and squeeze corporate margins.",
+      "url": "https://www.businesstoday.in/latest/economy/story/wpi-inflation-surges-to-11-39-how-high-oil-prices-are-complicating-indias-inflation-outlook-563119-2026-10-22",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ada05c0f40a2-the-september-wpi-inflation-figure-of-1139-compares-with-08-in-september-2025-224655169-16x9.jpg",
+      "publishedAt": "2026-10-22T22:05:02Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Spain\u2019s olive oil prices approach \u20ac3 a kilo: what it means for your supermarket bill",
-      "description": "Olive oil prices in Spain have dropped to about \u20ac3.10 a kilo at source, yet Mercadona\u2019s litre costs \u20ac4.35. Farmers want oil stored to halt the fall.",
-      "url": "https://euroweeklynews.com/2026/10/22/spains-olive-oil-prices-approach-e3-a-kilo-what-it-means-for-your-supermarket-bill/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/10/Olive-oil-price-Spain-WEB.png",
-      "publishedAt": "2026-10-22T14:10:18Z",
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "description": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing",
+      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
+      "publishedAt": "2026-10-22T21:50:13Z",
       "source": {
-        "name": "Euro Weekly News"
+        "name": "The Guardian"
       }
     },
     {
-      "title": "Trump's midterm alarm bells are ringing: Five new polls hold clues",
-      "description": "National polling ahead of the US midterm elections indicates a Democratic lead over Republicans in congressional races. Various surveys show that dissatisfaction with the current administration is affecting voter preferences. President Trump is experiencing low approval ratings, particularly regarding his economic management. Economic concerns, particularly rising gas prices, are influencing voter sentiment as the elections approach.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/trumps-midterm-alarm-bells-are-ringing-five-new-polls-hold-clues/articleshow/135121017.cms",
-      "image": "https://img.etimg.com/thumb/msid-135121039,width-1200,height-900,imgsize-67508,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-22T14:10:00Z",
+      "title": "Newmont beats quarterly profit estimates as company benefits from higher gold prices",
+      "description": "Gold prices have stayed high despite a stronger dollar and inflation concerns tied to higher oil prices",
+      "url": "https://www.theglobeandmail.com/business/article-newmont-gold-profit-earnings-mining/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/53SXZGE6K5JZLEFIOAIKSGTA6M.JPG?auth=a9c525b2f5d4b7e0ae296b9538ee1c8130e2ba9683978cbbaddb6843510bd499&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-10-22T20:42:28Z",
+      "source": {
+        "name": "The Globe and Mail"
+      }
+    },
+    {
+      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+      "description": "The latest shudder for AI stocks pulled markets lower around the world",
+      "url": "https://www.latimes.com/business/story/2026-10-22/sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-as-oil-prices-jump",
+      "image": "https://ca-times.brightspotcdn.com/dims4/default/2d256cf/2147483647/strip/true/crop/4894x2569+0+347/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F99%2Fe8bc5edb49b2938026eb0d500c32%2Ff05ea25eafe448359a25760f42e91231.jpg",
+      "publishedAt": "2026-10-22T20:34:46Z",
+      "source": {
+        "name": "Los Angeles Times"
+      }
+    },
+    {
+      "title": "\"Iran doing everything to drive up oil prices ahead of midterms\": Trump lashes out at Tehran regime",
+      "description": "Washington DC , October 23 (ANI): US President Donald Trump launched a blistering attack against Tehran, accusing the Iranian leadership of manufacturing",
+      "url": "https://www.europesays.com/3325785/",
+      "image": "https://www.europesays.com/wp-content/uploads/2025/09/ani-trusted-btn-white.png",
+      "publishedAt": "2026-10-22T20:26:18Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "AI Spending Woes and Rising Oil Prices Weighed on Markets. The Nasdaq Had its Worst Day in Months.",
+      "description": "The tech-heavy index had its worst day since June 23. The S&P 500 saw the largest drop since late July.",
+      "url": "https://www.ibtimes.com/ai-spending-woes-rising-oil-prices-weighed-markets-nasdaq-had-its-worst-day-months-3808902",
+      "image": "https://d.ibtimes.com/en/full/4653484/nyse.jpg",
+      "publishedAt": "2026-10-22T20:17:44Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "US stocks today: Nasdaq slumps 2.5%, S&P 1% as revived AI doubts ignite tech selloff",
+      "description": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
+      "image": "https://img.etimg.com/thumb/msid-135127231,width-1200,height-900,imgsize-158498,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-22T20:15:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Surging oil prices and fresh tech jitters are hammering stocks",
-      "description": "A sell-off hit US stocks on Thursday as traders took in higher oil prices and as upbeat Meta and Tesla earnings failed to spark fresh tech bullishness.",
-      "url": "https://www.businessinsider.com/stock-market-today-tech-sell-off-meta-tesla-oil-prices-2026-10",
-      "image": "https://i.insider.com/6ad9fefc510d67c758d85b26?width=1200&format=jpeg",
-      "publishedAt": "2026-10-22T14:06:09Z",
+      "title": "\"Iran doing everything to drive up oil prices ahead of midterms\": Trump lashes out at Tehran regime",
+      "description": "US President Donald Trump launched a blistering attack against Tehran, accusing the Iranian leadership of manufacturing crises to artificially hike global crude oil prices ahead of the upcoming United States midterm elections and reaffirming that Iran must never be allowed to acquire nuclear capabilities.",
+      "url": "https://www.aninews.in/news/world/us/iran-doing-everything-to-drive-up-oil-prices-ahead-of-midterms-trump-lashes-out-at-tehran-regime20261023013105/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261022194845-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-22T20:01:05Z",
       "source": {
-        "name": "Business Insider"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "From mountain fighters to 'regional power': the rise of Yemen's Houthis",
-      "description": "The Houthis emerged from obscurity in Yemen's hardscrabble north to control swathes of the country and pose a perennial threat to neighbouring Saudi Arabia, the world's top oil exporter. From their origins in the 1990s, the Iran-backed former mountain fighters now command the status of regional players capable of inflicting pain on global shipping and oil prices. Like the other armed members of Iran's \"Axis of Resistance\", the Houthis are hostile to the West, as befits their slogan: \"Death to America, death to Israel.\"",
-      "url": "https://www.al-monitor.com/originals/2026/10/mountain-fighters-regional-power-rise-yemens-houthis",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/000_c8py767.jpg?h=199d8c1f&itok=RHc-ndqT",
-      "publishedAt": "2026-10-22T13:44:10Z",
+      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+      "description": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135131110.cms",
+      "image": "https://img.etimg.com/thumb/msid-135126818,width-1200,height-900,imgsize-102174,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-22T19:26:00Z",
       "source": {
-        "name": "Al-Monitor"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Rupee snaps eight-day winning streak as rise in crude offsets inflows",
-      "description": "The rupee weakened to 94.83 against the dollar after eight sessions of gains as rising crude oil prices and dollar buying offset foreign inflows linked to the Jio Platforms IPO",
-      "url": "https://www.business-standard.com/finance/news/rupee-snaps-eight-day-winning-streak-as-rise-in-crude-offsets-inflows-126102201371_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/03/thumb/fitandfill/1200X628/1788457742-1907.jpg",
-      "publishedAt": "2026-10-22T13:42:01Z",
+      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
+      "description": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
+      "image": "https://img.etimg.com/thumb/msid-135126818,width-1200,height-900,imgsize-102174,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-22T19:26:00Z",
       "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
-      "url": "https://www.readingeagle.com/2026/10/22/ai-stocks-financial-markets/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-22T13:39:09Z",
-      "source": {
-        "name": "Reading Eagle"
-      }
-    },
-    {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
-      "url": "https://www.pressdemocrat.com/2026/10/22/ai-stocks-financial-markets/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-22T13:39:09Z",
-      "source": {
-        "name": "Santa Rosa Press Democrat"
-      }
-    },
-    {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
-      "url": "https://www.ocregister.com/2026/10/22/ai-stocks-financial-markets/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-22T13:39:09Z",
-      "source": {
-        "name": "Santa Ana Orange County Register"
-      }
-    },
-    {
-      "title": "AI stocks tumble and drag down markets worldwide as oil prices climb",
-      "description": "AI stocks are tumbling and dragging stock markets down around the world as oil prices climb amid worries about the Iran war.",
-      "url": "https://www.mercurynews.com/2026/10/22/ai-stocks-financial-markets/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/Financial_Markets_Wall_Street__4889.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-22T13:39:09Z",
-      "source": {
-        "name": "The Mercury News"
+        "name": "The Economic Times"
       }
     }
   ]
