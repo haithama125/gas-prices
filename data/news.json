@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-23T10:41:58+00:00",
+  "updated_at": "2026-10-23T16:06:39+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "WPI inflation surges to 11.39%: How high oil prices are complicating India's inflation outlook",
-      "description": "The report flagged crude oil price volatility as a key risk to India's inflation outlook, even as manufacturing and consumption indicators improved. Sustained high oil prices could raise input costs for energy-intensive industries and squeeze corporate margins.",
-      "url": "https://www.businesstoday.in/latest/economy/story/wpi-inflation-surges-to-11-39-how-high-oil-prices-are-complicating-indias-inflation-outlook-563119-2026-10-22",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ada05c0f40a2-the-september-wpi-inflation-figure-of-1139-compares-with-08-in-september-2025-224655169-16x9.jpg",
-      "publishedAt": "2026-10-22T22:05:02Z",
+      "title": "Bernstein slashes Nifty target to 25,000: Why 6-year low valuation won\u2019t trigger a rally",
+      "description": "Bernstein cuts its Nifty target to 25,000 as weak earnings, rising crude oil prices and rupee pressure limit hopes of a sustained rally.",
+      "url": "https://www.financialexpress.com/market/bernstein-slashes-nifty-target-to-25000-why-6-year-low-valuation-wont-trigger-a-rally-4367629/",
+      "image": "https://images.financialexpressdigital.com/2026/10/Oliviya-5_20250616095949_20250620101059_20251120101441_20260324102229_20260709141258_20261015113929.jpg",
+      "publishedAt": "2026-10-23T04:06:31Z",
       "source": {
-        "name": "Business Today"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "description": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing",
-      "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
-      "image": "https://i.guim.co.uk/img/media/9e77a4ead0dd662eb649b44a2b029545f70ae2d1/408_0_4078_3263/master/4078.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eef05a29afa3a8a23a2b5d40b2a20bde",
-      "publishedAt": "2026-10-22T21:50:13Z",
+      "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
+      "description": "Asian shares were mostly lower Friday after the latest shudder for artificial-intelligence stocks weighed on markets around the world, giving the benchmark S&am",
+      "url": "https://wtop.com/national/2026/10/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/",
+      "image": "https://wtop.com/wp-content/uploads/2026/10/South_Korea_Financial_Markets_76593-scaled.jpg",
+      "publishedAt": "2026-10-23T04:00:26Z",
       "source": {
-        "name": "The Guardian"
+        "name": "WTOP"
       }
     },
     {
-      "title": "Newmont beats quarterly profit estimates as company benefits from higher gold prices",
-      "description": "Gold prices have stayed high despite a stronger dollar and inflation concerns tied to higher oil prices",
-      "url": "https://www.theglobeandmail.com/business/article-newmont-gold-profit-earnings-mining/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/53SXZGE6K5JZLEFIOAIKSGTA6M.JPG?auth=a9c525b2f5d4b7e0ae296b9538ee1c8130e2ba9683978cbbaddb6843510bd499&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-10-22T20:42:28Z",
+      "title": "Rupee edges higher to 94.79 against dollar a day after 43 paise fall: Key factors to watch",
+      "description": "The Indian rupee opened 3 paise higher at 94.79 against the US dollar, supported by persistent global factors and elevated crude oil prices.",
+      "url": "https://www.cnbctv18.com/market/currency/rupee-edges-higher-against-dollar-a-day-after-43-paise-fall-key-drivers-20017651.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-0413e7714a85f4a954290410b0458b1d.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-23T03:58:53Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
-      "description": "The latest shudder for AI stocks pulled markets lower around the world",
-      "url": "https://www.latimes.com/business/story/2026-10-22/sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-as-oil-prices-jump",
-      "image": "https://ca-times.brightspotcdn.com/dims4/default/2d256cf/2147483647/strip/true/crop/4894x2569+0+347/resize/1200x630!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff1%2F99%2Fe8bc5edb49b2938026eb0d500c32%2Ff05ea25eafe448359a25760f42e91231.jpg",
-      "publishedAt": "2026-10-22T20:34:46Z",
+      "title": "Asian shares slip as sharp drops for AI stocks overwhelm markets worldwide and oil prices jump",
+      "description": "Asian shares are mostly lower after the latest shudder for artificial-intelligence stocks weighed on markets around the world, giving the benchmark S&P 500 its worst day since July.",
+      "url": "https://www.clickondetroit.com/business/2026/10/23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/MVZP6NOQ55GYDBFT4MFH5HVK3U.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-10-23T03:54:30Z",
       "source": {
-        "name": "Los Angeles Times"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "\"Iran doing everything to drive up oil prices ahead of midterms\": Trump lashes out at Tehran regime",
-      "description": "Washington DC , October 23 (ANI): US President Donald Trump launched a blistering attack against Tehran, accusing the Iranian leadership of manufacturing",
-      "url": "https://www.europesays.com/3325785/",
-      "image": "https://www.europesays.com/wp-content/uploads/2025/09/ani-trusted-btn-white.png",
-      "publishedAt": "2026-10-22T20:26:18Z",
+      "title": "Asian Shares Slip as Sharp Drops for AI Stocks Overwhelm Markets Worldwide and Oil Prices Jump",
+      "description": "Asian shares were mostly lower Friday after the latest shudder for artificial-intelligence stocks weighed on markets around the world, giving the benchmark S&P 500 its worst day since July.",
+      "url": "https://www.usnews.com/news/business/articles/2026-10-23/asian-shares-slip-as-sharp-drops-for-ai-stocks-overwhelm-markets-worldwide-and-oil-prices-jump",
+      "image": "https://www.usnews.com/dims4/USNEWS/e222303/2147483647/thumbnail/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2F15%2Fd285dfe581727339f23fa3adcbaa0f%2F13e9887a8f6145a4a1218d140ffe071bSouth_Korea_Financial_Markets_76593.jpg",
+      "publishedAt": "2026-10-23T03:54:00Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "U.S. News & World Report"
       }
     },
     {
-      "title": "AI Spending Woes and Rising Oil Prices Weighed on Markets. The Nasdaq Had its Worst Day in Months.",
-      "description": "The tech-heavy index had its worst day since June 23. The S&P 500 saw the largest drop since late July.",
-      "url": "https://www.ibtimes.com/ai-spending-woes-rising-oil-prices-weighed-markets-nasdaq-had-its-worst-day-months-3808902",
-      "image": "https://d.ibtimes.com/en/full/4653484/nyse.jpg",
-      "publishedAt": "2026-10-22T20:17:44Z",
+      "title": "Stock Market Today (October 23): Sensex, Nifty Trade Higher Despite Surge In Oil Prices",
+      "description": "Stock Market Today (October 23): Sensex, Nifty Trade Higher Despite Surge In Oil Prices, Markets, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/markets/stock-market-today-october-23-sensex-nifty-trade-higher-despite-surge-in-oil-prices-article-156388870",
+      "image": "https://images.timesnownews.com/thumb/msid-156388886,thumbsize-112190,width-1280,height-720,resizemode-75/156388886.jpg",
+      "publishedAt": "2026-10-23T03:52:45Z",
       "source": {
-        "name": "International Business Times"
+        "name": "Times Now"
       }
     },
     {
-      "title": "US stocks today: Nasdaq slumps 2.5%, S&P 1% as revived AI doubts ignite tech selloff",
-      "description": "US stocks fell sharply as renewed concerns over massive AI spending triggered a selloff in technology and semiconductor shares. The Nasdaq suffered its steepest one day decline since June, while the S&P 500 also dropped. Tesla and Meta fell, while oil prices climbed to a five-month high amid fresh Middle East tensions.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-nasdaq-slumps-2-5-sp-1-as-revived-ai-doubts-ignite-tech-selloff/articleshow/135127224.cms",
-      "image": "https://img.etimg.com/thumb/msid-135127231,width-1200,height-900,imgsize-158498,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-22T20:15:00Z",
+      "title": "Indian Equities Face Pressure From Valuations And Oil Prices But Offer Sector Opportunities Says Aurveil Capital CIO",
+      "description": "Global investors are waiting for better entry points into Indian equities as valuations and high oil prices remain key concerns, according to Aurveil Capital Founder and CIO Conrad Saldanha. He believes the ongoing correction could create stock-specific opportunities in NBFCs, manufacturing exporters and power equipment companies.",
+      "url": "https://www.cnbctv18.com/market/india-not-cheap-enough-nbfc-manufacturing-opportunities-aurveil-capital-conrad-saldanha-geopolitical-tensions-crude-oil-prices-indian-equities-market-outlook-artificial-intelligence-20017641.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/global-markets-2026-09-b071204034dc8e61fad3d7016f98743d.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-23T03:42:04Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "\"Iran doing everything to drive up oil prices ahead of midterms\": Trump lashes out at Tehran regime",
-      "description": "US President Donald Trump launched a blistering attack against Tehran, accusing the Iranian leadership of manufacturing crises to artificially hike global crude oil prices ahead of the upcoming United States midterm elections and reaffirming that Iran must never be allowed to acquire nuclear capabilities.",
-      "url": "https://www.aninews.in/news/world/us/iran-doing-everything-to-drive-up-oil-prices-ahead-of-midterms-trump-lashes-out-at-tehran-regime20261023013105/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261022194845-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-22T20:01:05Z",
+      "title": "Oil Prices Jump To Five-Month High, Brent Crude Hits $114, Highest Since May",
+      "description": "Oil Prices Jump To Five-Month High, Brent Crude Hits $114, Highest Since May, Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/oil-prices-jump-to-five-month-high-brent-crude-hits-114-highest-since-may-article-156388751",
+      "image": "https://images.timesnownews.com/thumb/msid-156388760,thumbsize-3864395,width-1280,height-720,resizemode-75/156388760.jpg",
+      "publishedAt": "2026-10-23T03:24:36Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Times Now"
       }
     },
     {
-      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
-      "description": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135131110.cms",
-      "image": "https://img.etimg.com/thumb/msid-135126818,width-1200,height-900,imgsize-102174,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-22T19:26:00Z",
+      "title": "Gold and silver price today, October 23: Check rates of 24K, 22K gold in Delhi, Mumbai, Kolkata other cities",
+      "description": "The overall trend remains weak amid a stronger rupee and concerns over elevated crude oil prices feeding inflationary pressures amid US-Iran conflict.",
+      "url": "https://www.moneycontrol.com/news/business/personal-finance/gold-and-silver-price-today-october-23-check-rates-of-24k-22k-gold-in-delhi-mumbai-kolkata-other-cities-14058217.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261021031801_Gold-Prices-Across-India-on-October-21.png",
+      "publishedAt": "2026-10-23T03:09:30Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "MPC minutes: Two more interest rate hikes on cards, maybe even a third",
-      "description": "Market participants and economists now expect a 25-bps increase in the December and February reviews. A further 25-bps increase in April isn't ruled out if crude oil prices remain persistently above $100. One basis point is a hundredth of a percentage point. \"After the minutes were released, we think the probability of a consecutive hike in December has increased. Our terminal rate forecast is now at 6% for this hiking cycle and we expect the cycle to be rather shallow,\" Barclays said in a note.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/mpc-minutes-two-more-interest-rate-hikes-on-cards-maybe-even-a-third/articleshow/135126768.cms",
-      "image": "https://img.etimg.com/thumb/msid-135126818,width-1200,height-900,imgsize-102174,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-22T19:26:00Z",
+      "title": "Flight to safety, rising oil put rupee's recovery to the test",
+      "description": "The Indian rupee's recent recovery is likely to face headwinds on Friday from a flight to safety that's weighing on risk-sensitive currencies and rising oil prices which threaten to spur increased...",
+      "url": "https://www.marketscreener.com/news/flight-to-safety-rising-oil-put-rupee-s-recovery-to-the-test-ce785cdede8cfe24",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T030314Z_1_LYNXMPEL3F02X_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-10-23T03:01:45Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "MarketScreener"
       }
     }
   ]
