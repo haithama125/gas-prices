@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-24T15:03:15+00:00",
+  "updated_at": "2026-10-24T19:57:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "5 Used Hybrids Under $25,000 That Can Help You Beat Rising Gas Prices",
-      "description": "Explore 5 top used hybrids under $25,000: 2022 Honda Accord Hybrid, 2021 Toyota Camry Hybrid, Corolla Hybrid, Avalon Hybrid, and Sonata Hybrid.",
-      "url": "https://www.slashgear.com/2290181/best-used-hybrids-under-25k-for-rising-gas-prices/",
-      "image": "https://www.slashgear.com/img/gallery/5-used-hybrids-under-25000-that-can-help-you-beat-rising-gas-prices/l-intro-1792418625.jpg",
-      "publishedAt": "2026-10-24T02:45:00Z",
+      "title": "Hyundai Bayon to launch next week: All you need to know",
+      "description": "Hyundai Bayon will launch in India on October 26, featuring a 115bhp petrol engine, dual 12.3-inch screens, generative AI voice assistant and Level 2 Pro ADAS, with bookings open at Rs 11,000.",
+      "url": "https://www.indiatoday.in/auto/cars/story/hyundai-bayon-to-launch-on-october-26-all-you-need-to-know-3024079-2026-10-24",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/hyundai-bayon-233351864-16x9.jpg?VersionId=tVUudNTJ1JRk1TvTYBztDAO45Y254USC",
+      "publishedAt": "2026-10-24T07:49:36Z",
       "source": {
-        "name": "SlashGear"
+        "name": "India Today"
       }
     },
     {
-      "title": "Small and midcap indices post worst weekly decline in two years",
-      "description": "Mid-cap and small-cap stocks in India have faced major declines, indicating a shift in market sentiment. The Nifty MidCap 150 and Small-cap 250 indices reported their worst weekly falls in two years. Domestic retail investors initially supported these segments by increasing mutual fund contributions. However, concerns over rising oil prices and fiscal deficits are adding to market uncertainties.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/small-and-midcap-indices-post-worst-weekly-decline-in-two-years/articleshow/135160009.cms",
-      "image": "https://img.etimg.com/thumb/msid-135160182,width-1200,height-900,imgsize-232024,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-24T02:36:00Z",
+      "title": "Oil Pricing Is Going Crazy",
+      "description": "Oil prices are going crazy, and the current price of ~$105/barrel doesn\u2019t even account for all the additional costs incurred along the way.",
+      "url": "https://www.europesays.com/3328667/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1792825763.jpeg",
+      "publishedAt": "2026-10-24T07:09:21Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "Gold rates in Chennai city crash this week: Can yellow metal rebound ahead of Diwali - Key levels to watch in future?",
+      "description": "Gold prices fell sharply this week as rising oil prices, inflation concerns and expectations of tighter US monetary policy pressured bullion. MCX futures dropped around 3.5%, while Chennai retail 24K gold prices declined 3.85% to \u20b91,42,480 per 10 grams.",
+      "url": "https://www.livemint.com/market/commodities/gold-rates-in-chennai-city-crash-this-week-can-yellow-metal-rebound-ahead-of-diwali-key-levels-to-watch-in-future-11792820547953.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/Gold_Rates_Crash_Before_Diwali_1792823744700_IwtJ_1792823750470_sXBC_eda88f4a-271b-42dc-b75e-6bedaf46f56f_Sejg.png",
+      "publishedAt": "2026-10-24T06:37:55Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Iran plots, Houthi attacks spur US departure orders in Mideast",
+      "description": "The order to move US staff out of Saudi Arabia earlier this week helped push up oil prices amid fears of renewed fighting in the Middle East.",
+      "url": "https://www.moneycontrol.com/world/iran-plots-houthi-attacks-spur-us-departure-orders-in-mideast-article-14059020.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261024051400_Iran-plot.jpg",
+      "publishedAt": "2026-10-24T05:14:09Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "As Donald Trump weighs up options, could inflation be about to get worse?",
+      "description": "Reports of US escalation plan in Iran send oil prices up again",
+      "url": "https://www.irishtimes.com/business/2026/10/24/as-donald-trump-weighs-up-options-could-inflation-be-about-to-get-worse/",
+      "image": "https://www.irishtimes.com/resizer/v2/ISPPKSEFHDKZEUAFZRODOXDHDA.jpg?smart=true&auth=14641ee28bdb6b13e477f8b76631b60a82524edf34c8bee10f93d0062b31b81d&width=1200&height=630",
+      "publishedAt": "2026-10-24T05:00:01Z",
+      "source": {
+        "name": "The Irish Times"
+      }
+    },
+    {
+      "title": "Michigan gas prices climb overnight as drivers wait for relief",
+      "description": "Michigan drivers are paying significantly more for gas\u200b than they did a year ago, with the statewide average at about $4.77 per gallon, according to AAA.",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-continue-to-climb/",
+      "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/10/24/76bdec9f-221d-4d2c-b526-49b11ed6b822/thumbnail/1200x630/312257f4c760c2db971513aae8a4d78c/gas.jpg",
+      "publishedAt": "2026-10-24T04:13:50Z",
+      "source": {
+        "name": "CBS News"
+      }
+    },
+    {
+      "title": "BPCL reports 21.45% drop in Q2 FY27 net profit, attributes losses to fuel pricing issues",
+      "description": "Bharat Petroleum Corporation Limited (BPCL) has reported a 21.45% decline in consolidated net profit for Q2 FY27. The decline is attributed to losses from the sale of petrol, diesel, and LPG, which affected marketing margins. Consolidated revenue from operations increased by 29.7% compared to the previous fiscal year. As of September 30, 2026, BPCL's cumulative under recoveries on LPG reached \u20b917,334.40 crore.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/bpcl-reports-21-45-drop-in-q2-fy27-net-profit-attributes-losses-to-fuel-pricing-issues/articleshow/135161389.cms",
+      "image": "https://img.etimg.com/thumb/msid-135161461,width-1200,height-900,imgsize-138440,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-24T04:02:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Gucci and Volvo Cars get hammered as oil and AI worries rattle markets",
-      "description": "NEW YORK, Oct 24 \u2014 Oil prices rose to their highest levels since late April on Friday, with benchmark crude contract Brent North Sea climbing above US$116 (RM474) a barrel as the...",
-      "url": "https://www.malaymail.com/news/money/2026/10/24/gucci-and-volvo-cars-get-hammered-as-oil-and-ai-worries-rattle-markets/240379",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/24/370169.jpg",
-      "publishedAt": "2026-10-24T01:36:57Z",
+      "title": "Petrol thefts lead to security guard\u2019s approval being cancelled",
+      "description": "A persistent petrol thief unlawfully living in New Zealand has been told he can no longer work as a security guard. Police say the man has admitted to three...",
+      "url": "https://www.nzherald.co.nz/nz/security-guard-living-unlawfully-in-new-zealand-loses-approval-after-police-say-he-committed-nine-petrol-thefts/4HQPWWN4BRF7JASJA6GERD62GA/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/7ZR32Y5OV3F5FE4NLIWVLGMXPI.jpg?auth=523e10807cad5a4d450c3c2dff788532f23240ecb1b68870af38b1682e2f79c0&width=1200&height=675&quality=70&smart=true",
+      "publishedAt": "2026-10-24T04:00:00Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled",
-      "description": "By Bo Erickson, Maria Alejandra Cardona and Steve HollandFORT MYERS, Florida, Oct 23 (Reuters) - US President Donald Trump on Friday used a campaign rally in Florida, where Cuban Americans are a potent voting bloc, to vow to address his concerns about Cuba once the Iran war is settled.In a 90-minute speech in Fort Myers, Trump repeated more military action against Iran may lie ahead as he tries to address the causes of a spike in oil prices that has put Republicans on the defensive ahead of the November 3 midterm elections.",
-      "url": "https://www.al-monitor.com/index%2Ephp/originals/2026/10/florida-trump-vows-deal-cuba-after-iran-gets-settled",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/2026-10-23T213624Z_1_LYNXMPEM9M1WB_RTROPTP_3_USA-TRUMP.JPG?h=c9f93661&itok=myrYc1F0",
-      "publishedAt": "2026-10-23T23:52:22Z",
+      "title": "Petrol and diesel prices today, October 24: Check fuel cost in Delhi, Mumbai, Bengaluru",
+      "description": "Brent oil finished out the week at the highest level since April as intensifying attacks on Saudi Arabia added to supply concerns already stoked by the US-Iran war.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-october-24-check-fuel-cost-in-delhi-mumbai-bengaluru-11792812146331.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/3-0-20247848-petrol-pump--6--0_1679824070966_1792813260648_Q4eG_0f71247b-6d81-48bc-9593-757ed4c6cb22_dpkK.jpg",
+      "publishedAt": "2026-10-24T03:44:14Z",
       "source": {
-        "name": "Al-Monitor"
+        "name": "Livemint"
       }
     },
     {
-      "title": "In Florida, Trump vows to deal with Cuba after Iran gets settled",
-      "description": "By Bo Erickson, Maria Alejandra Cardona and Steve HollandFORT MYERS, Florida, Oct 23 (Reuters) - US President Donald Trump on Friday used a campaign rally in Florida, where Cuban Americans are a potent voting bloc, to vow to address his concerns about Cuba once the Iran war is settled.In a 90-minute speech in Fort Myers, Trump repeated more military action against Iran may lie ahead as he tries to address the causes of a spike in oil prices that has put Republicans on the defensive ahead of the November 3 midterm elections.",
-      "url": "https://www.al-monitor.com/originals/2026/10/florida-trump-vows-deal-cuba-after-iran-gets-settled",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/2026-10-23T213624Z_1_LYNXMPEM9M1WB_RTROPTP_3_USA-TRUMP.JPG?h=c9f93661&itok=myrYc1F0",
-      "publishedAt": "2026-10-23T23:52:22Z",
+      "title": "Strong Macroeconomic Fundamentals Anchor India's Economy Against Global Headwinds: RBI Bulletin",
+      "description": "The RBI's October Bulletin pointed to sustained domestic demand and robust services activity as key drivers of India's growth despite rising oil prices and global uncertainty.",
+      "url": "https://www.news18.com/business/economy/strong-macroeconomic-fundamentals-anchor-indias-economy-against-global-headwinds-rbi-bulletin-ws-l-10395515.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/indian-economy-gdp-new-2026-09-a9ab0d533bec36b8c799fd11431792a2-1200x675.jpg",
+      "publishedAt": "2026-10-24T03:29:44Z",
       "source": {
-        "name": "Al-Monitor"
-      }
-    },
-    {
-      "title": "month high as tensions with Iran escalate",
-      "description": "Oct. 23 (UPI) -- Oil prices climbed to their highest level in six months Friday as fears of renewed U.S. strikes against Iran and attacks in the Middle",
-      "url": "https://www.breitbart.com/news/oil-prices-reach-six-month-high-as-tensions-with-iran-escalate/",
-      "image": "https://media.breitbart.com/media/2026/10/wi/upi/wholesale-prices-biggest-jump-2022-september-wholesale-prices-biggest-jump-2022-september.jpg",
-      "publishedAt": "2026-10-23T23:00:34Z",
-      "source": {
-        "name": "Breitbart News Network"
-      }
-    },
-    {
-      "title": "U.S. Dips Into Strategic Oil Reserve Again Amid Supply Disruptions",
-      "description": "The United States is dipping into its Strategic Petroleum Reserve again, this time to keep crude flowing to a Louisiana refinery while oil prices climb above $117 per barrel",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Dips-Into-Strategic-Oil-Reserve-Again-Amid-Supply-Disruptions.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-10-23T22:30:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Could problems at a Joliet refinery send gas prices even higher?",
-      "description": "Bloomberg reported bulk gasoline prices surged following the refinery upset, threatening to squeeze consumers in the battleground states of Michigan and Ohio...",
-      "url": "https://www.nbcchicago.com/news/local/could-problems-at-a-joliet-refinery-send-gas-prices-even-higher/4006765/",
-      "image": "https://media.nbcchicago.com/2026/10/gas-prices-chevron.png?resize=1200%2C675&quality=85&strip=all",
-      "publishedAt": "2026-10-23T22:28:43Z",
-      "source": {
-        "name": "NBC 5 Chicago"
-      }
-    },
-    {
-      "title": "PPP in Senate seeks govt briefing over petrol availability till December",
-      "description": "ISLAMABAD\u00a0 - The PPP, an ally of the ruling coalition in the Centre, on Friday sought from the government to brief the Senate on its rationing measures and",
-      "url": "https://www.nation.com.pk/24-Oct-2026/ppp-senate-seeks-govt-briefing-petrol-availability-till-december",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-10-23T22:20:00Z",
-      "source": {
-        "name": "The Nation"
-      }
-    },
-    {
-      "title": "Government is absorbing the oil shock: Who ultimately pays the bill?",
-      "description": "India\u2019s public sector is absorbing an estimated 1.7% of GDP to cushion the impact of elevated crude oil prices, but rising import costs are increasing the pressure on government finances. With India\u2019s crude oil import bill surging 46% in September, how long can the government shield consumers from higher fuel prices without risking fiscal stability?",
-      "url": "https://www.businesstoday.in/latest/economy/story/government-is-absorbing-the-oil-shock-who-ultimately-pays-the-bill-563360-2026-10-23",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6adb51dbc7048-axis-bank-research-noted-that-brent-crude-had-crossed-110-per-barrel--while-dated-brent-had-reached-232354471-16x9.png",
-      "publishedAt": "2026-10-23T21:50:04Z",
-      "source": {
-        "name": "Business Today"
+        "name": "News18"
       }
     }
   ]
