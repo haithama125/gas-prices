@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-23T20:47:36+00:00",
+  "updated_at": "2026-10-24T02:30:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold prices fall \u20b9924 per 10 grams as crude oil rises above $113",
-      "description": "What is driving the latest dip in gold prices, and how are global market uncertainty, rising crude oil prices and currency movements shaping the market? | Business News",
-      "url": "https://www.hindustantimes.com/business/gold-prices-fall-924-per-10-grams-as-crude-oil-rises-above-113-101792742365507.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/23/1600x900/logo/photo-1601121141418-c1caa10a2a0b_1792743259774_78IQ_1792743271195_ZtMU_c2db2b61-3c83-49bf-9460-c81945d0226e_3MEf.jpg",
-      "publishedAt": "2026-10-23T08:46:20Z",
+      "title": "Silver crashes \u20b956000/kg from August peak; gold slides 23000/10 grams. What\u2019s driving the selloff in precious metals",
+      "description": "Silver has fallen \u20b956,000 from its August peak, and gold has also declined sharply as higher yields reduce the appeal of non-yielding assets. Middle East tensions have pushed oil prices higher, adding to inflation concerns and uncertainty over the Federal Reserve\u2019s next move.",
+      "url": "https://www.livemint.com/market/stock-market-news/silver-crashes-rs-56000-kg-from-august-peak-gold-slides-23000-10-grams-what-s-driving-the-selloff-in-precious-metals-11792763090890.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/23/1600x900/logo/Gold_and_Silver_Market_Drop_1792763312802_tzNh_1792763384166_Mehr_145dbf9f-baad-420c-8725-a4bd4212f563_KotD.png",
+      "publishedAt": "2026-10-23T14:29:42Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Brent crude hits more than five-month high on concern over Middle East escalation",
-      "description": "Oil prices rose on Friday, with Brent crude touching a more than five-month high, after Houthi attacks in Saudi Arabia stoked concern over further disruption to energy supplies from the Middle...",
-      "url": "https://www.marketscreener.com/news/brent-crude-hits-more-than-five-month-high-on-concern-over-middle-east-escalation-ce785cded18bf321",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-23T010546Z_2_LYNXMPEM9M022_RTROPTP_4_USA-OIL-EIA.JPG",
-      "publishedAt": "2026-10-23T08:44:43Z",
+      "title": "Gas prices for 10/23/26: Ohio up 28 cents, national average at $4.29",
+      "description": "The national average for gasoline is up two cents for Friday, Oct. 23, coming in at $4.29 per gallon.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-102326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.mlive.com/resizer/v2/EISEMWDGDBHCXLZE3WQ2RU726A.JPG?auth=73508d6c1db4720fc550076ddb189b1b29b090970d9322c9b7e3f0bf8d15be50&width=1280&smart=true",
+      "publishedAt": "2026-10-23T14:20:29Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "Dax retreats, tech sector and expensive oil remain in focus",
-      "description": "Concerns about rising oil prices and high valuations in the technology sector weighed on the Dax at the end of the week as well. However, stabilization in the German bond market limited the losses....",
-      "url": "https://www.marketscreener.com/news/dax-retreats-tech-sector-and-expensive-oil-remain-in-focus-ce785cded080f323",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T062655Z_1_LYNXMPEL3E05L_RTROPTP_4_MARKETS-EUROPE-STOCKS.JPG",
-      "publishedAt": "2026-10-23T08:38:57Z",
+      "title": "Gas prices for 10/23/26: Ohio up 28 cents, national average at $4.29",
+      "description": "The national average for gasoline is up two cents for Friday, Oct. 23, coming in at $4.29 per gallon.",
+      "url": "https://www.al.com/nation-world/2026/10/gas-prices-for-102326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.al.com/resizer/v2/EISEMWDGDBHCXLZE3WQ2RU726A.JPG?auth=73508d6c1db4720fc550076ddb189b1b29b090970d9322c9b7e3f0bf8d15be50&width=1280&smart=true",
+      "publishedAt": "2026-10-23T14:20:29Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "AL.com"
       }
     },
     {
-      "title": "Midcap and Smallcap Correction is Profit Booking Not Structural Shift Says Edelweiss Mutual Funds Dhruv Bhatia",
-      "description": "Dhruv Bhatia, Fund Manager-Equity at Edelweiss Mutual Fund, says the recent selloff in mid- and small-cap stocks is largely a phase of profit booking rather than a structural change in market leadership. He remains constructive on select mid-caps, private banks, autos and healthcare, while saying crude oil prices remain the biggest risk for markets. Here's what investors should watch next.",
-      "url": "https://www.cnbctv18.com/market/midcap-correction-profit-booking-not-structural-shift-largecaps-edelweiss-mf-dhruv-bhatia-market-analysts-volatility-sensex-nifty-bse-nse-crude-oil-prices-earnings-20017885.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/09/share-market-sensex-nifty-stocks-buy-sell-sep07-2026-09-155330a405ce4334d51e7175ad369557.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-23T08:36:04Z",
+      "title": "Gas prices for 10/23/26: Ohio up 28 cents, national average at $4.29",
+      "description": "The national average for gasoline is up two cents for Friday, Oct. 23, coming in at $4.29 per gallon.",
+      "url": "https://www.cleveland.com/nation/2026/10/gas-prices-for-102326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.cleveland.com/resizer/v2/EISEMWDGDBHCXLZE3WQ2RU726A.JPG?auth=73508d6c1db4720fc550076ddb189b1b29b090970d9322c9b7e3f0bf8d15be50&width=1280&smart=true",
+      "publishedAt": "2026-10-23T14:20:29Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "UK Rules Out Winter Energy Shortages as Gas Prices Soar",
-      "description": "Britain expects sufficient electricity and natural gas supplies this winter, but soaring energy prices and dependence on imports leave consumers exposed to global market volatility.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Rules-Out-Winter-Energy-Shortages-as-Gas-Prices-Soar.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-23_pwm17rz8km.jpg",
-      "publishedAt": "2026-10-23T08:30:00Z",
+      "title": "The Hidden $40-Per-Barrel Cost Driving Oil Prices Higher",
+      "description": "Soaring oil tanker rates are adding as much as $40 per barrel to transportation costs, disrupting global crude trade and increasing pressure on fuel prices.",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Hidden-40-Per-Barrel-Cost-Driving-Oil-Prices-Higher.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-10-23_ki5euwavog.jpg",
+      "publishedAt": "2026-10-23T14:00:00Z",
       "source": {
         "name": "OilPrice"
       }
     },
     {
-      "title": "AI, tech losses dwarf other stocks\u2019 growth",
-      "description": "NEW YORK -- The latest shudder for stocks in the artificial intelligence industry pulled markets lower worldwide on Thursday, while oil prices hit their highest levels since May on worries about the war with Iran.",
-      "url": "https://www.arkansasonline.com/news/2026/oct/23/ai-tech-losses-dwarf-other-stocks-growth/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.arkansasonline.com_default.jpg",
-      "publishedAt": "2026-10-23T08:13:00Z",
-      "source": {
-        "name": "Arkansas Online"
-      }
-    },
-    {
-      "title": "No Valid PUC? Here's How To Check Certificate Validity Before Rs 10,000 Challan",
-      "description": "Having a valid PUC is going to be mandatory in Delhi to get petrol at the fuel pumps, with the restrictions in place to control air pollution.",
-      "url": "https://www.ndtv.com/auto/no-valid-puc-heres-how-to-check-certificate-validity-before-rs-10-000-challan-12224398",
-      "image": "https://c.ndtvimg.com/2026-10/00jfbpbk_delhi-air-pollution_625x300_23_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-23T07:59:40Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "Caution on markets amid earnings and Middle East tensions",
-      "description": "Major European stock markets opened lower on Friday as investors assessed the rise in oil prices linked to escalating tensions in the Middle East and the latest updates on corporate earnings.\nIn...",
-      "url": "https://www.marketscreener.com/news/caution-on-markets-amid-earnings-and-middle-east-tensions-ce785cded08ff621",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2020-08-06T081744Z_1_LYNXNPEG750IO_RTROPTP_3_ITALY-ECONOMY.JPG",
-      "publishedAt": "2026-10-23T07:57:00Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stock Market Crash Explained, 5 Reasons Why Sensex Fell 644 Points And Nifty Lost 266 Points",
-      "description": "Sensex fell 644 points and Nifty lost 266 points as rising crude oil prices, weak global cues and broad-based selling wiped out Rs 9.03 lakh crore in investor wealth by late morning trading.",
-      "url": "https://www.freepressjournal.in/business/stock-market-crash-explained-5-reasons-why-sensex-fell-644-points-and-nifty-lost-266-points",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-23/1sdc6tsb/sensex-nifty.jpg",
-      "publishedAt": "2026-10-23T07:43:44Z",
+      "title": "Gold, Silver Prices Fall For Third Consecutive Session; Silver Loses \u20b930,000 Per Kg Since September 30",
+      "description": "Gold and silver prices fell for the third consecutive session in Delhi on October 23. Gold declined \u20b91,900 to \u20b91,46,100 per 10 grams, while silver plunged \u20b95,500 to \u20b92,02,000 per kilogram. Silver has lost \u20b930,000 since September 30. A stronger US dollar, rising bond yields and crude oil prices near $115 pressured precious metals amid global uncertainty.",
+      "url": "https://www.freepressjournal.in/business/gold-silver-prices-fall-for-third-consecutive-session-silver-loses-30000-per-kg-since-september-30",
+      "image": "https://media.assettype.com/freepressjournal/2026-10-23/o4vj6eex/Precious-Metals-Market-Plunge.png",
+      "publishedAt": "2026-10-23T13:56:28Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "Stock Market Crash Explained, 5 Reasons Why Sensex Fell 644 Points And Nifty Lost 266 Points",
-      "description": "Sensex fell 644 points and Nifty lost 266 points as rising crude oil prices, weak global cues and broad-based selling wiped out Rs 9.03 lakh crore in investor wealth by late morning trading.",
-      "url": "https://www.freepressjournal.in/business/stock-market-crash-explained-know-why-sensex-fell-644-points-nifty-lost-266-points-as-investors-lose-903-lakh-crore",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-23/1sdc6tsb/sensex-nifty.jpg",
-      "publishedAt": "2026-10-23T07:43:44Z",
+      "title": "Gas Prices Expected to Stay Above $4 for Midterms",
+      "description": "Gas prices are expected to remain above $4 through Election Day as President Donald Trump seeks relief amid global oil disruptions.",
+      "url": "https://www.newsmax.com/newsfront/gasoline-diesel-prices/2026/10/23/id/1273778/",
+      "image": "https://www.newsmax.com/CMSPages/GetFile.aspx?guid=591950e0-c5a6-41bd-a868-053e8980f4d7&SiteName=Newsmax",
+      "publishedAt": "2026-10-23T13:43:46Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Newsmax"
+      }
+    },
+    {
+      "title": "US Stock Market Today: Dow Slips 1% As Oil Prices Climb; Nasdaq Falls As AI Pressure Persists",
+      "description": "The Nasdaq-100 slipped 0.28%, with technology stocks remaining under pressure after concerns over corporate borrowing and rising interest rates weighed on the sector.",
+      "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-slips-1-as-oil-prices-climb-nasdaq-falls-as-ai-pressure-persists-12226322",
+      "image": "https://c.ndtvimg.com/proen/2025-02-28/aurrrtbu/Untitled-design-29.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-23T13:41:10Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Why US stocks are falling: Dow Jones crashes over 700 points as AI selloff, SpaceX fears hit markets",
+      "description": "US stocks experienced a decline as AI related shares continued to selloff significantly over the week. The Dow Jones Industrial Average fell markedly, affecting overall investor sentiment in the market. Concerns regarding competition from SpaceX led to drops in major telecom stocks such as AT&T and Verizon. Meanwhile, energy stocks achieved record highs as oil prices rose amid ongoing supply concerns.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/why-us-stocks-are-falling-dow-jones-crashes-over-700-points-as-ai-selloff-spacex-fears-hit-markets/articleshow/135147604.cms",
+      "image": "https://img.etimg.com/thumb/msid-135147604,width-1200,height-900,imgsize-238420,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-23T13:38:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Indore Palm Oil Prices Dip, Providing Relief in Food Oil Market",
+      "description": "Indore Palm Oil Prices Dip, Providing Relief in Food Oil Market - Indore, October 23 (PTI) \u2013 The local edible oil market witnessed a notable shift today as palm oil prices ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/indore-palm-oil-prices-dip-providing-relief-in-food-oil-market-a001-w03/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/PTI-indore-palm-oil-prices-fall-food-oil-market-update_202610.jpg",
+      "publishedAt": "2026-10-23T13:33:52Z",
+      "source": {
+        "name": "Lokmat Times"
       }
     }
   ]
