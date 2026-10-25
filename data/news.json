@@ -1,9 +1,99 @@
 {
-  "updated_at": "2026-10-25T02:17:48+00:00",
+  "updated_at": "2026-10-25T10:23:04+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Healey draws up green tax on petrol",
+      "description": "Fears of more pain at the pumps as Chancellor considers \u2018carbon charge\u2019 on imported fuel",
+      "url": "https://www.telegraph.co.uk/politics/2026/10/24/healey-plans-green-tax-for-petrol/",
+      "image": "https://www.telegraph.co.uk/content/dam/politics/2026/10/24/TELEMMGLPICT000504800173_17928693412250_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+      "publishedAt": "2026-10-24T19:55:00Z",
+      "source": {
+        "name": "The Telegraph"
+      }
+    },
+    {
+      "title": "Hyundai Bayon reaches dealerships ahead of October 26 launch in India: See images of the new SUV",
+      "description": "The Hyundai Bayon has started reaching dealerships ahead of its October 26 launch in India. The SUV is expected to come in seven variants, with a 1.5-litre petrol engine, manual and automatic options, and an estimated price range of \u20b99.5 lakh to \u20b917 lakh.",
+      "url": "https://www.livemint.com/auto-news/hyundai-bayon-reaches-dealerships-ahead-of-october-26-launch-in-india-see-images-of-the-new-suv-11792862214223.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/Bayon_1792862367696_TCj0_1792862373854_U8mx_ed9f1b56-b18c-445f-a457-53bac2d45b62_H48y.png",
+      "publishedAt": "2026-10-24T17:29:38Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Grant Thornton Sounds \u20ac3.7 Billion Gas Alarm: Greece Faces a Costly Winter as Europe\u2019s Energy Risks Mount",
+      "description": "European gas prices have almost tripled in eight months, storage levels are significantly lower, and competition for LNG cargoes is intensifying. Meanwhile, Greece\u2019s natural gas exports have surged by 169%, strengthening its position as a regional energy hub while exposing the economy to greater international market volatility. Grant Thornton Sounds \u20ac3.7 Billion Gas Alarm: Greece Faces a Costly Winter as Europe\u2019s Energy Risks Mount",
+      "url": "https://www.pagenews.gr/2026/10/24/english-edition/grant-thornton-sounds-e3-7-billion-gas-alarm-greece-faces-a-costly-winter-as-europes-energy-risks-mount/",
+      "image": "https://www.pagenews.gr/wp-content/uploads/2026/10/P5D-4MpnrBiMDkKoU_HVF5N6-ewSo4vrul4pMwJiN49J725J57n643QGbt_cZpW0HoUQNpRMCqbYbdapQZiL3d_XLs2KWQ3EbfA8M5iYy3mL_iIk4yqg2D9GxklCxi8dvCt33y4phIi4tMa9NFXVGXjaUh2_puaXwl_AoNbPifALsZSht4iIS6Rau1jWJrfU-1-1200x630.jpg",
+      "publishedAt": "2026-10-24T16:37:05Z",
+      "source": {
+        "name": "Pagenews.gr"
+      }
+    },
+    {
+      "title": "Cornwall planning: Opposition to Burger King 'pod' at petrol station",
+      "description": "Many may welcome another BK to Kernow, but councillors are concerned it will affect trade in the town centre",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/cornwall-planning-opposition-burger-king-11212141",
+      "image": "https://i2-prod.cornwalllive.com/article7114330.ece/ALTERNATES/s1200d/0_UK-In-Fourth-Week-Of-Coronavirus-Lockdown-As-Death-Toll-Exceeds-10000.jpg",
+      "publishedAt": "2026-10-24T15:00:00Z",
+      "source": {
+        "name": "Cornwall Live"
+      }
+    },
+    {
+      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
+      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
+      "url": "https://www.al.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
+      "image": "https://www.al.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
+      "publishedAt": "2026-10-24T14:32:42Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
+    {
+      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
+      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
+      "image": "https://www.mlive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
+      "publishedAt": "2026-10-24T14:32:42Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
+      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
+      "url": "https://www.silive.com/nation/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
+      "image": "https://www.silive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
+      "publishedAt": "2026-10-24T14:32:42Z",
+      "source": {
+        "name": "Staten Island Advance"
+      }
+    },
+    {
+      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
+      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
+      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
+      "image": "https://www.masslive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
+      "publishedAt": "2026-10-24T14:32:42Z",
+      "source": {
+        "name": "MassLive"
+      }
+    },
+    {
+      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
+      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
+      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
+      "image": "https://www.pennlive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
+      "publishedAt": "2026-10-24T14:32:42Z",
+      "source": {
+        "name": "Mechanicsburg Patriot News "
+      }
+    },
     {
       "title": "Soybean Refined Oil Prices Rise in Indore Market, Affecting Household Budgets",
       "description": "Soybean Refined Oil Prices Rise in Indore Market, Affecting Household Budgets - Indore, October 24 (\u092d\u093e\u0937\u093e) \u2013 Consumers in Indore are facing higher kitchen expenses as the price of soybean refined ... Get Latest News on Business only on lokmattimes.com",
@@ -12,96 +102,6 @@
       "publishedAt": "2026-10-24T13:17:08Z",
       "source": {
         "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "'Iran War Has Done A Lot Of Damage': US Republican Candidate Slams Trump",
-      "description": "Tandon said Trump's war on Iran sent oil prices spiralling, which boosted inflation in the United States.",
-      "url": "https://www.ndtv.com/world-news/iran-war-has-done-a-lot-of-damage-us-republican-candidate-slams-trump-12230157",
-      "image": "https://c.ndtvimg.com/2026-10/i9hehas_ro-war_625x300_24_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-24T12:25:55Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "London\u2019s mystery \u2018Batman\u2019 is buying drivers petrol and paying parking fines - but who is he?",
-      "description": "London\u2019s Batman, a masked man with almost 100,000 Instagram followers, handed out \u00a370 fuel vouchers in London and has paid hospital parking fines.",
-      "url": "https://euroweeklynews.com/2026/10/24/londons-mystery-batman-is-buying-drivers-petrol-and-paying-parking-fines-but-who-is-he/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/10/London-Batman-WEB.png",
-      "publishedAt": "2026-10-24T12:15:51Z",
-      "source": {
-        "name": "Euro Weekly News"
-      }
-    },
-    {
-      "title": "Four days of fear and fire: How the 1992 Coventry riots gripped Wood End",
-      "description": "What started as a small police operation to crack down on off-road motorbikes ended with four days of running battles, petrol bombs and looting in Coventry.",
-      "url": "https://www.coventrytelegraph.net/news/coventry-news/gallery/four-days-fear-fire-how-34784711",
-      "image": "https://i2-prod.coventrytelegraph.net/news/coventry-news/article34784692.ece/ALTERNATES/s1200/0_Wood-End-Riots-Coventry-1992.jpg",
-      "publishedAt": "2026-10-24T12:00:00Z",
-      "source": {
-        "name": "Coventry Telegraph"
-      }
-    },
-    {
-      "title": "Anwar: RON95 prices to stay despite subsidy bill rise",
-      "description": "Anwar says Malaysians will be spared higher RON95 petrol prices despite a rising fuel subsidy bill. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/asia/se-asia/malaysians-to-be-spared-higher-ron95-prices-even-if-subsidy-bill-hits-14-billion-says-pm-anwar",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f8b23fc3493c8ec39d06aeed7ee168106e064a45454f87ff0f50855778ff72e2?w=1200",
-      "publishedAt": "2026-10-24T11:33:47Z",
-      "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "Middle East mayhem: Oil prices jump US$3 on Houthi attacks, oil spill, highest settlement since April",
-      "description": "Brent futures close at highest since April 29, WTI ends week 2.3% higher/ tanker carrying Russian diesel heads to New York, data shows",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/middle-east-mayhem-oil-prices-jump-us3-on-houthi-attacks-oil-spill-highest-settlement-since-april",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/24/4178946.jpg",
-      "publishedAt": "2026-10-24T11:07:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Hyundai Bayon launch on October 26: variant-wise features, engine, dimensions and expected price",
-      "description": "Hyundai Bayon is set to launch in India on October 26, 2026, with seven variants, a 1.5-litre petrol engine and manual and iVT automatic gearbox options.",
-      "url": "https://www.livemint.com/auto-news/hyundai-bayon-launch-on-october-26-variant-wise-features-engine-dimensions-and-expected-price-11792837869156.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/24/1600x900/logo/casio1011_1792838328667_DA8x_1792838332495_HYv2_6cdb3abd-2da6-4518-9407-00aaf5dd044c_hpx4.png",
-      "publishedAt": "2026-10-24T10:41:41Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12919952",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-20goodmorningnorthbaybct-4-welcome-wheelbarrow-north-bay-brenda.jpeg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-24T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Andy Burnham government confirms change for every petrol and diesel driver to give 'breathing space'",
-      "description": "Real-time fuel prices are now on Google Maps for petrol and diesel drivers in the UK",
-      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-government-confirms-change-34783714",
-      "image": "https://i2-prod.birminghammail.co.uk/article34783742.ece/ALTERNATES/s1200d/0_petrol1.jpg",
-      "publishedAt": "2026-10-24T09:51:00Z",
-      "source": {
-        "name": "Birmingham Live"
-      }
-    },
-    {
-      "title": "Malaysians to be spared higher RON95 prices even if subsidy bill hits RM45bil, says PM",
-      "description": "MELAKA: Malaysians will be spared higher RON95 petrol prices even if the annual fuel subsidy bill climbs to RM45bil, says Datuk Seri Anwar Ibrahim.",
-      "url": "https://www.thestar.com.my/news/nation/2026/10/24/malaysians-to-be-spared-higher-ron95-prices-even-if-subsidy-bill-hits-rm45bil-says-pm",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/24/4178791.JPG",
-      "publishedAt": "2026-10-24T09:11:00Z",
-      "source": {
-        "name": "The Star"
       }
     }
   ]
