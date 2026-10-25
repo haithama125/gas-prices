@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-10-25T10:23:04+00:00",
+  "updated_at": "2026-10-25T15:15:01+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "The real value of Malaysia\u2019s fuel subsidy - Nurul Fardini Zakaria",
+      "description": "OCTOBER 25 \u2014 When global oil markets become volatile, Malaysian consumers face a different reality at the petrol station. For eligible recipients under the Budi Madani RON95...",
+      "url": "https://www.malaymail.com/news/what-you-think/2026/10/25/the-real-value-of-malaysias-fuel-subsidy-nurul-fardini-zakaria/240502",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/25/370350.jpg",
+      "publishedAt": "2026-10-25T02:36:24Z",
+      "source": {
+        "name": "Malay Mail"
+      }
+    },
+    {
+      "title": "Indian small-cap stocks selloff",
+      "description": "Rising oil prices fuel inflation fears and rate-hike concerns, while forced sales leave traders facing estimated mark-to-market losses of Rs 9,000 crore",
+      "url": "https://www.telegraphindia.com/business/indian-small-cap-stocks-suffer-biggest-selloff-in-five-months-amid-leverage-unwinding-prnt/cid/2186120",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Aug/1787128968_indian-stocks.gif",
+      "publishedAt": "2026-10-25T02:21:26Z",
+      "source": {
+        "name": "Telegraph India"
+      }
+    },
+    {
+      "title": "Patiala youth abducted, murdered, dumped in Sangrur",
+      "description": "The victim, Nawab Khan, a resident of Dakala village in Patiala district, was abducted after an SUV intentionally hit his motorcycle near a petrol pump on the Patiala-Sangrur road around 1.30 pm",
+      "url": "https://www.hindustantimes.com/cities/chandigarh-news/patiala-youth-abducted-murdered-dumped-insangrur-101792866972560.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/10/24/1600x900/logo/The-occupants-of-the-black-Mahindra-Scorpio-were-c_1792866968271_r915.jpg",
+      "publishedAt": "2026-10-25T02:05:30Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Fuel prices today: Check petrol, diesel and CNG rates on 25 October in different cities across India",
+      "description": "Fuel prices were mostly steady on 25 October though CNG became costlier in several cities.",
+      "url": "https://www.livemint.com/money/fuel-prices-today-check-petrol-diesel-and-cng-rates-on-25-october-in-different-cities-across-india-11792891983344.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/25/1600x900/logo/pexels-photo-4173096_1792892108570_TEQ5_1792892122503_bxJM_e5536863-2400-4704-9f12-eb415a6630d7_IrOn.jpeg",
+      "publishedAt": "2026-10-25T01:37:33Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus",
+      "description": "Nifty falls 2.4% after two-week winning streak as crude oil prices rise and foreign fund outflows persist; Jio Platforms IPO sees strong subscription, but Nifty IPO slides 7.5%",
+      "url": "https://www.businesstoday.in/markets/stocks/story/markets-next-week-crude-oil-at-117-broader-market-selloff-and-q2-earnings-in-focus-563444-2026-10-25",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6adc7180443f6-selling-pressure-was-more-pronounced-in-the-broader-market--with-nifty-midcap-150-sliding-55-and-n-245110997-16x9.jpg",
+      "publishedAt": "2026-10-25T00:30:08Z",
+      "source": {
+        "name": "Business Today"
+      }
+    },
     {
       "title": "Healey draws up green tax on petrol",
       "description": "Fears of more pain at the pumps as Chancellor considers \u2018carbon charge\u2019 on imported fuel",
@@ -47,61 +97,11 @@
     {
       "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
       "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
-      "url": "https://www.al.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
-      "image": "https://www.al.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
-      "publishedAt": "2026-10-24T14:32:42Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
-      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
       "url": "https://www.mlive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
       "image": "https://www.mlive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
       "publishedAt": "2026-10-24T14:32:42Z",
       "source": {
         "name": "M Live Michigan "
-      }
-    },
-    {
-      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
-      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
-      "url": "https://www.silive.com/nation/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
-      "image": "https://www.silive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
-      "publishedAt": "2026-10-24T14:32:42Z",
-      "source": {
-        "name": "Staten Island Advance"
-      }
-    },
-    {
-      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
-      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
-      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
-      "image": "https://www.masslive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
-      "publishedAt": "2026-10-24T14:32:42Z",
-      "source": {
-        "name": "MassLive"
-      }
-    },
-    {
-      "title": "Gas prices for 10/24/26: National average sitting at $4.29 per gallon",
-      "description": "Prices in multiple Midwest states increased again overnight, with one state up 34 cents over the last two days.",
-      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-102426-national-average-sitting-at-429-per-gallon.html",
-      "image": "https://www.pennlive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
-      "publishedAt": "2026-10-24T14:32:42Z",
-      "source": {
-        "name": "Mechanicsburg Patriot News "
-      }
-    },
-    {
-      "title": "Soybean Refined Oil Prices Rise in Indore Market, Affecting Household Budgets",
-      "description": "Soybean Refined Oil Prices Rise in Indore Market, Affecting Household Budgets - Indore, October 24 (\u092d\u093e\u0937\u093e) \u2013 Consumers in Indore are facing higher kitchen expenses as the price of soybean refined ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/soybean-refined-oil-prices-rise-in-indore-market-affecting-household-budgets-a001-w03/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/PTI-indore-soybean-oil-price-surge_202610.jpg",
-      "publishedAt": "2026-10-24T13:17:08Z",
-      "source": {
-        "name": "Lokmat Times"
       }
     }
   ]
