@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-26T22:05:08+00:00",
+  "updated_at": "2026-10-27T02:54:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US stock futures edge up as oil falls heading into earnings barrage",
-      "description": "US stock index futures ticked higher on Monday as crude oil prices retreated from last week's surge, lifting sentiment at the start of a week dominated by corporate earnings and the Federal Reserve's...",
-      "url": "https://www.marketscreener.com/news/us-stock-futures-edge-up-as-oil-falls-heading-into-earnings-barrage-ce785cdcd88efe2c",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-08/2026-08-11T102532Z_1_LYNXMPEM7A0OR_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-26T10:01:49Z",
+      "title": "TSX climbs on tech gains after Anthropic's IPO filing, softer oil prices boost sentiment",
+      "description": "Canada's main stock index rose on Monday, lifted by technology stocks after Anthropic's IPO filing, while a pullback in oil prices and declining bond yields eased inflationary concerns and bolstered...",
+      "url": "https://www.marketscreener.com/news/tsx-climbs-on-tech-gains-after-anthropic-s-ipo-filing-softer-oil-prices-boost-sentiment-ce785cdcdd80f525",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T123359Z_1_LYNXMPEL3K0HI_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2026-10-26T14:51:35Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Gas under Trump 2.0 is now more expensive than it was under Biden",
-      "description": "By Matt Egan, CNN New York (CNN) \u2014 On the campaign trail in 2024, President Donald Trump promised to make gas dirt-cheap again and blamed record-high gas prices on the Biden-Harris \u201cwar on energy.\u201d But then an actual war got in the way: Trump\u2019s deeply unpopular conflict with Iran. Nearly eight months into a war",
-      "url": "https://abc17news.com/money/cnn-business-consumer/2026/10/26/gas-under-trump-2-0-is-now-more-expensive-than-it-was-under-biden/",
-      "image": "https://abc17news.com/wp-content/uploads/2026/10/cnn-L19jb21wb25lbnRzL2ltYWdlL2luc3RhbmNlcy9jbXZsZTZjNzcwMDAyM2I2dmk4c24yYjgx-L19jb21wb25lbnRzL2FydGljbGUvaW5zdGFuY2VzL2Ntdmw4M2E4MzAwMHkyN293OHA1NDIxajE-860x573.jpg",
-      "publishedAt": "2026-10-26T10:00:15Z",
+      "title": "Wall street opens higher as Anthropic IPO filing boosts chip stocks",
+      "description": "Wall Street rebounded at the open on Monday, led by gains in Nvidia, Micron and Broadcom after Anthropic publicly filed for an IPO. Investors also tracked crude oil prices and awaited the Federal Reserve's policy decision on Wednesday.",
+      "url": "https://www.cnbctv18.com/market/us-stock-market-today-dow-jones-nasdaq-anthropic-ipo-chip-20019692.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/untitled-design-2026-07-23t192630371-2026-07-1874ac062be98c8d65551f0b5b25689e.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-26T14:23:37Z",
       "source": {
-        "name": "ABC17News.com"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "How the war in Iran could impact your home heating oil bill this winter",
-      "description": "Since the start of the war in Iran, the average retail home heating oil prices have jumped 42 per cent in most of Canada, sitting at $2.50 per litre this week.",
-      "url": "https://globalnews.ca/news/12118618/home-heating-oil-iran-war/",
-      "image": "https://globalnews.ca/wp-content/uploads/2026/10/home-heating-oil-iran-war.jpg?quality=65&strip=all&w=720&h=379&crop=1",
-      "publishedAt": "2026-10-26T10:00:09Z",
+      "title": "Gas prices are trickling down, but analyst says relief \u2018remains elusive\u2019",
+      "description": "Even with states cutting fuel taxes and federal intervention, the national average is still above $4 a gallon.",
+      "url": "https://www.pennlive.com/news/2026/10/gas-prices-are-trickling-down-but-analyst-says-relief-remains-elusive.html",
+      "image": "https://www.pennlive.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true",
+      "publishedAt": "2026-10-26T14:17:39Z",
       "source": {
-        "name": "Global News"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12919969",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-20goodmorningnorthbaybct-6-the-view-from-the-temagami-tower-temagami-diane-jones-falconi.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-26T10:00:00Z",
-      "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Diesel Prices Climb While Gasoline Eases Nationwide",
-      "description": "Gas prices dipped in Minnesota this week while diesel ticked up nationwide. Here's what to expect at the pump heading into November.",
-      "url": "https://kdhlradio.com/ixp/67/p/minnesota-gas-prices-drop-6-cents/",
-      "image": "https://townsquare.media/site/67/files/2026/05/attachment-gettyimages-72907293.jpg?w=1200&q=75&format=natural",
-      "publishedAt": "2026-10-26T09:52:09Z",
-      "source": {
-        "name": "kdhlradio.com"
-      }
-    },
-    {
-      "title": "Gold gains as oil slide cools some inflation concerns",
-      "description": "Gold climbed back above $4,000 on Monday, as softer oil prices eased some inflation concerns ahead of this week's Federal Reserve policy meeting that could shed light on the future interest rate...",
-      "url": "https://www.marketscreener.com/news/gold-gains-as-oil-slide-cools-some-inflation-concerns-ce785cdcd88ff125",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-03/2026-03-01T125437Z_1_LYNXMPEM20107_RTROPTP_4_GOLD.JPG",
-      "publishedAt": "2026-10-26T09:43:20Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Stock market today: Sensex, Nifty recover as Dr. Reddy\u2019s jumps 7%",
-      "description": "Sensex rose 320 points and Nifty gained 99 points as pharma, metal and realty stocks rallied. Dr. Reddy\u2019s jumped 7%, while crude oil prices fell.",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-claw-back-from-morning-lows-dr-reddys-surges-7-crude-eases/article71626242.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/1kljns/article71612289.ece/alternates/LANDSCAPE_1200/PO06_Chart_2.jpg",
-      "publishedAt": "2026-10-26T09:33:18Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Europe's Natural Gas Prices Soar to Four-Year High as Winter Looms",
-      "description": "European natural gas prices have surged to their highest levels since 2022 as disrupted Qatari LNG supplies and unusually low storage inventories raise concerns about winter energy shortages.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Europes-Natural-Gas-Prices-Soar-to-Four-Year-High-as-Winter-Looms.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-26_tg0oxm5hgq.jpg",
-      "publishedAt": "2026-10-26T09:30:00Z",
-      "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Govt officially notifies E100 fuel for flex fuel vehicles to curb crude imports and emissions",
-      "description": "The regulatory framework restricts the usage of E100 and E85 exclusively to vehicles specially designed and certified for high-ethanol operations. Conventional petrol vehicles and those calibrated for E20 blends will remain incompatible with E100 due to fuel density and material corrosion factors.",
-      "url": "https://www.businesstoday.in/india/story/govt-officially-notifies-e100-fuel-for-flex-fuel-vehicles-to-curb-crude-imports-and-emissions-563650-2026-10-26",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6adf1a7048353-the-policy-expansion-aims-to-leverage-indias-domestic-ethanol-production-capacity-while-cutting-dow-261631283-16x9.jpg",
-      "publishedAt": "2026-10-26T09:16:36Z",
+      "title": "Flex fuel push: Govt clears path for cars running on 100% ethanol blended petrol",
+      "description": "The move comes as automakers prepare to introduce E100-compatible models, potentially opening another avenue for reducing India\u2019s dependence on imported crude oil",
+      "url": "https://www.businesstoday.in/latest/economy/story/flex-fuel-push-govt-clears-path-for-cars-running-on-100-ethanol-blended-petrol-563790-2026-10-26",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6adf5f633f754-the-framework-covers-vehicles-designed-to-operate-on-fuel-ranging-from-e20--containing-20-ethanol-261042562-16x9.png",
+      "publishedAt": "2026-10-26T13:58:21Z",
       "source": {
         "name": "Business Today"
       }
     },
     {
-      "title": "Hyundai Bayon Launched At Rs 9.99 Lakh: Check Price, Variants, Features, Engine, Safety And Mileage",
-      "description": "Positioned between Venue and Creta, the Hyundai Bayon combines a 1.5-litre petrol engine with a technology-focused cabin, ADAS and a range of premium features.",
-      "url": "https://www.news18.com/business/markets/hyundai-bayon-launched-at-rs-9-99-lakh-check-price-variants-features-engine-safety-and-mileage-ws-s-10397883.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Hyundai-Bayon-2026-10-cf3107c6de78c9f9278b54df6a60ba7d-1200x675.jpg",
-      "publishedAt": "2026-10-26T08:52:40Z",
+      "title": "Akasa Air raises \u20b9450 crore from share sale",
+      "description": "Akasa Air has raised \u20b9450 crore by selling shares to existing investors to meet operating expenses and fund its expansion plans. The fundraise, the second since last August, comes amid slow traffic growth and a tough operating environment that has seen crude oil prices increase to over $100 a barrel.",
+      "url": "https://www.thehindubusinessline.com/economy/logistics/akasa-air-raises-450-crore-from-share-sale/article71627402.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/kvfy3e/article71627532.ece/alternates/LANDSCAPE_1200/Akasa.jpeg",
+      "publishedAt": "2026-10-26T13:53:23Z",
       "source": {
-        "name": "News18"
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "US Stock Market Today: Dow Jones, Nasdaq Jump On Anthropic IPO Interest, Falling Oil Prices",
+      "description": "Oil prices moved lower, with Brent crude futures falling 1.4% to $115.02 a barrel and US West Texas Intermediate declining 2% to $101.01 a barrel.",
+      "url": "https://www.ndtvprofit.com/markets/us-stock-market-today-dow-jones-nasdaq-jump-on-anthropic-ipo-interest-falling-oil-prices-12238521",
+      "image": "https://c.ndtvimg.com/2026-10/26dbj9fg_wall-street-source-unsplash_625x300_18_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-26T13:36:53Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Iran says US 'not serious' about talks, rejects claims over nuclear programme as oil prices take a tumble",
+      "description": "Iran accused the US on Monday of lacking seriousness in negotiations, saying Washington has repeatedly confused diplomacy with imposing demands on Tehran,",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/26/iran-says-us-039not-serious039-about-talks-rejects-claims-over-nuclear-programme-as-oil-prices-take-a-tumble",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/26/4181706.jpg",
+      "publishedAt": "2026-10-26T13:33:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "US futures climb ahead of big earnings week and another Fed rate call",
+      "description": "U.S. futures are climbing as oil prices ease ahead of a big week of corporate earnings and a rate decision by the U.S. Federal Reserve.",
+      "url": "https://www.twincities.com/2026/10/26/us-futures-fed-interest-rate-corporate-earnings/",
+      "image": "https://www.twincities.com/wp-content/uploads/2026/10/Japan_Financial_Markets_36279-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-26T13:26:50Z",
+      "source": {
+        "name": "St. Paul Pioneer Press"
+      }
+    },
+    {
+      "title": "US futures climb ahead of big earnings week and another Fed rate call",
+      "description": "U.S. futures are climbing as oil prices ease ahead of a big week of corporate earnings and a rate decision by the U.S. Federal Reserve.",
+      "url": "https://www.pilotonline.com/2026/10/26/us-futures-fed-interest-rate-corporate-earnings/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/10/Japan_Financial_Markets_36279-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-26T13:26:50Z",
+      "source": {
+        "name": "Norfolk Virginian-Pilot"
+      }
+    },
+    {
+      "title": "US futures climb ahead of big earnings week and another Fed rate call",
+      "description": "U.S. futures are climbing as oil prices ease ahead of a big week of corporate earnings and a rate decision by the U.S. Federal Reserve.",
+      "url": "https://www.sandiegouniontribune.com/2026/10/26/us-futures-fed-interest-rate-corporate-earnings/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/Japan_Financial_Markets_36279-1.jpg?w=2000&h=1333",
+      "publishedAt": "2026-10-26T13:26:50Z",
+      "source": {
+        "name": "San Diego Union-Tribune"
       }
     }
   ]
