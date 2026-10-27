@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-27T11:15:31+00:00",
+  "updated_at": "2026-10-27T17:01:06+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.sandiegouniontribune.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
+      "title": "Sensex, Nifty extend gains despite oil hovering near $115/barrel. What lies ahead?",
+      "description": "The Indian stock market nudged upward on Tuesday, with Sensex and Nifty making modest gains despite lingering challenges. Investors remained cautious due to high oil prices, which are currently at $115 per barrel. However, a notable surge in smallcap stocks is enhancing investor confidence. Analysts attribute this positive momentum to better corporate fundamentals and increased domestic fund inflows.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-extend-gains-despite-oil-hovering-near-115/barrel-what-lies-ahead/articleshow/135224717.cms",
+      "image": "https://img.etimg.com/thumb/msid-135224733,width-1200,height-900,imgsize-556229,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-27T04:49:00Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.bostonherald.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
+      "title": "Crude oil at $115 has risk premium built in, prices may soften if tensions ease: 3R Investment",
+      "description": "Neeraj Seth, Founder and CIO of 3R Investment Management explains why crude oil prices at $115 a barrel could soften if geopolitical tensions ease, while flagging risks from US bond yields and the outlook for AI investments.",
+      "url": "https://www.cnbctv18.com/market/crude-oil-prices-us-bond-yields-ai-investment-outlook-neeraj-seth-alpha-article-20019937.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/crude-oil-coal-2026-10-552eac687ced1703972232cff80eda51.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-27T04:41:03Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.readingeagle.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
+      "title": "Stock markets fall in early trade amid persistently elevated crude oil prices, IT selling",
+      "description": "The 30-share BSE Sensex declined 281.95 points to 73,316.21 in early trade. The 50-share NSE Nifty fell 63.15 points to 22,694.60.",
+      "url": "https://www.newindianexpress.com/business/2026/Oct/27/stock-markets-fall-in-early-trade-amid-persistently-elevated-crude-oil-prices-it-selling",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-11%2Fyp682dl2%2F20260201421f.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-10-27T04:40:34Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.twincities.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.twincities.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
+      "title": "Gas Prices Are Driving Inflation Higher: Are TSX Energy Stocks the Winners?",
+      "description": "Written by Sneha Nahata at The Motley Fool Canada",
+      "url": "https://www.europesays.com/3334493/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1793075869.jpeg",
+      "publishedAt": "2026-10-27T04:37:46Z",
       "source": {
-        "name": "St. Paul Pioneer Press"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.ocregister.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
-      "source": {
-        "name": "Santa Ana Orange County Register"
-      }
-    },
-    {
-      "title": "Halloween candy sales are off to a slow start amid high chocolate prices and affordability concerns",
-      "description": "High gas prices have worsened Americans\u2019 concerns about affordability, and that\u2019s dampening demand for Halloween treats.",
-      "url": "https://www.dailycamera.com/2026/10/26/halloween-candy-sales-slow-start/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/10/Halloween_Candy_Sales__3777-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-26T23:13:42Z",
-      "source": {
-        "name": "Boulder Daily Camera"
-      }
-    },
-    {
-      "title": "U.S. stocks rise amid tech rebound, pullback in oil prices",
-      "description": "NEW YORK, Oct. 26 (Xinhua) -- U.S. stocks closed higher on Monday, with technology shares leading a rebound from last week's selloff as oil prices pulled back on hopes of easing Middle East tensions.",
-      "url": "https://www.thestar.com.my/news/world/2026/10/27/us-stocks-rise-amid-tech-rebound-pullback-in-oil-prices",
-      "image": "https://cdn.thestar.com.my/Themes/img/newTsol_logo_socmedia.png",
-      "publishedAt": "2026-10-26T23:04:00Z",
-      "source": {
-        "name": "The Star"
-      }
-    },
-    {
-      "title": "Bhopal Metro Work Triggers 22-Day Traffic Diversions Between ITI Crossing And Piplani Petrol Pump From October 27, Check Alternative Routes",
-      "description": "Traffic diversions will be enforced between ITI Crossing and Piplani Petrol Pump Crossing in Bhopal from October 27 to November 17 for Metro construction. Commuters travelling towards Prabhat Crossing, JK Road, Minal, Govindpura and Awadhpuri must use designated alternative routes. Separate diversions have been announced for heavy and light vehicles.",
-      "url": "https://www.freepressjournal.in/bhopal/bhopal-metro-work-triggers-22-day-traffic-diversions-between-iti-crossing-and-piplani-petrol-pump-from-october-27-check-alternative-routes",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-26/oy0ph2xe/images.jpg",
-      "publishedAt": "2026-10-26T23:00:00Z",
+      "title": "Rupee Falls 7 Paise To 95.22 Against US Dollar In Early Trade, High Crude Oil Prices And FII Outflows Weigh On Indian Currency",
+      "description": "Rupee falls 7 paise to 95.22 against the US dollar amid high crude prices, FII outflows and geopolitical tensions, with investors awaiting the US Fed decision.",
+      "url": "https://www.freepressjournal.in/business/rupee-falls-7-paise-to-9522-against-us-dollar-in-early-trade-high-crude-oil-prices-and-fii-outflows-weigh-on-indian-currency",
+      "image": "https://media.assettype.com/freepressjournal/2026-04-20/8fpcni8r/Rupee-USDollar.jpg",
+      "publishedAt": "2026-10-27T04:35:21Z",
       "source": {
         "name": "Free Press Journal"
       }
     },
     {
-      "title": "JD Vance\u2019s \u2018tinpot dictator\u2019 excuse for skyrocketing gas prices backfires spectacularly online",
-      "description": "\u2018They skyrocket every time some tin-pot dictator decides to throw a tantrum,\u2019 Vance told voters at a Montana midterms rally",
-      "url": "https://www.independent.co.uk/news/world/americas/us-politics/jd-vance-tinpot-dictator-gas-prices-backlash-b3073768.html",
-      "image": "https://static.independent.co.uk/2026/10/26/22/2302121236..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-10-26T22:48:23Z",
+      "title": "Brent crude hovers around $115; Check today\u2019s city-wise petrol, diesel and CNG rates",
+      "description": "Check today October 27 city-wise petrol, diesel and CNG rates below",
+      "url": "https://www.moneycontrol.com/news/india/brent-crude-hovers-around-115-check-today-s-city-wise-petrol-diesel-and-cng-rates-14060946.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260917133251_Petrol-pump.jpg",
+      "publishedAt": "2026-10-27T04:35:17Z",
       "source": {
-        "name": "The Independent"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Trump downplays high gas prices as election approaches",
-      "description": "President Donald Trump is downplaying concerns about high gas prices as the midterm election approaches with gas costing over $4 per gallon.",
-      "url": "https://www.usatoday.com/story/cars/news/2026/10/26/trump-high-gas-prices-before-election-day/92449912007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/10/04/USAT/92095688007-20260914-t-150555-z-2053584893-mt-1-usatoday-29819297-rtrmadp-3-americanscontinuetostrugglewithhighgaspricesatthe.JPG?crop=3969,2233,x0,y545&width=3200&height=1801&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-26T22:15:50Z",
+      "title": "Sensex falls over 300 points, Nifty slips below 22,690 as crude prices hover near USD 115",
+      "description": "Indian equity markets opened lower on Tuesday, with the Sensex falling over 300 points and the Nifty slipping below the 22,690 mark, as crude oil prices hovered near USD 115 per barrel and investors remained cautious ahead of the US Federal Reserve's monetary policy decision later this week.",
+      "url": "https://www.devdiscourse.com/article/business/3997755-sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/27_10_2026_09_52_39_0620234.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-27T04:22:42Z",
       "source": {
-        "name": "USA TODAY"
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Sensex falls over 300 points, Nifty slips below 22,690 as crude prices hover near USD 115",
+      "description": "Indian equity markets opened lower on Tuesday, with the Sensex falling over 300 points and the Nifty slipping below the 22,690 mark, as crude oil prices hovered near USD 115 per barrel and investors remained cautious ahead of the US Federal Reserve's monetary policy decision later this week.",
+      "url": "https://www.tribuneindia.com/news/business/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-115/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTA5ODQ4ZmYwLWQxYmUtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+      "publishedAt": "2026-10-27T04:22:27Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Sensex falls over 300 points, Nifty slips below 22,690 as crude prices hover near USD 115",
+      "description": "Indian equity markets opened lower on Tuesday, with the Sensex falling over 300 points and the Nifty slipping below the 22,690 mark, as crude oil prices hovered near USD 115 per barrel and investors remained cautious ahead of the US Federal Reserve's monetary policy decision later this week.",
+      "url": "https://www.aninews.in/news/business/sensex-falls-over-300-points-nifty-slips-below-22690-as-crude-prices-hover-near-usd-11520261027094737/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261027040505-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-27T04:17:37Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "US futures and Asian stocks advance following a rally on Wall Street",
+      "description": "Asian stocks are mostly higher, with benchmarks in Tokyo and Seoul lifted by buying of AI-related stocks. U.S. futures edged higher and oil prices extended losses. South Korea\u2019s Kospi jumped 4.3%, with strong gains for computer chipmakers SK Hynix and Samsung Electronics. Japan\u2019s Nikkei 225 gained 2%, while shares in Hong Kong and Shanghai edged lower. Investors face a busy week, with earnings reports from about one-third of S&P 500 companies and interest rate decisions by the Federal Reserve and other big central banks. On Monday, the S&P 500 rose 0.7% and more than recovered its losses from last week. The Dow Jones Industrial Average added 0.3%, and the Nasdaq composite climbed 0.8%.",
+      "url": "https://www.ajc.com/news/2026/10/us-futures-and-asian-stocks-advance-following-a-rally-on-wall-street/",
+      "image": "https://images.ajc.com/resizer/v2/T2T54WTIOBG6LMPEUEO2OTNTJY.jpg?auth=1bd1f0adaf3ad45f588e5347a0ac32161f9c4adc59100e980f2bf430df5998bc&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-27T04:13:32Z",
+      "source": {
+        "name": "The Atlanta Journal-Constitution"
       }
     }
   ]
