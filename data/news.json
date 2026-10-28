@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-28T11:49:13+00:00",
+  "updated_at": "2026-10-28T17:37:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Trump Shrugs Off Brutal Gas Prices in Stunning Admission, Then Report Reveals the Jaw-Dropping Sum He\u2019s Raking In",
-      "description": "President Donald Trump is making millions of dollars off oil and gas stocks since he launched the war on Iran. That\u2019s according to a new report from",
-      "url": "https://atlantablackstar.com/2026/10/27/trump-shrugs-off-brutal-gas-prices-in-stunning-admission/",
-      "image": "https://atlantablackstar.com/wp-content/uploads/2029/10/MixCollage-01-Oct-2026-05-03-PM-5896.webp",
-      "publishedAt": "2026-10-27T22:30:00Z",
+      "title": "India bonds sink on oil spike before Fed decision",
+      "description": "Indian government bonds experienced a significant decline after a prior rally due to rising oil prices. Brent crude oil prices increased following concerns over supply disruptions in Saudi Arabia. The US 10-year Treasury yield also rose, affecting the attractiveness of Indian debt. Markets are anticipating the Federal Reserve's policy decision and rate outlook, impacting investor sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-before-fed-decision/articleshow/135253447.cms",
+      "image": "https://img.etimg.com/thumb/msid-135253479,width-1200,height-900,imgsize-111102,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-28T05:35:00Z",
       "source": {
-        "name": "Atlanta Black Star"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "RAF Fairford Plot: Mohamed Abdulkarim Accused Of Loading Vans With Petrol Drums And Dashcams",
-      "description": "Mohamed Abdulkarim, one of two individuals charged in a plot related to RAF Fairford, has been linked to loading vans with petrol, water butts, and dashcams. , World News, Times Now",
-      "url": "https://www.timesnownews.com/world/raf-fairford-plot-mohamed-abdulkarim-accused-of-loading-vans-with-petrol-drums-and-dashcams-article-156418858",
-      "image": "https://images.timesnownews.com/thumb/msid-156418859,thumbsize-1521511,width-1280,height-720,resizemode-75/156418859.jpg",
-      "publishedAt": "2026-10-27T22:09:20Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "How gas prices are affecting Trump's approval ratings",
-      "description": "President Donald Trump keeps downplaying concerns about high gas prices, even as Americans are paying over $4 per gallon. How it's affecting his numbers.",
-      "url": "https://www.usatoday.com/story/cars/news/2026/10/27/trump-gas-prices-approval-ratings-election-day/92464266007/",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/07/08/USAT/90848124007-img-1322.jpeg?crop=4024,2266,x0,y327&width=3200&height=1802&format=pjpg&auto=webp",
-      "publishedAt": "2026-10-27T22:01:37Z",
-      "source": {
-        "name": "USA TODAY"
-      }
-    },
-    {
-      "title": "Convicted murderer who attacked Lidl worker then helped to steal petrol station till is jailed",
-      "description": "The court heard that Ryan McLaughlin (43) was arrested later that same night, where he was so intoxicated he was unable to stand.",
-      "url": "https://www.thejournal.ie/convicted-murder-assaulted-lidl-worker-robbery-petrol-station-jailed-7206507-Oct2026/",
-      "image": "https://img2.thejournal.ie/article/7206507/river/?height=400&version=7206528",
-      "publishedAt": "2026-10-27T22:00:52Z",
-      "source": {
-        "name": "TheJournal.ie"
-      }
-    },
-    {
-      "title": "Trump to greet Venezuelan oil shipment, calling it a \u2018gift.\u2019 The U.S. paid for it.",
-      "description": "The discounted crude is arriving in the U.S. as part of a deal with a firm controlled by a Venezuelan billionaire and is not expected to affect gas prices.",
-      "url": "https://www.washingtonpost.com/world/2026/10/27/trump-greet-venezuelan-oil-shipment-calling-it-gift-us-paid-it/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Fcloudfront-us-east-1.images.arcpublishing.com%2Fwapo%2FWQQ27A7BUC7HZSHLQOTVFJVXEM.JPG&w=1200",
-      "publishedAt": "2026-10-27T21:19:11Z",
-      "source": {
-        "name": "The Washington Post"
-      }
-    },
-    {
-      "title": "Trading Day: AI wave lifts all boats",
-      "description": "Investors continue to ride the wave of AI optimism that has emerged from last week's gloom, with another tech-led rally lifting US stocks on Tuesday. Lower oil prices and a steady bond market helped...",
-      "url": "https://www.marketscreener.com/news/trading-day-ai-wave-lifts-all-boats-ce785cddd18cf224",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-01T210432Z_1_LYNXMPEM9043V_RTROPTP_4_USA-STOCKS.JPG",
-      "publishedAt": "2026-10-27T21:01:57Z",
+      "title": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
+      "description": "Oil prices climbed more than 1% on Wednesday after an attack on a refinery in Saudi Arabia renewed concerns around supply risks from the major exporter.\nBrent crude futures gained $1.59,...",
+      "url": "https://www.marketscreener.com/news/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk-ce785cd2d98ffe22",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-28T014917Z_1_LYNXNPEM9R04D_RTROPTP_4_SYRIA-SAUDI-ARAMCO.JPG",
+      "publishedAt": "2026-10-28T05:21:24Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Europe inches closer to watering down its 2035 ban on new petrol and diesel cars",
-      "description": "The EU is still figuring out how much to soften its new-vehicle emissions target for 2035, but the bloc is slowly moving towards an agreement.",
-      "url": "https://7news.com.au/motoring/europe-inches-closer-to-watering-down-its-2035-ban-on-new-petrol-and-diesel-cars-c-23081351",
-      "image": "https://images.7news.com.au/publication/C-23081351/f1eeeda33a28cafdfd87908fad5848cc03f02eba-16x9-x0y113w1200h675.jpg?imwidth=1200",
-      "publishedAt": "2026-10-27T21:00:11Z",
+      "title": "Oil holds above $114 as Gulf supply risks stay high. Check today\u2019s city-wise petrol, diesel and CNG rates",
+      "description": "Check today October 28 city-wise petrol, diesel and CNG rates below",
+      "url": "https://www.moneycontrol.com/news/india/oil-holds-above-114-as-gulf-supply-risks-stay-high-check-today-s-city-wise-petrol-diesel-and-cng-rates-14062068.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260519004750_perol-pump-bloomberg.jpg",
+      "publishedAt": "2026-10-28T05:21:05Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Europe inches closer to watering down its 2035 ban on new petrol and diesel cars",
-      "description": "The EU is still figuring out how much to soften its new-vehicle emissions target for 2035, but the bloc is slowly moving towards an agreement.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/europe-inches-closer-to-watering-down-its-2035-ban-on-new-petrol-and-diesel-cars-c-23081349",
-      "image": "https://images.perthnow.com.au/publication/C-23081349/f1eeeda33a28cafdfd87908fad5848cc03f02eba-16x9-x0y113w1200h675.jpg?imwidth=1200",
-      "publishedAt": "2026-10-27T21:00:10Z",
+      "title": "Crude Oil Prices Jump After Missile Strike on Saudi Refinery",
+      "description": "Crude Oil Prices Jump After Missile Strike on Saudi Refinery - Global oil prices saw a significant rise on Wednesday following reports of a missile strike on Saudi Arabia's largest ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/crude-oil-prices-jump-after-missile-strike-on-saudi-refinery-a001-w02/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260515135F_202610.jpg",
+      "publishedAt": "2026-10-28T04:51:53Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Bhopal Traffic Alert As Metro Work Shuts IETI-Piplani Road Till November 17, 4 Lakh Residents Face Disruption",
-      "description": "Around four lakh Bhopal residents may face traffic disruptions as the IETI Crossing\u2013Piplani Petrol Pump road remains closed from October 27 to November 17 for Metro construction. Diversions will affect commuters travelling towards Piplani, Ayodhya Nagar and nearby areas. Narrow alternative roads, ongoing construction and festive traffic could worsen congestion and lengthen journeys.",
-      "url": "https://www.freepressjournal.in/bhopal/bhopal-traffic-alert-as-metro-work-shuts-ietipiplani-road-till-november-17-4-lakh-residents-face-disruption",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-27/thogtdj1/Final-001-1.jpg",
-      "publishedAt": "2026-10-27T20:30:00Z",
+      "title": "\u2018No traffic challans up to 120 kmph, even 20% above allowed\u2019: Nitin Gadkari on expressway speeding",
+      "description": "Nitin Gadkari says no speed challans should be issued up to 120 kmph, allows 20% leeway beyond and calls opposition to E20 petrol blending paid propaganda.",
+      "url": "https://www.financialexpress.com/business/roadways-no-traffic-challans-for-speeding-up-to-120-kmph-even-20-above-allowed-nitin-gadkari-4371089/",
+      "image": "https://images.financialexpressdigital.com/2026/10/nitin-gadkari-speed-challan-120-kmph-e20-paid-propaganda.jpg",
+      "publishedAt": "2026-10-28T04:47:59Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Consumer confidence recovering",
-      "description": "American confidence in the economy rebounded somewhat in October as gas prices fell modestly, though it remains much more expensive to fill up a tank than last year at this time.",
-      "url": "https://www.bostonherald.com/2026/10/27/consumer-confidence-recovering/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/GASsc-001.jpg?w=8192&h=5464",
-      "publishedAt": "2026-10-27T20:09:58Z",
+      "title": "Sensex Falls 600 Points In Early Trade As IT Stocks Slide, Crude Oil Tops $115",
+      "description": "Indian equity markets declined on Wednesday, with the Sensex falling below 73,000 due to weaker IT shares, rising crude oil prices.",
+      "url": "https://www.news18.com/business/markets/sensex-falls-600-points-in-early-trade-as-it-stocks-slide-crude-oil-tops-115-ws-l-10400780.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/market-crash-sensex-nifty-2026-10-109c33d5633ed2bb1fe713841cf9790e-1200x675.png",
+      "publishedAt": "2026-10-28T04:38:15Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "News18"
+      }
+    },
+    {
+      "title": "Sensex drops over 600 points dragged by IT stocks, rising crude oil prices",
+      "description": "Stock market benchmark indices Sensex and Nifty tumbled in early trade on Wednesday, dragged by IT companies, rising crude oil prices and caution ahead of the US Federal Reserve's policy decision.",
+      "url": "https://www.greaterkashmir.com/business/sensex-drops-over-600-points-dragged-by-it-stocks-rising-crude-oil-prices-12759835",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2024/04/Sensex-Slips-1.jpg",
+      "publishedAt": "2026-10-28T04:35:37Z",
+      "source": {
+        "name": "Greater Kashmir"
+      }
+    },
+    {
+      "title": "Indian shares fall as oil rise weighs; Jio lists at 21.4% premium",
+      "description": "Indian shares fell on Wednesday as rising oil prices weighed on risk appetite ahead of the US Federal Reserve's policy decision later in the day.\nMeanwhile, Jio Platforms listed at a...",
+      "url": "https://www.marketscreener.com/news/indian-shares-fall-as-oil-rise-weighs-jio-lists-at-21-4-premium-ce785cd2d98cf723",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-23T024030Z_1_LYNXMPEL5M01X_RTROPTP_4_HDB-FINANCIAL-IPO.JPG",
+      "publishedAt": "2026-10-28T04:34:21Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Commodities: Oil In Wait-And-See Mode Ahead Of U.S. Midterms",
+      "description": "Oil prices edged lower yesterday, settling down for a second consecutive day.",
+      "url": "https://seekingalpha.com/article/4958302-commodities-oil-in-wait-see-mode-ahead-of-us-midterms",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204461811/image_2204461811.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-10-28T04:30:00Z",
+      "source": {
+        "name": "Seeking Alpha"
+      }
+    },
+    {
+      "title": "Malaysia expects billions in petrol subsidy savings - here\u2019s where the money will go",
+      "description": "KUALA LUMPUR, Oct 28 \u2014 The total fuel subsidy savings for this year will be finalised by year-end, taking into account actual transaction adjustments, weekly market prices,...",
+      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/malaysia-expects-billions-in-petrol-subsidy-savings-heres-where-the-money-will-go/240928",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/28/370892.jpg",
+      "publishedAt": "2026-10-28T04:29:22Z",
+      "source": {
+        "name": "Malay Mail"
       }
     }
   ]
