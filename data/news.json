@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-28T17:37:48+00:00",
+  "updated_at": "2026-10-28T21:59:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India bonds sink on oil spike before Fed decision",
-      "description": "Indian government bonds experienced a significant decline after a prior rally due to rising oil prices. Brent crude oil prices increased following concerns over supply disruptions in Saudi Arabia. The US 10-year Treasury yield also rose, affecting the attractiveness of Indian debt. Markets are anticipating the Federal Reserve's policy decision and rate outlook, impacting investor sentiment.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-sink-on-oil-spike-before-fed-decision/articleshow/135253447.cms",
-      "image": "https://img.etimg.com/thumb/msid-135253479,width-1200,height-900,imgsize-111102,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-28T05:35:00Z",
+      "title": "Indian stock market outlook: Nifty may rebound in November amid crude oil risks",
+      "description": "Indian stocks may rebound in November as the Nifty enters oversold territory, but high crude oil prices and global AI bets could limit gains.",
+      "url": "https://www.thehindubusinessline.com/markets/indian-stocks-may-rebound-in-november-but-high-crude-prices-pose-a-risk/article71635188.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/l7g7v9/article71634878.ece/alternates/LANDSCAPE_1200/iStock-2238058472.jpg",
+      "publishedAt": "2026-10-28T09:47:51Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring some relief?",
+      "description": "Dalal Street heads into Samvat 2083 after a turbulent year that saw the Sensex plunge over 10,750 points and the Nifty shed nearly 12% since last Diwali. The Iran-US conflict, elevated crude oil prices, persistent FII outflows and AI-led IT selloff weighed on sentiment. Can easing headwinds revive the market?",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-2026-sensex-plunged-10000-points-nifty-dropped-12-since-last-diwali-will-samvat-2083-bring-some-relief/articleshow/135259845.cms",
+      "image": "https://img.etimg.com/thumb/msid-135259895,width-1200,height-900,imgsize-271532,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-28T09:39:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil rises over 1% after Saudi Arabian refinery attack reignites supply risk",
-      "description": "Oil prices climbed more than 1% on Wednesday after an attack on a refinery in Saudi Arabia renewed concerns around supply risks from the major exporter.\nBrent crude futures gained $1.59,...",
-      "url": "https://www.marketscreener.com/news/oil-rises-over-1-after-saudi-arabian-refinery-attack-reignites-supply-risk-ce785cd2d98ffe22",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-28T014917Z_1_LYNXNPEM9R04D_RTROPTP_4_SYRIA-SAUDI-ARAMCO.JPG",
-      "publishedAt": "2026-10-28T05:21:24Z",
+      "title": "Indian stocks could see November rebound; oil, AI trade pose risks",
+      "description": "Indian stocks could rebound in November after slipping into oversold territory, but elevated crude oil prices and money flowing into AI-linked markets may limit any rally, two brokerages said.\n...\n-October 28, 2026 at 05:37 am EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/indian-stocks-could-see-november-rebound-oil-ai-trade-pose-risks-ce785cd2da8bf022",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-09/2026-09-04T112631Z_1_LYNXMPEM830WH_RTROPTP_4_INDIA-IPO-PIPELINE.JPG",
+      "publishedAt": "2026-10-28T09:37:22Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Oil holds above $114 as Gulf supply risks stay high. Check today\u2019s city-wise petrol, diesel and CNG rates",
-      "description": "Check today October 28 city-wise petrol, diesel and CNG rates below",
-      "url": "https://www.moneycontrol.com/news/india/oil-holds-above-114-as-gulf-supply-risks-stay-high-check-today-s-city-wise-petrol-diesel-and-cng-rates-14062068.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/05/20260519004750_perol-pump-bloomberg.jpg",
-      "publishedAt": "2026-10-28T05:21:05Z",
+      "title": "Indian gasoline demand to peak by 2035 as EVs, ethanol blending gain ground: IOC chairman",
+      "description": "India\u2019s petrol demand is expected to peak by 2035 as electric vehicles, ethanol blending and gas-powered vehicles reshape fuel consumption, IOC Chairman A S Sahney said. Meanwhile, rising crude oil prices, record-high shipping costs and a weaker rupee are increasing pressure on India\u2019s oil import bill.",
+      "url": "https://www.businesstoday.in/latest/corporate/story/indian-gasoline-demand-to-peak-by-2035-as-evs-ethanol-blending-gain-ground-ioc-chairman-564284-2026-10-28",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ae1c1cfc1aea-india-needs-to-build-up-its-shipping-fleet-to-help-refiners-benefit-from-discounted-crude-oil--ioc-283510393-16x9.jpg",
+      "publishedAt": "2026-10-28T09:35:37Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Crude Oil Prices Jump After Missile Strike on Saudi Refinery",
-      "description": "Crude Oil Prices Jump After Missile Strike on Saudi Refinery - Global oil prices saw a significant rise on Wednesday following reports of a missile strike on Saudi Arabia's largest ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/crude-oil-prices-jump-after-missile-strike-on-saudi-refinery-a001-w02/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260515135F_202610.jpg",
-      "publishedAt": "2026-10-28T04:51:53Z",
+      "title": "Equinor Profits Triple as Oil and Gas Prices Surge",
+      "description": "Equinor's adjusted net income tripled to $2.86 billion in the third quarter of 2026, driven by higher oil and gas prices, strong refining margins, and increased production.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Equinor-Profits-Triple-as-Oil-and-Gas-Prices-Surge.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-10-28T09:20:33Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "\u2018No traffic challans up to 120 kmph, even 20% above allowed\u2019: Nitin Gadkari on expressway speeding",
-      "description": "Nitin Gadkari says no speed challans should be issued up to 120 kmph, allows 20% leeway beyond and calls opposition to E20 petrol blending paid propaganda.",
-      "url": "https://www.financialexpress.com/business/roadways-no-traffic-challans-for-speeding-up-to-120-kmph-even-20-above-allowed-nitin-gadkari-4371089/",
-      "image": "https://images.financialexpressdigital.com/2026/10/nitin-gadkari-speed-challan-120-kmph-e20-paid-propaganda.jpg",
-      "publishedAt": "2026-10-28T04:47:59Z",
+      "title": "Andy Burnham government approves new rules for petrol, diesel, EVs from 2027",
+      "description": "Government has decided to proceed",
+      "url": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-government-approves-new-34826844",
+      "image": "https://i2-prod.birminghammail.co.uk/article34826853.ece/ALTERNATES/s1200d/0_traffic.jpg",
+      "publishedAt": "2026-10-28T09:19:10Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Sensex Falls 600 Points In Early Trade As IT Stocks Slide, Crude Oil Tops $115",
-      "description": "Indian equity markets declined on Wednesday, with the Sensex falling below 73,000 due to weaker IT shares, rising crude oil prices.",
-      "url": "https://www.news18.com/business/markets/sensex-falls-600-points-in-early-trade-as-it-stocks-slide-crude-oil-tops-115-ws-l-10400780.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/10/market-crash-sensex-nifty-2026-10-109c33d5633ed2bb1fe713841cf9790e-1200x675.png",
-      "publishedAt": "2026-10-28T04:38:15Z",
+      "title": "Why heating oil prices are rising and what it means for your bill",
+      "description": "\"How are people going to pay? You get to a certain point, and people are not capable to pay.\u201d",
+      "url": "https://www.pennlive.com/news/2026/10/home-heating-oil-prices-have-doubled-since-2025-as-customers-brace-for-cold-and-high-costs.html",
+      "image": "https://www.pennlive.com/resizer/v2/NOMMQCMIX5BXJGRQB4MV3ER2CA.jpg?auth=a8cd45b70f2fd0570f894948305e4d543a09172d22e6331f2e434965b9be8a67&width=1280&smart=true",
+      "publishedAt": "2026-10-28T09:00:00Z",
       "source": {
-        "name": "News18"
+        "name": "Mechanicsburg Patriot News "
       }
     },
     {
-      "title": "Sensex drops over 600 points dragged by IT stocks, rising crude oil prices",
-      "description": "Stock market benchmark indices Sensex and Nifty tumbled in early trade on Wednesday, dragged by IT companies, rising crude oil prices and caution ahead of the US Federal Reserve's policy decision.",
-      "url": "https://www.greaterkashmir.com/business/sensex-drops-over-600-points-dragged-by-it-stocks-rising-crude-oil-prices-12759835",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2024/04/Sensex-Slips-1.jpg",
-      "publishedAt": "2026-10-28T04:35:37Z",
-      "source": {
-        "name": "Greater Kashmir"
-      }
-    },
-    {
-      "title": "Indian shares fall as oil rise weighs; Jio lists at 21.4% premium",
-      "description": "Indian shares fell on Wednesday as rising oil prices weighed on risk appetite ahead of the US Federal Reserve's policy decision later in the day.\nMeanwhile, Jio Platforms listed at a...",
-      "url": "https://www.marketscreener.com/news/indian-shares-fall-as-oil-rise-weighs-jio-lists-at-21-4-premium-ce785cd2d98cf723",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-06/2025-06-23T024030Z_1_LYNXMPEL5M01X_RTROPTP_4_HDB-FINANCIAL-IPO.JPG",
-      "publishedAt": "2026-10-28T04:34:21Z",
+      "title": "DAX weaker ahead of Fed decision, TK Accelis valued at \u20ac1.77bn",
+      "description": "A renewed rise in oil prices put DAX investors on the defensive on Wednesday. Germany's leading index opened slightly lower at 25,577.36 points. After a breather at the start of the week, oil prices...",
+      "url": "https://www.marketscreener.com/news/dax-weaker-ahead-of-fed-decision-tk-accelis-valued-at-128-1-77bn-ce785cd2db8eff27",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-15T062655Z_1_LYNXMPEL3E05L_RTROPTP_4_MARKETS-EUROPE-STOCKS.JPG",
+      "publishedAt": "2026-10-28T08:43:40Z",
       "source": {
         "name": "MarketScreener"
       }
     },
     {
-      "title": "Commodities: Oil In Wait-And-See Mode Ahead Of U.S. Midterms",
-      "description": "Oil prices edged lower yesterday, settling down for a second consecutive day.",
-      "url": "https://seekingalpha.com/article/4958302-commodities-oil-in-wait-see-mode-ahead-of-us-midterms",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2204461811/image_2204461811.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-10-28T04:30:00Z",
+      "title": "India stocks' 13% slide may not be a buying opportunity yet, Spark Capital says",
+      "description": "Indian benchmark stock index's 13% decline this year may not yet lure back investors as slowing growth, elevated oil prices and stretched valuations could limit the scope for market returns, a top...\n-October 28, 2026 at 04:42 am EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/india-stocks-13-slide-may-not-be-a-buying-opportunity-yet-spark-capital-says-ce785cd2db8ef022",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-10/2025-10-03T024005Z_1_LYNXNPEL9202C_RTROPTP_4_INDIA-STOCKS.JPG",
+      "publishedAt": "2026-10-28T08:42:28Z",
       "source": {
-        "name": "Seeking Alpha"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Malaysia expects billions in petrol subsidy savings - here\u2019s where the money will go",
-      "description": "KUALA LUMPUR, Oct 28 \u2014 The total fuel subsidy savings for this year will be finalised by year-end, taking into account actual transaction adjustments, weekly market prices,...",
-      "url": "https://www.malaymail.com/news/malaysia/2026/10/28/malaysia-expects-billions-in-petrol-subsidy-savings-heres-where-the-money-will-go/240928",
-      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/28/370892.jpg",
-      "publishedAt": "2026-10-28T04:29:22Z",
+      "title": "Gas prices fall in Idaho",
+      "description": "Idaho drivers are saving a little money as they fuel up for Halloween fun this week, but scary prices could be just around the corner.",
+      "url": "https://www.europesays.com/3337045/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/07/Fuel_Gas_Prices_Idaho_Pixabay_2022_t1200x1200.jpg",
+      "publishedAt": "2026-10-28T08:41:17Z",
       "source": {
-        "name": "Malay Mail"
+        "name": "EUROPE SAYS"
       }
     }
   ]
