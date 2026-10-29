@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-29T17:59:13+00:00",
+  "updated_at": "2026-10-29T22:30:49+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Crude Oil Prices Dip 1% To $114 As US-Iran Diplomacy Raises Hopes Of De-Escalation",
-      "description": "Crude oil prices declined on Thursday amid renewed diplomatic efforts to ease Middle East tensions. US crude fell 1.28%, while Brent slipped 1.02%. However, supply disruption risks persisted. The World Bank forecast Brent averaging $91 per barrel in 2026, warning that falling inventories could increase global market vulnerability",
-      "url": "https://www.freepressjournal.in/business/crude-oil-prices-dip-1-to-114-as-us-iran-diplomacy-raises-hopes-of-de-escalation",
-      "image": "https://media.assettype.com/freepressjournal/2026-05-12/uxth4vz8/Crude-oil.jpg",
-      "publishedAt": "2026-10-29T05:15:22Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Asian shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint",
-      "description": "Asian shares and U.S. futures are mixed, weighed down by some big technology stocks after Google parent Alphabet\u2019s earnings were below expectations. As expected, the Federal Reserve kept its key rate unchanged. Oil prices fell more than 1% early Thursday, even as U.S. officials warned that renewed military action against Iran could come after the Nov. 3 midterm elections. On Wednesday, Wall Street\u2019s benchmark S&P 500 added 0.3%. The Dow Jones Industrial Average gained 0.2%, and the technology-heavy Nasdaq composite climbed 0.3%. Markets are watching for the outcome of a meeting of the European Central Bank later Thursday. The Bank of Japan is expected to stand pat when it wraps up its policymaking meeting on Friday.",
-      "url": "https://www.ajc.com/news/2026/10/asian-shares-and-us-futures-are-mixed-after-google-parent-alphabets-earnings-disappoint/",
-      "image": "https://images.ajc.com/resizer/v2/NUKCXC5Y3BFS7IMBNWW4S3EJBM.jpg?auth=38c7f582e17189a9a9e2805079c3da70c85a9ac3ff442969ad67fe808ee0e2c3&width=1200&height=630&smart=true",
-      "publishedAt": "2026-10-29T05:12:34Z",
-      "source": {
-        "name": "The Atlanta Journal-Constitution"
-      }
-    },
-    {
-      "title": "Europe Faces Early Winter Stress Test as Cold Snap Forecast Pushes Natural Gas Prices Toward 100 Euros per Megawatt",
-      "description": "Benchmark Dutch TTF natural gas prices climbed above 97 euros per megawatt-hour on Monday, the first time at that level since the 2022 energy crisis, according to Bloomberg. The move came as meteorologists forecast temperatures across parts of continental Europe to fall 2 C to 3 C below normal starting this weekend, the report stated. [\u2026]",
-      "url": "https://www.naturalnews.com/2026-10-29-europe-faces-early-winter-stress-test.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ttf-natural-gas-prices-european-gas-storage-early-winter-stress-test-5881-474e860e-original.jpg",
-      "publishedAt": "2026-10-29T05:03:19Z",
-      "source": {
-        "name": "Natural News"
-      }
-    },
-    {
-      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
-      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
-      "url": "https://www.devdiscourse.com/article/business/3998626-sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/29_10_2026_10_16_11_8170156.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-29T04:46:15Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Oil prices fall as hopes of US-Iran peace talks ease supply fears",
-      "description": "Brent crude fell 1.1% to $114.10 a barrel and WTI dropped 1.3% to $101.45, paring Wednesday's gains as reports of renewed diplomatic efforts eased concerns over supply disruptions",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791449679-5436.jpg",
-      "publishedAt": "2026-10-29T04:44:29Z",
-      "source": {
-        "name": "Business Standard"
-      }
-    },
-    {
-      "title": "Stock Market Today Sees Cautious Recovery As Sensex Jumps 168 Points And Nifty Nears 22,750, Rising Oil Prices And US Fed Rate Concerns Keep Gains In Check",
-      "description": "Sensex gained 168 points and Nifty reached 22,744 in early trade as IT stocks rose. Elevated crude prices and US Fed rate concerns kept investors cautious.",
-      "url": "https://www.freepressjournal.in/business/stock-market-today-sees-cautious-recovery-as-sensex-jumps-168-points-and-nifty-nears-22750-rising-oil-prices-and-us-fed-rate-concerns-keep-gains-in-check",
-      "image": "https://media.assettype.com/freepressjournal/2025-03-17/g1snjw18/stock-market-today.jpg",
-      "publishedAt": "2026-10-29T04:36:17Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
-      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMzYjc1NjIwLWQzNTEtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "publishedAt": "2026-10-29T04:32:27Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
-      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
-      "url": "https://www.aninews.in/news/business/sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged16020261029095347/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261029041252-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-29T04:23:47Z",
+      "title": "Sensex surges 905 points, Nifty closes 1.05% higher as Fed rate pause boosts market sentiment",
+      "description": "Indian stock markets rallied on Thursday, with the Sensex surging over 905 points and the Nifty gaining 1.05 per cent, as the US Federal Reserve's decision to keep interest rates unchanged, a marginal easing in crude oil prices, and renewed institutional buying improved investor sentiment.",
+      "url": "https://www.aninews.in/news/business/sensex-surges-905-points-nifty-closes-105-higher-as-fed-rate-pause-boosts-market-sentiment20261029155838/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261029093147-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-29T10:28:38Z",
       "source": {
         "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Nifty, Sensex See Early Gains Amidst Mixed Global Signals and Rising Oil Prices",
-      "description": "Nifty, Sensex See Early Gains Amidst Mixed Global Signals and Rising Oil Prices - Mumbai, October 29 \u2013 Indian equity markets opened with slight gains today, Thursday, despite a mixed global environment and ... Get Latest News on Technology only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/technology/nifty-sensex-see-early-gains-amidst-mixed-global-signals-and-rising-oil-prices-a001-w02/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201422f_202610.jpg",
-      "publishedAt": "2026-10-29T04:11:37Z",
+      "title": "India's 100% ethanol-run vehicle push faces Supreme Court question to govt over fuel supply",
+      "description": "The Supreme Court questioned the Centre over ethanol supply for 100% ethanol-run vehicles after India amended motor vehicle rules to permit E100 flex-fuel vehicles. The government acknowledged that large-scale manufacturing changes would be necessary. The court also highlighted farmers' interests while examining ethanol allocation disputes, as the Centre ruled out increasing petrol ethanol blending beyond the current 20% level.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-100-ethanol-run-vehicle-push-faces-supreme-court-question-to-govt-over-fuel-supply/articleshow/135300042.cms",
+      "image": "https://img.etimg.com/thumb/msid-135300929,width-1200,height-900,imgsize-35838,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-29T10:10:00Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Euro 100! Europe Gas Prices Spike To 2022 Crisis Levels: Households, Industry Brace For Impact",
-      "description": "Rising heating demand, unusually low European stockpiles and fears that an escalation of the Iran war could further disrupt global gas supplies have combined to drive the latest surge.",
-      "url": "https://www.ndtvprofit.com/world/euro-100-europe-gas-prices-spike-to-2022-crisis-levels-households-industry-brace-for-impact-12251799",
-      "image": "https://c.ndtvimg.com/2026-10/lpb839ec_bloomberg-news_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-29T04:06:16Z",
+      "title": "India\u2019s growth outlook for FY27 remains resilient amid inflation risks",
+      "description": "India may sustain growth in FY27, but crude oil prices, food inflation and El Ni\u00f1o pose risks. Forex reserves provide 10.3 months of import cover.",
+      "url": "https://www.thehindubusinessline.com/economy/indian-economy-may-sustain-expansion-through-fy27-says-finance-ministrys-monthly-economic-review/article71639965.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/fnnvfr/article71640003.ece/alternates/LANDSCAPE_1200/indian%20economy%20illustration.jpg",
+      "publishedAt": "2026-10-29T10:09:47Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Urgent police hunt after feral youths start fire at Devon petrol station",
+      "description": "Lighting a fire on an active petrol station forecourt is beyond reckless",
+      "url": "https://www.devonlive.com/news/devon-news/urgent-police-hunt-after-feral-11218512",
+      "image": "https://i2-prod.devonlive.com/article11218516.ece/ALTERNATES/s1200d/3_AN_DL_29-10-26_petrolstationfire.jpg",
+      "publishedAt": "2026-10-29T10:08:46Z",
+      "source": {
+        "name": "Devon Live"
+      }
+    },
+    {
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12945837",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-27goodmorningnorthbaybct-3-two-ittc-albatross-trainers-north-bay-al-o.jpg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-10-29T10:00:00Z",
+      "source": {
+        "name": "BayToday"
+      }
+    },
+    {
+      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
+      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
+      "url": "https://www.plymouthherald.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
+      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
+      "publishedAt": "2026-10-29T09:48:17Z",
+      "source": {
+        "name": "Plymouth Live"
+      }
+    },
+    {
+      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
+      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
+      "url": "https://www.somersetlive.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
+      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
+      "publishedAt": "2026-10-29T09:48:17Z",
+      "source": {
+        "name": "Somerset Live"
+      }
+    },
+    {
+      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
+      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
+      "url": "https://www.cornwalllive.com/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
+      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
+      "publishedAt": "2026-10-29T09:48:17Z",
+      "source": {
+        "name": "Cornwall Live"
+      }
+    },
+    {
+      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
+      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
+      "url": "https://www.grimsbytelegraph.co.uk/news/cost-of-living/asda-shoppers-given-saturday-warning-11218527",
+      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
+      "publishedAt": "2026-10-29T09:48:17Z",
+      "source": {
+        "name": "Grimsby Telegraph"
+      }
+    },
+    {
+      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
+      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
+      "url": "https://www.gloucestershirelive.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
+      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
+      "publishedAt": "2026-10-29T09:48:17Z",
+      "source": {
+        "name": "Gloucestershire Live"
       }
     }
   ]
