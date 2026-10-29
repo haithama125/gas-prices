@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-29T03:29:04+00:00",
+  "updated_at": "2026-10-29T11:57:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "G-Sec yields spike 30 bps in Oct",
-      "description": "Indian bond yields surged sharply in October due to global headwinds, rising oil prices, RBI's hawkish stance, and tightening liquidity, increasing government borrowing costs and impacting banks' treasury portfolios.",
-      "url": "https://www.financialexpress.com/market/g-sec-yields-spike-30-bps-in-oct-global-cues-rate-hike-fears-weigh-4371647/",
-      "image": "https://images.financialexpressdigital.com/2026/10/markete.canva__20261028151719.jpg",
-      "publishedAt": "2026-10-28T15:18:46Z",
+      "title": "LA wants oil drilling shutdown even if it means higher gas prices",
+      "description": "Following a 13-0 vote, Los Angeles will phase out oil drilling over 20 years to curb pollution, despite oil company warnings of lawsuits.",
+      "url": "https://nypost.com/2026/10/28/us-news/la-wants-oil-drilling-shutdown-even-if-it-means-higher-gas-prices/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146777311.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-10-28T23:31:21Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "New York Post"
       }
     },
     {
-      "title": "Crypto News Today: Why Pepeto Outruns SOL and XRP as Oil Slides 1% on an Energy Ceasefire",
-      "description": "Stay updated with the latest Crypto News Today, including how oil prices impact the crypto market and new coin developments.",
-      "url": "https://techbullion.com/crypto-news-today-why-pepeto-outruns-sol-and-xrp-as-oil-slides-1-on-an-energy-ceasefire/",
-      "image": "https://techbullion.com/wp-content/uploads/2026/10/SOL-OCT-29.jpg",
-      "publishedAt": "2026-10-28T15:15:01Z",
+      "title": "Oil rises on Yemen fighting, Saudi refinery attack",
+      "description": "Oil prices edged up about 1% on Wednesday on renewed concerns about additional energy supply disruptions in the Middle East due to continued fighting in Yemen, an attack on a refinery in Saudi Arabia and worries the US could strike Iran after next week's US midterm elections.",
+      "url": "https://www.thestar.com.my/business/2026/10/29/oil-rises-on-yemen-fighting-saudi-refinery-attack",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4185684.jpeg",
+      "publishedAt": "2026-10-28T23:21:00Z",
       "source": {
-        "name": "TechBullion"
+        "name": "The Star"
       }
     },
     {
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "description": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA.",
-      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "image": "https://www.masslive.com/resizer/v2/4KJ7GQ5VKBD2BMCQQR3BQFRLAY.jpg?auth=fca5ad64c549ff3243f003a034c0681b3e36e7c6607ed3c1d532808092f0acc4&width=1280&smart=true",
-      "publishedAt": "2026-10-28T15:10:04Z",
+      "title": "Iranian foreign minister says Tehran in talks with mediators to implement 7",
+      "description": "Iran is continuing diplomatic talks with intermediaries to end its war with the US, with Foreign Minister Abbas Araghchi saying a proposed plan could be implemented within a week. Meanwhile, rising tensions in the Middle East have pushed European natural gas prices above 100 euros per megawatt-hour.",
+      "url": "https://www.tribuneindia.com/news/world/iranian-foreign-minister-says-tehran-in-talks-with-mediators-to-implement-7-day-plan-with-us/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE5OGIwM2YwLWQzMTUtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-28T21:22:14Z",
       "source": {
-        "name": "MassLive"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "description": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA.",
-      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "image": "https://www.cleveland.com/resizer/v2/4KJ7GQ5VKBD2BMCQQR3BQFRLAY.jpg?auth=fca5ad64c549ff3243f003a034c0681b3e36e7c6607ed3c1d532808092f0acc4&width=1280&smart=true",
-      "publishedAt": "2026-10-28T15:10:04Z",
+      "title": "Iranian foreign minister says Tehran in talks with mediators to implement 7-day plan with US",
+      "description": "Iran is continuing diplomatic talks with intermediaries to end its war with the US, with Foreign Minister Abbas Araghchi saying a proposed plan could be implemented within a week. Meanwhile, rising tensions in the Middle East have pushed European natural gas prices above 100 euros per megawatt-hour.",
+      "url": "https://www.aninews.in/news/world/middle-east/iranian-foreign-minister-says-tehran-in-talks-with-mediators-to-implement-7-day-plan-with-us20261029024754/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261028210517-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-28T21:17:54Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "description": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA.",
-      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "image": "https://www.mlive.com/resizer/v2/4KJ7GQ5VKBD2BMCQQR3BQFRLAY.jpg?auth=fca5ad64c549ff3243f003a034c0681b3e36e7c6607ed3c1d532808092f0acc4&width=1280&smart=true",
-      "publishedAt": "2026-10-28T15:10:04Z",
+      "title": "Rate hike expected to slow sales in Canada\u2019s slumping housing sector",
+      "description": "Tepid since late 2022, home purchases resumed their decline this year with trade dispute, oil prices creating uncertainty",
+      "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-rate-hike-housing-sales/",
+      "image": "https://www.theglobeandmail.com/resizer/v2/7FWCMKMU2BAJZIX6Y2UG3XERI4.JPG?auth=ef1d7c8519fa28c784d1919c0b81cf2f00bd7422c2727a5f2f442352ab530a62&width=1200&height=800&quality=80&smart=true",
+      "publishedAt": "2026-10-28T21:09:53Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "The Globe and Mail"
       }
     },
     {
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "description": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA.",
-      "url": "https://www.al.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "image": "https://www.al.com/resizer/v2/4KJ7GQ5VKBD2BMCQQR3BQFRLAY.jpg?auth=fca5ad64c549ff3243f003a034c0681b3e36e7c6607ed3c1d532808092f0acc4&width=1280&smart=true",
-      "publishedAt": "2026-10-28T15:10:04Z",
+      "title": "5 things to watch on the ASX 200 on Thursday",
+      "description": "ASX 200 futures point higher on Thursday. Here's what to watch, including a buy rating for Life360 Inc. (ASX: 360), rising oil prices, and AGMs.",
+      "url": "https://www.fool.com.au/2026/10/29/5-things-to-watch-on-the-asx-200-on-thursday-29-october-2026/",
+      "image": "https://www.fool.com.au/wp-content/uploads/2021/04/Wheelchair-watching-stocks-1200x675.jpg",
+      "publishedAt": "2026-10-28T20:36:24Z",
       "source": {
-        "name": "AL.com"
+        "name": "The Motley Fool Australia"
       }
     },
     {
-      "title": "Gas prices for 10/28/26: National average down another 2 cents",
-      "description": "As of Wednesday, Oct. 28, the national average for a gallon of regular unleaded was $4.24, according to AAA.",
-      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-102826-national-average-down-another-2-cents.html",
-      "image": "https://www.pennlive.com/resizer/v2/4KJ7GQ5VKBD2BMCQQR3BQFRLAY.jpg?auth=fca5ad64c549ff3243f003a034c0681b3e36e7c6607ed3c1d532808092f0acc4&width=1280&smart=true",
-      "publishedAt": "2026-10-28T15:10:04Z",
+      "title": "Strait of Hormuz Tensions Keep Oil Prices Elevated: 3 Canadian Energy Stocks to Watch",
+      "description": "These three energy stocks could be excellent buys as Strait of Hormuz tensions keep oil prices elevated.",
+      "url": "https://www.fool.ca/2026/10/28/strait-of-hormuz-tensions-keep-oil-prices-elevated-3-canadian-energy-stocks-to-watch/",
+      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1213731690-1200x800.jpg",
+      "publishedAt": "2026-10-28T20:20:00Z",
       "source": {
-        "name": "Mechanicsburg Patriot News "
+        "name": "The Motley Fool Canada"
       }
     },
     {
-      "title": "Four injured as petrol bottle sparks fire at chicken shop in Muzaffarpur",
-      "description": "Four injured in Muzaffarpur after bus runs over petrol bottle near chicken shop, sparking fire that gutted a motorcycle; road blocked, police investigating.",
-      "url": "https://timesofindia.indiatimes.com/city/patna/four-injured-as-petrol-bottle-sparks-fire-at-chicken-shop-in-muzaffarpur/articleshow/135270867.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135270864,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-28T15:05:00Z",
+      "title": "Stocks Rise Despite Inflation and War Talk: Stock Market Today",
+      "description": "The main equity indexes were up and down, along with volatile oil prices and bond yields, as the Fed acted as markets expected.",
+      "url": "https://www.kiplinger.com/investing/stocks/stocks-rise-despite-inflation-and-war-talk-stock-market-today",
+      "image": "https://cdn.mos.cms.futurecdn.net/hsnRCGn68WcrbC2bSr2A97-1024-80.jpg",
+      "publishedAt": "2026-10-28T20:17:22Z",
       "source": {
-        "name": "Times of India"
+        "name": "Kiplinger"
       }
     },
     {
-      "title": "Cal Thomas: Fill \u2019er up and pass the loan application",
-      "description": "It\u2019s one thing to read about high California gas prices; it\u2019s another to fill up my 20-gallon rental car with regular gas costing more than $6 at most stations.",
-      "url": "https://www.shawlocal.com/opinion/2026/10/28/cal-thomas-fill-er-up-and-pass-the-loan-application/",
-      "image": "https://www.shawlocal.com/resizer/v2/LBVPK7SJKRG3DM6TT4VTHQPPCQ.jpg?auth=72929119d09ac49f7c0ebe5f5f2fbc4b7f16bdb6d11156d6c60efac5889784e4&width=1200&height=630&focal=921%2C1458",
-      "publishedAt": "2026-10-28T15:00:00Z",
+      "title": "Natural Gas Prices Are Weak, but This Producer Still Pays a 5.6% Monthly Dividend",
+      "description": "Peyto's hedges help explain why its monthly dividend can hold up when the daily gas price looks disappointing.",
+      "url": "https://www.fool.ca/2026/10/28/natural-gas-prices-are-weak-but-this-producer-still-pays-a-5-6-monthly-dividend/",
+      "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1402808568-1200x798.jpg",
+      "publishedAt": "2026-10-28T20:00:00Z",
       "source": {
-        "name": "Shaw Local Enewspapers"
+        "name": "The Motley Fool Canada"
       }
     },
     {
-      "title": "Worker killed in Balasore filling station blast, family stages protest",
-      "description": "Worker Birendra Singh killed in Balasore petrol pump blast while cutting old underground fuel tank; family protests for compensation as police probe safety lapses.",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/worker-killed-in-balasore-filling-station-blast-family-stages-protest/articleshow/135257328.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135257323,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-28T14:54:00Z",
+      "title": "US Fed Chair Says Politics 'Played No Role' In Rate Decision Ahead Of Midterm Elections",
+      "description": "The decision came days before the US midterm elections, with rising living costs, including higher petrol and grocery prices, a major concern for households.",
+      "url": "https://www.news18.com/india/us-fed-chair-says-politics-played-no-role-in-rate-decision-ahead-of-midterm-elections-ws-l-10402312.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/US-Federal-Reserve-Chairman-Kevin-Warsh-2026-10-1c2e5e217c85d604a387df5b84cb31a1-1200x675.jpg",
+      "publishedAt": "2026-10-28T19:54:21Z",
       "source": {
-        "name": "Times of India"
+        "name": "News18"
       }
     }
   ]
