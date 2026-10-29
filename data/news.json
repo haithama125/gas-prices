@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-29T11:57:34+00:00",
+  "updated_at": "2026-10-29T17:59:13+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "LA wants oil drilling shutdown even if it means higher gas prices",
-      "description": "Following a 13-0 vote, Los Angeles will phase out oil drilling over 20 years to curb pollution, despite oil company warnings of lawsuits.",
-      "url": "https://nypost.com/2026/10/28/us-news/la-wants-oil-drilling-shutdown-even-if-it-means-higher-gas-prices/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146777311.jpg?quality=75&strip=all&w=1200",
-      "publishedAt": "2026-10-28T23:31:21Z",
+      "title": "Crude Oil Prices Dip 1% To $114 As US-Iran Diplomacy Raises Hopes Of De-Escalation",
+      "description": "Crude oil prices declined on Thursday amid renewed diplomatic efforts to ease Middle East tensions. US crude fell 1.28%, while Brent slipped 1.02%. However, supply disruption risks persisted. The World Bank forecast Brent averaging $91 per barrel in 2026, warning that falling inventories could increase global market vulnerability",
+      "url": "https://www.freepressjournal.in/business/crude-oil-prices-dip-1-to-114-as-us-iran-diplomacy-raises-hopes-of-de-escalation",
+      "image": "https://media.assettype.com/freepressjournal/2026-05-12/uxth4vz8/Crude-oil.jpg",
+      "publishedAt": "2026-10-29T05:15:22Z",
       "source": {
-        "name": "New York Post"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Oil rises on Yemen fighting, Saudi refinery attack",
-      "description": "Oil prices edged up about 1% on Wednesday on renewed concerns about additional energy supply disruptions in the Middle East due to continued fighting in Yemen, an attack on a refinery in Saudi Arabia and worries the US could strike Iran after next week's US midterm elections.",
-      "url": "https://www.thestar.com.my/business/2026/10/29/oil-rises-on-yemen-fighting-saudi-refinery-attack",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/29/4185684.jpeg",
-      "publishedAt": "2026-10-28T23:21:00Z",
+      "title": "Asian shares and U.S. futures are mixed after Google parent Alphabet's earnings disappoint",
+      "description": "Asian shares and U.S. futures are mixed, weighed down by some big technology stocks after Google parent Alphabet\u2019s earnings were below expectations. As expected, the Federal Reserve kept its key rate unchanged. Oil prices fell more than 1% early Thursday, even as U.S. officials warned that renewed military action against Iran could come after the Nov. 3 midterm elections. On Wednesday, Wall Street\u2019s benchmark S&P 500 added 0.3%. The Dow Jones Industrial Average gained 0.2%, and the technology-heavy Nasdaq composite climbed 0.3%. Markets are watching for the outcome of a meeting of the European Central Bank later Thursday. The Bank of Japan is expected to stand pat when it wraps up its policymaking meeting on Friday.",
+      "url": "https://www.ajc.com/news/2026/10/asian-shares-and-us-futures-are-mixed-after-google-parent-alphabets-earnings-disappoint/",
+      "image": "https://images.ajc.com/resizer/v2/NUKCXC5Y3BFS7IMBNWW4S3EJBM.jpg?auth=38c7f582e17189a9a9e2805079c3da70c85a9ac3ff442969ad67fe808ee0e2c3&width=1200&height=630&smart=true",
+      "publishedAt": "2026-10-29T05:12:34Z",
       "source": {
-        "name": "The Star"
+        "name": "The Atlanta Journal-Constitution"
       }
     },
     {
-      "title": "Iranian foreign minister says Tehran in talks with mediators to implement 7",
-      "description": "Iran is continuing diplomatic talks with intermediaries to end its war with the US, with Foreign Minister Abbas Araghchi saying a proposed plan could be implemented within a week. Meanwhile, rising tensions in the Middle East have pushed European natural gas prices above 100 euros per megawatt-hour.",
-      "url": "https://www.tribuneindia.com/news/world/iranian-foreign-minister-says-tehran-in-talks-with-mediators-to-implement-7-day-plan-with-us/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWE5OGIwM2YwLWQzMTUtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "publishedAt": "2026-10-28T21:22:14Z",
+      "title": "Europe Faces Early Winter Stress Test as Cold Snap Forecast Pushes Natural Gas Prices Toward 100 Euros per Megawatt",
+      "description": "Benchmark Dutch TTF natural gas prices climbed above 97 euros per megawatt-hour on Monday, the first time at that level since the 2022 energy crisis, according to Bloomberg. The move came as meteorologists forecast temperatures across parts of continental Europe to fall 2 C to 3 C below normal starting this weekend, the report stated. [\u2026]",
+      "url": "https://www.naturalnews.com/2026-10-29-europe-faces-early-winter-stress-test.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/10/ttf-natural-gas-prices-european-gas-storage-early-winter-stress-test-5881-474e860e-original.jpg",
+      "publishedAt": "2026-10-29T05:03:19Z",
+      "source": {
+        "name": "Natural News"
+      }
+    },
+    {
+      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
+      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
+      "url": "https://www.devdiscourse.com/article/business/3998626-sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/29_10_2026_10_16_11_8170156.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-10-29T04:46:15Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Oil prices fall as hopes of US-Iran peace talks ease supply fears",
+      "description": "Brent crude fell 1.1% to $114.10 a barrel and WTI dropped 1.3% to $101.45, paring Wednesday's gains as reports of renewed diplomatic efforts eased concerns over supply disruptions",
+      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-hopes-of-us-iran-peace-talks-ease-supply-fears-126102900085_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/08/thumb/fitandfill/1200X628/1791449679-5436.jpg",
+      "publishedAt": "2026-10-29T04:44:29Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Stock Market Today Sees Cautious Recovery As Sensex Jumps 168 Points And Nifty Nears 22,750, Rising Oil Prices And US Fed Rate Concerns Keep Gains In Check",
+      "description": "Sensex gained 168 points and Nifty reached 22,744 in early trade as IT stocks rose. Elevated crude prices and US Fed rate concerns kept investors cautious.",
+      "url": "https://www.freepressjournal.in/business/stock-market-today-sees-cautious-recovery-as-sensex-jumps-168-points-and-nifty-nears-22750-rising-oil-prices-and-us-fed-rate-concerns-keep-gains-in-check",
+      "image": "https://media.assettype.com/freepressjournal/2025-03-17/g1snjw18/stock-market-today.jpg",
+      "publishedAt": "2026-10-29T04:36:17Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
+      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
+      "url": "https://www.tribuneindia.com/news/business/sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWMzYjc1NjIwLWQzNTEtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-29T04:32:27Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Iranian foreign minister says Tehran in talks with mediators to implement 7-day plan with US",
-      "description": "Iran is continuing diplomatic talks with intermediaries to end its war with the US, with Foreign Minister Abbas Araghchi saying a proposed plan could be implemented within a week. Meanwhile, rising tensions in the Middle East have pushed European natural gas prices above 100 euros per megawatt-hour.",
-      "url": "https://www.aninews.in/news/world/middle-east/iranian-foreign-minister-says-tehran-in-talks-with-mediators-to-implement-7-day-plan-with-us20261029024754/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261028210517-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-28T21:17:54Z",
+      "title": "Sensex gains over 150 points, Nifty above 22,730 amid elevated crude oil prices and Fed keeping rates unchanged",
+      "description": "Indian equity benchmark indices opened on a flat note on Thursday amid elevated crude oil prices and implications surrounding the US Federal Reserve's monetary policy outlook.",
+      "url": "https://www.aninews.in/news/business/sensex-gains-over-150-points-nifty-above-22730-amid-elevated-crude-oil-prices-and-fed-keeping-rates-unchanged16020261029095347/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261029041252-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-10-29T04:23:47Z",
       "source": {
         "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Rate hike expected to slow sales in Canada\u2019s slumping housing sector",
-      "description": "Tepid since late 2022, home purchases resumed their decline this year with trade dispute, oil prices creating uncertainty",
-      "url": "https://www.theglobeandmail.com/business/article-bank-of-canada-rate-hike-housing-sales/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/7FWCMKMU2BAJZIX6Y2UG3XERI4.JPG?auth=ef1d7c8519fa28c784d1919c0b81cf2f00bd7422c2727a5f2f442352ab530a62&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-10-28T21:09:53Z",
+      "title": "Nifty, Sensex See Early Gains Amidst Mixed Global Signals and Rising Oil Prices",
+      "description": "Nifty, Sensex See Early Gains Amidst Mixed Global Signals and Rising Oil Prices - Mumbai, October 29 \u2013 Indian equity markets opened with slight gains today, Thursday, despite a mixed global environment and ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/nifty-sensex-see-early-gains-amidst-mixed-global-signals-and-rising-oil-prices-a001-w02/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260201422f_202610.jpg",
+      "publishedAt": "2026-10-29T04:11:37Z",
       "source": {
-        "name": "The Globe and Mail"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "5 things to watch on the ASX 200 on Thursday",
-      "description": "ASX 200 futures point higher on Thursday. Here's what to watch, including a buy rating for Life360 Inc. (ASX: 360), rising oil prices, and AGMs.",
-      "url": "https://www.fool.com.au/2026/10/29/5-things-to-watch-on-the-asx-200-on-thursday-29-october-2026/",
-      "image": "https://www.fool.com.au/wp-content/uploads/2021/04/Wheelchair-watching-stocks-1200x675.jpg",
-      "publishedAt": "2026-10-28T20:36:24Z",
+      "title": "Euro 100! Europe Gas Prices Spike To 2022 Crisis Levels: Households, Industry Brace For Impact",
+      "description": "Rising heating demand, unusually low European stockpiles and fears that an escalation of the Iran war could further disrupt global gas supplies have combined to drive the latest surge.",
+      "url": "https://www.ndtvprofit.com/world/euro-100-europe-gas-prices-spike-to-2022-crisis-levels-households-industry-brace-for-impact-12251799",
+      "image": "https://c.ndtvimg.com/2026-10/lpb839ec_bloomberg-news_625x300_29_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-29T04:06:16Z",
       "source": {
-        "name": "The Motley Fool Australia"
-      }
-    },
-    {
-      "title": "Strait of Hormuz Tensions Keep Oil Prices Elevated: 3 Canadian Energy Stocks to Watch",
-      "description": "These three energy stocks could be excellent buys as Strait of Hormuz tensions keep oil prices elevated.",
-      "url": "https://www.fool.ca/2026/10/28/strait-of-hormuz-tensions-keep-oil-prices-elevated-3-canadian-energy-stocks-to-watch/",
-      "image": "https://www.fool.ca/wp-content/uploads/2026/04/GettyImages-1213731690-1200x800.jpg",
-      "publishedAt": "2026-10-28T20:20:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "Stocks Rise Despite Inflation and War Talk: Stock Market Today",
-      "description": "The main equity indexes were up and down, along with volatile oil prices and bond yields, as the Fed acted as markets expected.",
-      "url": "https://www.kiplinger.com/investing/stocks/stocks-rise-despite-inflation-and-war-talk-stock-market-today",
-      "image": "https://cdn.mos.cms.futurecdn.net/hsnRCGn68WcrbC2bSr2A97-1024-80.jpg",
-      "publishedAt": "2026-10-28T20:17:22Z",
-      "source": {
-        "name": "Kiplinger"
-      }
-    },
-    {
-      "title": "Natural Gas Prices Are Weak, but This Producer Still Pays a 5.6% Monthly Dividend",
-      "description": "Peyto's hedges help explain why its monthly dividend can hold up when the daily gas price looks disappointing.",
-      "url": "https://www.fool.ca/2026/10/28/natural-gas-prices-are-weak-but-this-producer-still-pays-a-5-6-monthly-dividend/",
-      "image": "https://www.fool.ca/wp-content/uploads/2025/07/GettyImages-1402808568-1200x798.jpg",
-      "publishedAt": "2026-10-28T20:00:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "US Fed Chair Says Politics 'Played No Role' In Rate Decision Ahead Of Midterm Elections",
-      "description": "The decision came days before the US midterm elections, with rising living costs, including higher petrol and grocery prices, a major concern for households.",
-      "url": "https://www.news18.com/india/us-fed-chair-says-politics-played-no-role-in-rate-decision-ahead-of-midterm-elections-ws-l-10402312.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/10/US-Federal-Reserve-Chairman-Kevin-Warsh-2026-10-1c2e5e217c85d604a387df5b84cb31a1-1200x675.jpg",
-      "publishedAt": "2026-10-28T19:54:21Z",
-      "source": {
-        "name": "News18"
+        "name": "NDTV Profit"
       }
     }
   ]
