@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-29T22:30:49+00:00",
+  "updated_at": "2026-10-30T03:31:25+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex surges 905 points, Nifty closes 1.05% higher as Fed rate pause boosts market sentiment",
-      "description": "Indian stock markets rallied on Thursday, with the Sensex surging over 905 points and the Nifty gaining 1.05 per cent, as the US Federal Reserve's decision to keep interest rates unchanged, a marginal easing in crude oil prices, and renewed institutional buying improved investor sentiment.",
-      "url": "https://www.aninews.in/news/business/sensex-surges-905-points-nifty-closes-105-higher-as-fed-rate-pause-boosts-market-sentiment20261029155838/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261029093147-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-10-29T10:28:38Z",
+      "title": "Fed's preferred inflation gauge heats up over high gas prices",
+      "description": "An inflation gauge closely monitored by the Federal Reserve accelerated last month, showing that prices remain elevated less than a week before midterm elections in which the uncomfortably high cost of living for millions of Americans has become a central issue.",
+      "url": "https://nypost.com/2026/10/29/business/feds-preferred-inflation-gauge-heats-up-over-high-gas-prices/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/fed-inflation-gauge-kevin-warsh.jpg?quality=75&strip=all&1793271581&w=1200",
+      "publishedAt": "2026-10-29T15:15:01Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "New York Post"
       }
     },
     {
-      "title": "India's 100% ethanol-run vehicle push faces Supreme Court question to govt over fuel supply",
-      "description": "The Supreme Court questioned the Centre over ethanol supply for 100% ethanol-run vehicles after India amended motor vehicle rules to permit E100 flex-fuel vehicles. The government acknowledged that large-scale manufacturing changes would be necessary. The court also highlighted farmers' interests while examining ethanol allocation disputes, as the Centre ruled out increasing petrol ethanol blending beyond the current 20% level.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/indias-100-ethanol-run-vehicle-push-faces-supreme-court-question-to-govt-over-fuel-supply/articleshow/135300042.cms",
-      "image": "https://img.etimg.com/thumb/msid-135300929,width-1200,height-900,imgsize-35838,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-29T10:10:00Z",
+      "title": "US economy expands 3.4% in Q3 as consumer spending, AI investment rise",
+      "description": "The US economy grew at an annualised rate of 3.4% in Q3, beating forecasts of 3.2%, as resilient consumer spending and AI-driven investment offset the impact of higher oil prices.",
+      "url": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/27/thumb/fitandfill/1200X628/1672107054-5086.jpg",
+      "publishedAt": "2026-10-29T15:02:34Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Great pricing drowned in high oil prices - IndiGo\u2019s Q2 loss has geopolitics written all over",
+      "description": "IndiGo\u2019s Q2 loss narrows to Rs 1,879 crore as revenue jumps 25.9%, but a 67% surge in fuel costs and rupee depreciation continue to weigh on profitability.",
+      "url": "https://www.firstpost.com/business/great-pricing-drowned-in-high-oil-prices-indigos-q2-loss-has-geopolitics-written-all-over-14056389.html",
+      "image": "https://images.firstpost.com/uploads/2026/10/2017-07-06T000000Z_1343758148_RC1A61364A10_RTRMADP_3_INTERGLOBE-AIR-INDIA_cropped-2026-10-2a2ca77750f3cacab107db828e69f3d0-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-10-29T14:31:01Z",
+      "source": {
+        "name": "Firstpost"
+      }
+    },
+    {
+      "title": "US economic growth accelerates in third quarter",
+      "description": "The US economy grew faster than expected in the third quarter as resilient consumer spending and AI-driven business investment more than offset the impact of higher oil prices stemming from the conflict in the Middle East.",
+      "url": "https://www.rte.ie/news/business/2026/1029/1597236-us-third-quarter-economy-figures/",
+      "image": "https://www.rte.ie/images/001f068d-1600.jpg",
+      "publishedAt": "2026-10-29T14:25:39Z",
+      "source": {
+        "name": "RTE.ie"
+      }
+    },
+    {
+      "title": "Inflation heats up again, data shows, days before midterm elections where cost of living dominates",
+      "description": "Annual inflation has worsened since the Iran war caused spikes in oil and gas prices. U.S. oil prices still top $100 a barrel, up from less than $70 before the war.",
+      "url": "https://www.syracuse.com/us-news/2026/10/inflation-heats-up-again-data-shows-days-before-midterm-elections-where-cost-of-living-dominates.html",
+      "image": "https://www.syracuse.com/resizer/v2/5X5Z65ZTZBGOTEQDKOHDOLP7YA.jpg?auth=32ead52d2a8e85b966de1076556c6f368a7c1937a7095b6b26150f0d3377657c&width=1280&smart=true",
+      "publishedAt": "2026-10-29T14:06:29Z",
+      "source": {
+        "name": "syracuse.com"
+      }
+    },
+    {
+      "title": "JD Vance Proposed Renewed Talks With Iran. Oil Prices Are Dropping.",
+      "description": "The letter, which was approved by President Donald Trump, suggests direct negotiations between the countries.",
+      "url": "https://www.ibtimes.com/jd-vance-proposed-renewed-talks-iran-oil-prices-are-dropping-3809131",
+      "image": "https://d.ibtimes.com/en/full/4650216/oil.jpg",
+      "publishedAt": "2026-10-29T13:45:53Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "US inflation heats up in September; consumer spending rises",
+      "description": "In September, the US experienced a notable rise in inflation, driven by surging gasoline prices and other consumer goods. The Personal Consumption Expenditures Price Index climbed to 0.5%, up from 0.3% previously. Despite inflation-adjusted consumer spending remaining flat, it still rose by 0.5%, reflecting a resilient economic activity. The Federal Reserve opted to keep interest rates steady, though considerable inflationary pressures have analysts anticipating a possible rate hike in December.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
+      "image": "https://img.etimg.com/thumb/msid-135317761,width-1200,height-900,imgsize-48096,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-10-29T13:34:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "India\u2019s growth outlook for FY27 remains resilient amid inflation risks",
-      "description": "India may sustain growth in FY27, but crude oil prices, food inflation and El Ni\u00f1o pose risks. Forex reserves provide 10.3 months of import cover.",
-      "url": "https://www.thehindubusinessline.com/economy/indian-economy-may-sustain-expansion-through-fy27-says-finance-ministrys-monthly-economic-review/article71639965.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/fnnvfr/article71640003.ece/alternates/LANDSCAPE_1200/indian%20economy%20illustration.jpg",
-      "publishedAt": "2026-10-29T10:09:47Z",
+      "title": "India\u2019s inflation risks rise as crude oil, shipping costs threaten to push up prices",
+      "description": "India faces fresh inflation risks as elevated crude oil prices and West Asia shipping disruptions threaten to raise import and business costs. Here\u2019s what the October 2026 Economic Review says.",
+      "url": "https://www.financialexpress.com/policy/economy/indias-inflation-risks-rise-as-crude-oil-shipping-costs-threaten-to-push-up-prices/4372388/",
+      "image": "https://images.financialexpressdigital.com/2026/10/Crude_3f14f7_20261029081447.jpg",
+      "publishedAt": "2026-10-29T13:28:46Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Urgent police hunt after feral youths start fire at Devon petrol station",
-      "description": "Lighting a fire on an active petrol station forecourt is beyond reckless",
-      "url": "https://www.devonlive.com/news/devon-news/urgent-police-hunt-after-feral-11218512",
-      "image": "https://i2-prod.devonlive.com/article11218516.ece/ALTERNATES/s1200d/3_AN_DL_29-10-26_petrolstationfire.jpg",
-      "publishedAt": "2026-10-29T10:08:46Z",
+      "title": "US economy grows as AI boom powers spending",
+      "description": "US economy grows at fastest pace in a year as AI boom and resilient consumer spending offset higher oil prices. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/economy/us-economy-powers-ahead-as-ai-boom-shoppers-defy-oil-shock",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b594c6dbf6f893933bc34ff78c648c017b1908071200009b18c7671d6b956592?w=1200",
+      "publishedAt": "2026-10-29T13:26:27Z",
       "source": {
-        "name": "Devon Live"
+        "name": "The Straits Times"
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12945837",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-27goodmorningnorthbaybct-3-two-ittc-albatross-trainers-north-bay-al-o.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-10-29T10:00:00Z",
+      "title": "What\u2019s going on with fuel prices and are my energy bills going to rise again?",
+      "description": "They are indeed. Conflicts in Iran, Ukraine and Yemen have seen oil and natural gas prices on wholesale markets climbing again and that has prompted EU energy ministers to meet on Thursday to discuss energy security and the higher costs\u2026",
+      "url": "https://www.breakingnews.ie/ireland/whats-going-on-with-fuel-prices-and-are-my-energy-bills-going-to-rise-again-1955942.html",
+      "image": "https://i.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5pcmlzaHRpbWVzLmNvbVxcXC9yZXNpemVyXFxcL3YyXFxcL0JPRlgzNkZQRlpCQkZPSU9BWEE2TFVFQllVLmpwZz9hdXRoPTFiOGI4YjQ0OGY0NDg0NjYwNTMyNjA1NTU4YTllNzc2M2ZjNzQ5OTMxM2FkYzEwMDU3MWIwMGQxNmNiOTEwNjJcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjI3ZmQ1ZTZmNjA3M2QzZWI4MTc4NzYxYTBkMzE4ODY4NzVhNTkzZmIifQ==/what-s-going-on-with-fuel-.jpg?auth=1b8b8b448f4484660532605558a9e7763fc7499313adc100571b00d16cb91062",
+      "publishedAt": "2026-10-29T13:25:00Z",
       "source": {
-        "name": "BayToday"
-      }
-    },
-    {
-      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
-      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
-      "url": "https://www.plymouthherald.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
-      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
-      "publishedAt": "2026-10-29T09:48:17Z",
-      "source": {
-        "name": "Plymouth Live"
-      }
-    },
-    {
-      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
-      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
-      "url": "https://www.somersetlive.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
-      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
-      "publishedAt": "2026-10-29T09:48:17Z",
-      "source": {
-        "name": "Somerset Live"
-      }
-    },
-    {
-      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
-      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
-      "url": "https://www.cornwalllive.com/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
-      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
-      "publishedAt": "2026-10-29T09:48:17Z",
-      "source": {
-        "name": "Cornwall Live"
-      }
-    },
-    {
-      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
-      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
-      "url": "https://www.grimsbytelegraph.co.uk/news/cost-of-living/asda-shoppers-given-saturday-warning-11218527",
-      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
-      "publishedAt": "2026-10-29T09:48:17Z",
-      "source": {
-        "name": "Grimsby Telegraph"
-      }
-    },
-    {
-      "title": "Asda shoppers given Saturday warning over 262 fuel station deadline",
-      "description": "The retail giant has confirmed the promotion is running across 262 petrol stations nationwide - if \u00a340 was spent",
-      "url": "https://www.gloucestershirelive.co.uk/whats-on/shopping/asda-shoppers-given-saturday-warning-11218527",
-      "image": "https://i2-prod.devonlive.com/incoming/article11172722.ece/ALTERNATES/s1200/0_Screenshot-2026-09-26-074034.png",
-      "publishedAt": "2026-10-29T09:48:17Z",
-      "source": {
-        "name": "Gloucestershire Live"
+        "name": "BreakingNews.ie"
       }
     }
   ]
