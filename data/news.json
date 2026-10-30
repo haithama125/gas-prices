@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-30T03:31:25+00:00",
+  "updated_at": "2026-10-30T11:51:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fed's preferred inflation gauge heats up over high gas prices",
-      "description": "An inflation gauge closely monitored by the Federal Reserve accelerated last month, showing that prices remain elevated less than a week before midterm elections in which the uncomfortably high cost of living for millions of Americans has become a central issue.",
-      "url": "https://nypost.com/2026/10/29/business/feds-preferred-inflation-gauge-heats-up-over-high-gas-prices/",
-      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/fed-inflation-gauge-kevin-warsh.jpg?quality=75&strip=all&1793271581&w=1200",
-      "publishedAt": "2026-10-29T15:15:01Z",
+      "title": "Maine heating oil prices hit another record high",
+      "description": "The average price of heating oil is now $6.05 per gallon, according to the Maine Department of Energy Resources, up one cent from last week's record-setting cost.",
+      "url": "https://www.pressherald.com/2026/10/29/maine-heating-oil-prices-hit-another-record-high/",
+      "image": "http://www.pressherald.com/wp-content/uploads/sites/4/2017/01/pph-icon-red-linkforFB.png",
+      "publishedAt": "2026-10-29T23:20:35Z",
       "source": {
-        "name": "New York Post"
+        "name": "Portland Press Herald"
       }
     },
     {
-      "title": "US economy expands 3.4% in Q3 as consumer spending, AI investment rise",
-      "description": "The US economy grew at an annualised rate of 3.4% in Q3, beating forecasts of 3.2%, as resilient consumer spending and AI-driven investment offset the impact of higher oil prices.",
-      "url": "https://www.business-standard.com/world-news/us-economy-expands-3-4-in-q3-as-consumer-spending-ai-investment-rise-126102901542_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/27/thumb/fitandfill/1200X628/1672107054-5086.jpg",
-      "publishedAt": "2026-10-29T15:02:34Z",
+      "title": "Oil falls as diplomacy hopes ease supply fears",
+      "description": "Oil prices fell on Thursday in a choppy session as hopes for peace talks between the US and Iran offset some concerns over Middle East supply disruptions from an escalating regional conflict.",
+      "url": "https://www.thestar.com.my/business/2026/10/30/oil-falls-as-diplomacy-hopes-ease-supply-fears",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/10/30/4187545.jpeg",
+      "publishedAt": "2026-10-29T23:19:00Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The Star"
       }
     },
     {
-      "title": "Great pricing drowned in high oil prices - IndiGo\u2019s Q2 loss has geopolitics written all over",
-      "description": "IndiGo\u2019s Q2 loss narrows to Rs 1,879 crore as revenue jumps 25.9%, but a 67% surge in fuel costs and rupee depreciation continue to weigh on profitability.",
-      "url": "https://www.firstpost.com/business/great-pricing-drowned-in-high-oil-prices-indigos-q2-loss-has-geopolitics-written-all-over-14056389.html",
-      "image": "https://images.firstpost.com/uploads/2026/10/2017-07-06T000000Z_1343758148_RC1A61364A10_RTRMADP_3_INTERGLOBE-AIR-INDIA_cropped-2026-10-2a2ca77750f3cacab107db828e69f3d0-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-10-29T14:31:01Z",
-      "source": {
-        "name": "Firstpost"
-      }
-    },
-    {
-      "title": "US economic growth accelerates in third quarter",
-      "description": "The US economy grew faster than expected in the third quarter as resilient consumer spending and AI-driven business investment more than offset the impact of higher oil prices stemming from the conflict in the Middle East.",
-      "url": "https://www.rte.ie/news/business/2026/1029/1597236-us-third-quarter-economy-figures/",
-      "image": "https://www.rte.ie/images/001f068d-1600.jpg",
-      "publishedAt": "2026-10-29T14:25:39Z",
-      "source": {
-        "name": "RTE.ie"
-      }
-    },
-    {
-      "title": "Inflation heats up again, data shows, days before midterm elections where cost of living dominates",
-      "description": "Annual inflation has worsened since the Iran war caused spikes in oil and gas prices. U.S. oil prices still top $100 a barrel, up from less than $70 before the war.",
-      "url": "https://www.syracuse.com/us-news/2026/10/inflation-heats-up-again-data-shows-days-before-midterm-elections-where-cost-of-living-dominates.html",
-      "image": "https://www.syracuse.com/resizer/v2/5X5Z65ZTZBGOTEQDKOHDOLP7YA.jpg?auth=32ead52d2a8e85b966de1076556c6f368a7c1937a7095b6b26150f0d3377657c&width=1280&smart=true",
-      "publishedAt": "2026-10-29T14:06:29Z",
-      "source": {
-        "name": "syracuse.com"
-      }
-    },
-    {
-      "title": "JD Vance Proposed Renewed Talks With Iran. Oil Prices Are Dropping.",
-      "description": "The letter, which was approved by President Donald Trump, suggests direct negotiations between the countries.",
-      "url": "https://www.ibtimes.com/jd-vance-proposed-renewed-talks-iran-oil-prices-are-dropping-3809131",
-      "image": "https://d.ibtimes.com/en/full/4650216/oil.jpg",
-      "publishedAt": "2026-10-29T13:45:53Z",
-      "source": {
-        "name": "International Business Times"
-      }
-    },
-    {
-      "title": "US inflation heats up in September; consumer spending rises",
-      "description": "In September, the US experienced a notable rise in inflation, driven by surging gasoline prices and other consumer goods. The Personal Consumption Expenditures Price Index climbed to 0.5%, up from 0.3% previously. Despite inflation-adjusted consumer spending remaining flat, it still rose by 0.5%, reflecting a resilient economic activity. The Federal Reserve opted to keep interest rates steady, though considerable inflationary pressures have analysts anticipating a possible rate hike in December.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-inflation-heats-up-in-september-consumer-spending-rises/articleshow/135317736.cms",
-      "image": "https://img.etimg.com/thumb/msid-135317761,width-1200,height-900,imgsize-48096,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-29T13:34:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "India\u2019s inflation risks rise as crude oil, shipping costs threaten to push up prices",
-      "description": "India faces fresh inflation risks as elevated crude oil prices and West Asia shipping disruptions threaten to raise import and business costs. Here\u2019s what the October 2026 Economic Review says.",
-      "url": "https://www.financialexpress.com/policy/economy/indias-inflation-risks-rise-as-crude-oil-shipping-costs-threaten-to-push-up-prices/4372388/",
-      "image": "https://images.financialexpressdigital.com/2026/10/Crude_3f14f7_20261029081447.jpg",
-      "publishedAt": "2026-10-29T13:28:46Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "US economy grows as AI boom powers spending",
-      "description": "US economy grows at fastest pace in a year as AI boom and resilient consumer spending offset higher oil prices. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/business/economy/us-economy-powers-ahead-as-ai-boom-shoppers-defy-oil-shock",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b594c6dbf6f893933bc34ff78c648c017b1908071200009b18c7671d6b956592?w=1200",
-      "publishedAt": "2026-10-29T13:26:27Z",
+      "title": "High global oil prices too had a hand in this haze",
+      "description": "They made it impossible for Indonesia to continue absorbing price volatility through subsidies for imported fuels. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/opinion/high-global-oil-prices-too-had-a-hand-in-this-haze",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f676529d3ce629f0561eb127f1b55c28cbc24277aa0b41410dcbdc6c96188366?w=1200",
+      "publishedAt": "2026-10-29T23:00:00Z",
       "source": {
         "name": "The Straits Times"
       }
     },
     {
-      "title": "What\u2019s going on with fuel prices and are my energy bills going to rise again?",
-      "description": "They are indeed. Conflicts in Iran, Ukraine and Yemen have seen oil and natural gas prices on wholesale markets climbing again and that has prompted EU energy ministers to meet on Thursday to discuss energy security and the higher costs\u2026",
-      "url": "https://www.breakingnews.ie/ireland/whats-going-on-with-fuel-prices-and-are-my-energy-bills-going-to-rise-again-1955942.html",
-      "image": "https://i.resized.co/breaking-news/eyJkYXRhIjoie1widXJsXCI6XCJodHRwczpcXFwvXFxcL3d3dy5pcmlzaHRpbWVzLmNvbVxcXC9yZXNpemVyXFxcL3YyXFxcL0JPRlgzNkZQRlpCQkZPSU9BWEE2TFVFQllVLmpwZz9hdXRoPTFiOGI4YjQ0OGY0NDg0NjYwNTMyNjA1NTU4YTllNzc2M2ZjNzQ5OTMxM2FkYzEwMDU3MWIwMGQxNmNiOTEwNjJcIixcIndpZHRoXCI6MTIwMCxcImhlaWdodFwiOjYyNyxcImRlZmF1bHRcIjpcImh0dHBzOlxcXC9cXFwvd3d3LmJyZWFraW5nbmV3cy5pZVxcXC9pXFxcL2JuLW5vaW1hZ2UucG5nXCIsXCJvcHRpb25zXCI6W119IiwiaGFzaCI6IjI3ZmQ1ZTZmNjA3M2QzZWI4MTc4NzYxYTBkMzE4ODY4NzVhNTkzZmIifQ==/what-s-going-on-with-fuel-.jpg?auth=1b8b8b448f4484660532605558a9e7763fc7499313adc100571b00d16cb91062",
-      "publishedAt": "2026-10-29T13:25:00Z",
+      "title": "Trading Day: Communication breakdown",
+      "description": "The big three US stock indices fell on Thursday, despite weaker oil prices, lower bond yields and upbeat economic growth data, as a record fall in Alphabet's shares following the company's latest...",
+      "url": "https://www.marketscreener.com/news/trading-day-communication-breakdown-ce785fdadc8ef220",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2026-10/2026-10-29T103928Z_1_LYNXNPEM9S17M_RTROPTP_4_USA-FED-STOCKS.JPG",
+      "publishedAt": "2026-10-29T21:06:32Z",
       "source": {
-        "name": "BreakingNews.ie"
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Gulf conflict, oil price volatility pose risks to economic growth, warns govt",
+      "description": "ISLAMABAD - The government has warned that the persistent geopolitical tensions, recurring conflict in the Gulf region, volatile oil prices, trade disruptions and",
+      "url": "https://www.nation.com.pk/30-Oct-2026/gulf-conflict-oil-price-volatility-pose-risks-economic-growth-warns-govt",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-10-29T20:45:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Price stability top policy agenda in H2FY27 amid inflation: FinMin review",
+      "description": "The finance ministry flagged elevated crude oil prices, food inflation and kharif crop uncertainty as key risks to price stability, while projecting 7.35% GDP growth in Q2FY27",
+      "url": "https://www.business-standard.com/economy/news/price-stability-top-policy-agenda-in-h2fy27-amid-inflation-finmin-review-126102901807_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/thumb/fitandfill/1200X628/1780638659-7268.jpg",
+      "publishedAt": "2026-10-29T18:07:39Z",
+      "source": {
+        "name": "Business Standard"
+      }
+    },
+    {
+      "title": "Trump supporters back him at Texas rallies one week before midterms",
+      "description": "Donald Trump supporters at Texas rallies stand firmly behind the president ahead of midterm elections despite concerns over gas prices and the rising cost of living.",
+      "url": "https://www.foxnews.com/politics/sky-high-gas-prices-arent-shaking-trumps-maga-faithful-oil-country-supporters-warn-bigger-threat",
+      "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/trump-rally-texas-voters-3-split.jpg",
+      "publishedAt": "2026-10-29T17:35:05Z",
+      "source": {
+        "name": "Fox News"
+      }
+    },
+    {
+      "title": "high gas prices aren't shaking Trump's MAGA faithful in oil country as supporters warn of bigger threat",
+      "description": "Donald Trump rallied supporters in Texas who say rising costs haven't shaken their loyalty, warning socialism and progressive policies threaten America.",
+      "url": "https://www.newsbreak.com/fox-news-510075/4974646185500-sky-high-gas-prices-aren-t-shaking-trump-s-maga-faithful-in-oil-country-as-supporters-warn-of-bigger-threat",
+      "image": "https://img.particlenews.com/img/id/1qSzEA_1GZZBWD500",
+      "publishedAt": "2026-10-29T17:35:00Z",
+      "source": {
+        "name": "NewsBreak"
+      }
+    },
+    {
+      "title": "Economy can sustain high-growth trajectory in FY27, recent GST reforms to help: Finmin review",
+      "description": "However, there are still considerable global uncertainties, including elevated oil prices and inflation, that warrant constant vigilance, said the department of economic affairs in its October review.",
+      "url": "https://www.livemint.com/economy/economy-can-sustain-high-growth-trajectory-in-fy27-recent-gst-reforms-to-help-finmin-review-11793284568464.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/29/1600x900/logo/3-0-100372714-newru1-khwD--621x414-LiveMint-0_1679853997899_1793294569462_n5AH_05a58747-8be6-4f7c-b8c5-6c40b0447780_gPTK.jpg",
+      "publishedAt": "2026-10-29T17:23:48Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Trade Setup For Oct 30: Nifty Recovery Gathers Pace; Can Bulls Push Index Above 23,000?",
+      "description": "Investors are likely to track movements in crude oil prices and global market cues for further direction.",
+      "url": "https://www.ndtvprofit.com/markets/trade-setup-for-oct-30-nifty-recovery-gathers-pace-can-bulls-push-index-above-23-000-12255839",
+      "image": "https://c.ndtvimg.com/2026-01/e1069b0e_computer_screen_stock_market_and_data_analytics_b_2023_11_27_05_22_57_utc.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-10-29T17:23:26Z",
+      "source": {
+        "name": "NDTV Profit"
       }
     }
   ]
