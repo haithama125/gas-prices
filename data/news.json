@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-30T17:27:01+00:00",
+  "updated_at": "2026-10-30T21:47:27+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Gold Prices Fall As Rising Oil, US Inflation Fuels Fed Rate Hike Bets",
-      "description": "Gold prices fell on October 30 as rising crude oil prices and US inflation strengthened December Fed rate hike expectations. Here's what lies ahead.",
-      "url": "https://www.outlookmoney.com/invest/gold-prices-fall-us-inflation-crude-oil-fed-rate-hike-expectations",
-      "image": "https://media.assettype.com/outlookmoney/2026-10-30/dh3h1s5m/Gold-prices.jpg?w=1200",
-      "publishedAt": "2026-10-30T05:12:00Z",
+      "title": "Shocking moment thugs 'wearing balaclavas' brazenly cut EV charging wires at Irish petrol station as Gardai launch probe",
+      "description": "TWO thugs were caught on CCTV brazenly cutting electric vehicle charging wires from power stations and making off with them.\nThe incidents...",
+      "url": "https://www.thesun.ie/news/17842477/thugs-cut-ev-charging-wires-irish-petrol-station/",
+      "image": "https://www.thesun.ie/wp-content/uploads/sites/3/2026/10/newspress-collage-segeo89ac-1793350584863.jpg?quality=90&strip=all&1793350606&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-10-30T09:00:11Z",
       "source": {
-        "name": "Outlook Money"
+        "name": "The Irish Sun"
       }
     },
     {
-      "title": "Petrol price in India cheaper than US, UAE, China, Canada: Global average petrol rate is Rs 150, diesel Rs 159, data shows",
-      "description": "Petrol rate in India are lower than in the US, UAE, China, Canada and several other countries, according to global fuel price data. While the average global petrol price is around \u20b9150 per litre, India's rate is approximately \u20b9109. The comparison also shows huge differences across countries, with Hong Kong among the most expensive markets at over \u20b9421 per litre.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/petrol-price-in-india-cheaper-than-us-uae-china-canada-global-average-petrol-rate-is-rs-150-diesel-rs-159-data-shows/articleshow/135343594.cms",
-      "image": "https://img.etimg.com/thumb/msid-135344968,width-1200,height-900,imgsize-98780,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-10-30T05:07:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Brent Crude At $116, WTI Tops $103 As Houthis Continue To Attack Saudi Arabia",
-      "description": "Crude oil prices rose on Friday as Houthi attacks on Saudi Arabian energy facilities heightened supply concerns. Brent climbed to $116, while WTI reached $103. Both benchmarks headed for their fourth consecutive monthly gain. Strait of Hormuz security threats and uncertain US-Iran diplomatic efforts added to market concerns over supplies",
-      "url": "https://www.freepressjournal.in/business/brent-crude-at-116-wti-tops-103-as-houthis-continue-to-attack-saudi-arabia",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-08/3sl61hr9/Oil-Stocks.jpg",
-      "publishedAt": "2026-10-30T05:01:47Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "ANALYSIS-Taxes and high oil prices are set to spur more UK energy deals",
-      "description": "Read more about ANALYSIS-Taxes and high oil prices are set to spur more UK energy deals on Devdiscourse",
-      "url": "https://www.devdiscourse.com/article/international/3999339-analysis-taxes-and-high-oil-prices-are-set-to-spur-more-uk-energy-deals",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_11_6036339.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-10-30T05:01:15Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Rupee Rises 7 Paise to 95.19 Against US Dollar in Early Trade",
-      "description": "A weaker dollar and declining US Treasury yields support the Indian currency, while rising crude oil prices cap its gains.",
-      "url": "https://www.deccanchronicle.com/business/economics/rupee-rises-7-paise-to-9519-against-us-dollar-in-early-trade-2000174",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/07/15/2064033-rupee.jpg",
-      "publishedAt": "2026-10-30T04:56:42Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "Rupee rises 7 paise to 95.19 against US dollar in early trade",
-      "description": "The rupee gained 7 paise to 95.19 against the US dollar in early trade on Friday supported by a softer greenback and declining US treasury yields, though climbing crude oil prices prevented larger gains.",
-      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-rises-7-paise-to-9519-against-us-dollar-in-early-trade/article71643625.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/tp5422/article71643638.ece/alternates/LANDSCAPE_1200/Rupee.jpg",
-      "publishedAt": "2026-10-30T04:30:06Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Crude oil futures rise on reports of potential US military action against Iran",
-      "description": "Oil prices rise as US eyes possible action on Iran; Brent around $116.25, WTI $103.20, with MCX gains and regional tensions intensifying.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-futures-rise-on-reports-of-potential-us-military-action-against-iran/article71643600.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/ryoa11/article71643612.ece/alternates/LANDSCAPE_1200/IMG_Falling_crude_oil_pr_2_1_3GD2SLTK.jpg",
-      "publishedAt": "2026-10-30T04:20:57Z",
-      "source": {
-        "name": "The Hindu Business Line"
-      }
-    },
-    {
-      "title": "Rupee Rises 7 Paise To 95.19 Against US Dollar, Weak Greenback Supports Gains Amid Crude Oil Concerns",
-      "description": "Rupee gained 7 paise to 95.19 against the US dollar as a weaker greenback and falling US Treasury yields supported gains, while elevated crude oil prices capped the rise.",
-      "url": "https://www.freepressjournal.in/business/rupee-rises-7-paise-to-9519-against-us-dollar-weak-greenback-supports-gains-amid-crude-oil-concerns",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-20/8fpcni8r/Rupee-USDollar.jpg",
-      "publishedAt": "2026-10-30T04:18:54Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Sensex, Nifty open marginally higher amid rising crude prices, weak global cues",
-      "description": "The Indian equity markets opened on a flattish note on Friday amid elevated Brent crude oil prices, renewed geopolitical tensions and weak global cues.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-nifty-open-marginally-higher-amid-rising-crude-prices-weak-global-cues/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWRmOWE5NmYwLWQ0MTgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "publishedAt": "2026-10-30T04:17:44Z",
+      "title": "Gold Falls Below $4,000; Indian Equities End Weak Week With Cautious Outlook: Aetram Group",
+      "description": "Chennai (Tamil Nadu) [India], October 29: Gold declined during the completed trading week, finishing below $4,000 an ounce as a sharp rise in crude oil prices complicated the inflation outlook and expectations for monetary easing. Aetram India Research observed that...",
+      "url": "https://www.tribuneindia.com/news/business/gold-falls-below-4000-indian-equities-end-weak-week-with-cautious-outlook-aetram-group/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTU1NmM0MzcwLWQ0NDAtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-30T08:57:22Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Diwali blues: 83 largecap stocks plunge up to 60% since Samvat 2082. Can bluechips light up D-Street in the new year?",
-      "description": "Indian equities enter Samvat 2083 after a volatile year and a sharp market correction. While lower valuations have improved the risk-reward profile of several stocks, persistent FII outflows, elevated crude oil prices and global uncertainties remain key concerns. Strong domestic fundamentals and earnings growth could support markets, but returns will increasingly depend on stock selection, valuations and earnings delivery.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/diwali-blues-83-largecap-stocks-plunge-up-to-60-since-samvat-2082-can-bluechips-light-up-d-street-in-the-new-year/articleshow/135343018.cms",
-      "image": "https://img.etimg.com/thumb/msid-135343276,width-1200,height-900,imgsize-2309824,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-30T04:16:00Z",
+      "title": "High Oil Prices Set to Trigger New Wave of North Sea Mergers",
+      "description": "High energy prices, tax pressures, and BP\u2019s planned asset sale are expected to drive further consolidation in the UK North Sea oil and gas industry.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/High-Oil-Prices-Set-to-Trigger-New-Wave-of-North-Sea-Mergers.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-30_n7ymtjkoop.jpg",
+      "publishedAt": "2026-10-30T08:45:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Vedanta Oil & Gas Posts \u20b9746 Cr Q2 Profit As Higher Oil Prices Offset Fall In Output",
+      "description": "Vedanta Oil and Gas Ltd on Thursday reported a net profit of Rs 746 crore for the second quarter of FY27 as a spike in oil prices helped offset a fall in production. The profit compares with a loss of Rs 152 crore in the preceding three months of April-June. Comparable year-on-year numbers were not available as the company came into existence only in May after demerger from Vedanta Ltd.",
+      "url": "https://www.outlookbusiness.com/corporate/vedanta-oil-gas-posts-746-cr-q2-profit-as-higher-oil-prices-offset-fall-in-output",
+      "image": "https://media.assettype.com/outlookbusiness/2026-10-30/7xq9itxa/IMAGE_1645460991.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-10-30T07:46:38Z",
+      "source": {
+        "name": "Outlook Business"
+      }
+    },
+    {
+      "title": "On Cam: Gujarat Man Pours Petrol, Sets Woman Lawyer\u2019s Car On Fire Over Sensor Alarm",
+      "description": "CCTV footage allegedly shows the accused pouring an inflammable substance on the vehicle; police say repeated complaints over the car's sensor alarm preceded the incident, City, Times Now",
+      "url": "https://www.timesnownews.com/city/tailor-sets-women-lawyer-s-swift-on-fire-over-annoying-car-alarm-dispute-in-morbi-caught-on-cctv-burning-lawyer-s-vehicle-article-156434004",
+      "image": "https://images.timesnownews.com/thumb/msid-156434204,thumbsize-2552303,width-1280,height-720,resizemode-75/156434204.jpg",
+      "publishedAt": "2026-10-30T07:39:38Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "New Tata Punch Launched In South Africa: Price, Turbo Engine And Features",
+      "description": "Tata Punch launched in South Africa with a 1.2-litre turbo-petrol engine, six airbags, 10.25-inch touchscreen and prices starting at R224,900., Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/new-tata-punch-launched-in-south-africa-price-turbo-engine-and-features-article-156433885",
+      "image": "https://images.timesnownews.com/thumb/msid-156434299,thumbsize-130140,width-1280,height-720,resizemode-75/156434299.jpg",
+      "publishedAt": "2026-10-30T07:38:00Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "EVs do not need special brake pads",
+      "description": "Are EV brake pads different from petrol cars? Find out how regenerative braking affects brake pad wear and maintenance. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/life/evs-do-not-need-special-brake-pads",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7d50e94dde26f6763a01643fcb3d443824fe6386b8429b9adfbb8f01a660acdd?w=1200",
+      "publishedAt": "2026-10-30T06:46:37Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "EVs do not need special brake pads",
+      "description": "Are EV brake pads different from petrol cars? Find out how regenerative braking affects brake pad wear and maintenance. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/singapore/transport/evs-do-not-need-special-brake-pads",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7d50e94dde26f6763a01643fcb3d443824fe6386b8429b9adfbb8f01a660acdd?w=1200",
+      "publishedAt": "2026-10-30T06:46:37Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "5 Petrol SUVs Under Rs 10 Lakh To Buy This Diwali",
+      "description": "Planning to bring home a petrol SUV under Rs 10 lakh this Diwali? Here are 5 options from Tata Motors, Hyundai, and Maruti Suzuki that you can consider.\u200b\u200b, Car News, Times Now",
+      "url": "https://www.timesnownews.com/auto/car-news/5-petrol-suvs-under-rs-10-lakh-to-buy-this-diwali-article-156433034",
+      "image": "https://images.timesnownews.com/thumb/msid-156433145,thumbsize-61775,width-1280,height-720,resizemode-75/156433145.jpg",
+      "publishedAt": "2026-10-30T06:45:00Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "Rupee rises 7 paise to 95.19 against US dollar in early trade",
+      "description": "MUMBAI, Oct 30: \u00a0The rupee gained 7 paise to 95.19 against the US dollar in early trade on Friday supported by a softer greenback and declining US treasury yields, though climbing crude oil prices prevented larger gains. According to forex...",
+      "url": "https://www.dailyexcelsior.com/rupee-rises-7-paise-to-95-19-against-us-dollar-in-early-trade/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTE0ZGMxMzIwLWQ0MmQtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-30T06:42:30Z",
+      "source": {
+        "name": "Daily Excelsior"
       }
     }
   ]
