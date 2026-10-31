@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-31T03:15:59+00:00",
+  "updated_at": "2026-10-31T11:24:52+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil giants report windfall profits as high gas prices loom over the election",
-      "description": "Multibillion-dollar earnings reports land at an awkward time for the GOP.",
-      "url": "https://www.adn.com/business-economy/2026/10/30/oil-giants-report-windfall-profits-as-high-gas-prices-loom-over-the-election/",
-      "image": "https://www.adn.com/resizer/v2/KKCE36Z62JKJTJHJXBBK23NZL4.jpg?smart=true&auth=abea4ca06187ceb44ff77b6299dde3cc3a55a2e0f6fbdfe6099c982414475300&width=1200&height=630",
-      "publishedAt": "2026-10-30T15:04:29Z",
+      "title": "\u2018Everything\u2019s gone up\u2019: Americans feel the squeeze from petrol to medicine as midterm elections loom",
+      "description": "FORT LAUDERDALE, Oct 31 \u2014 Soaring prices for gas, medicine and other cost of living essentials are preoccupying Americans as they start to cast their ballots ahead of next...",
+      "url": "https://www.malaymail.com/news/world/2026/10/31/everythings-gone-up-americans-feel-the-squeeze-from-petrol-to-medicine-as-midterm-elections-loom/241263",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/10/30/371365.jpg",
+      "publishedAt": "2026-10-30T23:00:00Z",
       "source": {
-        "name": "Anchorage Daily News"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.pilotonline.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Horsham's last service station with LPG enters receivership",
+      "description": "LPG was once a popular, cheaper alternative to petrol. Now Horsham has no service station selling it, and drivers have to leave town to fill up.",
+      "url": "https://www.abc.net.au/news/2026-10-31/lpg-gas-sale-horsham-service-station-closed/107328930",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7f79f52db8ba9a1bc491db8088e9f5bc?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "publishedAt": "2026-10-30T22:58:44Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "ABC (Australian Broadcasting Corporation)"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.ocregister.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Trump says Iran war goal met as gas prices rise",
+      "description": "The U.S.-led war against Iran, which began February 28, has affected every part of America and may play a critical role in the upcoming midterm elections.",
+      "url": "https://www.weau.com/2026/10/30/trump-says-iran-war-goal-met-gas-prices-rise/",
+      "image": "https://gray-weau-prod.gtv-cdn.com/resizer/v2/YJFLBTJKRVCX5KYUR5MNC6P3KA.jpg?auth=77b297ff22eea976640d67d1994ba0d341d9e557d4f748e1bc56cbf419e8033c&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-30T22:07:18Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "WEAU"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.sandiegouniontribune.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Trump says Iran war goal met as gas prices rise",
+      "description": "The U.S.-led war against Iran, which began February 28, has affected every part of America and may play a critical role in the upcoming midterm elections.",
+      "url": "https://www.live5news.com/2026/10/30/trump-says-iran-war-goal-met-gas-prices-rise/",
+      "image": "https://gray-wcsc-prod.gtv-cdn.com/resizer/v2/YJFLBTJKRVCX5KYUR5MNC6P3KA.jpg?auth=77b297ff22eea976640d67d1994ba0d341d9e557d4f748e1bc56cbf419e8033c&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-30T22:07:18Z",
       "source": {
-        "name": "San Diego Union-Tribune"
+        "name": "Live 5 News WCSC"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.bostonherald.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Trump says Iran war goal met as gas prices rise",
+      "description": "The U.S.-led war against Iran, which began February 28, has affected every part of America and may play a critical role in the upcoming midterm elections.",
+      "url": "https://www.wistv.com/2026/10/30/trump-says-iran-war-goal-met-gas-prices-rise/",
+      "image": "https://gray-wistv-prod.gtv-cdn.com/resizer/v2/YJFLBTJKRVCX5KYUR5MNC6P3KA.jpg?auth=77b297ff22eea976640d67d1994ba0d341d9e557d4f748e1bc56cbf419e8033c&width=1200&height=600&smart=true",
+      "publishedAt": "2026-10-30T22:07:18Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "WIS10"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.dailycamera.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Bill proposing quarterly determination to gas prices lands in Senate",
+      "description": "ISLAMABAD - The federal government on Friday tabled a bill proposing quarterly determination to natural gas prices amid ongoing controversy over fuel\u2019s volatile",
+      "url": "https://www.nation.com.pk/31-Oct-2026/bill-proposing-quarterly-determination-gas-prices-lands-senate",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-10-30T20:08:00Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "The Nation"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.baltimoresun.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.baltimoresun.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Rent and gas prices shape New Hampshire voters' Senate choice",
+      "description": "STORY: :: Higher gas prices and housing costs weigh on New Hampshire voters ahead of midterms\n:: Portsmouth, New Hampshire / October 28, 2026\nTYRNYN MOYER: Cost of living...\n-October 30, 2026 at 04:07 pm EDT\n- MarketScreener",
+      "url": "https://www.marketscreener.com/news/rent-and-gas-prices-shape-new-hampshire-voters-senate-choice-ce785fdbd08bf52d",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-10-30T20:07:12Z",
       "source": {
-        "name": "Baltimore Sun"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.pressdemocrat.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Yamunanagar petrol pump dealers to observe symbolic strike",
+      "description": "Fuel supply at petrol pumps in Yamunanagar district may be disrupted as the Petroleum Dealers Association will observe a one-day no-sale strike (symbolic strike) in support of its long-pending demands.",
+      "url": "https://www.tribuneindia.com/news/haryana/yamunanagar-petrol-pump-dealers-to-observe-symbolic-strike/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTZmMjI5MTkwLWQ0OTgtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-10-30T19:30:57Z",
       "source": {
-        "name": "Santa Rosa Press Democrat"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.mercurynews.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.mercurynews.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "IOC's record profit lifts oil PSUs' Q2 earnings to Rs 30,106 crore",
+      "description": "The strong earnings came despite petrol and diesel prices remaining unchanged at retail outlets since the second half of May, even as international crude oil pr",
+      "url": "https://www.newindianexpress.com/business/2026/Oct/30/iocs-record-profit-lifts-oil-psus-q2-earnings-to-rs-30106-crore",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-30%2Fxldsl386%2F7cdcf900295fec29c38d5719f8f31e24.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-10-30T19:17:37Z",
       "source": {
-        "name": "The Mercury News"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "ExxonMobil and Chevron top Q3 estimates on higher gas prices and strong output",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results benefitting from higher gasoline prices and record production.",
-      "url": "https://www.readingeagle.com/2026/10/30/exxonmobil-chevron-earnings-high-gas-prices-q3/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/10/Big_Oil_Results_32763-1.jpg?w=2000&h=1333",
-      "publishedAt": "2026-10-30T15:00:09Z",
+      "title": "Canadian dollar extends monthly gain as higher oil prices raise inflation risk",
+      "description": "The Canadian dollar strengthened to a six-week high against its US counterpart on Friday as a jump in oil prices supported bets the Bank of Canada would tighten further, overshadowing disappointing...",
+      "url": "https://www.marketscreener.com/news/canadian-dollar-extends-monthly-gain-as-higher-oil-prices-raise-inflation-risk-ce785fdbd18ef722",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T131037Z_1_LYNXMPEL3K0IW_RTROPTP_4_CANADA-ECONOMY-GDP.JPG",
+      "publishedAt": "2026-10-30T18:58:29Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "MarketScreener"
       }
     }
   ]
