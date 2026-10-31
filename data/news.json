@@ -1,9 +1,19 @@
 {
-  "updated_at": "2026-10-31T11:24:52+00:00",
+  "updated_at": "2026-10-31T16:30:20+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Oil prices and rising bond yields shake global markets",
+      "description": "Rising oil prices and bond yields tested investors in the third quarter, while the UK economy showed signs of gathering momentum",
+      "url": "https://www.heraldscotland.com/news/26680077.oil-prices-rising-bond-yields-shake-global-markets/",
+      "image": "https://www.heraldscotland.com/resources/images/21644913.jpg?type=og-image",
+      "publishedAt": "2026-10-31T04:30:00Z",
+      "source": {
+        "name": "The Herald"
+      }
+    },
     {
       "title": "\u2018Everything\u2019s gone up\u2019: Americans feel the squeeze from petrol to medicine as midterm elections loom",
       "description": "FORT LAUDERDALE, Oct 31 \u2014 Soaring prices for gas, medicine and other cost of living essentials are preoccupying Americans as they start to cast their ballots ahead of next...",
@@ -92,16 +102,6 @@
       "publishedAt": "2026-10-30T19:17:37Z",
       "source": {
         "name": "The New Indian Express"
-      }
-    },
-    {
-      "title": "Canadian dollar extends monthly gain as higher oil prices raise inflation risk",
-      "description": "The Canadian dollar strengthened to a six-week high against its US counterpart on Friday as a jump in oil prices supported bets the Bank of Canada would tighten further, overshadowing disappointing...",
-      "url": "https://www.marketscreener.com/news/canadian-dollar-extends-monthly-gain-as-higher-oil-prices-raise-inflation-risk-ce785fdbd18ef722",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-21T131037Z_1_LYNXMPEL3K0IW_RTROPTP_4_CANADA-ECONOMY-GDP.JPG",
-      "publishedAt": "2026-10-30T18:58:29Z",
-      "source": {
-        "name": "MarketScreener"
       }
     }
   ]
