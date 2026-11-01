@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-10-31T20:47:07+00:00",
+  "updated_at": "2026-11-01T03:14:03+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Mumbai Crime News: Man Arrested After Cow And Vehicles Allegedly Set On Fire",
-      "description": "Mumbai Crime News: Sakinaka police have arrested a man accused of pouring petrol on a cow and setting fire to two-wheelers, electricity meters and commercial shops after a local dispute. CCTV footage reportedly helped police identify the accused. Get Latest News on Mumbai only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/mumbai/mumbai-man-arrested-for-allegedly-setting-cows-mouth-15-two-wheelers-on-fire-in-sakinaka-a527/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/images/1200x900/handcuffs_202212464061.jpg",
-      "publishedAt": "2026-10-31T08:37:38Z",
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.cleveland.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.cleveland.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
       "source": {
-        "name": "Lokmat Times"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "Mumbai Man Arrested For Setting Cow, 15 Two-Wheelers On Fire In Sakinaka Over Alleged Vendetta",
-      "description": "A man allegedly poured petrol on a cow and set 15 two-wheelers on fire in Mumbai",
-      "url": "https://www.freepressjournal.in/mumbai/mumbai-man-arrested-for-setting-cow-15-two-wheelers-on-fire-in-sakinaka-over-alleged-vendetta-mumbai-news",
-      "image": "https://media.assettype.com/freepressjournal/2026-10-31/u7anm3sk/Mumbai-Man-Arrested-For-Setting-Cow-15-Two-Wheelers-On-Fire-In-Sakinaka-Over-Alleged-Vendetta.jpg",
-      "publishedAt": "2026-10-31T08:32:38Z",
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.silive.com/nation/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.silive.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Staten Island Advance"
       }
     },
     {
-      "title": "Germany Rebuffs Italy\u2019s Blame Over Rising European Gas Prices",
-      "description": "Germany pushed back against Italian criticism that last-minute efforts to replenish natural gas inventories are driving up prices across Europe.",
-      "url": "https://www.livemint.com/market/germany-rebuffs-italy-s-blame-over-rising-european-gas-prices-11793434098007.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_2_1733466021722_1733466033367.jpg",
-      "publishedAt": "2026-10-31T08:08:17Z",
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.oregonlive.com/nation/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.oregonlive.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
+      "source": {
+        "name": "The Oregonian"
+      }
+    },
+    {
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.masslive.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.masslive.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
+      "source": {
+        "name": "MassLive"
+      }
+    },
+    {
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.mlive.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.mlive.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.pennlive.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.pennlive.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
+      "source": {
+        "name": "Mechanicsburg Patriot News "
+      }
+    },
+    {
+      "title": "Gas prices for Halloween 2026: Where fuel costs the least and most",
+      "description": "The national average for a gallon of regular unleaded is down to $4.18 per gallon as of Oct. 31, 2026.",
+      "url": "https://www.al.com/news/2026/10/gas-prices-for-103126-no-tricks-gas-down-another-2-cents-nationally.html",
+      "image": "https://www.al.com/resizer/v2/VNHLETXNRBELHGPYM24D7DU7YQ.jpg?auth=d0de643bff550774da73fb47c7c9d726d7aeec13a8a04ebe16243ced9e57bda3&width=1280&smart=true",
+      "publishedAt": "2026-10-31T15:06:23Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
+    {
+      "title": "Govt scraps export duty on petrol; hikes levies on diesel, ATF - check details here",
+      "description": "India has scrapped export duty on petrol for a fortnight from October 31, while raising levies on diesel and ATF. Details here.",
+      "url": "https://www.livemint.com/economy/govt-scraps-export-duty-on-petrol-hikes-levies-on-diesel-atf-check-details-here-11793452144023.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/im-03795811_1793177576165_2NMw_1793455536307_J9Bw_8e01d02c-f80d-4837-a028-2957ba2f04a8_c83v.jpg",
+      "publishedAt": "2026-10-31T14:08:09Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Durham petrol station transformed for Halloween",
-      "description": "Gulf Bridge End Service Station in Durham gets a Halloween makeover, with giant spiders, skeletons and pumpkins welcoming families and children in costume.",
-      "url": "https://www.thenorthernecho.co.uk/news/26685134.durham-petrol-station-transformed-halloween-decorations/",
-      "image": "https://www.thenorthernecho.co.uk/resources/images/21652793.jpg?type=og-image",
-      "publishedAt": "2026-10-31T08:00:00Z",
+      "title": "Gold, silver prices fall amid global selloff and US Fed rate concerns",
+      "description": "Gold prices fell to a 10-month low in Delhi, while silver dropped \u20b94,200 per kg as global selling, rising oil prices and US Fed rate concerns weighed on bullion.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-plunges-3200-to-10-month-low-of-142-lakh-silver-slides-4200/article71649831.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/fdjte7/article71649857.ece/alternates/LANDSCAPE_1200/IMG_bl21_pg1_promo_2_1_12FK7PTP.jpg",
+      "publishedAt": "2026-10-31T14:00:45Z",
       "source": {
-        "name": "Northern Echo"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Bangladesh Braces for Winter Inflation as Oil Prices, Farm Costs Soar",
-      "description": "Bangladesh Braces for Winter Inflation as Oil Prices, Farm Costs Soar - Bangladesh is bracing for a potential surge in inflation this winter, driven by rising global oil prices and increasing ... Get Latest News on International only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/international/bangladesh-braces-for-winter-inflation-as-oil-prices-farm-costs-soar-a001-w02/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/202610313997487_202610.jpg",
-      "publishedAt": "2026-10-31T07:44:46Z",
+      "title": "Trump promised to slash energy costs - but gasoline, diesel and jet fuel all soared instead",
+      "description": "President Donald Trump promised voters who were angry about inflation that he would slash gasoline prices below $2 a gallon in his first year in office.",
+      "url": "https://www.cnbc.com/2026/10/31/trump-gas-diesel-price-midterm-election.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108476948-1793221677843-gettyimages-2302435509-kbd11695_irgge0gh.jpeg?v=1793221769&w=1920&h=1080",
+      "publishedAt": "2026-10-31T12:49:58Z",
       "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Gold rate in India today: MCX gold falls 2.5% in a week - Buy at low price or avoid ahead of Diwali, Dhanteras 2026?",
-      "description": "Gold prices fell sharply in October as rising crude oil prices fueled inflation concerns and expectations that US interest rates would remain elevated.",
-      "url": "https://www.livemint.com/market/commodities/gold-rate-in-india-today-mcx-gold-falls-2-5-in-a-week-buy-at-low-price-or-avoid-ahead-of-diwali-dhanteras-2026-11793431585848.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/31/1600x900/logo/Gold_Prices_Rise_Before_Diwali_1793431754297_Zhqa_1793431766750_VG17_cf7e1d30-d5b3-468a-b35c-f913c02e19d0_FJ8H.png",
-      "publishedAt": "2026-10-31T07:29:58Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "High oil prices push Exxon and Chevron past 3Q expectations",
-      "description": "ExxonMobil and Chevron both reported better than expected quarterly results Friday as the oil majors benefited from higher prices and record production.",
-      "url": "https://www.arkansasonline.com/news/2026/oct/31/high-oil-prices-push-exxon-and-chevron-past-3q/",
-      "image": "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/213974130_1Dgulf-1031_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
-      "publishedAt": "2026-10-31T06:46:00Z",
-      "source": {
-        "name": "Arkansas Online"
-      }
-    },
-    {
-      "title": "UAE petrol prices defy expectations with surprise drop in November",
-      "description": "The decline will be the first after three months of steady increases amid global market volatility",
-      "url": "https://www.thenationalnews.com/business/energy/2026/10/31/uae-petrol-prices-defy-expectations-with-surprise-drop-in-november/",
-      "image": "https://www.thenationalnews.com/resizer/v2/KGYBQSBV4NFGNGDYBFGM2LUBN4.jpg?auth=e154ab4a8178e0a9065a311e67d4716a159d099f6899bfbede21f4f3445e4b84&smart=true&width=1200&height=630",
-      "publishedAt": "2026-10-31T06:40:05Z",
-      "source": {
-        "name": "The National"
-      }
-    },
-    {
-      "title": "2027 Maserati GranTurismo And GranCabrio Launched In India: Check Prices, Variants, Powertrain Details",
-      "description": "Maserati has launched the facelifted 2027 GranTurismo and GranCabrio in India, with prices starting at Rs 2.62 crore. Both models get updated designs, petrol and electric powertrains, and new features.",
-      "url": "https://www.ndtvprofit.com/business/2027-maserati-granturismo-and-grancabrio-launched-in-india-check-prices-variants-powertrain-details-12262161",
-      "image": "https://c.ndtvimg.com/2026-10/vs703aqo_maserati_625x300_31_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-10-31T06:02:27Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "Trio who beat up and racially abused worker at petrol station near Leicester sentenced",
-      "description": "Two men and a woman pleaded guilty to offences and have now been banned from the Morrisons petrol station",
-      "url": "https://www.leicestermercury.co.uk/news/local-news/trio-who-beat-up-racially-11221846",
-      "image": "https://i2-prod.leicestermercury.co.uk/article11222021.ece/ALTERNATES/s1200d/0_Screenshot-2026-10-30-172512.png",
-      "publishedAt": "2026-10-31T06:00:00Z",
-      "source": {
-        "name": "Leicester Mercury"
+        "name": "CNBC"
       }
     }
   ]
