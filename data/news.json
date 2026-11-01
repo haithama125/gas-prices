@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-01T12:17:59+00:00",
+  "updated_at": "2026-11-01T21:29:07+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Petrol station and school temporary buildings in latest Stockton Council planning bids roundup",
-      "description": "Stockton Council is also considering proposals for a power generator and home extensions",
-      "url": "https://www.gazettelive.co.uk/news/teesside-news/petrol-station-school-temporary-buildings-34841969",
-      "image": "https://i2-prod.gazettelive.co.uk/article18557720.ece/ALTERNATES/s1200d/2_PRP_MGA_180314Portrack_06JPG.jpg",
-      "publishedAt": "2026-11-01T00:01:00Z",
-      "source": {
-        "name": "Teessidelive"
-      }
-    },
-    {
-      "title": "Windfall gains tax on diesel, ATF exports up; petrol cut to nil",
-      "description": "NEW DELHI: Govt Saturday increased the windfall gains tax on exports of diesel and jet fuel (ATF), while slashing the levy to zero on petrol for the",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/windfall-gains-tax-on-diesel-atf-exports-up-petrol-cut-to-nil/articleshow/135411492.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135411495,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-31T20:19:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Mumbai CNG Price Hike: Rates Reach \u20b990 Per Kg After Latest \u20b91 Increase, Auto And Taxi Operators Warn Of Fare Pressure",
-      "description": "CNG prices in Mumbai have reached \u20b990 per kg following a \u20b91 increase effective October 31. Mahanagar Gas Limited attributed the hike to rising input costs and international gas prices. Autorickshaw union leader Thampi Kurien warned of mounting operating expenses and indicated that further increases could prompt demands for fare revision.",
-      "url": "https://www.freepressjournal.in/mumbai/mumbai-cng-price-hike-rates-reach-90-per-kg-after-latest-1-increase-auto-and-taxi-operators-warn-of-fare-pressure",
-      "image": "https://media.assettype.com/freepressjournal/2026-05-26/hxnj6p3u/CNG-PRice.webp",
-      "publishedAt": "2026-10-31T19:34:15Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Policeman\u2019s mutilated body found on rail tracks in Bengal, probe on",
-      "description": "The cop, Jayanta, had survived an earlier attempt on his life on February 20, 2025 when he shot himself outside a Ghoshpara petrol pump in Howrah.",
-      "url": "https://www.india.com/news/india/policemans-mutilated-body-found-on-rail-tracks-in-bengal-probe-on-8541204/",
-      "image": "https://static.india.com/wp-content/uploads/2026/08/Police-Tape-2.jpg",
-      "publishedAt": "2026-10-31T18:14:34Z",
-      "source": {
-        "name": "India.com"
-      }
-    },
-    {
-      "title": "Truck catches fire in Kannauj",
-      "description": "Short circuit sparks truck cabin fire on NH-34 in Kannauj\u2019s Chhibramau; driver escapes as locals and petrol pump staff douse flames, no injuries.",
-      "url": "https://timesofindia.indiatimes.com/city/kanpur/truck-catches-fire-in-kannauj/articleshow/135408511.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135408510,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-31T17:40:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Cop's Mutilated Body Recovered From Railway Tracks In Bengal",
-      "description": "On February 20, 2025, Jayanta shot himself in front of a Ghoshpara petrol pump in Howrah. However, he had survived at that time.",
-      "url": "https://www.ndtv.com/india-news/cops-mutilated-body-recovered-from-railway-tracks-in-bengal-12264943",
-      "image": "https://c.ndtvimg.com/2026-10/71rnlmp4_police-death_625x300_31_October_26.jpeg",
-      "publishedAt": "2026-10-31T17:31:40Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "Older vehicles, no entry: Delhi shuts the gate on non-BS6 outsiders from November 1",
-      "description": "Delhi is shutting its borders to non-BS6 petrol and diesel vehicles from outside, from November 1, 2026, to January 31, 2027, to fight air pollution. AI and ANPR cameras will watch the entry points 24x7 as part of the CAQM and Delhi government\u2019s Winter Action Plan.",
-      "url": "https://www.india.com/news/india/older-vehicles-no-entry-delhi-shuts-the-gate-on-non-bs6-outsiders-from-november-1-8541194/",
-      "image": "https://static.india.com/wp-content/uploads/2026/10/traffic.jpg",
-      "publishedAt": "2026-10-31T17:22:36Z",
-      "source": {
-        "name": "India.com"
-      }
-    },
-    {
-      "title": "'The Fed put is very much back': Wall Street strategists weigh central bank's next move",
-      "description": "Wednesday's Fed decision this week to keep interest rates unchanged despite sticky inflation fueled by oil prices above $100 per barrel was a head-scratcher",
-      "url": "https://www.europesays.com/3344335/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/10/1793467344.jpeg",
-      "publishedAt": "2026-10-31T17:22:20Z",
-      "source": {
-        "name": "EUROPE SAYS"
-      }
-    },
-    {
-      "title": "Crude Check: Rally may take a breather",
-      "description": "Oil prices stayed largely muted with Brent and MCX futures trading sideways, signaling a cautious, range-bound outlook ahead.",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-rally-may-take-a-breather/article71648912.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/hy77nd/article71645934.ece/alternates/LANDSCAPE_1200/Retail-prices-oG5CGKOI1D.4.jpg.jpg",
-      "publishedAt": "2026-10-31T16:17:03Z",
+      "title": "Pump operators urge Oil Ministry to revise petrol, diesel margins",
+      "description": "Petroleum dealers are working under immense financial stress due to increased inventory cost and squeezing volumes: Neeraj Mittal",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/pump-operators-urge-oil-ministry-to-revise-petrol-diesel-margins/article71652276.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/t2c0ly/article71474092.ece/alternates/LANDSCAPE_1200/IMG_PTI03_29_2022_000081_2_1_QV9LJSG7.jpg",
+      "publishedAt": "2026-11-01T08:54:03Z",
       "source": {
         "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "IOC says crude Q2 price volatile as procurement swings between discounts and premiums",
-      "description": "Crude oil prices remained highly volatile in the September-end quarter with procurement carried out varyingly at both discounts and premiums, Anuj Jain, Director (Finance) at Indian Oil told investors in a post-results call Saturday.",
-      "url": "https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece",
-      "image": "https://th-i.thgim.com/public/incoming/t9f3bb/article71650425.ece/alternates/LANDSCAPE_1200/iStock-1466744855.jpg",
-      "publishedAt": "2026-10-31T15:55:43Z",
+      "title": "US midterm elections 2026: How the results could impact Indian markets and stocks",
+      "description": "US midterm elections 2026 could influence the India-US trade deal, crude oil prices, IT stocks, foreign investor flows and Indian markets. Here's what investors should watch.",
+      "url": "https://www.cnbctv18.com/world/us-midterm-elections-2026-trump-loss-impact-indian-stock-market-20024274.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/10/donald-trump-2026-10-734e1aba917c45632604bca5107c1239.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-01T08:27:35Z",
       "source": {
-        "name": "The Hindu"
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "Comments: High Oil Prices Trigger Demand Destruction, But Will It Last?",
+      "description": "In my last column, I highlighted the roller coaster ride that oil prices and, by extension, those working across the industry have experienced over the past",
+      "url": "https://www.europesays.com/3345536/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1793519102.jpeg",
+      "publishedAt": "2026-11-01T07:44:59Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "VCK functionary hacked to death over flex banner issue in TN's Thoothukudi district",
+      "description": "Sources said Balamurugan was at the petrol bunk on Tharuvaikulam road to refill his bike, when a gang of three hacked him to death before fleeing away in the bu",
+      "url": "https://www.newindianexpress.com/states/tamil-nadu/2026/Nov/01/vck-functionary-hacked-to-death-over-flex-banner-issue-in-tns-thoothukudi-district",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-01%2Fmm1a11g9%2FC-Balamurugan.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-01T07:36:46Z",
+      "source": {
+        "name": "The New Indian Express"
+      }
+    },
+    {
+      "title": "ATF prices up by Rs 1.37 per litre, commercial LPG rates hiked by Rs 10",
+      "description": "Aviation turbine fuel prices have risen for the fourth consecutive month to Rs 138.50 per litre, while commercial LPG rates have increased by Rs 10 per 19-kg cylinder; domestic cooking gas prices remain unchanged.",
+      "url": "https://www.moneycontrol.com/news/business/atf-prices-up-by-rs-1-37-per-litre-commercial-lpg-rates-hiked-by-rs-10-14065406.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2024/04/Airport-with-airplanes.jpg",
+      "publishedAt": "2026-11-01T06:55:08Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "IOC, BPCL, HPCL clock Rs 30,106 cr Q2 profit, nearly 39 pc of last year's annual earnings",
+      "description": "In the third quarter, spanning July to September, India's three major state-run fuel retailers announced a combined net profit of Rs 30,106 crore, reversing a previous loss of Rs 18,150 crore. This profitability surge defied the ongoing freeze on petrol and diesel prices since May. Indian Oil Corporation achieved its highest standalone quarterly net profit, buoyed by strong refining margins, yet faces ongoing challenges related to fuel under-recoveries.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ioc-bpcl-hpcl-clock-rs-30106-cr-q2-profit-nearly-39-pc-of-last-years-annual-earnings/articleshow/135420177.cms",
+      "image": "https://img.etimg.com/thumb/msid-135420192,width-1200,height-900,imgsize-29996,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-01T06:52:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday",
+      "description": "Indian benchmark indices Sensex and Nifty ended the week higher, gaining up to 0.5%, even as broader markets declined amid rising crude oil prices above $117 a barrel. Investors will track oil price movements, foreign institutional investor (FII) activity, global cues and domestic market trends for direction. FIIs turned net buyers after a 10-week selling streak, lending support to sentiment.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/can-nifty-sensex-extend-gains-after-rallying-up-to-2-last-week-4-factors-to-watch-on-monday/articleshow/135419919.cms",
+      "image": "https://img.etimg.com/thumb/msid-135419937,width-1200,height-900,imgsize-117736,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-01T06:37:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "US Midterms Unlikely to Ease Oil Risks for India: Report",
+      "description": "The brokerage said a renewed escalation in the Iran conflict after the November 3 elections could push oil prices higher",
+      "url": "https://www.deccanchronicle.com/business/us-midterms-unlikely-to-ease-oil-risks-for-india-report-2000768",
+      "image": "https://www.deccanchronicle.com/h-upload/2024/03/24/1093512-diesel.jpg",
+      "publishedAt": "2026-11-01T06:00:59Z",
+      "source": {
+        "name": "Deccan Chronicle"
+      }
+    },
+    {
+      "title": "Dual gridlock: Delhi enforces winter pollution curbs on non-BS6 vehicles amid heavy security for political rallies",
+      "description": "New winter pollution rules and political rallies have led to heavy traffic and strict entry curbs across Delhi.\u00a0Under the winter plan, petrol and diesel vehicles registered outside Delhi that do not meet BS-VI emission standards are barred from entering the capital from November 1, 2026 to January 31, 2027.",
+      "url": "https://www.aninews.in/news/national/general-news/dual-gridlock-delhi-enforces-winter-pollution-curbs-on-non-bs6-vehicles-amid-heavy-security-for-political-rallies20261101112314/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261101055254-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-01T05:53:14Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "US midterms unlikely to ease oil risks for India; Iran conflict may escalate: Report",
+      "description": "India's financial markets may continue to face pressure from elevated crude oil prices and geopolitical uncertainty even after the US midterm elections, as a possible Democratic victory is unlikely to significantly constrain President Donald Trump's foreign policy decisions, according to a research report by Emkay Global Financial Services.",
+      "url": "https://www.tribuneindia.com/news/business/us-midterms-unlikely-to-ease-oil-risks-for-india-iran-conflict-may-escalate-report/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYThjMGY3MzMwLWQ1YWMtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
+      "publishedAt": "2026-11-01T04:27:22Z",
+      "source": {
+        "name": "The Tribune"
       }
     }
   ]
