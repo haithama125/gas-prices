@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-03T00:11:04+00:00",
+  "updated_at": "2026-11-03T13:14:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Michigan gas prices reverse course, dropping nearly 30 cents in a week",
-      "description": "Drivers in Michigan are getting some relief at the pump this week, as gas prices fell about 28 cents from the week prior.",
-      "url": "https://www.clickondetroit.com/news/local/2026/11/02/michigan-gas-prices-reverse-course-dropping-nearly-30-cents-in-a-week/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/SGKC5IOUCVDHJHIWPAIAS55RJY.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-11-02T12:09:44Z",
+      "title": "Oil Prices Fall Sharply As Brent Hovers Near $104 After 8% Crash; US-Iran Peace Hopes Ease Supply Fears",
+      "description": "US President Trump reportedly said that Iran wanted to \"make a deal and that could happen\", while Iranian President indicated that Tehran was willing to pursue negotiations.",
+      "url": "https://www.ndtvprofit.com/markets/oil-prices-today-november-3-brent-crude-oil-near-104-wti-8-percent-crash-us-iran-peace-hopes-ease-supply-fears-trump-commodity-prices-12274002",
+      "image": "https://c.ndtvimg.com/2026-10/4oj3336k_oil-prices-today_625x300_30_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-03T01:11:03Z",
       "source": {
-        "name": "WDIV ClickOnDetroit"
+        "name": "NDTV Profit"
       }
     },
     {
-      "title": "Why is silver price up today? Silver rises by 2.5% to reach $50.33 per ounce",
-      "description": "Silver price has increased by 2.5% on Monday to $50.33 per ounce after oil prices fell. Gold price also rose by 0.8% today after falling to a one year low in the last session. The investors are also closely watching the US midterm elections, fed reserve officials comments and jobs data to see how they will have an impact on interest rates, inflation and precious metals.",
-      "url": "https://economictimes.indiatimes.com/world/money/why-is-silver-price-up-today-silver-rises-by-2-5-to-reach-50-33-per-ounce/articleshow/135460998.cms",
-      "image": "https://img.etimg.com/thumb/msid-135461106,width-1200,height-900,imgsize-80032,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-02T12:00:00Z",
+      "title": "FOREX-Dollar under pressure as oil prices slump, Australia rate decision awaited",
+      "description": "Read more about FOREX-Dollar under pressure as oil prices slump, Australia rate decision awaited on Devdiscourse",
+      "url": "https://www.devdiscourse.com/article/international/4000961-forex-dollar-under-pressure-as-oil-prices-slump-australia-rate-decision-awaited",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_19_6120453.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-11-03T01:08:07Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "D-Street cheers RIL Q2, easing oil prices: Sensex soars 1,200 points, Nifty tops 23,400",
-      "description": "Sensex surged 1,233 points while Nifty gained 388 points to cross 23,400, driven by Reliance Industries' strong rally, falling crude oil prices and renewed foreign investor buying.",
-      "url": "https://www.financialexpress.com/market/d-street-cheers-ril-q2-easing-oil-prices-sensex-soars-1200-points-nifty-tops-23400-4375197/",
-      "image": "https://images.financialexpressdigital.com/2026/11/marketrally.jpg",
-      "publishedAt": "2026-11-02T11:26:11Z",
+      "title": "S&P 500 ends down; Apple dips ahead of quarterly report",
+      "description": "THE S&P 500 ended lower on Monday as oil prices tumbled on optimism about a potential US-Iran peace agreement, while Apple shares dipped ahead of the iPhone maker's quarterly report and investors awaited Tuesday's US midterm elections.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/03/sp-500-ends-down-apple-dips-ahead-of-quarterly-report",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/03/4194264.jpg",
+      "publishedAt": "2026-11-03T00:27:00Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "The Star"
       }
     },
     {
-      "title": "Oil prices drop amid new US-Iran talks as Trump says 'the hammer' still on the table",
-      "description": "President Donald Trump is warning that the U.S. may drop \"the hammer\" on the Iranian regime even as the U.S. and Tehran have once again picked up peace talks on Monday.",
-      "url": "https://www.foxnews.com/live-news/iran-war-news-trump-midterms-peace-deal-israel-november-2",
-      "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/bdaa052d0b940f3386d5ce25df213a05.jpg",
-      "publishedAt": "2026-11-02T11:26:05Z",
+      "title": "Trump Says Oil Prices Dropping as Don Jr. Concedes Gas Prices Are \u2018High\u2019",
+      "description": "As both parties make their final pitch to the American people ahead of Election Day, the price of gasoline remains a top concern.",
+      "url": "https://www.newsweek.com/trump-says-oil-prices-dropping-as-don-jr-concedes-gas-prices-are-high-12652583",
+      "image": "https://assets.newsweek.com/wp-content/uploads/2026/11/GettyImages-2273875436.jpg?w=1200&crop=1",
+      "publishedAt": "2026-11-03T00:26:51Z",
       "source": {
-        "name": "Fox News"
+        "name": "Newsweek"
       }
     },
     {
-      "title": "US Treasury yields mixed ahead of midterm elections, jobs data and major corporate earnings",
-      "description": "US Treasury yields move mixed as investors track midterm elections, jobs data, oil prices and major corporate earnings, including Apple and Qualcomm results.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-treasury-yields-mixed-ahead-of-midterm-elections-jobs-data-and-major-corporate-earnings-101793617834016.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/02/1600x900/logo/US_Treasury_dept_called_them_terrorists_1768324805_1793617981575_bFOZ_1793617981669_ndj3_3cfc273d-cfbc-455f-9e06-40e27231fa52_jtLX.jpg",
-      "publishedAt": "2026-11-02T11:24:53Z",
+      "title": "Lower oil, yields lift non-tech stocks",
+      "description": "CNBC\u2019s Jim Cramer said falling oil prices and interest rates are fueling a rally.",
+      "url": "https://www.cnbc.com/2026/11/02/jim-cramer-oil-yields-non-tech-stocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/107109968-NUP_198430_00193r.jpg?v=1696632386&w=1920&h=1080",
+      "publishedAt": "2026-11-02T23:36:53Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "CNBC"
       }
     },
     {
-      "title": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
-      "description": "Global shares were mixed and oil prices retreated Monday, falling sharply on renewed hopes for progress in diplomatic efforts between the U.S. and Iran.",
-      "url": "https://www.cp24.com/news/money/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/",
-      "image": "https://www.cp24.com/resizer/v2/BIB7N74J5G7ZTSS7W5PK6WBXM4.jpg?smart=true&auth=89263acd172be2482bb78c21555b0f5176ba1deca5704bb7c9b335cda49ca672&width=1200&height=630",
-      "publishedAt": "2026-11-02T11:18:36Z",
+      "title": "San Diego gas prices down 40 cents a gallon in the past month. But what happens next?",
+      "description": "The average price stands at $6 and could go lower, but one fuel analyst says geopolitical tensions keep everything up in the air.",
+      "url": "https://www.sandiegouniontribune.com/2026/11/02/san-diego-gas-prices-down-40-cents-a-gallon-in-the-past-month-but-what-happens-next/",
+      "image": "https://www.sandiegouniontribune.com/wp-content/uploads/2026/11/SUT-L-E15-GASOLINE-002.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-02T23:30:18Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "San Diego Union-Tribune"
       }
     },
     {
-      "title": "Global shares are mixed and US futures advance, while oil prices fall nearly 4%",
-      "description": "Global shares were mixed and oil prices retreated Monday, falling sharply on renewed hopes for progress in diplomatic efforts between the U.S. and Iran.",
-      "url": "https://www.bnnbloomberg.ca/markets/dow-jones/2026/11/02/global-shares-are-mixed-and-us-futures-advance-while-oil-prices-fall-nearly-4/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/BIB7N74J5G7ZTSS7W5PK6WBXM4.jpg?smart=true&auth=89263acd172be2482bb78c21555b0f5176ba1deca5704bb7c9b335cda49ca672&width=1200&height=630",
-      "publishedAt": "2026-11-02T11:18:36Z",
+      "title": "Trump claims oil prices drop nearly USD 10 per barrel ahead of US midterms, says 'Iran wants a settlement'",
+      "description": ".Speaking to Iranian state news agency IRNA on Monday after concluding his visit to Turkmenistan, Araghchi said Iran had presented its specific conditions and a formulated plan for a diplomatic resolution.",
+      "url": "https://www.moneycontrol.com/world/trump-claims-oil-prices-drop-nearly-usd-10-per-barrel-ahead-of-us-midterms-says-iran-wants-a-settlement-article-14066824.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261023211442_donaldtrumprtr14.png",
+      "publishedAt": "2026-11-02T23:20:26Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "John Healey makes \u00a360 per year rule change for petrol and diesel cars",
-      "description": "John Healey confirmed a major policy update affecting every petrol and diesel driver, with experts suggesting motorists could see a \u00a360 change.",
-      "url": "https://www.express.co.uk/life-style/cars/2262482/john-healey-petrol-diesel-fuel-duty",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7214407.jpg",
-      "publishedAt": "2026-11-02T11:02:00Z",
+      "title": "Economic Worries Continue To Dominate Voter Concerns as Midterms Loom: Polls",
+      "description": "Real wages fell in September as inflation and elevated gasoline prices strained household finances, making the economy and cost of living central concerns for midterm election voters.",
+      "url": "https://www.ibtimes.com/rising-prices-real-wages-midterm-elections-3809298",
+      "image": "https://d.ibtimes.com/en/full/4653759/midterm-elections.jpg",
+      "publishedAt": "2026-11-02T22:25:01Z",
       "source": {
-        "name": "Daily Express"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Texas voters on high gas prices under Trump: \u2018Probably made me go more Democrat\u2019",
-      "description": "In state where driving is part of life, president\u2019s pledge to lower prices at the pumps cuts little ice",
-      "url": "https://www.theguardian.com/us-news/2026/nov/02/texas-voters-trump-fuel-prices",
-      "image": "https://i.guim.co.uk/img/media/7ca0d93d4826e78ad57f99087fe57ac408602fce/661_0_6640_5312/master/6640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1ce79660199e7e1cce00d8ad2b46d4a",
-      "publishedAt": "2026-11-02T11:00:41Z",
+      "title": "Trading Day: Oil slump no cure for AI angst",
+      "description": "Oil prices tumbled on Monday on hopes that US-Iran peace talks could soon take place, which pushed bond yields around the world lower. Stock markets in Asia and Europe mostly benefited as a result,...",
+      "url": "https://www.marketscreener.com/news/trading-day-oil-slump-no-cure-for-ai-angst-ce785fd9da81f521",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-28T235351Z_1_LYNXNPEM9R2O0_RTROPTP_4_USA-STOCKS.JPG",
+      "publishedAt": "2026-11-02T22:01:29Z",
       "source": {
-        "name": "The Guardian"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12945867",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-10-27goodmorningnorthbaybct-7-colours-on-the-levase-river-north-bay-cyndi-tympano.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-11-02T11:00:00Z",
+      "title": "Treasury Yields Extend Past Month\u2019s Slide as Oil Prices Drop",
+      "description": "Treasuries rose, building on their biggest monthly advance in more than two years, as tumbling oil prices eased concern about inflation pressure leading to additional Federal Reserve interest-rate hikes.",
+      "url": "https://www.livemint.com/market/treasury-yields-extend-past-month-s-slide-as-oil-prices-drop-11793656834005.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "publishedAt": "2026-11-02T22:00:33Z",
       "source": {
-        "name": "BayToday"
+        "name": "Livemint"
       }
     }
   ]
