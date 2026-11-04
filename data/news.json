@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-03T22:41:09+00:00",
+  "updated_at": "2026-11-04T03:54:16+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Silver prices crash \u20b98,500/kg, gold drops \u20b92,000/10g as US-Iran tensions revive inflation fears; is more fall ahead?",
-      "description": "Silver futures fell to the lowest level since late November 2025, erasing Monday\u2019s gains as reports of a US strike on Iran sent oil prices higher and revived inflation concerns. Gold also declined, while investors weighed interest-rate expectations, US midterm elections and an upcoming jobs report.",
-      "url": "https://www.livemint.com/market/stock-market-news/silver-prices-crash-rs-8-500-kg-gold-drops-rs-2-000-10g-as-us-iran-tensions-revive-inflation-fears-is-more-fall-ahead-11793698796709.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/Gold_and_Silver_Market_Drop_1793700184510_ExCZ_1793700189382_bncH_955a50b5-9909-45bb-89fc-88172a948b0f_543C.png",
-      "publishedAt": "2026-11-03T10:32:17Z",
+      "title": "Rising crude prices could push India's inflation by upto 1 percentage point, diversified imports helping secure oil supplies: EY's Gaurav Moda",
+      "description": "Gaurav Moda, Partner and Energy Industry Leader at EY India said the increase in crude oil prices from an average of $60-65 per barrel to $90-95 has significantly raised India's energy import costs, even as the country continues to prioritise securing supplies amid geopolitical uncertainties.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rising-crude-prices-could-push-indias-inflation-by-upto-1-percentage-point-diversified-imports-helping-secure-oil-supplies-eys-gaurav-moda/articleshow/135504783.cms",
+      "image": "https://img.etimg.com/thumb/msid-135504826,width-1200,height-900,imgsize-985544,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-03T15:52:00Z",
       "source": {
-        "name": "Livemint"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices rise over 1.7% after reported US strikes on Iran's Qeshm Island ahead of midterms",
-      "description": "Oil prices rise over 1.7% after reported US strikes on Iran's Qeshm Island, raising concerns over the Iran war ahead of US midterm elections.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-rise-over-1-7-after-reported-us-strikes-on-irans-qeshm-island-ahead-of-midterms-101793700915964.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/pexels-photo-35566202_1788175472198_1788175495222_0bf2ea04-3195-4b0d-a74e-b046e64e3137_1793701175044_a38g_a1f2021d-128b-4d30-9ab3-8a4575f87f37_mp2Z.jpeg",
-      "publishedAt": "2026-11-03T10:30:12Z",
+      "title": "Gas prices in Trump's second term hit record high for any presidency",
+      "description": "The average price of gasoline under the Trump administration is on track to reach a record high for any administration.",
+      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4788298/gas-prices-trump-second-term-hit-record-high-for-any-presidency/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26306154593328.jpg?resize=1200,683",
+      "publishedAt": "2026-11-03T15:46:09Z",
+      "source": {
+        "name": "Washington Examiner"
+      }
+    },
+    {
+      "title": "Two Men Went To Sleep Inside Pickup Van But Never Woke Up, Accused Poured Petrol And Set It On Fire Over Rs 30,000 Dispute In Gujarat",
+      "description": "A \u20b930,000 payment dispute over a pickup van allegedly turned deadly in Gujarat's Amreli. Two farm workers, aged 16 and 21, were burnt alive while sleeping inside the vehicle. Police have arrested two accused.",
+      "url": "https://www.newsx.com/regionals/two-men-went-to-sleep-inside-pickup-van-but-never-woke-up-accused-poured-petrol-and-set-it-on-fire-over-rs-30000-dispute-in-gujarat-289670/",
+      "image": "https://www.newsx.com/wp-content/uploads/2026/11/fire.jpg",
+      "publishedAt": "2026-11-03T15:26:38Z",
+      "source": {
+        "name": "NewsX"
+      }
+    },
+    {
+      "title": "'We're hot now': Trump defends his leadership in final message to voters, touts oil prices and US global standing",
+      "description": "Trump portrayed the US as stronger under his leadership, citing lower oil prices, the Strait of Hormuz blockade and a compliment from China\u2019s Xi Jinping.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/were-hot-now-trump-defends-his-leadership-in-final-message-to-voters-touts-oil-prices-and-us-global-standing-101793718224144.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/TRUMP-LINCOLN-POOL-14_1793659461378_Vtul_179365947_1793719301174_u3Vc_1793719301496_poYh_ef432bdd-61b9-4ced-b8aa-822fbccd1755_3IdD.jpg",
+      "publishedAt": "2026-11-03T15:23:35Z",
       "source": {
         "name": "Hindustan Times"
       }
     },
     {
-      "title": "Rupee nudges higher, forward premiums dip with focus on US midterm, oil moves",
-      "description": "On Tuesday, the Indian rupee gained slightly against the dollar, closing at 94.74 per dollar. This change occurred as investors awaited the results of the US midterm elections and developments in the Iran war. Oil prices rebounded, raising concerns about potential impacts on energy supplies. Analysts suggest that potential outcomes from the elections could influence the dollar's short-term position.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-nudges-higher-forward-premiums-dip-with-focus-on-us-midterm-oil-moves/articleshow/135492726.cms",
-      "image": "https://img.etimg.com/thumb/msid-135492754,width-1200,height-900,imgsize-40800,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-03T10:28:00Z",
+      "title": "Innocent family of 7, including infant and two young children, lucky to be alive after petrol bomb attack",
+      "description": "Dublin Fire Brigade arrived at the scene in just six minutes after the call was made and rescued an adult woman and the three children, bringing them out the front door of the home, which was already significantly engulfed in flames.",
+      "url": "https://www.irishmirror.ie/news/irish-news/completely-barbaric-innocent-family-7-37838954",
+      "image": "https://i2-prod.irishmirror.ie/article37839115.ece/ALTERNATES/s1200d/0_output-onlinepngtools-42.png",
+      "publishedAt": "2026-11-03T15:05:19Z",
+      "source": {
+        "name": "Irish Mirror"
+      }
+    },
+    {
+      "title": "Oil rises after reported US strikes on Iran's Qeshm Island, a day after talk of a diplomatic deal",
+      "description": "Oil prices rose after reported US strikes on Iran's Qeshm Island, a day after the US and Iranian presidents signaled openness to diplomacy, CNBC reported.",
+      "url": "https://sainteur.com/article/oil-rises-after-reported-us-strikes-on-iran-s-qeshm-island-a-day-after-talk-of-a",
+      "image": "https://api.sainteur.com/functions/v1/seo-feeds/img/2407ad0d-515e-4d26-9aa9-bb7b124e9f3d/d69c0ff5-60e1-41b5-8779-f6cafb48146b.png",
+      "publishedAt": "2026-11-03T15:00:19Z",
+      "source": {
+        "name": "Sainteur"
+      }
+    },
+    {
+      "title": "Stocks are at their highest in two months; why are analysts flagging caution?",
+      "description": "The last time Nifty's put-call ratio reached a peak, the index lost 16% over several months. However, US mid-term election results and the trajectory of oil prices could also play a part in setting the mood for the market.",
+      "url": "https://www.livemint.com/market/stock-market-news/stocks-are-at-their-highest-in-two-months-analysts-flagging-caution-nifty-sensex-markets-11793706245094.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/ZETWERK-LISTING--0_1793716682661_vgFz_1793716693854_02uh_b188a926-ee47-4671-8a1d-fb868076e6c1_SEjC.JPG",
+      "publishedAt": "2026-11-03T14:52:00Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Hormuz Won't Reopen Till US Meets 7 Conditions: Iran Draws Red Line; Oil Prices Off Day's Low",
+      "description": "Brent crude was trading near $103.50 a barrel, while West Texas Intermediate (WTI) futures were around $96 a barrel.",
+      "url": "https://www.ndtvprofit.com/world/hormuz-wont-reopen-till-us-meets-7-conditions-iran-draws-red-line-oil-prices-off-days-low-12277922",
+      "image": "https://c.ndtvimg.com/2026-11/109q7lc4_iran_625x300_03_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-03T14:47:28Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "The fallout of US midterm elections",
+      "description": "The outcome of the US midterm elections will determine if Trump becomes a lame or angry duck president, influencing US-Iran war dynamics, global oil prices, and India's strategic energy ties with the western hemisphere.",
+      "url": "https://www.financialexpress.com/opinion/the-fallout-of-us-midterm-elections/4376231/",
+      "image": "https://images.financialexpressdigital.com/2026/11/US_election_New_image_LIVE_20261103144159.jpg",
+      "publishedAt": "2026-11-03T14:42:41Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "US stocks today: S&P 500, Nasdaq open higher as oil prices extend declines, midterms on tap",
+      "description": "The S&P 500 and the Nasdaq opened higher on Tuesday as crude oil prices fell further heading into the US midterm elections, while Apple joined the list of Big Tech companies whose",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap/articleshow/135503356.cms",
+      "image": "https://img.etimg.com/thumb/msid-135503356,width-1200,height-900,imgsize-128722,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-03T14:38:00Z",
       "source": {
         "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58%",
-      "description": "Indian stock markets closed sharply higher on Tuesday, with both benchmark indices gaining more than 1.5 per cent, supported by a decline in crude oil prices, renewed foreign investor buying and positive sentiment across most sectors.",
-      "url": "https://www.tribuneindia.com/news/business/market-rally-continues-on-fii-inflows-sensex-closes-1225-points-higher-nifty-gains-1-58/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTdjMTdmNTkwLWQ3NzAtMTFmMS1iYTAzLTc3OTVjZGZhOTdmZS5qcGc=",
-      "publishedAt": "2026-11-03T10:22:27Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Bulls Tighten Grip On D-Street: Sensex Soars 1,225 Points, Nifty Closes Above 23,800; FMCG, Banks Lead Rally",
-      "description": "The rally comes amid sharp decline in oil prices, renewed FII buying, easing US bond yields, optimism over corporate earnings and expectations of LTCG relief for foreign investors.",
-      "url": "https://www.news18.com/business/markets/bulls-tighten-grip-on-d-street-sensex-soars-1225-points-nifty-closes-above-23800-fmcg-banks-lead-rally-10410818.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/03/why-stock-market-is-rising-today-sensex-jumps-over-900-pts-nifty-above-23150-4-factors-behind-todays-surge-2025-03-b47bea03bc9d85fd8306ce4ee393c8b0-16x9.jpg",
-      "publishedAt": "2026-11-03T10:19:43Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58%",
-      "description": "Indian stock markets closed sharply higher on Tuesday, with both benchmark indices gaining more than 1.5 per cent, supported by a decline in crude oil prices, renewed foreign investor buying and positive sentiment across most sectors.",
-      "url": "https://www.aninews.in/news/business/market-rally-continues-on-fii-inflows-sensex-closes-1225-points-higher-nifty-gains-15820261103154724/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261103094734-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-11-03T10:17:24Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "Sensex, Nifty extend gains as foreign buying and easing oil prices lift sentiment",
-      "description": "The Sensex surged 1,225.07 points, or 1.62%, to settle at 76,917.85. The Nifty climbed 370.05 points, or 1.58%, to close at 23,810.85, crossing the 23,800 mark.",
-      "url": "https://www.indiatoday.in/business/market/story/stock-market-closing-sensex-ends-1225-points-higher-nifty-above-23800-hul-up-4-3031363-2026-11-03",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/stock-market-closing-102539906-16x9.jpg?VersionId=o2QkF8Y_jDXLnqZkHLPUh_9AgjL_6Sci",
-      "publishedAt": "2026-11-03T10:05:36Z",
-      "source": {
-        "name": "India Today"
-      }
-    },
-    {
-      "title": "Kerosene costlier than petrol: Karnataka fishermen switches fuel, but 95% of boats still out of water",
-      "description": "Rising kerosene prices and expensive petrol alternatives are forcing traditional nadadoni fishermen along Karnatakas coast to suspend boat operations. Fishermen in Dakshina Kannada estimate that 90% to 95% of boats have stopped operating, while operators in Uttara Kannada report a sharp decline in deep-sea fishing and are seeking government subsidies and clarity on alternative fuel arrangements.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/kerosene-costlier-than-petrol-karnataka-fishermen-switches-fuel-but-95-of-boats-still-out-of-water/articleshow/135491294.cms",
-      "image": "https://img.etimg.com/thumb/msid-135491796,width-1200,height-900,imgsize-129197,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-03T10:03:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Treasury yields rise ahead of midterm vote and jobs data",
-      "description": "Treasury yields edged higher as investors weighed the U.S. midterm elections, more key economic data and rising oil prices.",
-      "url": "https://www.cnbc.com/2026/11/03/us-treasury-yields-bonds.html",
-      "image": "https://image.cnbcfm.com/api/v1/image/104191325-GettyImages-626432400.jpg?v=1532563949&w=1920&h=1080",
-      "publishedAt": "2026-11-03T09:51:58Z",
-      "source": {
-        "name": "CNBC"
-      }
-    },
-    {
-      "title": "Saudi Aramco Profit Beats Expectations as Oil Prices Soar",
-      "description": "Saudi Aramco's third-quarter adjusted profit rose 9% to $31.2 billion as higher oil prices and surging refining margins offset supply disruptions.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Profit-Beats-Expectations-as-Oil-Prices-Soar.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-03_kvnepwjmgg.jpg",
-      "publishedAt": "2026-11-03T09:45:00Z",
-      "source": {
-        "name": "OilPrice"
       }
     }
   ]
