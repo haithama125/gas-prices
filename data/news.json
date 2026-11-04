@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-04T03:54:16+00:00",
+  "updated_at": "2026-11-04T13:28:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rising crude prices could push India's inflation by upto 1 percentage point, diversified imports helping secure oil supplies: EY's Gaurav Moda",
-      "description": "Gaurav Moda, Partner and Energy Industry Leader at EY India said the increase in crude oil prices from an average of $60-65 per barrel to $90-95 has significantly raised India's energy import costs, even as the country continues to prioritise securing supplies amid geopolitical uncertainties.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rising-crude-prices-could-push-indias-inflation-by-upto-1-percentage-point-diversified-imports-helping-secure-oil-supplies-eys-gaurav-moda/articleshow/135504783.cms",
-      "image": "https://img.etimg.com/thumb/msid-135504826,width-1200,height-900,imgsize-985544,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-03T15:52:00Z",
+      "title": "Brent near $104; Oil volatile as traders weigh US",
+      "description": "Oil prices swung as traders weighed mixed signals on US-Iran peace talks and recovering Gulf exports. Brent crude traded at $104.27 a barrel.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-wti-us-iran-peace-talks-gulf-exports-crude-market-volatility-west-asia-supply-us-midterms-20026448.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/image-2026-11-3f231ba094cdf70746a379ffdac77b19.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-04T01:26:23Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Gas prices in Trump's second term hit record high for any presidency",
-      "description": "The average price of gasoline under the Trump administration is on track to reach a record high for any administration.",
-      "url": "https://www.washingtonexaminer.com/policy/energy-and-environment/4788298/gas-prices-trump-second-term-hit-record-high-for-any-presidency/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AP26306154593328.jpg?resize=1200,683",
-      "publishedAt": "2026-11-03T15:46:09Z",
-      "source": {
-        "name": "Washington Examiner"
-      }
-    },
-    {
-      "title": "Two Men Went To Sleep Inside Pickup Van But Never Woke Up, Accused Poured Petrol And Set It On Fire Over Rs 30,000 Dispute In Gujarat",
-      "description": "A \u20b930,000 payment dispute over a pickup van allegedly turned deadly in Gujarat's Amreli. Two farm workers, aged 16 and 21, were burnt alive while sleeping inside the vehicle. Police have arrested two accused.",
-      "url": "https://www.newsx.com/regionals/two-men-went-to-sleep-inside-pickup-van-but-never-woke-up-accused-poured-petrol-and-set-it-on-fire-over-rs-30000-dispute-in-gujarat-289670/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/11/fire.jpg",
-      "publishedAt": "2026-11-03T15:26:38Z",
-      "source": {
-        "name": "NewsX"
-      }
-    },
-    {
-      "title": "'We're hot now': Trump defends his leadership in final message to voters, touts oil prices and US global standing",
-      "description": "Trump portrayed the US as stronger under his leadership, citing lower oil prices, the Strait of Hormuz blockade and a compliment from China\u2019s Xi Jinping.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/were-hot-now-trump-defends-his-leadership-in-final-message-to-voters-touts-oil-prices-and-us-global-standing-101793718224144.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/03/1600x900/logo/TRUMP-LINCOLN-POOL-14_1793659461378_Vtul_179365947_1793719301174_u3Vc_1793719301496_poYh_ef432bdd-61b9-4ced-b8aa-822fbccd1755_3IdD.jpg",
-      "publishedAt": "2026-11-03T15:23:35Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Innocent family of 7, including infant and two young children, lucky to be alive after petrol bomb attack",
-      "description": "Dublin Fire Brigade arrived at the scene in just six minutes after the call was made and rescued an adult woman and the three children, bringing them out the front door of the home, which was already significantly engulfed in flames.",
-      "url": "https://www.irishmirror.ie/news/irish-news/completely-barbaric-innocent-family-7-37838954",
-      "image": "https://i2-prod.irishmirror.ie/article37839115.ece/ALTERNATES/s1200d/0_output-onlinepngtools-42.png",
-      "publishedAt": "2026-11-03T15:05:19Z",
-      "source": {
-        "name": "Irish Mirror"
-      }
-    },
-    {
-      "title": "Oil rises after reported US strikes on Iran's Qeshm Island, a day after talk of a diplomatic deal",
-      "description": "Oil prices rose after reported US strikes on Iran's Qeshm Island, a day after the US and Iranian presidents signaled openness to diplomacy, CNBC reported.",
-      "url": "https://sainteur.com/article/oil-rises-after-reported-us-strikes-on-iran-s-qeshm-island-a-day-after-talk-of-a",
-      "image": "https://api.sainteur.com/functions/v1/seo-feeds/img/2407ad0d-515e-4d26-9aa9-bb7b124e9f3d/d69c0ff5-60e1-41b5-8779-f6cafb48146b.png",
-      "publishedAt": "2026-11-03T15:00:19Z",
-      "source": {
-        "name": "Sainteur"
-      }
-    },
-    {
-      "title": "Stocks are at their highest in two months; why are analysts flagging caution?",
-      "description": "The last time Nifty's put-call ratio reached a peak, the index lost 16% over several months. However, US mid-term election results and the trajectory of oil prices could also play a part in setting the mood for the market.",
-      "url": "https://www.livemint.com/market/stock-market-news/stocks-are-at-their-highest-in-two-months-analysts-flagging-caution-nifty-sensex-markets-11793706245094.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/03/1600x900/logo/ZETWERK-LISTING--0_1793716682661_vgFz_1793716693854_02uh_b188a926-ee47-4671-8a1d-fb868076e6c1_SEjC.JPG",
-      "publishedAt": "2026-11-03T14:52:00Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Hormuz Won't Reopen Till US Meets 7 Conditions: Iran Draws Red Line; Oil Prices Off Day's Low",
-      "description": "Brent crude was trading near $103.50 a barrel, while West Texas Intermediate (WTI) futures were around $96 a barrel.",
-      "url": "https://www.ndtvprofit.com/world/hormuz-wont-reopen-till-us-meets-7-conditions-iran-draws-red-line-oil-prices-off-days-low-12277922",
-      "image": "https://c.ndtvimg.com/2026-11/109q7lc4_iran_625x300_03_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-03T14:47:28Z",
+      "title": "Oil Prices Today: Brent Crude Hovers Near $104 Amid Uncertainty Over US-Iran Peace Talks",
+      "description": "Qatar's Foreign Ministry spokesperson said the two sides were considering fresh proposals from mediators to resolve their differences. However, Iran's national security chief said in a social media post that Washington's response to the proposals was still not satisfactory.",
+      "url": "https://www.ndtvprofit.com/markets/oil-prices-today-november-4-brent-crude-hovers-near-104-wti-crude-amid-uncertainty-over-us-iran-peace-talks-mid-term-elections-12279480",
+      "image": "https://c.ndtvimg.com/2026-10/edkr88mg_oil-prices-today_625x300_29_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-04T01:21:17Z",
       "source": {
         "name": "NDTV Profit"
       }
     },
     {
-      "title": "The fallout of US midterm elections",
-      "description": "The outcome of the US midterm elections will determine if Trump becomes a lame or angry duck president, influencing US-Iran war dynamics, global oil prices, and India's strategic energy ties with the western hemisphere.",
-      "url": "https://www.financialexpress.com/opinion/the-fallout-of-us-midterm-elections/4376231/",
-      "image": "https://images.financialexpressdigital.com/2026/11/US_election_New_image_LIVE_20261103144159.jpg",
-      "publishedAt": "2026-11-03T14:42:41Z",
+      "title": "Rupee rises as oil slips from six-month high",
+      "description": "On Monday, the Indian rupee strengthened to close at 94.74, following a decrease in oil prices. Oil prices fell from six month peaks, contributing to the rupee's gains, which were significant during the trading day. The currency fluctuated between 94.88 and 94.60 amidst the market movements. Brent crude oil futures were priced at $104 per barrel during Asia trading hours.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-rises-as-oil-slips-from-six-month-high/articleshow/135517334.cms",
+      "image": "https://img.etimg.com/thumb/msid-135517363,width-1200,height-900,imgsize-40800,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-04T01:00:00Z",
       "source": {
-        "name": "The Financial Express"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "US stocks today: S&P 500, Nasdaq open higher as oil prices extend declines, midterms on tap",
-      "description": "The S&P 500 and the Nasdaq opened higher on Tuesday as crude oil prices fell further heading into the US midterm elections, while Apple joined the list of Big Tech companies whose",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-today-sp-500-nasdaq-open-higher-as-oil-prices-extend-declines-midterms-on-tap/articleshow/135503356.cms",
-      "image": "https://img.etimg.com/thumb/msid-135503356,width-1200,height-900,imgsize-128722,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-03T14:38:00Z",
+      "title": "Sensex, Nifty soar to a two-month high as FPIs ramp up buying activity",
+      "description": "Indian benchmark indices Sensex and Nifty closed at their highest levels in nearly two months. Foreign investors have been net buying Indian equities, contributing to market gains over the past sessions. HDFC Bank was a significant contributor to the Nifty's gains, along with other major stocks like ICICI Bank. Decreasing crude oil prices have improved market sentiment among investors recently.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-soar-to-a-two-month-high-as-fpis-ramp-up-buying-activity/articleshow/135517172.cms",
+      "image": "https://img.etimg.com/thumb/msid-135517302,width-1200,height-900,imgsize-229332,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-04T00:54:00Z",
       "source": {
         "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Australia September household spending rises 0.6%",
+      "description": "Australian household spending bounced in September as higher petrol prices ate more of people's budgets, data showed on Wednesday, while air travel got a boost from major sporting events.\n...",
+      "url": "https://www.marketscreener.com/news/australia-september-household-spending-rises-0-6-ce785fdedf8cf12c",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-04T004545Z_1_LYNXNPEMA3024_RTROPTP_4_IRAN-CRISIS-FUEL-AUSTRALIA.JPG",
+      "publishedAt": "2026-11-04T00:40:19Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Majority Say Iran War, High Gas Prices Factor in Vote",
+      "description": "A new CNN exit poll suggests that a majority of mid-term voters say the Iran War and high gas prices factored into their vote.",
+      "url": "https://www.breitbart.com/politics/2026/11/03/cnn-exit-poll-majority-say-iran-war-high-gas-prices-factored-vote/",
+      "image": "https://media.breitbart.com/media/2026/11/People-Exit-Polling-Place-640x335.jpeg",
+      "publishedAt": "2026-11-04T00:26:27Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Stocks wobble as investors watch US midterm elections",
+      "description": "Stocks wobble as investors watch US midterm elections and oil prices fall amid Israel aid cut talks. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/business/stocks-wobble-as-investors-watch-us-midterm-elections",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/14a0f57874bc85786de508e2e27bbe892ad24cc9fda856a45ebc4376c409feca?w=1200",
+      "publishedAt": "2026-11-04T00:01:40Z",
+      "source": {
+        "name": "The Straits Times"
+      }
+    },
+    {
+      "title": "US Midterm Elections 2026: Gas prices hit record $4.12 per gallon on Election Day as Americans head to polls",
+      "description": "Gas prices today: US voters faced record-high fuel prices on Election Day, with average gasoline prices reaching $4.12 per gallon and diesel hitting $6.28. Rising fuel, grocery and housing costs have become key concerns as Americans vote to decide control of Congress, with more than 60 million ballots already cast before polls opened.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/us-midterm-elections-2026-gas-prices-hit-record-4-12-per-gallon-on-election-day-as-americans-head-to-polls/articleshow/135516576.cms",
+      "image": "https://img.etimg.com/thumb/msid-135516638,width-1200,height-900,imgsize-160308,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-03T23:56:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil eases to four-week low on peace hopes",
+      "description": "Oil prices eased about 1% on Tuesday to the lowest in nearly four weeks, as the market weighed talks to end the wars in Ukraine and Iran against worries that recent attacks in both conflicts could further disrupt supplies.",
+      "url": "https://www.thestar.com.my/business/2026/11/04/oil-eases-to-four-week-low-on-peace-hopes",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/04/4195927.jpeg",
+      "publishedAt": "2026-11-03T23:18:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "A fuel-card company promised small businesses savings but charged them hundreds of millions in hidden fees; it has now agreed to pay $100 million",
+      "description": "A fuel-card provider that marketed its services as a way for small businesses to cut petrol costs has agreed to pay $100 million to resolve allegations",
+      "url": "https://timesofindia.indiatimes.com/world/us/a-fuel-card-company-promised-small-businesses-savings-but-charged-them-hundreds-of-millions-in-hidden-fees-it-has-now-agreed-to-pay-100-million/articleshow/135501424.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135501700,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-03T23:15:00Z",
+      "source": {
+        "name": "Times of India"
       }
     }
   ]
