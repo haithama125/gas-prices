@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-05T23:01:04+00:00",
+  "updated_at": "2026-11-06T04:11:59+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Why Sensex surged 2,000 points today: 4 key triggers behind Dalal Street\u2019s rally",
-      "description": "Falling crude oil prices, renewed foreign investor buying and hopes of easing geopolitical tensions after the US midterm elections lifted investor sentiment, sending the Sensex up 2.6% and the Nifty 2.4%.",
-      "url": "https://www.firstpost.com/business/why-sensex-surged-2000-points-today-4-key-triggers-behind-dalal-streets-rally-14058093.html",
-      "image": "https://images.firstpost.com/uploads/2025/03/Stock-market-bull-run-reason-2025-03-95626227d4e94105be37b6fb1c845fcf.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-05T10:59:23Z",
+      "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools",
+      "description": "Foreign investors bought a net $1.6 billion of Indian stocks on Thursday, their biggest daily purchase in nearly six years, as falling oil prices and a retreat from AI-linked shares boosted India's...",
+      "url": "https://www.marketscreener.com/news/india-stocks-draw-biggest-foreign-inflow-in-nearly-six-years-as-oil-falls-ai-trade-cools-ce785fdcd08ef32d",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-24T083419Z_1_LYNXMPEL3N0EE_RTROPTP_4_NSE-IPO-REGULATOR.JPG",
+      "publishedAt": "2026-11-05T16:10:02Z",
       "source": {
-        "name": "Firstpost"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Sensex Surges Over 2,000 Points, Nifty Tops 24,500 as Easing Oil Prices, Democrats' US Midterm Gains Lift Sentiment",
-      "description": "Sensex surged 2,008 points to 79,310, while Nifty climbed above 24,500 as easing crude oil prices and Democrats' US midterm gains boosted market sentiment.",
-      "url": "https://www.republicworld.com/business/sensex-surges-over-2000-points-nifty-tops-24500-as-easing-oil-prices-democrats-us-midterm-gains-lift-sentiment-2026-11-05-140490",
-      "image": "https://img.republicworld.com/all_images/2026/11/sensex-surges-over-2000-points-nifty-tops-24500-on-global-cues-1793875691806-1280x720.webp",
-      "publishedAt": "2026-11-05T10:48:17Z",
+      "title": "Is Suncor Still a Buy After a Blowout Quarter, or Is It too Reliant on High Oil Prices?",
+      "description": "Suncor has undergone a major structural transformation and is well-positioned to generate strong returns across different oil price environments.",
+      "url": "https://www.fool.ca/2026/11/05/is-suncor-still-a-buy-after-a-blowout-quarter-or-is-it-too-reliant-on-high-oil-prices/",
+      "image": "https://www.fool.ca/wp-content/uploads/2025/10/getty-surprised-amazed-wow-1200x800.jpg",
+      "publishedAt": "2026-11-05T15:30:00Z",
       "source": {
-        "name": "Republic World"
+        "name": "The Motley Fool Canada"
       }
     },
     {
-      "title": "Nitin Gadkari thanks Swiggy for creating jobs, starting EV rentals",
-      "description": "At the Swiggy's EV Mobility Conclave, Nitin Gadkari said India spends a substantial amount on importing petrol and diesel while also dealing with the pollution caused by fossil fuels. Alternatives such as biofuels and hydrogen, could help address both challenges.",
-      "url": "https://theprint.in/feature/around-town/nitin-gadkari-swiggy-ev-rentals/3091350/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/swiggy.jpg",
-      "publishedAt": "2026-11-05T10:41:59Z",
-      "source": {
-        "name": "ThePrint"
-      }
-    },
-    {
-      "title": "Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",
-      "description": "Indian stock markets ended sharply higher on Thursday, with the Sensex surging over 2,000 points and the Nifty settling above the 24,500 mark, supported by easing crude oil prices and positive global cues following Democrats' gains in the US midterm elections.\nSensex closed \u00a0higher at 79,310.01, up 2008.61 points or 2.60 per cent against the previous close of 77,301.40. Nifty closed at 24,536.60, up 576.00 points or 2.40 per cent against the previous close of 23,960.60.",
-      "url": "https://www.devdiscourse.com/article/business/4002002-sensex-surges-over-2000-points-nifty-tops-24500-as-easing-oil-prices-democrats-us-midterm-gains-lift-sentiment",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/05_11_2026_16_08_52_2130193.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-11-05T10:38:55Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Bulls roar! Market value of BSE-listed companies crosses Rs 500 lakh cr for first time as Sensex soars 2,000 pts. More upside ahead?",
-      "description": "Indian markets rallied sharply, pushing BSE's total market capitalisation past Rs 500 lakh crore for the first time. Easing crude oil prices, renewed FII buying, a stronger rupee and improving geopolitical sentiment supported gains. However, analysts caution that sustained momentum depends on foreign inflows, earnings growth and crude prices.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bulls-roar-market-value-of-bse-listed-companies-crosses-rs-500-lakh-cr-for-first-time-as-sensex-soars-2000-pts-more-upside-ahead/articleshow/135569711.cms",
-      "image": "https://img.etimg.com/thumb/msid-135569758,width-1200,height-900,imgsize-59432,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-05T10:38:00Z",
+      "title": "ONGC Q2 profit jumps 57% to Rs 15,489 crore on higher oil prices, rupee depreciation",
+      "description": "ONGC has reported a significant 57% increase in quarterly profit, reaching Rs 15,489 crore. The profit surge is attributed to higher oil and gas prices combined with rupee depreciation. Gross revenue also rose by 33% to Rs 43,875 crore during the July-September quarter. The company announced an interim dividend of Rs 8 per share, marking its highest-ever interim dividend.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ongc-q2-profit-jumps-57-to-rs-15489-crore-on-higher-oil-prices-rupee-depreciation/articleshow/135577893.cms",
+      "image": "https://img.etimg.com/thumb/msid-135578549,width-1200,height-900,imgsize-69912,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-05T15:22:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",
-      "description": "Indian stock markets ended sharply higher on Thursday, with the Sensex surging over 2,000 points and the Nifty settling above the 24,500 mark, supported by easing crude oil prices and positive global cues following Democrats' gains in the US midterm elections.Sensex closed \u00a0higher at 79,310.01, up 2008.61 points or 2.60 per cent against the previous close of 77,301.40. Nifty closed at 24,536.60, up 576.00 points or 2.40 per cent against the previous close of 23,960.60.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-surges-over-2000-points-nifty-tops-24500-as-easing-oil-prices-democrats-us-midterm-gains-lift-sentiment/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU4M2Q2M2YwLWQ5MDQtMTFmMS1hNWRmLTc5YjRlMTY5OGI2YS5qcGc=",
-      "publishedAt": "2026-11-05T10:37:25Z",
+      "title": "Oil prices hit two-month low following decisive midterm election results",
+      "description": "Stock markets in the U.S., Asia and Europe also surged following the midterm results, amid expectations of Democratic resistance to an escalation in fighting.",
+      "url": "https://www.washingtonpost.com/business/2026/11/05/oil-prices-hit-two-month-low-following-decisive-midterm-election-results/",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FBKXHNCGY2YI7DEYK4CHYBBXVVQ_size-normalized.jpg&w=1200",
+      "publishedAt": "2026-11-05T15:15:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "The Washington Post"
       }
     },
     {
-      "title": "Sensex Soars 2,009 Points To End At 79,310, Nifty Jumps 576 Points To Settle At 24,537 As Bulls Take Charge",
-      "description": "Sensex surged 2,009 points to 79,310, while Nifty gained 576 points to 24,537 as falling crude oil prices, US election results and renewed foreign buying fuelled a massive rally.",
-      "url": "https://www.freepressjournal.in/business/sensex-soars-2009-points-to-end-at-79310-nifty-jumps-576-points-to-settle-at-24537-as-bulls-take-charge",
-      "image": "https://media.assettype.com/freepressjournal/2026-11-05/q2tjzyu3/sensex-rally.jpg",
-      "publishedAt": "2026-11-05T10:35:04Z",
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.pilotonline.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "Norfolk Virginian-Pilot"
       }
     },
     {
-      "title": "Sensex surges over 2,000 points, Nifty tops 24,500 as easing oil prices, Democrats' US midterm gains lift sentiment",
-      "description": "Indian stock markets ended sharply higher on Thursday, with the Sensex surging over 2,000 points and the Nifty settling above the 24,500 mark, supported by easing crude oil prices and positive global cues following Democrats' gains in the US midterm elections.\nSensex closed \u00a0higher at 79,310.01, up 2008.61 points or 2.60 per cent against the previous close of 77,301.40. Nifty closed at 24,536.60, up 576.00 points or 2.40 per cent against the previous close of 23,960.60.",
-      "url": "https://www.aninews.in/news/business/sensex-surges-over-2000-points-nifty-tops-24500-as-easing-oil-prices-democrats-us-midterm-gains-lift-sentiment20261105160326/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261105102428-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-11-05T10:33:26Z",
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.ocregister.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.ocregister.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Santa Ana Orange County Register"
       }
     },
     {
-      "title": "Rupee finds its footing as oil worries cool, traders watch flow momentum",
-      "description": "The Indian rupee climbed to its highest value in two weeks, following a notable fall in oil prices. This uplifting trend was mirrored by a stark rise in Indian stock markets and a reduction in bond yields. Recently, foreign investments poured into Indian equities, showcasing hefty net purchases. Analysts emphasize that ongoing investment inflows are crucial for bolstering the rupee further, as market sentiment improves amid reduced energy cost pressures.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finds-its-footing-as-oil-worries-cool-traders-watch-flow-momentum/articleshow/135569527.cms",
-      "image": "https://img.etimg.com/thumb/msid-135569576,width-1200,height-900,imgsize-81376,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-05T10:33:00Z",
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.bostonherald.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.bostonherald.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The Boston Herald"
       }
     },
     {
-      "title": "Andhra local body polls: Clashes erupt between YSRCP, TDP groups in Kadapa",
-      "description": "Clashes erupt between YSRCP and TDP in Kadapa during local body polls; petrol-bombing incidents reported, security tightened, votes proceeding.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-local-body-polls-clashes-erupt-between-ysrcp-tdpgroups-in-kadapa/article71669332.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-11-05T10:31:44Z",
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.dailycamera.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.dailycamera.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
       "source": {
-        "name": "The Hindu"
+        "name": "Boulder Daily Camera"
+      }
+    },
+    {
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.courant.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.courant.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
+      "source": {
+        "name": "Hartford Courant"
+      }
+    },
+    {
+      "title": "AI stocks keep falling, as oil prices and bond yields steady",
+      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
+      "url": "https://www.readingeagle.com/2026/11/05/ai-stocks-oil-prices/",
+      "image": "https://www.readingeagle.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
+      "publishedAt": "2026-11-05T14:41:49Z",
+      "source": {
+        "name": "Reading Eagle"
       }
     }
   ]
