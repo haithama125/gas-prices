@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-06T04:11:59+00:00",
+  "updated_at": "2026-11-06T13:26:45+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India stocks draw biggest foreign inflow in nearly six years as oil falls, AI trade cools",
-      "description": "Foreign investors bought a net $1.6 billion of Indian stocks on Thursday, their biggest daily purchase in nearly six years, as falling oil prices and a retreat from AI-linked shares boosted India's...",
-      "url": "https://www.marketscreener.com/news/india-stocks-draw-biggest-foreign-inflow-in-nearly-six-years-as-oil-falls-ai-trade-cools-ce785fdcd08ef32d",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-24T083419Z_1_LYNXMPEL3N0EE_RTROPTP_4_NSE-IPO-REGULATOR.JPG",
-      "publishedAt": "2026-11-05T16:10:02Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Is Suncor Still a Buy After a Blowout Quarter, or Is It too Reliant on High Oil Prices?",
-      "description": "Suncor has undergone a major structural transformation and is well-positioned to generate strong returns across different oil price environments.",
-      "url": "https://www.fool.ca/2026/11/05/is-suncor-still-a-buy-after-a-blowout-quarter-or-is-it-too-reliant-on-high-oil-prices/",
-      "image": "https://www.fool.ca/wp-content/uploads/2025/10/getty-surprised-amazed-wow-1200x800.jpg",
-      "publishedAt": "2026-11-05T15:30:00Z",
-      "source": {
-        "name": "The Motley Fool Canada"
-      }
-    },
-    {
-      "title": "ONGC Q2 profit jumps 57% to Rs 15,489 crore on higher oil prices, rupee depreciation",
-      "description": "ONGC has reported a significant 57% increase in quarterly profit, reaching Rs 15,489 crore. The profit surge is attributed to higher oil and gas prices combined with rupee depreciation. Gross revenue also rose by 33% to Rs 43,875 crore during the July-September quarter. The company announced an interim dividend of Rs 8 per share, marking its highest-ever interim dividend.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/ongc-q2-profit-jumps-57-to-rs-15489-crore-on-higher-oil-prices-rupee-depreciation/articleshow/135577893.cms",
-      "image": "https://img.etimg.com/thumb/msid-135578549,width-1200,height-900,imgsize-69912,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-05T15:22:00Z",
+      "title": "Sensex stages biggest rally since April as FIIs turn aggressive buyers",
+      "description": "Foreign institutional investors significantly increased their purchases of Indian stocks, leading to substantial market gains. The BSE Sensex rose by 2,008.61 points, achieving its biggest jump since April. Easing crude oil prices contributed to reduced inflation expectations and improved India's macroeconomic outlook. Positive global cues, including gains in US markets, further supported investor sentiment and market performance.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rallies-as-overseas-funds-pump-in-rs-14975-crore/articleshow/135589889.cms",
+      "image": "https://img.etimg.com/thumb/msid-135589931,width-1200,height-900,imgsize-199180,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-06T01:21:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil prices hit two-month low following decisive midterm election results",
-      "description": "Stock markets in the U.S., Asia and Europe also surged following the midterm results, amid expectations of Democratic resistance to an escalation in fighting.",
-      "url": "https://www.washingtonpost.com/business/2026/11/05/oil-prices-hit-two-month-low-following-decisive-midterm-election-results/",
-      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https%3A%2F%2Farc-anglerfish-washpost-prod-washpost.s3.amazonaws.com%2Fpublic%2FBKXHNCGY2YI7DEYK4CHYBBXVVQ_size-normalized.jpg&w=1200",
-      "publishedAt": "2026-11-05T15:15:00Z",
+      "title": "EDITORIAL: Guess who benefits from high oil prices?",
+      "description": "Tax revenue helps the federal government -- but still will not put a dent into our national public debt.",
+      "url": "https://torontosun.com/opinion/editorials/editorial-guess-who-benefits-from-high-oil-prices",
+      "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/11/1106champagneSmall-e1793925613240.jpg",
+      "publishedAt": "2026-11-06T01:17:45Z",
       "source": {
-        "name": "The Washington Post"
+        "name": "Toronto Sun"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.pilotonline.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "Oil Rebounds Toward $100 as Democrats\u2019 Sweep Rattles Energy Stocks",
+      "description": "Oil prices rebounded 4% as Iran war risks resurfaced after the U.S. midterms, while AI stocks plunged and energy markets faced fresh uncertainty.",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_9cik1nxs7p.jpg",
+      "publishedAt": "2026-11-06T01:00:00Z",
       "source": {
-        "name": "Norfolk Virginian-Pilot"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.ocregister.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.ocregister.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "Pre-market action: Here's the trade setup for today's session",
+      "description": "On Thursday, the Nifty index exceeded 24,000 for the first time in nearly two months. This rise was supported by falling crude oil prices and substantial foreign institutional investments. Analysts expect Indian equities to maintain a positive trend as the festive season approaches. The rupee also appreciated slightly against the US dollar due to robust foreign fund inflows. Overall, the market outlook remains optimistic despite fluctuating conditions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135583399.cms",
+      "image": "https://img.etimg.com/thumb/msid-135583987,width-1200,height-900,imgsize-310322,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-06T00:30:00Z",
       "source": {
-        "name": "Santa Ana Orange County Register"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.bostonherald.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.bostonherald.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
+      "description": "Smaller producers may increase drilling, but major shale operators remain cautious despite higher-for-longer oil price expectations.",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ewsso3xlnb.jpg",
+      "publishedAt": "2026-11-06T00:00:00Z",
       "source": {
-        "name": "The Boston Herald"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.dailycamera.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.dailycamera.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "US shale producer EOG Resources beats profit estimates on higher crude prices",
+      "description": "U.S. shale producer EOG Resources\nbeat analysts' estimates for third-quarter profit on\nThursday, helped by elevated crude oil prices and record\nproduction volumes.\nU.S. shale producers...",
+      "url": "https://www.marketscreener.com/news/us-shale-producer-eog-resources-beats-quarterly-profit-estimates-on-higher-crude-prices-ce785fddda8cf32c",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
+      "publishedAt": "2026-11-05T21:59:24Z",
       "source": {
-        "name": "Boulder Daily Camera"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.courant.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.courant.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "Devon Energy tops profit estimates on higher output, crude prices",
+      "description": "Devon Energy on Thursday\nsurpassed Wall Street expectations for third-quarter profit,\nboosted by a surge in crude oil prices and higher production.\nThe Iran war, now in its ninth month,...",
+      "url": "https://www.marketscreener.com/news/us-shale-producer-devon-energy-tops-third-quarter-profit-estimates-ce785fddda8cf424",
+      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+      "publishedAt": "2026-11-05T21:56:47Z",
       "source": {
-        "name": "Hartford Courant"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "AI stocks keep falling, as oil prices and bond yields steady",
-      "description": "U.S. stocks are mixed, as AI chip companies fall again while AppLovin and Tapestry rally after reporting stronger profits than expected.",
-      "url": "https://www.readingeagle.com/2026/11/05/ai-stocks-oil-prices/",
-      "image": "https://www.readingeagle.com/wp-content/uploads/2026/11/Financial_Markets_Wall_Street_91785.jpg?w=2000&h=1333",
-      "publishedAt": "2026-11-05T14:41:49Z",
+      "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling?",
+      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
+      "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
+      "publishedAt": "2026-11-05T21:19:08Z",
       "source": {
-        "name": "Reading Eagle"
+        "name": "CBS News"
+      }
+    },
+    {
+      "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling?",
+      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
+      "url": "https://www.cbsnews.com/detroit/news/gas-prices-below-four-dollars-expert-predicts/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
+      "publishedAt": "2026-11-05T21:19:08Z",
+      "source": {
+        "name": "CBS News"
+      }
+    },
+    {
+      "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
+      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
+      "url": "https://www.newsbreak.com/cbs-news-510078/4988986565173-u-s-gas-prices-on-track-to-fall-below-4-a-gallon-experts-say",
+      "image": "https://img.particlenews.com/img/id/4bvcWl_1Go0WFdG00",
+      "publishedAt": "2026-11-05T21:19:08Z",
+      "source": {
+        "name": "NewsBreak"
       }
     }
   ]
