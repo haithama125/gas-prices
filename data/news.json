@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-06T13:26:45+00:00",
+  "updated_at": "2026-11-06T22:30:41+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Sensex stages biggest rally since April as FIIs turn aggressive buyers",
-      "description": "Foreign institutional investors significantly increased their purchases of Indian stocks, leading to substantial market gains. The BSE Sensex rose by 2,008.61 points, achieving its biggest jump since April. Easing crude oil prices contributed to reduced inflation expectations and improved India's macroeconomic outlook. Positive global cues, including gains in US markets, further supported investor sentiment and market performance.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rallies-as-overseas-funds-pump-in-rs-14975-crore/articleshow/135589889.cms",
-      "image": "https://img.etimg.com/thumb/msid-135589931,width-1200,height-900,imgsize-199180,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-06T01:21:00Z",
+      "title": "Taking Stock: Diwali Dhamaka on D-St; Sensex jumps 1,700 pts, Nifty closes above 25,000",
+      "description": "Falling crude oil prices, sustained foreign fund inflows, encouraging corporate earnings and a strengthening rupee supported domestic market sentiment.",
+      "url": "https://www.moneycontrol.com/news/business/stocks/taking-stock-diwali-dhamaka-on-d-st-sensex-jumps-1-700-pts-nifty-closes-above-25-000-14072898.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260627025028_marketup_sensexup-Niftyup.jpg",
+      "publishedAt": "2026-11-06T10:22:54Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "EDITORIAL: Guess who benefits from high oil prices?",
-      "description": "Tax revenue helps the federal government -- but still will not put a dent into our national public debt.",
-      "url": "https://torontosun.com/opinion/editorials/editorial-guess-who-benefits-from-high-oil-prices",
-      "image": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2026/11/1106champagneSmall-e1793925613240.jpg",
-      "publishedAt": "2026-11-06T01:17:45Z",
+      "title": "\u2018It's democracy, stupid\u2019: Why petrol prices can humble Trump but not Putin, Xi or Munir",
+      "description": "This week, we are tracking: \u2018It's democracy, stupid\u2019: How history caught up with Trump Mock parliament, real questions: Rahul\u2019s real test begins after",
+      "url": "https://timesofindia.indiatimes.com/toi-blogs/toi-newsletters/from-the-editors-desk/its-democracy-stupid-why-petrol-prices-can-humble-trump-but-not-putin-xi-or-munir/articleshow/135600798.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135601181,width-1280,height-720,resizemode-6,overlay-toiblogs,pt-32,x_pad-1045,y_pad-670/photo.jpg",
+      "publishedAt": "2026-11-06T10:21:00Z",
       "source": {
-        "name": "Toronto Sun"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Oil Rebounds Toward $100 as Democrats\u2019 Sweep Rattles Energy Stocks",
-      "description": "Oil prices rebounded 4% as Iran war risks resurfaced after the U.S. midterms, while AI stocks plunged and energy markets faced fresh uncertainty.",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Rebounds-Toward-100-as-Democrats-Sweep-Rattles-Energy-Stocks.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_9cik1nxs7p.jpg",
-      "publishedAt": "2026-11-06T01:00:00Z",
+      "title": "Bulls Unleash Dalal Street Frenzy, Sensex Rockets 1,718 Points As Nifty Reclaims 25,000",
+      "description": "Sensex surges 1,718 points to 81,028, while Nifty crosses 25,000 as foreign inflows, strong earnings, falling oil prices and bargain hunting fuel a powerful rally.",
+      "url": "https://www.freepressjournal.in/business/bulls-unleash-dalal-street-frenzy-sensex-rockets-1718-points-as-nifty-reclaims-25000",
+      "image": "https://media.assettype.com/freepressjournal/2026-11-06/mhftzjwz/sensex-nifty.jpg",
+      "publishedAt": "2026-11-06T10:16:32Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Pre-market action: Here's the trade setup for today's session",
-      "description": "On Thursday, the Nifty index exceeded 24,000 for the first time in nearly two months. This rise was supported by falling crude oil prices and substantial foreign institutional investments. Analysts expect Indian equities to maintain a positive trend as the festive season approaches. The rupee also appreciated slightly against the US dollar due to robust foreign fund inflows. Overall, the market outlook remains optimistic despite fluctuating conditions.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/pre-market-action-heres-the-trade-setup-for-todays-session/articleshow/135583399.cms",
-      "image": "https://img.etimg.com/thumb/msid-135583987,width-1200,height-900,imgsize-310322,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-06T00:30:00Z",
+      "title": "Stock market closing today",
+      "description": "Strong foreign fund inflows, easing crude oil prices and gains in heavyweight banking and automobile stocks lift investor sentiment despite a sharp sell-off across global markets",
+      "url": "https://www.telegraphindia.com/business/sensex-jumps-1718-points-to-settle-at-81028-nifty-surges-493-points-to-25030/cid/2188177",
+      "image": "https://assets.telegraphindia.com/telegraph/2024/Apr/1712551124_1688383094_sensex-up.jpg",
+      "publishedAt": "2026-11-06T10:12:59Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "Telegraph India"
       }
     },
     {
-      "title": "U.S. Shale Giants Hold Back on Drilling Despite Higher Oil Prices",
-      "description": "Smaller producers may increase drilling, but major shale operators remain cautious despite higher-for-longer oil price expectations.",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Shale-Giants-Hold-Back-on-Drilling-Despite-Higher-Oil-Prices.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-05_ewsso3xlnb.jpg",
-      "publishedAt": "2026-11-06T00:00:00Z",
+      "title": "SBI, Paytm to MCX: Jefferies picks 18 stocks as geopolitical tension is set to ease",
+      "description": "Stock Market Picks: Jefferies identifies 18 financial stocks, including SBI, Paytm and MCX, as easing geopolitical tensions, lower oil prices and inflation could support the sector.",
+      "url": "https://www.financialexpress.com/market/sbi-paytm-to-mcx-jefferies-picks-18-stocks-as-geopolitical-tension-is-set-to-ease-4378509/",
+      "image": "https://images.financialexpressdigital.com/2026/11/banking.jpg",
+      "publishedAt": "2026-11-06T09:29:00Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "US shale producer EOG Resources beats profit estimates on higher crude prices",
-      "description": "U.S. shale producer EOG Resources\nbeat analysts' estimates for third-quarter profit on\nThursday, helped by elevated crude oil prices and record\nproduction volumes.\nU.S. shale producers...",
-      "url": "https://www.marketscreener.com/news/us-shale-producer-eog-resources-beats-quarterly-profit-estimates-on-higher-crude-prices-ce785fddda8cf32c",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdnoir.png",
-      "publishedAt": "2026-11-05T21:59:24Z",
+      "title": "E20 Fuel Row: Karnataka Minister Claims Ethanol Content Exceeds 31% In Petrol Samples; IOCL, HPCL, BPCL Under Scanner",
+      "description": "Karnataka government has indicated it will raise the issue with Centre, seeking transparency in ethanol blending, accountability from oil companies, protection for consumers",
+      "url": "https://www.news18.com/india/e20-fuel-row-karnataka-minister-claims-ethanol-content-exceeds-31-in-petrol-samples-iocl-hpcl-bpcl-under-scanner-ws-klt-10415502.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/new-1-2026-11-99c8d92e506ace6738d32737a24ce8de-1200x675.png",
+      "publishedAt": "2026-11-06T09:13:53Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "News18"
       }
     },
     {
-      "title": "Devon Energy tops profit estimates on higher output, crude prices",
-      "description": "Devon Energy on Thursday\nsurpassed Wall Street expectations for third-quarter profit,\nboosted by a surge in crude oil prices and higher production.\nThe Iran war, now in its ninth month,...",
-      "url": "https://www.marketscreener.com/news/us-shale-producer-devon-energy-tops-third-quarter-profit-estimates-ce785fddda8cf424",
-      "image": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
-      "publishedAt": "2026-11-05T21:56:47Z",
+      "title": "Global equity funds post seventh straight week of inflows",
+      "description": "Global equity funds attracted inflows for a seventh consecutive week through November 4, as major central banks held interest rates steady and crude oil prices \u200bdeclined, even as US and major Asian markets fell amid concerns \u200cover AI build-out costs.",
+      "url": "https://www.reuters.com/world/china/global-markets-flows-graphic-2026-11-06/",
+      "image": "https://www.reuters.com/resizer/v2/4O4ZK4JVDZK37PV4MTSO7HGTFY.jpg?auth=b6c8c6bf545b973bfd6e3d9212c4cb57faa63d37d710dfeff4e9a13fbcb30dbe&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-11-06T09:11:47Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Reuters"
       }
     },
     {
-      "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling?",
-      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
-      "url": "https://www.cbsnews.com/news/gas-prices-below-four-dollars-expert-predicts/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
-      "publishedAt": "2026-11-05T21:19:08Z",
+      "title": "Karnataka govt fuel tests find ethanol content of up to 31% in petrol samples; flags over",
+      "description": "Tests conducted on petrol samples collected from seven districts found ethanol content ranging from 13.5% to 31.2%, prompting the state government to seek action against oil companies and compensation for consumers",
+      "url": "https://www.moneycontrol.com/news/india/karnataka-fuel-tests-find-up-to-31-ethanol-in-petrol-samples-flag-over-blending-14073046.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2025/05/20250515145353_2025-05-15T082252Z_2_LYNXMPEL4E0BX_RTROPTP_4_INDIA-OIL.jpg",
+      "publishedAt": "2026-11-06T09:09:25Z",
       "source": {
-        "name": "CBS News"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Gas prices could soon dip below $4 a gallon. So why are fuel costs falling?",
-      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
-      "url": "https://www.cbsnews.com/detroit/news/gas-prices-below-four-dollars-expert-predicts/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/05/5ecc93a5-d6f5-4fe4-8dfc-010b46c938a8/thumbnail/1200x630/cfe66de34ce7157832cafc2c34d66aeb/gettyimages-2302796448.jpg",
-      "publishedAt": "2026-11-05T21:19:08Z",
+      "title": "Can US midterm outcome bring relief to India? Kotak flags lower crude prices",
+      "description": "A potential easing of geopolitical tensions and a decline in crude oil prices could strengthen India's macroeconomic position in the coming months, while robust Q2FY27 earnings growth may provide fresh support to domestic equities, according to Kotak Institutional Equities.",
+      "url": "https://www.firstpost.com/business/can-us-midterm-outcome-bring-relief-to-india-kotak-flags-lower-crude-prices-14058363.html",
+      "image": "https://images.firstpost.com/uploads/2026/11/Untitled-Design-5-2026-11-a7c1a318b34b143ccd1b573a7b96be29.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-06T08:53:13Z",
       "source": {
-        "name": "CBS News"
+        "name": "Firstpost"
       }
     },
     {
-      "title": "U.S. gas prices on track to fall below $4 a gallon, experts say",
-      "description": "Fuel prices have dropped in recent weeks amid hopes that the midterm elections would increase pressure on the U.S. and Iran to reach a peace deal.",
-      "url": "https://www.newsbreak.com/cbs-news-510078/4988986565173-u-s-gas-prices-on-track-to-fall-below-4-a-gallon-experts-say",
-      "image": "https://img.particlenews.com/img/id/4bvcWl_1Go0WFdG00",
-      "publishedAt": "2026-11-05T21:19:08Z",
+      "title": "Rupee Surges 54 Paise To 8-Month High, Breaks Below 94 Against US Dollar At 93.87",
+      "description": "The rupee draws support from renewed FII inflows, significant correction in oil prices and improving sentiment towards emerging markets following the US midterm election results.",
+      "url": "https://www.news18.com/business/economy/rupee-surges-54-paise-to-8-month-high-breaks-below-94-against-us-dollar-at-93-87-10415460.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/12/Created-in-1931-this-choker-featured-platinum-rubies-diamonds-and-elegant-pearls-2025-12-22T115428.615-2025-12-605094463fe5d42ca160535f36d1bd81-16x9.png",
+      "publishedAt": "2026-11-06T08:51:25Z",
       "source": {
-        "name": "NewsBreak"
+        "name": "News18"
       }
     }
   ]
