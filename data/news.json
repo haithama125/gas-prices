@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-07T12:05:13+00:00",
+  "updated_at": "2026-11-07T21:13:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Diwali rally defies global rout amid AI fears",
-      "description": "Indian benchmark indices defied a global market meltdown to extend a sharp rally for the seventh consecutive session on Friday, closing firmly in the green on the back of sustained foreign fund inflows and easing crude oil prices.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-reclaims-81k-as-pre-diwali-rally-defies-global-rout-amid-ai-fears/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU0ZWUwYjAwLWRhM2EtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-      "publishedAt": "2026-11-06T23:36:28Z",
+      "title": "Oil marketing companies reject Karnataka's claims of 26-31 pc ethanol in petrol, cite testing irregularities",
+      "description": "The three OMCs asserted that E20 petrol supplied nationwide complies with Bureau of Indian Standards (BIS) specification IS 17021, rejecting the Karnataka government's claim that petrol sold at certain retail outlets in the state contains 26\u201331 per cent ethanol.",
+      "url": "https://www.tribuneindia.com/news/business/oil-marketing-companies-reject-karnatakas-claims-of-26-31-pc-ethanol-in-petrol-cite-testing-irregularities/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWI2YjRmMmQwLWRhOGEtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-07T09:07:45Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Rupee Rises as Global Money Finds India",
-      "description": "The rupee pulled off a sparkling turnaround to emerge as Asias best-performing currency this week \u2013 just in time for a stellar Diwali \u2013 after the steepest weekly retreat in oil prices since April 2020 and nearly $4 billion of net equity purchases by foreign funds in the past fortnight eased pressure on the local unit.",
-      "url": "https://economictimes.indiatimes.com/satet-front/re-rises-as-global-money-finds-india/articleshow/135621295.cms",
-      "image": "https://img.etimg.com/thumb/msid-135623008,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-06T22:18:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Rupee Rises as Global Money Finds India",
-      "description": "The rupee pulled off a sparkling turnaround to emerge as Asias best-performing currency this week \u2013 just in time for a stellar Diwali \u2013 after the steepest weekly retreat in oil prices since April 2020 and nearly $4 billion of net equity purchases by foreign funds in the past fortnight eased pressure on the local unit.",
-      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/07/satet-front/re-rises-as-global-money-finds-india/articleshow/135621295.cms",
-      "image": "https://img.etimg.com/thumb/msid-135623008,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-06T22:18:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "The economy propelled Democrats to victory. What can they actually do about it?",
-      "description": "Democrats' resounding victory in the midterms can be boiled down to frustrations over the high cost of living and gas prices. But in divided government -- how much can Democrats do?",
-      "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
-      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
-      "publishedAt": "2026-11-06T21:53:10Z",
-      "source": {
-        "name": "NPR"
-      }
-    },
-    {
-      "title": "Karnataka's '30% ethanol' claim stirs row as OMCs junk 'test'",
-      "description": "NEW DELHI: Public sector oil marketing companies (OMCs) on Friday hit back at Congress-led Karnataka govt's claims that petrol tested by labs authorised",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135620389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-06T21:09:00Z",
+      "title": "'Not supported by tests': Petroleum ministry rejects over 20% ethanol blending in Karnataka",
+      "description": "NEW DELHI: The Centre on Saturday rejected claims of excessive ethanol blending in petrol at certain retail outlets in Karnataka, saying all 56 samples",
+      "url": "https://timesofindia.indiatimes.com/india/not-supported-by-tests-petroleum-ministry-rejects-over-20-ethanol-blending-in-karnataka/articleshow/135631902.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135631902,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-07T09:07:00Z",
       "source": {
         "name": "Times of India"
       }
     },
     {
-      "title": "Govt slashes petrol price by Rs6.59, diesel by Rs4.25 per litre",
-      "description": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday announced a reduction of Rs6.59 per litre in petrol prices and Rs4.25 per litre in high-speed diesel",
-      "url": "https://www.nation.com.pk/07-Nov-2026/govt-slashes-petrol-price-rs6-59-diesel-rs4-25-per-litre",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-11-06T20:20:00Z",
+      "title": "Oil marketing companies reject Karnataka's claims of 26\u201331 pc ethanol in petrol, cite testing irregularities",
+      "description": "The three OMCs asserted that E20 petrol supplied nationwide complies with Bureau of Indian Standards (BIS) specification IS 17021, rejecting the Karnataka government's claim that petrol sold at certain retail outlets in the state contains 26\u201331 per cent ethanol.",
+      "url": "https://www.aninews.in/news/business/oil-marketing-companies-reject-karnatakas-claims-of-26821131-pc-ethanol-in-petrol-cite-testing-irregularities20261107143657/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261107084636-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-07T09:06:57Z",
       "source": {
-        "name": "The Nation"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Goods transport alliance announces 5pc reduction in freight charges",
-      "description": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik",
-      "url": "https://www.nation.com.pk/07-Nov-2026/goods-transport-alliance-announces-5pc-reduction-freight-charges",
-      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
-      "publishedAt": "2026-11-06T20:13:00Z",
+      "title": "E20 petrol meets quality standards; 893 samples tested across 27 states, UTs found compliant",
+      "description": "The Ministry of Petroleum and Natural Gas has taken note of the press release issued by the Department of Food, Civil Supplies, Consumer Affairs and Legal Metrology, Government of Karnataka, claiming that petrol sold at certain retail outlets in the State contains between 26% and 31% ethanol",
+      "url": "https://www.greaterkashmir.com/national/e20-petrol-meets-quality-standards-893-samples-tested-across-27-states-uts-found-compliant-12791649",
+      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/2026/11/07/e20-petrol-quality-compliance-check-2026-11-07-14-21-41.png",
+      "publishedAt": "2026-11-07T08:53:13Z",
       "source": {
-        "name": "The Nation"
+        "name": "Greater Kashmir"
       }
     },
     {
-      "title": "Oil cos challenge Karnataka's claim of excess ethanol in petrol, question testing methodology",
-      "description": "The three companies said E20 petrol supplied across their retail networks, including Karnataka, conforms to the Bureau of Indian Standards' IS 17021 specifications, which prescribe an ethanol content of 19-21 per cent.",
-      "url": "https://www.cnbctv18.com/business/oil-cos-challenge-karnatakas-claim-of-excess-ethanol-in-petrol-question-testing-methodology-20029321.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/07/ethanol-story-2026-07-cb9e9352fb8eee1dc1173076b4c0b327.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-06T18:53:20Z",
+      "title": "Centre Rejects Karnataka's E20 Petrol Claims, Questions Testing Methods",
+      "description": "Centre Rejects Karnataka's E20 Petrol Claims, Questions Testing Methods - New Delhi: The central government has dismissed allegations of excessive ethanol blending in petrol at certain Karnataka fuel stations, ... Get Latest News on National only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/national/centre-rejects-karnatakas-e20-petrol-claims-questions-testing-methods-a001-w02/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260523109F_jiASDFl_202611.jpg",
+      "publishedAt": "2026-11-07T08:48:32Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose slightly this week",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-11-06T18:21:00Z",
+      "title": "Centre Rejects Karnataka's Excess Ethanol Blending Claims, Questions Testing",
+      "description": "Centre Rejects Karnataka's Excess Ethanol Blending Claims, Questions Testing - New Delhi: The central government has firmly rejected claims of excessive ethanol blending in petrol at some Karnataka outlets, ... Get Latest News on Technology only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/technology/centre-rejects-karnatakas-excess-ethanol-blending-claims-questions-testing-a001-w02/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260523109F_jiASDFl_202611.jpg",
+      "publishedAt": "2026-11-07T08:48:32Z",
       "source": {
-        "name": "OilPrice"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Oil Companies Reject Karnataka Minister's '30% Ethanol' Charge On E20 Petrol, Question Testing Method",
-      "description": "Indian Oil, Bharat Petroleum, and Hindustan Petroleum said the claims, as reported, were \"not supported by testing conducted in accordance with the prescribed statutory and technical procedures\".",
-      "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591",
-      "image": "https://c.ndtvimg.com/2026-08/5n49k7kk_e20-fuel-row-_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-06T17:32:56Z",
+      "title": "'E20 Turned Into 420': Rahul Gandhi Accuses Modi Govt Of Cheating Consumers As Karnataka Tests Find Up To 31.2% Ethanol In Petrol",
+      "description": "Rahul Gandhi has questioned the Modi government over E20 petrol after Karnataka tests reportedly found ethanol levels exceeding 20%, reaching 31.2%. Oil companies have disputed the findings, maintaining that their petrol meets prescribed Bureau of Indian Standards specifications.",
+      "url": "https://www.freepressjournal.in/india/e20-turned-into-420-rahul-gandhi-accuses-modi-govt-of-cheating-consumers-as-karnataka-tests-find-up-to-312-ethanol-in-petrol",
+      "image": "https://media.assettype.com/freepressjournal/2025-09-24/dx9cloo5/20250910229L-1.jpg",
+      "publishedAt": "2026-11-07T08:44:52Z",
       "source": {
-        "name": "NDTV.com"
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "E20 Fuel Meets Quality Norms: Centre Rejects Claims Of Excess Ethanol At Karnataka Petrol Outlets",
+      "description": "The Ministry of Petroleum and Natural Gas rejected the claim that Karnataka petrol outlets supplied fuel exceeding the 20 percent ethanol limit",
+      "url": "https://www.news18.com/india/e20-fuel-meets-quality-norms-centre-rejects-claims-of-excess-ethanol-at-karnataka-petrol-outlets-ws-lrt-10416689.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/09/20260729141803_oil_prices_1790261699885-1200x675.jpg",
+      "publishedAt": "2026-11-07T08:26:11Z",
+      "source": {
+        "name": "News18"
+      }
+    },
+    {
+      "title": "E20 row: Oil companies dispute Karnataka\u2019s findings of excess ethanol in petrol",
+      "description": "Three public sector oil companies have disputed the Karnataka government's findings that petrol samples contained up to 31.2% ethanol, exceeding the prescribed 20% limit.",
+      "url": "https://www.thenewsminute.com/karnataka/e20-row-oil-companies-dispute-karnatakas-findings-of-excess-ethanol-in-petrol",
+      "image": "https://cf-images.assettype.com/thenewsminute%2Fimport%2Fsites%2Fdefault%2Ffiles%2Fpetrol_pump_By_Rama_(Own_work)_CeCILL_wiki.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-07T08:23:21Z",
+      "source": {
+        "name": "The News Minute"
+      }
+    },
+    {
+      "title": "Explained: What is the ethanol issue in Karnataka and why have OMCs rejected the state govt's excess blending claims?",
+      "description": "State-run OMCs have rejected Karnataka's claims that petrol at some outlets contained up to 31.2% ethanol, questioning the sampling and testing methods. They say E20 supplies meet BIS standards and have sought independent testing of the disputed samples.",
+      "url": "https://www.livemint.com/news/india/explained-what-is-the-ethanol-issue-in-karnataka-and-why-have-omcs-rejected-the-state-govts-excess-blending-claims-11794038999496.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/07/1600x900/logo/E20_1794039558133_P1zF_1794039562655_rmmj_32a37516-c7f8-45a6-9642-557f08f6add8_sLr7.png",
+      "publishedAt": "2026-11-07T08:20:24Z",
+      "source": {
+        "name": "Livemint"
       }
     }
   ]
