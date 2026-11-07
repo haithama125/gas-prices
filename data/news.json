@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-07T03:43:50+00:00",
+  "updated_at": "2026-11-07T12:05:13+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
-      "description": "Oil prices plunged 15% this week as hopes of a U.S.-Iran peace deal fueled bearish sentiment, despite continued attacks in the Strait of Hormuz.",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html",
-      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
-      "publishedAt": "2026-11-06T15:28:00Z",
+      "title": "Diwali rally defies global rout amid AI fears",
+      "description": "Indian benchmark indices defied a global market meltdown to extend a sharp rally for the seventh consecutive session on Friday, closing firmly in the green on the back of sustained foreign fund inflows and easing crude oil prices.",
+      "url": "https://www.tribuneindia.com/news/business/sensex-reclaims-81k-as-pre-diwali-rally-defies-global-rout-amid-ai-fears/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWU0ZWUwYjAwLWRhM2EtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-06T23:36:28Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "National gas prices for Nov. 6: Average drops to $4.06 per gallon",
-      "description": "The national average for a gallon of regular unleaded sits at $4.06 as of Friday, Nov. 6.",
-      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-110626-national-average-down-again-what-will-you-pay-heading-into-the-weekend.html",
-      "image": "https://www.cleveland.com/resizer/v2/NYGZWS3NJNBJ7OUNJCZKRRYFMA.jpg?auth=e1c436ccbc1de6165541b770d1d7d32483435e8d75b6dc30bedf699be01841f5&width=1280&smart=true",
-      "publishedAt": "2026-11-06T15:16:44Z",
-      "source": {
-        "name": "cleveland.com"
-      }
-    },
-    {
-      "title": "National gas prices for Nov. 6: Average drops to $4.06 per gallon",
-      "description": "The national average for a gallon of regular unleaded sits at $4.06 as of Friday, Nov. 6.",
-      "url": "https://www.al.com/news/2026/11/gas-prices-for-110626-national-average-down-again-what-will-you-pay-heading-into-the-weekend.html",
-      "image": "https://www.al.com/resizer/v2/NYGZWS3NJNBJ7OUNJCZKRRYFMA.jpg?auth=e1c436ccbc1de6165541b770d1d7d32483435e8d75b6dc30bedf699be01841f5&width=1280&smart=true",
-      "publishedAt": "2026-11-06T15:16:44Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "Petrol politics: Has Karnataka Congress government found a new issue to counter price hikes?",
-      "description": "Karnataka government revealed that laboratory tests on petrol samples showed ethanol blending levels exceeding the prescribed 20 percent limit, with some samples reaching over 30 percent",
-      "url": "https://www.theweek.in/news/india/2026/11/06/petrol-politics-has-karnataka-congress-government-found-a-new-issue-to-counter-price-hikes.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/11/6/rizwan-arshad.jpg",
-      "publishedAt": "2026-11-06T15:10:01Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "Petrol Samples Show Ethanol Levels Above E20 limit, Says Govt",
-      "description": "Laboratory tests conducted by the Karnataka government have found ethanol content exceeding: Reports",
-      "url": "https://www.deccanchronicle.com/southern-states/karnataka/petrol-samples-show-ethanol-levels-above-e20-limit-says-govt-2002340",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/11/06/2109330-06-11-mgl-rizwan.jpg",
-      "publishedAt": "2026-11-06T15:09:55Z",
-      "source": {
-        "name": "Deccan Chronicle"
-      }
-    },
-    {
-      "title": "IOCL, HPCL petrol samples record over 30% ethanol, alleges Karnataka government; demands action",
-      "description": "The Karnataka govt has alleged that petrol samples from several oil marketing companies contained ethanol levels exceeding the prescribed 20% blending limit, with tests recording up to 31.2%.",
-      "url": "https://www.livemint.com/news/india/iocl-hpcl-petrol-samples-record-over-30-ethanol-alleges-karnataka-government-demands-action-11793975229451.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/06/1600x900/logo/e20_1793977539750_Z2r9_1793977539881_3rGT_2a82c7eb-3366-4b95-80dc-6d368af63480_2L4N.jpg",
-      "publishedAt": "2026-11-06T15:07:10Z",
-      "source": {
-        "name": "Livemint"
-      }
-    },
-    {
-      "title": "Kolkata Youth Blindfolded, Doused With Petrol And Set Ablaze Over Social Media Reel; 3 Arrested",
-      "description": "An 18-year-old Kolkata youth was allegedly set ablaze after being blindfolded and assaulted. Police arrested three adults and apprehended two minors.",
-      "url": "https://www.republicworld.com/viral/kolkata-youth-blindfolded-doused-with-petrol-and-set-ablaze-over-social-media-reel-3-arrested-2-minors-held-2026-11-06-140568",
-      "image": "https://img.republicworld.com/all_images/2026/11/kolkata-youth-blindfolded-set-ablaze-over-social-media-reel-3-arrested-1793976788992-1280x720.webp",
-      "publishedAt": "2026-11-06T14:53:14Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Rupee finally bounces back, closes at 93.90 on Friday, after hitting nearly 97/$ in May and Oct",
-      "description": "The rupee emerged as Asia's best-performing currency this week, strengthening to 93.90 against the dollar. Falling crude oil prices, nearly $4 billion in foreign equity inflows, short covering and improved investor sentiment supported its recovery.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-finally-bounces-back-closes-at-93-90-on-friday-after-hitting-nearly-97/-in-may-and-oct/articleshow/135611715.cms",
-      "image": "https://img.etimg.com/thumb/msid-135611742,width-1200,height-900,imgsize-40800,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-06T14:44:00Z",
+      "title": "Rupee Rises as Global Money Finds India",
+      "description": "The rupee pulled off a sparkling turnaround to emerge as Asias best-performing currency this week \u2013 just in time for a stellar Diwali \u2013 after the steepest weekly retreat in oil prices since April 2020 and nearly $4 billion of net equity purchases by foreign funds in the past fortnight eased pressure on the local unit.",
+      "url": "https://economictimes.indiatimes.com/satet-front/re-rises-as-global-money-finds-india/articleshow/135621295.cms",
+      "image": "https://img.etimg.com/thumb/msid-135623008,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-06T22:18:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Karnataka claims E20 contains over 30% ethanol, minister cites lab tests; compensation sought",
-      "description": "Citing lab tests, Karnataka claims that petrol samples from several fuel stations contained ethanol levels exceeding 20%, with IOCL recording 31.2% and HPCL 30.5%. The state also alleges discrepancies in oil companies' lab reports and demands an investigation and consumer compensation.",
-      "url": "https://www.indiatvnews.com/karnataka/karnataka-claims-e20-contains-over-30-ethanol-minister-cites-lab-tests-compensation-sought-2026-11-06-1058866",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/11/karnataka-e20-fuel-testing-ethanol-content-1793975494.jpg",
-      "publishedAt": "2026-11-06T14:41:41Z",
+      "title": "Rupee Rises as Global Money Finds India",
+      "description": "The rupee pulled off a sparkling turnaround to emerge as Asias best-performing currency this week \u2013 just in time for a stellar Diwali \u2013 after the steepest weekly retreat in oil prices since April 2020 and nearly $4 billion of net equity purchases by foreign funds in the past fortnight eased pressure on the local unit.",
+      "url": "https://economictimes.indiatimes.com/epaper/delhicapital/2026/nov/07/satet-front/re-rises-as-global-money-finds-india/articleshow/135621295.cms",
+      "image": "https://img.etimg.com/thumb/msid-135623008,width-1200,height-900,imgsize-91238,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-06T22:18:00Z",
       "source": {
-        "name": "India TV News"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Karnataka flags ethanol levels crossing the permissible 20% limit in petrol samples",
-      "description": "Karnataka finds petrol samples exceeding 20% ethanol limit, with some up to 31.2%, prompting calls for transparency, accountability, and compensation.",
-      "url": "https://www.thehindubusinessline.com/news/national/karnataka-flags-ethanol-levels-crossing-the-permissible-20-limit-in-petrol-samples/article71674289.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/k4sq13/article71675115.ece/alternates/LANDSCAPE_1200/iStock-162999335.jpg",
-      "publishedAt": "2026-11-06T14:26:35Z",
+      "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+      "description": "Democrats' resounding victory in the midterms can be boiled down to frustrations over the high cost of living and gas prices. But in divided government -- how much can Democrats do?",
+      "url": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+      "image": "https://media.npr.org/include/images/facebook-default-wide-s1400-c85.jpg",
+      "publishedAt": "2026-11-06T21:53:10Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "NPR"
+      }
+    },
+    {
+      "title": "Karnataka's '30% ethanol' claim stirs row as OMCs junk 'test'",
+      "description": "NEW DELHI: Public sector oil marketing companies (OMCs) on Friday hit back at Congress-led Karnataka govt's claims that petrol tested by labs authorised",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/karnatakas-30-ethanol-claim-stirs-row-as-omcs-junk-test/articleshow/135620353.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135620389,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-06T21:09:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Govt slashes petrol price by Rs6.59, diesel by Rs4.25 per litre",
+      "description": "ISLAMABAD - The Oil and Gas Regulatory Authority (OGRA) on Friday announced a reduction of Rs6.59 per litre in petrol prices and Rs4.25 per litre in high-speed diesel",
+      "url": "https://www.nation.com.pk/07-Nov-2026/govt-slashes-petrol-price-rs6-59-diesel-rs4-25-per-litre",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-11-06T20:20:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Goods transport alliance announces 5pc reduction in freight charges",
+      "description": "KARACHI - The All Pakistan Goods Transport Alliance has announced a 5pc reduction in goods transportation fares following a decline in petrol and diesel prices. Malik",
+      "url": "https://www.nation.com.pk/07-Nov-2026/goods-transport-alliance-announces-5pc-reduction-freight-charges",
+      "image": "https://www.nation.com.pk/assets/thenation_202006/images/no-image-large.jpg",
+      "publishedAt": "2026-11-06T20:13:00Z",
+      "source": {
+        "name": "The Nation"
+      }
+    },
+    {
+      "title": "Oil cos challenge Karnataka's claim of excess ethanol in petrol, question testing methodology",
+      "description": "The three companies said E20 petrol supplied across their retail networks, including Karnataka, conforms to the Bureau of Indian Standards' IS 17021 specifications, which prescribe an ethanol content of 19-21 per cent.",
+      "url": "https://www.cnbctv18.com/business/oil-cos-challenge-karnatakas-claim-of-excess-ethanol-in-petrol-question-testing-methodology-20029321.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/07/ethanol-story-2026-07-cb9e9352fb8eee1dc1173076b4c0b327.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-06T18:53:20Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "U.S. Oil, Gas Drillers See Minor Uptick as Oil Prices Crash",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose slightly this week",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Gas-Drillers-See-Minor-Uptick-as-Oil-Prices-Crash.html",
+      "image": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+      "publishedAt": "2026-11-06T18:21:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "Oil Companies Reject Karnataka Minister's '30% Ethanol' Charge On E20 Petrol, Question Testing Method",
+      "description": "Indian Oil, Bharat Petroleum, and Hindustan Petroleum said the claims, as reported, were \"not supported by testing conducted in accordance with the prescribed statutory and technical procedures\".",
+      "url": "https://www.ndtv.com/india-news/oil-companies-reject-karnataka-ministers-30-ethanol-charge-on-e20-petrol-question-testing-method-12294591",
+      "image": "https://c.ndtvimg.com/2026-08/5n49k7kk_e20-fuel-row-_625x300_31_August_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-06T17:32:56Z",
+      "source": {
+        "name": "NDTV.com"
       }
     }
   ]
