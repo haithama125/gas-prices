@@ -1,9 +1,59 @@
 {
-  "updated_at": "2026-11-08T03:21:42+00:00",
+  "updated_at": "2026-11-08T12:26:14+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "E20 petrol meets quality standards, says Govt",
+      "description": "NEW DELHI, Nov 7: The Government on Saturday defended the 20 per cent ethanol-blended petrol programme, saying tests of 893 samples collected across 27 states and Union Territories, including 56 in Karnataka, found them compliant with prescribed quality standards, as...",
+      "url": "https://www.dailyexcelsior.com/e20-petrol-meets-quality-standards-says-govt/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTY3NGVjY2UwLWRhZmItMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-07T22:34:07Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "31% ethanol charge as Rahul slams \u2018petrol chori\u2019",
+      "description": "The Ministry of Petroleum and Natural Gas on Saturday rejected allegations by the Karnataka Government that petrol sold at some retail outlets contained ethanol levels of 26-31 per cent, asserting that fuel supplied by public sector oil marketing companies (OMCs) across the country conforms to prescribed E20 standards.",
+      "url": "https://www.tribuneindia.com/news/india/oil-ministry-rejects-ktakas-26-31-ethanol-charge-as-rahul-slams-petrol-chori/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWJjMDRlZWUwLWRhZTItMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-07T19:37:56Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "\u2018A lot more bang for your buck\u2019: Used electric vehicles find second wind in Florida amid volatile gas prices",
+      "description": "In a state where gas hovers around $4 a gallon, skipping the pump sounds like a fantasy, and 54-year-old Paul Gillespie is living that dream.Gillespie\u2019s Chevy Bolt and Rivian R1T are among the over 450,400 registered electric vehicles, or EVs, in Florida. He\u2019s driven an electric car since 2018.",
+      "url": "https://www.alligator.org/article/2026/11/a-lot-more-bang-for-your-buck-used-electric-vehicles-find-second-wind-in-florida-amid-volatile-gas-prices",
+      "image": "https://snworksceo.imgix.net/ufa/659120a4-ddd2-416e-94ce-ab444132b371.sized-1000x1000.png?w=800&dpr=2&ar=16%3A9&fit=crop&crop=faces",
+      "publishedAt": "2026-11-07T18:33:01Z",
+      "source": {
+        "name": "The Independent Florida Alligator"
+      }
+    },
+    {
+      "title": "Crude Check: Bears make their move",
+      "description": "Oil prices plunge with a sharp, likely short-lived recovery; Brent near $98 and MCX below \u20b99,000, with downside targets to $90 and \u20b97,000.",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/crude-check-bears-make-their-move/article71677755.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/fr9bsr/article71677936.ece/alternates/LANDSCAPE_1200/IMG_PO14_crude_oil_2_1_G7G41HA7.jpg",
+      "publishedAt": "2026-11-07T16:39:42Z",
+      "source": {
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Congress leader Udit Raj seeks transparency over alleged ethanol blending above E20",
+      "description": "Congress leader Udit Raj on Saturday called for transparency in ethanol blending in petrol amid allegations of ethanol blending levels exceeding E20 in Karnataka, saying consumers should not be misled about the composition and pricing of fuel.",
+      "url": "https://www.aninews.in/news/national/general-news/8220there-should-be-no-deception8221-congress-leader-udit-raj-seeks-transparency-over-alleged-ethanol-blending-above-e2020261107211749/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261107154736-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-07T15:47:49Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
     {
       "title": "Now, Keralam too orders checks on petrol ethanol blending",
       "description": "Kerala orders inspections at petrol pumps to check excess ethanol blending, with fuel samples to be tested in Thiruvananthapuram, Ernakulam, Kozhikode and Kannur.",
@@ -47,61 +97,11 @@
     {
       "title": "National gas prices drop to $4.03 per gallon for Nov. 7, 2026",
       "description": "Prices continue to drop to levels not seen since the end of summer 2026. However, the average price per gallon remains 96 cents higher than it was a year ago.",
-      "url": "https://www.al.com/news/2026/11/gas-prices-for-110726-average-now-under-4-per-gallon-in-26-states.html",
-      "image": "https://www.al.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true",
-      "publishedAt": "2026-11-07T14:55:44Z",
-      "source": {
-        "name": "AL.com"
-      }
-    },
-    {
-      "title": "National gas prices drop to $4.03 per gallon for Nov. 7, 2026",
-      "description": "Prices continue to drop to levels not seen since the end of summer 2026. However, the average price per gallon remains 96 cents higher than it was a year ago.",
       "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-110726-average-now-under-4-per-gallon-in-26-states.html",
       "image": "https://www.cleveland.com/resizer/v2/GBNMWKBIYVERXF324P6T54ZQSU.jpg?auth=ddbebee56a0846e22f0f1d92563c0b14f6288b97e9d2d919cf7cf64cc3f7c2cf&width=1280&smart=true",
       "publishedAt": "2026-11-07T14:55:44Z",
       "source": {
         "name": "cleveland.com"
-      }
-    },
-    {
-      "title": "Hoping for a rapid drop in gas prices after the midterms? It\u2019s probably not going to happen",
-      "description": "\u2018I don't want to say this, but, you know, expensive gasoline prices could be a new normal,\u2019 one expert warned",
-      "url": "https://www.independent.co.uk/us/money/gas-prices-midterm-elections-trump-b3080106.html",
-      "image": "https://static.independent.co.uk/2026/11/05/20/31/GettyImages-2296974309.jpeg?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
-      "publishedAt": "2026-11-07T14:47:06Z",
-      "source": {
-        "name": "The Independent"
-      }
-    },
-    {
-      "title": "Keralam orders fuel quality checks in four districts after Karnataka flags excess ethanol blending",
-      "description": "Public sector oil marketing companies on Friday rejected the claim that petrol sold at some retail outlets in Karnataka contained up to 31 per cent ethanol",
-      "url": "https://www.telegraphindia.com/india/keralam-orders-fuel-quality-checks-in-four-districts-after-karnataka-flags-excess-ethanol-blending/cid/2188354",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794062329_1785664887_1778055898_ethanol-1.gif",
-      "publishedAt": "2026-11-07T14:39:44Z",
-      "source": {
-        "name": "Telegraph India"
-      }
-    },
-    {
-      "title": "'Won't Allow Blending...': Karnataka Minister Hits Back At Oil Firms Over E20 Petrol Testing Dispute",
-      "description": "On Friday, Arshad alleged tests conducted on fuel samples at a private lab had found ethanol content of 31.2 per cent in samples from IOCL and 30.5 per cent in samples from HPCL.",
-      "url": "https://www.news18.com/india/wont-allow-blending-karnataka-minister-hits-back-at-oil-firms-over-e20-petrol-testing-dispute-10417086.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/11/1-2026-11-07T194419.265-2026-11-28ef862b85084a209041f0ec8276b450-1200x675.png",
-      "publishedAt": "2026-11-07T14:27:29Z",
-      "source": {
-        "name": "News18"
-      }
-    },
-    {
-      "title": "He Paid Rs 210 Online For Petrol, But Got Fuel Worth Only Rs 110, Heated Argument Then Turns Into A Shocking Fight At Gorakhpur Pump, Here's What Happened",
-      "description": "A dispute over filling Rs 210 worth of petrol instead of Rs 110 at a Gorakhpur petrol pump quickly turned into a violent clash. Two employees were injured, while police detained two youths.",
-      "url": "https://www.newsx.com/regionals/he-paid-rs-210-online-for-petrol-but-got-fuel-worth-only-rs-110-heated-argument-then-turns-into-a-shocking-fight-at-gorakhpur-pump-heres-what-happened-290694/",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/11/up-petrol-fight.png",
-      "publishedAt": "2026-11-07T14:26:05Z",
-      "source": {
-        "name": "NewsX"
       }
     }
   ]
