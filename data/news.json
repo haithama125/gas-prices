@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-08T21:28:10+00:00",
+  "updated_at": "2026-11-09T03:40:28+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Andy Burnham told to bring back 2009 rule",
-      "description": "EXCLUSIVE: Andy Burnham has been told to revive a former Alisatir Darling plan to get petrol and diesel cars off UK roads.",
-      "url": "https://www.express.co.uk/life-style/cars/2263167/andy-burnham-scrappage-scheme-petrol-diesel-cars",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7217654.jpg",
-      "publishedAt": "2026-11-08T08:01:00Z",
+      "title": "Gas prices for Nov. 8 drop to $4.02 per gallon nationwide",
+      "description": "The national average for a gallon of regular unleaded fuel is $4.02 as of Sunday, Nov. 8.",
+      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-110826-average-getting-closer-to-4-per-gallon-one-state-at-327.html",
+      "image": "https://www.cleveland.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true",
+      "publishedAt": "2026-11-08T15:09:37Z",
       "source": {
-        "name": "Daily Express"
+        "name": "cleveland.com"
       }
     },
     {
-      "title": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile",
-      "description": "After a turbulent Samvat 2082, analysts expect geopolitical developments, crude prices and foreign investor flows to shape market direction, with banks and financials remaining preferred bets",
-      "url": "https://www.business-standard.com/markets/stock-market-news/markets-stock-market-samvat-2083-outlook-indian-equities-oil-prices-fpi-flows-volatility-126110800259_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/thumb/fitandfill/1200X628/1778776794-7318.jpg",
-      "publishedAt": "2026-11-08T07:48:07Z",
+      "title": "Gas prices for Nov. 8 drop to $4.02 per gallon nationwide",
+      "description": "The national average for a gallon of regular unleaded fuel is $4.02 as of Sunday, Nov. 8.",
+      "url": "https://www.al.com/news/2026/11/gas-prices-for-110826-average-getting-closer-to-4-per-gallon-one-state-at-327.html",
+      "image": "https://www.al.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true",
+      "publishedAt": "2026-11-08T15:09:37Z",
       "source": {
-        "name": "Business Standard"
+        "name": "AL.com"
       }
     },
     {
-      "title": "DK Shivakumar Stands Firm on Excess Ethanol Claims Despite OMC Denials",
-      "description": "\\\"We have checked; the mixing is happening at the petrol bunks. Where it is being distributed, mixing is happening there; we have all the documents,\\\" he said",
-      "url": "https://www.deccanchronicle.com/southern-states/karnataka/dk-shivakumar-stands-firm-on-excess-ethanol-claims-despite-omc-denials-2002736",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/10/13/2100292-dk-shivakumar-speaking.jpg",
-      "publishedAt": "2026-11-08T07:45:41Z",
+      "title": "Gas prices for Nov. 8 drop to $4.02 per gallon nationwide",
+      "description": "The national average for a gallon of regular unleaded fuel is $4.02 as of Sunday, Nov. 8.",
+      "url": "https://www.mlive.com/news/2026/11/gas-prices-for-110826-average-getting-closer-to-4-per-gallon-one-state-at-327.html",
+      "image": "https://www.mlive.com/resizer/v2/44IEHK46WBEKNDW7ACLGWAVEWI.jpg?auth=3a33ce5c74955d98b297ef69099c7ed039211c4fb775beaf5c4bd5381480305d&width=1280&smart=true",
+      "publishedAt": "2026-11-08T15:09:37Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "M Live Michigan "
       }
     },
     {
-      "title": "'Engines Failing, Mileage Dropping': DKS Backs His Govt's Claim On Excess Ethanol Mixing In Petrol",
-      "description": "Karnataka Chief Minister DK Shivakumar supports allegations that ethanol blending in petrol exceeds the 20% limit at certain stations, claiming it has led to engine issues and reduced mileage for many vehicles., India News, Times Now",
-      "url": "https://www.timesnownews.com/india/karnataka-dk-shivakumar-backs-claims-on-excess-ethanol-mixing-in-petrol-says-engines-failing-mileage-dropping-article-156481961",
-      "image": "https://images.timesnownews.com/thumb/msid-156482049,thumbsize-1195539,width-1280,height-720,resizemode-75/156482049.jpg",
-      "publishedAt": "2026-11-08T07:23:55Z",
+      "title": "'No payment for fuel, just a deadly ride': Lucknow petrol pump worker dragged 500 metres by car",
+      "description": "LUCKNOW: In a shocking incident of robbery and reckless driving, a petrol pump employee was dragged nearly 500 metres by a speeding car after its",
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/no-payment-for-fuel-just-a-deadly-ride-lucknow-petrol-pump-worker-dragged-500-metres-by-car/articleshow/135660485.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135660639,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-08T14:07:00Z",
       "source": {
-        "name": "Times Now"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Design, engine, features and price",
-      "description": "Hyundai Bayon review: The 4.25-metre SUV gets attractive proportions, a 1.5-litre petrol engine, balanced handling and Perplexity AI integration.",
-      "url": "https://theprint.in/opinion/dashboard/hyundai-bayon-review-price-engine-features/3092985/",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/11/Hyundai-Bayon.jpg",
-      "publishedAt": "2026-11-08T07:21:59Z",
+      "title": "Britons cut back on driving as petrol prices soar",
+      "description": "Drivers cut fuel purchases by 12pc as more work from home or use public transport",
+      "url": "https://www.telegraph.co.uk/business/2026/11/08/britons-cut-back-on-driving-as-petrol-prices-soar/",
+      "image": "https://www.telegraph.co.uk/content/dam/briefs/2026/11/06/TELEMMGLPICT000497476347_17939853808881_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=OG-Standard",
+      "publishedAt": "2026-11-08T12:25:00Z",
+      "source": {
+        "name": "The Telegraph"
+      }
+    },
+    {
+      "title": "Karnataka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
+      "description": "Thousands of motorists have complained about various issues, including reduced vehicle mileage, failure to cover expected distances, and engines stalling while in motion, he said.",
+      "url": "https://www.cnbctv18.com/india/karnataka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar-20029894.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/09/karnataka-cm-dk-shivakumar-2026-09-49513a5e8df447558cf79eb2824f79b5.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-08T12:21:43Z",
+      "source": {
+        "name": "CNBC TV18"
+      }
+    },
+    {
+      "title": "K'taka tests petrol samples at 67 locations over ethanol blending complaints: CM Shivakumar",
+      "description": "Stay updated with ThePrint: Preferred Source Google Discover Bengaluru, Nov 8 (PTI) Karnataka Chief Minister D K Shivakumar on Sunday said petrol samples had been collected and tested at 67 locations across the state following complaints that increased ethanol blending was affecting vehicle engine performance. Speaking to reporters here, Shivakumar said, \u201cThe government has taken [\u2026]",
+      "url": "https://theprint.in/india/ktaka-tests-petrol-samples-at-67-locations-over-ethanol-blending-complaints-cm-shivakumar/3093705/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-11-08T12:15:59Z",
       "source": {
         "name": "ThePrint"
       }
     },
     {
-      "title": "Karnataka CM Shivakumar alleges E20 petrol has more than 20% ethanol, promises evidence tomorrow",
-      "description": "Shivakumar said the Karnataka government was examining complaints related to fuel quality and consumption, including reports of vehicles failing to deliver the expected mileage and engines shutting down intermittently.",
-      "url": "https://www.moneycontrol.com/news/india/karnataka-cm-shivakumar-alleges-e20-petrol-has-more-than-20-ethanol-promises-evidence-tomorrow-14074845.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261108070502_Shivakumar.jpg",
-      "publishedAt": "2026-11-08T07:15:04Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "E20 controversy: Keralam to check if petrol exceeds ethanol blending limit",
-      "description": "Keralam ordered petrol tests across four districts to check ethanol blending limits amid a nationwide row. While the Centre denied excess blending,",
-      "url": "https://www.onmanorama.com/news/kerala/2026/11/08/e20-controversy-keralam-to-check-if-petrol-exceeds-ethanol-blending-limit.html",
-      "image": "https://img.onmanorama.com/content/dam/mm/en/archive/kerala/top-news/images/2026/7/9/petrol-fuel.jpg",
-      "publishedAt": "2026-11-08T07:10:36Z",
-      "source": {
-        "name": "Malayala Manorama"
-      }
-    },
-    {
-      "title": "Karnataka ethanol row: DK Shivakumar alleges excessive blending, promises evidence and documents on Monday",
-      "description": "Karnataka Chief Minister DK Shivakumar has backed allegations of excessive ethanol blending in petrol sold in the state, claiming levels exceed the approved E20 limit. He said samples had been collected from 67 locations and an investigation was underway, with a minister set to present evidence and documents on Monday.",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-ethanol-row-dk-shivakumar-alleges-excessive-blending-promises-evidence-and-documents-on-monday/articleshow/135653350.cms",
-      "image": "https://img.etimg.com/thumb/msid-135653547,width-1200,height-900,imgsize-143290,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-08T06:58:00Z",
+      "title": "E20 debate widens: Karnataka to reveal probe findings on Monday; MoS Suresh Gopi backs OMCs",
+      "description": "Karnataka authorities are set to reveal more information regarding the alleged excessive ethanol blending in petrol. Chief Minister DK Shivakumar stated that the government has received numerous complaints from motorists concerning vehicle performance issues. Inspection teams collected petrol samples from various retail fuel outlets and ethanol blending facilities across the state. Additionally, Kerala has ordered laboratory tests on petrol samples amid this controversy.",
+      "url": "https://economictimes.indiatimes.com/news/india/e20-debate-widens-karnataka-to-reveal-probe-findings-on-monday-mos-suresh-gopi-backs-omcs/articleshow/135658545.cms",
+      "image": "https://img.etimg.com/thumb/msid-135658548,width-1200,height-900,imgsize-143290,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-08T12:11:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "\"Nothing to do with us\": CM Shivakumar claims excess ethanol mixing at petrol bunks in Karnataka; Minister to reveal records tomorrow",
-      "description": "Amid the row over ethanol mixing in Karnataka, Chief Minister DK Shivakumar on Sunday backed the claim that fuel sold in the state contains ethanol far beyond the approved limit, announcing that a Minister will hold a press conference on Monday with full details and documents.",
-      "url": "https://www.aninews.in/news/national/general-news/nothing-to-do-with-us-cm-shivakumar-claims-excess-ethanol-mixing-at-petrol-bunks-in-karnataka-minister-to-reveal-records-tomorrow20261108114837/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261108061820-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-11-08T06:18:38Z",
+      "title": "Lucknow petrol pump staffer blocks car leaving without paying, they drag him for 1 km",
+      "description": "Car occupants allegedly dragged a petrol pump employee along a Lucknow highway after evading payment. Viral CCTV footage shows the worker's ordeal before he was hospitalised with injuries.",
+      "url": "https://www.indiatoday.in/cities/lucknow/story/lucknow-petrol-pump-worker-dragged-by-car-over-unpaid-fuel-3034901-2026-11-08",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/petrol-08004665-16x9_0.png?VersionId=TmCo8QlRxEONYlGwKmIriFIOYWjZdkQO",
+      "publishedAt": "2026-11-08T12:06:35Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "India Today"
       }
     },
     {
-      "title": "'Engines failing': DKS accuses Centre of 'cover up' amid ethanol belnding row",
-      "description": "NEW DELHI: Karnataka chief minister DK Shivakumar on Sunday targeted the Centre over allegations of excessive ethanol blending in petrol, claiming that",
-      "url": "https://timesofindia.indiatimes.com/india/engines-failing-dks-accuses-centre-of-cover-up-amid-ethanol-belnding-row/articleshow/135652976.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135653031,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-08T06:15:00Z",
+      "title": "Indian stock market pauses after seven-day rally as Sensex, Nifty end Diwali session lower",
+      "description": "Benchmark indices Sensex and Nifty ended marginally lower during the special Muhurat Trading session on Diwali, taking a breather after a more than 10 per cent rally over seven sessions, supported by strong foreign investor inflows, falling crude oil prices and upbeat corporate earnings.",
+      "url": "https://www.firstpost.com/business/indian-stock-market-pauses-after-seven-day-rally-as-sensex-nifty-end-diwali-session-lower-14058695.html",
+      "image": "https://images.firstpost.com/uploads/2026/01/Firstpost-2026-01-02T175751.691-2026-01-3c8904dfa71bf2db90b57c83e4d93492.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-08T11:50:27Z",
       "source": {
-        "name": "Times of India"
+        "name": "Firstpost"
       }
     }
   ]
