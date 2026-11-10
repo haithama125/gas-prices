@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-10T00:58:04+00:00",
+  "updated_at": "2026-11-10T13:57:00+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Trump says \u2018great dislike of Israel\u2019 contributed to Republican midterm losses",
-      "description": "By Tal Shalev, CNN Jerusalem (CNN) \u2014 President Donald Trump said a \u201cgreat dislike for Israel\u201d was one of the reasons the Republicans lost in the midterm elections, along with the Iran war and the subsequent rise in gasoline prices. \u201cI think if I was on the ballot, it would\u2019ve been a much different situation",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/11/09/trump-says-great-dislike-of-israel-contributed-to-republican-midterm-losses/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-      "publishedAt": "2026-11-09T12:55:02Z",
+      "title": "Aussie shares surge on improving risk sentiment",
+      "description": "Miners, financials and real estate are leading the ASX higher as cautious hopes for diplomacy in the Iran war take some heat out of oil prices.",
+      "url": "https://www.perthnow.com.au/news/business/aussie-shares-surge-on-improving-risk-sentiment-c-23140607",
+      "image": "https://images.perthnow.com.au/publication/C-23140607/23d20f92b53f657277e6cfc2214a17b25a4de930-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-11-10T01:49:52Z",
       "source": {
-        "name": "ABC17News.com"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Current price of oil as of November 9, 2026",
-      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
-      "url": "https://www.newsbreak.com/fortune-561435/4995321008952-current-price-of-oil-as-of-november-9-2026",
-      "image": "https://img.particlenews.com/img/id/1zyvQf_1GuOdGPv00",
-      "publishedAt": "2026-11-09T12:45:00Z",
-      "source": {
-        "name": "NewsBreak"
-      }
-    },
-    {
-      "title": "U.S. midterm selloff in Canadian energy stocks is overshot, analysts say",
-      "description": "U.S. oil prices each fell sharply the day after the vote and did not fully recover as the week wore on",
-      "url": "https://calgaryherald.com/energy/oil-and-gas/us-midterm-selloff-in-canadian-energy-stocks-is-overshot-analysts-say/wcm/3a457458-dbed-4b52-a568-3720e43179bb",
-      "image": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2026/11/1110-bc-pumpjack.jpg",
-      "publishedAt": "2026-11-09T12:39:50Z",
-      "source": {
-        "name": "Calgary Herald"
-      }
-    },
-    {
-      "title": "Kerala Orders Petrol Pump Checks After Karnataka Flags Excess Ethanol In Fuel",
-      "description": "Random inspections across four districts follow complaints of vehicle damage and Karnataka's claim that petrol samples contained ethanol levels above the E20 limit",
-      "url": "https://www.outlookindia.com/national/kerala-orders-petrol-pump-checks-after-karnataka-flags-excess-ethanol-in-fuel",
-      "image": "https://cf-images.assettype.com/outlookindia/2026-11-06/u9kwmt5a/Protest-against-E20-fuel-in-Delhi-9.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-11-09T12:24:07Z",
-      "source": {
-        "name": "Outlook India"
-      }
-    },
-    {
-      "title": "Oil prices today: Brent crude, WTI fall as Trump rules out fresh Iran strikes amid Strait of Hormuz concerns",
-      "description": "Oil prices fall as Trump rules out fresh Iran strikes, while shipping attacks near the Strait of Hormuz and rising global oil supplies keep markets on edge.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/oil-prices-today-brent-crude-wti-fall-as-trump-rules-out-fresh-iran-strikes-amid-strait-of-hormuz-concerns-101794225386109.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/09/1600x900/logo/pexels-photo-3151717_1787674767956_1787674779220_f0af27ab-0fa0-4a7e-b801-57708e298354_1794226096340_uFVv_6f68fd74-2ac5-4623-8e0f-c0134ed25a3e_969Y.jpeg",
-      "publishedAt": "2026-11-09T12:21:21Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Petrol protest at TDP meeting in Andhra Pradesh, 2 activists attempt suicide amid internal strife",
-      "description": "RAJAHMUNDRY: The election defeat has brought internal differences within the Telugu Desam Party (TDP) out into the open.",
-      "url": "https://timesofindia.indiatimes.com/city/vijayawada/petrol-protest-at-tdp-meeting-2-activists-attempt-suicide-amid-internal-strif/articleshow/135681904.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135682048,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-09T12:18:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Gas prices drop below $4 a gallon: what's driving the decline",
-      "description": "The average price has fallen in the Harrisburg area 9.3 cents in a week and is coming in at $4.20 a gallon on Monday.",
-      "url": "https://www.pennlive.com/news/2026/11/the-real-reason-gas-prices-are-finally-dropping-and-its-not-the-election.html",
-      "image": "https://www.pennlive.com/resizer/v2/L6FLYSV4ERCKJD3372CGIYOQZE.jpg?auth=a9dbaab902d205312798a6f2d51b5929422c2e9b9bd121054635abbd621b884a&width=1280&smart=true",
-      "publishedAt": "2026-11-09T12:17:31Z",
-      "source": {
-        "name": "Mechanicsburg Patriot News "
-      }
-    },
-    {
-      "title": "India bonds continue rally ahead of inflation data",
-      "description": "Indian government bond yields extended their rally on Monday, with the benchmark 10-year yield falling nearly 4 basis points as easing crude oil prices and hopes of a US-Iran peace deal improved sentiment. Investors are now watching US and Indian inflation data for cues on the outlook for interest rates.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-continue-rally-ahead-of-inflation-data/articleshow/135681750.cms",
-      "image": "https://img.etimg.com/thumb/msid-135681825,width-1200,height-900,imgsize-190570,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-09T12:11:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Gold bounces back in Delhi as easing oil prices, global gains support bullion",
-      "description": "Gold bounces back in Delhi as easing oil prices, global gains support bullion",
-      "url": "https://www.news18.com/agency-feeds/gold-bounces-back-in-delhi-as-easing-oil-prices-global-gains-support-bullion-10418975.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
-      "publishedAt": "2026-11-09T12:00:07Z",
+      "title": "Oil Prices Tumble As Trump Downplays Further Iran Strikes, Tanker Attacks Continue",
+      "description": "Donald Trump downplayed prospects of further US strikes on Iran, as diplomatic efforts progressed and supply concerns persisted.",
+      "url": "https://www.news18.com/world/oil-prices-tumble-as-trump-downplays-further-iran-strikes-tanker-attacks-continue-ws-l-10419359.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/11/Trump-2026-11-84eda6b152040fe10246513cdb8f3ee3-1200x675.jpg",
+      "publishedAt": "2026-11-10T01:49:24Z",
       "source": {
         "name": "News18"
       }
     },
     {
-      "title": "Carney Gives Canada\u2019s Oil Firms a Tax Windfall to Push Spending",
-      "description": "Already awash in cash from a surge in global oil prices, Canada\u2019s crude producers have been given a gift from Mark Carney\u2019s government: a writeoff that\u2019s set to reduce their taxes, in some cases, for years to come.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/carney-gives-canadas-oil-firms-a-tax-windfall-to-push-spending",
-      "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-      "publishedAt": "2026-11-09T12:00:00Z",
+      "title": "Oil falls as Trump downplays prospect of escalation with Iran",
+      "description": "Oil prices fell due to President Trump's announcement regarding US military action against Iran, easing supply concerns. Brent crude futures dropped to $92.33 per barrel while WTI futures reached $86.50. Trump stated he would maintain a naval blockade in the Strait of Hormuz temporarily. OPEC's oil output increased in October, supported by higher production from Saudi Arabia and Kuwait.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-falls-as-trump-downplays-prospect-of-escalation-with-iran/articleshow/135696497.cms",
+      "image": "https://img.etimg.com/thumb/msid-135696525,width-1200,height-900,imgsize-128882,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-10T01:45:00Z",
       "source": {
-        "name": "Bloomberg Tax News"
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Oil Prices Today: Brent Near $92 After 16% Weekly Rout; Is $100 Oil A Thing Of The Past?",
+      "description": "Brent had fallen around 6% in the previous session, hitting its lowest level since late August, as investors weighed the possibility of a diplomatic resolution to the Middle East conflict against continued attacks on shipping in the Strait of Hormuz.",
+      "url": "https://www.ndtvprofit.com/markets/brent-crude-oil-prices-today-92-november-10-wti-after-16-percent-weekly-rout-is-100-oil-a-thing-of-the-past-12305813",
+      "image": "https://c.ndtvimg.com/2026-10/pvsp01es_oil-prices-today_625x300_28_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-10T01:37:26Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "Rupee among Asia's top performing currencies as AI trade cools",
+      "description": "The Indian rupee has gained considerable strength in FY27, aided by increased foreign portfolio investor inflows. A notable decline in crude oil prices has also positively impacted the rupee's performance. Experts believe the Reserve Bank of India will manage the currency's appreciation to rebuild its foreign exchange reserves. Recent interventions in the currency market have capped further gains in the rupee.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-among-asias-top-3-as-india-turns-ai-hedge/articleshow/135696371.cms",
+      "image": "https://img.etimg.com/thumb/msid-135696409,width-1200,height-900,imgsize-54276,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-10T01:36:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Petrol and diesel prices today, November 10: How much does fuel cost in Delhi, Mumbai, Bengaluru",
+      "description": "Petrol is retailing at \u20b9102.12 per litre, while diesel is priced at \u20b995.20 per litre. The national capital continues to have relatively lower fuel prices compared to other metros.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-10-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11794273000314.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/10/1600x900/logo/Oil-marketing-companies-said-893-E20-fuel-samples-_1794273781371_jjZO_1794273781492_SFeX_0793909a-0e06-4318-90c8-7491a3f9f663_Cjz8.jpg",
+      "publishedAt": "2026-11-10T01:29:35Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "Peace won't come until Putin sees too high a price for warring on",
+      "description": "Russia is assisting Iran \u2014 helping it prolong the war and too-high oil prices \u2014 and working with China on building capabilities to knock out US satellites.",
+      "url": "https://nypost.com/2026/11/09/opinion/peace-wont-come-until-putin-sees-too-high-a-price-for-warring-on/",
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/11/russian-president-vladimir-putin-attends-148105099-e1794272371929.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2026-11-10T01:21:30Z",
+      "source": {
+        "name": "New York Post"
+      }
+    },
+    {
+      "title": "Foreign investors keep faith in 83 stocks despite prolonged India selloff",
+      "description": "Foreign portfolio investors have favored 83 companies, including LIC, ONGC, and Indian Bank, over the past four quarters. Despite foreign investors selling nearly $28 billion of Indian stocks, some companies saw increased holdings. Large-cap firms like Lupin and SAIL attracted more interest from FPIs during this period. Recent concerns over crude oil prices and inflation impacted the sentiment of foreign investors towards Indian equities.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fpis-keep-faith-in-83-stocks-despite-28-billion-selloff/articleshow/135696068.cms",
+      "image": "https://img.etimg.com/thumb/msid-135696085,width-1200,height-900,imgsize-30234,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-10T00:51:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Brokerages turn bullish on India as inflows fuel rally",
+      "description": "Global brokerages HSBC, Citigroup, and Jefferies have upgraded their outlook on Indian equities. They cite improving earnings prospects and attractive valuations as key factors for this optimism. Recent foreign fund inflows and reduced oil prices further support this positive sentiment. Citigroup anticipates significant growth in the Nifty 50 by the end of 2027. Overall, Indian equities are poised for a sharp recovery in the coming years.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/brokerages-turn-bullish-on-india-as-inflows-fuel-rally/articleshow/135696007.cms",
+      "image": "https://img.etimg.com/thumb/msid-135696060,width-1200,height-900,imgsize-118260,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-10T00:45:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "SoftBank, SK Hynix, Samsung Electronics",
+      "description": "A sharp decline in oil prices lifted sentiment while renewed buying in semiconductor names overnight spilled over into Asia, following last week's bruising sell-off.",
+      "url": "https://www.cnbc.com/2026/11/10/ai-softbank-sk-hynix-samsung-wall-street-tech-stocks.html",
+      "image": "https://image.cnbcfm.com/api/v1/image/108183885-1754802711814-gettyimages-2179619435-SKOREA_SEMICON.jpeg?v=1763372462&w=1920&h=1080",
+      "publishedAt": "2026-11-10T00:42:28Z",
+      "source": {
+        "name": "CNBC"
       }
     }
   ]
