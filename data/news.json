@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-10T22:38:52+00:00",
+  "updated_at": "2026-11-11T03:44:54+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India in a 'sweet spot' amid oil volatility and currency dynamics: Kotak Neo's Anindya Banerjee",
-      "description": "India is in a favourable economic position due to declining crude oil prices and increasing foreign investment inflows. The Indian rupee is currently undervalued, and there is potential for appreciation if geopolitical tensions ease. Expectations suggest one more interest rate hike from both the Federal Reserve and the Reserve Bank of India. Additionally, shifting global investment sentiment is favoring markets such as India beyond artificial intelligence stocks.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-in-a-sweet-spot-amid-oil-volatility-and-currency-dynamics-kotak-neos-anindya-banerjee/articleshow/135705977.cms",
-      "image": "https://img.etimg.com/thumb/msid-135707980,width-1200,height-900,imgsize-94012,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-10T10:36:00Z",
+      "title": "'Bogus movement led by bogus leader': Union minister takes jibe at Rahul over ethanol blending row",
+      "description": "NEW DELHI: Union minister Pralhad Joshi on Tuesday stepped up his attack on Congress over ethanol blending in petrol row and accused it of misleading the",
+      "url": "https://timesofindia.indiatimes.com/india/bogus-movement-led-by-bogus-leader-union-minister-takes-jibe-at-rahul-over-ethanol-blending-row/articleshow/135714785.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135714872,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-10T15:28:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "U.S. Gas Prices Fall Below Key Threshold For The First Time Since July as Oil Keeps Dropping",
+      "description": "Seasonal factors including the end of summer driving and Daylight Saving Time also played a role in the decrease.",
+      "url": "https://www.ibtimes.com/us-gas-prices-fall-below-four-dollars-3809604",
+      "image": "https://d.ibtimes.com/en/full/3330957/fuel-1596622-1920.jpg",
+      "publishedAt": "2026-11-10T15:18:31Z",
+      "source": {
+        "name": "International Business Times"
+      }
+    },
+    {
+      "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+      "description": "Economists predict the Indian rupee will strengthen against the US dollar in the coming months. Factors contributing to this appreciation include lower crude oil prices and improving foreign capital inflows. Additionally, a weaker US dollar and the easing of geopolitical tensions are supporting this trend. The Reserve Bank of India has implemented measures to stabilize the currency and enhance dollar availability.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/easing-global-headwinds-lower-crude-oil-prices-may-further-lift-rupee-in-coming-months-economists/articleshow/135714320.cms",
+      "image": "https://img.etimg.com/thumb/msid-135714319,width-1200,height-900,imgsize-92734,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-10T15:04:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Why the type of petrol you put in your car matters as watchdog launches legal action against Burk Fuel",
-      "description": "A chain of fuel stations is in the spotlight for allegedly selling unleaded 91 as a more premium petrol. Beyond the cost, here is why it is important for drivers.",
-      "url": "https://7news.com.au/news/why-the-type-of-petrol-you-put-in-your-car-matters-as-watchdog-launches-legal-action-against-burk-fuel-c-23137481",
-      "image": "https://images.7news.com.au/publication/C-23137481/6b1b9c5fcd5305b5e9a909023c3b092c8888efda-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-11-10T10:31:13Z",
+      "title": "\"Bogus movement led by bogus leader Rahul Gandhi\": Pralhad Joshi targets Congress over ethanol blending row",
+      "description": "Union Minister Pralhad Joshi accused the Congress of misleading the public regarding ethanol blending in petrol. He stated that Congress's criticism aims at political appeasement of minorities and Rahul Gandhi. The Karnataka government supports claims of substantial ethanol blending by oil marketing companies, despite their denial. Joshi argued there is no commercial logic to the Congress's claims considering petrol and ethanol prices.",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/bogus-movement-led-by-bogus-leader-rahul-gandhi-pralhad-joshi-targets-congress-over-ethanol-blending-row/articleshow/135713743.cms",
+      "image": "https://img.etimg.com/thumb/msid-135713742,width-1200,height-900,imgsize-109028,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-10T14:44:00Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude oil prices decline further amid optimism for easing tensions in Middle East",
-      "description": "Global crude oil prices fell over 1 per cent on Tuesday, building on losses from the prior session after US President Donald Trump suggested that Washington would postpone any new military actions against Iran for now, alleviating concerns about sustained interruptions in energy supplies from the Middle East.",
-      "url": "https://www.tribuneindia.com/news/business/crude-oil-prices-decline-further-amid-optimism-for-easing-tensions-in-middle-east/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFmNWE4MGQwLWRjZjEtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-      "publishedAt": "2026-11-10T10:25:56Z",
+      "title": "Gas prices drop under $4 a gallon for the first time since July",
+      "description": "The national average price for regular gasoline has fallen below $4 per gallon for the first time since July, according to AAA.",
+      "url": "https://www.fox9.com/news/gas-prices-drop-under-4-gallon-first-time-since-july",
+      "image": "https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2026/11/1200/630/gettyimages-2297447644-scaled.jpg?ve=1&tl=1",
+      "publishedAt": "2026-11-10T14:43:30Z",
+      "source": {
+        "name": "FOX 9"
+      }
+    },
+    {
+      "title": "Gasoline Prices Drop Below $4 A Gallon",
+      "description": "The national average price of a gallon of gasoline dropped below $4 on Tuesday, according to the AAA motor club, to $3.9788. Prices have been dropping in | Economy",
+      "url": "https://www.breitbart.com/politics/2026/11/10/gasoline-prices-drop-below-4-a-gallon/",
+      "image": "https://media.breitbart.com/media/2026/11/GettyImages-880375904-640x335.jpg",
+      "publishedAt": "2026-11-10T14:40:32Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "Gasoline Prices Drop Below $4 A Gallon",
+      "description": "The national average price of a gallon of gasoline dropped below $4 on Tuesday, according to the AAA motor club, to $3.9788. Prices have been dropping in | Economy",
+      "url": "https://www.breitbart.com/economy/2026/11/10/gasoline-prices-drop-below-4-a-gallon/",
+      "image": "https://media.breitbart.com/media/2026/11/GettyImages-880375904-640x335.jpg",
+      "publishedAt": "2026-11-10T14:40:32Z",
+      "source": {
+        "name": "Breitbart News Network"
+      }
+    },
+    {
+      "title": "\u201cBogus movement led by bogus leader Rahul Gandhi\u201d: Pralhad Joshi targets Congress over ethanol blending row",
+      "description": "Union Minister Pralhad Joshi on Tuesday accused the Congress of attempting to mislead the public over ethanol blending in petrol, calling it a \u201cbogus movement led by a bogus leader, Rahul Gandhi\u201d, and alleging that the party's criticism was aimed at political appeasement.",
+      "url": "https://www.devdiscourse.com/article/headlines/4004645-bogus-movement-led-by-bogus-leader-rahul-gandhi-pralhad-joshi-targets-congress-over-ethanol-blending-row",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_11_2026_20_09_15_0287064.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-11-10T14:39:18Z",
+      "source": {
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "Easing global headwinds, lower crude oil prices may further lift rupee in coming months: Economists",
+      "description": "The Indian rupee may appreciate further against the US dollar over the next couple of months, supported by easing global headwinds, declining crude oil prices, improving foreign capital inflows and a weakening US dollar, according to economists.",
+      "url": "https://www.tribuneindia.com/news/business/easing-global-headwinds-lower-crude-oil-prices-may-further-lift-rupee-in-coming-months-economists/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTRhODNjNGIwLWRkMTQtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
+      "publishedAt": "2026-11-10T14:37:37Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Eurozone bond yields fall as lower energy prices ease inflation concerns",
-      "description": "On Tuesday, government bond yields in the Eurozone experienced a notable drop, particularly for French and Italian bonds. The easing of inflation worries, attributed to falling oil and natural gas prices, enhanced demand for bonds. Germany's 10-year bond yield fell to 3.25%, while France's decreased to 4.69%. Boosted by the US President's calming remarks, market sentiment improved, especially for nations that had faced challenges in their bond markets.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/eurozone-bond-yields-fall-as-lower-energy-prices-ease-inflation-concerns/articleshow/135707370.cms",
-      "image": "https://img.etimg.com/thumb/msid-135707482,width-1200,height-900,imgsize-90624,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-10T10:16:00Z",
+      "title": "Gas prices dip below $4 but inflation remains stubbornly high",
+      "description": "Gasoline prices fell below $4 a gallon Tuesday for the first time in three months \u2014 but the overall cost of living remains stubbornly high.",
+      "url": "https://www.npr.org/2026/11/10/nx-s1-6034518/inflation-consumer-prices-economy-gas-prices",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/7877x4431+0+410/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3f%2Fce%2Fba6ccbe045b3b5f9ea9cfeccb106%2Fgettyimages-2293682715.jpg",
+      "publishedAt": "2026-11-10T14:35:50Z",
       "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Brent slumps below $90 per barrel for the first time since August",
-      "description": "Brent crude fell below $90 a barrel as traders bet on Middle East conflict resolution, while US gasoline prices dipped and diplomatic talks continued.",
-      "url": "https://www.cnbctv18.com/market/commodities/brent-slumps-below-90-per-barrel-for-the-first-time-since-august-20030927.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/bilder-2026-06-29t081503733-2026-06-e6bcac09eec0d14008e268e475e20ee9.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-10T10:08:16Z",
-      "source": {
-        "name": "CNBC TV18"
-      }
-    },
-    {
-      "title": "Asian Stocks Extend Gains After Wall Street's Best Day Since April; Oil Prices Ease",
-      "description": "The decline in crude oil prices relieved concerns about energy supply disruptions, benefiting major oil-importing nations. Technology stocks thrived, with SoftBank Group and Samsung Electronics leading the way., Markets, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/markets/asian-stocks-extend-gains-after-wall-streets-best-day-since-april-oil-prices-ease-article-156490012",
-      "image": "https://images.timesnownews.com/thumb/msid-156490014,thumbsize-2144103,width-1280,height-720,resizemode-75/156490014.jpg",
-      "publishedAt": "2026-11-10T10:07:30Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Stocks rise as oil prices dip heading into US CPI print",
-      "description": "The MSCI's broadest index of Asia-Pacific shares has pushed higher thanks to big gains in South Korea and...",
-      "url": "https://www.canberratimes.com.au/story/9389055/stocks-rise-as-oil-prices-dip-heading-into-us-cpi-print/",
-      "image": "https://www.canberratimes.com.au/images/transform/v1/crop/frm/silverstone-feed-data/9531b487-24f7-4736-8c37-a1f0db0b8400.jpg/r0_90_800_510_w1200_h630_fmax.jpg",
-      "publishedAt": "2026-11-10T10:05:00Z",
-      "source": {
-        "name": "The Canberra Times"
-      }
-    },
-    {
-      "title": "Democrats can\u2019t lower gas prices by handing Hormuz to Iran",
-      "description": "Democrats\u2019 push to defund the Iran war would hand Tehran control of Hormuz and raise American gas prices.",
-      "url": "https://www.washingtonexaminer.com/opinion/editorials/4797378/democrats-gas-prices-hormuz-iran/",
-      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/08/Feat.Lincoln1.082626-e1794249746999.jpg?resize=1200,683",
-      "publishedAt": "2026-11-10T10:00:00Z",
-      "source": {
-        "name": "Washington Examiner"
-      }
-    },
-    {
-      "title": "Backlash against Trump, ICE raids, gas prices fuels changing political tide in California heartland",
-      "description": "While cutting men\u2019s hair in his barbershop, Jorge Navarro has been hearing the same concerns over and over: The prices of gas, food and housing are going up. Immigration agents are lurking outside stores and schools. And President Donald Trump and the Republicans are to blame.",
-      "url": "https://www.pressdemocrat.com/2026/11/10/backlash-against-trump-ice-raids-gas-prices-fuels-changing-political-tide-in-california-heartland-2/",
-      "image": "https://www.pressdemocrat.com/wp-content/uploads/2026/11/202611100500MCT_____PHOTO____US-NEWS-CALIF-CENTRAL-VALLEY-POLITICS-FILEPIC-LA_1ea1f2.jpg?w=2000&h=1332",
-      "publishedAt": "2026-11-10T10:00:00Z",
-      "source": {
-        "name": "Santa Rosa Press Democrat"
-      }
-    },
-    {
-      "title": "Premarket: Stocks climb as oil prices dip heading into U.S. CPI print",
-      "description": "The pan-European STOXX 600 index nears its all-time \u200bhigh",
-      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/market-news/article-premarket-stocks-climb-as-oil-prices-dip-heading-into-us-cpi-print/",
-      "image": "https://www.theglobeandmail.com/resizer/v2/5RV4RZR245BQ3FZUYCI4UIRZCQ.JPG?auth=37314de63cbb86d62b3dcef15bfd84d899f8b1c8112fab73af2c499b9920373f&width=1200&height=800&quality=80&smart=true",
-      "publishedAt": "2026-11-10T09:59:49Z",
-      "source": {
-        "name": "The Globe and Mail"
+        "name": "NPR"
       }
     }
   ]
