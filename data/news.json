@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-12T04:53:48+00:00",
+  "updated_at": "2026-11-12T14:14:23+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rebounding AI stocks lift Wall Street",
-      "description": "The U.S. bond market is closed for a holiday, and oil prices rose.",
-      "url": "https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/",
-      "image": "https://www.adn.com/resizer/v2/6EM6HAK4SUNUVHZCAKQBEICFEM.jpg?smart=true&auth=88360393dca148d541f8739de677ea83eda7ef8fdeb37b99547a18da6f0d68a5&width=1200&height=630",
-      "publishedAt": "2026-11-11T16:32:49Z",
+      "title": "Four suspects rob man of RM10,000 after approaching him for donations at Permatang Pauh petrol station",
+      "description": "BUKIT MERTAJAM, Nov 12 \u2014 A 43-year-old man was injured after being robbed by four individuals believed to be foreigners using sharp metal objects at the entrance to a petrol...",
+      "url": "https://www.malaymail.com/news/malaysia/2026/11/12/four-suspects-rob-man-of-rm10000-after-approaching-him-for-donations-at-permatang-pauh-petrol-station/242928",
+      "image": "https://www.malaymail.com/malaymail/uploads/images/2026/11/12/373697.jpg",
+      "publishedAt": "2026-11-12T02:08:51Z",
       "source": {
-        "name": "Anchorage Daily News"
+        "name": "Malay Mail"
       }
     },
     {
-      "title": "Rupee Hits Seven-Month High At 93.69 Against US Dollar On FPI Inflows And Lower Crude Oil Prices",
-      "description": "The rupee strengthened to 93.69 against the US dollar, its strongest level since April, gaining 0.2% amid nearly $6 billion in foreign institutional inflows into Indian equities in November and softer crude prices. It remains down roughly 4% year-to-date, while analysts cite 94.10 resistance and 93.50 support.",
-      "url": "https://www.freepressjournal.in/business/rupee-hits-seven-month-high-at-9369-against-us-dollar-on-fpi-inflows-and-lower-crude-oil-prices",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-21/9pb2jfdp/Rupee-USDollar.jpg",
-      "publishedAt": "2026-11-11T16:25:41Z",
+      "title": "Shafiqur warns govt of \u2018heavy price\u2019 over attack on Nusrat's ancestral home",
+      "description": "Jamaat chief calls for an impartial investigation and punishment of those responsible for the alleged petrol bomb attack",
+      "url": "https://www.thedailystar.net/news/politics/news/shafiqur-warns-govt-heavy-price-over-attack-nusrats-ancestral-home-4321936",
+      "image": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/media/api_images/2025/12/17/Jamaat%20Ameer.jpg",
+      "publishedAt": "2026-11-12T02:00:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Daily Star"
       }
     },
     {
-      "title": "Govt Staff Cars To Go Electric As Finance Ministry Issues New EV Procurement Rules",
-      "description": "The Finance Ministry has made electric vehicles the default choice for central government staff cars, effective immediately. Ministries can procure EVs costing up to \u20b920 lakh, compared with \u20b910 lakh for petrol, diesel and hybrid vehicles. Departments seeking conventional vehicles must obtain special approval.",
-      "url": "https://www.freepressjournal.in/business/govt-staff-cars-to-go-electric-as-finance-ministry-issues-new-ev-procurement-rules",
-      "image": "https://media.assettype.com/freepressjournal/2026-11-11/96gf006o/India\u2019s-Government-EV-Charging-Initiative.png",
-      "publishedAt": "2026-11-11T16:10:27Z",
+      "title": "Oil prices drop more than $1 as hopes for Iran, Ukraine peace talks pressure markets",
+      "description": "Oil prices dropped more than $1 on Thursday as hopes for progress in peace talks over the Middle East and the Russia-Ukraine wars pressured the market. Brent",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-drop-more-than-1-as-hopes-for-iran-ukraine-peace-talks-pressure-markets/articleshow/135752159.cms",
+      "image": "https://img.etimg.com/thumb/msid-135752181,width-1200,height-900,imgsize-67000,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-12T01:54:00Z",
       "source": {
-        "name": "Free Press Journal"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "TSX rises on CoreWeave-led tech rally, energy gains",
-      "description": "Nov 11 - Canada's main stock index rose on Wednesday as strong results from US cloud firm CoreWeave revived enthusiasm for the AI trade, while a rebound in oil prices helped lift energy stocks. The...",
-      "url": "https://www.marketscreener.com/news/tsx-rises-on-coreweave-led-tech-rally-energy-gains-ce785edbde8af727",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T105314Z_1_LYNXMPEL3F0FZ_RTROPTP_4_CANADA-STOCKS.JPG",
-      "publishedAt": "2026-11-11T16:02:37Z",
+      "title": "Oil prices edge lower as rising crude output offset geopolitical risks",
+      "description": "Oil prices moved slightly lower on Thursday after recovering from earlier losses, as persistent geopolitical tensions in the Middle East and Russia offset pressure from rising crude \u200boutput.",
+      "url": "https://www.reuters.com/business/energy/oil-prices-drop-more-than-1-hopes-iran-ukraine-peace-talks-pressure-markets-2026-11-12/",
+      "image": "https://www.reuters.com/resizer/v2/GNPUN2CAK5KNLH767VG5HKAMSI.jpg?auth=324313f95739081cbc0a2fa8f126d49fa2789fba504e3a15dd2559a2f0111f5c&height=1005&width=1920&quality=80&smart=true",
+      "publishedAt": "2026-11-12T01:52:56Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Reuters"
       }
     },
     {
-      "title": "New World and Pak\u2019nSave supermarkets offering big discounts as petrol prices remain high",
-      "description": "Supermarkets are drawing shoppers in with big fuel discounts, with New World and Pak\u2019nSave offering 20c off a litre of petrol. Both supermarkets, owned by...",
-      "url": "https://www.nzherald.co.nz/nz/new-world-and-paknsave-supermarkets-offering-big-discounts-as-petrol-prices-remain-high/NQVXQK5Y5ZAHLF7QTRBVYIBVHI/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/YQNARWJKN5GMLAFRJHYHUBZZRU.jpg?auth=4b3d9c2255dc193c892ce3eb512419c348d330f7bb4012c790e25a387aa846c9&width=1200&height=675&quality=70&focal=1340%2C1001&smart=false",
-      "publishedAt": "2026-11-11T16:00:00Z",
+      "title": "RM82.85mil seized in 5,893 subsidy leakage cases since 2023",
+      "description": "KUALA LUMPUR: A total of 5,893 cases involving the leakage and misappropriation of subsidised diesel, petrol and cooking oil were recorded nationwide, with seizures worth RM82.85mil between 2023 and October this year.",
+      "url": "https://www.thestar.com.my/news/nation/2026/11/12/rm8285mil-seized-in-5893-subsidy-leakage-cases-since-2023",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/12/4208152.jpg",
+      "publishedAt": "2026-11-12T01:41:00Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "The Star"
       }
     },
     {
-      "title": "Crude oil prices may fall to $75 by December as West Asia tensions ease",
-      "description": "Crude oil prices may fall to $75 by December as West Asia tensions ease, easing India's import bill and supporting the rupee and equity markets.",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-may-fall-to-75-by-december-as-west-asia-tensions-ease/article71690797.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/6bsput/article71260811.ece/alternates/LANDSCAPE_1200/PO19_Oil_barrel_bear.jpg",
-      "publishedAt": "2026-11-11T15:54:05Z",
+      "title": "Rupee climbs to near 7-month high of 93.69 against dollar",
+      "description": "On Wednesday, the Indian rupee surged to a close seven-month peak of 93.69 against the US dollar, fueled by a dip in oil prices and a surge in foreign capital into Indian stocks. Although exporters are evaluating hedging options, their engagement is lackluster due to recent regulations. As Brent crude oil prices settle around $92 per barrel, experts forecast the rupee to oscillate within the bandwidth of 93.25 to 94.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-climbs-to-near-7-month-high-of-93-69-against-dollar/articleshow/135751905.cms",
+      "image": "https://img.etimg.com/thumb/msid-135751922,width-1200,height-900,imgsize-139692,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-12T01:26:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Saudi Oil Production Surges Back Towards Pre-War Levels as Global Energy Markets Shift",
-      "description": "Saudi Arabia has sharply increased crude oil production to nearly 10.6 million barrels per day, approaching levels recorded before the Iran war. The recovery is reshaping global supply, easing pressure on oil prices and strengthening Riyadh\u2019s influence over energy markets as geopolitical uncertainty continues across the Middle East. Saudi Oil Production Surges Back Towards Pre-War Levels as Global Energy Markets Shift",
-      "url": "https://www.pagenews.gr/2026/11/11/english-edition/saudi-oil-production-surges-back-towards-pre-war-levels-as-global-energy-markets-shift/",
-      "image": "https://www.pagenews.gr/wp-content/uploads/2026/11/upL0-NvP0UlnL1UWDvggn0GYUnk-eABZfeP_KHpb9SHzXwj3tbAh8R0_s7NwdXhiIq4WNmO3UUlnJn0gJ2ih7D-CEAZ4Ejr8GYgnu8Tpcdbdmz3zM4l4eCBfQHOJw-b2ZCN9y5-0TntpGUGii12l34-O2Z_ucx08MnERpVOhrCzWq-DMhnx0x3UmtM1Mts7B-1-1-1200x630.jpg",
-      "publishedAt": "2026-11-11T15:45:00Z",
+      "title": "Brent holds near $92; Oil remains steady despite no progress in West Asia conflict resolution",
+      "description": "Oil prices steadied in Asian trade as US-Iran peace talks stalled and Tehran rejected nuclear demands, while Gulf output rose and officials faced security threa",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-brent-wti-iran-us-peace-talks-nuclear-stockpile-saudi-crude-output-strait-of-hormuz-russia-ukraine-20032001.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/image-2026-11-d97c7e97ea93d7607fa470511419ecd7.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-12T01:19:13Z",
       "source": {
-        "name": "Pagenews.gr"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
-      "description": "Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive.",
-      "url": "https://www.shawlocal.com/news/2026/11/11/as-higher-prices-seep-into-broader-economy-fed-officials-consider-faster-hikes/",
-      "image": "https://www.shawlocal.com/resizer/v2/HZSYQZUK7NBAPD4EVKXVXHSD3U.jpg?auth=85bf697f0c72b3cb87b763e50ad088b24aa173fdbb6eaaaec930a6c65fed45b0&width=1200&height=630&smart=true",
-      "publishedAt": "2026-11-11T15:14:27Z",
+      "title": "Sensex, Nifty at highest since February as Indian equities thrive amid easing crude prices",
+      "description": "Indian equities have seen significant gains recently, with the Sensex and Nifty reaching their highest levels since February. Heavyweight stocks in the banking and auto sectors contributed to this rally amid declining crude oil prices. Profit booking was expected as investors took some money off the table after the sharp market movements. Foreign investors purchased nearly $7 billion worth of Indian equities during this period.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-nifty-at-highest-since-february-as-indian-equities-thrive-amid-easing-crude-prices/articleshow/135751672.cms",
+      "image": "https://img.etimg.com/thumb/msid-135751747,width-1200,height-900,imgsize-234294,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-12T00:55:00Z",
       "source": {
-        "name": "Shaw Local Enewspapers"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Congo\u2019s Oil Windfall Hides a Debt Trap That Could Undermine Growth and Jobs",
-      "description": "The Republic of Congo is projected to grow by 4.4% in 2026 as higher oil prices strengthen public finances, but the World Bank warns that persistent payment arrears and weak fiscal management could undermine the recovery. With oil revenues expected to lose momentum from 2027, the country faces a narrowing opportunity to break its debt cycle, restore private sector confidence and turn temporary financial gains into lasting, poverty-reducing growth.",
-      "url": "https://www.devdiscourse.com/article/business/4004333-congos-oil-windfall-hides-a-debt-trap-that-could-undermine-growth-and-jobs",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_11_2026_12_39_56_6416782.png&width=920&format=jpeg",
-      "publishedAt": "2026-11-11T15:04:40Z",
+      "title": "BT BIG STORY: The Rupee bounces back, but the \u20b9100 threat isn't gone yet",
+      "description": "Falling crude oil prices and a sharp return of foreign investor inflows have lifted the rupee to its strongest level since April. But rising inflation, RBI\u2019s dollar commitments and global interest rate uncertainty could reverse the gains.",
+      "url": "https://www.businesstoday.in/latest/economy/story/bt-big-story-the-rupee-bounces-back-but-the-rs100-threat-isnt-gone-yet-566935-2026-11-12",
+      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6af47b4d6c68e-the-rupee-is-up-close-to-1-so-far-in-the-current-financial-year--behind-only-the-south-korean-won-a-112721766-16x9.jpg",
+      "publishedAt": "2026-11-12T00:30:10Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Business Today"
       }
     },
     {
-      "title": "Finance Ministry makes EVs default choice for govt staff car purchases",
-      "description": "Finance Ministry sets \u20b920 lakh cap for EV procurement and \u20b910 lakh for petrol and diesel cars; also revises laptop purchase rules with higher limits for Make-in-India devices",
-      "url": "https://www.business-standard.com/india-news/finance-ministry-makes-evs-default-choice-for-govt-staff-car-purchases-126111101454_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/06/thumb/featurecrop/1200X628/1772818589-4444.jpg",
-      "publishedAt": "2026-11-11T15:03:05Z",
+      "title": "Oil rises 1% as Iran vows to retain enriched uranium",
+      "description": "Oil prices rose about 1% on Wednesday after the Iranian security chief said Iran would not allow any enriched nuclear material to leave the country, feeding supply worries that lifted prices off two-month lows hit the previous session.",
+      "url": "https://www.thestar.com.my/business/2026/11/12/oil-rises-1-as-iran-vows-to-retain-enriched-uranium",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/12/4207995.jpeg",
+      "publishedAt": "2026-11-12T00:13:00Z",
       "source": {
-        "name": "Business Standard"
+        "name": "The Star"
       }
     }
   ]
