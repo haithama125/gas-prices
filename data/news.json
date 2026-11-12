@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-11T23:50:49+00:00",
+  "updated_at": "2026-11-12T04:53:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "AI chip demand drives growth",
-      "description": "World shares were mostly higher Wednesday after a retreat on Wall Street as U.S. inflation rose higher than expected in October, while U.S. futures edged higher and oil prices rose.",
-      "url": "https://www.bnnbloomberg.ca/markets/2026/11/11/global-markets-broadly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/L4NNBCAS2OCN73NHF56KOHKQYY.jpg?smart=true&auth=4a86034f35deaa1bf879ab199a34fcf34bf827f07bae6056710da0118e254a64&width=1200&height=630",
-      "publishedAt": "2026-11-11T11:44:07Z",
+      "title": "Rebounding AI stocks lift Wall Street",
+      "description": "The U.S. bond market is closed for a holiday, and oil prices rose.",
+      "url": "https://www.adn.com/business-economy/2026/11/11/rebounding-ai-stocks-lift-wall-street/",
+      "image": "https://www.adn.com/resizer/v2/6EM6HAK4SUNUVHZCAKQBEICFEM.jpg?smart=true&auth=88360393dca148d541f8739de677ea83eda7ef8fdeb37b99547a18da6f0d68a5&width=1200&height=630",
+      "publishedAt": "2026-11-11T16:32:49Z",
       "source": {
-        "name": "Bnn Bloomberg"
+        "name": "Anchorage Daily News"
       }
     },
     {
-      "title": "AI chip demand drives growth",
-      "description": "World shares were mostly higher Wednesday after a retreat on Wall Street as U.S. inflation rose higher than expected in October, while U.S. futures edged higher and oil prices rose.",
-      "url": "https://www.cp24.com/news/money/2026/11/11/global-markets-broadly-rise-on-ai-chip-demand-despite-wall-streets-retreat-on-inflation-data/",
-      "image": "https://www.cp24.com/resizer/v2/L4NNBCAS2OCN73NHF56KOHKQYY.jpg?smart=true&auth=4a86034f35deaa1bf879ab199a34fcf34bf827f07bae6056710da0118e254a64&width=1200&height=630",
-      "publishedAt": "2026-11-11T11:44:07Z",
+      "title": "Rupee Hits Seven-Month High At 93.69 Against US Dollar On FPI Inflows And Lower Crude Oil Prices",
+      "description": "The rupee strengthened to 93.69 against the US dollar, its strongest level since April, gaining 0.2% amid nearly $6 billion in foreign institutional inflows into Indian equities in November and softer crude prices. It remains down roughly 4% year-to-date, while analysts cite 94.10 resistance and 93.50 support.",
+      "url": "https://www.freepressjournal.in/business/rupee-hits-seven-month-high-at-9369-against-us-dollar-on-fpi-inflows-and-lower-crude-oil-prices",
+      "image": "https://media.assettype.com/freepressjournal/2026-04-21/9pb2jfdp/Rupee-USDollar.jpg",
+      "publishedAt": "2026-11-11T16:25:41Z",
       "source": {
-        "name": "CP24 Toronto"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Ethanol blending in petrol: Karnataka CM DKS says his war is not against fuel station operators, pose questions to Centre",
-      "description": "Karnataka Chief Minister D K Shivakumar has questioned the Centre's accountability regarding engine damage and reduced vehicle mileage caused by excessive ethanol blending exceeding prescribed limits in petrol samples",
-      "url": "https://www.theweek.in/news/india/2026/11/11/ethanol-blending-in-petrol-karnataka-cm-dks-pose-questions-to-centre.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/india/images/2026/5/29/dks.jpg",
-      "publishedAt": "2026-11-11T11:42:28Z",
+      "title": "Govt Staff Cars To Go Electric As Finance Ministry Issues New EV Procurement Rules",
+      "description": "The Finance Ministry has made electric vehicles the default choice for central government staff cars, effective immediately. Ministries can procure EVs costing up to \u20b920 lakh, compared with \u20b910 lakh for petrol, diesel and hybrid vehicles. Departments seeking conventional vehicles must obtain special approval.",
+      "url": "https://www.freepressjournal.in/business/govt-staff-cars-to-go-electric-as-finance-ministry-issues-new-ev-procurement-rules",
+      "image": "https://media.assettype.com/freepressjournal/2026-11-11/96gf006o/India\u2019s-Government-EV-Charging-Initiative.png",
+      "publishedAt": "2026-11-11T16:10:27Z",
       "source": {
-        "name": "THE WEEK"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Stock markets end higher; Sensex, Nifty jump nearly 1 per cent",
-      "description": "Stock market benchmark indices Sensex and Nifty ended higher for the second day on Wednesday, aided by foreign fund inflows, better-than-expected Q2 results and a sustained moderation in crude oil prices.",
-      "url": "https://www.tribuneindia.com/news/business/stock-markets-end-higher-sensex-nifty-jump-nearly-1-per-cent/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTljODg0MWUwLWRkYzQtMTFmMS1iNDhmLTExMWE4MGEyNWU2MS5qcGc=",
-      "publishedAt": "2026-11-11T11:39:49Z",
+      "title": "TSX rises on CoreWeave-led tech rally, energy gains",
+      "description": "Nov 11 - Canada's main stock index rose on Wednesday as strong results from US cloud firm CoreWeave revived enthusiasm for the AI trade, while a rebound in oil prices helped lift energy stocks. The...",
+      "url": "https://www.marketscreener.com/news/tsx-rises-on-coreweave-led-tech-rally-energy-gains-ce785edbde8af727",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2025-04/2025-04-16T105314Z_1_LYNXMPEL3F0FZ_RTROPTP_4_CANADA-STOCKS.JPG",
+      "publishedAt": "2026-11-11T16:02:37Z",
       "source": {
-        "name": "The Tribune"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "Man planned to petrol bomb hotel to 'kill as many migrants inside as possible'",
-      "description": "Mikka Anderson, 24, who is said to have admired Hitler and referred to himself as a Nazi, had plans for 'terrorist violence', a court heard",
-      "url": "https://www.chroniclelive.co.uk/news/uk-news/man-planned-petrol-bomb-hotel-34895152",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34895009.ece/ALTERNATES/s1200d/0_hull_clean_up76.jpg",
-      "publishedAt": "2026-11-11T11:20:22Z",
+      "title": "New World and Pak\u2019nSave supermarkets offering big discounts as petrol prices remain high",
+      "description": "Supermarkets are drawing shoppers in with big fuel discounts, with New World and Pak\u2019nSave offering 20c off a litre of petrol. Both supermarkets, owned by...",
+      "url": "https://www.nzherald.co.nz/nz/new-world-and-paknsave-supermarkets-offering-big-discounts-as-petrol-prices-remain-high/NQVXQK5Y5ZAHLF7QTRBVYIBVHI/",
+      "image": "https://www.nzherald.co.nz/resizer/v2/YQNARWJKN5GMLAFRJHYHUBZZRU.jpg?auth=4b3d9c2255dc193c892ce3eb512419c348d330f7bb4012c790e25a387aa846c9&width=1200&height=675&quality=70&focal=1340%2C1001&smart=false",
+      "publishedAt": "2026-11-11T16:00:00Z",
       "source": {
-        "name": "Evening Chronicle"
+        "name": "The New Zealand Herald"
       }
     },
     {
-      "title": "KTM X-Bow Arrow Debuts As 330 HP Audi-Powered UTV",
-      "description": "KTM X-Bow Arrow comes with a Volkswagen Group's 2.0-litre four-cylinder direct-injection turbo-petrol engine.",
-      "url": "https://www.ndtv.com/auto/ktm-x-bow-arrow-debuts-as-330-hp-audi-powered-utv-12312562",
-      "image": "https://c.ndtvimg.com/2026-11/abr36g7s_ktm-xbow-arrow_625x300_11_November_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-11T11:04:55Z",
+      "title": "Crude oil prices may fall to $75 by December as West Asia tensions ease",
+      "description": "Crude oil prices may fall to $75 by December as West Asia tensions ease, easing India's import bill and supporting the rupee and equity markets.",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-prices-may-fall-to-75-by-december-as-west-asia-tensions-ease/article71690797.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/6bsput/article71260811.ece/alternates/LANDSCAPE_1200/PO19_Oil_barrel_bear.jpg",
+      "publishedAt": "2026-11-11T15:54:05Z",
       "source": {
-        "name": "NDTV.com"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12997642",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-11-11goodmorningnorthbaybct-1-we-remember-north-bay-garrett.jpeg;w=1080;h=590;mode=crop",
-      "publishedAt": "2026-11-11T11:00:00Z",
+      "title": "Saudi Oil Production Surges Back Towards Pre-War Levels as Global Energy Markets Shift",
+      "description": "Saudi Arabia has sharply increased crude oil production to nearly 10.6 million barrels per day, approaching levels recorded before the Iran war. The recovery is reshaping global supply, easing pressure on oil prices and strengthening Riyadh\u2019s influence over energy markets as geopolitical uncertainty continues across the Middle East. Saudi Oil Production Surges Back Towards Pre-War Levels as Global Energy Markets Shift",
+      "url": "https://www.pagenews.gr/2026/11/11/english-edition/saudi-oil-production-surges-back-towards-pre-war-levels-as-global-energy-markets-shift/",
+      "image": "https://www.pagenews.gr/wp-content/uploads/2026/11/upL0-NvP0UlnL1UWDvggn0GYUnk-eABZfeP_KHpb9SHzXwj3tbAh8R0_s7NwdXhiIq4WNmO3UUlnJn0gJ2ih7D-CEAZ4Ejr8GYgnu8Tpcdbdmz3zM4l4eCBfQHOJw-b2ZCN9y5-0TntpGUGii12l34-O2Z_ucx08MnERpVOhrCzWq-DMhnx0x3UmtM1Mts7B-1-1-1200x630.jpg",
+      "publishedAt": "2026-11-11T15:45:00Z",
       "source": {
-        "name": "BayToday"
+        "name": "Pagenews.gr"
       }
     },
     {
-      "title": "Europe can't afford another harsh winter as gas prices surge 200%, storage plunges and factories close, Bloomberg reports",
-      "description": "The war in Iran has sent European energy prices soaring, exposing the continent to a second major energy crisis in less than five years. Bloomberg warns that a harsh winter could prove devastating for industry, households and governments",
-      "url": "https://en.protothema.gr/2026/11/11/europe-cant-afford-another-harsh-winter-as-gas-prices-surge-200-storage-plunges-and-factories-close-bloomberg-reports/",
-      "image": "https://en.protothema.gr/wp-content/uploads/2026/11/europe-winter.jpg",
-      "publishedAt": "2026-11-11T10:59:58Z",
+      "title": "As higher prices seep into broader economy, Fed officials consider faster hikes",
+      "description": "Rising prices may be spreading beyond the one-time shocks from tariffs and high gas prices into the wider economy, meaning that mortgages, credit cards and other forms of borrowing are likely to become increasingly expensive.",
+      "url": "https://www.shawlocal.com/news/2026/11/11/as-higher-prices-seep-into-broader-economy-fed-officials-consider-faster-hikes/",
+      "image": "https://www.shawlocal.com/resizer/v2/HZSYQZUK7NBAPD4EVKXVXHSD3U.jpg?auth=85bf697f0c72b3cb87b763e50ad088b24aa173fdbb6eaaaec930a6c65fed45b0&width=1200&height=630&smart=true",
+      "publishedAt": "2026-11-11T15:14:27Z",
       "source": {
-        "name": "Proto Thema"
+        "name": "Shaw Local Enewspapers"
       }
     },
     {
-      "title": "Oil prices rise as investors monitor shipping disruption in the Strait of Hormuz",
-      "description": "Oil prices rebounded again on Wednesday morning as investors monitored updates on shipping attacks in the Strait of Hormuz.",
-      "url": "https://www.euronews.com/2026/11/11/oil-markets-rise-as-investors-monitor-shipping-disruption-in-the-strait-of-hormuz",
-      "image": "https://images.euronews.com/articles/stories/09/98/81/78/1200x675_cmsv2_760d7d7d-d7f7-50ce-8488-87fa5bbf473e-9988178.jpg",
-      "publishedAt": "2026-11-11T10:47:27Z",
+      "title": "Congo\u2019s Oil Windfall Hides a Debt Trap That Could Undermine Growth and Jobs",
+      "description": "The Republic of Congo is projected to grow by 4.4% in 2026 as higher oil prices strengthen public finances, but the World Bank warns that persistent payment arrears and weak fiscal management could undermine the recovery. With oil revenues expected to lose momentum from 2027, the country faces a narrowing opportunity to break its debt cycle, restore private sector confidence and turn temporary financial gains into lasting, poverty-reducing growth.",
+      "url": "https://www.devdiscourse.com/article/business/4004333-congos-oil-windfall-hides-a-debt-trap-that-could-undermine-growth-and-jobs",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/10_11_2026_12_39_56_6416782.png&width=920&format=jpeg",
+      "publishedAt": "2026-11-11T15:04:40Z",
       "source": {
-        "name": "Euronews"
+        "name": "Devdiscourse"
       }
     },
     {
-      "title": "Sensex rallies 772 points, Nifty settles above 25,255 tracking gains in US tech stocks",
-      "description": "Meanwhile, the Indian rupee gained ground, buoyed by a softening in crude oil prices, strong foreign institutional inflows, and an absence of intervention from the central bank amid prevailing risk-on sentiment.",
-      "url": "https://www.indiatvnews.com/business/markets/sensex-rallies-772-points-nifty-settles-above-25-255-tracking-gains-in-us-tech-stocks-2026-11-11-1059175",
-      "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2026/11/stockmarketptiss-1-1794393428.jpg",
-      "publishedAt": "2026-11-11T10:39:04Z",
+      "title": "Finance Ministry makes EVs default choice for govt staff car purchases",
+      "description": "Finance Ministry sets \u20b920 lakh cap for EV procurement and \u20b910 lakh for petrol and diesel cars; also revises laptop purchase rules with higher limits for Make-in-India devices",
+      "url": "https://www.business-standard.com/india-news/finance-ministry-makes-evs-default-choice-for-govt-staff-car-purchases-126111101454_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/06/thumb/featurecrop/1200X628/1772818589-4444.jpg",
+      "publishedAt": "2026-11-11T15:03:05Z",
       "source": {
-        "name": "India TV News"
+        "name": "Business Standard"
       }
     }
   ]
