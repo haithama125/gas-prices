@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-14T04:01:43+00:00",
+  "updated_at": "2026-11-14T12:42:17+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Koretskyi says fuel prices will fall as new supplies arrive",
-      "description": "Petrol prices in Ukraine are expected to decline once new fuel supplies purchased at lower prices reach the country. \u2014 Ukrinform.",
-      "url": "https://www.ukrinform.net/rubric-economy/4184421-koretskyi-says-fuel-prices-will-fall-as-new-supplies-arrive.html",
-      "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1784197740-770.jpg",
-      "publishedAt": "2026-11-13T15:21:00Z",
+      "title": "What Did You Do to My Paneer?",
+      "description": "I\u2019ve accepted that the air I breathe comes with pollution, petrol comes with ethanol and milk comes with water. But paneer? I cannot accept this...",
+      "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Nov/14/what-did-you-do-to-my-paneer",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-05%2Fgrrec7rq%2F202608053892086.jpeg?rect=0%2C62%2C450%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-14T00:30:00Z",
       "source": {
-        "name": "Ukrinform"
+        "name": "The New Indian Express"
       }
     },
     {
-      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
-      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
-      "url": "https://www.tribuneindia.com/news/business/all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjOGI5MjcwLWRmNzQtMTFmMS1iOGYxLWExNTU5Y2Q3N2YwZS5qcGc=",
-      "publishedAt": "2026-11-13T15:08:08Z",
+      "title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
+      "description": "Crude oil prices extended their decline on Tuesday, Nov. 10, 2026, as traders reacted to diplomatic signals suggesting progress toward ending the U.S.-Iran conflict, according to exchange data and market analysts. The pullback reversed part of a risk premium that had built up during months of hostilities in the Persian Gulf. Brent had reached approximately [\u2026]",
+      "url": "https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/oil-prices-brent-crude-wti-crude-6527-f2423f4a-original.jpg",
+      "publishedAt": "2026-11-13T22:33:53Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Natural News"
       }
     },
     {
-      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
-      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
-      "url": "https://www.devdiscourse.com/article/business/4006695-all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/13_11_2026_20_37_20_5529008.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-11-13T15:07:23Z",
+      "title": "Man found guilty of throwing petrol bombs at northwest London Islamic centre",
+      "description": "CCTV footage showed Iman Zand, 47, throwing lighted bottles at the building",
+      "url": "https://www.standard.co.uk/news/crime/islamic-centre-of-england-hate-crime-attack-b1304832.html",
+      "image": "https://static.standard.co.uk/2026/11/13/19/22/CCTV-footage.jpeg?trim=0,0,2,147&auto=webp&quality=75&width=1200",
+      "publishedAt": "2026-11-13T19:52:02Z",
       "source": {
-        "name": "Devdiscourse"
+        "name": "Evening Standard"
       }
     },
     {
-      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
-      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
-      "url": "https://www.aninews.in/news/business/all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl20261113203206/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261113145227-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-11-13T15:02:06Z",
+      "title": "Explore \u2018No Helmet, No Petrol\u2019 policy for road safety: Former SC judge Sapre",
+      "description": "Former SC judge Abhay Sapre urges strict traffic enforcement in Nagpur, exploring \u201cNo Helmet, No Petrol\u201d and denying entry without helmets or seatbelts.",
+      "url": "https://timesofindia.indiatimes.com/city/nagpur/explore-no-helmet-no-petrol-policy-for-road-safety-former-sc-judge-sapre/articleshow/135814581.cms",
+      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+      "publishedAt": "2026-11-13T18:44:00Z",
       "source": {
-        "name": "ANI (Asian News International)"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Fuel prices continue to fall as supermarket cuts costs for drivers- use our tool to find the cheapest price near you",
-      "description": "DRIVERS have been handed a welcome boost after Asda slashed petrol and diesel prices by an average of 4p a litre.\nThe supermarket\u2019s move comes...",
-      "url": "https://www.thesun.co.uk/money/38673811/find-cheapest-petrol-diesel-near-you/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/crop-40562275_985459.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-11-13T15:02:00Z",
+      "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus",
+      "description": "GLOBAL-OIL:Oil prices set for second straight weekly decline on growing signs of supply surplus",
+      "url": "https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
+      "publishedAt": "2026-11-13T18:41:23Z",
       "source": {
-        "name": "The Sun"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Your next flight could cost more even if oil prices fall: Here's what is changing",
-      "description": "Airlines face challenges that could prevent ticket price reductions despite falling oil prices and rising fuel costs. These challenges include aircraft maintenance expenses and delays in aircraft deliveries, which add to overall operational costs. Airlines are managing ticket prices carefully to balance their revenue recovery with passengers' price sensitivities. Consequently, travelers should remain aware of total travel costs, including various surcharges and fees.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/your-next-flight-could-cost-more-even-if-oil-prices-fall-heres-what-is-changing/articleshow/135805776.cms",
-      "image": "https://img.etimg.com/thumb/msid-135805843,width-1200,height-900,imgsize-37608,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-13T14:17:00Z",
+      "title": "Israeli Intelligence Chief Visits Washington At Tense Juncture In U.S.-Iran War. Oil Prices Could Increase.",
+      "description": "Mossad Director Roman Gofman is reportedly meeting U.S. officials as tensions with Iran persist, while Israeli pressure, Gulf incidents and rising oil prices fuel concerns about escalation.",
+      "url": "https://www.ibtimes.com/mossad-chief-us-talks-iran-conflict-tensions-3809739",
+      "image": "https://d.ibtimes.com/en/full/4654408/trump-netanyahu-side-side-israeli-election-billboard.jpg",
+      "publishedAt": "2026-11-13T18:27:13Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "International Business Times"
       }
     },
     {
-      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
-      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
-      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
-      "image": "https://www.cleveland.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
-      "publishedAt": "2026-11-13T13:45:24Z",
+      "title": "Petrol price reduced by Rs 2 per litre",
+      "description": "The government has announced another reduction in petrol prices, cutting the rate by Rs2 per litre for the ninth consecutive time, while the price of high-speed diesel",
+      "url": "https://www.nation.com.pk/13-Nov-2026/petrol-price-reduced-rs-2-per-litre",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-11-13/petrol-price-reduced-rs2-per-litre-1794592922-9729.jpg",
+      "publishedAt": "2026-11-13T18:03:04Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "The Nation"
       }
     },
     {
-      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
-      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
-      "url": "https://www.mlive.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
-      "image": "https://www.mlive.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
-      "publishedAt": "2026-11-13T13:45:24Z",
+      "title": "Major update over UK petrol and diesel car ban after EU ruling",
+      "description": "No new petrol or diesel cars will be sold after 2030",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/major-update-over-uk-petrol-34877255",
+      "image": "https://i2-prod.birminghammail.co.uk/article34877267.ece/ALTERNATES/s1200d/0_cars1.jpg",
+      "publishedAt": "2026-11-13T17:17:00Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "Birmingham Live"
       }
     },
     {
-      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
-      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
-      "url": "https://www.al.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
-      "image": "https://www.al.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
-      "publishedAt": "2026-11-13T13:45:24Z",
+      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+      "description": "Oil prices have bounced back above $96 per barrel as Middle East tensions and supply disruptions challenge expectations of a global oil surplus.",
+      "url": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_gxye810jf9.jpg",
+      "publishedAt": "2026-11-13T17:00:00Z",
       "source": {
-        "name": "AL.com"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Current price of oil as of November 13, 2026",
-      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
-      "url": "https://www.newsbreak.com/fortune-561435/5005074032246-current-price-of-oil-as-of-november-13-2026",
-      "image": "https://img.particlenews.com/img/id/16U9uF_1H3Dl1JT00",
-      "publishedAt": "2026-11-13T13:30:26Z",
+      "title": "Hyundai Bayon review: Why the Bayon is a boon for Hyundai",
+      "description": "The Hyundai Bayon delivers European design, spacious cabin, and advanced safety features, making it a strong contender in the Rs 10-20 lakh petrol SUV segment in India.",
+      "url": "https://www.financialexpress.com/auto/car-news/hyundai-bayon-review-why-the-bayon-is-a-boon-for-hyundai/4384090/",
+      "image": "https://images.financialexpressdigital.com/2026/11/kyundai.jpg",
+      "publishedAt": "2026-11-13T16:44:33Z",
       "source": {
-        "name": "NewsBreak"
+        "name": "The Financial Express"
       }
     }
   ]
