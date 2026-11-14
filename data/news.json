@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-14T12:42:17+00:00",
+  "updated_at": "2026-11-14T21:48:10+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "What Did You Do to My Paneer?",
-      "description": "I\u2019ve accepted that the air I breathe comes with pollution, petrol comes with ethanol and milk comes with water. But paneer? I cannot accept this...",
-      "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Nov/14/what-did-you-do-to-my-paneer",
-      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-08-05%2Fgrrec7rq%2F202608053892086.jpeg?rect=0%2C62%2C450%2C236&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-11-14T00:30:00Z",
+      "title": "A series of bizarre incidents are redefining corporate risk",
+      "description": "For decades, corporate risk came in familiar forms. Oil prices spiked. Interest rates rose. A competitor launched a better product. A regulator changed the rules. Companies built playbooks for all of this. But the events of the last few weeks have pose an existential question that every company board must have an answer to.",
+      "url": "https://www.cnbctv18.com/technology/a-series-of-bizarre-incidents-are-redefining-corporate-risk-20034027.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/continuity-risk-2026-11-dbf3ffaea0c8b26ac0ce453e9b6b8f14.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-14T09:34:39Z",
       "source": {
-        "name": "The New Indian Express"
+        "name": "CNBC TV18"
       }
     },
     {
-      "title": "Oil Prices Fall as Optimism Over Conflict Resolution Builds",
-      "description": "Crude oil prices extended their decline on Tuesday, Nov. 10, 2026, as traders reacted to diplomatic signals suggesting progress toward ending the U.S.-Iran conflict, according to exchange data and market analysts. The pullback reversed part of a risk premium that had built up during months of hostilities in the Persian Gulf. Brent had reached approximately [\u2026]",
-      "url": "https://www.naturalnews.com/2026-11-13-oil-cost-falls-optimism-conflict-resolution-builds.html",
-      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/oil-prices-brent-crude-wti-crude-6527-f2423f4a-original.jpg",
-      "publishedAt": "2026-11-13T22:33:53Z",
+      "title": "India's Current Account Deficit May Widen To $57 Billion In FY27",
+      "description": "India's current account deficit may widen to $57 billion in FY27 as higher oil prices and domestic demand drive imports despite strong exports., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/indias-current-account-deficit-may-widen-to-57-billion-in-fy27-article-156508517",
+      "image": "https://images.timesnownews.com/thumb/msid-156508600,thumbsize-2497111,width-1280,height-720,resizemode-75/156508600.jpg",
+      "publishedAt": "2026-11-14T09:01:37Z",
       "source": {
-        "name": "Natural News"
+        "name": "Times Now"
       }
     },
     {
-      "title": "Man found guilty of throwing petrol bombs at northwest London Islamic centre",
-      "description": "CCTV footage showed Iman Zand, 47, throwing lighted bottles at the building",
-      "url": "https://www.standard.co.uk/news/crime/islamic-centre-of-england-hate-crime-attack-b1304832.html",
-      "image": "https://static.standard.co.uk/2026/11/13/19/22/CCTV-footage.jpeg?trim=0,0,2,147&auto=webp&quality=75&width=1200",
-      "publishedAt": "2026-11-13T19:52:02Z",
+      "title": "Update issued over UK petrol and diesel car ban after EU ruling",
+      "description": "The Labour government has confirmed no new petrol or diesel cars will be sold after 2030 and all new cars and vans must be 100% zero emission by 2035, even as the EU backs proposals to water down its own ban on combustion-engine vehicles",
+      "url": "https://www.derbytelegraph.co.uk/news/uk-world-news/update-issued-over-uk-petrol-11241542",
+      "image": "https://i2-prod.nottinghampost.com/news/uk-world-news/article11241541.ece/ALTERNATES/s1200/0_cars1.jpg",
+      "publishedAt": "2026-11-14T07:21:34Z",
       "source": {
-        "name": "Evening Standard"
+        "name": "Derby Telegraph"
       }
     },
     {
-      "title": "Explore \u2018No Helmet, No Petrol\u2019 policy for road safety: Former SC judge Sapre",
-      "description": "Former SC judge Abhay Sapre urges strict traffic enforcement in Nagpur, exploring \u201cNo Helmet, No Petrol\u201d and denying entry without helmets or seatbelts.",
-      "url": "https://timesofindia.indiatimes.com/city/nagpur/explore-no-helmet-no-petrol-policy-for-road-safety-former-sc-judge-sapre/articleshow/135814581.cms",
-      "image": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-      "publishedAt": "2026-11-13T18:44:00Z",
+      "title": "Update issued over UK petrol and diesel car ban after EU ruling",
+      "description": "The Labour government has confirmed no new petrol or diesel cars will be sold after 2030 and all new cars and vans must be 100% zero emission by 2035, even as the EU backs proposals to water down its own ban on combustion-engine vehicles",
+      "url": "https://www.nottinghampost.com/news/uk-world-news/update-issued-over-uk-petrol-11241542",
+      "image": "https://i2-prod.nottinghampost.com/article11241541.ece/ALTERNATES/s1200d/0_cars1.jpg",
+      "publishedAt": "2026-11-14T07:21:34Z",
       "source": {
-        "name": "Times of India"
+        "name": "Nottinghamshire Live"
       }
     },
     {
-      "title": "Oil prices set for second straight weekly decline on growing signs of supply surplus",
-      "description": "GLOBAL-OIL:Oil prices set for second straight weekly decline on growing signs of supply surplus",
-      "url": "https://www.livemint.com/market/oil-prices-set-for-second-straight-weekly-decline-on-growing-signs-of-supply-surplus-11794595284142.html",
-      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market3_1733466045716_1733466057117.png",
-      "publishedAt": "2026-11-13T18:41:23Z",
+      "title": "Update issued over UK petrol and diesel car ban after EU ruling",
+      "description": "The Labour government has confirmed no new petrol or diesel cars will be sold after 2030 and all new cars and vans must be 100% zero emission by 2035, even as the EU backs proposals to water down its own ban on combustion-engine vehicles",
+      "url": "https://www.leicestermercury.co.uk/news/uk-world-news/update-issued-over-uk-petrol-11241542",
+      "image": "https://i2-prod.nottinghampost.com/news/uk-world-news/article11241541.ece/ALTERNATES/s1200/0_cars1.jpg",
+      "publishedAt": "2026-11-14T07:21:34Z",
+      "source": {
+        "name": "Leicester Mercury"
+      }
+    },
+    {
+      "title": "Germany Has an Edge in a Lower Oil Price World: Taking Stock",
+      "description": "The German stock market has a lot going for it right now, with lower oil prices and a broadening rally from software to chemicals and consumer stocks powering the country\u2019s shares.",
+      "url": "https://www.livemint.com/market/germany-has-an-edge-in-a-lower-oil-price-world-taking-stock-11794636529660.html",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/06/1600x900/logo/market_4_1733466069237_1733466076549.png",
+      "publishedAt": "2026-11-14T06:08:49Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Israeli Intelligence Chief Visits Washington At Tense Juncture In U.S.-Iran War. Oil Prices Could Increase.",
-      "description": "Mossad Director Roman Gofman is reportedly meeting U.S. officials as tensions with Iran persist, while Israeli pressure, Gulf incidents and rising oil prices fuel concerns about escalation.",
-      "url": "https://www.ibtimes.com/mossad-chief-us-talks-iran-conflict-tensions-3809739",
-      "image": "https://d.ibtimes.com/en/full/4654408/trump-netanyahu-side-side-israeli-election-billboard.jpg",
-      "publishedAt": "2026-11-13T18:27:13Z",
+      "title": "Energy scarcity is being engineered: Liquefied natural gas carrier struck by mine in the Strait of Hormuz",
+      "description": "Out of nowhere, a large fireball erupted in the Strait of Hormuz \u2013 the contested waterway through which 20 million barrels of oil flow daily. Iran\u2019s Revolutionary Guards claimed an LNG carrier had struck a mine while transiting unauthorized routes. The incident, unverified by Western authorities, nonetheless sent shockwaves through global markets. Oil prices surged, [\u2026]",
+      "url": "https://www.naturalnews.com/2026-11-14-lng-carrier-hit-by-mine-strait-of-hormuz.html",
+      "image": "https://www.naturalnews.com/wp-content/uploads/sites/91/2026/11/south-pars-gas-field-iran-gas-production-natural-gas-restoration-3716-original.jpg",
+      "publishedAt": "2026-11-14T05:52:09Z",
       "source": {
-        "name": "International Business Times"
+        "name": "Natural News"
       }
     },
     {
-      "title": "Petrol price reduced by Rs 2 per litre",
-      "description": "The government has announced another reduction in petrol prices, cutting the rate by Rs2 per litre for the ninth consecutive time, while the price of high-speed diesel",
-      "url": "https://www.nation.com.pk/13-Nov-2026/petrol-price-reduced-rs-2-per-litre",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-11-13/petrol-price-reduced-rs2-per-litre-1794592922-9729.jpg",
-      "publishedAt": "2026-11-13T18:03:04Z",
+      "title": "India's current account deficit seen widening to USD 57 billion in FY27 on higher imports: ICICI Bank",
+      "description": "India's current account deficit (CAD) is expected to widen to USD 57 billion, or 1.4 per cent of GDP, in FY27 as stronger domestic demand and higher oil prices keep imports elevated despite robust export growth, according to a report by ICICI Bank.",
+      "url": "https://www.tribuneindia.com/news/business/indias-current-account-deficit-seen-widening-to-usd-57-billion-in-fy27-on-higher-imports-icici-bank/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTFlMmZlZmQwLWRmZWMtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
+      "publishedAt": "2026-11-14T05:27:37Z",
       "source": {
-        "name": "The Nation"
+        "name": "The Tribune"
       }
     },
     {
-      "title": "Major update over UK petrol and diesel car ban after EU ruling",
-      "description": "No new petrol or diesel cars will be sold after 2030",
-      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/major-update-over-uk-petrol-34877255",
-      "image": "https://i2-prod.birminghammail.co.uk/article34877267.ece/ALTERNATES/s1200d/0_cars1.jpg",
-      "publishedAt": "2026-11-13T17:17:00Z",
+      "title": "India's current account deficit seen widening to USD 57 billion in FY27 on higher imports: ICICI Bank",
+      "description": "India's current account deficit (CAD) is expected to widen to USD 57 billion, or 1.4 per cent of GDP, in FY27 as stronger domestic demand and higher oil prices keep imports elevated despite robust export growth, according to a report by ICICI Bank.",
+      "url": "https://www.aninews.in/news/business/indias-current-account-deficit-seen-widening-to-usd-57-billion-in-fy27-on-higher-imports-icici-bank20261114104541/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261114045455-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-14T05:15:41Z",
       "source": {
-        "name": "Birmingham Live"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
-      "description": "Oil prices have bounced back above $96 per barrel as Middle East tensions and supply disruptions challenge expectations of a global oil surplus.",
-      "url": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-13_gxye810jf9.jpg",
-      "publishedAt": "2026-11-13T17:00:00Z",
+      "title": "Bitcoin\u2019s billion-dollar wipeouts are becoming a familiar sight",
+      "description": "Bitcoin liquidation events exceeding $500 million have become common, reflecting significant market volatility. Recent trading sessions have seen large losses, including a $1.3 billion liquidation. Factors affecting the market include high oil prices and potential Federal Reserve rate hikes. Additionally, investors seem to be favoring artificial intelligence stocks over cryptocurrencies amid a tech selloff. These trends indicate an evolving landscape in the crypto trading environment.",
+      "url": "https://economictimes.indiatimes.com/markets/cryptocurrency/crypto-news/bitcoins-billion-dollar-wipeouts-are-becoming-a-familiar-sight/articleshow/135822462.cms",
+      "image": "https://img.etimg.com/thumb/msid-135822591,width-1200,height-900,imgsize-678715,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-14T04:16:00Z",
       "source": {
-        "name": "OilPrice"
-      }
-    },
-    {
-      "title": "Hyundai Bayon review: Why the Bayon is a boon for Hyundai",
-      "description": "The Hyundai Bayon delivers European design, spacious cabin, and advanced safety features, making it a strong contender in the Rs 10-20 lakh petrol SUV segment in India.",
-      "url": "https://www.financialexpress.com/auto/car-news/hyundai-bayon-review-why-the-bayon-is-a-boon-for-hyundai/4384090/",
-      "image": "https://images.financialexpressdigital.com/2026/11/kyundai.jpg",
-      "publishedAt": "2026-11-13T16:44:33Z",
-      "source": {
-        "name": "The Financial Express"
+        "name": "The Economic Times"
       }
     }
   ]
