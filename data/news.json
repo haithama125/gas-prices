@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-13T23:00:30+00:00",
+  "updated_at": "2026-11-14T04:01:43+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Good morning, North Bay! Here's today's weather!",
-      "description": "Here's a look at the current local weather and gas prices",
-      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-12997659",
-      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-11-11goodmorningnorthbaybct-4-autumnal-sunset-lake-nipissing-north-bay-greg-ducharme.jpg;w=1200;h=800;mode=crop",
-      "publishedAt": "2026-11-13T11:00:00Z",
+      "title": "Koretskyi says fuel prices will fall as new supplies arrive",
+      "description": "Petrol prices in Ukraine are expected to decline once new fuel supplies purchased at lower prices reach the country. \u2014 Ukrinform.",
+      "url": "https://www.ukrinform.net/rubric-economy/4184421-koretskyi-says-fuel-prices-will-fall-as-new-supplies-arrive.html",
+      "image": "https://static.ukrinform.com/photos/2026_07/thumb_files/630_360_1784197740-770.jpg",
+      "publishedAt": "2026-11-13T15:21:00Z",
       "source": {
-        "name": "BayToday"
+        "name": "Ukrinform"
       }
     },
     {
-      "title": "Balearic inflation hit 4.9 per cent in October",
-      "description": "Highest level since February 2023. The items that saw the sharpest price rises in October were citrus fruits (22.5 per cent) and international air travel (16.6 per cent), whilst the items that fell the most were petrol (6.1 per cent) and hotels, holiday flats and other accommodation (5.8 per cent)",
-      "url": "https://www.majorcadailybulletin.com/news/local/2026/11/13/147319/balearic-inflation-hit-per-cent-october.html",
-      "image": "https://md.gsstatic.es/sfAttachPlugin/social/198241.jpg",
-      "publishedAt": "2026-11-13T10:58:59Z",
-      "source": {
-        "name": "Majorca Daily Bulletin"
-      }
-    },
-    {
-      "title": "UK supermarket cuts petrol and diesel prices by 4p per litre at UK forecourts",
-      "description": "Asda has reduced the price of both unleaded petrol and diesel by an average of 4p per litre across all of its main forecourts nationwide",
-      "url": "https://www.chroniclelive.co.uk/news/uk-news/uk-supermarket-cuts-petrol-diesel-34905208",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34811099.ece/ALTERNATES/s1200d/2_Fuel-prices.jpg",
-      "publishedAt": "2026-11-13T10:48:49Z",
-      "source": {
-        "name": "Evening Chronicle"
-      }
-    },
-    {
-      "title": "Sensex Sheds 318.55 Points & Nifty Slips Below 25,200, Here's What Broke Dalal Street\u2019s Three-Day Rally?",
-      "description": "Sensex fell 318.55 points to 81,592.45 and Nifty slipped to 25,144.30, ending a three-day rally as rising oil prices and selling in heavyweight shares weighed on Dalal Street today.",
-      "url": "https://www.freepressjournal.in/business/sensex-sheds-31855-points-nifty-slips-below-25200-heres-what-broke-dalal-streets-three-day-rally",
-      "image": "https://media.assettype.com/freepressjournal/2026-11-13/31707yd0/sensex-down.jpg",
-      "publishedAt": "2026-11-13T10:45:59Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Next-Gen Honda CR-V To Go Hybrid-Only; Petrol Engine Dropped",
-      "description": "Next-gen Honda CR-V aims to improve its presence in the market using an all-hybrid powertrain.",
-      "url": "https://www.ndtv.com/auto/next-gen-honda-cr-v-to-go-hybrid-only-petrol-engine-dropped-12322024",
-      "image": "https://c.ndtvimg.com/2026-11/4v7q2vjg_honda-crv-teaser_625x300_13_November_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-13T10:38:29Z",
-      "source": {
-        "name": "NDTV.com"
-      }
-    },
-    {
-      "title": "Dalal Street snaps 10-day winning streak: Nifty ends 155 points lower, Sensex down 318 points",
-      "description": "Indian stock indices suffered a significant crash on Friday, wiping out gains from a ten-day consecutive winning streak driven by mounting domestic inflation, rising crude oil prices, and a tech-led sell-off on Wall Street.",
-      "url": "https://www.theweek.in/news/biz-tech/2026/11/13/dalal-street-snaps-10-day-winning-streak-nifty-ends-155-points-lower-sensex-down-318-points.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/7/sensex-nifty-stock-down-shutterstock.jpg",
-      "publishedAt": "2026-11-13T10:35:52Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "India Trade Gap Widens to One-Year High, Testing Rupee (2)",
-      "description": "India\u2019s trade deficit widened to a one-year high in October as festive-season demand and higher oil prices pushed up imports, adding to challenges for the rupee after a year of sharp losses.",
-      "url": "https://news.bloombergtax.com/daily-tax-report/india-trade-gap-widens-to-one-year-high-testing-rupee-2",
-      "image": "https://news-cdn.bindg.com/indg/assets/news/images/Fallback-image.webp",
-      "publishedAt": "2026-11-13T10:28:23Z",
-      "source": {
-        "name": "Bloomberg Tax News"
-      }
-    },
-    {
-      "title": "Sensex falls 319 points, Nifty drops 155 points by closing as rising crude revives inflation concerns",
-      "description": "The stock markets ended the week on a weak note on Friday, with the benchmark indices declining as rising crude oil prices revived concerns over inflation and the possibility of further interest rate hikes.",
-      "url": "https://www.devdiscourse.com/article/business/4006495-sensex-falls-319-points-nifty-drops-155-points-by-closing-as-rising-crude-revives-inflation-concerns",
-      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/13_11_2026_15_53_53_0819809.jpg&width=920&format=jpeg",
-      "publishedAt": "2026-11-13T10:23:56Z",
-      "source": {
-        "name": "Devdiscourse"
-      }
-    },
-    {
-      "title": "Sensex falls 319 points, Nifty drops 155 points by closing as rising crude revives inflation concerns",
-      "description": "The stock markets ended the week on a weak note on Friday, with the benchmark indices declining as rising crude oil prices revived concerns over inflation and the possibility of further interest rate hikes.",
-      "url": "https://www.tribuneindia.com/news/business/sensex-falls-319-points-nifty-drops-155-points-by-closing-as-rising-crude-revives-inflation-concerns/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTI0OWE4MTUwLWRmNGMtMTFmMS1iZTkzLTkxM2U3MDJiMGE0Mi5qcGc=",
-      "publishedAt": "2026-11-13T10:22:28Z",
+      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
+      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
+      "url": "https://www.tribuneindia.com/news/business/all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTBjOGI5MjcwLWRmNzQtMTFmMS1iOGYxLWExNTU5Y2Q3N2YwZS5qcGc=",
+      "publishedAt": "2026-11-13T15:08:08Z",
       "source": {
         "name": "The Tribune"
       }
     },
     {
-      "title": "Sensex falls 319 points, Nifty slips below 25,200: What dragged Dalal Street today?",
-      "description": "Sensex and Nifty snapped a three-day winning streak on Friday, dragged down by selling in heavyweight stocks and rising crude oil prices. Read the full market u",
-      "url": "https://www.cnbctv18.com/market/sensex-falls-319-points-nifty-slips-below-25200-what-dragged-dalal-street-today-20033516.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/10/stock-market6-2026-10-fdeedf1f5d326c7e0632b0309ef0a105.jpeg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-13T10:22:16Z",
+      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
+      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
+      "url": "https://www.devdiscourse.com/article/business/4006695-all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/13_11_2026_20_37_20_5529008.jpg&width=920&format=jpeg",
+      "publishedAt": "2026-11-13T15:07:23Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Devdiscourse"
+      }
+    },
+    {
+      "title": "All 893 E20 petrol samples tested across 27 states, UTs meet prescribed ethanol standards: BPCL",
+      "description": "Bharat Petroleum Corporation Limited (BPCL) on Friday clarified that all 893 E20 petrol samples tested across 27 states and Union Territories were found to be within the prescribed ethanol content range of 19\u201321 per cent, amid reports and social media posts raising concerns over the ethanol content in E20 petrol.",
+      "url": "https://www.aninews.in/news/business/all-893-e20-petrol-samples-tested-across-27-states-uts-meet-prescribed-ethanol-standards-bpcl20261113203206/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261113145227-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-13T15:02:06Z",
+      "source": {
+        "name": "ANI (Asian News International)"
+      }
+    },
+    {
+      "title": "Fuel prices continue to fall as supermarket cuts costs for drivers- use our tool to find the cheapest price near you",
+      "description": "DRIVERS have been handed a welcome boost after Asda slashed petrol and diesel prices by an average of 4p a litre.\nThe supermarket\u2019s move comes...",
+      "url": "https://www.thesun.co.uk/money/38673811/find-cheapest-petrol-diesel-near-you/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/crop-40562275_985459.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-11-13T15:02:00Z",
+      "source": {
+        "name": "The Sun"
+      }
+    },
+    {
+      "title": "Your next flight could cost more even if oil prices fall: Here's what is changing",
+      "description": "Airlines face challenges that could prevent ticket price reductions despite falling oil prices and rising fuel costs. These challenges include aircraft maintenance expenses and delays in aircraft deliveries, which add to overall operational costs. Airlines are managing ticket prices carefully to balance their revenue recovery with passengers' price sensitivities. Consequently, travelers should remain aware of total travel costs, including various surcharges and fees.",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/your-next-flight-could-cost-more-even-if-oil-prices-fall-heres-what-is-changing/articleshow/135805776.cms",
+      "image": "https://img.etimg.com/thumb/msid-135805843,width-1200,height-900,imgsize-37608,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-13T14:17:00Z",
+      "source": {
+        "name": "The Economic Times"
+      }
+    },
+    {
+      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
+      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
+      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.cleveland.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
+      "publishedAt": "2026-11-13T13:45:24Z",
+      "source": {
+        "name": "cleveland.com"
+      }
+    },
+    {
+      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
+      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
+      "url": "https://www.mlive.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.mlive.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
+      "publishedAt": "2026-11-13T13:45:24Z",
+      "source": {
+        "name": "M Live Michigan "
+      }
+    },
+    {
+      "title": "Nov. 13 gas prices: National average drops to $3.87 per gallon",
+      "description": "The national average is down another three cents Friday as prices continue to drop nationwide.",
+      "url": "https://www.al.com/news/2026/11/gas-prices-for-111326-what-will-you-pay-heading-into-the-weekend.html",
+      "image": "https://www.al.com/resizer/v2/DE5EQDUNCZAI3MRYJG3SWOABNY.jpg?auth=144830d82370bdf3cf86a298a3455dfdce9b7b73d076e58eb6dc4e168446de9e&width=1280&smart=true",
+      "publishedAt": "2026-11-13T13:45:24Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
+    {
+      "title": "Current price of oil as of November 13, 2026",
+      "description": "When oil prices change, it affects your energy costs\u2014and even the price of everyday items. Here\u2019s why.",
+      "url": "https://www.newsbreak.com/fortune-561435/5005074032246-current-price-of-oil-as-of-november-13-2026",
+      "image": "https://img.particlenews.com/img/id/16U9uF_1H3Dl1JT00",
+      "publishedAt": "2026-11-13T13:30:26Z",
+      "source": {
+        "name": "NewsBreak"
       }
     }
   ]
