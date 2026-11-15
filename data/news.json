@@ -1,9 +1,39 @@
 {
-  "updated_at": "2026-11-15T03:48:36+00:00",
+  "updated_at": "2026-11-15T13:09:02+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "Regional: Gasoline Prices Fall 20 Cents In A Week, Aaa Reports",
+      "description": "The average price for a gallon of regular gasoline in California fell 20 cents to $5.63 last week, slightly less than in San Francisco, where the cost was $5.70, AAA said.",
+      "url": "https://www.sfgate.com/news/bayarea/article/regional-gasoline-prices-fall-20-cents-in-a-22531638.php",
+      "image": "https://s.hdnux.com/photos/01/67/74/22/31442069/3/rawImage.jpg",
+      "publishedAt": "2026-11-14T21:28:02Z",
+      "source": {
+        "name": "SFGATE"
+      }
+    },
+    {
+      "title": "Asda caps price of petrol and diesel at 320 petrol stations",
+      "description": "Asda has introduced new measures.",
+      "url": "https://www.express.co.uk/life-style/cars/2265954/asda-petrol-diesel-fuel-station",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7232014.jpg",
+      "publishedAt": "2026-11-14T19:40:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Alabamians could pay 10 percent more this year for their Thanksgiving meals",
+      "description": "Rising gas prices are increasing the cost of some Thanksgiving staples this year.",
+      "url": "https://www.al.com/news/birmingham/2026/11/alabamians-could-pay-10-percent-more-this-year-for-their-thanksgiving-meals.html",
+      "image": "https://www.al.com/resizer/v2/5PQ6QPODGNF3VHPH5HHQY65XDA.jpg?auth=5100bdf438cc1870f1cf83ee23d0688d87834498f0de52194ed0b0ca1c224bab&width=1280&smart=true",
+      "publishedAt": "2026-11-14T18:23:42Z",
+      "source": {
+        "name": "AL.com"
+      }
+    },
     {
       "title": "Moment man throws petrol bombs into grounds of Islamic centre",
       "description": "Footage shows the moment a man threw petrol bombs into the grounds of an Islamic centre in north London. Iman Zand , 47, carried out a \u201cpremeditated and deeply disturbing attack\u201d on the Islamic Centre of England in Maida Vale in February, the Metropolitan Police said. The British national, who was born in Iran, pleaded guilty to possession of an explosive with intent to injure property at Wood Green Crown Court on Friday (13 November). CCTV shows Zand lighting the incendiary before throwing it over the fence and onto the roof of a cabin outside the main building. Police said Zand threw two bottles over the site wall before fleeing in his car. Zand will be sentenced at Wood Green Crown Court at a later date.",
@@ -72,36 +102,6 @@
       "publishedAt": "2026-11-14T12:12:00Z",
       "source": {
         "name": "The Star"
-      }
-    },
-    {
-      "title": "Indore Panchayat Secretary Caught Red-Handed Taking \u20b912k Bribe For Business Licence",
-      "description": "The Economic Offences Wing (EOW) caught panchayat secretary Shyama Sahu red-handed allegedly accepting a \u20b912,000 bribe in Indore\u2019s Asrawad Buzurg village. Sahu allegedly demanded \u20b915,000 from complainant Anokhi Gawaliya for signing a business licence. Following a complaint, EOW officials laid a trap and caught Sahu at a petrol pump. A case was registered under the Prevention of Corruption Act.",
-      "url": "https://www.freepressjournal.in/indore/indore-panchayat-secretary-caught-red-handed-taking-12k-bribe-for-business-licence",
-      "image": "https://media.assettype.com/freepressjournal/2026-11-14/5a6my36o/Add-a-subheading-2026-11-14T165415.228.png",
-      "publishedAt": "2026-11-14T12:00:18Z",
-      "source": {
-        "name": "Free Press Journal"
-      }
-    },
-    {
-      "title": "Falling gas prices, tax rates and tech CEOs: FP Video Examines",
-      "description": "FP Video looks at gas prices, the federal budget's 'investment supercycle,' and what Jensen Huang's exit means for the AI boom",
-      "url": "https://financialpost.com/news/falling-gas-prices-tax-rates-and-tech-ceos-fp-video-examines/",
-      "image": "https://financialpost.com/wp-content/uploads/sites/3/2026/11/1114-mg-gas-prices.jpg",
-      "publishedAt": "2026-11-14T12:00:00Z",
-      "source": {
-        "name": "Financial Post"
-      }
-    },
-    {
-      "title": "Drug smuggling fuel network smashed, Axarquia",
-      "description": "Eight arrests follow a major police operation in Malaga\u2019s Axarquia, uncovering 5,740 litres of fuel, inflatable boats and an alleged petrol station connection.",
-      "url": "https://euroweeklynews.com/2026/11/14/fuel-network-smashed-eight-arrested-after-axarquia-narco-boat-operation-uncovers-5740-litres-of-petrol/",
-      "image": "https://euroweeklynews.com/wp-content/uploads/2026/11/11400828-e1794655688254.jpg",
-      "publishedAt": "2026-11-14T11:29:10Z",
-      "source": {
-        "name": "Euro Weekly News"
       }
     }
   ]
