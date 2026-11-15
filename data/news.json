@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-15T13:09:02+00:00",
+  "updated_at": "2026-11-15T22:16:30+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Regional: Gasoline Prices Fall 20 Cents In A Week, Aaa Reports",
-      "description": "The average price for a gallon of regular gasoline in California fell 20 cents to $5.63 last week, slightly less than in San Francisco, where the cost was $5.70, AAA said.",
-      "url": "https://www.sfgate.com/news/bayarea/article/regional-gasoline-prices-fall-20-cents-in-a-22531638.php",
-      "image": "https://s.hdnux.com/photos/01/67/74/22/31442069/3/rawImage.jpg",
-      "publishedAt": "2026-11-14T21:28:02Z",
+      "title": "Stock Market This Week, WPI Inflation, \u20b984,290 Crore FII Inflows & Crude Oil Among Key Triggers",
+      "description": "Sensex and Nifty face a crucial week as WPI inflation, \u20b984,290 crore FII inflows, crude oil prices, Nvidia earnings and Fed minutes drive market sentiment.",
+      "url": "https://www.freepressjournal.in/business/stock-market-this-week-wpi-inflation-84290-crore-fii-inflows-crude-oil-among-key-triggers",
+      "image": "https://media.assettype.com/freepressjournal/2026-11-15/thpjowkz/WPI-FII-and-Bull-Market-Surge.jpg",
+      "publishedAt": "2026-11-15T10:01:10Z",
       "source": {
-        "name": "SFGATE"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Asda caps price of petrol and diesel at 320 petrol stations",
-      "description": "Asda has introduced new measures.",
-      "url": "https://www.express.co.uk/life-style/cars/2265954/asda-petrol-diesel-fuel-station",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7232014.jpg",
-      "publishedAt": "2026-11-14T19:40:00Z",
+      "title": "WPI inflation, crude oil prices and FII activity to steer stock markets this week",
+      "description": "Market this week hinges on WPI inflation, oil prices, and FII flows, shaping Indian equities amid global cues and policy signals.",
+      "url": "https://www.thehindubusinessline.com/markets/wpi-inflation-crude-oil-prices-and-fii-activity-to-steer-stock-markets-this-week/article71704397.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/flwzlw/article71704470.ece/alternates/LANDSCAPE_1200/2026-11-13T073432Z_1221653155_RC27GHA1HBER_RTRMADP_3_ANGEL-ONE-MUTUAL-FUNDS.JPG",
+      "publishedAt": "2026-11-15T09:35:51Z",
       "source": {
-        "name": "Daily Express"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Alabamians could pay 10 percent more this year for their Thanksgiving meals",
-      "description": "Rising gas prices are increasing the cost of some Thanksgiving staples this year.",
-      "url": "https://www.al.com/news/birmingham/2026/11/alabamians-could-pay-10-percent-more-this-year-for-their-thanksgiving-meals.html",
-      "image": "https://www.al.com/resizer/v2/5PQ6QPODGNF3VHPH5HHQY65XDA.jpg?auth=5100bdf438cc1870f1cf83ee23d0688d87834498f0de52194ed0b0ca1c224bab&width=1280&smart=true",
-      "publishedAt": "2026-11-14T18:23:42Z",
+      "title": "Daily life in Sudan paralysed by deepening fuel crisis and rising costs",
+      "description": "Domestic refining has been crippled by the civil war while the Middle East conflict has led to significant fluctuations in oil prices.",
+      "url": "https://www.africanews.com/2026/11/15/daily-life-in-sudan-paralysed-by-deepening-fuel-crisis-and-rising-costs/",
+      "image": "https://images.euronews.com/articles/stories/09/99/31/08/1024x538_cmsv2_df8f15ec-5de2-5dab-b1b0-42482f3c6309-9993108.jpg",
+      "publishedAt": "2026-11-15T09:24:26Z",
       "source": {
-        "name": "AL.com"
+        "name": "Africanews"
       }
     },
     {
-      "title": "Moment man throws petrol bombs into grounds of Islamic centre",
-      "description": "Footage shows the moment a man threw petrol bombs into the grounds of an Islamic centre in north London. Iman Zand , 47, carried out a \u201cpremeditated and deeply disturbing attack\u201d on the Islamic Centre of England in Maida Vale in February, the Metropolitan Police said. The British national, who was born in Iran, pleaded guilty to possession of an explosive with intent to injure property at Wood Green Crown Court on Friday (13 November). CCTV shows Zand lighting the incendiary before throwing it over the fence and onto the roof of a cabin outside the main building. Police said Zand threw two bottles over the site wall before fleeing in his car. Zand will be sentenced at Wood Green Crown Court at a later date.",
-      "url": "https://www.independent.co.uk/tv/news/man-throws-petrol-bombs-islamic-centre-video-b3084983.html",
-      "image": "https://cdn.ex.co/transformations-account/production/99589e92-e6b5-4a6b-8db4-bb0120ace3e1/444599f6-49dc-4f8a-85b3-96bbc6eaf988/thumbnail-1080.webp",
-      "publishedAt": "2026-11-14T15:18:36Z",
+      "title": "WPI inflation, oil, FII trading activity may guide stock markets this week",
+      "description": "Investors will track October WPI inflation, trade data, foreign investor activity and crude oil prices, while US retail sales, Nvidia's earnings and Fed minutes are expected to shape global sentiment",
+      "url": "https://www.business-standard.com/markets/news/wpi-inflation-oil-fii-trading-activity-may-guide-stock-markets-this-week-126111500300_1.html",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/01/thumb/fitandfill/1200X628/1790842837-4277.jpeg",
+      "publishedAt": "2026-11-15T08:52:49Z",
       "source": {
-        "name": "The Independent"
+        "name": "Business Standard"
       }
     },
     {
-      "title": "Gas prices for Nov. 14, 2026: National average drops to $3.84 per gallon",
-      "description": "Gas prices continue to fall as the national average for Saturday, Nov. 14 is $3.84 per gallon.",
-      "url": "https://www.mlive.com/news/2026/11/gas-prices-for-111426-national-average-down-nearly-50-cents-in-last-month.html",
-      "image": "https://www.mlive.com/resizer/v2/47LDVOOHJBD5NE42ORGW56KHUI.jpg?auth=768393b28179ab5b0f1fe6f91e9861ca17d0513714bb863664bb43deb34dd35c&width=1280&smart=true",
-      "publishedAt": "2026-11-14T15:12:32Z",
+      "title": "No petrol, diesel or CNG, plus Rs 10,000 fine for missing PUC certificate: Gurugram rolls out strict new fuel rules; 300 cameras to monitor vehicles",
+      "description": "As air pollution continues to trouble Delhi-NCR, Gurugram is preparing to tighten vehicle emission checks. The district administration has announced a 'No PUC, No Fuel' rule under which vehicles without a valid Pollution Under Control certificate will not be given petrol, diesel or CNG. In the first phase, 300 ANPR cameras will be installed at petrol pumps from November 15, 2026, to verify vehicles' registration details and PUC status.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/no-petrol-diesel-or-cng-plus-rs-10000-fine-for-missing-puc-certificate-gurugram-rolls-out-strict-new-fuel-rules-300-cameras-to-monitor-vehicles/articleshow/135850199.cms",
+      "image": "https://img.etimg.com/thumb/msid-135850324,width-1200,height-900,imgsize-1865548,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-15T07:43:00Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Gas prices for Nov. 14, 2026: National average drops to $3.84 per gallon",
-      "description": "Gas prices continue to fall as the national average for Saturday, Nov. 14 is $3.84 per gallon.",
-      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-111426-national-average-down-nearly-50-cents-in-last-month.html",
-      "image": "https://www.cleveland.com/resizer/v2/47LDVOOHJBD5NE42ORGW56KHUI.jpg?auth=768393b28179ab5b0f1fe6f91e9861ca17d0513714bb863664bb43deb34dd35c&width=1280&smart=true",
-      "publishedAt": "2026-11-14T15:12:32Z",
+      "title": "Foreign investors pump Rs 84,290 crore into equities as India gains from global AI stock sell-off",
+      "description": "Falling crude oil prices, with Brent crude declining around 13 per cent in the first week of November to nearly USD 97 per barrel, easing geopolitical concerns, attractive valuations in select large-cap stocks and improved visibility on domestic earnings also supported the inflows",
+      "url": "https://www.telegraphindia.com/business/foreign-investors-pump-rs-84290-crore-into-equities-as-india-gains-from-global-ai-stock-sell-off/cid/2189533",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/1794728125_1780650515_fpi.gif",
+      "publishedAt": "2026-11-15T07:39:53Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "Telegraph India"
       }
     },
     {
-      "title": "Gas prices for Nov. 14, 2026: National average drops to $3.84 per gallon",
-      "description": "Gas prices continue to fall as the national average for Saturday, Nov. 14 is $3.84 per gallon.",
-      "url": "https://www.al.com/news/2026/11/gas-prices-for-111426-national-average-down-nearly-50-cents-in-last-month.html",
-      "image": "https://www.al.com/resizer/v2/47LDVOOHJBD5NE42ORGW56KHUI.jpg?auth=768393b28179ab5b0f1fe6f91e9861ca17d0513714bb863664bb43deb34dd35c&width=1280&smart=true",
-      "publishedAt": "2026-11-14T15:12:32Z",
+      "title": "Stock Market Next Week, 5 Big Triggers That Could Decide Sensex And Nifty\u2019s Next Move",
+      "description": "Sensex and Nifty face a volatile week as FII inflows, Nvidia earnings, crude oil prices, rising inflation and RBI rate hike expectations influence market sentiment.",
+      "url": "https://www.freepressjournal.in/business/stock-market-next-week-5-big-triggers-that-could-decide-sensex-and-niftys-next-move",
+      "image": "https://media.assettype.com/freepressjournal/2026-11-15/z8msxeel/Bullish-Markets-Gold-Oil-and-Tech.png",
+      "publishedAt": "2026-11-15T07:20:06Z",
       "source": {
-        "name": "AL.com"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Major Russian oil hub burns as Ukraine launches blitz on 'heart of Putin's petrol network'",
-      "description": "Ukraine has launched one of its most devastating drone attacks on Russia with the Samara station, seen as the operational heart of Russia's oil export network, hit, says military chiefs in Kyiv",
-      "url": "https://www.mirror.co.uk/news/world-news/major-russian-oil-hub-burns-37877328",
-      "image": "https://i2-prod.mirror.co.uk/article37877334.ece/ALTERNATES/s1200d/0_Kirishi-attack-1-east2west-news.jpg",
-      "publishedAt": "2026-11-14T13:04:15Z",
+      "title": "Markets still pricing in two more ECB rate hikes - The Irish Times",
+      "description": "Markets are pricing in at least two more European Central Bank interest rate hikes even with the sharp drop-off in oil prices and the improving inflationary",
+      "url": "https://www.europesays.com/3376627/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1793724205.jpeg",
+      "publishedAt": "2026-11-15T07:12:06Z",
       "source": {
-        "name": "The Mirror"
+        "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "Gurugram installs 300 ANPR cameras at gas stations Nov 15",
-      "description": "Gurugram will install 300 ANPR cameras at petrol pumps starting November 15 to enforce the 'no PUC, no fuel' policy, ensuring vehicles have valid pollution certificates.",
-      "url": "https://www.newsbytesapp.com/news/india/gurugram-installs-300-anpr-cameras-at-gas-stations-nov-15/tldr",
-      "image": "https://i.cdn.newsbytesapp.com/images/l144_3611794659421.jpg",
-      "publishedAt": "2026-11-14T12:31:24Z",
+      "title": "Global Economy to grow 2.8% in 2027, buoyed by lower oil prices and AI investments: Goldman Sachs",
+      "description": "Global GDP growth is seen at 2.8% in 2027, aided by lower oil prices and rising AI investment, per Goldman Sachs.",
+      "url": "https://www.thehindubusinessline.com/economy/global-economy-to-grow-28-in-2027-buoyed-by-lower-oil-prices-and-ai-investments-goldman-sachs/article71704111.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/g1uya1/article71704126.ece/alternates/LANDSCAPE_1200/bl05-Think1-MidGOIFUGE2F.5.jpg.jpg",
+      "publishedAt": "2026-11-15T05:18:39Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Oil prices suffer a second straight weekly drop on signs of a growing supply surplus",
-      "description": "Brent, WTI down about 2.5% so far this week / Softening US demand also weighs on prices, analyst says.",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/14/oil-prices-suffer-a-second-straight-weekly-drop-on-signs-of-a-growing-supply-surplus",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/14/4212576.jpg",
-      "publishedAt": "2026-11-14T12:12:00Z",
+      "title": "Global economy to grow 2.8% in 2027 as AI spending, lower oil prices support outlook: Goldman Sachs",
+      "description": "The global economy is expected to maintain steady growth in 2027, supported by declining energy prices and continued investment in artificial intelligence",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/global-economy-to-grow-2-8-in-2027-as-ai-spending-lower-oil-prices-support-outlook-goldman-sachs/articleshow/135847625.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135847727,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-15T05:00:00Z",
       "source": {
-        "name": "The Star"
+        "name": "Times of India"
       }
     }
   ]
