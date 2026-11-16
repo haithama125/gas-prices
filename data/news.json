@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-16T03:49:07+00:00",
+  "updated_at": "2026-11-16T14:17:09+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Automatic number plate recognition cameras to keep tabs on vehicles at Jhajjar fuel stations",
-      "description": "In a major step towards environmental protection and stricter enforcement of motor vehicle regulations, the Haryana Transport Department will begin installing automatic number plate recognition (ANPR) cameras at petrol stations across Jhajjar district.",
-      "url": "https://www.tribuneindia.com/news/haryana/automatic-number-plate-recognition-cameras-to-keep-tab-on-vehicles-at-jhajjar-petrol-stations/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTgxMjMwODkwLWUxMGMtMTFmMS1hNzhjLWJmZGZhODg2ZTA2Yy5qcGc=",
-      "publishedAt": "2026-11-15T15:40:26Z",
+      "title": "Oil prices fall as surplus fears return after a nine-month dry spell in the market",
+      "description": "Oil prices fell on Monday as concerns over a potential supply surplus weighed on the market, with shipments through the Strait of Hormuz recovering to",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-fall-as-surplus-fears-return-after-a-nine-month-dry-spell-in-the-market/articleshow/135869709.cms",
+      "image": "https://static.toiimg.com/thumb/msid-135869892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-16T02:15:00Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Nov. 15 gas prices: National average drops to $3.82 per gallon",
-      "description": "The national average is down another two cents Sunday and are down more than 20 cents over the last week.",
-      "url": "https://www.mlive.com/news/2026/11/gas-prices-for-111526-what-will-you-pay-as-the-weekend-comes-to-an-end.html",
-      "image": "https://www.mlive.com/resizer/v2/F75ANFRJ5ZDQXEYL6AOERTINPM.JPG?auth=48fa244f6a230c1a2087e9d3197ca85f1ce95edc873e387adcf793a0dd3e872a&width=1280&smart=true",
-      "publishedAt": "2026-11-15T15:03:56Z",
+      "title": "Petrol, diesel prices won't come down immediately, says Suresh Gopi; here's why",
+      "description": "Petrol, diesel prices: Suresh Gopi says immediate cuts are not possible due to Rs 42,000 crore in oil company losses and supply disruptions.",
+      "url": "https://www.moneycontrol.com/news/business/petrol-diesel-prices-won-t-come-down-immediately-says-suresh-gopi-here-s-why-14080726.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260602021338_perol-pump-bloomberg.jpg",
+      "publishedAt": "2026-11-16T02:14:58Z",
       "source": {
-        "name": "M Live Michigan "
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "Nov. 15 gas prices: National average drops to $3.82 per gallon",
-      "description": "The national average is down another two cents Sunday and are down more than 20 cents over the last week.",
-      "url": "https://www.al.com/news/2026/11/gas-prices-for-111526-what-will-you-pay-as-the-weekend-comes-to-an-end.html",
-      "image": "https://www.al.com/resizer/v2/F75ANFRJ5ZDQXEYL6AOERTINPM.JPG?auth=48fa244f6a230c1a2087e9d3197ca85f1ce95edc873e387adcf793a0dd3e872a&width=1280&smart=true",
-      "publishedAt": "2026-11-15T15:03:56Z",
+      "title": "Petrol, diesel price cut not possible immediately, oil companies face Rs 42,000 crore losses: Union Minister Suresh Gopi",
+      "description": "Union Minister Suresh Gopi has ruled out an immediate reduction in petrol and diesel prices, citing Rs 42,000 crore in losses suffered by oil companies and disruptions in petroleum supplies amid the West Asia conflict. He said states could consider cutting fuel taxes, while the Centre was working to address supply-related challenges.",
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-price-cut-not-possible-immediately-oil-companies-face-rs-42000-crore-losses-union-minister-suresh-gopi/articleshow/135869833.cms",
+      "image": "https://img.etimg.com/thumb/msid-135869899,width-1200,height-900,imgsize-66614,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-16T02:13:00Z",
       "source": {
-        "name": "AL.com"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Nov. 15 gas prices: National average drops to $3.82 per gallon",
-      "description": "The national average is down another two cents Sunday and are down more than 20 cents over the last week.",
-      "url": "https://www.cleveland.com/news/2026/11/gas-prices-for-111526-what-will-you-pay-as-the-weekend-comes-to-an-end.html",
-      "image": "https://www.cleveland.com/resizer/v2/F75ANFRJ5ZDQXEYL6AOERTINPM.JPG?auth=48fa244f6a230c1a2087e9d3197ca85f1ce95edc873e387adcf793a0dd3e872a&width=1280&smart=true",
-      "publishedAt": "2026-11-15T15:03:56Z",
+      "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
+      "description": "The Japanese economy contracted at an annualized rate of 0.1% last quarter, weighed down by slowing consumer spending and the rising cost of oil imports. Data released Monday by the Cabinet Office...",
+      "url": "https://www.sfgate.com/news/world/article/japan-s-economy-contracts-slightly-in-the-latest-22532597.php",
+      "image": "https://s.hdnux.com/photos/01/67/74/47/31443409/3/rawImage.jpg",
+      "publishedAt": "2026-11-16T02:12:03Z",
       "source": {
-        "name": "cleveland.com"
+        "name": "SFGATE"
       }
     },
     {
-      "title": "I added a fuel price app to Android Auto, and I stopped overpaying at the first station I see",
-      "description": "Compare nearby gas prices without leaving Android Auto.",
-      "url": "https://www.xda-developers.com/added-fuel-price-app-android-auto-stopped-overpaying-first-station/",
-      "image": "https://static0.xdaimages.com/wordpress/wp-content/uploads/wm/2026/11/1794654305920.jpg?w=1600&h=900&fit=crop",
-      "publishedAt": "2026-11-15T15:00:20Z",
+      "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
+      "description": "The Japanese economy contracted at an annualized rate of 0.1% last quarter, weighed down by slowing consumer spending and the rising cost of oil imports.",
+      "url": "https://www.clickondetroit.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/R4XRC35ZQBFZBAEBKXBVIETA4Y.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-11-16T02:02:58Z",
       "source": {
-        "name": "XDA Developers"
+        "name": "WDIV ClickOnDetroit"
       }
     },
     {
-      "title": "Petrol bunk operators directed to improve fuel quality and consumer facilities",
-      "description": "Petrol bunk operators in Chittoor urged to ensure fuel quality, accurate quantity, and improved consumer facilities with strict enforcement.",
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/petrol-bunk-operators-directed-to-improve-fuel-quality-and-consumer-facilities/article71704852.ece",
-      "image": "https://www.thehindu.com/theme/images/og-image.png",
-      "publishedAt": "2026-11-15T14:01:32Z",
+      "title": "Oil prices fall on expectations of coming supply surplus",
+      "description": "Oil prices fell on Monday as market expectations shifted toward a supply surplus from the Middle East. Increased shipments through the Strait of Hormuz are restoring oil supply levels to pre-war rates. The International Energy Agency projected an oil supply surplus in the fourth quarter, surpassing demand. A decision to waive the Jones Act has also allowed greater flexibility in transporting oil between US ports.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-on-expectations-of-coming-supply-surplus/articleshow/135869595.cms",
+      "image": "https://img.etimg.com/thumb/msid-135869620,width-1200,height-900,imgsize-84762,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-16T01:54:00Z",
       "source": {
-        "name": "The Hindu"
+        "name": "The Economic Times"
       }
     },
     {
-      "title": "Crude oil prices may touch $90-92 per barrel next week",
-      "description": "Crude oil prices are expected to remain under pressure next week due to ample supply and rising inventories, with Brent potentially testing the $90-92 per barrel range.",
-      "url": "https://www.newsbytesapp.com/news/business/crude-oil-prices-might-further-go-down-next-week/story",
-      "image": "https://i.cdn.newsbytesapp.com/images/l42420261115172419.jpeg",
-      "publishedAt": "2026-11-15T12:37:38Z",
+      "title": "Oil prices fall on expectations of coming supply surplus",
+      "description": "PERTH, Nov 16 - Oil prices fell on Monday on expectations of a supply surplus as shipments from the Middle East through the Strait of Hormuz have been nearly restored to pre-war levels and the US took...",
+      "url": "https://www.marketscreener.com/news/oil-prices-fall-on-expectations-of-coming-supply-surplus-ce785ededf81f320",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-30T022725Z_1_LYNXNPEM9T04R_RTROPTP_4_GLOBAL-OIL.JPG",
+      "publishedAt": "2026-11-16T01:50:11Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "MarketScreener"
       }
     },
     {
-      "title": "The cheapest supermarket to fill up your car as major chain sparks price war cutting 4p off fuel",
-      "description": "IT'S more expensive than ever to fill up your car right now as petrol and diesel prices are remain at an all-time high in the UK.\nDiesel hit \u00a32...",
-      "url": "https://www.thesun.co.uk/money/41029140/cheapest-supermarket-fuel-price-war/",
-      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/crop-39944931.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
-      "publishedAt": "2026-11-15T12:33:23Z",
+      "title": "Aussie shares waver as tech jitters, oil prices weigh",
+      "description": "Mining stocks continue to drag on the Australian stock market, as artificial intelligence uncertainty and rate fears put downward pressure on metals prices.",
+      "url": "https://www.perthnow.com.au/news/business/aussie-shares-waver-as-tech-jitters-oil-prices-weigh-c-23167184",
+      "image": "https://images.perthnow.com.au/publication/C-23167184/7486a57d169301d3deef97d537d0c66442ce5b10-16x9-x0y0w1280h720.jpg?imwidth=1200",
+      "publishedAt": "2026-11-16T01:43:16Z",
       "source": {
-        "name": "The Sun"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "Crude Oil May Extend Losses This Week; Brent Seen Testing $90-92 Per Barrel, Say Analysts",
-      "description": "Geopolitical tensions between Washington and Tehran, rising inventories and supply concerns are likely to shape crude oil prices this week.",
-      "url": "https://www.ndtvprofit.com/markets/crude-oil-may-extend-losses-this-week-brent-seen-testing-usd-90-92-per-barrel-say-analysts-12330004",
-      "image": "https://c.ndtvimg.com/2026-11/vdedabng_oil_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-15T12:14:32Z",
+      "title": "Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors That May Drive Sensex, Nifty 50 On November 16",
+      "description": "Asian markets traded lower after Japan's GDP contracted surprisingly, while the US stock market ended mixed on Friday, weighed down by technology stocks amid concerns over Nvidia.",
+      "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-oil-prices-to-fpi-inflows-five-key-factors-that-may-drive-sensex-nifty-50-on-november-16-12331455",
+      "image": "https://c.ndtvimg.com/2026-10/8tvj3ng_bse-_625x300_05_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-16T01:23:49Z",
       "source": {
         "name": "NDTV Profit"
       }
     },
     {
-      "title": "Stock Markets This Week: WPI Inflation, Crude Oil, FII Trading Activity To Guide Movement, Say Analysts",
-      "description": "WPI inflation, FII flows, crude oil prices and global economic signals are expected to shape market sentiment amid a packed week of domestic and international triggers.",
-      "url": "https://www.ndtvprofit.com/markets/stock-markets-this-week-wpi-inflation-crude-oil-fii-trading-activity-to-guide-movement-say-analysts-12329850",
-      "image": "https://c.ndtvimg.com/2026-11/an234fmk_stock-markets_625x300_15_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-15T11:29:40Z",
+      "title": "EVs outpace petrol, diesel cars with 69% festive sales surge as India's car market shrinks",
+      "description": "Electric car deliveries in India jumped 69% year-on-year to 40,122 units during the 32-day festive period ending November 11, even as overall passenger vehicle retail sales fell 7.2%. Tata Motors and Mahindra together accounted for nearly 80% of EV sales, amid rising demand and supply constraints.",
+      "url": "https://economictimes.indiatimes.com/industry/renewables/evs-outpace-petrol-diesel-cars-with-69-festive-sales-surge-as-indias-car-market-shrinks/articleshow/135868988.cms",
+      "image": "https://img.etimg.com/thumb/msid-135869030,width-1200,height-900,imgsize-67788,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-16T01:00:00Z",
       "source": {
-        "name": "NDTV Profit"
+        "name": "The Economic Times"
       }
     }
   ]
