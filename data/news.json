@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-16T14:17:09+00:00",
+  "updated_at": "2026-11-17T01:17:34+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Oil prices fall as surplus fears return after a nine-month dry spell in the market",
-      "description": "Oil prices fell on Monday as concerns over a potential supply surplus weighed on the market, with shipments through the Strait of Hormuz recovering to",
-      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-fall-as-surplus-fears-return-after-a-nine-month-dry-spell-in-the-market/articleshow/135869709.cms",
-      "image": "https://static.toiimg.com/thumb/msid-135869892,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-16T02:15:00Z",
+      "title": "Surprise Checks at Alappuzha Petrol Pumps Over Ethanol Blending",
+      "description": "The inspection was led by the District Supply Officer at Alappie Petroleum, a Bharat Petroleum Corporation Ltd outlet in Alappuzha municipality, and Ambadi Fuels, an Indian Oil Corporation Ltd outlet in Thrikkunnapuzha panchayat",
+      "url": "https://www.deccanchronicle.com/southern-states/kerala/surprise-checks-at-alappuzha-petrol-pumps-over-ethanol-blending-2004906",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/10/2062132-petrol.jpg",
+      "publishedAt": "2026-11-16T12:45:16Z",
       "source": {
-        "name": "Times of India"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Petrol, diesel prices won't come down immediately, says Suresh Gopi; here's why",
-      "description": "Petrol, diesel prices: Suresh Gopi says immediate cuts are not possible due to Rs 42,000 crore in oil company losses and supply disruptions.",
-      "url": "https://www.moneycontrol.com/news/business/petrol-diesel-prices-won-t-come-down-immediately-says-suresh-gopi-here-s-why-14080726.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260602021338_perol-pump-bloomberg.jpg",
-      "publishedAt": "2026-11-16T02:14:58Z",
+      "title": "Michigan gas prices drop 36 cents in a week, reach lowest point since April, AAA says",
+      "description": "Michigan gas prices have dropped to their lowest point since April, AAA-The Auto Club Group says.",
+      "url": "https://www.cbsnews.com/detroit/news/michigan-gas-prices-reach-lowest-point-since-april/",
+      "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/09/28/6bf2ee20-3894-4b28-816f-927587a678c5/thumbnail/1200x630/d46edfdd5be7c8364e374b865f11aa2a/gettyimages-2268972383.jpg",
+      "publishedAt": "2026-11-16T12:42:42Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "CBS News"
       }
     },
     {
-      "title": "Petrol, diesel price cut not possible immediately, oil companies face Rs 42,000 crore losses: Union Minister Suresh Gopi",
-      "description": "Union Minister Suresh Gopi has ruled out an immediate reduction in petrol and diesel prices, citing Rs 42,000 crore in losses suffered by oil companies and disruptions in petroleum supplies amid the West Asia conflict. He said states could consider cutting fuel taxes, while the Centre was working to address supply-related challenges.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-price-cut-not-possible-immediately-oil-companies-face-rs-42000-crore-losses-union-minister-suresh-gopi/articleshow/135869833.cms",
-      "image": "https://img.etimg.com/thumb/msid-135869899,width-1200,height-900,imgsize-66614,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-16T02:13:00Z",
+      "title": "AA tips petrol prices to fall by 10p per litre this week",
+      "description": "Petrol and diesel drivers could be set for a nice surprise this week with fuel costs on the way down.",
+      "url": "https://www.express.co.uk/life-style/cars/2266574/petrol-diesel-fuel-prices-costs",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7235144.jpg",
+      "publishedAt": "2026-11-16T12:39:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Surprise checks at Alappuzha petrol pumps over ethanol blending",
+      "description": "Stay updated with ThePrint: Preferred Source Google Discover Thiruvananthapuram, Nov 16 (PTI) The Keralam Civil Supplies Department conducted surprise inspections at petrol pumps in Alappuzha district on Monday as part of its ongoing statewide drive to check whether the ethanol content in petrol was within the prescribed limit. The inspection was led by the District [\u2026]",
+      "url": "https://theprint.in/india/surprise-checks-at-alappuzha-petrol-pumps-over-ethanol-blending/3100184/",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2023/06/theprint_default_image_new.jpg",
+      "publishedAt": "2026-11-16T12:19:11Z",
+      "source": {
+        "name": "ThePrint"
+      }
+    },
+    {
+      "title": "Surprise checks at Alappuzha petrol pumps over ethanol blending",
+      "description": "Surprise checks at Alappuzha petrol pumps over ethanol blending",
+      "url": "https://www.news18.com/agency-feeds/surprise-checks-at-alappuzha-petrol-pumps-over-ethanol-blending-10427927.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+      "publishedAt": "2026-11-16T12:15:02Z",
+      "source": {
+        "name": "News18"
+      }
+    },
+    {
+      "title": "US stocks: Morgan Stanley turns bullish on global stocks, targets S&P 500 at 8,700",
+      "description": "Morgan Stanley has upgraded global equities to maximum overweight, citing favorable valuations for risk assets in the coming years. It projects an S&P 500 target of 8,700 for 2027, reflecting a significant increase from current levels. Earnings growth is anticipated to be the main driver for this expected rise, alongside stabilization in oil prices and interest rates.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/morgan-stanley-raises-global-equities-to-maximum-overweight-on-cheap-valuations-earnings-strength/articleshow/135888237.cms",
+      "image": "https://img.etimg.com/thumb/msid-135888277,width-1200,height-900,imgsize-48902,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-16T11:57:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
-      "description": "The Japanese economy contracted at an annualized rate of 0.1% last quarter, weighed down by slowing consumer spending and the rising cost of oil imports. Data released Monday by the Cabinet Office...",
-      "url": "https://www.sfgate.com/news/world/article/japan-s-economy-contracts-slightly-in-the-latest-22532597.php",
-      "image": "https://s.hdnux.com/photos/01/67/74/47/31443409/3/rawImage.jpg",
-      "publishedAt": "2026-11-16T02:12:03Z",
+      "title": "Petrol, Diesel Prices Cannot Be Cut Immediately, Says Suresh Gopi",
+      "description": "Union Minister Suresh Gopi says an immediate petrol and diesel price cut is not possible, citing Rs 42,000 crore in oil company losses and fuel supply disruptions",
+      "url": "https://www.deccanchronicle.com/business/economics/petrol-diesel-prices-cannot-be-cut-immediately-says-suresh-gopi-2004880",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/07/30/2070343-suresh.jpg",
+      "publishedAt": "2026-11-16T11:52:57Z",
       "source": {
-        "name": "SFGATE"
+        "name": "Deccan Chronicle"
       }
     },
     {
-      "title": "Japan's economy contracts slightly in the latest quarter as oil prices remain high",
-      "description": "The Japanese economy contracted at an annualized rate of 0.1% last quarter, weighed down by slowing consumer spending and the rising cost of oil imports.",
-      "url": "https://www.clickondetroit.com/business/2026/11/16/japans-economy-contracts-slightly-in-the-latest-quarter-as-oil-prices-remain-high/",
-      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/R4XRC35ZQBFZBAEBKXBVIETA4Y.jpg?api_key=clickondetroit_06f87fefb2123598",
-      "publishedAt": "2026-11-16T02:02:58Z",
+      "title": "Sitharaman Meets Agriculture, Rural Development Experts For Pre-Budget Consultations",
+      "description": "Earlier, a consultation with economists took place, with insights on India\u2019s economic resilience amidst factors like high crude oil prices and food inflation. Policymakers aim to balance economic activity and price stability in the upcoming months., Economy, Times Now",
+      "url": "https://www.timesnownews.com/business-economy/economy/sitharaman-meets-agriculture-rural-development-experts-for-pre-budget-consultations-article-156519073",
+      "image": "https://images.timesnownews.com/thumb/msid-156519084,thumbsize-357752,width-1280,height-720,resizemode-75/156519084.jpg",
+      "publishedAt": "2026-11-16T11:40:08Z",
+      "source": {
+        "name": "Times Now"
+      }
+    },
+    {
+      "title": "V Anantha Nageswaran: AI slowdown, cheaper oil may help India",
+      "description": "Chief Economic Advisor V Anantha Nageswaran highlights India's potential gains from a global correction in AI-linked equities and falling oil prices, attracting foreign investors.",
+      "url": "https://www.newsbytesapp.com/news/business/v-anantha-nageswaran-ai-slowdown-cheaper-oil-may-help-india/tldr",
+      "image": "https://i.cdn.newsbytesapp.com/images/l144_3081794828838.jpg",
+      "publishedAt": "2026-11-16T11:34:59Z",
+      "source": {
+        "name": "NewsBytes"
+      }
+    },
+    {
+      "title": "AAA: Gas Prices drop to lowest since April",
+      "description": "Gas prices in Michigan fell sharply, dropping 36 cents from last week to an average of $3.81 per gallon, the lowest statewide level since April and the first time below $4 since July, according to AAA.",
+      "url": "https://www.clickondetroit.com/news/local/2026/11/16/aaa-gas-prices-drop-to-lowest-since-april/",
+      "image": "https://bc.gmg.io/image/upload/c_thumb,q_auto,w_700,f_jpg/media/gmg/NI4AWNHNXZAWFPOUKJ64HNXJ5M.jpg?api_key=clickondetroit_06f87fefb2123598",
+      "publishedAt": "2026-11-16T11:31:31Z",
       "source": {
         "name": "WDIV ClickOnDetroit"
-      }
-    },
-    {
-      "title": "Oil prices fall on expectations of coming supply surplus",
-      "description": "Oil prices fell on Monday as market expectations shifted toward a supply surplus from the Middle East. Increased shipments through the Strait of Hormuz are restoring oil supply levels to pre-war rates. The International Energy Agency projected an oil supply surplus in the fourth quarter, surpassing demand. A decision to waive the Jones Act has also allowed greater flexibility in transporting oil between US ports.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-prices-fall-on-expectations-of-coming-supply-surplus/articleshow/135869595.cms",
-      "image": "https://img.etimg.com/thumb/msid-135869620,width-1200,height-900,imgsize-84762,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-16T01:54:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Oil prices fall on expectations of coming supply surplus",
-      "description": "PERTH, Nov 16 - Oil prices fell on Monday on expectations of a supply surplus as shipments from the Middle East through the Strait of Hormuz have been nearly restored to pre-war levels and the US took...",
-      "url": "https://www.marketscreener.com/news/oil-prices-fall-on-expectations-of-coming-supply-surplus-ce785ededf81f320",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-10/2026-10-30T022725Z_1_LYNXNPEM9T04R_RTROPTP_4_GLOBAL-OIL.JPG",
-      "publishedAt": "2026-11-16T01:50:11Z",
-      "source": {
-        "name": "MarketScreener"
-      }
-    },
-    {
-      "title": "Aussie shares waver as tech jitters, oil prices weigh",
-      "description": "Mining stocks continue to drag on the Australian stock market, as artificial intelligence uncertainty and rate fears put downward pressure on metals prices.",
-      "url": "https://www.perthnow.com.au/news/business/aussie-shares-waver-as-tech-jitters-oil-prices-weigh-c-23167184",
-      "image": "https://images.perthnow.com.au/publication/C-23167184/7486a57d169301d3deef97d537d0c66442ce5b10-16x9-x0y0w1280h720.jpg?imwidth=1200",
-      "publishedAt": "2026-11-16T01:43:16Z",
-      "source": {
-        "name": "PerthNow"
-      }
-    },
-    {
-      "title": "Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors That May Drive Sensex, Nifty 50 On November 16",
-      "description": "Asian markets traded lower after Japan's GDP contracted surprisingly, while the US stock market ended mixed on Friday, weighed down by technology stocks amid concerns over Nvidia.",
-      "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-oil-prices-to-fpi-inflows-five-key-factors-that-may-drive-sensex-nifty-50-on-november-16-12331455",
-      "image": "https://c.ndtvimg.com/2026-10/8tvj3ng_bse-_625x300_05_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-16T01:23:49Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "EVs outpace petrol, diesel cars with 69% festive sales surge as India's car market shrinks",
-      "description": "Electric car deliveries in India jumped 69% year-on-year to 40,122 units during the 32-day festive period ending November 11, even as overall passenger vehicle retail sales fell 7.2%. Tata Motors and Mahindra together accounted for nearly 80% of EV sales, amid rising demand and supply constraints.",
-      "url": "https://economictimes.indiatimes.com/industry/renewables/evs-outpace-petrol-diesel-cars-with-69-festive-sales-surge-as-indias-car-market-shrinks/articleshow/135868988.cms",
-      "image": "https://img.etimg.com/thumb/msid-135869030,width-1200,height-900,imgsize-67788,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-16T01:00:00Z",
-      "source": {
-        "name": "The Economic Times"
       }
     }
   ]
