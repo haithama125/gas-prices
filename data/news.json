@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-21T04:47:07+00:00",
+  "updated_at": "2026-11-21T13:53:22+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "DTC plans to tie up with Indian Oil to set up petrol pumps at its bus depots",
-      "description": "DTC plans to tie up with Indian Oil to set up petrol pumps at its bus depots",
-      "url": "https://www.news18.com/agency-feeds/dtc-plans-to-tie-up-with-indian-oil-to-set-up-petrol-pumps-at-its-bus-depots-10434659.html",
-      "image": "https://images.news18.com/ibnlive/uploads/2025/07/News18_Business_Section_Default_Image_1600x900-2025-07-454f4d093355309283e1b9f3be42698a-16x9.jpg",
-      "publishedAt": "2026-11-20T16:45:04Z",
+      "title": "Fuel prices steady across major Indian cities with regional variations",
+      "description": "Petrol in New Delhi is priced at \u20b9102.12 per litre, while in Mumbai, it costs \u20b9111.21 per litre. Bengaluru sees petrol prices at \u20b9110.44 per litre today.",
+      "url": "https://www.newsbytesapp.com/news/india/fuel-prices-steady-across-major-indian-cities-with-regional-variations/tldr",
+      "image": "https://i.cdn.newsbytesapp.com/images/l144_9591795225674.jpg",
+      "publishedAt": "2026-11-21T01:48:59Z",
       "source": {
-        "name": "News18"
+        "name": "NewsBytes"
       }
     },
     {
-      "title": "Where to find the cheapest gas in North Texas this weekend Nov. 20",
-      "description": "From Plano to Burleson, here are the lowest listed gas prices at stations in Collin, Dallas, Denton and Tarrant counties.",
-      "url": "https://www.dallasnews.com/news/traffic/article/find-cheapest-gas-north-texas-weekend-nov-20-22-22541657.php",
-      "image": "https://s.hdnux.com/photos/01/67/77/54/31456059/3/rawImage.jpg",
-      "publishedAt": "2026-11-20T16:21:21Z",
+      "title": "Bangladesh minister house targeted in petrol bomb attack",
+      "description": "A petrol bomb was hurled at the Sylhet home of Bangladesh state minister for foreign affairs Humaiun Kobir early Friday.",
+      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-minister-house-targeted-in-petrol-bomb-attack/articleshow/136042669.cms",
+      "image": "https://static.toiimg.com/thumb/msid-136042689,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-21T01:40:00Z",
       "source": {
-        "name": "The Dallas Morning News"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Why petrol and diesel prices stayed stable in India despite global oil shock amid Iran war, Hardeep Puri explains",
-      "description": "India avoided a sharp petrol and diesel price hike despite global fuel prices rising 50-60% amid geopolitical tensions. Petroleum Minister Hardeep Singh Puri attributed this to three excise duty cuts, including a \u20b910-per-litre reduction in March 2026.",
-      "url": "https://www.livemint.com/news/india/why-petrol-and-diesel-prices-stayed-stable-in-india-despite-global-oil-shock-amid-iran-war-hardeep-puri-explains-11795189754787.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/20/1600x900/logo/imagepuridiesel_1790314986232_HCt0_1790315025178_12Ci_af62d58f-fe15-4bbd-9ebf-f8e4d510408f_vOJO_1795190257858_3WAI_d3de8ebf-0987-4e25-bbc5-8448b29e7f10_maFp.png",
-      "publishedAt": "2026-11-20T16:14:54Z",
+      "title": "Petrol and diesel prices today, November 21: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
+      "description": "Centre has shielded Indian consumers from the full impact of international fuel price volatility, Union Petroleum Minister said.",
+      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-21-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11795222929259.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/INDIA-DIESEL-SALES-0_1795223967866_ohB7_1795223980182_p1fM_fac2c5ac-755f-4f1a-822a-a4f6e71f6c65_ToYu.JPG",
+      "publishedAt": "2026-11-21T01:28:08Z",
       "source": {
         "name": "Livemint"
       }
     },
     {
-      "title": "Diesel, gasoline prices down for 3rd straight week",
-      "description": "DIESEL and gasoline prices are expected to fall again, as global oil prices were influenced by a weaker demand outlook despite continued tensions in the Middle East, local oil industry sources said on Friday.",
-      "url": "https://www.manilatimes.net/2026/11/21/news/national/diesel-gasoline-prices-down-for-3rd-straight-week/2475008",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/20/1318523.jpeg",
-      "publishedAt": "2026-11-20T16:11:00Z",
+      "title": "AAA: Gas Prices Continue Dropping, Demand Increasing",
+      "description": "Gas prices have dropped by 18 cents in the past week and are expected to continue doing so, AAA reported in its weekly update to motorists.",
+      "url": "https://www.breitbart.com/economy/2026/11/20/aaa-gas-prices-continue-dropping-demand-increasing/",
+      "image": "https://media.breitbart.com/media/2026/11/GettyImages959648268-640x335.jpg",
+      "publishedAt": "2026-11-21T00:56:11Z",
       "source": {
-        "name": "The Manila Times"
+        "name": "Breitbart News Network"
       }
     },
     {
-      "title": "Christmas on a budget: Northlanders share ways to save on food and gifts",
-      "description": "Christmas can be expensive at the best of times. But with petrol, grocery and electricity prices at all-time highs, household budgets are already stretched...",
-      "url": "https://www.nzherald.co.nz/lifestyle/christmas-on-a-budget-northlanders-share-ways-to-save-on-food-and-gifts/6M44U6NF25AEZKKEELYSU5UMBM/",
-      "image": "https://www.nzherald.co.nz/resizer/v2/63XGDDRDYVC3RAS4K4AQCJRVTI.JPG?auth=6aa308082a421568faae53a67d7bbb1a9beab8acc08aee3cf4f13f97362d9f6e&width=1200&height=675&quality=70&focal=2258%2C1577&smart=false",
-      "publishedAt": "2026-11-20T16:00:00Z",
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "description": "Global oil markets are heading toward a supply surplus as Middle Eastern production recovers, but geopolitical tensions, conflicting demand forecasts, and European gas shortages continue to support prices.",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_4lj1w8vw2i.jpg",
+      "publishedAt": "2026-11-21T00:00:00Z",
       "source": {
-        "name": "The New Zealand Herald"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Trump, Putin, Xi pledge to increase global petrol supplies \u2013 but how?",
-      "description": "The United States, China and Russia have pledged to increase petrol supplies as the wars in Iran \u2013 started by Israel and the US \u2013 and Ukraine \u2013 started by",
-      "url": "https://www.europesays.com/3388649/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1795189763.jpeg",
-      "publishedAt": "2026-11-20T15:49:21Z",
+      "title": "Explainer: How E20 norms have hit Punjab\u2019s used",
+      "description": "The nationwide mandatory rollout of E20 petrol has taken a toll on Punjab\u2019s used-car market, with dealers reporting a sharp decline in demand for petrol-powered vehicles. Buyers are increasingly turning towards diesel, CNG and electric alternatives.",
+      "url": "https://www.tribuneindia.com/news/explainers/explainer-how-e20-norms-have-hit-punjabs-used-car-market/",
+      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTlhMzY3MjkwLWU1MmItMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+      "publishedAt": "2026-11-20T21:44:44Z",
+      "source": {
+        "name": "The Tribune"
+      }
+    },
+    {
+      "title": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer",
+      "description": "Oil prices are heading for a third straight weekly decline as recovering Gulf supplies continue to overshadow the rising risk of new US strikes on Iran. Brent",
+      "url": "https://www.europesays.com/3388925/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1795199710.jpeg",
+      "publishedAt": "2026-11-20T18:35:08Z",
       "source": {
         "name": "EUROPE SAYS"
       }
     },
     {
-      "title": "White supremacist convicted at Newcastle Crown Court over migrant hotel firebomb plot",
-      "description": "Mikka Anderson, 24, tried to recruit a person to his plan, telling him he would fire petrol bombs at a hotel, which had been the scene of previous protests",
-      "url": "https://www.chroniclelive.co.uk/news/north-east-news/white-supremacist-convicted-newcastle-crown-34943560",
-      "image": "https://i2-prod.chroniclelive.co.uk/article34943795.ece/ALTERNATES/s1200d/1_cops.jpg",
-      "publishedAt": "2026-11-20T15:42:03Z",
+      "title": "Pakistan reduces petrol price by Rs1, raises diesel rate by Rs2 per litre",
+      "description": "The federal government has announced a mixed adjustment in petroleum prices, reducing petrol by Rs1 per litre while increasing high-speed diesel (HSD) by Rs2 amid",
+      "url": "https://www.nation.com.pk/20-Nov-2026/pakistan-reduces-petrol-price-rs1-raises-diesel-rate-rs2-per-litre",
+      "image": "https://www.nation.com.pk/digital_images/large/2026-11-20/pakistan-reduces-petrol-price-rs1-raises-diesel-rate-rs2-per-litre-1795198185-9359.jpg",
+      "publishedAt": "2026-11-20T18:11:43Z",
       "source": {
-        "name": "Evening Chronicle"
+        "name": "The Nation"
       }
     },
     {
-      "title": "UK man convicted of plotting petrol bomb attack on asylum seeker hotel",
-      "description": "A British man prosecutors said was motivated by extreme rightwing ideology was convicted on Friday of planning a terrorist attack with petrol bombs on a hotel housing asylum seekers.",
-      "url": "https://www.firstpost.com/world/uk-man-convicted-of-plotting-petrol-bomb-attack-on-asylum-seeker-hotel-14061614.html",
-      "image": "https://images.firstpost.com/uploads/2026/11/File-image-34-2026-11-956669fa89973ce9744f7d321fc553d0-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-20T15:36:32Z",
+      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
+      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday,",
+      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_dslodqtqi3.jpg",
+      "publishedAt": "2026-11-20T18:09:09Z",
       "source": {
-        "name": "Firstpost"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "UK man convicted of planning petrol bomb attack on migrant hotel",
-      "description": "LONDON, Nov 20 - A British man prosecutors said was motivated by extreme right-wing ideology was convicted on Friday of planning a terrorist attack with petrol bombs on a hotel housing asylum seekers. Read more at straitstimes.com.",
-      "url": "https://www.straitstimes.com/world/europe/uk-man-convicted-of-planning-petrol-bomb-attack-on-migrant-hotel",
-      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/4e77bf2f50f582021268b732c0c75bc468d09bd4549f5672fd2ca6140ad0dada?t=og",
-      "publishedAt": "2026-11-20T15:25:18Z",
+      "title": "Gas Prices Dropped To A Several-Month Low. They Have Been Dropping Every Day For Nearly Four Weeks.",
+      "description": "The U.S. national average gas price has fallen to $3.69 per gallon, its lowest level since mid-March. Hopes for peace in the Middle East and weaker seasonal demand are likely responsible.",
+      "url": "https://www.ibtimes.com/us-gas-prices-lowest-since-march-thanksgiving-3810030",
+      "image": "https://d.ibtimes.com/en/full/4654711/us-gas-prices-have-started-falling-dramatically.jpg",
+      "publishedAt": "2026-11-20T17:38:22Z",
       "source": {
-        "name": "The Straits Times"
-      }
-    },
-    {
-      "title": "Canadian gas prices are decreasing. An expert explains why.",
-      "description": "As of Friday morning, the Canadian Automobile Association recorded the national average for gas prices at 144.4 cents per litre, almost 30 cents lower from late October.",
-      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/20/the-iran-war-is-still-going-on-so-why-have-gas-prices-fallen/",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/RID3X4GCQRDFJOP3SJCWW4Q7RI.jpg?smart=true&auth=b84db54f712499a2662e3793aa147d6e14d63a4b237814484544cc29213b6b7e&width=1200&height=630",
-      "publishedAt": "2026-11-20T15:02:47Z",
-      "source": {
-        "name": "Bnn Bloomberg"
+        "name": "International Business Times"
       }
     }
   ]
