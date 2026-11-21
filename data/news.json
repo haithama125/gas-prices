@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-21T13:53:22+00:00",
+  "updated_at": "2026-11-21T22:34:53+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Fuel prices steady across major Indian cities with regional variations",
-      "description": "Petrol in New Delhi is priced at \u20b9102.12 per litre, while in Mumbai, it costs \u20b9111.21 per litre. Bengaluru sees petrol prices at \u20b9110.44 per litre today.",
-      "url": "https://www.newsbytesapp.com/news/india/fuel-prices-steady-across-major-indian-cities-with-regional-variations/tldr",
-      "image": "https://i.cdn.newsbytesapp.com/images/l144_9591795225674.jpg",
-      "publishedAt": "2026-11-21T01:48:59Z",
+      "title": "Shoppers can get 8p a litre off fuel at over 600 supermarket petrol stations",
+      "description": "SHOPPERS can save 8p a litre on fuel at hundreds of petrol stations across the UK, just in time for the festive season.\nThe deal will be...",
+      "url": "https://www.thesun.co.uk/money/41090360/shoppers-get-fuel-discount-supermarkets/",
+      "image": "https://www.thesun.co.uk/wp-content/uploads/2026/10/crop-39944931.jpg?quality=90&strip=all&w=1920&h=1080&crop=1",
+      "publishedAt": "2026-11-21T10:11:03Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "The Sun"
       }
     },
     {
-      "title": "Bangladesh minister house targeted in petrol bomb attack",
-      "description": "A petrol bomb was hurled at the Sylhet home of Bangladesh state minister for foreign affairs Humaiun Kobir early Friday.",
-      "url": "https://timesofindia.indiatimes.com/world/south-asia/bangladesh-minister-house-targeted-in-petrol-bomb-attack/articleshow/136042669.cms",
-      "image": "https://static.toiimg.com/thumb/msid-136042689,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-21T01:40:00Z",
+      "title": "Power cuts are coming",
+      "description": "How long could you last without power? No devices, stranded trains, petrol pumps not working, fridges and freezers out, ATMs down?",
+      "url": "https://www.washingtonexaminer.com/opinion/columnists/4810516/power-cuts-are-coming-doomsday-prepping-americans-uk/",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/iStock-1703449736-e1795207821559.jpg?resize=1200,683",
+      "publishedAt": "2026-11-21T10:00:00Z",
       "source": {
-        "name": "Times of India"
+        "name": "Washington Examiner"
       }
     },
     {
-      "title": "Petrol and diesel prices today, November 21: How much does fuel cost in Delhi, Mumbai, Bengaluru?",
-      "description": "Centre has shielded Indian consumers from the full impact of international fuel price volatility, Union Petroleum Minister said.",
-      "url": "https://www.livemint.com/news/india/petrol-and-diesel-prices-today-november-21-how-much-does-fuel-cost-in-delhi-mumbai-bengaluru-11795222929259.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/21/1600x900/logo/INDIA-DIESEL-SALES-0_1795223967866_ohB7_1795223980182_p1fM_fac2c5ac-755f-4f1a-822a-a4f6e71f6c65_ToYu.JPG",
-      "publishedAt": "2026-11-21T01:28:08Z",
+      "title": "Bangladesh Minister vows action against those behind arson, blames Awami League",
+      "description": "DHAKA, Nov 21: \u00a0Bangladesh will take firm legal action against those behind recent arson and petrol bomb attacks, State Minister for Foreign Affairs Humaiun Kobir has said, blaming groups linked to the banned Awami League for the violence amid escalating...",
+      "url": "https://www.dailyexcelsior.com/bangladesh-minister-vows-action-against-those-behind-arson-blames-awami-league-linked-groups-reports/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWEyMDU3MDAwLWU1OTEtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+      "publishedAt": "2026-11-21T09:55:06Z",
       "source": {
-        "name": "Livemint"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "AAA: Gas Prices Continue Dropping, Demand Increasing",
-      "description": "Gas prices have dropped by 18 cents in the past week and are expected to continue doing so, AAA reported in its weekly update to motorists.",
-      "url": "https://www.breitbart.com/economy/2026/11/20/aaa-gas-prices-continue-dropping-demand-increasing/",
-      "image": "https://media.breitbart.com/media/2026/11/GettyImages959648268-640x335.jpg",
-      "publishedAt": "2026-11-21T00:56:11Z",
+      "title": "Indias Getting EV-Ready: EV Doctor Now Available for Petrol Garages",
+      "description": "Indias Getting EV-Ready: EV Doctor Now Available for Petrol Garages",
+      "url": "https://www.news18.com/agency-feeds/indias-getting-ev-ready-ev-doctor-now-available-for-petrol-garages-10435353.html",
+      "image": "https://images.news18.com/ibnlive/uploads/2025/05/News18_India_Section_Default_Image_1600x900-2025-05-b4faf46d67a95708181b01e36cf20c4b.jpg",
+      "publishedAt": "2026-11-21T09:30:04Z",
       "source": {
-        "name": "Breitbart News Network"
+        "name": "News18"
       }
     },
     {
-      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
-      "description": "Global oil markets are heading toward a supply surplus as Middle Eastern production recovers, but geopolitical tensions, conflicting demand forecasts, and European gas shortages continue to support prices.",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_4lj1w8vw2i.jpg",
-      "publishedAt": "2026-11-21T00:00:00Z",
+      "title": "EV Doctor Now Available for Petrol Garages",
+      "description": "New Delhi [India], November 21: As electric two-wheelers become increasingly common on Indian roads, a new shift is taking place in the country's automotive service industry. Local garages that have traditionally repaired petrol scooters and motorcycles are beginning to prepare for electric vehicles.",
+      "url": "https://www.aninews.in/news/business/india8217s-getting-ev-ready-ev-doctor-now-available-for-petrol-garages20261121144416/",
+      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261121091349-thumbnail-320x180-70.jpg",
+      "publishedAt": "2026-11-21T09:14:16Z",
       "source": {
-        "name": "OilPrice"
+        "name": "ANI (Asian News International)"
       }
     },
     {
-      "title": "Explainer: How E20 norms have hit Punjab\u2019s used",
-      "description": "The nationwide mandatory rollout of E20 petrol has taken a toll on Punjab\u2019s used-car market, with dealers reporting a sharp decline in demand for petrol-powered vehicles. Buyers are increasingly turning towards diesel, CNG and electric alternatives.",
-      "url": "https://www.tribuneindia.com/news/explainers/explainer-how-e20-norms-have-hit-punjabs-used-car-market/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTlhMzY3MjkwLWU1MmItMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
-      "publishedAt": "2026-11-20T21:44:44Z",
+      "title": "EV Doctor: Petrol Garages Now Geared Up for Electric Vehicles",
+      "description": "EV Doctor: Petrol Garages Now Geared Up for Electric Vehicles - New Delhi: India's automotive service landscape is undergoing a significant transformation. As electric two-wheelers become a common sight, traditional ... Get Latest News on Business only on lokmattimes.com",
+      "url": "https://www.lokmattimes.com/business/ev-doctor-petrol-garages-now-geared-up-for-electric-vehicles-a001-w01/",
+      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261121091349_202611.jpg",
+      "publishedAt": "2026-11-21T09:14:16Z",
       "source": {
-        "name": "The Tribune"
+        "name": "Lokmat Times"
       }
     },
     {
-      "title": "Oil heads for third weekly loss as Iran tests US blockade with crude transfer",
-      "description": "Oil prices are heading for a third straight weekly decline as recovering Gulf supplies continue to overshadow the rising risk of new US strikes on Iran. Brent",
-      "url": "https://www.europesays.com/3388925/",
-      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1795199710.jpeg",
-      "publishedAt": "2026-11-20T18:35:08Z",
+      "title": "No terrorist can be brought back from Delhi by petrol bombs Bangladesh minister on Hasina return - Telegraph India",
+      "description": "The issue of ousted Bangladesh prime minister Sheikh Hasina's return has emerged as a major source of tension between Dhaka and Delhi, with the latest wave of unrest in Bangladesh following the government's rejection of her request for a fresh passport and national identity card earlier this month",
+      "url": "https://www.telegraphindia.com/world/no-terrorist-can-be-brought-back-from-delhi-by-petrol-bombs-bangladesh-minister-on-hasina-return/cid/2190601",
+      "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/21/1795249735_new-project-2026-11-21t135735-194.jpg",
+      "publishedAt": "2026-11-21T08:50:31Z",
       "source": {
-        "name": "EUROPE SAYS"
+        "name": "Telegraph India"
       }
     },
     {
-      "title": "Pakistan reduces petrol price by Rs1, raises diesel rate by Rs2 per litre",
-      "description": "The federal government has announced a mixed adjustment in petroleum prices, reducing petrol by Rs1 per litre while increasing high-speed diesel (HSD) by Rs2 amid",
-      "url": "https://www.nation.com.pk/20-Nov-2026/pakistan-reduces-petrol-price-rs1-raises-diesel-rate-rs2-per-litre",
-      "image": "https://www.nation.com.pk/digital_images/large/2026-11-20/pakistan-reduces-petrol-price-rs1-raises-diesel-rate-rs2-per-litre-1795198185-9359.jpg",
-      "publishedAt": "2026-11-20T18:11:43Z",
+      "title": "Bangladesh minister vows legal action over arson, petrol bomb attacks, blames Awami League-linked groups",
+      "description": "At least four people lost their lives in separate incidents earlier this week, including three leaders of the ruling BNP and organisations affiliated with it.",
+      "url": "https://www.moneycontrol.com/world/bangladesh-minister-vows-legal-action-over-arson-petrol-bomb-attacks-blames-awami-league-linked-groups-article-14086107.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261120133407_bangla-fire.jpg",
+      "publishedAt": "2026-11-21T08:21:03Z",
       "source": {
-        "name": "The Nation"
+        "name": "Moneycontrol"
       }
     },
     {
-      "title": "U.S. Oil Drillers Pick Up the Pace Just as Oil Prices Fall",
-      "description": "The total number of active drilling rigs for oil and gas in the United States rose this week, according to new data that Baker Hughes published on Friday,",
-      "url": "https://oilprice.com/Energy/Energy-General/US-Oil-Drillers-Pick-Up-the-Pace-Just-as-Oil-Prices-Fall.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-20_dslodqtqi3.jpg",
-      "publishedAt": "2026-11-20T18:09:09Z",
+      "title": "Crude oil prices to fall to $70 by 2027? Why global oil market may see a major surplus",
+      "description": "Global crude oil prices may drop to around $70 per barrel by 2027 due to rising non-OPEC+ supplies and weaker demand in China, with near-term volatility expected amid supply improvements and tight diesel margins.",
+      "url": "https://www.financialexpress.com/world-news/crude-oil-prices-to-fall-to-70-by-2027-why-global-oil-market-may-see-a-major-surplus/4390408/",
+      "image": "https://images.financialexpressdigital.com/2026/10/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260729155540_20260819194920_20260929105350_20261012113428_20261028100231.jpg",
+      "publishedAt": "2026-11-21T06:04:20Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Gas Prices Dropped To A Several-Month Low. They Have Been Dropping Every Day For Nearly Four Weeks.",
-      "description": "The U.S. national average gas price has fallen to $3.69 per gallon, its lowest level since mid-March. Hopes for peace in the Middle East and weaker seasonal demand are likely responsible.",
-      "url": "https://www.ibtimes.com/us-gas-prices-lowest-since-march-thanksgiving-3810030",
-      "image": "https://d.ibtimes.com/en/full/4654711/us-gas-prices-have-started-falling-dramatically.jpg",
-      "publishedAt": "2026-11-20T17:38:22Z",
+      "title": "Healey\u2019s \u00a3100 energy handout \u2018will last households just 11 days\u2019",
+      "description": "Millions of families face a \u2018brutal winter\u2019 as gas prices continue to soar",
+      "url": "https://www.telegraph.co.uk/business/2026/11/21/households-use-healey-100-energy-handout-in-11-days/",
+      "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/20/TELEMMGLPICT000509353823_17951894680250_trans_NvBQzQNjv4BqD3d2dmOlWYuQkR76XZjLQF5NUcTKNHKqy85KLqtvPLE.jpeg?impolicy=OG-Standard",
+      "publishedAt": "2026-11-21T06:00:00Z",
       "source": {
-        "name": "International Business Times"
+        "name": "The Telegraph"
       }
     }
   ]
