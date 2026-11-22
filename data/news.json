@@ -1,9 +1,69 @@
 {
-  "updated_at": "2026-11-21T22:34:53+00:00",
+  "updated_at": "2026-11-22T04:01:37+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
+    {
+      "title": "AA issues welcome update for petrol drivers filling up cars in coming days",
+      "description": "Average petrol prices were down 9.5 pence per litre (ppl) from the 174.7p peak in the first week of October to 165.2p at the start of this week.",
+      "url": "https://www.birminghammail.co.uk/motoring/motoring-news/aa-issues-welcome-update-petrol-34918473",
+      "image": "https://i2-prod.birminghammail.co.uk/article34918500.ece/ALTERNATES/s1200d/0_petrol.jpg",
+      "publishedAt": "2026-11-21T12:56:19Z",
+      "source": {
+        "name": "Birmingham Live"
+      }
+    },
+    {
+      "title": "Black Swans in the foreign exchange market: why the ruble feels confident \u00b7 EIA",
+      "description": "From a record $147.5 a barrel in 2008 to the current $110, global oil prices are back in the spotlight. How this and other geopolitical factors affect the",
+      "url": "https://www.europesays.com/3390687/",
+      "image": "https://www.europesays.com/wp-content/uploads/2026/11/1795265116.jpeg",
+      "publishedAt": "2026-11-21T12:45:14Z",
+      "source": {
+        "name": "EUROPE SAYS"
+      }
+    },
+    {
+      "title": "HMRC new petrol and diesel rates from December 1 - full list",
+      "description": "HMRC has published new petrol and diesel advisory fuel rates with up to a 3p update coming from the start of December.",
+      "url": "https://www.express.co.uk/life-style/cars/2267881/petrol-diesel-advisory-fuel-rates-december",
+      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7241943.jpg",
+      "publishedAt": "2026-11-21T11:13:00Z",
+      "source": {
+        "name": "Daily Express"
+      }
+    },
+    {
+      "title": "Good morning, North Bay! Here's today's weather!",
+      "description": "Here's a look at the current local weather and gas prices",
+      "url": "https://www.baytoday.ca/good-morning/good-morning-north-bay-heres-todays-weather-13032009",
+      "image": "https://www.vmcdn.ca/f/files/shared/good-morning/north-bay/2026-11-17goodmorningnorthbaybct-5-misty-clear-lake-cobalt-sue-n.jpeg;w=1200;h=800;mode=crop",
+      "publishedAt": "2026-11-21T11:00:00Z",
+      "source": {
+        "name": "BayToday"
+      }
+    },
+    {
+      "title": "GoFundMe CEO sees \u2018new era of desperation\u2019 after 40% spike in essentials fundraisers",
+      "description": "\u201cThe costs of regular things\u2014food, rent, gas prices, obviously, particularly this year, and not just here but elsewhere in the world\u2014have gone up,\u201d Tim Cadogan told Fortune.",
+      "url": "https://fortune.com/2026/11/21/gofundme-fundraisers-for-groceries-essentials-increased-40-percent-american-affordability-crisis/",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/11/GettyImages-1715991736-e1795213654503.jpg?resize=1200,600",
+      "publishedAt": "2026-11-21T11:00:00Z",
+      "source": {
+        "name": "Fortune"
+      }
+    },
+    {
+      "title": "Oil Prices Are Plunging Despite Fresh Attacks in the Strait of Hormuz - Here\u2019s Why",
+      "description": "Oil prices slide as supply surplus, weaker demand and alternate routes outweigh Hormuz attacks; read why Iran\u2019s leverage may be fading.",
+      "url": "https://www.financialexpress.com/business/news/oil-prices-are-plunging-despite-fresh-attacks-in-the-strait-of-hormuz-heres-why/4390571/",
+      "image": "https://images.financialexpressdigital.com/2026/11/hormuz.jpg",
+      "publishedAt": "2026-11-21T10:53:37Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
     {
       "title": "Shoppers can get 8p a litre off fuel at over 600 supermarket petrol stations",
       "description": "SHOPPERS can save 8p a litre on fuel at hundreds of petrol stations across the UK, just in time for the festive season.\nThe deal will be...",
@@ -42,66 +102,6 @@
       "publishedAt": "2026-11-21T09:30:04Z",
       "source": {
         "name": "News18"
-      }
-    },
-    {
-      "title": "EV Doctor Now Available for Petrol Garages",
-      "description": "New Delhi [India], November 21: As electric two-wheelers become increasingly common on Indian roads, a new shift is taking place in the country's automotive service industry. Local garages that have traditionally repaired petrol scooters and motorcycles are beginning to prepare for electric vehicles.",
-      "url": "https://www.aninews.in/news/business/india8217s-getting-ev-ready-ev-doctor-now-available-for-petrol-garages20261121144416/",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20261121091349-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-11-21T09:14:16Z",
-      "source": {
-        "name": "ANI (Asian News International)"
-      }
-    },
-    {
-      "title": "EV Doctor: Petrol Garages Now Geared Up for Electric Vehicles",
-      "description": "EV Doctor: Petrol Garages Now Geared Up for Electric Vehicles - New Delhi: India's automotive service landscape is undergoing a significant transformation. As electric two-wheelers become a common sight, traditional ... Get Latest News on Business only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/business/ev-doctor-petrol-garages-now-geared-up-for-electric-vehicles-a001-w01/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/ANI-20261121091349_202611.jpg",
-      "publishedAt": "2026-11-21T09:14:16Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "No terrorist can be brought back from Delhi by petrol bombs Bangladesh minister on Hasina return - Telegraph India",
-      "description": "The issue of ousted Bangladesh prime minister Sheikh Hasina's return has emerged as a major source of tension between Dhaka and Delhi, with the latest wave of unrest in Bangladesh following the government's rejection of her request for a fresh passport and national identity card earlier this month",
-      "url": "https://www.telegraphindia.com/world/no-terrorist-can-be-brought-back-from-delhi-by-petrol-bombs-bangladesh-minister-on-hasina-return/cid/2190601",
-      "image": "https://assets.telegraphindia.com/telegraph/2026/Nov/21/1795249735_new-project-2026-11-21t135735-194.jpg",
-      "publishedAt": "2026-11-21T08:50:31Z",
-      "source": {
-        "name": "Telegraph India"
-      }
-    },
-    {
-      "title": "Bangladesh minister vows legal action over arson, petrol bomb attacks, blames Awami League-linked groups",
-      "description": "At least four people lost their lives in separate incidents earlier this week, including three leaders of the ruling BNP and organisations affiliated with it.",
-      "url": "https://www.moneycontrol.com/world/bangladesh-minister-vows-legal-action-over-arson-petrol-bomb-attacks-blames-awami-league-linked-groups-article-14086107.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261120133407_bangla-fire.jpg",
-      "publishedAt": "2026-11-21T08:21:03Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Crude oil prices to fall to $70 by 2027? Why global oil market may see a major surplus",
-      "description": "Global crude oil prices may drop to around $70 per barrel by 2027 due to rising non-OPEC+ supplies and weaker demand in China, with near-term volatility expected amid supply improvements and tight diesel margins.",
-      "url": "https://www.financialexpress.com/world-news/crude-oil-prices-to-fall-to-70-by-2027-why-global-oil-market-may-see-a-major-surplus/4390408/",
-      "image": "https://images.financialexpressdigital.com/2026/10/oil_20260530172734_20260615042253_20260616100508_20260622164014_20260702123228_20260708104054_20260723145901_20260729155540_20260819194920_20260929105350_20261012113428_20261028100231.jpg",
-      "publishedAt": "2026-11-21T06:04:20Z",
-      "source": {
-        "name": "The Financial Express"
-      }
-    },
-    {
-      "title": "Healey\u2019s \u00a3100 energy handout \u2018will last households just 11 days\u2019",
-      "description": "Millions of families face a \u2018brutal winter\u2019 as gas prices continue to soar",
-      "url": "https://www.telegraph.co.uk/business/2026/11/21/households-use-healey-100-energy-handout-in-11-days/",
-      "image": "https://www.telegraph.co.uk/content/dam/business/2026/11/20/TELEMMGLPICT000509353823_17951894680250_trans_NvBQzQNjv4BqD3d2dmOlWYuQkR76XZjLQF5NUcTKNHKqy85KLqtvPLE.jpeg?impolicy=OG-Standard",
-      "publishedAt": "2026-11-21T06:00:00Z",
-      "source": {
-        "name": "The Telegraph"
       }
     }
   ]
