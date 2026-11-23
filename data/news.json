@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-23T04:44:17+00:00",
+  "updated_at": "2026-11-23T16:49:51+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "US gas prices fall to $3.66 ahead of Thanksgiving as oil refineries shift focus to diesel production",
-      "description": "US gas prices fall to $3.66 per gallon before Thanksgiving as refiners shift towards diesel production amid strong profits and changing fuel demand.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/us-gas-prices-fall-to-3-66-ahead-of-thanksgiving-as-oil-refineries-shift-focus-to-diesel-production-101795363828359.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/22/1600x900/logo/pexels-photo-4173096_1790001366045_2OPn_1790001386_1795365134916_evpd_1795365135010_FFi2_3f77d9d9-34da-447f-aaed-9d41e10c3187_YCVF.jpeg",
-      "publishedAt": "2026-11-22T16:35:20Z",
+      "title": "Sensex Turns Negative After Crossing 84,400 As Metal, Banking Stocks Drag Markets Lower",
+      "description": "Indian equity benchmarks opened higher on Monday, supported by sustained foreign institutional investment and easing crude oil prices. The Sensex crossed 84,400, while the Nifty approached 26,000. However, both the indices soon slipped into red as sell-off in metal and banking stocks weighed on the positive sentiment",
+      "url": "https://www.freepressjournal.in/business/sensex-turns-negative-after-crossing-84400-as-metal-banking-stocks-drag-markets-lower",
+      "image": "https://media.assettype.com/freepressjournal/2022-11/fd7a9e98-faae-4b7a-a015-d39474c97222/stock_market_1_sixteen_nine.jpg",
+      "publishedAt": "2026-11-23T04:45:47Z",
       "source": {
-        "name": "Hindustan Times"
+        "name": "Free Press Journal"
       }
     },
     {
-      "title": "Petrol drivers hit with 17p per mile HMRC charges from December",
-      "description": "New HMRC mileage rates will kick in from December 1.",
-      "url": "https://www.express.co.uk/life-style/cars/2268333/petrol-drivers-hit-17p-mile",
-      "image": "https://cdn.images.express.co.uk/img/dynamic/24/1200x630/7244358.jpg",
-      "publishedAt": "2026-11-22T15:38:00Z",
-      "source": {
-        "name": "Daily Express"
-      }
-    },
-    {
-      "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-      "description": "By Billy Stockwell and Farida Elsebai, CNN (CNN) \u2014 Reported attacks on shipping in and around the Strait of Hormuz are at the highest levels since the Iran war began, maritime data shows, as Tehran seeks to re-exert its control over the critical waterway amid falling oil prices. In October, the number of attacks reported",
-      "url": "https://abc17news.com/news/national-world/cnn-world/2026/11/22/iranian-attacks-in-the-strait-of-hormuz-are-at-the-highest-levels-since-the-conflict-began/",
-      "image": "https://abc17news.b-cdn.net/abc17news.com/2026/05/ABC-17-News-website-default-image-1280x720-1-860x484.png",
-      "publishedAt": "2026-11-22T15:13:28Z",
-      "source": {
-        "name": "ABC17News.com"
-      }
-    },
-    {
-      "title": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
-      "description": "Reported attacks on shipping in and around the Strait of Hormuz are at the highest levels since the Iran war began, maritime data shows, as Tehran seeks to re-exert its control over the critical waterway amid falling oil prices.",
-      "url": "https://edition.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/ap26324612330274.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2026-11-22T15:13:28Z",
-      "source": {
-        "name": "Cable News Network"
-      }
-    },
-    {
-      "title": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50",
-      "description": "India's Fuel Prices Rose Only 7% While Global Rates Soared 50-70%: Hardeep Puri - Indore, November 22: Union Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that petrol and diesel ... Get Latest News on National only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/national/indias-fuel-prices-rose-only-7-while-global-rates-soared-50-70-hardeep-puri-a001-w02/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260603541F_202611.jpg",
-      "publishedAt": "2026-11-22T14:49:03Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "India's Fuel Prices Rose Only 7% While Global Rates Skyrocketed by 50",
-      "description": "India's Fuel Prices Rose Only 7% While Global Rates Skyrocketed by 50-70%: Hardeep Puri - Petroleum and Natural Gas Minister Hardeep Singh Puri stated on Sunday that India managed to keep petrol and diesel ... Get Latest News on International only on lokmattimes.com",
-      "url": "https://www.lokmattimes.com/international/indias-fuel-prices-rose-only-7-while-global-rates-skyrocketed-by-50-70-hardeep-puri-a001-w02/",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/1200x900/20260603541F_202611.jpg",
-      "publishedAt": "2026-11-22T14:49:03Z",
-      "source": {
-        "name": "Lokmat Times"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices rose only 7% in India in 4 years against 50",
-      "description": "Union Petroleum and Natural Gas Minister Hardeep Singh Puri on Sunday said petrol and diesel prices in India had risen by just 7 per cent over a four-year period, compared with increases of 50-70 per cent in several other parts of the world.",
-      "url": "https://www.tribuneindia.com/news/business/petrol-diesel-prices-rose-only-7-in-india-in-4-years-against-50-70-global-surge-puri/",
-      "image": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYWY3OTBiOTcwLWU2ODItMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
-      "publishedAt": "2026-11-22T14:42:35Z",
-      "source": {
-        "name": "The Tribune"
-      }
-    },
-    {
-      "title": "Petrol, Diesel Prices Rose Just 7% in India Over Four Years Against 50-70% Global Surge: Hardeep Puri",
-      "description": "Union Minister Hardeep Puri said petrol and diesel prices in India rose just 7% over four years, compared with a 50-70% global surge. He credited three excise duty cuts and oil companies for absorbing losses, while asserting that India had no LPG shortage.",
-      "url": "https://www.republicworld.com/india/petrol-diesel-prices-rose-just-7-in-india-over-four-years-against-50-70-global-surge-hardeep-puri-2026-11-22-141612",
-      "image": "https://img.republicworld.com/all_images/union-minister-hardeep-puri-1744022656122-16_9.webp",
-      "publishedAt": "2026-11-22T13:22:07Z",
-      "source": {
-        "name": "Republic World"
-      }
-    },
-    {
-      "title": "Petrol, diesel prices rose 7% in India vs 50-70% globally over four years: Hardeep Puri",
-      "description": "Union Minister Hardeep Singh Puri announced that fuel prices in India have risen by just 7% over four years. The government implemented three reductions in central excise duty, helping maintain stable prices. Puri criticized rumors of an LPG shortage, emphasizing increased domestic production of LPG. Challenges from international conflicts and geopolitical tensions still persist, affecting the crude oil market.",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-prices-rose-7-in-india-vs-50-70-globally-over-four-years-hardeep-puri/articleshow/136075385.cms",
-      "image": "https://img.etimg.com/thumb/msid-136075383,width-1200,height-900,imgsize-73732,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-22T13:22:00Z",
+      "title": "Sensex surges over 8,200 pts in Nov. Should you book partial profits & move to safer assets or stay invested?",
+      "description": "With the BSE Sensex surging significantly in November, investors are contemplating profit booking or continued investment. Experts advise those needing funds soon to shift to safer assets, while long-term investors should stay committed. Recent foreign investments and declining crude oil prices contributed to the market rally. Concerns regarding potential corrections due to rising valuations and inflation are also present.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/sensex-surges-over-8200-pts-in-nov-should-you-book-partial-profits-move-to-safer-assets-or-stay-invested/articleshow/136089320.cms",
+      "image": "https://img.etimg.com/thumb/msid-136089408,width-1200,height-900,imgsize-1504260,overlay-etwealthmutualfunds/articleshow.jpg",
+      "publishedAt": "2026-11-23T04:36:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Man Arrested For Setting Ex-Girlfriend's Flat On Fire In Dombivli",
-      "description": "Accused Allegedly Poured Petrol On Door After Woman Ended Seven-Year Relationship; Family Escapes Unhurt",
-      "url": "https://www.deccanchronicle.com/nation/crime/man-arrested-for-setting-ex-girlfriends-flat-on-fire-in-dombivli-2006883",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/10/11/2110896-crime.jpg",
-      "publishedAt": "2026-11-22T13:07:03Z",
+      "title": "India's fuel prices rose 7% against global surge of up to 70%: Puri",
+      "description": "Hardeep Singh Puri says India's fuel prices rose around 7% against a 50-70% global surge, while petrol, diesel and LPG supplies remained uninterrupted.",
+      "url": "https://www.thehindubusinessline.com/economy/india-limited-fuel-price-rise-to-7-despite-global-surge-of-up-to-70-puri/article71733312.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/b4qd4o/article71733377.ece/alternates/LANDSCAPE_1200/Oil-Ministry-toGDDGQUDJS.4.jpg.jpg",
+      "publishedAt": "2026-11-23T04:29:48Z",
       "source": {
-        "name": "Deccan Chronicle"
+        "name": "The Hindu Business Line"
+      }
+    },
+    {
+      "title": "Sensex, Nifty 50 open higher as foreign inflows, easing oil prices lift sentiment",
+      "description": "The Nifty 50 rose 0.50% to 25,929.15, while the BSE Sensex gained 0.6% to 84,421.97 as of 9:15 am IST. | Business News",
+      "url": "https://www.hindustantimes.com/business/sensex-nifty-50-open-higher-as-foreign-inflows-easing-oil-prices-lift-sentiment-101795406049412.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/Sensex_nifty_crash_1773031716324_1773031716545_1795406196151_CJrb_038a76ba-6895-40cf-b8aa-3a0d2a115291_f4V5.jpg",
+      "publishedAt": "2026-11-23T03:54:48Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Modi govt shielded consumers from global fuel price shocks, limited hike to 7%: Hardeep Puri",
+      "description": "Rejecting Opposition allegations of petrol, diesel and LPG shortages amid the Iran conflict, Puri said fuel supplies remained uninterrupted across the country.",
+      "url": "https://www.newindianexpress.com/business/2026/Nov/23/modi-govt-shielded-consumers-from-global-fuel-price-shocks-limited-hike-to-7-hardeep-puri",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-10-28%2Fe7xs05nk%2FHardeep-Singh-Puri.png?rect=0%2C0%2C1200%2C630&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-23T03:40:40Z",
+      "source": {
+        "name": "The New Indian Express"
+      }
+    },
+    {
+      "title": "Oil prices fall as global market selloff weighs on sentiment; Gulf attacks limit losses",
+      "description": "Oil prices declined on Monday as a selloff in global financial markets spread to commodities, with concerns over the artificial intelligence sector's",
+      "url": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-fall-as-global-market-selloff-weighs-on-sentiment-gulf-attacks-limit-losses/articleshow/136088018.cms",
+      "image": "https://static.toiimg.com/thumb/msid-136088080,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-23T03:28:00Z",
+      "source": {
+        "name": "Times of India"
+      }
+    },
+    {
+      "title": "Gas prices dip in Arkansas as holiday travel revs up",
+      "description": "Wednesday is expected to be the busiest day for travel on Arkansas' highway system, with no lane closures planned across the state. At Bill and Hillary Clinton National Airport/Adams Field, a \"slight increase\" in departing air travelers is expected this week because of the Thanksgiving holiday.",
+      "url": "https://www.arkansasonline.com/news/2026/nov/22/gas-prices-dip-in-arkansas-holiday-travel-revs-up/",
+      "image": "https://wehco.media.clients.ellingtoncms.com/img/photos/2026/11/22/112026_HolidayTravel_1sv_crop_t1200.jpg?57a0c2296240c280e9492005c3cad63e7cbe80f4",
+      "publishedAt": "2026-11-23T03:00:00Z",
+      "source": {
+        "name": "Arkansas Online"
+      }
+    },
+    {
+      "title": "'Iranian Leaders Consider Democrats Weak': Trump Claims Tehran Intensified Drone And Missile Attacks After US Midterm Elections",
+      "description": "Donald Trump claimed Iran intensified drone and missile attacks after the November 3 midterm elections, alleging Tehran launched more attacks in a week than in over a year. He also linked falling oil prices and declining stock markets to the election outcome.",
+      "url": "https://www.freepressjournal.in/world/iranian-leaders-consider-democrats-weak-trump-claims-tehran-intensified-drone-and-missile-attacks-after-us-midterm-elections",
+      "image": "https://media.assettype.com/freepressjournal/2024-07/f6bbb21e-9d9c-4fd1-8b3e-218e540477b8/trump pic.jpg",
+      "publishedAt": "2026-11-23T02:56:23Z",
+      "source": {
+        "name": "Free Press Journal"
+      }
+    },
+    {
+      "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+      "description": "Brent crude futures fell 28 cents, or 0.30%, to $92.29 a barrel by 0216 GMT. US West Texas Intermediate futures fell 15 cents, or 0.18%, to $83.26 a barrel. | World News",
+      "url": "https://www.hindustantimes.com/world-news/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-101795401587691.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/23/1600x900/logo/UKRAINE-CRISIS-USA-ENERGY-0_1645917509503_1795402199653_HPlm_5c968600-ff26-45c4-8491-9aef383b056c_cCad.JPG",
+      "publishedAt": "2026-11-23T02:53:01Z",
+      "source": {
+        "name": "Hindustan Times"
+      }
+    },
+    {
+      "title": "Oil prices fall amid equity selloff though Iran war attacks limit losses",
+      "description": "PERTH: Oil prices fell on Monday as the selloff in the wider financial markets amid concerns about the ability of the AI sector to boost economic growth spilled over into commodities, though the continuing attacks on Gulf shipping limited the losses.",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/23/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/23/4226592.jpeg",
+      "publishedAt": "2026-11-23T02:45:00Z",
+      "source": {
+        "name": "The Star"
       }
     }
   ]
