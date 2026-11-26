@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-25T16:26:54+00:00",
+  "updated_at": "2026-11-26T01:18:31+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Rupee jumps 23 paise to 92.62 against US dollar in early trade",
-      "description": "The rupee jumped 23 paise to 92.62 against the US dollar in early trade on Wednesday, buoyed by strong foreign-fund inflows amid a buying rush in domestic equity markets and sliding overseas crude oil prices",
-      "url": "https://www.greaterkashmir.com/business/rupee-jumps-23-paise-to-9262-against-us-dollar-in-early-trade-12839237",
-      "image": "https://img-cdn.publive.online/fit-in/1200x675/greater-kashmir/media/media_files/wp-content/uploads/2024/08/rupee-dollar-trade.jpg",
-      "publishedAt": "2026-11-25T04:24:19Z",
+      "title": "Cheeky flamingo breaks out of Paignton zoo for late-night trip to Morrisons petrol station",
+      "description": "The bird was eventually caught outside a Spar shop",
+      "url": "https://www.devonlive.com/news/devon-news/cheeky-flamingo-breaks-out-paignton-11255194",
+      "image": "https://i2-prod.devonlive.com/article11255225.ece/ALTERNATES/s1200d/0_flaming.jpg",
+      "publishedAt": "2026-11-25T13:08:36Z",
       "source": {
-        "name": "Greater Kashmir"
+        "name": "Devon Live"
       }
     },
     {
-      "title": "US data centre boom to drive power, natural gas demand through 2028: Goldman Sachs",
-      "description": "Goldman Sachs forecasts a sharp rise in US data-centre capacity, with an additional 52 GW expected by 2028, driven by growing AI infrastructure demand. This expansion could increase electricity consumption, tighten power markets and boost natural gas prices. However, tighter regulations following midterm election results may moderate future data-centre development.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-data-centre-boom-to-drive-power-natural-gas-demand-through-2028-goldman-sachs/articleshow/136147594.cms",
-      "image": "https://img.etimg.com/thumb/msid-136147635,width-1200,height-900,imgsize-278234,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-25T04:04:00Z",
+      "title": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO",
+      "description": "The Reserve Bank of India is projected to implement a 0.25 percent interest rate hike in December. While decreasing crude oil prices could alleviate some inflation worries, many senior executives advocate for a measured strategy due to the prevailing economic climate. Nevertheless, concerns regarding food inflation and supply chain issues persist, adversely influencing overall forecasts.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-may-opt-for-25-bps-rate-hike-as-oil-eases-inflation-risks-persist-baroda-bnp-paribas-mf-cio/articleshow/136162711.cms",
+      "image": "https://img.etimg.com/thumb/msid-136162838,width-1200,height-900,imgsize-113464,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-25T13:06:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Sensex gains 1,500 pts, Nifty near 25,800: Lower crude prices among key factors behind market rise",
-      "description": "Crude oil prices declined on Wednesday amid rising supplies and expectations of a market surplus, reversing some of the gains from the previous session.",
-      "url": "https://www.moneycontrol.com/news/business/markets/sensex-gains-1-500-pts-nifty-near-25-800-lower-crude-prices-among-key-factors-behind-market-rise-14088394.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261107032341_sensex_nifty-marketup_sensexup-Niftyup.jpg",
-      "publishedAt": "2026-11-25T04:03:30Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Crude oil prices fall 1.5% as supply glut fears offset Middle East disruption tensions; Brent below $88, WTI near $81",
-      "description": "Brent crude futures slipped 1.40 percent to $87.54 a barrel after settling above $91 on Monday. US West Texas Intermediate (WTI) crude futures for January delivery fell 1.56 percent to $80.77 a barrel.",
-      "url": "https://www.moneycontrol.com/news/business/markets/crude-oil-prices-fall-over-1-5-as-supply-glut-fears-offset-middle-east-disruption-tensions-brent-below-88-wti-near-81-14088392.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261105120153_Hormuz-New-13.jpg",
-      "publishedAt": "2026-11-25T03:58:57Z",
-      "source": {
-        "name": "Moneycontrol"
-      }
-    },
-    {
-      "title": "Sensex opens 1,400 points higher as foreign inflows, lower oil prices aid sentiment",
-      "description": "This comes after a sharp sell-off on Monday, when the benchmark indices fell 1.8% amid broad-based profit-taking following a four-week winning streak. | Business News",
-      "url": "https://www.hindustantimes.com/business/indian-markets-jump-as-foreign-inflows-lower-oil-prices-aid-sentiment-101795578649787.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/25/1600x900/sensex_nifty_50_1795579082719_j46n_1795579082852_zm9B_004c56ad-5f57-43c3-a686-e0d79f35d3be_AP7b.JPG",
-      "publishedAt": "2026-11-25T03:51:12Z",
-      "source": {
-        "name": "Hindustan Times"
-      }
-    },
-    {
-      "title": "Stock Market Today Sensex nifty 50 gift nifty gold rate silver price crude oil prices rupee",
-      "description": "Among sectors, Nifty Private Bank, Nifty IT, Nifty Oil & Gas, Nifty FMCG and Nifty Realty and Nifty Pharma indices saw most gains, while selling was seen in Nifty Metal and Nifty Media indices.",
-      "url": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-nifty-50-gift-nifty-gold-rate-silver-price-crude-oil-prices-rupee-12373345",
-      "image": "https://c.ndtvimg.com/2026-09/7ju5lkj8_bse_625x300_27_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-25T03:46:13Z",
+      "title": "This Toyota Can Run On 85% Ethanol: India's First Flex-Fuel Hybrid Priced At Rs 19.99 Lakh",
+      "description": "Toyota Kirloskar Motor has unveiled India's first flex-fuel strong hybrid vehicle, the Innova Hycross Flex Fuel, which can run on petrol as well as E85, a blend containing up to 85% ethanol.",
+      "url": "https://www.ndtvprofit.com/india/this-toyota-can-run-on-85-ethanol-indias-first-flex-fuel-hybrid-priced-at-rs-19-99-lakh-12376060",
+      "image": "https://c.ndtvimg.com/2026-11/jhogc1es_innova-hycross-flex-fuel_625x300_25_November_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-25T13:04:51Z",
       "source": {
         "name": "NDTV Profit"
       }
     },
     {
-      "title": "Fuel prices steady across major Indian cities November 25 2026",
-      "description": "Petrol and diesel prices remain steady across major Indian cities despite global crude oil fluctuations. New Delhi offers the lowest rates among the metros.",
-      "url": "https://www.newsbytesapp.com/news/india/fuel-prices-steady-across-major-indian-cities-november-25-2026/tldr",
-      "image": "https://i.cdn.newsbytesapp.com/images/l144_9391795574859.jpg",
-      "publishedAt": "2026-11-25T02:48:41Z",
+      "title": "Energy bills to increase by 26% from January as gas prices surge, Ofgem says",
+      "description": "The Ofgem price cap will rise by \u00a3443 per year \u2013 or almost \u00a337 per month \u2013 to \u00a32,166 for the average household. | ITV National News",
+      "url": "https://www.itv.com/news/2026-11-25/energy-bills-to-increase-by-26-from-january-as-gas-prices-surge-ofgem-says",
+      "image": "https://images.ctfassets.net/pjshm78m9jt4/embedded284900654/f63577ad58997f7057d5eb4068ba681f/importedImageembedded284900654?fm=jpg&fit=fill&f=faces&w=1600&h=900&q=80",
+      "publishedAt": "2026-11-25T13:01:07Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "ITV News"
       }
     },
     {
-      "title": "\u2018You can\u2019t predict it\u2019: Expert issues Christmas fuel warning as petrol prices plunge below $2",
-      "description": "Petrol is now at its cheapest level in more than two months across the country.",
-      "url": "https://7news.com.au/sunrise/you-cant-predict-it-expert-issues-christmas-fuel-warning-as-petrol-prices-plunge-below-2-c-23210547",
-      "image": "https://images.7news.com.au/publication/C-23210547/0101dbc92074c6c78bc9009234ff970770b40b8f-16x9-x0y0w1280h720.png?imwidth=1200",
-      "publishedAt": "2026-11-25T02:48:20Z",
+      "title": "BSE, Eternal, Titan, SBI among 18 Nifty 50 stocks that rallied 10-43% in 2026; what's driving gains?",
+      "description": "Indian equities rebounded in November as lower oil prices, stronger earnings and renewed foreign investment improved sentiment. Eighteen Nifty 50 stocks rose 10% to 43% in 2026, led by BSE, while the index climbed 12% in November.",
+      "url": "https://www.livemint.com/market/stock-market-news/bse-eternal-titan-sbi-among-18-nifty-50-stocks-that-rallied-10-43-in-2026-whats-driving-gains-11795607425766.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/25/1600x900/logo/Bullish_Nifty_50_1795608775904_AHdb_1795608781663_gvt5_d0d80d65-bd7d-4eef-8a34-99b141461a3c_EAWy.png",
+      "publishedAt": "2026-11-25T12:28:30Z",
       "source": {
-        "name": "7NEWS Australia"
+        "name": "Livemint"
       }
     },
     {
-      "title": "Indian stock markets poised for higher open amid foreign inflows",
-      "description": "Indian shares are poised to open higher on Wednesday, buoyed by continued foreign investor inflows and easing crude oil prices, despite concerns over potential US tariffs.",
-      "url": "https://www.newsbytesapp.com/news/business/indian-stock-markets-poised-for-higher-open-amid-foreign-inflows/tldr",
-      "image": "https://i.cdn.newsbytesapp.com/images/l144_4431795574603.jpg",
-      "publishedAt": "2026-11-25T02:44:26Z",
+      "title": "Inflation remains stubbornly high, despite a drop in gas prices",
+      "description": "The Commerce Department said Wednesday that consumer prices rose 3.8% in October from a year earlier, up from 3.6% in September.",
+      "url": "https://www.pbs.org/newshour/economy/inflation-remains-stubbornly-high-despite-a-drop-in-gas-prices",
+      "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/10/2026-10-13T115929Z_1975799229_RC2C3IAOZ993_RTRMADP_3_ALBERTSONS-OUTLOOK-1024x683.jpg",
+      "publishedAt": "2026-11-25T12:01:18Z",
       "source": {
-        "name": "NewsBytes"
+        "name": "PBS News"
       }
     },
     {
-      "title": "Oil prices fall as supply glut concerns offset West Asia disruption fears",
-      "description": "Brent \u200bcrude futures fell 43 cents, or 0.5%, to $90.97 a barrel by 0137 GMT while US \u200cWest Texas Intermediate crude futures slipped 47 cents, or 0.6%, to $81.58 a barrel",
-      "url": "https://www.business-standard.com/markets/commodities/oil-prices-fall-as-supply-glut-concerns-offset-west-asia-disruption-fears-126112500071_1.html",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/16/thumb/fitandfill/1200X628/1789530519-2842.jpg",
-      "publishedAt": "2026-11-25T02:38:47Z",
+      "title": "How are you affording the holidays?",
+      "description": "After a year of high gas prices, inflation ticking back up and a lot of Americans feeling pessimistic about the economy, we want to know how people are affording the annual wave of holiday gifts, travel and entertainment costs.",
+      "url": "https://www.nbcnews.com/news/us-news/holidays-affording-presents-spending-rcna610963",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261123-gift-present-vl-321p-2fcbad.jpg",
+      "publishedAt": "2026-11-25T12:00:00Z",
       "source": {
-        "name": "Business Standard"
+        "name": "NBC News"
+      }
+    },
+    {
+      "title": "UK Energy Price Cap Jumps 26% in January, Highest Since 2023",
+      "description": "Ofgem will lift the UK energy price cap 26% from January 1 as the Middle East war keeps gas prices high, pushing bills to their highest since 2023.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Energy-Price-Cap-Jumps-26-in-January-Highest-Since-2023.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-25_minblvxoqj.jpg",
+      "publishedAt": "2026-11-25T12:00:00Z",
+      "source": {
+        "name": "OilPrice"
+      }
+    },
+    {
+      "title": "7 factors driving D-Street rally: Sensex, Nifty close with 2% gains, Rupee at 8-mth high",
+      "description": "Stock market today: Sensex jumps 1,502 points and Nifty gains 470 points. Falling crude oil prices, FII buying and a stronger rupee drive Dalal Street's rally.",
+      "url": "https://www.financialexpress.com/market/7-factors-driving-d-street-rally-sensex-nifty-close-with-2-gains-rupee-at-8-mth-high-4393574/",
+      "image": "https://images.financialexpressdigital.com/2026/11/niftyrally_20261125114208.jpg",
+      "publishedAt": "2026-11-25T11:48:25Z",
+      "source": {
+        "name": "The Financial Express"
+      }
+    },
+    {
+      "title": "month high after holiday as foreign flows to Indian equities persist",
+      "description": "The Indian rupee climbed to an eight-month high, driven by strong foreign inflows to India stock market, softer oil prices, and improved dollar supply.",
+      "url": "https://www.cnbctv18.com/market/rupee-scales-8-month-high-after-holiday-as-foreign-flows-to-indian-equities-persist-20041282.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/2013-07-05t120000z-178682934-gm1e9751if601-rtrmadp-3-india-rupee-2026-11-bd7aafa64680c4ce125375f4e6d23071.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-25T11:32:14Z",
+      "source": {
+        "name": "CNBC TV18"
       }
     }
   ]
