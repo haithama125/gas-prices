@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-27T01:16:48+00:00",
+  "updated_at": "2026-11-27T15:49:06+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "India Bonds Plummet as Oil Prices Surge Above $95, RBI Warns of Food Inflation",
-      "description": "Indian government bonds decline sharply as Brent crude oil exceeds $95 per barrel, raising concerns over inflation and the upcoming RBI monetary policy decision.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms",
-      "image": "https://img.etimg.com/thumb/msid-136193356,width-1200,height-900,imgsize-190570,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-26T13:11:00Z",
+      "title": "Stockton gas station continues Thanksgiving tradition of lowering prices: \"Lowest from Sacramento to Fresno\"",
+      "description": "Average gas prices in California are $5.38, according to AAA. At Ernie's, it's $4.69 with cash. Ernie said that's the lowest from Sacramento to Fresno.",
+      "url": "https://www.cbsnews.com/sacramento/news/stockton-ernies-gas-station-thanksgiving-lower-prices/",
+      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/27/4f9ab12a-3a78-46d2-921c-4c0d58b76cfb/thumbnail/1200x630/b65f925ef3ffece83b1bbea76b9e2c27/snapshot-1.jpg",
+      "publishedAt": "2026-11-27T03:41:01Z",
+      "source": {
+        "name": "CBS News"
+      }
+    },
+    {
+      "title": "GIFT Nifty falls, signals muted start for Sensex, Nifty today even as Asian markets gain, FII buying continues",
+      "description": "GIFT Nifty fell on Friday morning, and was trading with mild losses, signalling a muted start for benchmark Sensex and Nifty. Sustained FII buying amid the unwinding of the global AI trade continues to support domestic equities, although elevated crude oil prices remain a concern.",
+      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-falls-signals-muted-start-for-sensex-nifty-today-even-as-asian-markets-gain-fii-buying-continues-14089980.html",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924091528_fall1.jpeg",
+      "publishedAt": "2026-11-27T02:57:10Z",
+      "source": {
+        "name": "Moneycontrol"
+      }
+    },
+    {
+      "title": "Rupee rally faces oil test; inflows, positive sentiment provide cushion",
+      "description": "MUMBAI, Nov 27 - The Indian rupee's recent rally faces a fresh test from rising oil prices, though sustained foreign inflows and positive sentiment towards local assets are expected to help cushion...",
+      "url": "https://www.marketscreener.com/news/rupee-rally-faces-oil-test-inflows-positive-sentiment-provide-cushion-ce7851d9db8bfe21",
+      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-25T103339Z_1_LYNXNPEMAO0RL_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
+      "publishedAt": "2026-11-27T02:48:13Z",
+      "source": {
+        "name": "MarketScreener"
+      }
+    },
+    {
+      "title": "Oil Price Today (November 27): Brent crude above $96 as Houthis target Saudi refinery in fresh attack. What are experts saying?",
+      "description": "Crude oil price : Crude oil prices are slightly lower as they remain above the $96 mark during Friday trading. The decline follows recent attacks on Saudi Arabian oil refineries that raised concerns about supply disruptions. An attack in Jazan resulted in the death of a worker and the halting of operations. Goldman Sachs predicts a considerable rise in oil prices amid ongoing geopolitical tensions and potential production shortfalls.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-27-brent-crude-above-96-as-houthis-target-saudi-refinery-in-fresh-attack-what-are-experts-saying/articleshow/136207117.cms",
+      "image": "https://img.etimg.com/thumb/msid-136207214,width-1200,height-900,imgsize-85050,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-27T02:15:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
-      "description": "WTI crude oil prices rebounded from a three-month low as renewed Middle East supply fears and a smaller-than-expected U.S. inventory build offset concerns about a global surplus.",
-      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-26_9uwrvbophs.jpg",
-      "publishedAt": "2026-11-26T12:30:00Z",
+      "title": "Diesel, gasoline prices down for 4th straight week",
+      "description": "MANILA, Philippines \u2014 Diesel and gasoline prices are projected to decline again this week due to excess product supply and to the developments in the Middle East, local oil industry sources said on Friday.",
+      "url": "https://www.manilatimes.net/2026/11/27/news/diesel-gasoline-prices-down-for-4th-straight-week/2478844",
+      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/11/27/1326795.jpg",
+      "publishedAt": "2026-11-27T01:57:00Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Manila Times"
       }
     },
     {
-      "title": "Nifty surges over 12% in November, eyes biggest monthly gain in six years; BSE, Eternal, Trent among top gainers",
-      "description": "The Nifty 50 has rebounded 12.3% in November, putting it on track for its strongest monthly gain since April 2020. Lower oil prices, changing global AI investment sentiment and improved earnings prospects have supported the recovery, while foreign investors have returned to Indian equities.",
-      "url": "https://www.livemint.com/market/stock-market-news/nifty-surges-over-12-in-november-eyes-biggest-monthly-gain-in-six-years-bse-eternal-trent-among-top-gainers-11795694066553.html",
-      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/NSE_bulls_1795694436342_qB5M_1795694444853_yaos_5b5763b9-e5a8-4d45-9061-800e556ba44b_wZog.png",
-      "publishedAt": "2026-11-26T12:20:20Z",
+      "title": "Nissan Terrano: Likely Australia-bound rugged off-roader detailed in China",
+      "description": "Nissan Australia is keen on the new body-on-frame Terrano SUV from China, and it'll be offered in its home market with petrol, diesel and plug-in hybrid power.",
+      "url": "https://www.perthnow.com.au/lifestyle/motoring/nissan-terrano-likely-australia-bound-rugged-off-roader-detailed-in-china-c-23220715",
+      "image": "https://images.perthnow.com.au/publication/C-23220715/6d0d21318b6b3a62ceb7765d58df754bfe9171dd-16x9-x0y40w765h430.jpg?imwidth=1200",
+      "publishedAt": "2026-11-27T01:55:46Z",
       "source": {
-        "name": "Livemint"
+        "name": "PerthNow"
       }
     },
     {
-      "title": "India's GDP growth likely slowed to 7.6% in Q2FY27, India Ratings projects",
-      "description": "India's economy has experienced a growth of 7.6% year-on-year in the July-September quarter of FY27. This growth was primarily fueled by investment, even with challenges posed by El Nino and high oil prices. While private consumption slightly decreased to 6.8%, gross fixed capital formation rose significantly, suggesting strong investment activity. Future consumption may face pressures due to factors like tighter monetary conditions and El Nino impacts.",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-growth-likely-slowed-to-7-6-in-q2fy27-india-ratings-projects/articleshow/136190972.cms",
-      "image": "https://img.etimg.com/thumb/msid-136191572,width-1200,height-900,imgsize-246098,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-26T12:20:00Z",
+      "title": "Nissan Terrano: Likely Australia-bound rugged off-roader detailed in China",
+      "description": "Nissan Australia is keen on the new body-on-frame Terrano SUV from China, and it'll be offered in its home market with petrol, diesel and plug-in hybrid power.",
+      "url": "https://7news.com.au/motoring/nissan-terrano-likely-australia-bound-rugged-off-roader-detailed-in-china-c-23220714",
+      "image": "https://images.7news.com.au/publication/C-23220714/6d0d21318b6b3a62ceb7765d58df754bfe9171dd-16x9-x0y40w765h430.jpg?imwidth=1200",
+      "publishedAt": "2026-11-27T01:55:46Z",
+      "source": {
+        "name": "7NEWS Australia"
+      }
+    },
+    {
+      "title": "Gift Nifty, Oil Prices To Iran War; Five Key Factors That May Drive Sensex, Nifty 50 On November 27",
+      "description": "Asian markets traded higher, while the US stock futures gained. However, rising crude oil prices may weigh on investor sentiment.",
+      "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-oil-prices-to-iran-war-five-key-factors-that-may-drive-sensex-nifty-50-on-november-27-12382759",
+      "image": "https://c.ndtvimg.com/2026-09/3g9lohtc_bse-building-photo-pti_625x300_22_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "publishedAt": "2026-11-27T01:28:15Z",
+      "source": {
+        "name": "NDTV Profit"
+      }
+    },
+    {
+      "title": "10-year bond yield range-bound ahead of RBI policy amid data uncertainty",
+      "description": "Government bond yields have remained stable in a narrow range this week amidst conflicting data inputs. Traders are cautious ahead of the upcoming monetary policy decision due to potential volatility. A rate hike by the Reserve Bank of India is already anticipated, which could push yields higher. Crude oil prices have increased recently, raising concerns over India's import bill and inflation.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-range-bound-ahead-of-rbi-policy-amid-data-uncertainty/articleshow/136206473.cms",
+      "image": "https://img.etimg.com/thumb/msid-136206506,width-1200,height-900,imgsize-159086,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-27T01:26:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Fugitive flamingo escapes from zoo and goes on late-night trip to Morrisons",
-      "description": "The escaped bird was eventually caught outside a Spar shop after a visit to a Morrisons petrol station which left motorists scratching their heads",
-      "url": "https://www.dailystar.co.uk/news/latest-news/fugitive-flamingo-escapes-zoo-goes-37917933",
-      "image": "https://i2-prod.dailystar.co.uk/article37917932.ece/ALTERNATES/s1200d/2_flaming.jpg",
-      "publishedAt": "2026-11-26T12:19:00Z",
+      "title": "Japan, South Korea indices rise: Asian markets extend gains as AI stocks rebound",
+      "description": "Asian equities extended their rebound as investors returned to artificial intelligence stocks, while Tokyo inflation rose and oil prices climbed following attac",
+      "url": "https://www.cnbctv18.com/market/asian-markets-share-price-nikkei-kospi-ai-stocks-rebound-tokyo-inflation-bank-of-japan-rate-hike-20042538.htm",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/image-2026-11-d92eb3838bec9385b8c10054feb86a2d.jpg?im=FitAndFill,width=1200,height=675",
+      "publishedAt": "2026-11-27T01:18:59Z",
       "source": {
-        "name": "The daily Star"
-      }
-    },
-    {
-      "title": "Two safes stolen from Cornwall petrol station",
-      "description": "A cordon remains in place around the forecourt",
-      "url": "https://www.cornwalllive.com/news/cornwall-news/two-safes-stolen-cornwall-petrol-11256643",
-      "image": "https://i2-prod.cornwalllive.com/article11256595.ece/ALTERNATES/s1200d/0_IMG_3342.jpg",
-      "publishedAt": "2026-11-26T12:11:53Z",
-      "source": {
-        "name": "Cornwall Live"
-      }
-    },
-    {
-      "title": "Rupee weakens 24 paise to settle at 92.44 against US dollar",
-      "description": "MUMBAI, Nov 26: \u00a0The rupee settled 24 paise lower at 92.44 (provisional) against the US dollar on Thursday, facing resistance due to higher crude oil prices and fear of additional US tariffs. Forex traders said foreign fund inflows favoured the...",
-      "url": "https://www.dailyexcelsior.com/rupee-weakens-24-paise-to-settle-at-92-44-against-us-dollar/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTI0Y2E4ZDYwLWU5OTEtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
-      "publishedAt": "2026-11-26T12:01:41Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Egypt prosecutors announce arrest of man over deadly truck disaster",
-      "description": "Egyptian prosecutors announced on Thursday the arrest of a man accused of causing a massive fire that erupted when a fuel tanker overturned on a packed highway in Cairo, killing 31 people. The prosecution said the man had \"admitted\" to speeding when his car collided with the tanker, \"causing the steering wheel to slip from his hands and his car to veer off course\". When the car hit the truck, one of its tyres exploded, causing it to overturn, the prosecution said. The fire erupted as a result of a petrol leak, it added.",
-      "url": "https://www.al-monitor.com/index%2ephp/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8mm9ke.jpg?h=199d8c1f&itok=3bKVukC9",
-      "publishedAt": "2026-11-26T11:29:27Z",
-      "source": {
-        "name": "Al-Monitor"
-      }
-    },
-    {
-      "title": "Egypt prosecutors announce arrest of man over deadly truck disaster",
-      "description": "Egyptian prosecutors announced on Thursday the arrest of a man accused of causing a massive fire that erupted when a fuel tanker overturned on a packed highway in Cairo, killing 31 people. The prosecution said the man had \"admitted\" to speeding when his car collided with the tanker, \"causing the steering wheel to slip from his hands and his car to veer off course\". When the car hit the truck, one of its tyres exploded, causing it to overturn, the prosecution said. The fire erupted as a result of a petrol leak, it added.",
-      "url": "https://www.al-monitor.com/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
-      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8mm9ke.jpg?h=199d8c1f&itok=3bKVukC9",
-      "publishedAt": "2026-11-26T11:29:27Z",
-      "source": {
-        "name": "Al-Monitor"
-      }
-    },
-    {
-      "title": "Global stocks rebound after AI sell-off as investors assess Trump's tariffs, oil prices and inflation risks",
-      "description": "Global stocks recover after the AI sell-off as investors assess Trump's new tariffs, rising oil prices, inflation risks and possible trade retaliation.",
-      "url": "https://www.hindustantimes.com/world-news/us-news/global-stocks-rebound-after-ai-sell-off-as-investors-assess-trumps-tariffs-oil-prices-and-inflation-risks-101795689444252.html",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/USA-SEC-PRIVATE-CREDIT-2_1782398467377_17823984742_1795689482832_LtZy_1795689482954_TkZ6_38b8bfcd-5d18-45d6-8760-1dce1acb2771_f63f.JPG",
-      "publishedAt": "2026-11-26T11:24:26Z",
-      "source": {
-        "name": "Hindustan Times"
+        "name": "CNBC TV18"
       }
     }
   ]
