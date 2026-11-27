@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-26T15:59:59+00:00",
+  "updated_at": "2026-11-27T01:16:48+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "What Happens If Oil Falls Back To $45? Cameron Brandt Decodes On How India Stands To Benefit",
-      "description": ". India's foreign investment momentum could receive further support from easing oil prices and a shift in global attention towards AI applications. Cameron Brandt, however, cautions that a larger reallocation of global capital may not happen immediately.",
-      "url": "https://www.ndtvprofit.com/economy/what-happens-if-oil-falls-back-to-45-cameron-brandt-decodes-on-how-india-stands-to-benefit-12378532",
-      "image": "https://c.ndtvimg.com/2026-11/tu7iel2c_foreign-investors-return-to-india_625x300_26_November_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-26T03:56:52Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "Stock Market Today Sensex today nifty 50 gift nifty gold rate silver crude oil prices trump tariffs",
-      "description": "Among sectors, Nifty IT index rallied the most over 2%, followed by Nifty Metal, Nifty Realty and Nifty Private Bank indices. Selling was seen in Nifty FMCG, Nifty Auto and Nifty Media.",
-      "url": "https://www.ndtvprofit.com/markets/stock-market-today-sensex-today-nifty-50-gift-nifty-gold-rate-silver-crude-oil-prices-trump-tariffs-12378520",
-      "image": "https://c.ndtvimg.com/2026-10/2vhcs1b_bse-building_625x300_22_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-26T03:47:01Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "How replacing Delhi's non-BS-VI vehicles may cost owners close to Rs 76,000 crore",
-      "description": "NEW DELHI: Over 4 out of every 10 petrol cars registered in Delhi over the past 15 years fall in the below BS 6 category, while four out of every 10",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/how-replacing-delhis-non-bs-vi-vehicles-may-cost-owners-close-to-rs-76000-crore/articleshow/136177459.cms",
-      "image": "https://static.toiimg.com/thumb/msid-136177475,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-11-26T03:38:00Z",
-      "source": {
-        "name": "Times of India"
-      }
-    },
-    {
-      "title": "Oil Prices Rise After Houthis Claim Attack On Saudi Refinery",
-      "description": "Oil Prices Rise After Houthis Claim Attack On Saudi Refinery, Economy, Times Now",
-      "url": "https://www.timesnownews.com/business-economy/economy/oil-prices-rise-after-houthis-claim-attack-on-saudi-refinery-article-156567678",
-      "image": "https://images.timesnownews.com/thumb/msid-156567690,thumbsize-2122172,width-1280,height-720,resizemode-75/156567690.jpg",
-      "publishedAt": "2026-11-26T03:35:07Z",
-      "source": {
-        "name": "Times Now"
-      }
-    },
-    {
-      "title": "Gold, silver prices on November 26: Check latest rates in Delhi, Mumbai, Kolkata, other cities",
-      "description": "Silver\u2019s uninterrupted 2025 bull run has hit a wall, with the metal surrendering more than half of its gains as surging crude oil prices and persistent inflation fears fuel expectations of further US interest rate hikes.",
-      "url": "https://www.businesstoday.in/personal-finance/story/gold-silver-prices-on-november-26-check-latest-rates-in-delhi-mumbai-kolkata-other-cities-569570-2026-11-26",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6b07a6a3af199-higher-interest-rates-remain-a-headwind-for-non-yielding-gold--with-markets-also-watching-global-eco-262522646-16x9.jpg",
-      "publishedAt": "2026-11-26T03:25:35Z",
-      "source": {
-        "name": "Business Today"
-      }
-    },
-    {
-      "title": "From worst to best currency: Rupee closes in on 91 to dollar as RBI steps in, FPIs stage record return",
-      "description": "The Reserve Bank of India\u2019s anti-speculation measures, the AI investment wobble, and cooling oil prices have led to the rupee appreciating by almost 3% so far in November.",
-      "url": "https://indianexpress.com/article/business/rupee-91-dollar-rbi-fpi-10978976/",
-      "image": "https://images.indianexpress.com/2026/11/rupee.jpg",
-      "publishedAt": "2026-11-26T02:56:18Z",
-      "source": {
-        "name": "The Indian Express"
-      }
-    },
-    {
-      "title": "Rupee has room to rally before RBI steps in, strategists say",
-      "description": "India's rupee is experiencing a notable rally against the dollar, driven by foreign equity inflows and decreasing oil prices. Analysts project the rupee may reach levels between 90 and 91 per dollar. The Reserve Bank of India is likely to hold off on purchasing dollars for now. Exporters have reduced forward dollar purchases, showing caution toward market fluctuations.",
-      "url": "https://economictimes.indiatimes.com/markets/forex/rupee-has-room-to-rally-before-rbi-steps-in-strategists-say/articleshow/136176673.cms",
-      "image": "https://img.etimg.com/thumb/msid-136176724,width-1200,height-900,imgsize-65292,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-26T02:43:00Z",
+      "title": "India Bonds Plummet as Oil Prices Surge Above $95, RBI Warns of Food Inflation",
+      "description": "Indian government bonds decline sharply as Brent crude oil exceeds $95 per barrel, raising concerns over inflation and the upcoming RBI monetary policy decision.",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-tumble-as-brent-tops-95-per-barrel-rbi-flags-food-inflation-risks/articleshow/136193320.cms",
+      "image": "https://img.etimg.com/thumb/msid-136193356,width-1200,height-900,imgsize-190570,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-26T13:11:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Buy BPCL, IOCL shares as crude oil prices fall, risk reward favourable, says Jefferies",
-      "description": "BPCL and IOC stocks are down 20-22 per cent since the start of the West Asia conflict and have not responded to the improving profitability outlook, the global investment bank said.",
-      "url": "https://www.businesstoday.in/markets/stocks/story/buy-bpcl-iocl-shares-as-crude-oil-prices-fall-risk-reward-favourable-says-jefferies-569567-2026-11-26",
-      "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202611/6b079bdf7dd72-hpcl-has-rallied-sharply-in-the-past-month-and-trades-14-per-cent-above-its-long-term-average-jeffe-263926366-16x9.png",
-      "publishedAt": "2026-11-26T02:41:26Z",
+      "title": "Oil Prices Rebound as Middle East Supply Fears Return",
+      "description": "WTI crude oil prices rebounded from a three-month low as renewed Middle East supply fears and a smaller-than-expected U.S. inventory build offset concerns about a global surplus.",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Rebound-as-Middle-East-Supply-Fears-Return.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x675/2026-11-26_9uwrvbophs.jpg",
+      "publishedAt": "2026-11-26T12:30:00Z",
       "source": {
-        "name": "Business Today"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "Best time to buy USD as Rupee gains 4.27% against USD? How much money you can save on $10,000 overseas remittances and expenses",
-      "description": "INR-$USD exchange rate: The Indian rupee's value against the US dollar has increased significantly since early November. Influencing factors include foreign investment, lower crude oil prices, and higher interest rates from the RBI. As a result of this change, various transactions in US dollars have become cheaper for consumers. Experts suggest that this trend may not continue indefinitely, urging caution in financial planning.",
-      "url": "https://economictimes.indiatimes.com/wealth/save/best-time-to-buy-usd-as-rupee-gains-4-27-against-usd-how-much-money-you-can-save-on-rs-10000-overseas-remittances-and-expenses/articleshow/136165761.cms",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-1253923,resizemode-75,msid-136165761/wealth/save/best-time-to-buy-usd-as-rupee-gains-4-27-against-usd-how-much-money-you-can-save-on-rs-10000-overseas-remittances-and-expenses.jpg",
-      "publishedAt": "2026-11-26T02:30:00Z",
+      "title": "Nifty surges over 12% in November, eyes biggest monthly gain in six years; BSE, Eternal, Trent among top gainers",
+      "description": "The Nifty 50 has rebounded 12.3% in November, putting it on track for its strongest monthly gain since April 2020. Lower oil prices, changing global AI investment sentiment and improved earnings prospects have supported the recovery, while foreign investors have returned to Indian equities.",
+      "url": "https://www.livemint.com/market/stock-market-news/nifty-surges-over-12-in-november-eyes-biggest-monthly-gain-in-six-years-bse-eternal-trent-among-top-gainers-11795694066553.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/26/1600x900/logo/NSE_bulls_1795694436342_qB5M_1795694444853_yaos_5b5763b9-e5a8-4d45-9061-800e556ba44b_wZog.png",
+      "publishedAt": "2026-11-26T12:20:20Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "India's GDP growth likely slowed to 7.6% in Q2FY27, India Ratings projects",
+      "description": "India's economy has experienced a growth of 7.6% year-on-year in the July-September quarter of FY27. This growth was primarily fueled by investment, even with challenges posed by El Nino and high oil prices. While private consumption slightly decreased to 6.8%, gross fixed capital formation rose significantly, suggesting strong investment activity. Future consumption may face pressures due to factors like tighter monetary conditions and El Nino impacts.",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-gdp-growth-likely-slowed-to-7-6-in-q2fy27-india-ratings-projects/articleshow/136190972.cms",
+      "image": "https://img.etimg.com/thumb/msid-136191572,width-1200,height-900,imgsize-246098,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-26T12:20:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Oil Price Today (November 26): Brent crude rises to $95 as fresh attacks renew supply fears. What are experts saying?",
-      "description": "Crude oil price : Oil prices surged amid rising tensions in West Asia, particularly following the Houthi attacks on Saudi Arabia's Ras Tanura oil export hub. Iran's Revolutionary Guards Navy raised alarms about naval mines endangering tankers in the Strait of Hormuz. Financial giants Goldman Sachs and JPMorgan urged caution, noting that ongoing geopolitical strife could dramatically affect oil supply and lead to price volatility in global markets.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-26-brent-crude-rises-to-95-as-fresh-attacks-renew-supply-fears-what-are-experts-saying/articleshow/136176331.cms",
-      "image": "https://img.etimg.com/thumb/msid-136176365,width-1200,height-900,imgsize-79022,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-26T02:13:00Z",
+      "title": "Fugitive flamingo escapes from zoo and goes on late-night trip to Morrisons",
+      "description": "The escaped bird was eventually caught outside a Spar shop after a visit to a Morrisons petrol station which left motorists scratching their heads",
+      "url": "https://www.dailystar.co.uk/news/latest-news/fugitive-flamingo-escapes-zoo-goes-37917933",
+      "image": "https://i2-prod.dailystar.co.uk/article37917932.ece/ALTERNATES/s1200d/2_flaming.jpg",
+      "publishedAt": "2026-11-26T12:19:00Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "The daily Star"
+      }
+    },
+    {
+      "title": "Two safes stolen from Cornwall petrol station",
+      "description": "A cordon remains in place around the forecourt",
+      "url": "https://www.cornwalllive.com/news/cornwall-news/two-safes-stolen-cornwall-petrol-11256643",
+      "image": "https://i2-prod.cornwalllive.com/article11256595.ece/ALTERNATES/s1200d/0_IMG_3342.jpg",
+      "publishedAt": "2026-11-26T12:11:53Z",
+      "source": {
+        "name": "Cornwall Live"
+      }
+    },
+    {
+      "title": "Rupee weakens 24 paise to settle at 92.44 against US dollar",
+      "description": "MUMBAI, Nov 26: \u00a0The rupee settled 24 paise lower at 92.44 (provisional) against the US dollar on Thursday, facing resistance due to higher crude oil prices and fear of additional US tariffs. Forex traders said foreign fund inflows favoured the...",
+      "url": "https://www.dailyexcelsior.com/rupee-weakens-24-paise-to-settle-at-92-44-against-us-dollar/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTI0Y2E4ZDYwLWU5OTEtMTFmMS05NjM3LTViY2YwYzFjMTk4YS5qcGc=",
+      "publishedAt": "2026-11-26T12:01:41Z",
+      "source": {
+        "name": "Daily Excelsior"
+      }
+    },
+    {
+      "title": "Egypt prosecutors announce arrest of man over deadly truck disaster",
+      "description": "Egyptian prosecutors announced on Thursday the arrest of a man accused of causing a massive fire that erupted when a fuel tanker overturned on a packed highway in Cairo, killing 31 people. The prosecution said the man had \"admitted\" to speeding when his car collided with the tanker, \"causing the steering wheel to slip from his hands and his car to veer off course\". When the car hit the truck, one of its tyres exploded, causing it to overturn, the prosecution said. The fire erupted as a result of a petrol leak, it added.",
+      "url": "https://www.al-monitor.com/index%2ephp/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8mm9ke.jpg?h=199d8c1f&itok=3bKVukC9",
+      "publishedAt": "2026-11-26T11:29:27Z",
+      "source": {
+        "name": "Al-Monitor"
+      }
+    },
+    {
+      "title": "Egypt prosecutors announce arrest of man over deadly truck disaster",
+      "description": "Egyptian prosecutors announced on Thursday the arrest of a man accused of causing a massive fire that erupted when a fuel tanker overturned on a packed highway in Cairo, killing 31 people. The prosecution said the man had \"admitted\" to speeding when his car collided with the tanker, \"causing the steering wheel to slip from his hands and his car to veer off course\". When the car hit the truck, one of its tyres exploded, causing it to overturn, the prosecution said. The fire erupted as a result of a petrol leak, it added.",
+      "url": "https://www.al-monitor.com/originals/2026/11/egypt-prosecutors-announce-arrest-man-over-deadly-truck-disaster",
+      "image": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/000_d8mm9ke.jpg?h=199d8c1f&itok=3bKVukC9",
+      "publishedAt": "2026-11-26T11:29:27Z",
+      "source": {
+        "name": "Al-Monitor"
+      }
+    },
+    {
+      "title": "Global stocks rebound after AI sell-off as investors assess Trump's tariffs, oil prices and inflation risks",
+      "description": "Global stocks recover after the AI sell-off as investors assess Trump's new tariffs, rising oil prices, inflation risks and possible trade retaliation.",
+      "url": "https://www.hindustantimes.com/world-news/us-news/global-stocks-rebound-after-ai-sell-off-as-investors-assess-trumps-tariffs-oil-prices-and-inflation-risks-101795689444252.html",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/11/26/1600x900/logo/USA-SEC-PRIVATE-CREDIT-2_1782398467377_17823984742_1795689482832_LtZy_1795689482954_TkZ6_38b8bfcd-5d18-45d6-8760-1dce1acb2771_f63f.JPG",
+      "publishedAt": "2026-11-26T11:24:26Z",
+      "source": {
+        "name": "Hindustan Times"
       }
     }
   ]
