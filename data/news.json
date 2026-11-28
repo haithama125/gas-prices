@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-28T00:50:26+00:00",
+  "updated_at": "2026-11-28T14:44:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
-      "description": "Energy Aspects says depleted inventories will spark a 2027 stockpiling push led by China, supporting oil prices despite an expected market surplus.",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
-      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_96yllghgkx.jpg",
-      "publishedAt": "2026-11-27T12:30:00Z",
+      "title": "Trump wants Venezuela, Iraq out of OPEC: What it means for global oil prices",
+      "description": "The US encouraged Venezuela and Iraq to consider leaving OPEC and blocked Venezuela's membership fee, challenging the oil group's unity amid questions on its influence and production limits.",
+      "url": "https://www.financialexpress.com/business/news/trump-wants-venezuela-iraq-out-of-opec-what-it-means-for-global-oil-prices/4395161/",
+      "image": "https://images.financialexpressdigital.com/2026/11/oil.ai_.jpg",
+      "publishedAt": "2026-11-28T02:15:22Z",
       "source": {
-        "name": "OilPrice"
+        "name": "The Financial Express"
       }
     },
     {
-      "title": "Karnataka issues notice to IOCL over ethanol measurement discrepancies at Bengaluru terminal",
-      "description": "Karnataka issues IOCL a show-cause notice after inspections find excess ethanol delivery and short petrol supply at its Devanagonthi terminal near Bengaluru.",
-      "url": "https://www.thehindubusinessline.com/news/national/iocl-faces-karnataka-notice-after-inspection-finds-excess-ethanol-delivery-short-supply-of-petrol/article71750704.ece",
-      "image": "https://bl-i.thgim.com/public/incoming/vzn1ym/article71709577.ece/alternates/LANDSCAPE_1200/iStock-1466744855.jpg",
-      "publishedAt": "2026-11-27T12:28:15Z",
+      "title": "Govt vehicle drivers clash at Kasba petrol pump",
+      "description": "Kolkata Kasba petrol pump clash: KMC and Income Tax govt vehicle drivers fight over CNG refuelling; property damaged; police probe underway.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/govt-vehicle-drivers-clash-at-kasba-petrol-pump/articleshow/136231984.cms",
+      "image": "https://static.toiimg.com/thumb/msid-136231983,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "publishedAt": "2026-11-28T01:55:00Z",
       "source": {
-        "name": "The Hindu Business Line"
+        "name": "Times of India"
       }
     },
     {
-      "title": "Brent Crude for January Delivery Above $97 Per Barrel Since November 13 - Trading Data",
-      "description": "Global oil prices are rising on Friday, with the price of a barrel of Brent crude for January delivery climbing above $97 for the first time since November, according to trading data.",
-      "url": "https://sputnikglobe.com/20261127/brent-crude-for-january-delivery-above-97-per-barrel-since-november-13-trading-data-1125152180.html",
-      "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1125152180.jpg?10791425451795782396",
-      "publishedAt": "2026-11-27T12:26:00Z",
+      "title": "Petrol, diesel prices today: Check rates in Delhi, Mumbai, Noida and other cities on November 28",
+      "description": "Petrol and diesel prices remained largely stable on November 28, with Gurgaon and Noida recording cuts in both fuels. Meanwhile, Middle East tensions kept crude oil prices volatile, while high energy prices added \u20b96-7 lakh crore to India's annual burden.",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-check-rates-in-delhi-mumbai-noida-and-other-cities-on-november-28-11795828659760.html",
+      "image": "https://www.livemint.com/lm-img/img/2026/11/28/1600x900/logo/petrol_price_today_1795829027809_KQIx_1795829033309_Qmb7_477fffb4-4c77-493c-ba3c-a2a7ceb6e054_d5eA.png",
+      "publishedAt": "2026-11-28T01:25:55Z",
+      "source": {
+        "name": "Livemint"
+      }
+    },
+    {
+      "title": "US Black Friday online sales to cross $13 billion, Adobe says",
+      "description": "Nov 27 (Reuters) - US shoppers \u2060to spend above $13 billion online on Black Friday, \u2060according to Adobe Analytics data, as bargain-hunting consumers \u200clook past inflation and high gas prices.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/28/us-black-friday-online-sales-to-cross-13-billion-adobe-says",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/28/4235695.jpg",
+      "publishedAt": "2026-11-28T01:17:00Z",
+      "source": {
+        "name": "The Star"
+      }
+    },
+    {
+      "title": "Four-lane underpass on Bengaluru Old Airport Road to open to traffic by January 2027",
+      "description": "The remaining retaining wall construction towards HP Petrol Bunk side has been completed, and soil excavation and underground work is nearing completion.",
+      "url": "https://www.newindianexpress.com/cities/bengaluru/2026/Nov/28/four-lane-underpass-on-bengaluru-old-airport-road-to-open-to-traffic-by-january-2027",
+      "image": "https://cf-images.assettype.com/newindianexpress%2F2026-11-27%2Fixd9cv0m%2Funderpass-on.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-11-28T01:10:28Z",
+      "source": {
+        "name": "The New Indian Express"
+      }
+    },
+    {
+      "title": "Maine heating oil prices dip ahead of winter, but remain high",
+      "description": "The average statewide price for home heating oil is $5.46 per gallon.",
+      "url": "https://www.pressherald.com/2026/11/27/maine-heating-oil-prices-dip-ahead-of-winter-but-remain-high/",
+      "image": "https://www.pressherald.com/wp-content/uploads/sites/4/2026/10/20211013_heating-oil_6.jpg?w=780",
+      "publishedAt": "2026-11-28T00:46:06Z",
+      "source": {
+        "name": "Portland Press Herald"
+      }
+    },
+    {
+      "title": "Oil, gas prices fall as Brent trims weekly gains ahead of OPEC+ meeting",
+      "description": "Brent crude and European natural gas prices fell on Friday after a volatile week as traders weighed threats to Middle Eastern energy supplies against recovering Gulf oil shipments, Anadolu reports.\u2026",
+      "url": "https://www.middleeastmonitor.com/20261127-oil-gas-prices-fall-as-brent-trims-weekly-gains-ahead-of-opec-meeting/",
+      "image": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2017/11/2017_11-24-OPEC23795080_177127846244279_8314752045737027963_n.jpg?fit=920%2C613&ssl=1",
+      "publishedAt": "2026-11-27T19:50:00Z",
+      "source": {
+        "name": "Middle East Monitor"
+      }
+    },
+    {
+      "title": "EU Gas Prices to Continue Rising After Russian LNG Phase-Out Takes Effect - Gazprom",
+      "description": "Natural gas prices in Europe will continue to rise once the phase-out of Russian liquefied natural gas (LNG) takes effect in January, Gazprom department deputy head and division chief Kirill Polous said on Friday.",
+      "url": "https://sputnikglobe.com/20261127/eu-gas-prices-to-continue-rising-after-russian-lng-phase-out-takes-effect-gazprom-1125154026.html",
+      "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1125154026.jpg?10915737631795804845",
+      "publishedAt": "2026-11-27T18:40:00Z",
       "source": {
         "name": "Sputnik News"
       }
     },
     {
-      "title": "Crude oil prices near $97 as West Asia tensions revive supply fears; OPEC+ meeting in focus",
-      "description": "Crude oil rose to a near three-week high as attacks on energy infrastructure and shipping in West Asia revived concerns about supply disruptions. Brent traded near $97 a barrel ahead of Sundays OPEC+ meeting, where producers are expected to review their 2027 output strategy. Expectations of ample global supply continue to limit the rally.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms",
-      "image": "https://img.etimg.com/thumb/msid-136222262,width-1200,height-900,imgsize-57438,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-27T12:24:00Z",
+      "title": "Oil prices are again rising - here\u2019s why",
+      "description": "A fresh flare up in tensions in the Middle East is putting the brakes on oil\u2019s recent slide.",
+      "url": "https://www.cp24.com/news/world/2026/11/27/oil-prices-are-again-rising-heres-why/",
+      "image": "https://www.cp24.com/resizer/v2/PKAPV3HT75FLVOWE4HFU6IGGVQ.JPG?smart=true&auth=c39b88d277a68509945f6860a484daedb609c4aedd3b7969de72cb7712c31503&width=1200&height=630",
+      "publishedAt": "2026-11-27T18:33:10Z",
       "source": {
-        "name": "The Economic Times"
+        "name": "CP24 Toronto"
       }
     },
     {
-      "title": "Rupee nosedives 60 paise to settle at 92.98 against US dollar",
-      "description": "MUMBAI, Nov 27: \u00a0The rupee depreciated 60 paise to settle at 92.98 (provisional) against the US dollar on Friday, paring its recent gains, amid a surge in crude oil prices and a sharp fall in domestic equity markets. The local...",
-      "url": "https://www.dailyexcelsior.com/rupee-nosedives-60-paise-to-settle-at-92-98-against-us-dollar/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTEwN2FjYzUwLWVhNWMtMTFmMS05MzQzLTdiNzlkNDBmMWQ3OC5qcGc=",
-      "publishedAt": "2026-11-27T12:14:15Z",
+      "title": "Oil prices are again rising - here\u2019s why",
+      "description": "A fresh flare up in tensions in the Middle East is putting the brakes on oil\u2019s recent slide.",
+      "url": "https://www.bnnbloomberg.ca/markets/oil/2026/11/27/oil-prices-are-again-rising-heres-why/",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/PKAPV3HT75FLVOWE4HFU6IGGVQ.JPG?smart=true&auth=c39b88d277a68509945f6860a484daedb609c4aedd3b7969de72cb7712c31503&width=1200&height=630",
+      "publishedAt": "2026-11-27T18:33:10Z",
       "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "day rally; Sensex tanks 989 points amid profit booking",
-      "description": "MUMBAI, Nov 27: \u00a0Benchmark equity indices snapped their two-day rally on Friday, with the Sensex tumbling 989 points and the Nifty falling to 25,607, amid profit-taking in blue-chip IT stocks and HDFC Bank along with rising crude oil prices. The...",
-      "url": "https://www.dailyexcelsior.com/stock-markets-snap-2-day-rally-sensex-tanks-989-points-amid-profit-booking/",
-      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWU0ZDlhYjcwLWVhNWItMTFmMS05MzQzLTdiNzlkNDBmMWQ3OC5qcGc=",
-      "publishedAt": "2026-11-27T12:13:01Z",
-      "source": {
-        "name": "Daily Excelsior"
-      }
-    },
-    {
-      "title": "Market wrap: BEL, JSW Steel, Shriram Finance, Bajaj Auto top gainers and losers on Nifty and Sensex on Friday",
-      "description": "Sensex and Nifty snapped their four-week winning streak on Friday, falling over 1% each amid rising crude oil prices, a weaker rupee and higher bond yields. BEL and JSW Steel led the gainers, while Shriram Finance, Bajaj Auto and IT stocks featured among the biggest losers on benchmark indices.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms",
-      "image": "https://img.etimg.com/thumb/msid-136221692,width-1200,height-900,imgsize-254800,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-27T12:13:00Z",
-      "source": {
-        "name": "The Economic Times"
-      }
-    },
-    {
-      "title": "Sensex drops nearly 1,000 points as rising oil prices hit sentiment",
-      "description": "The Sensex declined 989.33 points, or 1.17 per cent, to close at 83,339.26, while the Nifty fell 277.30 points, or 1.07 per cent, to settle at 25,607.20.",
-      "url": "https://zeenews.india.com/business/article-sensex-drops-nearly-1000-points-as-rising-oil-prices-hit-sentiment-3163234",
-      "image": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7909-sensex-ani.jpg",
-      "publishedAt": "2026-11-27T11:44:56Z",
-      "source": {
-        "name": "Zee News"
-      }
-    },
-    {
-      "title": "Dalal Street weekly wrap: Sensex sheds 580 points; defence stocks outperform amid banking, IT sell-off",
-      "description": "Indian stock indices crashed on Friday as rising crude oil prices and anticipated repo rate hikes negatively impacted investor sentiment, leading to significant losses across Sensex and Nifty while defence stocks bucked the trend to surge.",
-      "url": "https://www.theweek.in/news/biz-tech/2026/11/27/dalal-street-weekly-wrap-sensex-sheds-580-points-defence-stocks-outperform-amid-banking-it-sell-off.html",
-      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/7/sensex-nifty-stock-down-shutterstock.jpg",
-      "publishedAt": "2026-11-27T11:42:57Z",
-      "source": {
-        "name": "THE WEEK"
-      }
-    },
-    {
-      "title": "Stock markets snap 2-day rally; Sensex tanks 989 points amid profit booking",
-      "description": "Market fall: Benchmark indices tumble in Mumbai as profit booking in heavyweights and rising crude oil prices wipe out recent gains.",
-      "url": "https://www.deccanherald.com/business/markets/stock-markets-snap-2-day-rally-sensex-tanks-989-points-amid-profit-booking-4233394",
-      "image": "https://media.assettype.com/deccanherald%2F2025-05-02%2Fkijn3qbh%2Fsensex_927873_1608093153.png?rect=0%2C23%2C610%2C320&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
-      "publishedAt": "2026-11-27T11:15:20Z",
-      "source": {
-        "name": "Deccan Herald"
+        "name": "Bnn Bloomberg"
       }
     }
   ]
