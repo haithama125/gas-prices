@@ -1,107 +1,107 @@
 {
-  "updated_at": "2026-11-27T15:49:06+00:00",
+  "updated_at": "2026-11-28T00:50:26+00:00",
   "source": "GNews",
   "source_url": "https://gnews.io/",
   "query": "\"gas prices\" OR \"gasoline prices\" OR \"oil prices\" OR petrol",
   "articles": [
     {
-      "title": "Stockton gas station continues Thanksgiving tradition of lowering prices: \"Lowest from Sacramento to Fresno\"",
-      "description": "Average gas prices in California are $5.38, according to AAA. At Ernie's, it's $4.69 with cash. Ernie said that's the lowest from Sacramento to Fresno.",
-      "url": "https://www.cbsnews.com/sacramento/news/stockton-ernies-gas-station-thanksgiving-lower-prices/",
-      "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/27/4f9ab12a-3a78-46d2-921c-4c0d58b76cfb/thumbnail/1200x630/b65f925ef3ffece83b1bbea76b9e2c27/snapshot-1.jpg",
-      "publishedAt": "2026-11-27T03:41:01Z",
+      "title": "Stockpiling Will Support Oil Prices in 2027, Energy Aspects Says",
+      "description": "Energy Aspects says depleted inventories will spark a 2027 stockpiling push led by China, supporting oil prices despite an expected market surplus.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Stockpiling-Will-Support-Oil-Prices-in-2027-Energy-Aspects-Says.html",
+      "image": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-11-27_96yllghgkx.jpg",
+      "publishedAt": "2026-11-27T12:30:00Z",
       "source": {
-        "name": "CBS News"
+        "name": "OilPrice"
       }
     },
     {
-      "title": "GIFT Nifty falls, signals muted start for Sensex, Nifty today even as Asian markets gain, FII buying continues",
-      "description": "GIFT Nifty fell on Friday morning, and was trading with mild losses, signalling a muted start for benchmark Sensex and Nifty. Sustained FII buying amid the unwinding of the global AI trade continues to support domestic equities, although elevated crude oil prices remain a concern.",
-      "url": "https://www.moneycontrol.com/news/business/markets/gift-nifty-falls-signals-muted-start-for-sensex-nifty-today-even-as-asian-markets-gain-fii-buying-continues-14089980.html",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260924091528_fall1.jpeg",
-      "publishedAt": "2026-11-27T02:57:10Z",
+      "title": "Karnataka issues notice to IOCL over ethanol measurement discrepancies at Bengaluru terminal",
+      "description": "Karnataka issues IOCL a show-cause notice after inspections find excess ethanol delivery and short petrol supply at its Devanagonthi terminal near Bengaluru.",
+      "url": "https://www.thehindubusinessline.com/news/national/iocl-faces-karnataka-notice-after-inspection-finds-excess-ethanol-delivery-short-supply-of-petrol/article71750704.ece",
+      "image": "https://bl-i.thgim.com/public/incoming/vzn1ym/article71709577.ece/alternates/LANDSCAPE_1200/iStock-1466744855.jpg",
+      "publishedAt": "2026-11-27T12:28:15Z",
       "source": {
-        "name": "Moneycontrol"
+        "name": "The Hindu Business Line"
       }
     },
     {
-      "title": "Rupee rally faces oil test; inflows, positive sentiment provide cushion",
-      "description": "MUMBAI, Nov 27 - The Indian rupee's recent rally faces a fresh test from rising oil prices, though sustained foreign inflows and positive sentiment towards local assets are expected to help cushion...",
-      "url": "https://www.marketscreener.com/news/rupee-rally-faces-oil-test-inflows-positive-sentiment-provide-cushion-ce7851d9db8bfe21",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images/reuters/2026-11/2026-11-25T103339Z_1_LYNXNPEMAO0RL_RTROPTP_4_INDIA-MARKETS-RUPEE.JPG",
-      "publishedAt": "2026-11-27T02:48:13Z",
+      "title": "Brent Crude for January Delivery Above $97 Per Barrel Since November 13 - Trading Data",
+      "description": "Global oil prices are rising on Friday, with the price of a barrel of Brent crude for January delivery climbing above $97 for the first time since November, according to trading data.",
+      "url": "https://sputnikglobe.com/20261127/brent-crude-for-january-delivery-above-97-per-barrel-since-november-13-trading-data-1125152180.html",
+      "image": "https://cdn.imgsputnikglobe.com/images/sharing/article/eng/1125152180.jpg?10791425451795782396",
+      "publishedAt": "2026-11-27T12:26:00Z",
       "source": {
-        "name": "MarketScreener"
+        "name": "Sputnik News"
       }
     },
     {
-      "title": "Oil Price Today (November 27): Brent crude above $96 as Houthis target Saudi refinery in fresh attack. What are experts saying?",
-      "description": "Crude oil price : Crude oil prices are slightly lower as they remain above the $96 mark during Friday trading. The decline follows recent attacks on Saudi Arabian oil refineries that raised concerns about supply disruptions. An attack in Jazan resulted in the death of a worker and the halting of operations. Goldman Sachs predicts a considerable rise in oil prices amid ongoing geopolitical tensions and potential production shortfalls.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-price-today-november-27-brent-crude-above-96-as-houthis-target-saudi-refinery-in-fresh-attack-what-are-experts-saying/articleshow/136207117.cms",
-      "image": "https://img.etimg.com/thumb/msid-136207214,width-1200,height-900,imgsize-85050,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-27T02:15:00Z",
+      "title": "Crude oil prices near $97 as West Asia tensions revive supply fears; OPEC+ meeting in focus",
+      "description": "Crude oil rose to a near three-week high as attacks on energy infrastructure and shipping in West Asia revived concerns about supply disruptions. Brent traded near $97 a barrel ahead of Sundays OPEC+ meeting, where producers are expected to review their 2027 output strategy. Expectations of ample global supply continue to limit the rally.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/crude-oil-prices-near-97-as-west-asia-tensions-revive-supply-fears-opec-meeting-in-focus/articleshow/136222227.cms",
+      "image": "https://img.etimg.com/thumb/msid-136222262,width-1200,height-900,imgsize-57438,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-27T12:24:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Diesel, gasoline prices down for 4th straight week",
-      "description": "MANILA, Philippines \u2014 Diesel and gasoline prices are projected to decline again this week due to excess product supply and to the developments in the Middle East, local oil industry sources said on Friday.",
-      "url": "https://www.manilatimes.net/2026/11/27/news/diesel-gasoline-prices-down-for-4th-straight-week/2478844",
-      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/11/27/1326795.jpg",
-      "publishedAt": "2026-11-27T01:57:00Z",
+      "title": "Rupee nosedives 60 paise to settle at 92.98 against US dollar",
+      "description": "MUMBAI, Nov 27: \u00a0The rupee depreciated 60 paise to settle at 92.98 (provisional) against the US dollar on Friday, paring its recent gains, amid a surge in crude oil prices and a sharp fall in domestic equity markets. The local...",
+      "url": "https://www.dailyexcelsior.com/rupee-nosedives-60-paise-to-settle-at-92-98-against-us-dollar/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTEwN2FjYzUwLWVhNWMtMTFmMS05MzQzLTdiNzlkNDBmMWQ3OC5qcGc=",
+      "publishedAt": "2026-11-27T12:14:15Z",
       "source": {
-        "name": "The Manila Times"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Nissan Terrano: Likely Australia-bound rugged off-roader detailed in China",
-      "description": "Nissan Australia is keen on the new body-on-frame Terrano SUV from China, and it'll be offered in its home market with petrol, diesel and plug-in hybrid power.",
-      "url": "https://www.perthnow.com.au/lifestyle/motoring/nissan-terrano-likely-australia-bound-rugged-off-roader-detailed-in-china-c-23220715",
-      "image": "https://images.perthnow.com.au/publication/C-23220715/6d0d21318b6b3a62ceb7765d58df754bfe9171dd-16x9-x0y40w765h430.jpg?imwidth=1200",
-      "publishedAt": "2026-11-27T01:55:46Z",
+      "title": "day rally; Sensex tanks 989 points amid profit booking",
+      "description": "MUMBAI, Nov 27: \u00a0Benchmark equity indices snapped their two-day rally on Friday, with the Sensex tumbling 989 points and the Nifty falling to 25,607, amid profit-taking in blue-chip IT stocks and HDFC Bank along with rising crude oil prices. The...",
+      "url": "https://www.dailyexcelsior.com/stock-markets-snap-2-day-rally-sensex-tanks-989-points-amid-profit-booking/",
+      "image": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYWU0ZDlhYjcwLWVhNWItMTFmMS05MzQzLTdiNzlkNDBmMWQ3OC5qcGc=",
+      "publishedAt": "2026-11-27T12:13:01Z",
       "source": {
-        "name": "PerthNow"
+        "name": "Daily Excelsior"
       }
     },
     {
-      "title": "Nissan Terrano: Likely Australia-bound rugged off-roader detailed in China",
-      "description": "Nissan Australia is keen on the new body-on-frame Terrano SUV from China, and it'll be offered in its home market with petrol, diesel and plug-in hybrid power.",
-      "url": "https://7news.com.au/motoring/nissan-terrano-likely-australia-bound-rugged-off-roader-detailed-in-china-c-23220714",
-      "image": "https://images.7news.com.au/publication/C-23220714/6d0d21318b6b3a62ceb7765d58df754bfe9171dd-16x9-x0y40w765h430.jpg?imwidth=1200",
-      "publishedAt": "2026-11-27T01:55:46Z",
-      "source": {
-        "name": "7NEWS Australia"
-      }
-    },
-    {
-      "title": "Gift Nifty, Oil Prices To Iran War; Five Key Factors That May Drive Sensex, Nifty 50 On November 27",
-      "description": "Asian markets traded higher, while the US stock futures gained. However, rising crude oil prices may weigh on investor sentiment.",
-      "url": "https://www.ndtvprofit.com/markets/stock-market-today-gift-nifty-oil-prices-to-iran-war-five-key-factors-that-may-drive-sensex-nifty-50-on-november-27-12382759",
-      "image": "https://c.ndtvimg.com/2026-09/3g9lohtc_bse-building-photo-pti_625x300_22_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
-      "publishedAt": "2026-11-27T01:28:15Z",
-      "source": {
-        "name": "NDTV Profit"
-      }
-    },
-    {
-      "title": "10-year bond yield range-bound ahead of RBI policy amid data uncertainty",
-      "description": "Government bond yields have remained stable in a narrow range this week amidst conflicting data inputs. Traders are cautious ahead of the upcoming monetary policy decision due to potential volatility. A rate hike by the Reserve Bank of India is already anticipated, which could push yields higher. Crude oil prices have increased recently, raising concerns over India's import bill and inflation.",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/10-year-bond-yield-range-bound-ahead-of-rbi-policy-amid-data-uncertainty/articleshow/136206473.cms",
-      "image": "https://img.etimg.com/thumb/msid-136206506,width-1200,height-900,imgsize-159086,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-11-27T01:26:00Z",
+      "title": "Market wrap: BEL, JSW Steel, Shriram Finance, Bajaj Auto top gainers and losers on Nifty and Sensex on Friday",
+      "description": "Sensex and Nifty snapped their four-week winning streak on Friday, falling over 1% each amid rising crude oil prices, a weaker rupee and higher bond yields. BEL and JSW Steel led the gainers, while Shriram Finance, Bajaj Auto and IT stocks featured among the biggest losers on benchmark indices.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-bel-jsw-steel-shriram-finance-bajaj-auto-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/136221692.cms",
+      "image": "https://img.etimg.com/thumb/msid-136221692,width-1200,height-900,imgsize-254800,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-11-27T12:13:00Z",
       "source": {
         "name": "The Economic Times"
       }
     },
     {
-      "title": "Japan, South Korea indices rise: Asian markets extend gains as AI stocks rebound",
-      "description": "Asian equities extended their rebound as investors returned to artificial intelligence stocks, while Tokyo inflation rose and oil prices climbed following attac",
-      "url": "https://www.cnbctv18.com/market/asian-markets-share-price-nikkei-kospi-ai-stocks-rebound-tokyo-inflation-bank-of-japan-rate-hike-20042538.htm",
-      "image": "https://images.cnbctv18.com/uploads/2026/11/image-2026-11-d92eb3838bec9385b8c10054feb86a2d.jpg?im=FitAndFill,width=1200,height=675",
-      "publishedAt": "2026-11-27T01:18:59Z",
+      "title": "Sensex drops nearly 1,000 points as rising oil prices hit sentiment",
+      "description": "The Sensex declined 989.33 points, or 1.17 per cent, to close at 83,339.26, while the Nifty fell 277.30 points, or 1.07 per cent, to settle at 25,607.20.",
+      "url": "https://zeenews.india.com/business/article-sensex-drops-nearly-1000-points-as-rising-oil-prices-hit-sentiment-3163234",
+      "image": "https://cdn-english.zeenews.com/sites/default/files/2026/11/27/7909-sensex-ani.jpg",
+      "publishedAt": "2026-11-27T11:44:56Z",
       "source": {
-        "name": "CNBC TV18"
+        "name": "Zee News"
+      }
+    },
+    {
+      "title": "Dalal Street weekly wrap: Sensex sheds 580 points; defence stocks outperform amid banking, IT sell-off",
+      "description": "Indian stock indices crashed on Friday as rising crude oil prices and anticipated repo rate hikes negatively impacted investor sentiment, leading to significant losses across Sensex and Nifty while defence stocks bucked the trend to surge.",
+      "url": "https://www.theweek.in/news/biz-tech/2026/11/27/dalal-street-weekly-wrap-sensex-sheds-580-points-defence-stocks-outperform-amid-banking-it-sell-off.html",
+      "image": "https://img.theweek.in/content/dam/week/en/archive/news/biz-tech/images/2026/8/7/sensex-nifty-stock-down-shutterstock.jpg",
+      "publishedAt": "2026-11-27T11:42:57Z",
+      "source": {
+        "name": "THE WEEK"
+      }
+    },
+    {
+      "title": "Stock markets snap 2-day rally; Sensex tanks 989 points amid profit booking",
+      "description": "Market fall: Benchmark indices tumble in Mumbai as profit booking in heavyweights and rising crude oil prices wipe out recent gains.",
+      "url": "https://www.deccanherald.com/business/markets/stock-markets-snap-2-day-rally-sensex-tanks-989-points-amid-profit-booking-4233394",
+      "image": "https://media.assettype.com/deccanherald%2F2025-05-02%2Fkijn3qbh%2Fsensex_927873_1608093153.png?rect=0%2C23%2C610%2C320&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+      "publishedAt": "2026-11-27T11:15:20Z",
+      "source": {
+        "name": "Deccan Herald"
       }
     }
   ]
